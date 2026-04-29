@@ -2,8 +2,11 @@ name: Refresh HerFixtures feeds
 
 on:
   schedule:
-    - cron: '0 6,18 * * *'  # Runs at 6am and 6pm UTC every day
-  workflow_dispatch:  # Allows manual trigger from GitHub
+    - cron: '0 6,18 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   refresh:
@@ -12,6 +15,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
