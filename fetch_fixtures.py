@@ -5,7 +5,8 @@ import pytz
 from pathlib import Path
 
 # ── Your API key ─────────────────────────────────────────────
-API_KEY = "b15e332eecmsh80382e2738af2f5p1131e7jsn0d4914c2f5b7"
+import os
+API_KEY = os.environ.get("RAPIDAPI_KEY", "b15e332eecmsh80382e2738af2f5p1131e7jsn0d4914c2f5b7")
 
 # ── Competitions to fetch ────────────────────────────────────
 COMPETITIONS = [

@@ -1,0 +1,35 @@
+name: Refresh HerFixtures feeds
+
+on:
+  schedule:
+    - cron: '0 6,18 * * *'  # Runs at 6am and 6pm UTC every day
+  workflow_dispatch:  # Allows manual trigger from GitHub
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests icalendar pytz
+
+      - name: Run fetch script
+        env:
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+        run: python fetch_fixtures.py
+
+      - name: Commit and push updated feeds
+        run: |
+          git config user.name "HerFixtures Bot"
+          git config user.email "bot@herfixtures.com"
+          git add womens_ucl.ics euroleague_women.ics
+          git diff --staged --quiet || git commit -m "Auto-refresh feeds"
+          git push
