@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/(.*\\.ics)",
+      "dest": "/$1",
+      "headers": {
+        "Content-Type": "text/calendar; charset=utf-8",
+        "Cache-Control": "public, max-age=43200"
+      }
+    }
+  ]
+}
