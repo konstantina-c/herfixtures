@@ -74,304 +74,6 @@ body {
   transition:background 0.4s, color 0.4s;
 }
 
-/* ── TOGGLE ─────────────────────────────────────────────── */
-.theme-bar {
-  position:fixed; top:20px; right:20px; z-index:200;
-  display:flex; align-items:center; gap:10px;
-  background:var(--card); border:1px solid var(--border2);
-  border-radius:100px; padding:8px 16px;
-  box-shadow:0 4px 24px rgba(0,0,0,0.2); transition:all 0.4s;
-}
-.theme-label { font-size:11px; font-weight:700; letter-spacing:0.1em; text-transform:uppercase; color:var(--muted); transition:color 0.4s; }
-.toggle-track { width:44px; height:24px; background:var(--bg3); border-radius:100px; position:relative; cursor:pointer; border:1px solid var(--border2); transition:all 0.4s; }
-.toggle-thumb { position:absolute; top:3px; left:3px; width:16px; height:16px; border-radius:50%; background:var(--brand-fg); transition:transform 0.3s cubic-bezier(0.34,1.56,0.64,1); box-shadow:0 2px 8px rgba(7,62,227,0.4); }
-[data-theme="light"] .toggle-thumb { transform:translateX(20px); }
-
-/* ── STAGE ──────────────────────────────────────────────── */
-.stage {
-  min-height:100vh; display:flex; align-items:flex-start;
-  justify-content:center; padding:60px 24px 80px;
-  gap:56px; flex-wrap:wrap;
-}
-
-/* ── NOTES ──────────────────────────────────────────────── */
-.notes { width:230px; padding-top:96px; flex-shrink:0; display:flex; flex-direction:column; gap:10px; }
-.note { background:var(--card); border:1px solid var(--border2); border-left:3px solid var(--brand-fg); border-radius:10px; padding:11px 14px; transition:all 0.4s; }
-.note.coral { border-left-color:var(--coral); }
-.note.gold  { border-left-color:var(--gold); }
-.note-tag { font-size:9px; font-weight:700; letter-spacing:0.14em; text-transform:uppercase; color:var(--brand-fg); margin-bottom:4px; transition:color 0.4s; }
-.note.coral .note-tag { color:var(--coral); }
-.note.gold  .note-tag { color:var(--gold); }
-.note p { font-size:11px; color:var(--text2); line-height:1.5; transition:color 0.4s; }
-
-/* ── PHONE ──────────────────────────────────────────────── */
-.phone-wrap { display:flex; flex-direction:column; align-items:center; }
-.phone-label { font-size:11px; font-weight:700; letter-spacing:0.14em; text-transform:uppercase; color:var(--muted); margin-bottom:16px; transition:color 0.4s; }
-.phone {
-  width:393px; border-radius:52px;
-  background:var(--bg); border:1px solid var(--border2);
-  box-shadow:0 0 0 7px var(--bg2), 0 0 0 8px var(--border), 0 40px 100px rgba(0,0,0,0.5);
-  overflow:hidden; position:relative; transition:all 0.4s;
-}
-.notch { position:absolute; top:0; left:50%; transform:translateX(-50%); width:126px; height:37px; background:var(--bg2); border-radius:0 0 22px 22px; z-index:10; transition:background 0.4s; }
-.phone-scroll { height:820px; overflow-y:auto; overflow-x:hidden; scrollbar-width:none; }
-.phone-scroll::-webkit-scrollbar { display:none; }
-.inner { padding-top:48px; }
-
-/* ── TOPBAR ─────────────────────────────────────────────── */
-.topbar { display:flex; align-items:center; justify-content:space-between; padding:12px 24px 0; }
-/* Logo: plain text — no brand colours. 20px as requested */
-.logo {
-  font-family:'Zalando Sans Expanded',sans-serif;
-  font-weight:800; font-size:20px;
-  letter-spacing:-0.01em; color:var(--text); transition:color 0.4s;
-}
-
-/* ── HERO ────────────────────────────────────────────────── */
-.hero {
-  padding:30px 24px 40px;
-  position:relative; overflow:hidden;
-}
-
-/* Grid texture — beloved */
-.hero::before {
-  content:''; position:absolute; inset:0;
-  background-image:
-    linear-gradient(var(--grid) 1px, transparent 1px),
-    linear-gradient(90deg, var(--grid) 1px, transparent 1px);
-  background-size:32px 32px;
-  pointer-events:none; z-index:0;
-}
-
-/* Hero title — 60px */
-.hero-title {
-  font-family:'Zalando Sans Expanded',sans-serif;
-  font-weight:900; font-size:60px;
-  line-height:0.94; letter-spacing:-0.025em;
-  margin-bottom:24px; position:relative; z-index:1;
-}
-.hero-title .w1 { display:block; color:var(--text); transition:color 0.4s; }
-
-/*
-  "Sports" gradient: #073EE3 → #FF4D4D
-  We use a fixed hex colour stop to guarantee true coral
-  regardless of CSS variable resolution order.
-  The gradient direction is left→right matching natural reading flow.
-*/
-.hero-title .w2 {
-  display:block;
-  background: linear-gradient(
-    to right,
-    #073EE3 0%,
-    #FF4D4D 100%
-  );
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-  /* Ensure the gradient box is wide enough to show full range */
-  display: inline-block;
-  width: 100%;
-}
-
-/* Light mode: slightly lighter blue start so gradient reads well */
-[data-theme="light"] .hero-title .w2 {
-  background: linear-gradient(
-    to right,
-    #073EE3 0%,
-    #FF4D4D 100%
-  );
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-  display: inline-block;
-  width: 100%;
-}
-
-.hero-title .w3 { display:block; color:var(--text); transition:color 0.4s; }
-.hero-title .w4 { display:block; color:var(--text); transition:color 0.4s; }
-
-/* Hero sub — 16px as requested */
-.hero-sub {
-  font-size:16px; color:var(--text2); line-height:1.65;
-  margin-bottom:36px; max-width:305px;
-  position:relative; z-index:1; transition:color 0.4s;
-}
-.hero-sub strong { color:var(--text); font-weight:600; transition:color 0.4s; }
-
-.hero-cta {
-  display:inline-flex; align-items:center; gap:10px;
-  font-size:13px; font-weight:600; color:var(--muted);
-  cursor:pointer; transition:color 0.2s;
-  position:relative; z-index:1; letter-spacing:0.04em;
-}
-.hero-cta:hover { color:var(--text); }
-.arrow-btn {
-  width:36px; height:36px; border-radius:50%;
-  background:var(--brand-fg);
-  display:flex; align-items:center; justify-content:center;
-  color:white; font-size:14px;
-  transition:transform 0.2s;
-  box-shadow:0 4px 16px rgba(7,62,227,0.3);
-}
-.hero-cta:hover .arrow-btn { transform:translateY(3px); }
-
-/* ── DIVIDER ─────────────────────────────────────────────── */
-.divider { height:1px; background:var(--border); margin:0 24px; transition:background 0.4s; }
-
-/* ── SECTIONS ───────────────────────────────────────────── */
-.section { padding:32px 24px; }
-
-.eyebrow {
-  font-size:10px; font-weight:700; letter-spacing:0.18em;
-  text-transform:uppercase; color:var(--brand-fg);
-  margin-bottom:12px; display:flex; align-items:center;
-  gap:8px; transition:color 0.4s;
-}
-.eyebrow::before { content:''; width:18px; height:2px; background:currentColor; border-radius:2px; flex-shrink:0; }
-.eyebrow.coral { color:var(--coral); }
-
-/* Section titles — 32px as requested */
-.section-title {
-  font-family:'Zalando Sans Expanded',sans-serif;
-  font-weight:800; font-size:32px; line-height:1.0;
-  letter-spacing:-0.02em; color:var(--text);
-  margin-bottom:24px; transition:color 0.4s;
-}
-
-/* ── FEED CARDS ─────────────────────────────────────────── */
-.feed-cards { display:flex; flex-direction:column; gap:14px; }
-
-.feed-card {
-  background:var(--card); border:1px solid var(--border);
-  border-radius:20px; overflow:hidden;
-  position:relative; transition:all 0.4s;
-}
-.feed-card::before {
-  content:''; position:absolute; top:0; left:0; right:0;
-  height:2px;
-  background:linear-gradient(to right, #073EE3 0%, #FF4D4D 100%);
-}
-
-/* WNBA: 0.50 opacity */
-.feed-card.soon { opacity:0.50; pointer-events:none; }
-
-.feed-header { padding:16px 18px 12px; display:flex; align-items:center; gap:12px; }
-
-/* Smaller icons — 38×38, emoji 17px */
-.feed-icon {
-  width:38px; height:38px; border-radius:10px;
-  background:var(--bg3); border:1px solid var(--border);
-  display:flex; align-items:center; justify-content:center;
-  font-size:17px; flex-shrink:0; transition:all 0.4s;
-}
-
-/* Feed name — 16px. Feed meta — 13px */
-.feed-name { font-size:16px; font-weight:700; color:var(--text); margin-bottom:2px; transition:color 0.4s; }
-.feed-meta { font-size:13px; color:var(--muted); transition:color 0.4s; }
-
-.feed-divider { height:1px; background:var(--border); margin:0 18px; transition:background 0.4s; }
-.feed-actions { padding:12px 18px 16px; display:flex; gap:10px; }
-
-/* Outlined equal-weight buttons — no emojis */
-.btn-cal {
-  flex:1; display:flex; align-items:center; justify-content:center;
-  font-family:'DM Sans',sans-serif; font-size:13px; font-weight:600;
-  padding:11px 10px; border-radius:12px; cursor:pointer;
-  transition:all 0.2s; letter-spacing:0.01em; background:transparent;
-  text-decoration:none;
-}
-.btn-google { color:var(--brand-fg); border:1.5px solid var(--brand-fg); }
-.btn-google:hover { background:rgba(7,62,227,0.07); transform:translateY(-1px); }
-.btn-apple  { color:var(--coral); border:1.5px solid var(--coral); }
-.btn-apple:hover  { background:rgba(255,77,77,0.07); transform:translateY(-1px); }
-
-/* ── MISSION ─────────────────────────────────────────────── */
-/* Mission body — 16px */
-.mission-body { font-size:16px; color:var(--text2); line-height:1.85; transition:color 0.4s; }
-.mission-body p { margin-bottom:20px; }
-.mission-body p:last-child { margin-bottom:0; }
-.mission-body strong { color:var(--text); font-weight:600; transition:color 0.4s; }
-
-/* Pull quote REMOVED per request */
-
-/* ── EMAIL ───────────────────────────────────────────────── */
-.email-wrap {
-  margin:0 24px 32px; padding:28px 22px;
-  background:var(--bg3); border-radius:20px;
-  border:1px solid var(--border2);
-  position:relative; overflow:hidden; transition:all 0.4s;
-}
-.email-wrap::before {
-  content:''; position:absolute; top:0; left:0; right:0; height:3px;
-  background:linear-gradient(to right, #073EE3 0%, #FF4D4D 100%);
-}
-
-/* "New competitions added regularly" as section-title style */
-.email-section-title {
-  font-family:'Zalando Sans Expanded',sans-serif;
-  font-weight:800; font-size:32px; line-height:1.0;
-  letter-spacing:-0.02em; color:var(--text);
-  margin-bottom:12px; transition:color 0.4s;
-}
-
-/* Email sub — 16px as requested */
-.email-sub {
-  font-size:16px; color:var(--text2); line-height:1.6;
-  margin-bottom:20px; transition:color 0.4s;
-}
-
-.email-input {
-  width:100%; padding:12px 16px;
-  background:var(--bg2); border:1px solid var(--border2);
-  border-radius:12px; font-family:'DM Sans',sans-serif;
-  font-size:14px; color:var(--text); outline:none;
-  margin-bottom:10px; display:block; transition:all 0.2s;
-}
-.email-input::placeholder { color:var(--muted); }
-.email-input:focus { border-color:var(--brand-fg); box-shadow:0 0 0 3px rgba(7,62,227,0.10); }
-
-.email-btn {
-  width:100%; padding:14px; background:var(--brand-fg); color:white;
-  font-family:'DM Sans',sans-serif; font-size:14px; font-weight:700;
-  border:none; border-radius:12px; cursor:pointer;
-  letter-spacing:0.02em; display:block;
-  box-shadow:0 4px 20px rgba(7,62,227,0.20); transition:all 0.2s;
-}
-.email-btn:hover { background:var(--blue-dim); transform:translateY(-1px); }
-.email-disclaimer { font-size:11px; color:var(--muted); text-align:center; margin-top:10px; line-height:1.4; transition:color 0.4s; }
-
-/* ── FOOTER ─────────────────────────────────────────────── */
-.footer {
-  padding:28px 24px 52px; text-align:center;
-  border-top:1px solid var(--border); transition:border-color 0.4s;
-}
-/* Footer logo: plain, 20px */
-.footer-logo {
-  font-family:'Zalando Sans Expanded',sans-serif;
-  font-weight:800; font-size:20px;
-  letter-spacing:-0.01em; color:var(--text);
-  margin-bottom:6px; transition:color 0.4s;
-}
-.footer-url  { font-size:12px; color:var(--muted); margin-bottom:4px; transition:color 0.4s; }
-.footer-free { font-size:11px; color:var(--muted); transition:color 0.4s; }
-
-/* ── DS PANEL ────────────────────────────────────────────── */
-.ds-panel { width:220px; padding-top:96px; flex-shrink:0; display:flex; flex-direction:column; gap:12px; }
-.ds-card { background:var(--card); border:1px solid var(--border2); border-radius:12px; padding:14px 16px; transition:all 0.4s; }
-.ds-label { font-size:9px; font-weight:700; letter-spacing:0.16em; text-transform:uppercase; color:var(--brand-fg); margin-bottom:10px; transition:color 0.4s; }
-.swatches { display:flex; gap:6px; flex-wrap:wrap; }
-.sw { width:28px; height:28px; border-radius:7px; border:1px solid var(--border2); position:relative; cursor:pointer; transition:transform 0.15s; }
-.sw:hover { transform:scale(1.15); }
-.sw:hover::after { content:attr(data-label); position:absolute; bottom:calc(100% + 4px); left:50%; transform:translateX(-50%); background:var(--bg2); border:1px solid var(--border2); border-radius:4px; padding:3px 7px; font-size:9px; white-space:nowrap; color:var(--text2); z-index:10; }
-.font-display { font-family:'Zalando Sans Expanded',sans-serif; font-weight:900; font-size:26px; color:var(--text); line-height:1; letter-spacing:-0.02em; margin-bottom:4px; transition:color 0.4s; }
-.font-body { font-size:12px; color:var(--text2); line-height:1.5; transition:color 0.4s; }
-.type-scale { display:flex; flex-direction:column; gap:5px; }
-.type-row { display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid var(--border); padding-bottom:4px; }
-.type-name { font-size:10px; color:var(--muted); transition:color 0.4s; }
-.type-size { font-size:10px; font-weight:700; color:var(--text2); transition:color 0.4s; }
-
-/* ── HIDE MOCKUP CHROME ON SMALL SCREENS ────────────────── */
-@media (max-width:1100px) { .notes,.ds-panel { display:none; } }
 
 /* ════════════════════════════════════════════════════════
    RESPONSIVE BREAKPOINTS
@@ -381,9 +83,9 @@ body {
    mode but shown on real breakpoints.
    ════════════════════════════════════════════════════════ */
 
-/* ── SHARED PAGE LAYOUT (used at tablet + desktop) ─────── */
+/* ── SHARED PAGE LAYOUT ─────────────────────────────────── */
 #live-page {
-  display: none; /* hidden in mockup view */
+  display: block;
   width: 100%;
   background: var(--bg);
   color: var(--text);
@@ -436,17 +138,14 @@ body {
   margin: 0 auto;
 }
 
-/* ── TABLET — 768px to 1279px ───────────────────────────── */
-@media (min-width: 768px) {
+/* ── MOBILE — all screens up to 767px ───────────────────── */
+@media (max-width: 767px) {
 
-  /* Hide mockup stage, show real page */
-  .stage { display: none !important; }
-  .theme-bar { display: none !important; }
-  #live-page { display: block; }
+  #live-page .real-topbar { padding: 16px 20px; }
 
   /* Hero */
   #live-page .hero {
-    padding: 80px 48px 72px;
+    padding: 48px 20px 56px;
     position: relative;
     overflow: hidden;
   }
@@ -464,12 +163,12 @@ body {
   #live-page .hero-title {
     font-family: 'Zalando Sans Expanded', sans-serif;
     font-weight: 900;
-    font-size: 80px;
+    font-size: 52px;
     line-height: 0.94;
-    letter-spacing: -0.03em;
-    margin-bottom: 28px;
+    letter-spacing: -0.02em;
+    margin-bottom: 24px;
     position: relative; z-index: 1;
-    max-width: 640px;
+    max-width: 100%;
   }
 
   #live-page .hero-title .w1,
@@ -485,15 +184,14 @@ body {
   }
 
   #live-page .hero-sub {
-    font-size: 18px;
+    font-size: 16px;
     color: var(--text2);
     line-height: 1.65;
-    margin-bottom: 40px;
-    max-width: 520px;
+    margin-bottom: 32px;
+    max-width: 100%;
     position: relative; z-index: 1;
     transition: color 0.4s;
   }
-  #live-page .hero-sub strong { color: var(--text); font-weight: 600; transition: color 0.4s; }
 
   #live-page .hero-cta {
     display: inline-flex; align-items: center; gap: 12px;
@@ -501,7 +199,6 @@ body {
     cursor: pointer; transition: color 0.2s;
     position: relative; z-index: 1;
   }
-  #live-page .hero-cta:hover { color: var(--text); }
 
   #live-page .arrow-btn {
     width: 40px; height: 40px; border-radius: 50%;
@@ -511,13 +208,12 @@ body {
     transition: transform 0.2s;
     box-shadow: 0 4px 16px rgba(7,62,227,0.3);
   }
-  #live-page .hero-cta:hover .arrow-btn { transform: translateY(3px); }
 
   /* Dividers */
-  #live-page .divider { height: 1px; background: var(--border); margin: 0 48px; transition: background 0.4s; }
+  #live-page .divider { height: 1px; background: var(--border); margin: 0 20px; transition: background 0.4s; }
 
   /* Sections */
-  #live-page .section { padding: 56px 48px; }
+  #live-page .section { padding: 40px 20px; }
 
   #live-page .eyebrow {
     font-size: 11px; font-weight: 700; letter-spacing: 0.18em;
@@ -530,19 +226,19 @@ body {
 
   #live-page .section-title {
     font-family: 'Zalando Sans Expanded', sans-serif;
-    font-weight: 800; font-size: 40px; line-height: 0.97;
-    letter-spacing: -0.025em; color: var(--text);
-    margin-bottom: 32px; transition: color 0.4s;
+    font-weight: 800; font-size: 28px; line-height: 1.0;
+    letter-spacing: -0.02em; color: var(--text);
+    margin-bottom: 24px; transition: color 0.4s;
   }
 
-  /* Feed cards — 2 column grid on tablet */
+  /* Feed cards — single column on mobile */
   #live-page .feed-cards {
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 20px;
+    grid-template-columns: 1fr;
+    gap: 16px;
+    padding: 0 20px 40px;
   }
 
-  /* WNBA spans to keep layout tidy if odd */
   #live-page .feed-card.soon {
     opacity: 0.50;
     pointer-events: none;
@@ -559,7 +255,7 @@ body {
     background: linear-gradient(to right, #073EE3 0%, #FF4D4D 100%);
   }
 
-  #live-page .feed-header { padding: 22px 22px 16px; display: flex; align-items: center; gap: 14px; }
+  #live-page .feed-header { padding: 20px 20px 14px; display: flex; align-items: center; gap: 14px; }
 
   #live-page .feed-icon {
     width: 44px; height: 44px; border-radius: 12px;
@@ -571,8 +267,8 @@ body {
   #live-page .feed-name { font-size: 16px; font-weight: 700; color: var(--text); margin-bottom: 3px; transition: color 0.4s; }
   #live-page .feed-meta { font-size: 13px; color: var(--muted); transition: color 0.4s; }
 
-  #live-page .feed-divider { height: 1px; background: var(--border); margin: 0 22px; transition: background 0.4s; }
-  #live-page .feed-actions { padding: 14px 22px 20px; display: flex; gap: 10px; }
+  #live-page .feed-divider { height: 1px; background: var(--border); margin: 0 20px; transition: background 0.4s; }
+  #live-page .feed-actions { padding: 14px 20px 20px; display: flex; gap: 10px; }
 
   #live-page .btn-cal {
     flex: 1; display: flex; align-items: center; justify-content: center;
@@ -582,23 +278,12 @@ body {
     text-decoration: none;
   }
   #live-page .btn-google { color: var(--brand-fg); border: 1.5px solid var(--brand-fg); }
-  #live-page .btn-google:hover { background: rgba(7,62,227,0.07); transform: translateY(-1px); }
   #live-page .btn-apple  { color: var(--coral); border: 1.5px solid var(--coral); }
-  #live-page .btn-apple:hover  { background: rgba(255,77,77,0.07); transform: translateY(-1px); }
-
-  /* Mission */
-  #live-page .mission-body {
-    font-size: 17px; color: var(--text2); line-height: 1.85;
-    max-width: 700px; transition: color 0.4s;
-  }
-  #live-page .mission-body p { margin-bottom: 22px; }
-  #live-page .mission-body p:last-child { margin-bottom: 0; }
-  #live-page .mission-body strong { color: var(--text); font-weight: 600; transition: color 0.4s; }
 
   /* Email */
   #live-page .email-wrap {
-    margin: 0 48px 56px;
-    padding: 48px;
+    margin: 0 20px 40px;
+    padding: 32px 24px;
     background: var(--bg3); border-radius: 24px;
     border: 1px solid var(--border2);
     position: relative; overflow: hidden; transition: all 0.4s;
@@ -611,74 +296,96 @@ body {
 
   #live-page .email-section-title {
     font-family: 'Zalando Sans Expanded', sans-serif;
-    font-weight: 800; font-size: 40px; line-height: 1.0;
+    font-weight: 800; font-size: 28px; line-height: 1.1;
     letter-spacing: -0.02em; color: var(--text);
     margin-bottom: 12px; transition: color 0.4s;
   }
 
   #live-page .email-sub {
-    font-size: 17px; color: var(--text2); line-height: 1.6;
-    margin-bottom: 28px; max-width: 480px; transition: color 0.4s;
+    font-size: 15px; color: var(--text2); line-height: 1.6;
+    margin-bottom: 24px; transition: color 0.4s;
   }
 
-  /* Side-by-side inputs on tablet+ */
+  /* Stacked inputs on mobile */
   #live-page .email-fields {
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 12px;
+    grid-template-columns: 1fr;
+    gap: 10px;
     margin-bottom: 12px;
   }
 
   #live-page .email-input {
-    width: 100%; padding: 14px 18px;
+    width: 100%; padding: 14px 16px;
     background: var(--bg2); border: 1px solid var(--border2);
     border-radius: 12px; font-family: 'DM Sans', sans-serif;
     font-size: 15px; color: var(--text); outline: none;
-    transition: all 0.2s; display: block;
+    transition: all 0.2s; display: block; box-sizing: border-box;
   }
   #live-page .email-input::placeholder { color: var(--muted); }
   #live-page .email-input:focus { border-color: var(--brand-fg); box-shadow: 0 0 0 3px rgba(7,62,227,0.10); }
 
   #live-page .email-btn {
-    padding: 16px 48px;
+    padding: 16px 24px;
     background: var(--brand-fg); color: white;
     font-family: 'DM Sans', sans-serif; font-size: 15px; font-weight: 700;
     border: none; border-radius: 12px; cursor: pointer;
     letter-spacing: 0.02em;
     box-shadow: 0 4px 20px rgba(7,62,227,0.22);
-    transition: all 0.2s; display: inline-block; width: auto;
+    transition: all 0.2s; display: block; width: 100%;
   }
-  #live-page .email-btn:hover { background: var(--blue-dim); transform: translateY(-1px); }
 
   #live-page .email-disclaimer {
     font-size: 12px; color: var(--muted);
     margin-top: 14px; line-height: 1.4; transition: color 0.4s;
+    text-align: center;
   }
 
   /* Footer */
   #live-page .real-footer {
-    padding: 40px 48px;
+    padding: 32px 20px;
     border-top: 1px solid var(--border);
     display: flex;
+    flex-direction: column;
     align-items: center;
-    justify-content: space-between;
+    gap: 12px;
+    text-align: center;
     transition: border-color 0.4s;
   }
 
   #live-page .footer-logo {
     font-family: 'Zalando Sans Expanded', sans-serif;
-    font-weight: 800; font-size: 20px; letter-spacing: -0.01em;
+    font-weight: 800; font-size: 18px; letter-spacing: -0.01em;
     color: var(--text); transition: color 0.4s;
   }
 
   #live-page .footer-right {
-    text-align: right;
+    text-align: center;
     display: flex;
     flex-direction: column;
     gap: 3px;
   }
   #live-page .footer-url  { font-size: 13px; color: var(--muted); transition: color 0.4s; }
   #live-page .footer-free { font-size: 12px; color: var(--muted); transition: color 0.4s; }
+}
+
+/* ── TABLET — 768px to 1279px ───────────────────────────── */
+@media (min-width: 768px) {
+
+  #live-page .real-topbar { padding: 20px 48px; }
+  #live-page .hero { padding: 80px 48px 72px; }
+  #live-page .hero-title { font-size: 80px; max-width: 640px; }
+  #live-page .hero-sub { font-size: 18px; max-width: 520px; margin-bottom: 40px; }
+  #live-page .divider { margin: 0 48px; }
+  #live-page .section { padding: 56px 48px; }
+  #live-page .section-title { font-size: 40px; }
+  #live-page .feed-cards { grid-template-columns: 1fr 1fr; gap: 20px; padding: 0 48px 56px; }
+  #live-page .email-wrap { margin: 0 48px 56px; padding: 48px; }
+  #live-page .email-section-title { font-size: 40px; }
+  #live-page .email-sub { font-size: 17px; }
+  #live-page .email-fields { grid-template-columns: 1fr 1fr; gap: 12px; }
+  #live-page .email-btn { width: auto; display: inline-block; padding: 16px 48px; }
+  #live-page .real-footer { padding: 40px 48px; flex-direction: row; align-items: center; justify-content: space-between; }
+  #live-page .footer-right { text-align: right; }
 }
 
 /* ── DESKTOP — 1280px+ ──────────────────────────────────── */
@@ -720,226 +427,6 @@ body {
 </head>
 <body>
 
-<div class="theme-bar">
-  <span class="theme-label" id="tlabel">Dark</span>
-  <div class="toggle-track" onclick="toggleTheme()">
-    <div class="toggle-thumb"></div>
-  </div>
-</div>
-
-<div class="stage">
-
-  <!-- NOTES -->
-  <div class="notes">
-    <div style="font-family:'Zalando Sans Expanded',sans-serif;font-weight:800;font-size:18px;letter-spacing:-0.02em;color:var(--text);margin-bottom:4px;transition:color 0.4s">V7 Changes</div>
-    <div style="font-size:11px;color:var(--muted);margin-bottom:4px;transition:color 0.4s">11 refinements</div>
-    <div class="note"><div class="note-tag">1</div><p>WNBA opacity → 0.50</p></div>
-    <div class="note"><div class="note-tag">2</div><p>Footer logo → 20px</p></div>
-    <div class="note"><div class="note-tag">3</div><p>Hero sub → 16px</p></div>
-    <div class="note"><div class="note-tag">4</div><p>Section titles → 32px</p></div>
-    <div class="note"><div class="note-tag">5</div><p>"New competitions added regularly" → section title style (32px Zalando Expanded 800)</p></div>
-    <div class="note"><div class="note-tag">6</div><p>Feed name → 16px</p></div>
-    <div class="note"><div class="note-tag">7</div><p>Feed meta → 13px</p></div>
-    <div class="note"><div class="note-tag">8</div><p>Email sub → 16px</p></div>
-    <div class="note"><div class="note-tag">9</div><p>Pull quote removed</p></div>
-    <div class="note coral"><div class="note-tag">10</div><p>Gradient: hard-coded hex stops #073EE3 → #FF4D4D. No CSS vars in gradient — ends on true coral in both modes.</p></div>
-    <div class="note"><div class="note-tag">11</div><p>Glows and animation fully removed. Grid texture remains.</p></div>
-  </div>
-
-  <!-- PHONE -->
-  <div class="phone-wrap">
-    <div class="phone-label" id="mlabel">Dark Mode — v7</div>
-    <div class="phone">
-      <div class="notch"></div>
-      <div class="phone-scroll">
-        <div class="inner">
-
-          <!-- Topbar -->
-          <div class="topbar">
-            <div class="logo">HerFixtures</div>
-          </div>
-
-          <!-- Hero — grid only, no glows/animation -->
-          <div class="hero">
-            <div class="hero-title">
-              <span class="w1">Women's</span>
-              <span class="w2">Sports</span>
-              <span class="w3">On Your</span>
-              <span class="w4">Calendar.</span>
-            </div>
-            <p class="hero-sub">
-              The fixtures were always happening.<br>
-              <strong>Now they live where you'll actually see them.</strong>
-              Free. No login. Forever.
-            </p>
-            <div class="hero-cta" onclick="document.getElementById('feeds').scrollIntoView({behavior:'smooth'})">
-              <div class="arrow-btn">↓</div>
-              See the feeds
-            </div>
-          </div>
-
-          <div class="divider"></div>
-
-          <!-- FEEDS -->
-          <div class="section" id="feeds">
-            <div class="eyebrow">Available now</div>
-            <div class="section-title">Pick your<br>competition.</div>
-            <div class="feed-cards">
-
-              <div class="feed-card">
-                <div class="feed-header">
-                  <div class="feed-icon">⚽</div>
-                  <div class="feed-info">
-                    <div class="feed-name">Women's Champions League</div>
-                    <div class="feed-meta">UEFA · Europe · 75 matches</div>
-                  </div>
-                </div>
-                <div class="feed-divider"></div>
-                <div class="feed-actions">
-                  <a href="https://calendar.google.com/calendar/r?cid=webcal://herfixtures.vercel.app/womens_ucl.ics" target="_blank" class="btn-cal btn-google">Add to Google</a>
-                  <a href="webcal://herfixtures.vercel.app/womens_ucl.ics" class="btn-cal btn-apple">Add to Apple</a>
-                </div>
-              </div>
-
-              <div class="feed-card">
-                <div class="feed-header">
-                  <div class="feed-icon">🏀</div>
-                  <div class="feed-info">
-                    <div class="feed-name">EuroLeague Women</div>
-                    <div class="feed-meta">Basketball · Europe · 71 matches</div>
-                  </div>
-                </div>
-                <div class="feed-divider"></div>
-                <div class="feed-actions">
-                  <a href="https://calendar.google.com/calendar/r?cid=webcal://herfixtures.vercel.app/euroleague_women.ics" target="_blank" class="btn-cal btn-google">Add to Google</a>
-                  <a href="webcal://herfixtures.vercel.app/euroleague_women.ics" class="btn-cal btn-apple">Add to Apple</a>
-                </div>
-              </div>
-
-              <!-- WNBA: 0.50 opacity -->
-              <div class="feed-card soon">
-                <div class="feed-header">
-                  <div class="feed-icon">🏀</div>
-                  <div class="feed-info">
-                    <div class="feed-name">WNBA</div>
-                    <div class="feed-meta">Basketball · USA · Coming soon</div>
-                  </div>
-                </div>
-              </div>
-
-            </div>
-          </div>
-
-          <div class="divider"></div>
-
-          <!-- MISSION — no pull quote -->
-          <div class="section">
-            <div class="eyebrow coral">Our story</div>
-            <div class="section-title">Why HerFixtures<br>exists.</div>
-            <div class="mission-body">
-              <p>Women's sports has always been here. The athletes, the seasons, the rivalries, the drama — all of it, running in full every year. <strong>What was missing was never the sport. It was the infrastructure to follow it.</strong></p>
-              <p>HerFixtures came to life from our own lived experience — or rather, the absence of it. The frustration of searching for fixtures that should have been easy to find. The effort of manually tracking competitions across fragmented sources. The quiet resignation of missing matches not because we didn't care, but because nothing made it easy to stay connected. <strong>That experience — felt and real — is what led us to build something that simply works.</strong> Something that assumes you belong, that your interest is valid, that your calendar deserves to know.</p>
-              <p>This is a small thing. And it is also, quietly, a statement about what we believe women's sports fans deserve as a baseline.</p>
-            </div>
-          </div>
-
-          <div class="divider"></div>
-
-          <!-- EMAIL CAPTURE -->
-          <div class="email-wrap">
-            <div class="email-section-title">New competitions<br>added regularly.</div>
-            <div class="email-sub">Want to know when yours is live? Leave your details — one notification and nothing else.</div>
-            <input class="email-input" type="email" id="email-input-mobile" placeholder="your@email.com">
-            <input class="email-input" type="text" id="league-input-mobile" placeholder="Your favourite league or team">
-            <button class="email-btn" onclick="subscribeHer('email-input-mobile','league-input-mobile',this)">Notify me when it's live</button>
-            <div class="email-disclaimer">One email. No newsletters. No spam. Unsubscribe any time.</div>
-          </div>
-
-          <!-- FOOTER — plain, 20px -->
-          <div class="footer">
-            <div class="footer-logo">HerFixtures</div>
-            <div class="footer-url">herfixtures.com</div>
-            <div class="footer-free">Free forever · No account needed</div>
-          </div>
-
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <!-- DS PANEL -->
-  <div class="ds-panel">
-    <div style="font-family:'Zalando Sans Expanded',sans-serif;font-weight:800;font-size:18px;letter-spacing:-0.02em;color:var(--text);margin-bottom:4px;transition:color 0.4s">Design System</div>
-    <div style="font-size:11px;color:var(--muted);margin-bottom:4px;transition:color 0.4s">v7 tokens</div>
-
-    <div class="ds-card">
-      <div class="ds-label">Brand</div>
-      <div class="swatches">
-        <div class="sw" style="background:#073EE3" data-label="Blue #073EE3"></div>
-        <div class="sw" style="background:#5E86FF" data-label="Blue a11y #5E86FF"></div>
-        <div class="sw" style="background:#FF4D4D" data-label="Coral #FF4D4D"></div>
-        <div class="sw" style="background:#D93A3A" data-label="Coral Dim"></div>
-        <div class="sw" style="background:#F5C842" data-label="Gold"></div>
-      </div>
-    </div>
-
-    <div class="ds-card">
-      <div class="ds-label">Dark Surfaces</div>
-      <div class="swatches">
-        <div class="sw" style="background:#0C0C18" data-label="bg"></div>
-        <div class="sw" style="background:#181830" data-label="card"></div>
-        <div class="sw" style="background:#222240" data-label="bg3"></div>
-        <div class="sw" style="background:#EFEFFA;border-color:#333" data-label="text"></div>
-      </div>
-    </div>
-
-    <div class="ds-card">
-      <div class="ds-label">Light Surfaces</div>
-      <div class="swatches">
-        <div class="sw" style="background:#FAFAFE" data-label="bg"></div>
-        <div class="sw" style="background:#FFFFFF" data-label="card"></div>
-        <div class="sw" style="background:#EEEEFF" data-label="bg3"></div>
-        <div class="sw" style="background:#06060F" data-label="text"></div>
-      </div>
-    </div>
-
-    <div class="ds-card">
-      <div class="ds-label">Typography</div>
-      <div class="font-display">Zalando</div>
-      <div class="font-body">Zalando Sans Expanded 900<br>DM Sans — body & UI</div>
-    </div>
-
-    <div class="ds-card">
-      <div class="ds-label">Type Scale v7</div>
-      <div class="type-scale">
-        <div class="type-row"><span class="type-name">Hero title</span><span class="type-size">60px / 900</span></div>
-        <div class="type-row"><span class="type-name">Section title</span><span class="type-size">32px / 800 ↓</span></div>
-        <div class="type-row"><span class="type-name">Email title</span><span class="type-size">32px / 800 ↓</span></div>
-        <div class="type-row"><span class="type-name">Logo (top+footer)</span><span class="type-size">20px / 800 ↓</span></div>
-        <div class="type-row"><span class="type-name">Mission body</span><span class="type-size">16px / 400</span></div>
-        <div class="type-row"><span class="type-name">Hero sub</span><span class="type-size">16px / 400 ↓</span></div>
-        <div class="type-row"><span class="type-name">Email sub</span><span class="type-size">16px / 400 ↓</span></div>
-        <div class="type-row"><span class="type-name">Feed name</span><span class="type-size">16px / 700 ↓</span></div>
-        <div class="type-row"><span class="type-name">Email input/btn</span><span class="type-size">14px / 400+700</span></div>
-        <div class="type-row"><span class="type-name">Hero CTA</span><span class="type-size">13px / 600</span></div>
-        <div class="type-row"><span class="type-name">Button</span><span class="type-size">13px / 600</span></div>
-        <div class="type-row"><span class="type-name">Feed meta</span><span class="type-size">13px / 400 ↓</span></div>
-        <div class="type-row"><span class="type-name">Email sub</span><span class="type-size">13px → 16px ↓</span></div>
-        <div class="type-row"><span class="type-name">Footer url</span><span class="type-size">12px / 400</span></div>
-        <div class="type-row"><span class="type-name">Eyebrow</span><span class="type-size">10px / 700</span></div>
-        <div class="type-row"><span class="type-name">Disclaimer</span><span class="type-size">11px / 400</span></div>
-        <div class="type-row"><span class="type-name">Footer free</span><span class="type-size">11px / 400</span></div>
-      </div>
-    </div>
-
-  </div>
-
-</div>
-
-<!-- ══════════════════════════════════════════════════════
-     REAL PAGE — shown at tablet (768px+) and desktop (1280px+)
-     Hidden in mockup view via CSS.
-     ══════════════════════════════════════════════════════ -->
 <div id="live-page">
 
   <!-- Topbar -->
