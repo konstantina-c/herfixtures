@@ -839,12 +839,11 @@ body {
 
           <!-- EMAIL CAPTURE -->
           <div class="email-wrap">
-            <!-- "New competitions added regularly" as section title -->
             <div class="email-section-title">New competitions<br>added regularly.</div>
             <div class="email-sub">Want to know when yours is live? Leave your details — one notification and nothing else.</div>
-            <input class="email-input" type="email" placeholder="your@email.com">
-            <input class="email-input" type="text" placeholder="Your favourite league or team">
-            <button class="email-btn">Notify me when it's live</button>
+            <input class="email-input" type="email" id="email-input-mobile" placeholder="your@email.com">
+            <input class="email-input" type="text" id="league-input-mobile" placeholder="Your favourite league or team">
+            <button class="email-btn" onclick="subscribeBeehiiv('email-input-mobile','league-input-mobile',this)">Notify me when it's live</button>
             <div class="email-disclaimer">One email. No newsletters. No spam. Unsubscribe any time.</div>
           </div>
 
@@ -1036,10 +1035,10 @@ body {
       <div class="email-section-title">New competitions<br>added regularly.</div>
       <div class="email-sub">Want to know when yours is live? Leave your details — one notification and nothing else.</div>
       <div class="email-fields">
-        <input class="email-input" type="email" placeholder="your@email.com">
-        <input class="email-input" type="text" placeholder="Your favourite league or team">
+        <input class="email-input" type="email" id="email-input-main" placeholder="your@email.com">
+        <input class="email-input" type="text" id="league-input-main" placeholder="Your favourite league or team">
       </div>
-      <button class="email-btn">Notify me when it's live</button>
+      <button class="email-btn" onclick="subscribeBeehiiv('email-input-main','league-input-main',this)">Notify me when it's live</button>
       <div class="email-disclaimer">One email. No newsletters. No spam. Unsubscribe any time.</div>
     </div>
 
@@ -1071,6 +1070,45 @@ function toggleThemeReal() {
   const isDark = h.getAttribute('data-theme') === 'dark';
   h.setAttribute('data-theme', isDark ? 'light' : 'dark');
   document.getElementById('rtlabel').textContent = isDark ? 'Light' : 'Dark';
+}
+</script>
+<script>
+async function subscribeBeehiiv(emailId, leagueId, btn) {
+  const email = document.getElementById(emailId).value.trim();
+  const league = document.getElementById(leagueId).value.trim();
+  if (!email || !email.includes('@')) {
+    document.getElementById(emailId).focus();
+    return;
+  }
+  btn.textContent = 'Subscribing...';
+  btn.disabled = true;
+  try {
+    const res = await fetch('https://api.beehiiv.com/v2/publications/pub_f9b23a38-5505-4cd0-a8d8-3458ced05820/subscriptions', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': 'Bearer ha6svH3pfEdAE1iaI1EHIu51dmRga5W2I1MYSlo0jopZ5m3fZi6n6dZzoDtMogp1'
+      },
+      body: JSON.stringify({
+        email: email,
+        reactivate_existing: true,
+        send_welcome_email: true,
+        custom_fields: [{ name: 'Favourite League or Team', value: league }]
+      })
+    });
+    if (res.ok || res.status === 201) {
+      btn.textContent = "✓ You're on the list!";
+      btn.style.background = '#22c55e';
+      document.getElementById(emailId).value = '';
+      document.getElementById(leagueId).value = '';
+    } else {
+      throw new Error('Failed');
+    }
+  } catch {
+    btn.textContent = 'Try again';
+    btn.style.background = 'var(--coral)';
+    btn.disabled = false;
+  }
 }
 </script>
 </body>
