@@ -235,7 +235,7 @@ body {
     display: grid;
     grid-template-columns: 1fr;
     gap: 16px;
-    padding: 0 20px 40px;
+    padding: 0 0 40px;
   }
 
   #live-page .feed-card.soon {
@@ -266,7 +266,28 @@ body {
   #live-page .feed-name { font-size: 16px; font-weight: 700; color: var(--text); margin-bottom: 3px; transition: color 0.4s; }
   #live-page .feed-meta { font-size: 13px; color: var(--muted); transition: color 0.4s; }
 
+  #live-page .feed-badge {
+    display: inline-block;
+    font-size: 10px; font-weight: 700; letter-spacing: 0.08em;
+    text-transform: uppercase; border-radius: 20px;
+    padding: 3px 8px; margin-bottom: 5px;
+  }
+  #live-page .badge-live {
+    background: rgba(34, 197, 94, 0.12);
+    color: #22c55e;
+    border: 1px solid rgba(34, 197, 94, 0.25);
+  }
+  #live-page .badge-offseason {
+    background: var(--bg3);
+    color: var(--muted);
+    border: 1px solid var(--border);
+  }
+
   #live-page .feed-divider { height: 1px; background: var(--border); margin: 0 20px; transition: background 0.4s; }
+  #live-page .feed-anticipation {
+    font-size: 12px; color: var(--muted); line-height: 1.5;
+    padding: 0 20px 14px; transition: color 0.4s;
+  }
   #live-page .feed-actions { padding: 14px 20px 20px; display: flex; gap: 10px; }
 
   #live-page .btn-cal {
@@ -351,6 +372,10 @@ body {
     transition: border-color 0.4s;
   }
 
+  #live-page .footer-left {
+    display: flex; flex-direction: column; align-items: center; gap: 4px;
+  }
+
   #live-page .footer-logo {
     font-family: 'Zalando Sans Expanded', sans-serif;
     font-weight: 800; font-size: 18px; letter-spacing: -0.01em;
@@ -361,10 +386,16 @@ body {
     text-align: center;
     display: flex;
     flex-direction: column;
-    gap: 3px;
+    align-items: center;
+    gap: 6px;
   }
   #live-page .footer-url  { font-size: 13px; color: var(--muted); transition: color 0.4s; }
-  #live-page .footer-free { font-size: 12px; color: var(--muted); transition: color 0.4s; }
+  #live-page .footer-socials { display: flex; align-items: center; gap: 8px; justify-content: center; }
+  #live-page .footer-follow { font-size: 13px; color: var(--muted); transition: color 0.4s; }
+  #live-page .footer-social-link { color: var(--muted); transition: color 0.2s; display: flex; align-items: center; }
+  #live-page .footer-social-link:hover { color: var(--brand-fg); }
+  #live-page .footer-social-link svg { width: 16px; height: 16px; fill: currentColor; }
+  #live-page .footer-copy { font-size: 11px; color: var(--muted); transition: color 0.4s; }
 
 /* ── TABLET — 768px to 1279px ───────────────────────────── */
 @media (min-width: 768px) {
@@ -376,14 +407,16 @@ body {
   #live-page .divider { margin: 0 48px; }
   #live-page .section { padding: 56px 48px; }
   #live-page .section-title { font-size: 40px; }
-  #live-page .feed-cards { grid-template-columns: 1fr 1fr; gap: 20px; padding: 0 48px 56px; }
+  #live-page .feed-cards { grid-template-columns: 1fr 1fr; gap: 20px; padding: 0 0 56px; }
   #live-page .email-wrap { margin: 0 48px 56px; padding: 48px; }
   #live-page .email-section-title { font-size: 40px; }
   #live-page .email-sub { font-size: 17px; }
   #live-page .email-fields { grid-template-columns: 1fr 1fr; gap: 12px; }
   #live-page .email-btn { width: auto; display: inline-block; padding: 16px 48px; }
   #live-page .real-footer { padding: 40px 48px; flex-direction: row; align-items: center; justify-content: space-between; }
-  #live-page .footer-right { text-align: right; }
+  #live-page .footer-left { align-items: flex-start; }
+  #live-page .footer-right { align-items: flex-end; text-align: right; }
+  #live-page .footer-socials { justify-content: flex-end; }
 }
 
 /* ── DESKTOP — 1280px+ ──────────────────────────────────── */
@@ -469,6 +502,7 @@ body {
           <div class="feed-header">
             <div class="feed-icon">⚽</div>
             <div class="feed-info">
+              <div class="feed-badge badge-live" id="ucl-badge">Season in progress</div>
               <div class="feed-name">Women's Champions League</div>
               <div class="feed-meta">UEFA · Europe · 75 matches</div>
             </div>
@@ -484,21 +518,7 @@ body {
           <div class="feed-header">
             <div class="feed-icon">🏀</div>
             <div class="feed-info">
-              <div class="feed-name">EuroLeague Women</div>
-              <div class="feed-meta">Basketball · Europe · Season complete</div>
-            </div>
-          </div>
-          <div class="feed-divider"></div>
-          <div class="feed-actions">
-            <a href="https://calendar.google.com/calendar/r?cid=webcal://herfixtures.vercel.app/euroleague_women.ics" target="_blank" class="btn-cal btn-google">Add to Google</a>
-            <a href="webcal://herfixtures.vercel.app/euroleague_women.ics" class="btn-cal btn-apple">Add to Apple</a>
-          </div>
-        </div>
-
-        <div class="feed-card">
-          <div class="feed-header">
-            <div class="feed-icon">🏀</div>
-            <div class="feed-info">
+              <div class="feed-badge badge-live">Season in progress</div>
               <div class="feed-name">WNBA</div>
               <div class="feed-meta">Basketball · USA · 2026 Season</div>
             </div>
@@ -507,6 +527,23 @@ body {
           <div class="feed-actions">
             <a href="https://calendar.google.com/calendar/r?cid=webcal://herfixtures.vercel.app/wnba.ics" target="_blank" class="btn-cal btn-google">Add to Google</a>
             <a href="webcal://herfixtures.vercel.app/wnba.ics" class="btn-cal btn-apple">Add to Apple</a>
+          </div>
+        </div>
+
+        <div class="feed-card">
+          <div class="feed-header">
+            <div class="feed-icon">🏀</div>
+            <div class="feed-info">
+              <div class="feed-badge badge-offseason">Season resumes October 2026</div>
+              <div class="feed-name">EuroLeague Women</div>
+              <div class="feed-meta">Basketball · Europe · Season complete</div>
+            </div>
+          </div>
+          <div class="feed-anticipation">Subscribe now — fixtures appear in your calendar automatically when the season starts.</div>
+          <div class="feed-divider"></div>
+          <div class="feed-actions">
+            <a href="https://calendar.google.com/calendar/r?cid=webcal://herfixtures.vercel.app/euroleague_women.ics" target="_blank" class="btn-cal btn-google">Add to Google</a>
+            <a href="webcal://herfixtures.vercel.app/euroleague_women.ics" class="btn-cal btn-apple">Add to Apple</a>
           </div>
         </div>
 
@@ -544,10 +581,18 @@ body {
 
   <!-- Footer -->
   <div class="real-footer">
-    <div class="footer-logo">HerFixtures</div>
-    <div class="footer-right">
+    <div class="footer-left">
+      <div class="footer-logo">HerFixtures</div>
       <div class="footer-url">herfixtures.com</div>
-      <div class="footer-free">Free forever · No account needed</div>
+    </div>
+    <div class="footer-right">
+      <div class="footer-socials">
+        <span class="footer-follow">Follow us on</span>
+        <a href="https://x.com/herfixtures" target="_blank" rel="noopener" class="footer-social-link" aria-label="HerFixtures on X">
+          <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.744l7.737-8.835L1.254 2.25H8.08l4.253 5.622L18.244 2.25zm-1.161 17.52h1.833L7.084 4.126H5.117L17.083 19.77z"/></svg>
+        </a>
+      </div>
+      <div class="footer-copy">© 2026 HerFixtures</div>
     </div>
   </div>
 
@@ -600,6 +645,40 @@ async function subscribeHer(emailId, leagueId, btn) {
     btn.disabled = false;
   }
 }
+</script>
+<script>
+/* UCL Final countdown badge */
+(function() {
+  var badge = document.getElementById('ucl-badge');
+  if (!badge) return;
+
+  var final = new Date('2026-05-23T18:00:00+02:00'); /* 18:00 CET = UTC+2 in May */
+  var now = new Date();
+
+  var diffMs = final - now;
+  var diffDays = Math.ceil(diffMs / (1000 * 60 * 60 * 24));
+
+  if (diffDays > 1) {
+    badge.textContent = diffDays + ' days until the Final';
+  } else if (diffDays === 1) {
+    badge.textContent = '1 day until the Final';
+  } else if (diffDays === 0) {
+    badge.textContent = '🏆 Final today';
+    badge.style.background = 'rgba(245,200,66,0.15)';
+    badge.style.color = '#F5C842';
+    badge.style.borderColor = 'rgba(245,200,66,0.35)';
+  } else {
+    /* After the final — check if new season has started */
+    var newSeason = new Date('2026-07-22T00:00:00+02:00');
+    if (now >= newSeason) {
+      badge.textContent = 'Season in progress';
+    } else {
+      badge.textContent = 'New season starts 22 July';
+      badge.classList.remove('badge-live');
+      badge.classList.add('badge-offseason');
+    }
+  }
+})();
 </script>
 </body>
 </html>
