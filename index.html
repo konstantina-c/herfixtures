@@ -230,7 +230,108 @@ body {
     margin-bottom: 24px; transition: color 0.4s;
   }
 
-  /* Feed cards — single column on mobile */
+  /* ── UCL Final Card ── */
+  #live-page .final-card {
+    border-radius: 20px;
+    border: 1px solid #ebebeb;
+    overflow: hidden;
+    position: relative;
+    background:
+      url('data:image/svg+xml;utf8,<svg viewBox="0 0 400 229" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none"><rect x="0" y="0" height="100%25" width="100%25" fill="url(%23grad)" opacity="0.5"/><defs><radialGradient id="grad" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="10" gradientTransform="matrix(12.4 12.185 -9.95 15.185 45.5 -39.187)"><stop stop-color="rgba(0,77,152,1)" offset="0"/><stop stop-color="rgba(32,99,165,1)" offset="0.125"/><stop stop-color="rgba(128,166,204,1)" offset="0.5"/><stop stop-color="rgba(255,255,255,1)" offset="1"/></radialGradient></defs></svg>'),
+      url('data:image/svg+xml;utf8,<svg viewBox="0 0 400 229" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none"><rect x="0" y="0" height="100%25" width="100%25" fill="url(%23grad)" opacity="1"/><defs><radialGradient id="grad" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="10" gradientTransform="matrix(-15.7 11.879 -9.7 -19.226 386.5 -39.187)"><stop stop-color="rgba(228,32,45,1)" offset="0"/><stop stop-color="rgba(235,88,98,1)" offset="0.25"/><stop stop-color="rgba(248,199,203,1)" offset="0.75"/><stop stop-color="rgba(255,255,255,1)" offset="1"/></radialGradient></defs></svg>'),
+      #ffffff;
+    background-size: cover, cover;
+  }
+  #live-page .final-card::before {
+    content: ''; position: absolute; top: 0; left: 0; right: 0;
+    height: 2px;
+    background: linear-gradient(to right, #073EE3 0%, #FF4D4D 100%);
+    z-index: 1;
+  }
+  #live-page .final-card-inner {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }
+  #live-page .final-date {
+    text-align: center;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    color: #06060f;
+    width: 100%;
+  }
+  #live-page .final-matchup {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    width: 100%;
+  }
+  #live-page .final-team {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    flex: 1;
+    min-width: 0;
+  }
+  #live-page .final-crest {
+    width: 32px;
+    height: 32px;
+    object-fit: contain;
+  }
+  #live-page .final-team-name {
+    font-family: 'Zalando Sans Expanded', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    color: #1a1025;
+    letter-spacing: -0.01em;
+    white-space: nowrap;
+  }
+  #live-page .final-vs {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    color: #1a1025;
+    letter-spacing: -0.01em;
+    flex-shrink: 0;
+    padding-bottom: 2px;
+  }
+  #live-page .final-subtitle {
+    text-align: center;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color: #7b78a7;
+    width: 100%;
+  }
+  #live-page .final-divider {
+    height: 1px;
+    background: #ebebeb;
+    width: 100%;
+  }
+  #live-page .final-actions {
+    display: flex;
+    gap: 8px;
+    width: 100%;
+  }
+
+  /* ── Final card dark mode overrides ── */
+  [data-theme="dark"] #live-page .final-card {
+    border-color: rgba(255,255,255,0.08);
+    background:
+      url('data:image/svg+xml;utf8,<svg viewBox="0 0 400 229" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none"><rect x="0" y="0" height="100%25" width="100%25" fill="url(%23grad)" opacity="0.35"/><defs><radialGradient id="grad" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="10" gradientTransform="matrix(12.4 12.185 -9.95 15.185 45.5 -39.187)"><stop stop-color="rgba(0,77,152,1)" offset="0"/><stop stop-color="rgba(32,99,165,1)" offset="0.125"/><stop stop-color="rgba(128,166,204,1)" offset="0.5"/><stop stop-color="rgba(24,24,48,1)" offset="1"/></radialGradient></defs></svg>'),
+      url('data:image/svg+xml;utf8,<svg viewBox="0 0 400 229" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none"><rect x="0" y="0" height="100%25" width="100%25" fill="url(%23grad)" opacity="0.7"/><defs><radialGradient id="grad" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="10" gradientTransform="matrix(-15.7 11.879 -9.7 -19.226 386.5 -39.187)"><stop stop-color="rgba(228,32,45,1)" offset="0"/><stop stop-color="rgba(235,88,98,1)" offset="0.25"/><stop stop-color="rgba(248,199,203,0.3)" offset="0.75"/><stop stop-color="rgba(24,24,48,1)" offset="1"/></radialGradient></defs></svg>'),
+      #181830;
+    background-size: cover, cover;
+  }
+  [data-theme="dark"] #live-page .final-date { color: #EFEFFA; }
+  [data-theme="dark"] #live-page .final-team-name { color: #EFEFFA; }
+  [data-theme="dark"] #live-page .final-vs { color: #EFEFFA; }
+  [data-theme="dark"] #live-page .final-subtitle { color: #9898BB; }
+  [data-theme="dark"] #live-page .final-divider { background: rgba(255,255,255,0.08); }
+
   #live-page .feed-cards {
     display: grid;
     grid-template-columns: 1fr;
@@ -438,9 +539,9 @@ body {
 
   #live-page .section-title { font-size: 48px; }
 
-  /* Feed cards — 3 columns on wide desktop */
+  /* Feed cards — 2 columns on wide desktop, same as tablet */
   #live-page .feed-cards {
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
   }
 
   #live-page .mission-body { font-size: 18px; max-width: 760px; }
@@ -497,6 +598,30 @@ body {
       <div class="eyebrow">Available now</div>
       <div class="section-title">Pick your competition.</div>
       <div class="feed-cards">
+
+        <!-- UCL Final — Celebrated Card -->
+        <div class="final-card" id="ucl-final-card">
+          <div class="final-card-inner">
+            <div class="final-date">Saturday, May 23 @ 6pm in Oslo</div>
+            <div class="final-matchup">
+              <div class="final-team">
+                <img class="final-crest" src="https://raw.githubusercontent.com/konstantina-c/herfixtures/main/assets/team-logos/barcelona.svg" alt="FC Barcelona crest">
+                <div class="final-team-name">Barcelona</div>
+              </div>
+              <div class="final-vs">vs</div>
+              <div class="final-team">
+                <img class="final-crest" src="https://raw.githubusercontent.com/konstantina-c/herfixtures/main/assets/team-logos/ol-lyonnais.svg" alt="OL Lyonnais crest">
+                <div class="final-team-name">OL Lyonnes</div>
+              </div>
+            </div>
+            <div class="final-subtitle">UEFA Women's Champions League Final</div>
+            <div class="final-divider"></div>
+            <div class="final-actions">
+              <a href="https://calendar.google.com/calendar/r?cid=webcal://herfixtures.vercel.app/womens_ucl.ics" target="_blank" class="btn-cal btn-google" onclick="gtag('event','add_to_calendar',{competition:'UCL Final',calendar:'Google'})">Add to Google</a>
+              <a href="webcal://herfixtures.vercel.app/womens_ucl.ics" class="btn-cal btn-apple" onclick="gtag('event','add_to_calendar',{competition:'UCL Final',calendar:'Apple'})">Add to Apple</a>
+            </div>
+          </div>
+        </div>
 
         <div class="feed-card">
           <div class="feed-header">
@@ -649,6 +774,15 @@ async function subscribeHer(emailId, leagueId, btn) {
 <script>
 /* UCL Final countdown badge */
 (function() {
+  /* Hide the Final card after May 23 */
+  var finalCard = document.getElementById('ucl-final-card');
+  if (finalCard) {
+    var finalDate = new Date('2026-05-23T18:00:00+02:00');
+    if (new Date() > finalDate) {
+      finalCard.style.display = 'none';
+    }
+  }
+
   var badge = document.getElementById('ucl-badge');
   if (!badge) return;
 
