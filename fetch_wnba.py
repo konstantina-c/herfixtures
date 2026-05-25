@@ -5,7 +5,7 @@ Uses ESPN public API (no key required) to fetch fixtures and write wnba.ics.
 """
 
 import requests
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, timezone, timedelta, date
 from icalendar import Calendar, Event
 
 OUTPUT_FILE = "wnba.ics"
@@ -13,26 +13,39 @@ BASE_URL = "https://site.api.espn.com/apis/site/v2/sports/basketball/wnba"
 HEADERS = {"User-Agent": "Mozilla/5.0"}
 
 TODAY = datetime.now(timezone.utc).date()
-DATE_FROM = TODAY - timedelta(days=7)
+SEASON_START = date(2026, 5, 16)
 DATE_TO = TODAY + timedelta(days=60)
 
 
 def fetch_games():
     session = requests.Session()
     session.headers.update(HEADERS)
-    games = {}  # keyed by ESPN event id to deduplicate
+    games = {}
 
-    current = DATE_FROM
-    while current <= DATE_TO:
+    # Past: week by week from season start to yesterday (ensures completed scores)
+    yesterday = TODAY - timedelta(days=1)
+    current = SEASON_START
+    while current <= yesterday:
+        week_end = min(current + timedelta(days=6), yesterday)
         r = session.get(
             f"{BASE_URL}/scoreboard",
-            params={"dates": current.strftime("%Y%m%d"), "limit": 50},
+            params={"dates": f"{current.strftime('%Y%m%d')}-{week_end.strftime('%Y%m%d')}", "limit": 50},
             timeout=10,
         )
         r.raise_for_status()
         for event in r.json().get("events", []):
             games[event["id"]] = event
-        current += timedelta(days=1)
+        current += timedelta(days=7)
+
+    # Future: one wide call from today to DATE_TO
+    r = session.get(
+        f"{BASE_URL}/scoreboard",
+        params={"dates": f"{TODAY.strftime('%Y%m%d')}-{DATE_TO.strftime('%Y%m%d')}", "limit": 200},
+        timeout=10,
+    )
+    r.raise_for_status()
+    for event in r.json().get("events", []):
+        games[event["id"]] = event
 
     return list(games.values())
 
@@ -44,8 +57,8 @@ def parse_event(event):
     if not home or not away:
         return None
 
-    home_name = home["team"]["displayName"]
-    away_name = away["team"]["displayName"]
+    home_name = home["team"]["displayName"] or home["team"].get("name", "")
+    away_name = away["team"]["displayName"] or away["team"].get("name", "")
 
     date_str = event.get("date", "")
     try:
@@ -53,11 +66,14 @@ def parse_event(event):
     except (ValueError, AttributeError):
         return None
 
-    status_name = event["status"]["type"]["name"]
-    status_desc = event["status"]["type"]["description"]
+    status_type = event["status"]["type"]
+    status_name = status_type["name"]
+    status_desc = status_type["description"]
+    status_state = status_type.get("state", "pre")
+    completed = status_state == "post"
 
     score = ""
-    if status_name == "STATUS_FINAL":
+    if completed:
         score = f" ({away.get('score', '?')}–{home.get('score', '?')})"
 
     broadcasts = [n for b in comp.get("broadcasts", []) for n in b.get("names", [])]
@@ -122,7 +138,7 @@ def build_calendar(events):
 
 
 def main():
-    print(f"Fetching WNBA 2026 games from {DATE_FROM} to {DATE_TO}...")
+    print(f"Fetching WNBA 2026 games from {SEASON_START} to {DATE_TO}...")
     events = fetch_games()
     print(f"  → {len(events)} games fetched")
 
