@@ -1,63 +1,97 @@
 #!/usr/bin/env python3
 """
 HerFixtures — WNBA feed generator
-Uses BallDontLie WNBA API to fetch fixtures and generate a .ics calendar file.
-API key is read from the BALLDONTLIE_API_KEY environment variable.
+Uses ESPN public API (no key required) to fetch fixtures and write wnba.ics.
 """
 
-import os
 import requests
 from datetime import datetime, timezone, timedelta
 from icalendar import Calendar, Event
-import uuid
 
-# ── Config ────────────────────────────────────────────────────────────────────
-API_KEY = os.environ.get("BALLDONTLIE_API_KEY")
-BASE_URL = "https://api.balldontlie.io/wnba/v1"
 OUTPUT_FILE = "wnba.ics"
-SEASON = 2026
+BASE_URL = "https://site.api.espn.com/apis/site/v2/sports/basketball/wnba"
+HEADERS = {"User-Agent": "Mozilla/5.0"}
 
-# Fetch games up to 60 days ahead and 7 days back
 TODAY = datetime.now(timezone.utc).date()
-DATE_FROM = (TODAY - timedelta(days=7)).isoformat()
-DATE_TO = (TODAY + timedelta(days=60)).isoformat()
+DATE_FROM = TODAY - timedelta(days=7)
+DATE_TO = TODAY + timedelta(days=60)
 
-# ── Fetch games ───────────────────────────────────────────────────────────────
+
 def fetch_games():
-    if not API_KEY:
-        raise ValueError("BALLDONTLIE_API_KEY environment variable not set.")
+    session = requests.Session()
+    session.headers.update(HEADERS)
+    games = {}  # keyed by ESPN event id to deduplicate
 
-    headers = {"Authorization": API_KEY}
-    params = {
-        "seasons[]": SEASON,
-        "start_date": DATE_FROM,
-        "end_date": DATE_TO,
-        "per_page": 100,
+    current = DATE_FROM
+    while current <= DATE_TO:
+        r = session.get(
+            f"{BASE_URL}/scoreboard",
+            params={"dates": current.strftime("%Y%m%d"), "limit": 50},
+            timeout=10,
+        )
+        r.raise_for_status()
+        for event in r.json().get("events", []):
+            games[event["id"]] = event
+        current += timedelta(days=1)
+
+    return list(games.values())
+
+
+def parse_event(event):
+    comp = event["competitions"][0]
+    home = next((t for t in comp["competitors"] if t["homeAway"] == "home"), None)
+    away = next((t for t in comp["competitors"] if t["homeAway"] == "away"), None)
+    if not home or not away:
+        return None
+
+    home_name = home["team"]["displayName"]
+    away_name = away["team"]["displayName"]
+
+    date_str = event.get("date", "")
+    try:
+        game_dt = datetime.fromisoformat(date_str.replace("Z", "+00:00"))
+    except (ValueError, AttributeError):
+        return None
+
+    status_name = event["status"]["type"]["name"]
+    status_desc = event["status"]["type"]["description"]
+
+    score = ""
+    if status_name == "STATUS_FINAL":
+        score = f" ({away.get('score', '?')}–{home.get('score', '?')})"
+
+    broadcasts = [n for b in comp.get("broadcasts", []) for n in b.get("names", [])]
+
+    summary = f"🏀 {away_name} @ {home_name}{score}"
+
+    desc_lines = [
+        "WNBA 2026 · Season Game",
+        f"{away_name} at {home_name}",
+        f"Status: {status_desc}",
+    ]
+    venue = comp.get("venue", {})
+    venue_name = venue.get("fullName", "")
+    venue_city = venue.get("address", {}).get("city", "")
+    if venue_name:
+        desc_lines.append(f"Venue: {venue_name}{', ' + venue_city if venue_city else ''}")
+    if broadcasts:
+        desc_lines.append(f"TV: {', '.join(broadcasts)}")
+    desc_lines.append("\nFixtures by HerFixtures.com — Women's Sports on Your Calendar")
+
+    links = event.get("links", [])
+    url = links[0].get("href", "https://herfixtures.com") if links else "https://herfixtures.com"
+
+    return {
+        "uid": f"espn-wnba-{event['id']}@herfixtures.com",
+        "summary": summary,
+        "description": "\n".join(desc_lines),
+        "dtstart": game_dt,
+        "dtend": game_dt + timedelta(hours=2, minutes=30),
+        "url": url,
     }
 
-    games = []
-    cursor = None
 
-    while True:
-        if cursor:
-            params["cursor"] = cursor
-
-        response = requests.get(f"{BASE_URL}/games", headers=headers, params=params)
-        response.raise_for_status()
-        data = response.json()
-
-        games.extend(data.get("data", []))
-
-        # BallDontLie uses cursor-based pagination
-        next_cursor = data.get("meta", {}).get("next_cursor")
-        if not next_cursor:
-            break
-        cursor = next_cursor
-
-    return games
-
-# ── Build .ics ─────────────────────────────────────────────────────────────────
-def build_calendar(games):
+def build_calendar(events):
     cal = Calendar()
     cal.add("prodid", "-//HerFixtures//WNBA 2026//EN")
     cal.add("version", "2.0")
@@ -69,68 +103,36 @@ def build_calendar(games):
     cal.add("refresh-interval;value=duration", "PT12H")
     cal.add("x-published-ttl", "PT12H")
 
-    for game in games:
-        try:
-            home = game["home_team"]["full_name"]
-            away = game["visitor_team"]["full_name"]
-            date_str = game.get("date", "")
-
-            if not date_str:
-                continue
-
-            # Parse date — API returns "2026-05-08" or full datetime string
-            try:
-                if "T" in date_str:
-                    game_dt = datetime.fromisoformat(date_str.replace("Z", "+00:00"))
-                else:
-                    # Date only — default to TBD time, use noon UTC
-                    game_dt = datetime.strptime(date_str[:10], "%Y-%m-%d").replace(
-                        hour=0, minute=0, tzinfo=timezone.utc
-                    )
-            except ValueError:
-                continue
-
-            status = game.get("status", "")
-            score = ""
-            if game.get("home_team_score") and game.get("visitor_team_score"):
-                score = f" ({away} {game['visitor_team_score']} – {home} {game['home_team_score']})"
-
-            summary = f"🏀 {away} @ {home}{score}"
-            description = (
-                f"WNBA 2026 · Season Game\n"
-                f"{away} at {home}\n"
-                f"Status: {status}\n"
-                f"\nFixtures by HerFixtures.com — Women's Sports on Your Calendar"
-            )
-
-            event = Event()
-            event.add("uid", str(uuid.uuid4()))
-            event.add("summary", summary)
-            event.add("description", description)
-            event.add("dtstart", game_dt)
-            event.add("dtend", game_dt + timedelta(hours=2, minutes=30))
-            event.add("dtstamp", datetime.now(timezone.utc))
-            event.add("url", "https://herfixtures.com")
-
-            cal.add_component(event)
-
-        except (KeyError, TypeError):
+    now = datetime.now(timezone.utc)
+    for ev in events:
+        parsed = parse_event(ev)
+        if not parsed:
             continue
+        event = Event()
+        event.add("uid", parsed["uid"])
+        event.add("summary", parsed["summary"])
+        event.add("description", parsed["description"])
+        event.add("dtstart", parsed["dtstart"])
+        event.add("dtend", parsed["dtend"])
+        event.add("dtstamp", now)
+        event.add("url", parsed["url"])
+        cal.add_component(event)
 
     return cal
 
-# ── Main ──────────────────────────────────────────────────────────────────────
-def main():
-    print(f"Fetching WNBA {SEASON} games from {DATE_FROM} to {DATE_TO}...")
-    games = fetch_games()
-    print(f"  → {len(games)} games fetched")
 
-    cal = build_calendar(games)
+def main():
+    print(f"Fetching WNBA 2026 games from {DATE_FROM} to {DATE_TO}...")
+    events = fetch_games()
+    print(f"  → {len(events)} games fetched")
+
+    cal = build_calendar(events)
 
     with open(OUTPUT_FILE, "wb") as f:
         f.write(cal.to_ical())
 
     print(f"  → {OUTPUT_FILE} written successfully")
+
 
 if __name__ == "__main__":
     main()
