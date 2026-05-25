@@ -22,7 +22,18 @@ def fetch_games():
     session.headers.update(HEADERS)
     games = {}
 
-    # Past: week by week from season start to yesterday (ensures completed scores)
+    # Future first: one wide call from today to DATE_TO (may lack scores)
+    r = session.get(
+        f"{BASE_URL}/scoreboard",
+        params={"dates": f"{TODAY.strftime('%Y%m%d')}-{DATE_TO.strftime('%Y%m%d')}", "limit": 200},
+        timeout=10,
+    )
+    r.raise_for_status()
+    for event in r.json().get("events", []):
+        games[event["id"]] = event
+
+    # Past last: week by week from season start to yesterday — overwrites future
+    # entries for any game that has since completed, ensuring scores are present
     yesterday = TODAY - timedelta(days=1)
     current = SEASON_START
     while current <= yesterday:
@@ -36,16 +47,6 @@ def fetch_games():
         for event in r.json().get("events", []):
             games[event["id"]] = event
         current += timedelta(days=7)
-
-    # Future: one wide call from today to DATE_TO
-    r = session.get(
-        f"{BASE_URL}/scoreboard",
-        params={"dates": f"{TODAY.strftime('%Y%m%d')}-{DATE_TO.strftime('%Y%m%d')}", "limit": 200},
-        timeout=10,
-    )
-    r.raise_for_status()
-    for event in r.json().get("events", []):
-        games[event["id"]] = event
 
     return list(games.values())
 
