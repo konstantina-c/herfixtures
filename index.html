@@ -236,6 +236,16 @@ body {
     margin-bottom: 24px; transition: color 0.4s;
   }
 
+  /* ── Disabled calendar button state — off-season feeds ── */
+  #live-page .btn-cal-disabled {
+    flex: 1; display: flex; align-items: center; justify-content: center;
+    font-family: 'DM Sans', sans-serif; font-size: 13px; font-weight: 600;
+    padding: 12px 10px; border-radius: 12px;
+    background: transparent; text-decoration: none;
+    color: var(--muted); border: 1.5px solid var(--border2);
+    cursor: default; opacity: 0.5; pointer-events: none;
+  }
+
   /* ── UCL Final Card ── */
   #live-page .final-card {
     border-radius: 20px;
@@ -609,46 +619,7 @@ body {
       <div class="section-title">Pick your competition.</div>
       <div class="feed-cards">
 
-        <!-- UCL Final — Celebrated Card -->
-        <div class="final-card" id="ucl-final-card">
-          <div class="final-card-inner">
-            <div class="final-date">Saturday, May 23 @ 6pm in Oslo</div>
-            <div class="final-matchup">
-              <div class="final-team">
-                <img class="final-crest" src="https://raw.githubusercontent.com/konstantina-c/herfixtures/main/assets/team-logos/barcelona.svg" alt="FC Barcelona crest">
-                <div class="final-team-name">Barcelona</div>
-              </div>
-              <div class="final-vs">vs</div>
-              <div class="final-team">
-                <img class="final-crest" src="https://raw.githubusercontent.com/konstantina-c/herfixtures/main/assets/team-logos/ol-lyonnais.svg" alt="OL Lyonnais crest">
-                <div class="final-team-name">OL Lyonnes</div>
-              </div>
-            </div>
-            <div class="final-subtitle">UEFA Women's Champions League Final</div>
-            <div class="final-divider"></div>
-            <div class="final-actions">
-              <a href="https://calendar.google.com/calendar/r?cid=webcal://herfixtures.vercel.app/womens_ucl.ics" target="_blank" class="btn-cal btn-google" onclick="gtag('event','add_to_calendar',{competition:'UCL Final',calendar:'Google'})">Add to Google</a>
-              <a href="webcal://herfixtures.vercel.app/womens_ucl.ics" class="btn-cal btn-apple" onclick="gtag('event','add_to_calendar',{competition:'UCL Final',calendar:'Apple'})">Add to Apple</a>
-            </div>
-          </div>
-        </div>
-
-        <div class="feed-card">
-          <div class="feed-header">
-            <div class="feed-icon">⚽</div>
-            <div class="feed-info">
-              <div class="feed-badge badge-live" id="ucl-badge">Season in progress</div>
-              <div class="feed-name">Women's Champions League</div>
-              <div class="feed-meta">UEFA · Europe · 75 matches</div>
-            </div>
-          </div>
-          <div class="feed-divider"></div>
-          <div class="feed-actions">
-            <a href="https://calendar.google.com/calendar/r?cid=webcal://herfixtures.vercel.app/womens_ucl.ics" target="_blank" class="btn-cal btn-google" onclick="gtag('event','add_to_calendar',{competition:'UCL Women',calendar:'Google'})">Add to Google</a>
-            <a href="webcal://herfixtures.vercel.app/womens_ucl.ics" class="btn-cal btn-apple" onclick="gtag('event','add_to_calendar',{competition:'UCL Women',calendar:'Apple'})">Add to Apple</a>
-          </div>
-        </div>
-
+        <!-- 1. WNBA — active season, first -->
         <div class="feed-card">
           <div class="feed-header">
             <div class="feed-icon">🏀</div>
@@ -665,20 +636,37 @@ body {
           </div>
         </div>
 
+        <!-- 2. UCL Women — off-season, buttons disabled -->
+        <div class="feed-card">
+          <div class="feed-header">
+            <div class="feed-icon">⚽</div>
+            <div class="feed-info">
+              <div class="feed-badge badge-offseason">New season starts 22 July</div>
+              <div class="feed-name">Women's Champions League</div>
+              <div class="feed-meta">UEFA · Europe · 2025/26 season complete</div>
+            </div>
+          </div>
+          <div class="feed-divider"></div>
+          <div class="feed-actions">
+            <span class="btn-cal-disabled">Add to Google</span>
+            <span class="btn-cal-disabled">Add to Apple</span>
+          </div>
+        </div>
+
+        <!-- 3. EuroLeague Women — off-season, buttons disabled -->
         <div class="feed-card">
           <div class="feed-header">
             <div class="feed-icon">🏀</div>
             <div class="feed-info">
               <div class="feed-badge badge-offseason">Season resumes October 2026</div>
               <div class="feed-name">EuroLeague Women</div>
-              <div class="feed-meta">Basketball · Europe · Season complete</div>
+              <div class="feed-meta">Basketball · Europe · 2025/26 season complete</div>
             </div>
           </div>
-          <div class="feed-anticipation">Subscribe now — fixtures appear in your calendar automatically when the season starts.</div>
           <div class="feed-divider"></div>
           <div class="feed-actions">
-            <a href="https://calendar.google.com/calendar/r?cid=webcal://herfixtures.vercel.app/euroleague_women.ics" target="_blank" class="btn-cal btn-google" onclick="gtag('event','add_to_calendar',{competition:'EuroLeague Women',calendar:'Google'})">Add to Google</a>
-            <a href="webcal://herfixtures.vercel.app/euroleague_women.ics" class="btn-cal btn-apple" onclick="gtag('event','add_to_calendar',{competition:'EuroLeague Women',calendar:'Apple'})">Add to Apple</a>
+            <span class="btn-cal-disabled">Add to Google</span>
+            <span class="btn-cal-disabled">Add to Apple</span>
           </div>
         </div>
 
@@ -703,13 +691,12 @@ body {
     <!-- Email capture -->
     <div class="email-wrap">
       <div class="email-section-title">New competitions<br>added regularly.</div>
-      <div class="email-sub">Want to know when yours is live? Leave your details — one notification and nothing else.</div>
+      <div class="email-sub">Want to know when yours is live? Leave your details — be the first to know.</div>
       <div class="email-fields">
         <input class="email-input" type="email" id="email-input-main" placeholder="your@email.com">
         <input class="email-input" type="text" id="league-input-main" placeholder="Your favourite league or team">
       </div>
-      <button class="email-btn" onclick="subscribeHer('email-input-main','league-input-main',this)">Notify me when it's live</button>
-      <div class="email-disclaimer">One email. No newsletters. No spam. Unsubscribe any time.</div>
+      <button class="email-btn" onclick="subscribeHer('email-input-main','league-input-main',this)">Be the first to know</button>
     </div>
 
   </div><!-- /page-content -->
@@ -734,14 +721,6 @@ body {
 </div><!-- /live-page -->
 
 <script>
-/* Mockup toggle */
-function toggleTheme() {
-  const h = document.documentElement;
-  const isDark = h.getAttribute('data-theme') === 'dark';
-  h.setAttribute('data-theme', isDark ? 'light' : 'dark');
-  document.getElementById('tlabel').textContent = isDark ? 'Light' : 'Dark';
-  document.getElementById('mlabel').textContent = isDark ? 'Light Mode — v7' : 'Dark Mode — v7';
-}
 /* Real page toggle */
 function toggleThemeReal() {
   const h = document.documentElement;
@@ -781,48 +760,6 @@ async function subscribeHer(emailId, leagueId, btn) {
   }
 }
 </script>
-<script>
-/* UCL Final countdown badge */
-(function() {
-  /* Hide the Final card after May 23 */
-  var finalCard = document.getElementById('ucl-final-card');
-  if (finalCard) {
-    var finalDate = new Date('2026-05-23T18:00:00+02:00');
-    if (new Date() > finalDate) {
-      finalCard.style.display = 'none';
-    }
-  }
 
-  var badge = document.getElementById('ucl-badge');
-  if (!badge) return;
-
-  var final = new Date('2026-05-23T18:00:00+02:00'); /* 18:00 CET = UTC+2 in May */
-  var now = new Date();
-
-  var diffMs = final - now;
-  var diffDays = Math.ceil(diffMs / (1000 * 60 * 60 * 24));
-
-  if (diffDays > 1) {
-    badge.textContent = diffDays + ' days until the Final';
-  } else if (diffDays === 1) {
-    badge.textContent = '1 day until the Final';
-  } else if (diffDays === 0) {
-    badge.textContent = '🏆 Final today';
-    badge.style.background = 'rgba(245,200,66,0.15)';
-    badge.style.color = '#F5C842';
-    badge.style.borderColor = 'rgba(245,200,66,0.35)';
-  } else {
-    /* After the final — check if new season has started */
-    var newSeason = new Date('2026-07-22T00:00:00+02:00');
-    if (now >= newSeason) {
-      badge.textContent = 'Season in progress';
-    } else {
-      badge.textContent = 'New season starts 22 July';
-      badge.classList.remove('badge-live');
-      badge.classList.add('badge-offseason');
-    }
-  }
-})();
-</script>
 </body>
 </html>
