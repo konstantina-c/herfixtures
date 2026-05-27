@@ -1,0 +1,633 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//WNBA 2026 Connecticut Sun//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Connecticut Sun 2026 fixtures. Updated automatically by HerFi
+ xtures.com
+X-WR-CALNAME:Connecticut Sun 2026 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🏀 Connecticut Sun 75–106 New York Liberty ✓
+DTSTART:20260508T233000Z
+DTEND:20260509T020000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401856890-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Away Game\nConnecticut Sun at New York Liberty\nS
+ tatus: Final\nFinal score: Connecticut Sun 75 – New York Liberty 106\nWa
+ tch: ION\nVenue: Barclays Center\, Brooklyn\n\nFixtures by HerFixtures.com
+  — Women's Sports on Your Calendar
+LOCATION:Barclays Center\, Brooklyn
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Seattle Storm 89–82 Connecticut Sun ✓ 🏠
+DTSTART:20260510T170000Z
+DTEND:20260510T193000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401856896-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Home Game\nSeattle Storm at Connecticut Sun\nStat
+ us: Final\nFinal score: Seattle Storm 89 – Connecticut Sun 82\nWatch: NB
+ C Sports BO · CW Seattle · Prime Video-Seattle\nVenue: Mohegan Sun Arena
+ \, Uncasville\n\nFixtures by HerFixtures.com — Women's Sports on Your Ca
+ lendar
+LOCATION:Mohegan Sun Arena\, Uncasville
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Las Vegas Aces 98–69 Connecticut Sun ✓ 🏠
+DTSTART:20260514T000000Z
+DTEND:20260514T023000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401856905-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Home Game\nLas Vegas Aces at Connecticut Sun\nSta
+ tus: Final\nFinal score: Las Vegas Aces 98 – Connecticut Sun 69\nWatch: 
+ USA Net · Vegas 34\nVenue: Mohegan Sun Arena\, Uncasville\n\nFixtures by 
+ HerFixtures.com — Women's Sports on Your Calendar
+LOCATION:Mohegan Sun Arena\, Uncasville
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Las Vegas Aces 101–94 Connecticut Sun ✓ 🏠
+DTSTART:20260515T233000Z
+DTEND:20260516T020000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401856910-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Home Game\nLas Vegas Aces at Connecticut Sun\nSta
+ tus: Final\nFinal score: Las Vegas Aces 101 – Connecticut Sun 94\nWatch:
+  WNBA League Pass · Vegas 34 · NBC Sports BO\nVenue: Mohegan Sun Arena\,
+  Uncasville\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
+ ndar
+LOCATION:Mohegan Sun Arena\, Uncasville
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Connecticut Sun 82–83 Portland Fire ✓
+DTSTART:20260519T020000Z
+DTEND:20260519T043000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401856919-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Away Game\nConnecticut Sun at Portland Fire\nStat
+ us: Final\nFinal score: Connecticut Sun 82 – Portland Fire 83\nWatch: WN
+ BA League Pass · NBC Sports BO · Fox 12 Plus\nVenue: Moda Center\, Portl
+ and\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+LOCATION:Moda Center\, Portland
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Connecticut Sun 80–78 Seattle Storm ✓
+DTSTART:20260521T020000Z
+DTEND:20260521T043000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401856923-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Away Game\nConnecticut Sun at Seattle Storm\nStat
+ us: Final\nFinal score: Connecticut Sun 80 – Seattle Storm 78\nWatch: WN
+ BA League Pass · NBC Sports BO · CW Seattle · Prime Video-Seattle\nVenu
+ e: Climate Pledge Arena\, Seattle\n\nFixtures by HerFixtures.com — Women
+ 's Sports on Your Calendar
+LOCATION:Climate Pledge Arena\, Seattle
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Connecticut Sun 59–77 Seattle Storm ✓
+DTSTART:20260523T020000Z
+DTEND:20260523T043000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401856929-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Away Game\nConnecticut Sun at Seattle Storm\nStat
+ us: Final\nFinal score: Connecticut Sun 59 – Seattle Storm 77\nWatch: IO
+ N · WNBA League Pass\nVenue: Climate Pledge Arena\, Seattle\n\nFixtures b
+ y HerFixtures.com — Women's Sports on Your Calendar
+LOCATION:Climate Pledge Arena\, Seattle
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Connecticut Sun 70–97 Golden State Valkyries ✓
+DTSTART:20260526T020000Z
+DTEND:20260526T043000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401856937-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Away Game\nConnecticut Sun at Golden State Valkyr
+ ies\nStatus: Final\nFinal score: Connecticut Sun 70 – Golden State Valky
+ ries 97\nWatch: WNBA League Pass · NBC Sports BO · KPIX+\nVenue: Chase C
+ enter\, San Francisco\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LOCATION:Chase Center\, San Francisco
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Connecticut Sun @ Portland Fire
+DTSTART:20260528T020000Z
+DTEND:20260528T043000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401856941-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Away Game\nConnecticut Sun at Portland Fire\nStat
+ us: Scheduled\nWatch: WNBA League Pass · NBC Sports BO · Fox 12 Plus\nVe
+ nue: Moda Center\, Portland\nTickets: https://www.vividseats.com/portland-
+ fire-tickets-moda-center-5-27-2026--sports-wnba/production/6559293?wsUser=
+ 717\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+LOCATION:Moda Center\, Portland
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Los Angeles Sparks @ Connecticut Sun 🏠
+DTSTART:20260530T220000Z
+DTEND:20260531T003000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401856950-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Home Game\nLos Angeles Sparks at Connecticut Sun\
+ nStatus: Scheduled\nWatch: WNBA League Pass · Spectrum Sports Net · NBC 
+ Sports BO\nVenue: PeoplesBank Arena\, Hartford\nTickets: https://www.vivid
+ seats.com/connecticut-sun-tickets-hartford-peoplesbank-arena-5-30-2026/pro
+ duction/6559541?wsUser=717\n\nFixtures by HerFixtures.com — Women's Spor
+ ts on Your Calendar
+LOCATION:PeoplesBank Arena\, Hartford
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Connecticut Sun @ Atlanta Dream
+DTSTART:20260602T233000Z
+DTEND:20260603T020000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401856955-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Away Game\nConnecticut Sun at Atlanta Dream\nStat
+ us: Scheduled\nWatch: WNBA League Pass · NBC Sports BO · PeachtreeTV · 
+ Victory+ ATL\nVenue: Gateway Center\, College Park\nTickets: https://www.v
+ ividseats.com/atlanta-dream-tickets-gateway-center-arena-at-college-park-6
+ -2-2026--sports-wnba/production/6559029?wsUser=717\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+LOCATION:Gateway Center\, College Park
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Connecticut Sun @ Chicago Sky
+DTSTART:20260605T233000Z
+DTEND:20260606T020000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401856963-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Away Game\nConnecticut Sun at Chicago Sky\nStatus
+ : Scheduled\nWatch: ION · WNBA League Pass\nVenue: Wintrust Arena\, Chica
+ go\nTickets: https://www.vividseats.com/chicago-sky-tickets-wintrust-arena
+ -6-5-2026--sports-wnba/production/6558990?wsUser=717\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+LOCATION:Wintrust Arena\, Chicago
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 New York Liberty @ Connecticut Sun 🏠
+DTSTART:20260608T230000Z
+DTEND:20260609T013000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401856972-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Home Game\nNew York Liberty at Connecticut Sun\nS
+ tatus: Scheduled\nWatch: WNBA League Pass · Fox 5 New York · Liberty Liv
+ e · NBC Sports BO\nVenue: Mohegan Sun Arena\, Uncasville\nTickets: https:
+ //www.vividseats.com/connecticut-sun-tickets-mohegan-sun-arena-ct-6-8-2026
+ --sports-wnba/production/6559941?wsUser=717\n\nFixtures by HerFixtures.com
+  — Women's Sports on Your Calendar
+LOCATION:Mohegan Sun Arena\, Uncasville
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Connecticut Sun @ Toronto Tempo
+DTSTART:20260610T230000Z
+DTEND:20260611T013000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401856978-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Away Game\nConnecticut Sun at Toronto Tempo\nStat
+ us: Scheduled\nWatch: TSN · NBC Sports BO\nVenue: Coca-Cola Coliseum\, To
+ ronto\nTickets: https://www.vividseats.com/toronto-tempo-tickets-coca-cola
+ -coliseum-6-10-2026--sports-wnba/production/6559456?wsUser=717\n\nFixtures
+  by HerFixtures.com — Women's Sports on Your Calendar
+LOCATION:Coca-Cola Coliseum\, Toronto
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Indiana Fever @ Connecticut Sun 🏠
+DTSTART:20260613T220000Z
+DTEND:20260614T003000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401856986-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Home Game\nIndiana Fever at Connecticut Sun\nStat
+ us: Scheduled\nWatch: Peacock · NBCSN · WTHR Channel 13\nVenue: Mohegan 
+ Sun Arena\, Uncasville\nTickets: https://www.vividseats.com/connecticut-su
+ n-tickets-mohegan-sun-arena-ct-6-13-2026--sports-wnba/production/6559944?w
+ sUser=717\n\nFixtures by HerFixtures.com — Women's Sports on Your Calend
+ ar
+LOCATION:Mohegan Sun Arena\, Uncasville
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Washington Mystics @ Connecticut Sun 🏠
+DTSTART:20260617T230000Z
+DTEND:20260618T013000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401856996-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Home Game\nWashington Mystics at Connecticut Sun\
+ nStatus: Scheduled\nWatch: MNMT · NBC Sports BO\nVenue: Mohegan Sun Arena
+ \, Uncasville\nTickets: https://www.vividseats.com/connecticut-sun-tickets
+ -mohegan-sun-arena-ct-6-17-2026--sports-wnba/production/6559948?wsUser=717
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+LOCATION:Mohegan Sun Arena\, Uncasville
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Toronto Tempo @ Connecticut Sun 🏠
+DTSTART:20260619T233000Z
+DTEND:20260620T020000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401857003-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Home Game\nToronto Tempo at Connecticut Sun\nStat
+ us: Scheduled\nWatch: NBC Sports BO · TSN\nVenue: Mohegan Sun Arena\, Unc
+ asville\nTickets: https://www.vividseats.com/connecticut-sun-tickets-uncas
+ ville-mohegan-sun-arena-ct-6-19-2026/production/6559543?wsUser=717\n\nFixt
+ ures by HerFixtures.com — Women's Sports on Your Calendar
+LOCATION:Mohegan Sun Arena\, Uncasville
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Chicago Sky @ Connecticut Sun 🏠
+DTSTART:20260622T230000Z
+DTEND:20260623T013000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401857012-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Home Game\nChicago Sky at Connecticut Sun\nStatus
+ : Scheduled\nWatch: NBC Sports BO · CW26\nVenue: Mohegan Sun Arena\, Unca
+ sville\nTickets: https://www.vividseats.com/connecticut-sun-tickets-uncasv
+ ille-mohegan-sun-arena-ct-6-22-2026/production/6559545?wsUser=717\n\nFixtu
+ res by HerFixtures.com — Women's Sports on Your Calendar
+LOCATION:Mohegan Sun Arena\, Uncasville
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Washington Mystics @ Connecticut Sun 🏠
+DTSTART:20260626T233000Z
+DTEND:20260627T020000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401857024-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Home Game\nWashington Mystics at Connecticut Sun\
+ nStatus: Scheduled\nWatch: ION\nVenue: Mohegan Sun Arena\, Uncasville\nTic
+ kets: https://www.vividseats.com/connecticut-sun-tickets-uncasville-mohega
+ n-sun-arena-ct-6-26-2026/production/6559547?wsUser=717\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+LOCATION:Mohegan Sun Arena\, Uncasville
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Dallas Wings @ Connecticut Sun 🏠
+DTSTART:20260703T000000Z
+DTEND:20260703T023000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401857035-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Home Game\nDallas Wings at Connecticut Sun\nStatu
+ s: Scheduled\nWatch: Prime Video · KFAA-TV\nVenue: PeoplesBank Arena\, Ha
+ rtford\nTickets: https://www.vividseats.com/connecticut-sun-tickets-hartfo
+ rd-peoplesbank-arena-7-2-2026/production/6559549?wsUser=717\n\nFixtures by
+  HerFixtures.com — Women's Sports on Your Calendar
+LOCATION:PeoplesBank Arena\, Hartford
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Connecticut Sun @ Minnesota Lynx
+DTSTART:20260707T000000Z
+DTEND:20260707T023000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401857044-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Away Game\nConnecticut Sun at Minnesota Lynx\nSta
+ tus: Scheduled\nWatch: NBC Sports BO · Victory+ MIN\nVenue: Target Center
+ \, Minneapolis\nTickets: https://www.vividseats.com/minnesota-lynx-tickets
+ -target-center-7-6-2026--sports-wnba/production/6559076?wsUser=717\n\nFixt
+ ures by HerFixtures.com — Women's Sports on Your Calendar
+LOCATION:Target Center\, Minneapolis
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Minnesota Lynx @ Connecticut Sun 🏠
+DTSTART:20260708T233000Z
+DTEND:20260709T020000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401857049-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Home Game\nMinnesota Lynx at Connecticut Sun\nSta
+ tus: Scheduled\nWatch: USA Net · Victory+ MIN\nVenue: Mohegan Sun Arena\,
+  Uncasville\nTickets: https://www.vividseats.com/connecticut-sun-tickets-u
+ ncasville-mohegan-sun-arena-ct-7-8-2026/production/6559551?wsUser=717\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+LOCATION:Mohegan Sun Arena\, Uncasville
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Golden State Valkyries @ Connecticut Sun 🏠
+DTSTART:20260710T233000Z
+DTEND:20260711T020000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401857054-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Home Game\nGolden State Valkyries at Connecticut 
+ Sun\nStatus: Scheduled\nWatch: ION\nVenue: Mohegan Sun Arena\, Uncasville\
+ nTickets: https://www.vividseats.com/connecticut-sun-tickets-uncasville-mo
+ hegan-sun-arena-ct-7-10-2026/production/6559553?wsUser=717\n\nFixtures by 
+ HerFixtures.com — Women's Sports on Your Calendar
+LOCATION:Mohegan Sun Arena\, Uncasville
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Portland Fire @ Connecticut Sun 🏠
+DTSTART:20260714T150000Z
+DTEND:20260714T173000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401857066-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Home Game\nPortland Fire at Connecticut Sun\nStat
+ us: Scheduled\nWatch: NBC Sports BO · Fox 12 Plus\nVenue: Mohegan Sun Are
+ na\, Uncasville\nTickets: https://www.vividseats.com/connecticut-sun-ticke
+ ts-uncasville-mohegan-sun-arena-ct-7-14-2026/production/6559557?wsUser=717
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+LOCATION:Mohegan Sun Arena\, Uncasville
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Connecticut Sun @ Phoenix Mercury
+DTSTART:20260718T020000Z
+DTEND:20260718T043000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401857076-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Away Game\nConnecticut Sun at Phoenix Mercury\nSt
+ atus: Scheduled\nWatch: ION\nVenue: Mortgage Matchup Center\, Phoenix\nTic
+ kets: https://www.vividseats.com/phoenix-mercury-tickets-mortgage-matchup-
+ center-7-17-2026--sports-wnba/production/6559088?wsUser=717\n\nFixtures by
+  HerFixtures.com — Women's Sports on Your Calendar
+LOCATION:Mortgage Matchup Center\, Phoenix
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Connecticut Sun @ Phoenix Mercury
+DTSTART:20260719T230000Z
+DTEND:20260720T013000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401857082-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Away Game\nConnecticut Sun at Phoenix Mercury\nSt
+ atus: Scheduled\nWatch: ESPN\nVenue: Mortgage Matchup Center\, Phoenix\nTi
+ ckets: https://www.vividseats.com/phoenix-mercury-tickets-mortgage-matchup
+ -center-7-19-2026--sports-wnba/production/6559100?wsUser=717\n\nFixtures b
+ y HerFixtures.com — Women's Sports on Your Calendar
+LOCATION:Mortgage Matchup Center\, Phoenix
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Connecticut Sun @ Indiana Fever
+DTSTART:20260723T000000Z
+DTEND:20260723T023000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401857090-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Away Game\nConnecticut Sun at Indiana Fever\nStat
+ us: Scheduled\nWatch: USA Net · WTHR Channel 13\nVenue: Gainbridge Fieldh
+ ouse\, Indianapolis\nTickets: https://www.vividseats.com/indiana-fever-tic
+ kets-gainbridge-fieldhouse-7-22-2026--sports-wnba/production/6558926?wsUse
+ r=717\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+LOCATION:Gainbridge Fieldhouse\, Indianapolis
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Connecticut Sun @ Washington Mystics
+DTSTART:20260728T233000Z
+DTEND:20260729T020000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401857092-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Away Game\nConnecticut Sun at Washington Mystics\
+ nStatus: Scheduled\nWatch: NBA TV · MNMT · NBC Sports BO\nVenue: CareFir
+ st Arena\, Washington\nTickets: https://www.vividseats.com/washington-myst
+ ics-tickets-washington-carefirst-arena-7-28-2026/production/6559492?wsUser
+ =717\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+LOCATION:CareFirst Arena\, Washington
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Connecticut Sun @ Chicago Sky
+DTSTART:20260731T000000Z
+DTEND:20260731T023000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401857100-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Away Game\nConnecticut Sun at Chicago Sky\nStatus
+ : Scheduled\nWatch: Prime Video\nVenue: Wintrust Arena\, Chicago\nTickets:
+  https://www.vividseats.com/chicago-sky-tickets-wintrust-arena-7-30-2026--
+ sports-wnba/production/6559337?wsUser=717\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+LOCATION:Wintrust Arena\, Chicago
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Connecticut Sun @ Dallas Wings
+DTSTART:20260802T230000Z
+DTEND:20260803T013000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401857109-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Away Game\nConnecticut Sun at Dallas Wings\nStatu
+ s: Scheduled\nWatch: ESPN\nVenue: College Park Center\, Arlington\nTickets
+ : https://www.vividseats.com/dallas-wings-tickets-arlington-college-park-c
+ enter-8-2-2026/production/6559273?wsUser=717\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+LOCATION:College Park Center\, Arlington
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Phoenix Mercury @ Connecticut Sun 🏠
+DTSTART:20260807T233000Z
+DTEND:20260808T020000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401857122-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Home Game\nPhoenix Mercury at Connecticut Sun\nSt
+ atus: Scheduled\nWatch: ION\nVenue: Mohegan Sun Arena\, Uncasville\nTicket
+ s: https://www.vividseats.com/connecticut-sun-tickets-uncasville-mohegan-s
+ un-arena-ct-8-7-2026/production/6559559?wsUser=717\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+LOCATION:Mohegan Sun Arena\, Uncasville
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Atlanta Dream @ Connecticut Sun 🏠
+DTSTART:20260813T230000Z
+DTEND:20260814T013000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401857140-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Home Game\nAtlanta Dream at Connecticut Sun\nStat
+ us: Scheduled\nWatch: PeachtreeTV · Victory+ ATL · NBC Sports BO\nVenue:
+  Mohegan Sun Arena\, Uncasville\nTickets: https://www.vividseats.com/conne
+ cticut-sun-tickets-uncasville-mohegan-sun-arena-ct-8-13-2026/production/65
+ 59561?wsUser=717\n\nFixtures by HerFixtures.com — Women's Sports on Your
+  Calendar
+LOCATION:Mohegan Sun Arena\, Uncasville
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 New York Liberty @ Connecticut Sun 🏠
+DTSTART:20260815T170000Z
+DTEND:20260815T193000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401857145-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Home Game\nNew York Liberty at Connecticut Sun\nS
+ tatus: Scheduled\nWatch: Fox 5 New York · Liberty Live · NBC Sports BO\n
+ Venue: Mohegan Sun Arena\, Uncasville\nTickets: https://www.vividseats.com
+ /connecticut-sun-tickets-uncasville-mohegan-sun-arena-ct-8-15-2026/product
+ ion/6559563?wsUser=717\n\nFixtures by HerFixtures.com — Women's Sports o
+ n Your Calendar
+LOCATION:Mohegan Sun Arena\, Uncasville
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Los Angeles Sparks @ Connecticut Sun 🏠
+DTSTART:20260818T230000Z
+DTEND:20260819T013000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401857152-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Home Game\nLos Angeles Sparks at Connecticut Sun\
+ nStatus: Scheduled\nWatch: NBC Sports BO · Spectrum Sports Net\nVenue: TD
+  Garden\, Boston\nTickets: https://www.vividseats.com/connecticut-sun-tick
+ ets-boston-td-garden-8-18-2026/production/6559565?wsUser=717\n\nFixtures b
+ y HerFixtures.com — Women's Sports on Your Calendar
+LOCATION:TD Garden\, Boston
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Connecticut Sun @ Las Vegas Aces
+DTSTART:20260821T020000Z
+DTEND:20260821T043000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401857159-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Away Game\nConnecticut Sun at Las Vegas Aces\nSta
+ tus: Scheduled\nWatch: Vegas 34 · NBC Sports BO\nVenue: Michelob ULTRA Ar
+ ena\, Las Vegas\nTickets: https://www.vividseats.com/las-vegas-aces-ticket
+ s-michelob-ultra-arena-at-mandalay-bay-resort-and-casino-8-20-2026--sports
+ -wnba/production/6559063?wsUser=717\n\nFixtures by HerFixtures.com — Wom
+ en's Sports on Your Calendar
+LOCATION:Michelob ULTRA Arena\, Las Vegas
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Connecticut Sun @ Los Angeles Sparks
+DTSTART:20260823T010000Z
+DTEND:20260823T033000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401857165-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Away Game\nConnecticut Sun at Los Angeles Sparks\
+ nStatus: Scheduled\nWatch: Prime Video · Spectrum Sports Net\nVenue: cryp
+ to.com Arena\, Los Angeles\nTickets: https://www.vividseats.com/los-angele
+ s-sparks-tickets-cryptocom-arena-8-22-2026--sports-wnba/production/6559626
+ ?wsUser=717\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
+ ndar
+LOCATION:crypto.com Arena\, Los Angeles
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Chicago Sky @ Connecticut Sun 🏠
+DTSTART:20260825T230000Z
+DTEND:20260826T013000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401857173-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Home Game\nChicago Sky at Connecticut Sun\nStatus
+ : Scheduled\nWatch: NBC Sports BO · CW26\nVenue: Mohegan Sun Arena\, Unca
+ sville\nTickets: https://www.vividseats.com/connecticut-sun-tickets-uncasv
+ ille-mohegan-sun-arena-ct-8-25-2026/production/6559567?wsUser=717\n\nFixtu
+ res by HerFixtures.com — Women's Sports on Your Calendar
+LOCATION:Mohegan Sun Arena\, Uncasville
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Golden State Valkyries @ Connecticut Sun 🏠
+DTSTART:20260826T230000Z
+DTEND:20260827T013000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401857176-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Home Game\nGolden State Valkyries at Connecticut 
+ Sun\nStatus: Scheduled\nWatch: KPIX+ · NBC Sports BO\nVenue: Mohegan Sun 
+ Arena\, Uncasville\nTickets: https://www.vividseats.com/connecticut-sun-ti
+ ckets-uncasville-mohegan-sun-arena-ct-8-26-2026/production/6559569?wsUser=
+ 717\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+LOCATION:Mohegan Sun Arena\, Uncasville
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Connecticut Sun @ Indiana Fever
+DTSTART:20260828T233000Z
+DTEND:20260829T020000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401857181-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Away Game\nConnecticut Sun at Indiana Fever\nStat
+ us: Scheduled\nWatch: ION\nVenue: Gainbridge Fieldhouse\, Indianapolis\nTi
+ ckets: https://www.vividseats.com/indiana-fever-tickets-gainbridge-fieldho
+ use-8-28-2026--sports-wnba/production/6558960?wsUser=717\n\nFixtures by He
+ rFixtures.com — Women's Sports on Your Calendar
+LOCATION:Gainbridge Fieldhouse\, Indianapolis
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Connecticut Sun @ Dallas Wings
+DTSTART:20260831T000000Z
+DTEND:20260831T023000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401857189-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Away Game\nConnecticut Sun at Dallas Wings\nStatu
+ s: Scheduled\nWatch: KFAA-TV · NBC Sports BO\nVenue: College Park Center\
+ , Arlington\nTickets: https://www.vividseats.com/dallas-wings-tickets-arli
+ ngton-college-park-center-8-30-2026/production/6559285?wsUser=717\n\nFixtu
+ res by HerFixtures.com — Women's Sports on Your Calendar
+LOCATION:College Park Center\, Arlington
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Connecticut Sun @ Atlanta Dream
+DTSTART:20260917T233000Z
+DTEND:20260918T020000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401857190-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Away Game\nConnecticut Sun at Atlanta Dream\nStat
+ us: Scheduled\nWatch: Atlanta News First · Victory+ ATL · NBC Sports BO\
+ nVenue: Gateway Center\, College Park\nTickets: https://www.vividseats.com
+ /atlanta-dream-tickets-gateway-center-arena-at-college-park-9-17-2026--spo
+ rts-wnba/production/6559313?wsUser=717\n\nFixtures by HerFixtures.com — 
+ Women's Sports on Your Calendar
+LOCATION:Gateway Center\, College Park
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Minnesota Lynx @ Connecticut Sun 🏠
+DTSTART:20260920T170000Z
+DTEND:20260920T193000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401857201-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Home Game\nMinnesota Lynx at Connecticut Sun\nSta
+ tus: Scheduled\nWatch: NBC Sports BO · Victory+ MIN\nVenue: Mohegan Sun A
+ rena\, Uncasville\nTickets: https://www.vividseats.com/connecticut-sun-tic
+ kets-uncasville-mohegan-sun-arena-ct-9-20-2026/production/6559571?wsUser=7
+ 17\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+LOCATION:Mohegan Sun Arena\, Uncasville
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Connecticut Sun @ Washington Mystics
+DTSTART:20260922T233000Z
+DTEND:20260923T020000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401857208-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Away Game\nConnecticut Sun at Washington Mystics\
+ nStatus: Scheduled\nWatch: NBC Sports BO · MNMT\nVenue: CareFirst Arena\,
+  Washington\nTickets: https://www.vividseats.com/washington-mystics-ticket
+ s-washington-carefirst-arena-9-22-2026/production/6559508?wsUser=717\n\nFi
+ xtures by HerFixtures.com — Women's Sports on Your Calendar
+LOCATION:CareFirst Arena\, Washington
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Toronto Tempo @ Connecticut Sun 🏠
+DTSTART:20260924T230000Z
+DTEND:20260925T013000Z
+DTSTAMP:20260527T134752Z
+UID:wnba-401857215-18@herfixtures.com
+DESCRIPTION:WNBA 2026 · Home Game\nToronto Tempo at Connecticut Sun\nStat
+ us: Scheduled\nWatch: NBA TV · NBC Sports BO · TSN\nVenue: Mohegan Sun A
+ rena\, Uncasville\nTickets: https://www.vividseats.com/connecticut-sun-tic
+ kets-uncasville-mohegan-sun-arena-ct-9-24-2026/production/6559573?wsUser=7
+ 17\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+LOCATION:Mohegan Sun Arena\, Uncasville
+URL:https://herfixtures.com
+END:VEVENT
+END:VCALENDAR
