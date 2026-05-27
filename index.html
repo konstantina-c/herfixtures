@@ -210,6 +210,21 @@ body {
     box-shadow: 0 4px 16px rgba(7,62,227,0.3);
   }
 
+  #live-page .hero-social-proof {
+    font-size: 13px;
+    color: var(--muted);
+    margin-top: 20px;
+    position: relative; z-index: 1;
+    transition: color 0.4s;
+  }
+
+  #live-page .email-social-proof {
+    font-size: 13px;
+    color: var(--muted);
+    margin-top: 14px;
+    transition: color 0.4s;
+  }
+
   /* Dividers */
   #live-page .divider { height: 1px; background: var(--border); margin: 0 20px; transition: background 0.4s; }
 
@@ -609,6 +624,7 @@ body {
         <div class="arrow-btn">↓</div>
         See the feeds
       </div>
+      <p class="hero-social-proof">Already followed by fans in New York, Madrid, Paris, Amsterdam and more.</p>
     </div>
 
     <div class="divider"></div>
@@ -631,8 +647,8 @@ body {
           </div>
           <div class="feed-divider"></div>
           <div class="feed-actions">
-            <a href="https://calendar.google.com/calendar/r?cid=webcal://herfixtures.vercel.app/wnba.ics" target="_blank" class="btn-cal btn-google" onclick="handleCalendarClick(event,'https://calendar.google.com/calendar/r?cid=webcal://herfixtures.vercel.app/wnba.ics','WNBA','Google')">Add to Google</a>
-            <a href="webcal://herfixtures.vercel.app/wnba.ics" class="btn-cal btn-apple" onclick="handleCalendarClick(event,'webcal://herfixtures.vercel.app/wnba.ics','WNBA','Apple')">Add to Apple</a>
+            <a href="https://calendar.google.com/calendar/r?cid=webcal://herfixtures.vercel.app/wnba.ics" target="_blank" class="btn-cal btn-google" onclick="gtag('event','add_to_calendar',{competition:'WNBA',calendar:'Google'})">Add to Google</a>
+            <a href="webcal://herfixtures.vercel.app/wnba.ics" class="btn-cal btn-apple" onclick="gtag('event','add_to_calendar',{competition:'WNBA',calendar:'Apple'})">Add to Apple</a>
           </div>
         </div>
 
@@ -697,6 +713,7 @@ body {
         <input class="email-input" type="text" id="league-input-main" placeholder="Your favourite league or team">
       </div>
       <button class="email-btn" onclick="subscribeHer('email-input-main','league-input-main',this)">Be the first to know</button>
+      <p class="email-social-proof">Joined by fans in 7+ countries.</p>
     </div>
 
   </div><!-- /page-content -->
@@ -721,7 +738,6 @@ body {
 </div><!-- /live-page -->
 
 <script>
-function handleCalendarClick(e,url,competition,calendar){e.preventDefault();gtag('event','add_to_calendar',{competition:competition,calendar:calendar});setTimeout(()=>{window.location.href=url;},300);}
 /* Real page toggle */
 function toggleThemeReal() {
   const h = document.documentElement;
