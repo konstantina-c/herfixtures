@@ -860,7 +860,14 @@ async function subscribeHer(emailId, leagueId, btn) {
 }
 .wnba-close:hover { color: var(--text); background: var(--bg3); }
 
-/* ── Team grid ── */
+/* ── Modal inner layout ── */
+#wnbaMain {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-height: 0; /* critical for flex scroll child */
+  overflow: hidden;
+}
 .wnba-grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -868,6 +875,7 @@ async function subscribeHer(emailId, leagueId, btn) {
   padding: 16px 24px;
   overflow-y: auto;
   flex: 1;
+  min-height: 0;
 }
 .wnba-tile {
   border: 1px solid var(--border2);
@@ -994,36 +1002,35 @@ async function subscribeHer(emailId, leagueId, btn) {
     align-items: flex-end;
     padding: 0;
   }
-  .wnba-modal {
-    border-radius: 20px 20px 0 0;
-    max-width: 100%;
-    height: 80vh;
-    max-height: 80vh;
-    display: flex;
-    flex-direction: column;
-    animation: none !important;
-  }
+  /* Override desktop open/close animations completely */
   .wnba-overlay.is-open .wnba-modal {
     animation: sheetIn 0.3s ease-out forwards !important;
   }
   .wnba-overlay.is-closing .wnba-modal {
     animation: sheetOut 0.3s ease-out forwards !important;
   }
-  /* Scrollable grid fills available space */
+  .wnba-modal {
+    border-radius: 20px 20px 0 0;
+    max-width: 100%;
+    width: 100%;
+    height: 80vh;
+    max-height: 80vh;
+    display: flex;
+    flex-direction: column;
+  }
+  /* Grid scrolls, footer fixed */
   .wnba-grid {
     grid-template-columns: repeat(2, 1fr);
-    flex: 1;
-    overflow-y: auto;
     -webkit-overflow-scrolling: touch;
   }
-  /* Footer sticks to bottom */
   .wnba-modal-foot {
     flex-shrink: 0;
-    background: var(--card);
     border-top: 1px solid var(--border);
-    padding: 12px 20px 20px;
+    padding: 12px 20px 24px;
+    background: var(--card);
   }
-  /* All teams tile spans full width on mobile */
+  .wnba-foot-divider { display: none; }
+  /* All teams tile spans full width */
   .wnba-tile[data-team="all"] {
     grid-column: span 2;
     flex-direction: row;
@@ -1036,8 +1043,8 @@ async function subscribeHer(emailId, leagueId, btn) {
     font-size: 14px; font-weight: 500; text-align: left;
   }
   .wnba-tile[data-team="all"] .wnba-check { top: 4px; right: 4px; }
-  /* Handle pill */
-  .wnba-modal-bar { position: relative; }
+  /* Handle pill on bar */
+  .wnba-modal-bar { position: relative; cursor: grab; }
   .wnba-modal-bar::after {
     content: '';
     position: absolute; top: 8px; left: 50%;
@@ -1052,9 +1059,9 @@ async function subscribeHer(emailId, leagueId, btn) {
 <!-- ── Modal HTML ── -->
 <div class="wnba-overlay" id="wnbaOverlay" role="dialog" aria-modal="true" aria-label="Choose your WNBA team">
   <div class="wnba-modal" id="wnbaModal">
-    <div class="wnba-modal-bar"></div>
+    <div class="wnba-modal-bar" id="wnbaHandle"></div>
 
-    <!-- Main content (grid + footer) -->
+    <!-- Main content — head + scrollable grid -->
     <div id="wnbaMain">
       <div class="wnba-modal-head">
         <div>
@@ -1147,14 +1154,15 @@ async function subscribeHer(emailId, leagueId, btn) {
           <span class="wnba-tile-name">Washington Mystics</span>
           <div class="wnba-check"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
         </div>
-      </div>
+      </div><!-- /wnba-grid -->
+    </div><!-- /wnbaMain -->
 
-      <div class="wnba-modal-foot">
-        <div class="wnba-foot-divider"></div>
-        <div class="wnba-foot-btns">
-          <button class="wnba-btn-google" id="wnbaBtnGoogle" onclick="subscribeWNBA('google')">Add to Google</button>
-          <button class="wnba-btn-apple"  id="wnbaBtnApple"  onclick="subscribeWNBA('apple')">Add to Apple</button>
-        </div>
+    <!-- Footer — sits outside wnbaMain so it stays fixed at bottom -->
+    <div class="wnba-modal-foot" id="wnbaFoot">
+      <div class="wnba-foot-divider"></div>
+      <div class="wnba-foot-btns">
+        <button class="wnba-btn-google" id="wnbaBtnGoogle" onclick="subscribeWNBA('google')">Add to Google</button>
+        <button class="wnba-btn-apple"  id="wnbaBtnApple"  onclick="subscribeWNBA('apple')">Add to Apple</button>
       </div>
     </div>
 
@@ -1197,6 +1205,7 @@ function closeWNBAModal() {
 
 function resetModal() {
   document.getElementById('wnbaMain').style.display = '';
+  document.getElementById('wnbaFoot').style.display = '';
   document.getElementById('wnbaSuccess').classList.remove('is-visible');
 }
 
@@ -1204,6 +1213,9 @@ function resetModal() {
 document.getElementById('wnbaOverlay').addEventListener('click', function(e) {
   if (e.target === this) closeWNBAModal();
 });
+
+// Close on handle tap (mobile)
+document.getElementById('wnbaHandle').addEventListener('click', closeWNBAModal);
 
 // Close on Escape key
 document.addEventListener('keydown', function(e) {
@@ -1286,6 +1298,7 @@ function subscribeWNBA(calendar) {
   // Show success state after brief delay
   setTimeout(() => {
     document.getElementById('wnbaMain').style.display = 'none';
+    document.getElementById('wnbaFoot').style.display = 'none';
     document.getElementById('wnbaSuccess').classList.add('is-visible');
   }, 300);
 }
