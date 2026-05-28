@@ -210,21 +210,6 @@ body {
     box-shadow: 0 4px 16px rgba(7,62,227,0.3);
   }
 
-  #live-page .hero-social-proof {
-    font-size: 13px;
-    color: var(--muted);
-    margin-top: 20px;
-    position: relative; z-index: 1;
-    transition: color 0.4s;
-  }
-
-  #live-page .email-social-proof {
-    font-size: 13px;
-    color: var(--muted);
-    margin-top: 14px;
-    transition: color 0.4s;
-  }
-
   /* Dividers */
   #live-page .divider { height: 1px; background: var(--border); margin: 0 20px; transition: background 0.4s; }
 
@@ -431,6 +416,13 @@ body {
   }
   #live-page .btn-google { color: var(--brand-fg); border: 1.5px solid var(--brand-fg); }
   #live-page .btn-apple  { color: var(--coral); border: 1.5px solid var(--coral); }
+  #live-page .btn-choose-team {
+    width: 100%; color: var(--brand-fg); border: 1.5px solid var(--brand-fg);
+    background: transparent; cursor: pointer; font-family: 'DM Sans', sans-serif;
+  }
+  #live-page .btn-choose-team:hover {
+    background: var(--brand-fg); color: white;
+  }
 
   /* Email */
   #live-page .email-wrap {
@@ -624,7 +616,6 @@ body {
         <div class="arrow-btn">↓</div>
         See the feeds
       </div>
-      <p class="hero-social-proof">Already followed by fans in New York, Madrid, Paris, Amsterdam and more.</p>
     </div>
 
     <div class="divider"></div>
@@ -647,8 +638,9 @@ body {
           </div>
           <div class="feed-divider"></div>
           <div class="feed-actions">
-            <a href="https://calendar.google.com/calendar/r?cid=webcal://herfixtures.vercel.app/wnba.ics" target="_blank" class="btn-cal btn-google" onclick="gtag('event','add_to_calendar',{competition:'WNBA',calendar:'Google'})">Add to Google</a>
-            <a href="webcal://herfixtures.vercel.app/wnba.ics" class="btn-cal btn-apple" onclick="gtag('event','add_to_calendar',{competition:'WNBA',calendar:'Apple'})">Add to Apple</a>
+            <button class="btn-cal btn-choose-team" onclick="openWNBAModal()" aria-haspopup="dialog">
+              Add to Calendar
+            </button>
           </div>
         </div>
 
@@ -713,7 +705,6 @@ body {
         <input class="email-input" type="text" id="league-input-main" placeholder="Your favourite league or team">
       </div>
       <button class="email-btn" onclick="subscribeHer('email-input-main','league-input-main',this)">Be the first to know</button>
-      <p class="email-social-proof">Joined by fans in 7+ countries.</p>
     </div>
 
   </div><!-- /page-content -->
@@ -778,5 +769,478 @@ async function subscribeHer(emailId, leagueId, btn) {
 }
 </script>
 
+<!-- ── WNBA TEAM SELECTOR MODAL ──────────────────────────────────────────── -->
+<style>
+/* ── Modal overlay ── */
+.wnba-overlay {
+  display: none;
+  position: fixed; inset: 0; z-index: 500;
+  background: rgba(0,0,0,0.45);
+  align-items: center; justify-content: center;
+  padding: 20px;
+  transition: opacity 0.2s ease;
+}
+.wnba-overlay.is-open { display: flex; }
+.wnba-overlay.is-closing { pointer-events: none; }
+
+/* Fade-in/out for overlay and modal */
+@keyframes overlayIn  { from { opacity:0 } to { opacity:1 } }
+@keyframes overlayOut { from { opacity:1 } to { opacity:0 } }
+@keyframes modalIn    { from { opacity:0; transform:scale(0.95) } to { opacity:1; transform:scale(1) } }
+@keyframes modalOut   { from { opacity:1; transform:scale(1) } to { opacity:0; transform:scale(0.95) } }
+@keyframes sheetIn    { from { transform:translateY(100%) } to { transform:translateY(0) } }
+@keyframes sheetOut   { from { transform:translateY(0) } to { transform:translateY(100%) } }
+
+.wnba-overlay.is-open { animation: overlayIn 0.2s ease forwards; }
+.wnba-overlay.is-open .wnba-modal { animation: modalIn 0.25s ease forwards; }
+.wnba-overlay.is-closing { animation: overlayOut 0.2s ease forwards; }
+.wnba-overlay.is-closing .wnba-modal { animation: modalOut 0.2s ease forwards; }
+
+/* ── Desktop modal ── */
+.wnba-modal {
+  background: var(--card);
+  border-radius: 20px;
+  overflow: hidden;
+  width: 100%; max-width: 650px;
+  max-height: 90vh;
+  display: flex; flex-direction: column;
+  position: relative;
+  box-shadow: 0 24px 64px rgba(0,0,0,0.18);
+}
+.wnba-modal-bar {
+  height: 3px; flex-shrink: 0;
+  background: linear-gradient(to right, #073EE3, #FF4D4D);
+}
+.wnba-modal-head {
+  padding: 24px 24px 0;
+  display: flex; align-items: flex-start; justify-content: space-between;
+  flex-shrink: 0;
+}
+.wnba-modal-title {
+  font-family: 'Zalando Sans Expanded', sans-serif;
+  font-weight: 900;
+  font-size: 20px; color: var(--text);
+  margin-bottom: 6px; line-height: 1.2;
+  letter-spacing: -0.01em;
+}
+.wnba-modal-sub {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 16px; color: var(--muted); line-height: 1.5;
+}
+.wnba-close {
+  background: none; border: none; cursor: pointer;
+  color: var(--muted); font-size: 18px; padding: 4px;
+  line-height: 1; flex-shrink: 0; margin-left: 16px;
+  border-radius: 8px; transition: color 0.15s, background 0.15s;
+  font-family: 'DM Sans', sans-serif;
+}
+.wnba-close:hover { color: var(--text); background: var(--bg3); }
+
+/* ── Team grid ── */
+.wnba-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+  padding: 16px 24px;
+  overflow-y: auto;
+  flex: 1;
+}
+.wnba-tile {
+  border: 1px solid var(--border2);
+  border-radius: 12px;
+  padding: 12px 6px 10px;
+  display: flex; flex-direction: column;
+  align-items: center; gap: 8px;
+  cursor: pointer;
+  position: relative;
+  transition: border-color 0.15s, background 0.15s;
+  background: var(--card);
+  user-select: none;
+}
+.wnba-tile:hover {
+  border-color: var(--brand-fg);
+  background: var(--bg3);
+}
+.wnba-tile.is-selected {
+  border: 1.5px solid var(--brand-fg);
+  background: #EEF1FD;
+}
+[data-theme="dark"] .wnba-tile.is-selected { background: rgba(7,62,227,0.15); }
+.wnba-tile-logo {
+  width: 36px; height: 36px; object-fit: contain;
+  border-radius: 50%;
+}
+.wnba-tile-name {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 13px; font-weight: 400;
+  color: var(--text2);
+  text-align: center; line-height: 1.3;
+}
+.wnba-check {
+  position: absolute; top: 5px; right: 5px;
+  width: 16px; height: 16px; border-radius: 50%;
+  background: var(--brand-fg);
+  display: none; align-items: center; justify-content: center;
+}
+.wnba-tile.is-selected .wnba-check { display: flex; }
+
+/* Checkmark SVG pop animation */
+@keyframes checkPop {
+  0%   { transform: scale(0); opacity: 0; }
+  60%  { transform: scale(1.25); opacity: 1; }
+  100% { transform: scale(1); opacity: 1; }
+}
+.wnba-tile.is-selected .wnba-check { animation: checkPop 0.2s cubic-bezier(0.34,1.56,0.64,1) forwards; }
+
+/* ── Modal footer ── */
+.wnba-modal-foot {
+  padding: 0 24px 20px; flex-shrink: 0;
+}
+.wnba-foot-divider {
+  height: 1px; background: var(--border);
+  margin-bottom: 16px;
+}
+.wnba-foot-btns {
+  display: flex; gap: 12px;
+}
+.wnba-btn-google, .wnba-btn-apple {
+  flex: 1; padding: 13px 10px; border-radius: 12px;
+  font-family: 'DM Sans', sans-serif; font-size: 13px; font-weight: 600;
+  cursor: pointer; transition: all 0.2s; text-align: center;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.wnba-btn-google {
+  color: var(--brand-fg); border: 1.5px solid var(--brand-fg); background: transparent;
+}
+.wnba-btn-google:hover { background: var(--brand-fg); color: white; }
+.wnba-btn-apple {
+  color: var(--coral); border: 1.5px solid var(--coral); background: transparent;
+}
+.wnba-btn-apple:hover { background: var(--coral); color: white; }
+.wnba-btn-google:disabled, .wnba-btn-apple:disabled {
+  opacity: 0.35; cursor: default; pointer-events: none;
+}
+
+/* ── Success state ── */
+.wnba-success {
+  display: none;
+  flex-direction: column; align-items: center;
+  padding: 48px 32px 32px; text-align: center;
+}
+.wnba-success.is-visible { display: flex; }
+.wnba-success-icon {
+  width: 64px; height: 64px; border-radius: 50%;
+  background: linear-gradient(135deg, #073EE3, #FF4D4D);
+  display: flex; align-items: center; justify-content: center;
+  margin-bottom: 20px; font-size: 28px;
+}
+.wnba-success-title {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 18px; font-weight: 500; color: var(--text);
+  margin-bottom: 10px;
+}
+.wnba-success-sub {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 14px; color: var(--muted); line-height: 1.6;
+  margin-bottom: 28px; max-width: 360px;
+}
+.wnba-success-close {
+  padding: 12px 32px; border-radius: 12px;
+  background: transparent; border: 1.5px solid var(--brand-fg);
+  color: var(--brand-fg); font-family: 'DM Sans', sans-serif;
+  font-size: 14px; font-weight: 600; cursor: pointer;
+  transition: all 0.2s;
+}
+.wnba-success-close:hover { background: var(--brand-fg); color: white; }
+
+/* ── Mobile bottom sheet ── */
+@media (max-width: 640px) {
+  .wnba-overlay {
+    align-items: flex-end;
+    padding: 0;
+  }
+  .wnba-modal {
+    border-radius: 20px 20px 0 0;
+    max-width: 100%;
+    max-height: 92vh;
+    animation: none !important;
+    transition: transform 0.3s ease-out;
+  }
+  .wnba-overlay.is-open .wnba-modal {
+    animation: sheetIn 0.3s ease-out forwards !important;
+  }
+  .wnba-overlay.is-closing .wnba-modal {
+    animation: sheetOut 0.3s ease-out forwards !important;
+  }
+  .wnba-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  /* All teams tile spans full width on mobile */
+  .wnba-tile[data-team="all"] {
+    grid-column: span 2;
+    flex-direction: row;
+    padding: 14px 16px;
+    justify-content: flex-start;
+    gap: 12px;
+  }
+  .wnba-tile[data-team="all"] .wnba-tile-logo { flex-shrink: 0; }
+  .wnba-tile[data-team="all"] .wnba-tile-name {
+    font-size: 14px; font-weight: 500; text-align: left;
+  }
+  .wnba-tile[data-team="all"] .wnba-check { top: 4px; right: 4px; }
+  /* Handle pill */
+  .wnba-modal-bar { position: relative; }
+  .wnba-modal-bar::after {
+    content: '';
+    position: absolute; top: 8px; left: 50%;
+    transform: translateX(-50%);
+    width: 40px; height: 4px; border-radius: 2px;
+    background: rgba(7,62,227,0.2);
+  }
+  .wnba-foot-btns { flex-direction: column; gap: 8px; }
+}
+</style>
+
+<!-- ── Modal HTML ── -->
+<div class="wnba-overlay" id="wnbaOverlay" role="dialog" aria-modal="true" aria-label="Choose your WNBA team">
+  <div class="wnba-modal" id="wnbaModal">
+    <div class="wnba-modal-bar"></div>
+
+    <!-- Main content (grid + footer) -->
+    <div id="wnbaMain">
+      <div class="wnba-modal-head">
+        <div>
+          <div class="wnba-modal-title">Choose your team</div>
+          <div class="wnba-modal-sub">Select one or more — each adds a separate feed to your calendar.</div>
+        </div>
+        <button class="wnba-close" onclick="closeWNBAModal()" aria-label="Close">✕</button>
+      </div>
+
+      <div class="wnba-grid" id="wnbaGrid">
+        <!-- All teams tile -->
+        <div class="wnba-tile is-selected" data-team="all" data-slug="wnba" onclick="toggleTeam(this)">
+          <img class="wnba-tile-logo" src="https://a.espncdn.com/i/teamlogos/wnba/500/wnba.png" alt="All teams" onerror="this.style.opacity='0.3'">
+          <span class="wnba-tile-name">All teams</span>
+          <div class="wnba-check"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+        </div>
+        <!-- Individual teams -->
+        <div class="wnba-tile" data-team="20" data-slug="atlanta_dream" onclick="toggleTeam(this)">
+          <img class="wnba-tile-logo" src="https://a.espncdn.com/i/teamlogos/wnba/500/20.png" alt="Atlanta Dream" onerror="this.style.opacity='0.3'">
+          <span class="wnba-tile-name">Atlanta Dream</span>
+          <div class="wnba-check"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+        </div>
+        <div class="wnba-tile" data-team="19" data-slug="chicago_sky" onclick="toggleTeam(this)">
+          <img class="wnba-tile-logo" src="https://a.espncdn.com/i/teamlogos/wnba/500/19.png" alt="Chicago Sky" onerror="this.style.opacity='0.3'">
+          <span class="wnba-tile-name">Chicago Sky</span>
+          <div class="wnba-check"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+        </div>
+        <div class="wnba-tile" data-team="18" data-slug="connecticut_sun" onclick="toggleTeam(this)">
+          <img class="wnba-tile-logo" src="https://a.espncdn.com/i/teamlogos/wnba/500/18.png" alt="Connecticut Sun" onerror="this.style.opacity='0.3'">
+          <span class="wnba-tile-name">Connecticut Sun</span>
+          <div class="wnba-check"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+        </div>
+        <div class="wnba-tile" data-team="3" data-slug="dallas_wings" onclick="toggleTeam(this)">
+          <img class="wnba-tile-logo" src="https://a.espncdn.com/i/teamlogos/wnba/500/3.png" alt="Dallas Wings" onerror="this.style.opacity='0.3'">
+          <span class="wnba-tile-name">Dallas Wings</span>
+          <div class="wnba-check"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+        </div>
+        <div class="wnba-tile" data-team="129689" data-slug="golden_state_valkyries" onclick="toggleTeam(this)">
+          <img class="wnba-tile-logo" src="https://a.espncdn.com/i/teamlogos/wnba/500/129689.png" alt="Golden State Valkyries" onerror="this.style.opacity='0.3'">
+          <span class="wnba-tile-name">GS Valkyries</span>
+          <div class="wnba-check"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+        </div>
+        <div class="wnba-tile" data-team="5" data-slug="indiana_fever" onclick="toggleTeam(this)">
+          <img class="wnba-tile-logo" src="https://a.espncdn.com/i/teamlogos/wnba/500/5.png" alt="Indiana Fever" onerror="this.style.opacity='0.3'">
+          <span class="wnba-tile-name">Indiana Fever</span>
+          <div class="wnba-check"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+        </div>
+        <div class="wnba-tile" data-team="17" data-slug="las_vegas_aces" onclick="toggleTeam(this)">
+          <img class="wnba-tile-logo" src="https://a.espncdn.com/i/teamlogos/wnba/500/17.png" alt="Las Vegas Aces" onerror="this.style.opacity='0.3'">
+          <span class="wnba-tile-name">Las Vegas Aces</span>
+          <div class="wnba-check"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+        </div>
+        <div class="wnba-tile" data-team="6" data-slug="los_angeles_sparks" onclick="toggleTeam(this)">
+          <img class="wnba-tile-logo" src="https://a.espncdn.com/i/teamlogos/wnba/500/6.png" alt="Los Angeles Sparks" onerror="this.style.opacity='0.3'">
+          <span class="wnba-tile-name">LA Sparks</span>
+          <div class="wnba-check"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+        </div>
+        <div class="wnba-tile" data-team="8" data-slug="minnesota_lynx" onclick="toggleTeam(this)">
+          <img class="wnba-tile-logo" src="https://a.espncdn.com/i/teamlogos/wnba/500/8.png" alt="Minnesota Lynx" onerror="this.style.opacity='0.3'">
+          <span class="wnba-tile-name">Minnesota Lynx</span>
+          <div class="wnba-check"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+        </div>
+        <div class="wnba-tile" data-team="9" data-slug="new_york_liberty" onclick="toggleTeam(this)">
+          <img class="wnba-tile-logo" src="https://a.espncdn.com/i/teamlogos/wnba/500/9.png" alt="New York Liberty" onerror="this.style.opacity='0.3'">
+          <span class="wnba-tile-name">NY Liberty</span>
+          <div class="wnba-check"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+        </div>
+        <div class="wnba-tile" data-team="11" data-slug="phoenix_mercury" onclick="toggleTeam(this)">
+          <img class="wnba-tile-logo" src="https://a.espncdn.com/i/teamlogos/wnba/500/11.png" alt="Phoenix Mercury" onerror="this.style.opacity='0.3'">
+          <span class="wnba-tile-name">Phoenix Mercury</span>
+          <div class="wnba-check"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+        </div>
+        <div class="wnba-tile" data-team="132052" data-slug="portland_fire" onclick="toggleTeam(this)">
+          <img class="wnba-tile-logo" src="https://a.espncdn.com/i/teamlogos/wnba/500/132052.png" alt="Portland Fire" onerror="this.style.opacity='0.3'">
+          <span class="wnba-tile-name">Portland Fire</span>
+          <div class="wnba-check"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+        </div>
+        <div class="wnba-tile" data-team="14" data-slug="seattle_storm" onclick="toggleTeam(this)">
+          <img class="wnba-tile-logo" src="https://a.espncdn.com/i/teamlogos/wnba/500/14.png" alt="Seattle Storm" onerror="this.style.opacity='0.3'">
+          <span class="wnba-tile-name">Seattle Storm</span>
+          <div class="wnba-check"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+        </div>
+        <div class="wnba-tile" data-team="131935" data-slug="toronto_tempo" onclick="toggleTeam(this)">
+          <img class="wnba-tile-logo" src="https://a.espncdn.com/i/teamlogos/wnba/500/131935.png" alt="Toronto Tempo" onerror="this.style.opacity='0.3'">
+          <span class="wnba-tile-name">Toronto Tempo</span>
+          <div class="wnba-check"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+        </div>
+        <div class="wnba-tile" data-team="16" data-slug="washington_mystics" onclick="toggleTeam(this)">
+          <img class="wnba-tile-logo" src="https://a.espncdn.com/i/teamlogos/wnba/500/16.png" alt="Washington Mystics" onerror="this.style.opacity='0.3'">
+          <span class="wnba-tile-name">Washington Mystics</span>
+          <div class="wnba-check"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+        </div>
+      </div>
+
+      <div class="wnba-modal-foot">
+        <div class="wnba-foot-divider"></div>
+        <div class="wnba-foot-btns">
+          <button class="wnba-btn-google" id="wnbaBtnGoogle" onclick="subscribeWNBA('google')">Add to Google</button>
+          <button class="wnba-btn-apple"  id="wnbaBtnApple"  onclick="subscribeWNBA('apple')">Add to Apple</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Success state -->
+    <div class="wnba-success" id="wnbaSuccess">
+      <div class="wnba-success-icon">✓</div>
+      <div class="wnba-success-title">Added to your calendar</div>
+      <div class="wnba-success-sub">Fixtures will appear in your calendar next time it syncs. You won't miss a game.</div>
+      <button class="wnba-success-close" onclick="closeWNBAModal()">Close</button>
+    </div>
+
+  </div>
+</div>
+
+<script>
+/* ── WNBA Team Selector Modal ──────────────────────────────────────────────── */
+
+const BASE_URL = 'herfixtures.vercel.app';
+
+function openWNBAModal() {
+  const overlay = document.getElementById('wnbaOverlay');
+  overlay.classList.remove('is-closing');
+  overlay.classList.add('is-open');
+  document.body.style.overflow = 'hidden';
+  updateButtons();
+}
+
+function closeWNBAModal() {
+  const overlay = document.getElementById('wnbaOverlay');
+  const isMobile = window.innerWidth <= 640;
+  const duration = isMobile ? 300 : 200;
+
+  overlay.classList.add('is-closing');
+  setTimeout(() => {
+    overlay.classList.remove('is-open', 'is-closing');
+    document.body.style.overflow = '';
+    resetModal();
+  }, duration);
+}
+
+function resetModal() {
+  document.getElementById('wnbaMain').style.display = '';
+  document.getElementById('wnbaSuccess').classList.remove('is-visible');
+}
+
+// Close on overlay click (outside modal)
+document.getElementById('wnbaOverlay').addEventListener('click', function(e) {
+  if (e.target === this) closeWNBAModal();
+});
+
+// Close on Escape key
+document.addEventListener('keydown', function(e) {
+  if (e.key === 'Escape') closeWNBAModal();
+});
+
+function toggleTeam(tile) {
+  tile.classList.toggle('is-selected');
+  // Re-trigger checkmark animation on select
+  if (tile.classList.contains('is-selected')) {
+    const check = tile.querySelector('.wnba-check');
+    check.style.animation = 'none';
+    check.offsetHeight; // reflow
+    check.style.animation = '';
+  }
+  updateButtons();
+}
+
+function getSelected() {
+  return Array.from(document.querySelectorAll('.wnba-tile.is-selected'));
+}
+
+function getButtonLabel(platform) {
+  const selected = getSelected();
+  const count = selected.length;
+  const hasAll = selected.some(t => t.dataset.team === 'all');
+  const teamOnlyCount = selected.filter(t => t.dataset.team !== 'all').length;
+  const suffix = platform === 'google' ? 'Google' : 'Apple';
+
+  if (count === 0) return `Add to ${suffix}`;
+
+  // "All teams" selected alone
+  if (hasAll && teamOnlyCount === 0) return `Add all teams to ${suffix}`;
+
+  // Single specific team only (no "all teams")
+  if (!hasAll && count === 1) {
+    const name = selected[0].querySelector('.wnba-tile-name').textContent.trim();
+    return `Add ${name} to ${suffix}`;
+  }
+
+  // "All teams" + one or more individual teams
+  if (hasAll && teamOnlyCount > 0) return `Add selections to ${suffix}`;
+
+  // Multiple specific teams (no "all teams")
+  return `Add ${count} teams to ${suffix}`;
+}
+
+function updateButtons() {
+  const selected = getSelected();
+  const gBtn = document.getElementById('wnbaBtnGoogle');
+  const aBtn = document.getElementById('wnbaBtnApple');
+  const disabled = selected.length === 0;
+
+  gBtn.textContent = getButtonLabel('google');
+  aBtn.textContent = getButtonLabel('apple');
+  gBtn.disabled = disabled;
+  aBtn.disabled = disabled;
+}
+
+function subscribeWNBA(calendar) {
+  const selected = getSelected();
+  if (!selected.length) return;
+
+  selected.forEach(tile => {
+    const slug = tile.dataset.slug;
+    const filename = slug === 'wnba' ? 'wnba.ics' : `wnba_${slug}.ics`;
+    const webcalUrl = `webcal://${BASE_URL}/${filename}`;
+    const googleUrl = `https://calendar.google.com/calendar/r?cid=${webcalUrl}`;
+    const url = calendar === 'google' ? googleUrl : webcalUrl;
+
+    // GA4 tracking
+    gtag('event', 'add_to_calendar', {
+      competition: slug === 'wnba' ? 'WNBA' : `WNBA — ${tile.querySelector('.wnba-tile-name').textContent.trim()}`,
+      calendar: calendar === 'google' ? 'Google' : 'Apple'
+    });
+
+    window.open(url, '_blank');
+  });
+
+  // Show success state after brief delay
+  setTimeout(() => {
+    document.getElementById('wnbaMain').style.display = 'none';
+    document.getElementById('wnbaSuccess').classList.add('is-visible');
+  }, 300);
+}
+</script>
 </body>
 </html>
