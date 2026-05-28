@@ -24,14 +24,13 @@ jobs:
           RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
         run: python fetch_fixtures.py
       - name: Run WNBA fetch script
-        env:
-          BALLDONTLIE_API_KEY: ${{ secrets.BALLDONTLIE_API_KEY }}
         run: python fetch_wnba.py
+      - name: Run WNBA team feeds script
+        run: python fetch_wnba_teams.py
       - name: Commit and push updated feeds
         run: |
           git config user.name "HerFixtures Bot"
           git config user.email "bot@herfixtures.com"
-          git add womens_ucl.ics euroleague_women.ics wnba.ics
+          git add womens_ucl.ics euroleague_women.ics wnba.ics wnba_*.ics
           git diff --staged --quiet || git commit -m "Auto-refresh feeds"
           git push
- 
