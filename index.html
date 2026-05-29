@@ -660,6 +660,24 @@ body {
           </div>
         </div>
 
+        <!-- 2. NWSL — active season -->
+        <div class="feed-card">
+          <div class="feed-header">
+            <div class="feed-icon">⚽</div>
+            <div class="feed-info">
+              <div class="feed-badge badge-live">Season in progress</div>
+              <div class="feed-name">NWSL</div>
+              <div class="feed-meta">Football · USA · 2026 Season</div>
+            </div>
+          </div>
+          <div class="feed-divider"></div>
+          <div class="feed-actions">
+            <button class="btn-cal btn-choose-team" onclick="openNWSLModal()" aria-haspopup="dialog">
+              Add to Calendar
+            </button>
+          </div>
+        </div>
+
         <!-- 2. UCL Women — off-season, buttons disabled -->
         <div class="feed-card">
           <div class="feed-header">
@@ -861,7 +879,7 @@ async function subscribeHer(emailId, leagueId, btn) {
 .wnba-close:hover { color: var(--text); background: var(--bg3); }
 
 /* ── Modal inner layout ── */
-#wnbaMain {
+#feedMain {
   display: flex;
   flex-direction: column;
   flex: 1;
@@ -1056,227 +1074,242 @@ async function subscribeHer(emailId, leagueId, btn) {
 }
 </style>
 
-<!-- ── Modal HTML ── -->
-<div class="wnba-overlay" id="wnbaOverlay" role="dialog" aria-modal="true" aria-label="Choose your WNBA team">
-  <div class="wnba-modal" id="wnbaModal">
-    <div class="wnba-modal-bar" id="wnbaHandle"></div>
+<!-- ── SHARED FEED MODAL COMPONENT ──────────────────────────────────────────
+     One modal powers all competitions — WNBA, NWSL, and every future feed.
+     Open with: FeedModal.open(FEED_CONFIG)
+     ──────────────────────────────────────────────────────────────────────── -->
+<div class="wnba-overlay" id="feedOverlay" role="dialog" aria-modal="true" aria-label="Choose your team">
+  <div class="wnba-modal" id="feedModal">
+    <div class="wnba-modal-bar" id="feedHandle"></div>
 
-    <!-- Main content — head + scrollable grid -->
-    <div id="wnbaMain">
+    <div id="feedMain">
       <div class="wnba-modal-head">
         <div>
           <div class="wnba-modal-title">Choose your team</div>
-          <div class="wnba-modal-sub">Select one or more — each adds a separate feed to your calendar.</div>
+          <div class="wnba-modal-sub" id="feedSub">Select one or more — each adds a separate feed to your calendar.</div>
         </div>
-        <button class="wnba-close" onclick="closeWNBAModal()" aria-label="Close">✕</button>
+        <button class="wnba-close" onclick="FeedModal.close()" aria-label="Close">✕</button>
       </div>
-
-      <div class="wnba-grid" id="wnbaGrid">
-        <!-- Tiles rendered by renderFeedTiles() -->
-      </div><!-- /wnba-grid -->
-    </div><!-- /wnbaMain -->
-
-    <!-- Footer — sits outside wnbaMain so it stays fixed at bottom -->
-    <div class="wnba-modal-foot" id="wnbaFoot">
-      <div class="wnba-foot-divider"></div>
-      <div class="wnba-foot-btns">
-        <button class="wnba-btn-google" id="wnbaBtnGoogle" onclick="subscribeWNBA('google')">Add to Google</button>
-        <button class="wnba-btn-apple"  id="wnbaBtnApple"  onclick="subscribeWNBA('apple')">Add to Apple</button>
+      <div class="wnba-grid" id="feedGrid">
+        <!-- Tiles rendered dynamically by FeedModal.open() -->
       </div>
     </div>
 
-    <!-- Success state -->
-    <div class="wnba-success" id="wnbaSuccess">
+    <div class="wnba-modal-foot" id="feedFoot">
+      <div class="wnba-foot-divider"></div>
+      <div class="wnba-foot-btns">
+        <button class="wnba-btn-google" id="feedBtnGoogle" onclick="FeedModal.subscribe('google')">Add to Google</button>
+        <button class="wnba-btn-apple"  id="feedBtnApple"  onclick="FeedModal.subscribe('apple')">Add to Apple</button>
+      </div>
+    </div>
+
+    <div class="wnba-success" id="feedSuccess">
       <div class="wnba-success-icon">✓</div>
       <div class="wnba-success-title">Added to your calendar</div>
       <div class="wnba-success-sub">Fixtures will appear in your calendar next time it syncs. You won't miss a game.</div>
-      <button class="wnba-success-close" onclick="closeWNBAModal()">Close</button>
+      <button class="wnba-success-close" onclick="FeedModal.close()">Close</button>
     </div>
-
   </div>
 </div>
 
 <script>
-/* ── WNBA Team Selector Modal ──────────────────────────────────────────────── */
+/* ═══════════════════════════════════════════════════════════════════════════
+   FeedModal — reusable team selector component
+   Powers all competitions: WNBA, NWSL, and every future feed.
 
-const BASE_URL = 'herfixtures.vercel.app';
+   Usage:
+     FeedModal.open(WNBA_CONFIG);   // opens modal for WNBA
+     FeedModal.open(NWSL_CONFIG);   // opens modal for NWSL
 
-/* ── Reusable tile component ─────────────────────────────────────────────────
-   To add a new feed (e.g. NWSL), define a new FEED_TEAMS array below
-   and call renderFeedTiles('gridElementId', NWSL_TEAMS) on page load.
-   The tile CSS, animations, and selection logic all work automatically.
-   ────────────────────────────────────────────────────────────────────────── */
+   To add a new feed, define a CONFIG object (see WNBA_CONFIG / NWSL_CONFIG)
+   and call FeedModal.open(YOUR_CONFIG) from the card button.
+   No new HTML, no new CSS, no new JS logic needed.
+   ═══════════════════════════════════════════════════════════════════════════ */
 
+const BASE_URL  = 'herfixtures.vercel.app';
 const CHECK_SVG = `<svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
 
-const WNBA_TEAMS = [
-  { name: "All teams",            slug: "wnba",                    logo: "https://a.espncdn.com/i/teamlogos/leagues/500/wnba.png", selected: true },
-  { name: "Atlanta Dream",        slug: "atlanta_dream",            logo: "https://a.espncdn.com/i/teamlogos/wnba/500/20.png" },
-  { name: "Chicago Sky",          slug: "chicago_sky",              logo: "https://a.espncdn.com/i/teamlogos/wnba/500/19.png" },
-  { name: "Connecticut Sun",      slug: "connecticut_sun",          logo: "https://a.espncdn.com/i/teamlogos/wnba/500/18.png" },
-  { name: "Dallas Wings",         slug: "dallas_wings",             logo: "https://a.espncdn.com/i/teamlogos/wnba/500/3.png" },
-  { name: "GS Valkyries",         slug: "golden_state_valkyries",   logo: "https://a.espncdn.com/i/teamlogos/wnba/500/gs.png" },
-  { name: "Indiana Fever",        slug: "indiana_fever",            logo: "https://a.espncdn.com/i/teamlogos/wnba/500/5.png" },
-  { name: "Las Vegas Aces",       slug: "las_vegas_aces",           logo: "https://a.espncdn.com/i/teamlogos/wnba/500/17.png" },
-  { name: "LA Sparks",            slug: "los_angeles_sparks",       logo: "https://a.espncdn.com/i/teamlogos/wnba/500/6.png" },
-  { name: "Minnesota Lynx",       slug: "minnesota_lynx",           logo: "https://a.espncdn.com/i/teamlogos/wnba/500/8.png" },
-  { name: "NY Liberty",           slug: "new_york_liberty",         logo: "https://a.espncdn.com/i/teamlogos/wnba/500/9.png" },
-  { name: "Phoenix Mercury",      slug: "phoenix_mercury",          logo: "https://a.espncdn.com/i/teamlogos/wnba/500/11.png" },
-  { name: "Portland Fire",        slug: "portland_fire",            logo: "https://a.espncdn.com/i/teamlogos/wnba/500/por.png" },
-  { name: "Seattle Storm",        slug: "seattle_storm",            logo: "https://a.espncdn.com/i/teamlogos/wnba/500/14.png" },
-  { name: "Toronto Tempo",        slug: "toronto_tempo",            logo: "https://a.espncdn.com/i/teamlogos/wnba/500/tor.png" },
-  { name: "Washington Mystics",   slug: "washington_mystics",       logo: "https://a.espncdn.com/i/teamlogos/wnba/500/16.png" },
-];
+/* ── Team data ────────────────────────────────────────────────────────────── */
 
-/* Future feeds — add here when ready:
-const NWSL_TEAMS = [
-  { name: "All teams", slug: "nwsl", logo: "...", selected: true },
-  { name: "Angel City FC", slug: "nwsl_angel_city", logo: "..." },
-  ...
-];
-*/
+const WNBA_CONFIG = {
+  leagueSlug:  'wnba',
+  gaLabel:     'WNBA',
+  teams: [
+    { name: "All teams",          slug: "wnba",                  logo: "https://a.espncdn.com/i/teamlogos/leagues/500/wnba.png" },
+    { name: "Atlanta Dream",      slug: "atlanta_dream",          logo: "https://a.espncdn.com/i/teamlogos/wnba/500/20.png" },
+    { name: "Chicago Sky",        slug: "chicago_sky",            logo: "https://a.espncdn.com/i/teamlogos/wnba/500/19.png" },
+    { name: "Connecticut Sun",    slug: "connecticut_sun",        logo: "https://a.espncdn.com/i/teamlogos/wnba/500/18.png" },
+    { name: "Dallas Wings",       slug: "dallas_wings",           logo: "https://a.espncdn.com/i/teamlogos/wnba/500/3.png" },
+    { name: "GS Valkyries",       slug: "golden_state_valkyries", logo: "https://a.espncdn.com/i/teamlogos/wnba/500/gs.png" },
+    { name: "Indiana Fever",      slug: "indiana_fever",          logo: "https://a.espncdn.com/i/teamlogos/wnba/500/5.png" },
+    { name: "Las Vegas Aces",     slug: "las_vegas_aces",         logo: "https://a.espncdn.com/i/teamlogos/wnba/500/17.png" },
+    { name: "LA Sparks",          slug: "los_angeles_sparks",     logo: "https://a.espncdn.com/i/teamlogos/wnba/500/6.png" },
+    { name: "Minnesota Lynx",     slug: "minnesota_lynx",         logo: "https://a.espncdn.com/i/teamlogos/wnba/500/8.png" },
+    { name: "NY Liberty",         slug: "new_york_liberty",       logo: "https://a.espncdn.com/i/teamlogos/wnba/500/9.png" },
+    { name: "Phoenix Mercury",    slug: "phoenix_mercury",        logo: "https://a.espncdn.com/i/teamlogos/wnba/500/11.png" },
+    { name: "Portland Fire",      slug: "portland_fire",          logo: "https://a.espncdn.com/i/teamlogos/wnba/500/por.png" },
+    { name: "Seattle Storm",      slug: "seattle_storm",          logo: "https://a.espncdn.com/i/teamlogos/wnba/500/14.png" },
+    { name: "Toronto Tempo",      slug: "toronto_tempo",          logo: "https://a.espncdn.com/i/teamlogos/wnba/500/tor.png" },
+    { name: "Washington Mystics", slug: "washington_mystics",     logo: "https://a.espncdn.com/i/teamlogos/wnba/500/16.png" },
+  ]
+};
 
-function renderFeedTiles(gridId, teams) {
-  const grid = document.getElementById(gridId);
-  if (!grid) return;
-  grid.innerHTML = '';
-  teams.forEach(team => {
-    const tile = document.createElement('div');
-    tile.className = 'wnba-tile' + (team.selected ? ' is-selected' : '');
-    tile.dataset.slug = team.slug;
-    if (team.slug === 'wnba' || team.slug === 'nwsl') tile.dataset.team = 'all';
-    tile.onclick = () => toggleTeam(tile);
-    tile.innerHTML = `
-      <img class="wnba-tile-logo" src="${team.logo}" alt="${team.name}" onerror="this.style.opacity='0.3'">
-      <span class="wnba-tile-name">${team.name}</span>
-      <div class="wnba-check">${CHECK_SVG}</div>`;
-    grid.appendChild(tile);
-  });
-}
+const NWSL_CONFIG = {
+  leagueSlug:  'nwsl',
+  gaLabel:     'NWSL',
+  teams: [
+    { name: "All teams",           slug: "nwsl",                       logo: "https://a.espncdn.com/i/leaguelogos/soccer/500/2323.png" },
+    { name: "Angel City FC",       slug: "nwsl_angel_city",             logo: "https://a.espncdn.com/i/teamlogos/soccer/500/21422.png" },
+    { name: "Bay FC",              slug: "nwsl_bay_fc",                 logo: "https://a.espncdn.com/i/teamlogos/soccer/500/22187.png" },
+    { name: "Boston Legacy FC",    slug: "nwsl_boston_legacy",          logo: "https://a.espncdn.com/i/teamlogos/soccer/500/131562.png" },
+    { name: "Chicago Stars FC",    slug: "nwsl_chicago_red_stars",      logo: "https://a.espncdn.com/i/teamlogos/soccer/500/15360.png" },
+    { name: "Denver Summit FC",    slug: "nwsl_denver_summit",          logo: "https://a.espncdn.com/i/teamlogos/soccer/500/131563.png" },
+    { name: "Gotham FC",           slug: "nwsl_gotham_fc",              logo: "https://a.espncdn.com/i/teamlogos/soccer/500/15364.png" },
+    { name: "Houston Dash",        slug: "nwsl_houston_dash",           logo: "https://a.espncdn.com/i/teamlogos/soccer/500/17346.png" },
+    { name: "Kansas City Current", slug: "nwsl_kansas_city",            logo: "https://a.espncdn.com/i/teamlogos/soccer/500/20907.png" },
+    { name: "NC Courage",          slug: "nwsl_north_carolina_courage", logo: "https://a.espncdn.com/i/teamlogos/soccer/500/15366.png" },
+    { name: "Orlando Pride",       slug: "nwsl_orlando_pride",          logo: "https://a.espncdn.com/i/teamlogos/soccer/500/18206.png" },
+    { name: "Portland Thorns",     slug: "nwsl_portland_thorns",        logo: "https://a.espncdn.com/i/teamlogos/soccer/500/15362.png" },
+    { name: "Racing Louisville",   slug: "nwsl_racing_louisville",      logo: "https://a.espncdn.com/i/teamlogos/soccer/500/20905.png" },
+    { name: "San Diego Wave",      slug: "nwsl_san_diego_wave",         logo: "https://a.espncdn.com/i/teamlogos/soccer/500/21423.png" },
+    { name: "Seattle Reign",       slug: "nwsl_seattle_reign",          logo: "https://a.espncdn.com/i/teamlogos/soccer/500/15363.png" },
+    { name: "Utah Royals",         slug: "nwsl_utah_royals",            logo: "https://a.espncdn.com/i/teamlogos/soccer/500/19141.png" },
+    { name: "Washington Spirit",   slug: "nwsl_washington_spirit",      logo: "https://a.espncdn.com/i/teamlogos/soccer/500/15365.png" },
+  ]
+};
 
-/* Render tiles on page load */
-renderFeedTiles('wnbaGrid', WNBA_TEAMS);
+/* ── FeedModal component ─────────────────────────────────────────────────── */
 
-function openWNBAModal() {
-  const overlay = document.getElementById('wnbaOverlay');
-  overlay.classList.remove('is-closing');
-  overlay.classList.add('is-open');
-  document.body.style.overflow = 'hidden';
-  updateButtons();
-}
+const FeedModal = (() => {
+  let _config = null;
 
-function closeWNBAModal() {
-  const overlay = document.getElementById('wnbaOverlay');
-  const isMobile = window.innerWidth <= 640;
-  const duration = isMobile ? 300 : 200;
+  const overlay  = () => document.getElementById('feedOverlay');
+  const grid     = () => document.getElementById('feedGrid');
+  const btnG     = () => document.getElementById('feedBtnGoogle');
+  const btnA     = () => document.getElementById('feedBtnApple');
+  const main     = () => document.getElementById('feedMain');
+  const foot     = () => document.getElementById('feedFoot');
+  const success  = () => document.getElementById('feedSuccess');
 
-  overlay.classList.add('is-closing');
-  setTimeout(() => {
-    overlay.classList.remove('is-open', 'is-closing');
-    document.body.style.overflow = '';
-    resetModal();
-  }, duration);
-}
-
-function resetModal() {
-  document.getElementById('wnbaMain').style.display = '';
-  document.getElementById('wnbaFoot').style.display = '';
-  document.getElementById('wnbaSuccess').classList.remove('is-visible');
-}
-
-// Close on overlay click (outside modal)
-document.getElementById('wnbaOverlay').addEventListener('click', function(e) {
-  if (e.target === this) closeWNBAModal();
-});
-
-// Close on handle tap (mobile)
-document.getElementById('wnbaHandle').addEventListener('click', closeWNBAModal);
-
-// Close on Escape key
-document.addEventListener('keydown', function(e) {
-  if (e.key === 'Escape') closeWNBAModal();
-});
-
-function toggleTeam(tile) {
-  tile.classList.toggle('is-selected');
-  // Re-trigger checkmark animation on select
-  if (tile.classList.contains('is-selected')) {
-    const check = tile.querySelector('.wnba-check');
-    check.style.animation = 'none';
-    check.offsetHeight; // reflow
-    check.style.animation = '';
-  }
-  updateButtons();
-}
-
-function getSelected() {
-  return Array.from(document.querySelectorAll('.wnba-tile.is-selected'));
-}
-
-function getButtonLabel(platform) {
-  const selected = getSelected();
-  const count = selected.length;
-  const hasAll = selected.some(t => t.dataset.team === 'all');
-  const teamOnlyCount = selected.filter(t => t.dataset.team !== 'all').length;
-  const suffix = platform === 'google' ? 'Google' : 'Apple';
-
-  if (count === 0) return `Add to ${suffix}`;
-
-  // "All teams" selected alone
-  if (hasAll && teamOnlyCount === 0) return `Add all teams to ${suffix}`;
-
-  // Single specific team only (no "all teams")
-  if (!hasAll && count === 1) {
-    const name = selected[0].querySelector('.wnba-tile-name').textContent.trim();
-    return `Add ${name} to ${suffix}`;
-  }
-
-  // "All teams" + one or more individual teams
-  if (hasAll && teamOnlyCount > 0) return `Add selections to ${suffix}`;
-
-  // Multiple specific teams (no "all teams")
-  return `Add ${count} teams to ${suffix}`;
-}
-
-function updateButtons() {
-  const selected = getSelected();
-  const gBtn = document.getElementById('wnbaBtnGoogle');
-  const aBtn = document.getElementById('wnbaBtnApple');
-  const disabled = selected.length === 0;
-
-  gBtn.textContent = getButtonLabel('google');
-  aBtn.textContent = getButtonLabel('apple');
-  gBtn.disabled = disabled;
-  aBtn.disabled = disabled;
-}
-
-function subscribeWNBA(calendar) {
-  const selected = getSelected();
-  if (!selected.length) return;
-
-  selected.forEach(tile => {
-    const slug = tile.dataset.slug;
-    const filename = slug === 'wnba' ? 'wnba.ics' : `wnba_${slug}.ics`;
-    const webcalUrl = `webcal://${BASE_URL}/${filename}`;
-    const googleUrl = `https://calendar.google.com/calendar/r?cid=${webcalUrl}`;
-    const url = calendar === 'google' ? googleUrl : webcalUrl;
-
-    // GA4 tracking
-    gtag('event', 'add_to_calendar', {
-      competition: slug === 'wnba' ? 'WNBA' : `WNBA — ${tile.querySelector('.wnba-tile-name').textContent.trim()}`,
-      calendar: calendar === 'google' ? 'Google' : 'Apple'
+  function renderTiles(teams) {
+    const g = grid();
+    g.innerHTML = '';
+    teams.forEach(team => {
+      const tile = document.createElement('div');
+      tile.className = 'wnba-tile'; // clean state — nothing pre-selected
+      tile.dataset.slug = team.slug;
+      if (team.slug === _config.leagueSlug) tile.dataset.team = 'all';
+      tile.onclick = () => { toggleTile(tile); updateButtons(); };
+      tile.innerHTML = `
+        <img class="wnba-tile-logo" src="${team.logo}" alt="${team.name}" onerror="this.style.opacity='0.3'">
+        <span class="wnba-tile-name">${team.name}</span>
+        <div class="wnba-check">${CHECK_SVG}</div>`;
+      g.appendChild(tile);
     });
+  }
 
-    window.open(url, '_blank');
-  });
+  function toggleTile(tile) {
+    tile.classList.toggle('is-selected');
+    if (tile.classList.contains('is-selected')) {
+      const check = tile.querySelector('.wnba-check');
+      check.style.animation = 'none';
+      check.offsetHeight;
+      check.style.animation = '';
+    }
+  }
 
-  // Show success state after brief delay
-  setTimeout(() => {
-    document.getElementById('wnbaMain').style.display = 'none';
-    document.getElementById('wnbaFoot').style.display = 'none';
-    document.getElementById('wnbaSuccess').classList.add('is-visible');
-  }, 300);
-}
+  function getSelected() {
+    return Array.from(grid().querySelectorAll('.wnba-tile.is-selected'));
+  }
+
+  function getLabel(platform) {
+    const selected = getSelected();
+    const count = selected.length;
+    const leagueSlug = _config.leagueSlug;
+    const hasAll = selected.some(t => t.dataset.slug === leagueSlug);
+    const teamOnly = selected.filter(t => t.dataset.slug !== leagueSlug).length;
+    const suffix = platform === 'google' ? 'Google' : 'Apple';
+    if (count === 0)                      return `Add to ${suffix}`;
+    if (hasAll && teamOnly === 0)         return `Add all teams to ${suffix}`;
+    if (!hasAll && count === 1)           return `Add ${selected[0].querySelector('.wnba-tile-name').textContent.trim()} to ${suffix}`;
+    if (hasAll && teamOnly > 0)           return `Add selections to ${suffix}`;
+    return `Add ${count} teams to ${suffix}`;
+  }
+
+  function updateButtons() {
+    const disabled = getSelected().length === 0;
+    btnG().textContent = getLabel('google');
+    btnA().textContent = getLabel('apple');
+    btnG().disabled = disabled;
+    btnA().disabled = disabled;
+  }
+
+  function reset() {
+    main().style.display = '';
+    foot().style.display = '';
+    success().classList.remove('is-visible');
+    _config = null;
+  }
+
+  return {
+    open(config) {
+      _config = config;
+      renderTiles(config.teams);
+      updateButtons();
+      overlay().classList.remove('is-closing');
+      overlay().classList.add('is-open');
+      document.body.style.overflow = 'hidden';
+    },
+
+    close() {
+      const isMobile = window.innerWidth <= 640;
+      overlay().classList.add('is-closing');
+      setTimeout(() => {
+        overlay().classList.remove('is-open', 'is-closing');
+        document.body.style.overflow = '';
+        reset();
+      }, isMobile ? 300 : 200);
+    },
+
+    subscribe(calendar) {
+      if (!_config) return;
+      const selected = getSelected();
+      if (!selected.length) return;
+      selected.forEach(tile => {
+        const slug = tile.dataset.slug;
+        const isLeague = slug === _config.leagueSlug;
+        const filename = isLeague ? `${slug}.ics` : `${slug}.ics`;
+        const webcalUrl = `webcal://${BASE_URL}/${filename}`;
+        const url = calendar === 'google'
+          ? `https://calendar.google.com/calendar/r?cid=${webcalUrl}`
+          : webcalUrl;
+        gtag('event', 'add_to_calendar', {
+          competition: isLeague ? _config.gaLabel : `${_config.gaLabel} — ${tile.querySelector('.wnba-tile-name').textContent.trim()}`,
+          calendar: calendar === 'google' ? 'Google' : 'Apple'
+        });
+        window.open(url, '_blank');
+      });
+      setTimeout(() => {
+        main().style.display = 'none';
+        foot().style.display = 'none';
+        success().classList.add('is-visible');
+      }, 300);
+    }
+  };
+})();
+
+/* ── Event listeners ─────────────────────────────────────────────────────── */
+document.getElementById('feedOverlay').addEventListener('click', function(e) {
+  if (e.target === this) FeedModal.close();
+});
+document.getElementById('feedHandle').addEventListener('click', () => FeedModal.close());
+document.addEventListener('keydown', e => { if (e.key === 'Escape') FeedModal.close(); });
+
+/* ── Card button functions ───────────────────────────────────────────────── */
+function openWNBAModal() { FeedModal.open(WNBA_CONFIG); }
+function openNWSLModal() { FeedModal.open(NWSL_CONFIG); }
+/* Future: function openFIBAModal() { FeedModal.open(FIBA_CONFIG); } */
+
 </script>
 </body>
 </html>
