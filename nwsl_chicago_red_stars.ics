@@ -1,0 +1,1805 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//NWSL 2026 Chicago Red Stars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Chicago Red Stars 2026 fixtures. Updated automatically by Her
+ Fixtures.com
+X-WR-CALNAME:Chicago Red Stars 2026 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:San Diego Wave - Chicago Red Stars (3-2)
+DTSTART:20230326T020000Z
+DTEND:20230326T034500Z
+DTSTAMP:20260529T051517Z
+UID:NaUrePu1BehSIBuYih2SkIakezUkqOJu7ddtrVCV@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162043Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20230327T031124Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Houston Dash (1-2)
+DTSTART:20230401T180000Z
+DTEND:20230401T194500Z
+DTSTAMP:20260529T051517Z
+UID:DLJSyElGnmNNwq9z5fHK9edDXSRHcOvroobm4QWZ@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162043Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20230402T031136Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Kansas City (4-2)
+DTSTART:20230416T000000Z
+DTEND:20230416T014500Z
+DTSTAMP:20260529T051517Z
+UID:XRbPFlkwIk6WeFxVj4g9LaWCd9TEetlvauxZlcqU@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162044Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20230416T031136Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Chicago Red Stars (5-2)
+DTSTART:20230422T193000Z
+DTEND:20230422T211500Z
+DTSTAMP:20260529T051517Z
+UID:205VYtP1ni73KWnp4g13rdWpO4yTJ6NXTFiBJOh9@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162045Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20230423T031113Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Washington Spirit (1-1)
+DTSTART:20230430T000000Z
+DTEND:20230430T014500Z
+DTSTAMP:20260529T051517Z
+UID:4EWk35pAmu9ToKeqm3ucU6EP4egHpTtX4L1Ls5hZ@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162045Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20230430T031114Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Gotham FC
+DTSTART;VALUE=DATE:20230508
+DTEND;VALUE=DATE:20230509
+DTSTAMP:20260529T051517Z
+UID:EaMNRlEQclvpPMIyeMFXRjVsXiXAWDSQPVzJdICh@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162046Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20230301T162046Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Racing Louisville - Chicago Red Stars (3-0)
+DTSTART:20230512T233000Z
+DTEND:20230513T011500Z
+DTSTAMP:20260529T051517Z
+UID:E00BPin2BF0ORF7U4NDoKEW3ObgTJZFqODKBotPf@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162046Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20230513T031122Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portland Thorns - Chicago Red Stars (4-0)
+DTSTART:20230521T210000Z
+DTEND:20230521T224500Z
+DTSTAMP:20260529T051517Z
+UID:dGNGMPRt8Gb25oz1vAldaGoys77wrBoctytVsu0c@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162047Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20230522T031128Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Orlando Pride (1-0)
+DTSTART:20230528T000000Z
+DTEND:20230528T014500Z
+DTSTAMP:20260529T051517Z
+UID:kOJTtpHQASWSIBELgEfLdGCYNGlhDJCjT5KDonhy@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162048Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20230528T031128Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angel City - Chicago Red Stars (1-2)
+DTSTART:20230606T020000Z
+DTEND:20230606T034500Z
+DTSTAMP:20260529T051517Z
+UID:5b8c2dlGRAugwct9TVf1nmAI6t3wIUjZ72SKkZ3C@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162048Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20230607T031159Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - North Carolina Courage (0-5)
+DTSTART:20230611T000000Z
+DTEND:20230611T014500Z
+DTSTAMP:20260529T051517Z
+UID:zj7VMZNdkIFI345rOstmcmmrfKRpmb5cCPDhcudG@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162048Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20230611T031219Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Portland Thorns
+DTSTART;VALUE=DATE:20230619
+DTEND;VALUE=DATE:20230620
+DTSTAMP:20260529T051517Z
+UID:17uMScW6L1aioe1uELsxavByw3XiCKHb308jVXDW@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162049Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20230301T162049Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Chicago Red Stars (2-1)
+DTSTART:20230625T213000Z
+DTEND:20230625T231500Z
+DTSTAMP:20260529T051517Z
+UID:fEd95pgEF3XsPSEkOnlhTLNJ0oecIUtA7r8WLr1K@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162050Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20230627T031205Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - San Diego Wave (1-0)
+DTSTART:20230702T000000Z
+DTEND:20230702T014500Z
+DTSTAMP:20260529T051517Z
+UID:JSzcv5cS91DLtVY4wfRTefIcVgZjq7TPVsRznjlR@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162050Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20230702T031216Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Dash - Chicago Red Stars (0-1)
+DTSTART:20230708T003000Z
+DTEND:20230708T021500Z
+DTSTAMP:20260529T051517Z
+UID:XpS0BcWeD8FyAfWB984AvqMQoeokOOX59s9DnsE7@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162051Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20230708T031206Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orlando Pride - Chicago Red Stars (5-0)
+DTSTART:20230820T230000Z
+DTEND:20230821T004500Z
+DTSTAMP:20260529T051517Z
+UID:iVC4iEMfwIqmmDp9QfqaKUM5KnJJKN36wjmNxp0H@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162051Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20230821T031158Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Carolina Courage - Chicago Red Stars (1-1)
+DTSTART:20230827T180000Z
+DTEND:20230827T194500Z
+DTSTAMP:20260529T051517Z
+UID:WYCAg8skdEDilwCIF4vjIP36rD00WhTaLlD8ouSu@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162052Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20230828T031159Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Washington Spirit - Chicago Red Stars (0-2)
+DTSTART:20230903T210000Z
+DTEND:20230903T224500Z
+DTSTAMP:20260529T051517Z
+UID:p8muU77Dn0zR7lSRPjrgI9qskq9kpHIIoehHKy24@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162052Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20230904T031228Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Angel City
+DTSTART;VALUE=DATE:20230918
+DTEND;VALUE=DATE:20230919
+DTSTAMP:20260529T051517Z
+UID:7AqwkjYsKHu2Zqxh9Q8SFQ71o7fni5hD9pv8FPy8@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162053Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20230301T162053Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Racing Louisville (1-0)
+DTSTART:20231001T000000Z
+DTEND:20231001T014500Z
+DTSTAMP:20260529T051517Z
+UID:8dDEGfgEDq4WYoXdrwP2qKl7qpRKx5ignHJ6huSz@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162053Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20231001T031204Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas City - Chicago Red Stars (6-3)
+DTSTART:20231008T000000Z
+DTEND:20231008T014500Z
+DTSTAMP:20260529T051517Z
+UID:y5SVJj5Fe6asEPTHE9guXXhPautQcS6OLIZny5OY@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162054Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20231008T031200Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Seattle Reign (0-3)
+DTSTART:20231015T210000Z
+DTEND:20231015T224500Z
+DTSTAMP:20260529T051517Z
+UID:ucCoVS8KALQV4YDrCEplApZjys0ku8ltsZaa1IP1@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162054Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20231016T031200Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Utah Royals - Chicago Red Stars (0-2)
+DTSTART:20240316T233000Z
+DTEND:20240317T011500Z
+DTSTAMP:20260529T051517Z
+UID:3vHgxjoNtndhyqwMMyi7Jdd8xaPioU8iMVkHlmTh@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123631Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20240317T031203Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Seattle Reign (2-1)
+DTSTART:20240323T200000Z
+DTEND:20240323T214500Z
+DTSTAMP:20260529T051517Z
+UID:wZZi8zhXtD9qnAJFYH9ehFfVm5PZHXMOeln3Rk8r@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123632Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20240324T031207Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orlando Pride - Chicago Red Stars (1-1)
+DTSTART;VALUE=DATE:20240330
+DTEND;VALUE=DATE:20240331
+DTSTAMP:20260529T051517Z
+UID:7YivTz1aAeU6ljHpfFvK40uXbxLg8Pi70dEQCDxP@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123632Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20241101T031234Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Angel City (0-1)
+DTSTART:20240414T013000Z
+DTEND:20240414T031500Z
+DTSTAMP:20260529T051517Z
+UID:oGZBvD4uRzvwiBezhV8eqAxNhsKBxPrJUmn5Ix4x@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123633Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20240415T031227Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Chicago Red Stars (1-2)
+DTSTART;VALUE=DATE:20240422
+DTEND;VALUE=DATE:20240423
+DTSTAMP:20260529T051517Z
+UID:cWIIcNs5G40P9k7K0ldwnDbVr3iz5ghNu01HHy4m@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123633Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20241101T031235Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Portland Thorns (0-2)
+DTSTART:20240427T233000Z
+DTEND:20240428T011500Z
+DTSTAMP:20260529T051517Z
+UID:dvLmWYM0HLWeWvzWEQ92LF47WCWpBvd9Oo7DN8tR@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123634Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20240428T031129Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Washington Spirit (2-4)
+DTSTART:20240502T000000Z
+DTEND:20240502T014500Z
+DTSTAMP:20260529T051517Z
+UID:3bVvqyg3lTXfmqxeWwUOBznIbJG9ut5Pj3I05TcF@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123634Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20240502T031119Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bay FC - Chicago Red Stars (1-2)
+DTSTART:20240506T000000Z
+DTEND:20240506T014500Z
+DTSTAMP:20260529T051517Z
+UID:KjMHL5WqDzoRl1pFYepfr09ZRjI1OqmxmWT4f7y2@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123634Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20240506T031120Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Utah Royals (3-1)
+DTSTART:20240512T213000Z
+DTEND:20240512T231500Z
+DTSTAMP:20260529T051517Z
+UID:Lik0YfUo9rnfXMA4zZO4BGGHzI28mITlSpCwu8KN@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123635Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20240513T031130Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Chicago Red Stars (2-1)
+DTSTART:20240519T210000Z
+DTEND:20240519T224500Z
+DTSTAMP:20260529T051517Z
+UID:til3NTvFDbDDWh3XHtqY2HW2kzfphxP6ExzRX7FB@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123635Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20240520T031239Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Racing Louisville (0-1)
+DTSTART:20240525T233000Z
+DTEND:20240526T011500Z
+DTSTAMP:20260529T051517Z
+UID:w8ppnQRipaqokwDGX04AlpC7sGhahyw7QfaibzZq@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123636Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20240526T031133Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Bay FC (1-2)
+DTSTART:20240608T233000Z
+DTEND:20240609T011500Z
+DTSTAMP:20260529T051517Z
+UID:s4mOqYGZvPC6ooAtTWqGZ1DVrBHhavJQkRcs4s6U@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123636Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20240609T031136Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas City - Chicago Red Stars (2-2)
+DTSTART:20240615T000000Z
+DTEND:20240615T014500Z
+DTSTAMP:20260529T051517Z
+UID:EsD0KwgZieHbfh7vkUX1xRCJMDuXYnys2bXy3Fcd@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123636Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20240615T031122Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Carolina Courage - Chicago Red Stars (3-1)
+DTSTART;VALUE=DATE:20240624
+DTEND;VALUE=DATE:20240625
+DTSTAMP:20260529T051517Z
+UID:RH9aGbJJBmYXHFRQO8R1oQnHfrrGI15rTWWNE0qK@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123637Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20241007T031349Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego Wave - Chicago Red Stars (0-3)
+DTSTART:20240629T020000Z
+DTEND:20240629T034500Z
+DTSTAMP:20260529T051517Z
+UID:uefMS5WS3gwxiD8TKw21wuh2MiuvP94JTzp1oPXs@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123637Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20240630T031120Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Houston Dash (1-0)
+DTSTART:20240706T170000Z
+DTEND:20240706T184500Z
+DTSTAMP:20260529T051517Z
+UID:EIRqBdubYbvdF485mhrfx30OhLAYaM6cRLRsYRRD@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123638Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20240708T031155Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Racing Louisville - Chicago Red Stars (3-1)
+DTSTART:20240824T233000Z
+DTEND:20240825T011500Z
+DTSTAMP:20260529T051517Z
+UID:iZj5Isyq2nuBjRV05eHCvRJvGFsai9ucP92MNxx2@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123639Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20240826T031400Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angel City - Chicago Red Stars (2-1)
+DTSTART:20240901T200000Z
+DTEND:20240901T214500Z
+DTSTAMP:20260529T051517Z
+UID:hbtExajBoF1X1MqWkH0tpRIpBEufwCvVfHPxEbMN@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123639Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20240902T031414Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Orlando Pride (0-1)
+DTSTART;VALUE=DATE:20240909
+DTEND;VALUE=DATE:20240910
+DTSTAMP:20260529T051517Z
+UID:CD86k8SFl94NBjLynBnJigoID12vxeGUINaz0PCX@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123639Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20241007T031350Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portland Thorns - Chicago Red Stars (0-1)
+DTSTART:20240914T020000Z
+DTEND:20240914T034500Z
+DTSTAMP:20260529T051517Z
+UID:sEbz6i0PvGsKJQ7XhA95YlTbFLra7LhmZnygHDCK@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123640Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20240915T031251Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - San Diego Wave (1-0)
+DTSTART:20240922T013000Z
+DTEND:20240922T031500Z
+DTSTAMP:20260529T051517Z
+UID:YoLOBOUbZ03YNJvb3WdTPjeesgsHRyarmn2ba3PL@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123640Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20241003T031337Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - North Carolina Courage (1-3)
+DTSTART:20240929T000000Z
+DTEND:20240929T014500Z
+DTSTAMP:20260529T051517Z
+UID:6ibZSLHPHUAivkoS7vuZAG1RIWuBq6J6MLDaEfVS@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123641Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20241002T031302Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Dash - Chicago Red Stars (0-2)
+DTSTART:20241005T000000Z
+DTEND:20241005T014500Z
+DTSTAMP:20260529T051517Z
+UID:ATKgGyUMiwqcPn8EOEINZLRwvRw4seYONkOPpqbl@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123641Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20241006T031254Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Gotham FC (0-2)
+DTSTART:20241012T200000Z
+DTEND:20241012T214500Z
+DTSTAMP:20260529T051517Z
+UID:XuMNOtqiP67gJCKHheLTX6gay7ltzlQ4yiN9iBtL@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123641Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20241014T031244Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Washington Spirit - Chicago Red Stars (2-0)
+DTSTART:20241020T210000Z
+DTEND:20241020T224500Z
+DTSTAMP:20260529T051517Z
+UID:o8fqhntqVWFSg1o3bv6sNxe9vM2OJ9Errmld0f3A@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123642Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20241101T031239Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Kansas City (1-3)
+DTSTART:20241103T200000Z
+DTEND:20241103T214500Z
+DTSTAMP:20260529T051517Z
+UID:ZJ74NxxTdWgCISAwoOjC8HOc28eVDNNhYFIT5lhD@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123642Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20241104T031346Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orlando Pride - Chicago Red Stars (4-1)
+DTSTART:20241109T010000Z
+DTEND:20241109T024500Z
+DTSTAMP:20260529T051517Z
+UID:JjOUtBPS82NqMue9C9RKsf8VBLvn2GrN7rt808zX@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20241105T031257Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20241110T031254Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orlando Pride - Chicago Red Stars (6-0)
+DTSTART:20250315T000000Z
+DTEND:20250315T014500Z
+DTSTAMP:20260529T051517Z
+UID:WiYa0IHRYgO5Ghl61gal0eo67is46WrSQBOnlbNS@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250124T145536Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20250315T031156Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Houston Dash (1-2)
+DTSTART:20250323T190000Z
+DTEND:20250323T204500Z
+DTSTAMP:20260529T051517Z
+UID:Yn7vSOpL2JT3GSegBzmRG3fibBbpiTaFuO3dj8b9@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071343Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20250324T031148Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Racing Louisville (0-1)
+DTSTART:20250330T200000Z
+DTEND:20250330T214500Z
+DTSTAMP:20260529T051517Z
+UID:H5aGRYkgarsrdQBpk8A7NQrhTqEL4Q9ubfDaDVhg@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071343Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20250331T031214Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bay FC - Chicago Red Stars (1-2)
+DTSTART:20250413T230000Z
+DTEND:20250414T004500Z
+DTSTAMP:20260529T051517Z
+UID:8RYxrmamrqGloso0hi6SGOdux67hYMIx2ws76ZX8@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071344Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20250414T031249Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Utah Royals - Chicago Red Stars (1-0)
+DTSTART:20250419T013000Z
+DTEND:20250419T031500Z
+DTSTAMP:20260529T051517Z
+UID:sK445nf3JjQ6jzIXpb0hzIdmGXnwo9yky0Ygr3dJ@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071344Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20250420T031200Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - San Diego Wave (0-3)
+DTSTART:20250426T233000Z
+DTEND:20250427T011500Z
+DTSTAMP:20260529T051517Z
+UID:z0CV7XPovRdB2Bg6z114SZ7gqmXTBU3lk0S45p6O@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071344Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20250427T031148Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Chicago Red Stars (0-0)
+DTSTART:20250504T170000Z
+DTEND:20250504T184500Z
+DTSTAMP:20260529T051517Z
+UID:9kowWzoSn7znrY7hKJktgcMz7Mw1MpGXKClP6kBP@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071344Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20250505T031219Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Washington Spirit (2-3)
+DTSTART:20250510T165000Z
+DTEND:20250510T183500Z
+DTSTAMP:20260529T051517Z
+UID:t4cGEbJHjJJCRDKhrwTfdNTFRKefbDANKG1N2Kae@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071344Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20250511T031207Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Carolina Courage - Chicago Red Stars (2-0)
+DTSTART:20250517T210000Z
+DTEND:20250517T224500Z
+DTSTAMP:20260529T051517Z
+UID:U3KTPHizcXCi680ZAfjD88sqfNZ0ViIj2Dsl92p5@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071344Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20250518T031156Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Kansas City (1-3)
+DTSTART:20250524T233000Z
+DTEND:20250525T011500Z
+DTSTAMP:20260529T051517Z
+UID:bkH3EkhnzWMkoAv97W2L3C59IGCIhWgBCGUhsZrO@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071344Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20250525T031144Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angel City - Chicago Red Stars (2-2)
+DTSTART:20250608T020000Z
+DTEND:20250608T034500Z
+DTSTAMP:20260529T051517Z
+UID:jHAvPbYOFrteY9o6fUr90sB0bTAgEXqLyRVQbbVk@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071345Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20250609T031152Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Seattle Reign (2-2)
+DTSTART:20250614T210000Z
+DTEND:20250614T224500Z
+DTSTAMP:20260529T051517Z
+UID:CAZco4j0klfh0MloV65ankNUua2Nk4Tzh4HpsF5g@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071345Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20250615T031158Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portland Thorns - Chicago Red Stars (1-0)
+DTSTART:20250622T020000Z
+DTEND:20250622T034500Z
+DTSTAMP:20260529T051517Z
+UID:4U2665gFRo5aBRg1Ls0gBRnHMl1laSDJu7X4Kq9V@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071345Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20250623T031150Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Gotham FC (1-1)
+DTSTART:20250802T000000Z
+DTEND:20250802T014500Z
+DTSTAMP:20260529T051517Z
+UID:XCjKHtH8XcnVqDMGaznqrK5gZdliSJkWKPnPWfwD@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071345Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20250802T031157Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Bay FC (1-1)
+DTSTART:20250810T180000Z
+DTEND:20250810T194500Z
+DTSTAMP:20260529T051517Z
+UID:W3YpOayde4ndUwG5CKM3nxwCQKAYRS9XiJDIhtmA@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071345Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20250811T031211Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Chicago Red Stars (3-3)
+DTSTART:20250819T020000Z
+DTEND:20250819T034500Z
+DTSTAMP:20260529T051517Z
+UID:qmUvOqPp4gq59eQcr3tZpL4Ulu7BPtuPB1vxpUJS@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071346Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20250820T031248Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - North Carolina Courage (3-3)
+DTSTART:20250823T000000Z
+DTEND:20250823T014500Z
+DTSTAMP:20260529T051517Z
+UID:lsqISDqOCHvUcL3AdhNUhIAE1DD6Aqv1qYWOqrjx@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071346Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20250823T031202Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Washington Spirit - Chicago Red Stars (1-1)
+DTSTART:20250831T200000Z
+DTEND:20250831T214500Z
+DTSTAMP:20260529T051517Z
+UID:o8ygWJBltGz2vaF3qrGH1FHhlnSRFlUovq3KVcvA@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071346Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20250901T031151Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Orlando Pride (5-2)
+DTSTART:20250907T190000Z
+DTEND:20250907T204500Z
+DTSTAMP:20260529T051517Z
+UID:7bljsAiJdgFCIyraZch3MbTKxzzqlsQG3qm6hlH7@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071346Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20250908T031146Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Portland Thorns (1-1)
+DTSTART:20250914T190000Z
+DTEND:20250914T204500Z
+DTSTAMP:20260529T051517Z
+UID:RDRXb866QTy8jk4seeJm3sf081BnDsCLiJ23l4eF@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071346Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20250915T031146Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Dash - Chicago Red Stars (1-0)
+DTSTART:20250920T000000Z
+DTEND:20250920T014500Z
+DTSTAMP:20260529T051517Z
+UID:DYxAwYgNwV91kcmdqriIyKwfnrYbAeGwZPrl1hnW@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071346Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20250920T031156Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas City - Chicago Red Stars (4-1)
+DTSTART:20250927T000000Z
+DTEND:20250927T014500Z
+DTSTAMP:20260529T051517Z
+UID:mK2pf24jVbpeO3hfrJxvLeBLdZonlPz7B3Ws0KRT@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071347Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20250927T031219Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Utah Royals (2-2)
+DTSTART:20251005T200000Z
+DTEND:20251005T214500Z
+DTSTAMP:20260529T051517Z
+UID:17yKxJy3FX1JIFmD0psGrL5lzy3i9kN0BsDIlkXG@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071347Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20251006T031143Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Racing Louisville - Chicago Red Stars (1-1)
+DTSTART:20251010T233000Z
+DTEND:20251011T011500Z
+DTSTAMP:20260529T051517Z
+UID:CdCt7ITBiDwSCA2PRe6UgzFrCqymSkaf2RS3sL0h@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071347Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20251011T031149Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego Wave - Chicago Red Stars (6-1)
+DTSTART:20251019T020000Z
+DTEND:20251019T034500Z
+DTSTAMP:20260529T051517Z
+UID:QMbcA2757D5DVBXDL374p0ExnCQumT0jHUPNWMoK@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071347Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20251019T064723Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Angel City (2-1)
+DTSTART:20251102T221500Z
+DTEND:20251103T000000Z
+DTSTAMP:20260529T051517Z
+UID:hhZgr2955jVkgUTdBanLcOSNEs10jbwWVnLLS5Yd@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071348Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20251103T031215Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angel City - Chicago Red Stars
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+DTSTAMP:20260529T051517Z
+UID:gV6Ce88FK9xG2AOuKrtg3zwNaZAqx43rbE9IH0Kh@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071311Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20260122T071311Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Kansas City (2-1)
+DTSTART:20260322T180000Z
+DTEND:20260322T194500Z
+DTSTAMP:20260529T051517Z
+UID:8KBorqAHvVsf25IcF5arTByiBWOYSM6oSplqgecy@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071309Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20260323T031214Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Orlando Pride (0-3)
+DTSTART:20260326T000000Z
+DTEND:20260326T014500Z
+DTSTAMP:20260529T051517Z
+UID:lSUn71oCKVQV7scL5AdXSybOxjAnrBPCtOS4EUMy@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071311Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20260326T031203Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego Wave - Chicago Red Stars (2-0)
+DTSTART:20260329T004500Z
+DTEND:20260329T023000Z
+DTSTAMP:20260529T051517Z
+UID:ZzmFDPlgySEOiq2HWbQ6zALgF7Do4HmQjlrZi1EA@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071309Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20260329T031153Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Utah Royals - Chicago Red Stars (1-0)
+DTSTART:20260404T010000Z
+DTEND:20260404T024500Z
+DTSTAMP:20260529T051517Z
+UID:v1ywz0IfH32dAQ33fOxFQg69BFHb3jjwy1Vk9nDq@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071309Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20260404T031205Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Boston Legacy (2-0)
+DTSTART:20260425T223000Z
+DTEND:20260426T001500Z
+DTSTAMP:20260529T051517Z
+UID:gVJzdO9L8Wp5idLHmtonKtk0gMOH1GHNTcQpVPYr@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071311Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20260426T031152Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Gotham FC (0-2)
+DTSTART:20260430T000000Z
+DTEND:20260430T014500Z
+DTSTAMP:20260529T051517Z
+UID:1EeGqSASHmqyRwaANPYYnpsMvDdozkQh9eU1DAKA@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071309Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20260430T031228Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Portland Thorns (0-2)
+DTSTART:20260503T170000Z
+DTEND:20260503T184500Z
+DTSTAMP:20260529T051517Z
+UID:z8RpR3N32ezMiKCKLvOVwGRbwVSNIeom1Pb2m9YG@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071311Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20260504T031208Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas City - Chicago Red Stars (3-0)
+DTSTART:20260510T162500Z
+DTEND:20260510T181000Z
+DTSTAMP:20260529T051517Z
+UID:OwBpWtb6vMJOkO365kEpnpJKYkmpYxhIDHidvHf5@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071307Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20260511T031142Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Carolina Courage - Chicago Red Stars (4-0)
+DTSTART:20260516T223000Z
+DTEND:20260517T001500Z
+DTSTAMP:20260529T051517Z
+UID:qVT6ENB65gMF4meso76j4kiumVsJFGC4ZRxGnniT@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071308Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20260518T031327Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bay FC - Chicago Red Stars (0-1)
+DTSTART:20260524T210000Z
+DTEND:20260524T224500Z
+DTSTAMP:20260529T051517Z
+UID:hH6rcmxs8JTwh8g2nvRMKn8IrMtGzoZqrOldDUnU@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071310Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20260525T031140Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - San Diego Wave
+DTSTART:20260531T170000Z
+DTEND:20260531T184500Z
+DTSTAMP:20260529T051517Z
+UID:xuxZpBHdmvgjcaUSMpyLJjrkJTZkcWtADC58aIKw@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071308Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20260122T071308Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Utah Royals
+DTSTART:20260705T210000Z
+DTEND:20260705T224500Z
+DTSTAMP:20260529T051517Z
+UID:pg4Jw6nuiqSzngKnlDsx9fFidq7LY0ajrv1nOWEG@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071308Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20260122T071308Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston Legacy - Chicago Red Stars
+DTSTART:20260711T000000Z
+DTEND:20260711T014500Z
+DTSTAMP:20260529T051517Z
+UID:PcUzwNKZuuS2Cr5SOx4IRwCMZvNroTVAqRGpBrQT@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071310Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20260122T071310Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Angel City
+DTSTART:20260718T223000Z
+DTEND:20260719T001500Z
+DTSTAMP:20260529T051517Z
+UID:0EAatCGZ0y0jJjiB6h8h6KSwxnLI9wVh3sAtwhD7@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071308Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20260122T071308Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orlando Pride - Chicago Red Stars
+DTSTART:20260725T000000Z
+DTEND:20260725T014500Z
+DTSTAMP:20260529T051517Z
+UID:ab0BLV2Mw8w0309isO0IaEuTfBw9CjLPYd47iQDI@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071307Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20260122T071307Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Racing Louisville - Chicago Red Stars
+DTSTART:20260801T200000Z
+DTEND:20260801T214500Z
+DTSTAMP:20260529T051517Z
+UID:y2m1ajKkFktALI7hEJOE0PLOwYKnaUpxXcTkQXAm@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071306Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20260122T071306Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Bay FC
+DTSTART:20260809T230000Z
+DTEND:20260810T004500Z
+DTSTAMP:20260529T051517Z
+UID:GA67kukR2YeTOpSLJ7jdou9RMkXBfFDkM7ZsbJxG@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071305Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20260122T071305Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Chicago Red Stars
+DTSTART:20260815T020000Z
+DTEND:20260815T034500Z
+DTSTAMP:20260529T051517Z
+UID:jmhyCIFChQYV2bdyYZWU77NXYjUM9T4nOYoGcRZN@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071307Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20260122T071307Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Dash - Chicago Red Stars
+DTSTART:20260820T000000Z
+DTEND:20260820T014500Z
+DTSTAMP:20260529T051517Z
+UID:RBrn2r5mZrKyoAc8WbOkCMgoVxFGTDeuMf3EutPj@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071304Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20260122T071304Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Racing Louisville
+DTSTART:20260823T180000Z
+DTEND:20260823T194500Z
+DTSTAMP:20260529T051517Z
+UID:YRJiDvmgQ7F6PwnxBideYO6cWvoDcn4TwcqO3XfM@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071310Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20260122T071310Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Denver Summit - Chicago Red Stars
+DTSTART:20260830T004500Z
+DTEND:20260830T023000Z
+DTSTAMP:20260529T051517Z
+UID:dudbirJkEdSkI5mNI4eJOBNN9e4DCOtX4OPlRehe@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071306Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20260122T071306Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - North Carolina Courage
+DTSTART:20260906T200000Z
+DTEND:20260906T214500Z
+DTSTAMP:20260529T051517Z
+UID:vKgKcMjqTG1ele3DjtQpDG5rfxV3y0kTVLXmJAyH@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071306Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20260122T071306Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portland Thorns - Chicago Red Stars
+DTSTART:20260913T230000Z
+DTEND:20260914T004500Z
+DTSTAMP:20260529T051517Z
+UID:lhu0QyqxTN0A4qMAOcz4UuZvSiwXCsPG5XKPZhV3@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071306Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20260122T071306Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Washington Spirit
+DTSTART:20260920T210000Z
+DTEND:20260920T224500Z
+DTSTAMP:20260529T051517Z
+UID:ryUNBav78YhIHTWD6Lqio9sqEk7lDk58itxKCsnL@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071306Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20260122T071306Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Chicago Red Stars
+DTSTART:20260926T000000Z
+DTEND:20260926T014500Z
+DTSTAMP:20260529T051517Z
+UID:OvWQ7iFupPgGeDGXynW61wgJGAlXVs7Nlmtc88jz@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071306Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20260122T071306Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Denver Summit
+DTSTART:20261004T200000Z
+DTEND:20261004T214500Z
+DTSTAMP:20260529T051517Z
+UID:YoyADGM5oAL8dg8lf60xlidSCJnyVo38TWuPsCjs@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071306Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20260122T071306Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Seattle Reign
+DTSTART:20261018T230000Z
+DTEND:20261019T004500Z
+DTSTAMP:20260529T051517Z
+UID:ia1YqbVbWtdbxIOqovRvPxqdNloRetbnwKIYZ6Xx@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071305Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20260122T071305Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Houston Dash
+DTSTART:20261024T000000Z
+DTEND:20261024T014500Z
+DTSTAMP:20260529T051517Z
+UID:wTGimUL8U8acFSPT8XSnEijuH60CpfMh3aOSFhdf@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071305Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20260122T071305Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Washington Spirit - Chicago Red Stars
+DTSTART:20261101T220000Z
+DTEND:20261101T234500Z
+DTSTAMP:20260529T051517Z
+UID:L2leg9y3mHbYdTCsjNjThA4bC4MAFuovVi7x5jD5@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071305Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=chicago-red-stars\n\nSupport Fixtur.es via Buy Me a Coffee https://buym
+ eacoffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+LAST-MODIFIED:20260122T071305Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

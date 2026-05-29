@@ -1072,88 +1072,7 @@ async function subscribeHer(emailId, leagueId, btn) {
       </div>
 
       <div class="wnba-grid" id="wnbaGrid">
-        <!-- All teams tile -->
-        <div class="wnba-tile is-selected" data-team="all" data-slug="wnba" onclick="toggleTeam(this)">
-          <img class="wnba-tile-logo" src="https://a.espncdn.com/i/teamlogos/leagues/500/wnba.png" alt="All teams" onerror="this.style.opacity='0.3'">
-          <span class="wnba-tile-name">All teams</span>
-          <div class="wnba-check"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
-        </div>
-        <!-- Individual teams -->
-        <div class="wnba-tile" data-team="20" data-slug="atlanta_dream" onclick="toggleTeam(this)">
-          <img class="wnba-tile-logo" src="https://a.espncdn.com/i/teamlogos/wnba/500/20.png" alt="Atlanta Dream" onerror="this.style.opacity='0.3'">
-          <span class="wnba-tile-name">Atlanta Dream</span>
-          <div class="wnba-check"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
-        </div>
-        <div class="wnba-tile" data-team="19" data-slug="chicago_sky" onclick="toggleTeam(this)">
-          <img class="wnba-tile-logo" src="https://a.espncdn.com/i/teamlogos/wnba/500/19.png" alt="Chicago Sky" onerror="this.style.opacity='0.3'">
-          <span class="wnba-tile-name">Chicago Sky</span>
-          <div class="wnba-check"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
-        </div>
-        <div class="wnba-tile" data-team="18" data-slug="connecticut_sun" onclick="toggleTeam(this)">
-          <img class="wnba-tile-logo" src="https://a.espncdn.com/i/teamlogos/wnba/500/18.png" alt="Connecticut Sun" onerror="this.style.opacity='0.3'">
-          <span class="wnba-tile-name">Connecticut Sun</span>
-          <div class="wnba-check"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
-        </div>
-        <div class="wnba-tile" data-team="3" data-slug="dallas_wings" onclick="toggleTeam(this)">
-          <img class="wnba-tile-logo" src="https://a.espncdn.com/i/teamlogos/wnba/500/3.png" alt="Dallas Wings" onerror="this.style.opacity='0.3'">
-          <span class="wnba-tile-name">Dallas Wings</span>
-          <div class="wnba-check"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
-        </div>
-        <div class="wnba-tile" data-team="129689" data-slug="golden_state_valkyries" onclick="toggleTeam(this)">
-          <img class="wnba-tile-logo" src="https://a.espncdn.com/i/teamlogos/wnba/500/gs.png" alt="Golden State Valkyries" onerror="this.style.opacity='0.3'">
-          <span class="wnba-tile-name">GS Valkyries</span>
-          <div class="wnba-check"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
-        </div>
-        <div class="wnba-tile" data-team="5" data-slug="indiana_fever" onclick="toggleTeam(this)">
-          <img class="wnba-tile-logo" src="https://a.espncdn.com/i/teamlogos/wnba/500/5.png" alt="Indiana Fever" onerror="this.style.opacity='0.3'">
-          <span class="wnba-tile-name">Indiana Fever</span>
-          <div class="wnba-check"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
-        </div>
-        <div class="wnba-tile" data-team="17" data-slug="las_vegas_aces" onclick="toggleTeam(this)">
-          <img class="wnba-tile-logo" src="https://a.espncdn.com/i/teamlogos/wnba/500/17.png" alt="Las Vegas Aces" onerror="this.style.opacity='0.3'">
-          <span class="wnba-tile-name">Las Vegas Aces</span>
-          <div class="wnba-check"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
-        </div>
-        <div class="wnba-tile" data-team="6" data-slug="los_angeles_sparks" onclick="toggleTeam(this)">
-          <img class="wnba-tile-logo" src="https://a.espncdn.com/i/teamlogos/wnba/500/6.png" alt="Los Angeles Sparks" onerror="this.style.opacity='0.3'">
-          <span class="wnba-tile-name">LA Sparks</span>
-          <div class="wnba-check"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
-        </div>
-        <div class="wnba-tile" data-team="8" data-slug="minnesota_lynx" onclick="toggleTeam(this)">
-          <img class="wnba-tile-logo" src="https://a.espncdn.com/i/teamlogos/wnba/500/8.png" alt="Minnesota Lynx" onerror="this.style.opacity='0.3'">
-          <span class="wnba-tile-name">Minnesota Lynx</span>
-          <div class="wnba-check"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
-        </div>
-        <div class="wnba-tile" data-team="9" data-slug="new_york_liberty" onclick="toggleTeam(this)">
-          <img class="wnba-tile-logo" src="https://a.espncdn.com/i/teamlogos/wnba/500/9.png" alt="New York Liberty" onerror="this.style.opacity='0.3'">
-          <span class="wnba-tile-name">NY Liberty</span>
-          <div class="wnba-check"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
-        </div>
-        <div class="wnba-tile" data-team="11" data-slug="phoenix_mercury" onclick="toggleTeam(this)">
-          <img class="wnba-tile-logo" src="https://a.espncdn.com/i/teamlogos/wnba/500/11.png" alt="Phoenix Mercury" onerror="this.style.opacity='0.3'">
-          <span class="wnba-tile-name">Phoenix Mercury</span>
-          <div class="wnba-check"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
-        </div>
-        <div class="wnba-tile" data-team="132052" data-slug="portland_fire" onclick="toggleTeam(this)">
-          <img class="wnba-tile-logo" src="https://a.espncdn.com/i/teamlogos/wnba/500/por.png" alt="Portland Fire" onerror="this.style.opacity='0.3'">
-          <span class="wnba-tile-name">Portland Fire</span>
-          <div class="wnba-check"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
-        </div>
-        <div class="wnba-tile" data-team="14" data-slug="seattle_storm" onclick="toggleTeam(this)">
-          <img class="wnba-tile-logo" src="https://a.espncdn.com/i/teamlogos/wnba/500/14.png" alt="Seattle Storm" onerror="this.style.opacity='0.3'">
-          <span class="wnba-tile-name">Seattle Storm</span>
-          <div class="wnba-check"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
-        </div>
-        <div class="wnba-tile" data-team="131935" data-slug="toronto_tempo" onclick="toggleTeam(this)">
-          <img class="wnba-tile-logo" src="https://a.espncdn.com/i/teamlogos/wnba/500/tor.png" alt="Toronto Tempo" onerror="this.style.opacity='0.3'">
-          <span class="wnba-tile-name">Toronto Tempo</span>
-          <div class="wnba-check"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
-        </div>
-        <div class="wnba-tile" data-team="16" data-slug="washington_mystics" onclick="toggleTeam(this)">
-          <img class="wnba-tile-logo" src="https://a.espncdn.com/i/teamlogos/wnba/500/16.png" alt="Washington Mystics" onerror="this.style.opacity='0.3'">
-          <span class="wnba-tile-name">Washington Mystics</span>
-          <div class="wnba-check"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
-        </div>
+        <!-- Tiles rendered by renderFeedTiles() -->
       </div><!-- /wnba-grid -->
     </div><!-- /wnbaMain -->
 
@@ -1181,6 +1100,62 @@ async function subscribeHer(emailId, leagueId, btn) {
 /* ── WNBA Team Selector Modal ──────────────────────────────────────────────── */
 
 const BASE_URL = 'herfixtures.vercel.app';
+
+/* ── Reusable tile component ─────────────────────────────────────────────────
+   To add a new feed (e.g. NWSL), define a new FEED_TEAMS array below
+   and call renderFeedTiles('gridElementId', NWSL_TEAMS) on page load.
+   The tile CSS, animations, and selection logic all work automatically.
+   ────────────────────────────────────────────────────────────────────────── */
+
+const CHECK_SVG = `<svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+
+const WNBA_TEAMS = [
+  { name: "All teams",            slug: "wnba",                    logo: "https://a.espncdn.com/i/teamlogos/leagues/500/wnba.png", selected: true },
+  { name: "Atlanta Dream",        slug: "atlanta_dream",            logo: "https://a.espncdn.com/i/teamlogos/wnba/500/20.png" },
+  { name: "Chicago Sky",          slug: "chicago_sky",              logo: "https://a.espncdn.com/i/teamlogos/wnba/500/19.png" },
+  { name: "Connecticut Sun",      slug: "connecticut_sun",          logo: "https://a.espncdn.com/i/teamlogos/wnba/500/18.png" },
+  { name: "Dallas Wings",         slug: "dallas_wings",             logo: "https://a.espncdn.com/i/teamlogos/wnba/500/3.png" },
+  { name: "GS Valkyries",         slug: "golden_state_valkyries",   logo: "https://a.espncdn.com/i/teamlogos/wnba/500/gs.png" },
+  { name: "Indiana Fever",        slug: "indiana_fever",            logo: "https://a.espncdn.com/i/teamlogos/wnba/500/5.png" },
+  { name: "Las Vegas Aces",       slug: "las_vegas_aces",           logo: "https://a.espncdn.com/i/teamlogos/wnba/500/17.png" },
+  { name: "LA Sparks",            slug: "los_angeles_sparks",       logo: "https://a.espncdn.com/i/teamlogos/wnba/500/6.png" },
+  { name: "Minnesota Lynx",       slug: "minnesota_lynx",           logo: "https://a.espncdn.com/i/teamlogos/wnba/500/8.png" },
+  { name: "NY Liberty",           slug: "new_york_liberty",         logo: "https://a.espncdn.com/i/teamlogos/wnba/500/9.png" },
+  { name: "Phoenix Mercury",      slug: "phoenix_mercury",          logo: "https://a.espncdn.com/i/teamlogos/wnba/500/11.png" },
+  { name: "Portland Fire",        slug: "portland_fire",            logo: "https://a.espncdn.com/i/teamlogos/wnba/500/por.png" },
+  { name: "Seattle Storm",        slug: "seattle_storm",            logo: "https://a.espncdn.com/i/teamlogos/wnba/500/14.png" },
+  { name: "Toronto Tempo",        slug: "toronto_tempo",            logo: "https://a.espncdn.com/i/teamlogos/wnba/500/tor.png" },
+  { name: "Washington Mystics",   slug: "washington_mystics",       logo: "https://a.espncdn.com/i/teamlogos/wnba/500/16.png" },
+];
+
+/* Future feeds — add here when ready:
+const NWSL_TEAMS = [
+  { name: "All teams", slug: "nwsl", logo: "...", selected: true },
+  { name: "Angel City FC", slug: "nwsl_angel_city", logo: "..." },
+  ...
+];
+*/
+
+function renderFeedTiles(gridId, teams) {
+  const grid = document.getElementById(gridId);
+  if (!grid) return;
+  grid.innerHTML = '';
+  teams.forEach(team => {
+    const tile = document.createElement('div');
+    tile.className = 'wnba-tile' + (team.selected ? ' is-selected' : '');
+    tile.dataset.slug = team.slug;
+    if (team.slug === 'wnba' || team.slug === 'nwsl') tile.dataset.team = 'all';
+    tile.onclick = () => toggleTeam(tile);
+    tile.innerHTML = `
+      <img class="wnba-tile-logo" src="${team.logo}" alt="${team.name}" onerror="this.style.opacity='0.3'">
+      <span class="wnba-tile-name">${team.name}</span>
+      <div class="wnba-check">${CHECK_SVG}</div>`;
+    grid.appendChild(tile);
+  });
+}
+
+/* Render tiles on page load */
+renderFeedTiles('wnbaGrid', WNBA_TEAMS);
 
 function openWNBAModal() {
   const overlay = document.getElementById('wnbaOverlay');
