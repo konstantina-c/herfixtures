@@ -1,0 +1,1855 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//NWSL 2026 Seattle Reign FC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Seattle Reign FC 2026 fixtures. Updated automatically by HerF
+ ixtures.com
+X-WR-CALNAME:Seattle Reign FC 2026 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Washington Spirit - Seattle Reign (1-0)
+DTSTART:20230326T200000Z
+DTEND:20230326T214500Z
+DTSTAMP:20260529T070115Z
+UID:SDHCAzew4b944sexPUh1787gTpwya9CYrbvSaN8u@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162043Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20230327T031124Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Seattle Reign (0-2)
+DTSTART:20230402T011300Z
+DTEND:20230402T025800Z
+DTSTAMP:20260529T070115Z
+UID:oUVWRBCWK9ZuFG2niioO8yzBPPuUeAf91zgdcDLu@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162044Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20230403T031128Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - San Diego Wave (1-0)
+DTSTART:20230416T020000Z
+DTEND:20230416T034500Z
+DTSTAMP:20260529T070115Z
+UID:eQ8h2MV0POMzhuzURbkakSoIRgb6iq1rMZzWf795@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162044Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20230417T031132Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Chicago Red Stars (5-2)
+DTSTART:20230422T193000Z
+DTEND:20230422T211500Z
+DTSTAMP:20260529T070115Z
+UID:205VYtP1ni73KWnp4g13rdWpO4yTJ6NXTFiBJOh9@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162045Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20230423T031113Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Racing Louisville - Seattle Reign (2-2)
+DTSTART:20230429T233000Z
+DTEND:20230430T011500Z
+DTSTAMP:20260529T070115Z
+UID:04gwEscdNcq1aa2jgMuDLCwiysNv8z7u0feOXkGT@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162045Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20230430T031114Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Houston Dash (2-0)
+DTSTART:20230507T020000Z
+DTEND:20230507T034500Z
+DTSTAMP:20260529T070115Z
+UID:CyozXX90e45d6BqWjQmKUD2N62Awgt8YICzealAt@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162046Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20230508T031129Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Carolina Courage - Seattle Reign (1-0)
+DTSTART:20230514T190000Z
+DTEND:20230514T204500Z
+DTSTAMP:20260529T070115Z
+UID:OeIbE8hSM2LFhrwmQkzb5XUAvYen4ne1PVeKFz8R@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162046Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20230515T031116Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Gotham FC
+DTSTART;VALUE=DATE:20230522
+DTEND;VALUE=DATE:20230523
+DTSTAMP:20260529T070115Z
+UID:oHxq0YpHxs9iVLecqXEXriTTnnZYm67iHB64liws@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162047Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20230301T162047Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Angel City (4-1)
+DTSTART:20230527T193000Z
+DTEND:20230527T211500Z
+DTSTAMP:20260529T070115Z
+UID:5ugZchmX2pHRmnzqc5w4AzeKKhuxnVKYpdBEPTVD@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162047Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20230528T031128Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Portland Thorns (0-2)
+DTSTART:20230604T000000Z
+DTEND:20230604T014500Z
+DTSTAMP:20260529T070115Z
+UID:QusPYsSpXlRd7FizgLjmMLcg26Ksi77iDFeOmTV7@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162048Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20230604T031200Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Kansas City (2-1)
+DTSTART:20230611T020000Z
+DTEND:20230611T034500Z
+DTSTAMP:20260529T070115Z
+UID:XcVa4jWQz0AXl543H9109ZQA4UTKtjJiTlkzUyAK@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162049Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20230612T031202Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Dash - Seattle Reign (0-0)
+DTSTART:20230618T003000Z
+DTEND:20230618T021500Z
+DTSTAMP:20260529T070115Z
+UID:iOP1ulBn6Jtks7lEJlstJW7YsbKrjujs83YJj3VY@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162049Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20230618T031200Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego Wave - Seattle Reign (1-2)
+DTSTART:20230625T020000Z
+DTEND:20230625T034500Z
+DTSTAMP:20260529T070115Z
+UID:M6l044MQZkpVhFemgB0yluDpDbIwYTWm4TkGft2D@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162050Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20230626T031225Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Racing Louisville (2-2)
+DTSTART:20230701T193000Z
+DTEND:20230701T211500Z
+DTSTAMP:20260529T070115Z
+UID:UyRQdIFSaKrRJMrhuRr0OlXdJwvvnaAGrdD3gaog@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162050Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20230702T031216Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orlando Pride - Seattle Reign (1-0)
+DTSTART:20230707T230000Z
+DTEND:20230708T004500Z
+DTSTAMP:20260529T070115Z
+UID:lwzRGkduV4tcqFNIu2JHIIYfq8xZ9xUO357knIhy@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162050Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20230708T031206Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas City - Seattle Reign (1-0)
+DTSTART:20230819T000000Z
+DTEND:20230819T014500Z
+DTSTAMP:20260529T070115Z
+UID:iSSSrnmsBfCwyS6X4pJn4wFa6GSxjoNhURwQBvbO@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162051Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20230819T031157Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angel City - Seattle Reign (2-1)
+DTSTART:20230828T000000Z
+DTEND:20230828T014500Z
+DTSTAMP:20260529T070115Z
+UID:bqWhnaGjOy2uMN30kSL4mFiuvFjt7OdCFI09JtRl@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162052Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20230828T031159Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Orlando Pride
+DTSTART;VALUE=DATE:20230904
+DTEND;VALUE=DATE:20230905
+DTSTAMP:20260529T070115Z
+UID:qCBdtFRDFQ1x0bRXcbySYcSQ5MufcRt4f62zjuhF@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162053Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20230301T162053Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portland Thorns - Seattle Reign (2-0)
+DTSTART:20230917T023000Z
+DTEND:20230917T041500Z
+DTSTAMP:20260529T070115Z
+UID:WD90Pb8A4aiAJOsMA7KaZuNmfF2bzeDLXGymcmNg@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162053Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20230918T031156Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - North Carolina Courage (1-1)
+DTSTART:20231002T000000Z
+DTEND:20231002T014500Z
+DTSTAMP:20260529T070115Z
+UID:ta7lSu8Nq70Ehld3yebQIxtWEOBGgJCuV9sacKVA@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162054Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20231002T031215Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Washington Spirit (0-0)
+DTSTART:20231007T000000Z
+DTEND:20231007T014500Z
+DTSTAMP:20260529T070115Z
+UID:cQLLB6qG1jV00VJeYQdKHxAP42V1TgEeGm20FpMd@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162054Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20231007T031152Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Seattle Reign (0-3)
+DTSTART:20231015T210000Z
+DTEND:20231015T224500Z
+DTSTAMP:20260529T070115Z
+UID:ucCoVS8KALQV4YDrCEplApZjys0ku8ltsZaa1IP1@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162054Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20231016T031200Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Angel City (1-0)
+DTSTART:20231021T020000Z
+DTEND:20231021T034500Z
+DTSTAMP:20260529T070115Z
+UID:lp5J1NPK5qKEnz6Xo0RbwBBx0ZgffZN7hNnOkgmT@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20231017T031203Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20231022T031207Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego Wave - Seattle Reign (0-1)
+DTSTART:20231106T023000Z
+DTEND:20231106T041500Z
+DTSTAMP:20260529T070115Z
+UID:NL050CoAOZ1Bhrb2d0nkZBJzRfh7ERZ8pUi6YqZk@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20231023T031204Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20231107T031201Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Gotham FC (1-2)
+DTSTART:20231112T010000Z
+DTEND:20231112T024500Z
+DTSTAMP:20260529T070115Z
+UID:8ZMY9FrgSx5LkcuCjmZvoa79TXhYfVUAJbIAeyI2@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20231107T031201Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20231113T031210Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Washington Spirit (1-0)
+DTSTART:20240317T220000Z
+DTEND:20240317T234500Z
+DTSTAMP:20260529T070115Z
+UID:maMYyXbISIMaD35qMiOWIxB32KrDKkvlRV0VSAZO@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123632Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20240318T031204Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Seattle Reign (2-1)
+DTSTART:20240323T200000Z
+DTEND:20240323T214500Z
+DTSTAMP:20260529T070115Z
+UID:wZZi8zhXtD9qnAJFYH9ehFfVm5PZHXMOeln3Rk8r@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123632Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20240324T031207Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego Wave - Seattle Reign (1-0)
+DTSTART:20240330T020000Z
+DTEND:20240330T034500Z
+DTSTAMP:20260529T070115Z
+UID:ENA4HVzrhaU5psOROkeq6TvXzWHa3ZsyQhN7kgos@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123632Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20240331T031211Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bay FC - Seattle Reign (3-2)
+DTSTART:20240415T000000Z
+DTEND:20240415T014500Z
+DTSTAMP:20260529T070115Z
+UID:ZlP8hAY3dHJCgfoafdIzPi7cdBZCQWRXJswmwHrJ@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123633Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20240415T031227Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Chicago Red Stars (1-2)
+DTSTART;VALUE=DATE:20240422
+DTEND;VALUE=DATE:20240423
+DTSTAMP:20260529T070115Z
+UID:cWIIcNs5G40P9k7K0ldwnDbVr3iz5ghNu01HHy4m@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123633Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20241101T031235Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Carolina Courage - Seattle Reign (1-0)
+DTSTART:20240427T230000Z
+DTEND:20240428T004500Z
+DTSTAMP:20260529T070115Z
+UID:e1RAGbEziuz3Gc47hjGycPwW9n2NsqluEE6m2aJO@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123633Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20240428T031129Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - San Diego Wave (2-1)
+DTSTART:20240504T020000Z
+DTEND:20240504T034500Z
+DTSTAMP:20260529T070115Z
+UID:tvR99Al2ve824dwvDbHTfHLNuq92Q6sNI2aVnK3L@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123634Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20240505T031120Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Kansas City (0-0)
+DTSTART:20240509T020000Z
+DTEND:20240509T034500Z
+DTSTAMP:20260529T070115Z
+UID:qLN8cCmrMLSs2IsNWPzThUXze03DCj7EfCDIFDGb@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123634Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20240510T031132Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portland Thorns - Seattle Reign (4-0)
+DTSTART:20240512T020000Z
+DTEND:20240512T034500Z
+DTSTAMP:20260529T070115Z
+UID:D4KqgQPcFUXEAwSZBLzjAJORKSErI1pc0IJeXD7B@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123635Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20240513T031130Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Orlando Pride (2-3)
+DTSTART;VALUE=DATE:20240520
+DTEND;VALUE=DATE:20240521
+DTSTAMP:20260529T070115Z
+UID:jF57fr1Z5Wgj7jjjjxKoJlArEQWwh8TrBW2yN7kJ@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123635Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20241007T031348Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Washington Spirit - Seattle Reign (3-2)
+DTSTART:20240524T233000Z
+DTEND:20240525T011500Z
+DTSTAMP:20260529T070115Z
+UID:WLTQhU3xm7PLtKYUo8ebGebvxAH3n0tRn9HEW6u6@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123635Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20240525T031128Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas City - Seattle Reign (5-2)
+DTSTART;VALUE=DATE:20240610
+DTEND;VALUE=DATE:20240611
+DTSTAMP:20260529T070115Z
+UID:nz2pu3ayVnrvITjTiOgzhpvzobwuMC3trDrKD8rA@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123636Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20241007T031349Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Portland Thorns (0-0)
+DTSTART:20240616T200000Z
+DTEND:20240616T214500Z
+DTSTAMP:20260529T070115Z
+UID:22qcJyCYwH32uPkVwgnb1mYfsiP8X7cmOJGZVw9f@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123637Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20240617T031115Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Racing Louisville (1-1)
+DTSTART;VALUE=DATE:20240624
+DTEND;VALUE=DATE:20240625
+DTSTAMP:20260529T070115Z
+UID:vBV0jS5W3buiG4mVWP7RHiuVgayHg3JuH3ggQPxS@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123637Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20241007T031349Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Seattle Reign (1-1)
+DTSTART:20240630T170000Z
+DTEND:20240630T184500Z
+DTSTAMP:20260529T070115Z
+UID:je4fr787Vr6PYmaYPrP5JWUqlTHq4wPeuH0BovKD@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123638Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20240701T031146Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Utah Royals (1-1)
+DTSTART;VALUE=DATE:20240708
+DTEND;VALUE=DATE:20240709
+DTSTAMP:20260529T070115Z
+UID:5BNnf56DQc5vidCFnoyNtMeEeKT6Uw5B5kQmax4A@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123638Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20241007T031349Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - North Carolina Courage (1-0)
+DTSTART:20240826T020000Z
+DTEND:20240826T034500Z
+DTSTAMP:20260529T070115Z
+UID:jW6PUFfb8GpL4XusgcBfroITpwxkqGM9auT7E7Ti@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123639Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20240827T031255Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Racing Louisville - Seattle Reign (2-3)
+DTSTART:20240831T233000Z
+DTEND:20240901T011500Z
+DTSTAMP:20260529T070115Z
+UID:cacaZ86e39IbLsFA0TboAjzK7LSwwvrrVthTvC2Q@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123639Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20240901T031317Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angel City - Seattle Reign (2-3)
+DTSTART:20240907T020000Z
+DTEND:20240907T034500Z
+DTSTAMP:20260529T070115Z
+UID:b4cAbhkbf8me4ltsuAGs9XI6Gc3hrSocT7HFnyr4@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123639Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20240908T031242Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Gotham FC (0-2)
+DTSTART:20240917T020000Z
+DTEND:20240917T034500Z
+DTSTAMP:20260529T070115Z
+UID:wqgAuH8USchDnnbSAyangNaTDD6FR7zxPiSy25RS@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123640Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20240918T031240Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Dash - Seattle Reign (1-0)
+DTSTART:20240922T003000Z
+DTEND:20240922T021500Z
+DTSTAMP:20260529T070115Z
+UID:pBGRLNRjwgG47ESC6TuDc4C0032pVmLnnhCAmQCA@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123640Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20241003T031337Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Bay FC (0-1)
+DTSTART:20240929T000000Z
+DTEND:20240929T014500Z
+DTSTAMP:20260529T070115Z
+UID:8AjUZpw8wR9w1wxKo748XWgViJl7GmSHjqWSZbKV@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123641Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20241002T031302Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Angel City (0-1)
+DTSTART:20241005T020000Z
+DTEND:20241005T034500Z
+DTSTAMP:20260529T070115Z
+UID:H0ba1y6vIo0OptxbHF8MJtjyYl0OGn7GmQCGAFVl@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123641Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20241006T031254Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Utah Royals - Seattle Reign (3-0)
+DTSTART:20241013T210000Z
+DTEND:20241013T224500Z
+DTSTAMP:20260529T070115Z
+UID:q45OxjzJPKdqQO8qOHFHl1AxbISeTV9qYDm2tPoU@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123641Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20241014T031244Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Houston Dash (2-1)
+DTSTART:20241019T020000Z
+DTEND:20241019T034500Z
+DTSTAMP:20260529T070115Z
+UID:7UILOVgjHJLmozFyOJAOw4Iv63yOK9N3g5TKDqjZ@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123642Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20241101T031239Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orlando Pride - Seattle Reign (3-2)
+DTSTART:20241102T210000Z
+DTEND:20241102T224500Z
+DTSTAMP:20260529T070115Z
+UID:QKOGOaert90y9ppz7h0uhVTIJUeImmuK9Uyao6XO@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123642Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20241103T031247Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Gotham FC (1-1)
+DTSTART:20250316T020000Z
+DTEND:20250316T034500Z
+DTSTAMP:20260529T070115Z
+UID:cY4ONvwTRs8tvGX6BKu4qrAUnDViyupb3rifAJvk@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250124T145536Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20250317T031222Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Carolina Courage - Seattle Reign (1-2)
+DTSTART:20250322T230000Z
+DTEND:20250323T004500Z
+DTSTAMP:20260529T070115Z
+UID:BrB3YFV2jrrgiwBnbnv56RB8secRjNNl2eSaLi3z@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071343Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20250323T031142Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angel City - Seattle Reign (2-1)
+DTSTART:20250331T000000Z
+DTEND:20250331T014500Z
+DTSTAMP:20260529T070115Z
+UID:szRr3UipygQ7UkHDVRKLn0W3RTnR5wDDAs3MTSlf@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071343Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20250331T031214Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Orlando Pride (0-1)
+DTSTART:20250412T233000Z
+DTEND:20250413T011500Z
+DTSTAMP:20260529T070115Z
+UID:rPUnuUtyF2WUpOzhnROf95MPl4AaclGqTZu1lTsb@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071343Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20250413T031214Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Portland Thorns (1-0)
+DTSTART:20250419T020000Z
+DTEND:20250419T034500Z
+DTSTAMP:20260529T070115Z
+UID:Y52PtuwqPg3U3Q0dAPYzTqHFbq4iEzB6nfff2phr@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071344Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20250420T031200Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bay FC - Seattle Reign (1-1)
+DTSTART:20250427T020000Z
+DTEND:20250427T034500Z
+DTSTAMP:20260529T070115Z
+UID:1GvMR1G9GxbcTbnq4eTB3lQATtwqGnbmRrh6IY6g@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071344Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20250428T031215Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Kansas City (1-0)
+DTSTART:20250503T023000Z
+DTEND:20250503T041500Z
+DTSTAMP:20260529T070115Z
+UID:NZTYHB5HrRc6VWJPmshWuDlsYu911whmbzY2oUVA@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071344Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20250504T031201Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Houston Dash (0-1)
+DTSTART:20250512T000000Z
+DTEND:20250512T014500Z
+DTSTAMP:20260529T070115Z
+UID:z4lJZHWokELQG85rXk1EOMjFZwKLOQVqN0aBok1I@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071344Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20250512T031218Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Racing Louisville - Seattle Reign (0-1)
+DTSTART:20250517T170000Z
+DTEND:20250517T184500Z
+DTSTAMP:20260529T070115Z
+UID:eqbKtg98WTA9tRA7ggZjBgurHEvi8lA7ctA4Bf5M@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071344Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20250825T031157Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Washington Spirit (1-2)
+DTSTART:20250524T020000Z
+DTEND:20250524T034500Z
+DTSTAMP:20260529T070115Z
+UID:eULM6vSYcQw0vlAAt6rkMOqkjVzq2CaWhfgQpYDs@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071344Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20250525T031144Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego Wave - Seattle Reign (1-2)
+DTSTART:20250607T020000Z
+DTEND:20250607T034500Z
+DTSTAMP:20260529T070115Z
+UID:shpjhR63usZm7U0rMLOIijevau0C5e47ZmrRpb4x@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071345Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20250608T031153Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Seattle Reign (2-2)
+DTSTART:20250614T210000Z
+DTEND:20250614T224500Z
+DTSTAMP:20260529T070115Z
+UID:CAZco4j0klfh0MloV65ankNUua2Nk4Tzh4HpsF5g@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071345Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20250615T031158Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Utah Royals - Seattle Reign (1-4)
+DTSTART:20250621T210000Z
+DTEND:20250621T224500Z
+DTSTAMP:20260529T070115Z
+UID:uhTOeYwoCel1053KGARkBVLHPSeFadeQ60i68KLy@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071345Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20250622T031154Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Angel City (2-0)
+DTSTART:20250802T023000Z
+DTEND:20250802T041500Z
+DTSTAMP:20260529T070115Z
+UID:jvaarcSXK0nxPNSvNt8IShzj1DiXrgZBK5PszuzS@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071345Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20250803T031208Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portland Thorns - Seattle Reign (4-2)
+DTSTART:20250810T200000Z
+DTEND:20250810T214500Z
+DTSTAMP:20260529T070115Z
+UID:dUCrw7JcFthyeD4AG2GlHVKdxmUZT35s4Dcg3QAc@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071345Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20250811T031211Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Chicago Red Stars (3-3)
+DTSTART:20250819T020000Z
+DTEND:20250819T034500Z
+DTSTAMP:20260529T070115Z
+UID:qmUvOqPp4gq59eQcr3tZpL4Ulu7BPtuPB1vxpUJS@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071346Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20250820T031248Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Dash - Seattle Reign (1-1)
+DTSTART:20250824T232000Z
+DTEND:20250825T010500Z
+DTSTAMP:20260529T070115Z
+UID:X6ar1aLzxk3OJxRLveBbxlw4FQyR4bpWUU4zS32u@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071346Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260105T031208Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - San Diego Wave (0-0)
+DTSTART:20250830T023000Z
+DTEND:20250830T041500Z
+DTSTAMP:20260529T070115Z
+UID:5ws6AlyNCScdtfxkqazL1OO42bYJGOEggfpudfaI@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071346Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20250831T031150Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Washington Spirit - Seattle Reign (2-0)
+DTSTART:20250907T200000Z
+DTEND:20250907T214500Z
+DTSTAMP:20260529T070115Z
+UID:eu7oVGnTBG7dLQyzDbLXw4w6tXlVKiO8NzpwEwlJ@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071346Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20250908T031146Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Racing Louisville (1-0)
+DTSTART:20250917T000000Z
+DTEND:20250917T014500Z
+DTSTAMP:20260529T070115Z
+UID:TFNibNsw6m8i8EzKuhJM96mXTbebqO56rdQolF0m@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071346Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20251020T031258Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas City - Seattle Reign (2-0)
+DTSTART:20250920T233000Z
+DTEND:20250921T011500Z
+DTSTAMP:20260529T070115Z
+UID:IVAejtj0kktMVUdT3GI3jQF465vWm5xBFAdBU65Y@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071347Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20250921T031202Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - North Carolina Courage (2-1)
+DTSTART:20250929T000000Z
+DTEND:20250929T014500Z
+DTSTAMP:20260529T070115Z
+UID:2FlX7hblsEzmaIO7V19YnIEYsa9olP6hkBhfylmH@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071347Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20250929T031218Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Seattle Reign (0-0)
+DTSTART:20251005T200000Z
+DTEND:20251005T214500Z
+DTSTAMP:20260529T070115Z
+UID:pXTWfv3gEreqrb1Mq86XB3Lu6GBuVLllTvnx7ulW@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071347Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20251006T031143Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Bay FC (1-1)
+DTSTART:20251011T023000Z
+DTEND:20251011T041500Z
+DTSTAMP:20260529T070115Z
+UID:cwxChBuRR6GSQcpP8llMxntk4JVsYbB95C2qmCAX@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071347Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20251012T031147Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Utah Royals (2-1)
+DTSTART:20251018T020000Z
+DTEND:20251018T034500Z
+DTSTAMP:20260529T070115Z
+UID:XWZ1K645xZSOnGa8sFp8LNJEy4cSFwG6d8YheVjs@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071347Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20251019T031206Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orlando Pride - Seattle Reign (1-1)
+DTSTART:20251102T221500Z
+DTEND:20251103T000000Z
+DTSTAMP:20260529T070115Z
+UID:jrpyI4AEIRJzNBOORwGjLcbp8bPaOi6MdfYr7ecy@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071347Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20251103T031215Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orlando Pride - Seattle Reign (2-0)
+DTSTART:20251108T010000Z
+DTEND:20251108T024500Z
+DTSTAMP:20260529T070115Z
+UID:9XgFSgrAAjhaw2HHUVpGN4IUBotFokiLFtYsaMAu@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20251106T031232Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20251109T031213Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orlando Pride - Seattle Reign (1-2)
+DTSTART:20260315T200000Z
+DTEND:20260315T214500Z
+DTSTAMP:20260529T070115Z
+UID:YBek1HUbWbPS58pAN83vgS3ZdYehAdMaM0JqFnCb@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071311Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260316T031215Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portland Thorns - Seattle Reign (2-0)
+DTSTART:20260321T020000Z
+DTEND:20260321T034500Z
+DTSTAMP:20260529T070115Z
+UID:oWJHfrMuFQEfxKEtzmf9bcVGjlHUD3sTRHTOKmpE@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071309Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260322T031209Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Kansas City (3-0)
+DTSTART:20260326T010000Z
+DTEND:20260326T024500Z
+DTSTAMP:20260529T070115Z
+UID:zikbN308xHPgtSxn5zAUaK0vWC7jNTeFwzUdEh2n@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071309Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260326T031203Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Racing Louisville (2-1)
+DTSTART:20260328T223000Z
+DTEND:20260329T001500Z
+DTSTAMP:20260529T070115Z
+UID:2GhLWMkfotypKDEYNyClCopkYOgDZ4bROZ0MwvZR@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071309Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260329T031153Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Denver Summit (0-0)
+DTSTART:20260405T004500Z
+DTEND:20260405T023000Z
+DTSTAMP:20260529T070115Z
+UID:bs8BWL6Sj1BFqhZaInv2jPyVT8Xu8Mu9BmRaoAgM@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071309Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260405T031157Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Utah Royals (0-3)
+DTSTART:20260427T000000Z
+DTEND:20260427T014500Z
+DTSTAMP:20260529T070115Z
+UID:Gjqf6hJlod0fGFMaSbS3ziSQx5cTXnJUkLH64bcm@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071311Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260427T031224Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Dash - Seattle Reign (0-0)
+DTSTART:20260502T000000Z
+DTEND:20260502T014500Z
+DTSTAMP:20260529T070115Z
+UID:4iIk1GicfqnaWIl0ia4ezGF1YTkJpyXPmPQg6ZxG@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071311Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260502T031200Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Washington Spirit (0-1)
+DTSTART:20260510T230000Z
+DTEND:20260511T004500Z
+DTSTAMP:20260529T070115Z
+UID:XsFpkGKwA5Q1p1yaOKFnARwYnKl6HbjnpggGjIoi@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071311Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260511T031142Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Gotham FC (0-2)
+DTSTART:20260516T020000Z
+DTEND:20260516T034500Z
+DTSTAMP:20260529T070115Z
+UID:hb8zee3YovLr2zpFAMHoHjZrzgW1LpAzdZlfHkhJ@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071308Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260517T031136Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston Legacy - Seattle Reign (1-2)
+DTSTART:20260523T000000Z
+DTEND:20260523T014500Z
+DTSTAMP:20260529T070115Z
+UID:d4NccrpGcztHjJixk4S5zGJx9VpAlB3Hs0nuvqEC@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071310Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260523T031136Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Washington Spirit - Seattle Reign
+DTSTART:20260530T223000Z
+DTEND:20260531T001500Z
+DTSTAMP:20260529T070115Z
+UID:b41Oy8MCNLBjzaTZuxQYDN7aFqNrsJ3wC0SwgAn9@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071310Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071310Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Carolina Courage - Seattle Reign
+DTSTART:20260704T223000Z
+DTEND:20260705T001500Z
+DTSTAMP:20260529T070115Z
+UID:ojrVq84i3fjmpwB5BKVDzaPsji5T17dImVCY7B49@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071308Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071308Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Portland Thorns
+DTSTART:20260712T200000Z
+DTEND:20260712T214500Z
+DTSTAMP:20260529T070115Z
+UID:bTLsM3iwzIerIcK9aokEXHHMqIf2SshxXTWep4Qs@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071308Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071308Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Seattle Reign
+DTSTART:20260718T160000Z
+DTEND:20260718T174500Z
+DTSTAMP:20260529T070115Z
+UID:oyZyFS7WEH25UI1gUW2BtoOtlSMvvxwlJHEfGBIc@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071308Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071308Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego Wave - Seattle Reign
+DTSTART:20260726T210000Z
+DTEND:20260726T224500Z
+DTSTAMP:20260529T070115Z
+UID:eKLZ1JY6t75kPQcheGzfyOhD0CnO0ivRyglkNbDQ@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071310Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071310Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bay FC - Seattle Reign
+DTSTART:20260802T004500Z
+DTEND:20260802T023000Z
+DTSTAMP:20260529T070115Z
+UID:ekc3yvzRQTLo2HUNy1GV5aDEFHoBv4ip6UOXs3Nm@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071307Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071307Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Angel City
+DTSTART:20260810T010000Z
+DTEND:20260810T024500Z
+DTSTAMP:20260529T070115Z
+UID:2ZSjhApGyAqPsoQ9428ElHYDQFMM3WDT6iPLiQAr@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071307Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071307Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Chicago Red Stars
+DTSTART:20260815T020000Z
+DTEND:20260815T034500Z
+DTSTAMP:20260529T070115Z
+UID:jmhyCIFChQYV2bdyYZWU77NXYjUM9T4nOYoGcRZN@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071307Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071307Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Racing Louisville - Seattle Reign
+DTSTART:20260819T223000Z
+DTEND:20260820T001500Z
+DTSTAMP:20260529T070115Z
+UID:h4NsktHmTCAMQ0Bkuj9RYU8BuNf1CqLxoKRdzJTY@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071306Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071306Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas City - Seattle Reign
+DTSTART:20260822T223000Z
+DTEND:20260823T001500Z
+DTSTAMP:20260529T070115Z
+UID:z4i05SUi19GcHKyz22tVZY0VHxzwze4gkbZrhMrR@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071307Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071307Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Houston Dash
+DTSTART:20260830T230000Z
+DTEND:20260831T004500Z
+DTSTAMP:20260529T070115Z
+UID:2HP3kM5YKnmc6exX1yo7UXdRzW3T1zibRg2quPRC@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071307Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071307Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - San Diego Wave
+DTSTART:20260907T010000Z
+DTEND:20260907T024500Z
+DTSTAMP:20260529T070115Z
+UID:ctSNvL2gRZjKDy3LLe1aNAl0tQneSoDA83djm4Tu@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071306Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071306Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Bay FC
+DTSTART:20260913T000000Z
+DTEND:20260913T014500Z
+DTSTAMP:20260529T070115Z
+UID:zsU7OmDPB3awCpq5Ll2X6eXbZOHRpaBuPk6X7mx9@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071304Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260218T031158Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angel City - Seattle Reign
+DTSTART:20260917T020000Z
+DTEND:20260917T034500Z
+DTSTAMP:20260529T070115Z
+UID:KCyIv5nD5SWieTtkcaZhVx9fVGnzW8NVu0MvvRt8@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071306Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071306Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Denver Summit - Seattle Reign
+DTSTART:20260920T004500Z
+DTEND:20260920T023000Z
+DTSTAMP:20260529T070115Z
+UID:mAKQgrgJLxa1s3DP580aaTokUbRvyhnBwBNhHmST@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071304Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071304Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Boston Legacy
+DTSTART:20260926T003000Z
+DTEND:20260926T021500Z
+DTSTAMP:20260529T070115Z
+UID:saAROlr43iKshpirDxwYXRT43T96kO1FyFxrtVTZ@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071306Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071306Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - North Carolina Courage
+DTSTART:20261003T020000Z
+DTEND:20261003T034500Z
+DTSTAMP:20260529T070115Z
+UID:H9aforFhjJOxr65gpx7aluPtFoaLV7k5KraQMwdC@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071306Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071306Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Seattle Reign
+DTSTART:20261018T230000Z
+DTEND:20261019T004500Z
+DTSTAMP:20260529T070115Z
+UID:ia1YqbVbWtdbxIOqovRvPxqdNloRetbnwKIYZ6Xx@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071305Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071305Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Utah Royals - Seattle Reign
+DTSTART:20261024T013000Z
+DTEND:20261024T031500Z
+DTSTAMP:20260529T070115Z
+UID:8oDeCxmetQMpuaIjCD7K1lTLtfgJkaiCJNlF30hA@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071305Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071305Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Orlando Pride
+DTSTART:20261101T220000Z
+DTEND:20261101T234500Z
+DTSTAMP:20260529T070115Z
+UID:WeO95iecSm56jevp3QT27zdqi5HCEfM5hUYQcfX2@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071310Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=seattle-reign\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071310Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,523 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//NWSL 2026 Boston Legacy FC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Boston Legacy FC 2026 fixtures. Updated automatically by HerF
+ ixtures.com
+X-WR-CALNAME:Boston Legacy FC 2026 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Boston Legacy - Gotham FC (0-1)
+DTSTART:20260314T163000Z
+DTEND:20260314T181500Z
+DTSTAMP:20260529T070928Z
+UID:CaGJscQfiouW3hbsYeQwHkrBZ2eU0NnbDv5QDvU9@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071311Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=boston-legacy\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260315T031209Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Dash - Boston Legacy (3-0)
+DTSTART:20260321T200000Z
+DTEND:20260321T214500Z
+DTSTAMP:20260529T070928Z
+UID:96CheChi8fg63xX6wr8hPlGQBtzZdS9IdyCA9lkW@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071311Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=boston-legacy\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260322T031209Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston Legacy - Utah Royals (1-2)
+DTSTART:20260328T160000Z
+DTEND:20260328T174500Z
+DTSTAMP:20260529T070928Z
+UID:KhtDWbOVEWnxkvLsGOguCQj4mv0bCTAz3iDoYV2e@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071309Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=boston-legacy\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260329T031153Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston Legacy - San Diego Wave (0-1)
+DTSTART:20260403T230000Z
+DTEND:20260404T004500Z
+DTSTAMP:20260529T070928Z
+UID:HJOdxTUzCgCcjx6MyJDO7uv5pCC11KHXHTnaZXbd@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071309Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=boston-legacy\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260404T031205Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Boston Legacy (2-0)
+DTSTART:20260425T223000Z
+DTEND:20260426T001500Z
+DTSTAMP:20260529T070928Z
+UID:gVJzdO9L8Wp5idLHmtonKtk0gMOH1GHNTcQpVPYr@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071311Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=boston-legacy\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260426T031152Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston Legacy - North Carolina Courage (2-2)
+DTSTART:20260429T230000Z
+DTEND:20260430T004500Z
+DTSTAMP:20260529T070928Z
+UID:uAsoW2usz5p1vV2v9OxU6EPLJYIkHAoAOEgGH7MY@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071309Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=boston-legacy\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260430T031228Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston Legacy - Denver Summit (3-2)
+DTSTART:20260503T190000Z
+DTEND:20260503T204500Z
+DTSTAMP:20260529T070928Z
+UID:WtZmU3nFpr0Yz4RiRvrbL9Z2Iv0qwC5yVRzwiefh@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071309Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=boston-legacy\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260504T031208Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Boston Legacy (1-1)
+DTSTART:20260509T223000Z
+DTEND:20260510T001500Z
+DTSTAMP:20260529T070928Z
+UID:lqT3J4PfHruL9ogEVAS0PpRED3V9lpUU0dxINeDc@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071308Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=boston-legacy\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260510T031145Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston Legacy - Orlando Pride (2-1)
+DTSTART:20260512T230000Z
+DTEND:20260513T004500Z
+DTSTAMP:20260529T070928Z
+UID:S16CwGMzqUKhCETr9ki4UJKhu7KveRnXJfYvUoit@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071311Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=boston-legacy\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260513T031147Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bay FC - Boston Legacy (1-1)
+DTSTART:20260516T020000Z
+DTEND:20260516T034500Z
+DTSTAMP:20260529T070928Z
+UID:7HycOPJaMce0pB2jmN1lhCzOg8qxFW2ekwGibhIi@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071305Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=boston-legacy\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260517T031136Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston Legacy - Seattle Reign (1-2)
+DTSTART:20260523T000000Z
+DTEND:20260523T014500Z
+DTSTAMP:20260529T070928Z
+UID:d4NccrpGcztHjJixk4S5zGJx9VpAlB3Hs0nuvqEC@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071310Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=boston-legacy\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260523T031136Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas City - Boston Legacy
+DTSTART:20260530T173000Z
+DTEND:20260530T191500Z
+DTSTAMP:20260529T070928Z
+UID:pDtsgrfEqyi8wRixHW3B7E8hkgVpJdLlLWxzUrUa@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071308Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=boston-legacy\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071308Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston Legacy - Bay FC
+DTSTART:20260705T160000Z
+DTEND:20260705T174500Z
+DTSTAMP:20260529T070928Z
+UID:hmzFTCwHkzNN6YEPs4BI3nZbrCfn1cREwN4MzjT7@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071310Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=boston-legacy\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071310Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston Legacy - Chicago Red Stars
+DTSTART:20260711T000000Z
+DTEND:20260711T014500Z
+DTSTAMP:20260529T070928Z
+UID:PcUzwNKZuuS2Cr5SOx4IRwCMZvNroTVAqRGpBrQT@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071310Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=boston-legacy\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071310Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orlando Pride - Boston Legacy
+DTSTART:20260715T230000Z
+DTEND:20260716T004500Z
+DTSTAMP:20260529T070928Z
+UID:yWC5HhwFbjt2Itfe6Y3Tv7klngyRk71XyuM4VU5b@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071308Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=boston-legacy\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071308Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston Legacy - Washington Spirit
+DTSTART:20260719T230000Z
+DTEND:20260720T004500Z
+DTSTAMP:20260529T070928Z
+UID:4n20Hu9j2t7s0zRbFBxTrF6WIKbRDAhMdAEKSwfM@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071305Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=boston-legacy\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071305Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston Legacy - Kansas City
+DTSTART:20260725T210000Z
+DTEND:20260725T224500Z
+DTSTAMP:20260529T070928Z
+UID:X7Y9CoXj7YZ7gOZKnHyY5MvJQcPemYAiXs6ox6WM@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071310Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=boston-legacy\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071310Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Denver Summit - Boston Legacy
+DTSTART:20260803T010000Z
+DTEND:20260803T024500Z
+DTSTAMP:20260529T070928Z
+UID:96khad9nvwiIivLFRtHKTnmC3fMW1X9FXgQQaN4k@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071307Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=boston-legacy\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071307Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston Legacy - Portland Thorns
+DTSTART:20260809T200000Z
+DTEND:20260809T214500Z
+DTSTAMP:20260529T070928Z
+UID:tjNcuWTFixbtYV8kGGcBQk29F0puNwjOKBkJgYO7@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071307Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=boston-legacy\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071307Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Racing Louisville - Boston Legacy
+DTSTART:20260815T223000Z
+DTEND:20260816T001500Z
+DTSTAMP:20260529T070928Z
+UID:GzWX6DL8gLYwL5HtNl0Oox9pIZqWIcsBzjm32Wgc@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071307Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=boston-legacy\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071307Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Carolina Courage - Boston Legacy
+DTSTART:20260822T233000Z
+DTEND:20260823T011500Z
+DTSTAMP:20260529T070928Z
+UID:FSKABvdx28a9DDO6sxZmybigsBG04yVAeZYgdYo0@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071310Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=boston-legacy\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071310Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston Legacy - Angel City
+DTSTART:20260901T000000Z
+DTEND:20260901T014500Z
+DTSTAMP:20260529T070928Z
+UID:BbMm8YQU8h9TkOmw0sGFNIc1FXPuTD17NHluggVU@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071307Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=boston-legacy\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071307Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Utah Royals - Boston Legacy
+DTSTART:20260905T013000Z
+DTEND:20260905T031500Z
+DTSTAMP:20260529T070928Z
+UID:kEha36xyvQGVDe6MnqacHy69cD1TZQ1koUQmcFvE@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071307Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=boston-legacy\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071307Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Washington Spirit - Boston Legacy
+DTSTART:20260913T170000Z
+DTEND:20260913T184500Z
+DTSTAMP:20260529T070928Z
+UID:fC94x5YUvT38M0is2L5t2pTKfRgkBKVpmMq4mf1e@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071310Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=boston-legacy\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071310Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston Legacy - Houston Dash
+DTSTART:20260920T180000Z
+DTEND:20260920T194500Z
+DTSTAMP:20260529T070928Z
+UID:3Qjea2MgZz6ZPXHuGslxRq4TrnvoSXJ6MOSKEuda@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071306Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=boston-legacy\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071306Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Boston Legacy
+DTSTART:20260926T003000Z
+DTEND:20260926T021500Z
+DTSTAMP:20260529T070928Z
+UID:saAROlr43iKshpirDxwYXRT43T96kO1FyFxrtVTZ@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071306Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=boston-legacy\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071306Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portland Thorns - Boston Legacy
+DTSTART:20261004T004500Z
+DTEND:20261004T023000Z
+DTSTAMP:20260529T070928Z
+UID:riNKjJNTzxuSV9Bq6wRT2yCfhSbkCzhgDficLz2C@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071306Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=boston-legacy\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071306Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston Legacy - Racing Louisville
+DTSTART:20261017T000000Z
+DTEND:20261017T014500Z
+DTSTAMP:20260529T070928Z
+UID:8QY7yy5M7F6U7SlkCV63Hf6FsFd6Fpcf3icf8LS0@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071305Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=boston-legacy\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071305Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego Wave - Boston Legacy
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+DTSTAMP:20260529T070928Z
+UID:Gnbj10GCreQkSgmpo3pqZqhqRsdCnyfo7GQZdCMq@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071305Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=boston-legacy\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071305Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angel City - Boston Legacy
+DTSTART:20261101T220000Z
+DTEND:20261101T234500Z
+DTSTAMP:20260529T070928Z
+UID:cRiVuxP4BPO59k7tMBbpDhWs7ixGG6oexTsTtn3b@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071305Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=boston-legacy\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeaco
+ ffee.com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+LAST-MODIFIED:20260122T071305Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

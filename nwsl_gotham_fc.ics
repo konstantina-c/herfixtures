@@ -1,0 +1,1923 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//NWSL 2026 Gotham FC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Gotham FC 2026 fixtures. Updated automatically by HerFixtures
+ .com
+X-WR-CALNAME:Gotham FC 2026 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Angel City - Gotham FC (1-2)
+DTSTART:20230327T010000Z
+DTEND:20230327T024500Z
+DTSTAMP:20260529T061403Z
+UID:oXPYzUt0dFChYkCRM2arydvlx3dnIsmBh9pM4Y3C@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162043Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20230328T031122Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Seattle Reign (0-2)
+DTSTART:20230402T011300Z
+DTEND:20230402T025800Z
+DTSTAMP:20260529T061403Z
+UID:oUVWRBCWK9ZuFG2niioO8yzBPPuUeAf91zgdcDLu@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162044Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20230403T031128Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orlando Pride - Gotham FC (0-2)
+DTSTART:20230415T230000Z
+DTEND:20230416T004500Z
+DTSTAMP:20260529T061403Z
+UID:TB0r6auc6oQ62FcEl4d2VYcTWmYAOeeM0ZiFMue0@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162044Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20230416T031136Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - North Carolina Courage (1-0)
+DTSTART:20230422T233000Z
+DTEND:20230423T011500Z
+DTSTAMP:20260529T061403Z
+UID:2WsnnA5e8FVMU3BRht19Yd0QRy9JEYzJXRyviPTw@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162045Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20230424T031123Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas City - Gotham FC
+DTSTART;VALUE=DATE:20230501
+DTEND;VALUE=DATE:20230502
+DTSTAMP:20260529T061403Z
+UID:yCGBPlGaYLdQZo1451qu6yJgQrbjs1gYU7F5Vjo7@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162046Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20230301T162046Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Gotham FC
+DTSTART;VALUE=DATE:20230508
+DTEND;VALUE=DATE:20230509
+DTSTAMP:20260529T061403Z
+UID:EaMNRlEQclvpPMIyeMFXRjVsXiXAWDSQPVzJdICh@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162046Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20230301T162046Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Orlando Pride (0-0)
+DTSTART:20230514T213000Z
+DTEND:20230514T231500Z
+DTSTAMP:20260529T061403Z
+UID:eIG565BGllfKueP7IMgTDoUMMwpolWcQP8CLlAGa@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162047Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20230515T031116Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Gotham FC
+DTSTART;VALUE=DATE:20230522
+DTEND;VALUE=DATE:20230523
+DTSTAMP:20260529T061403Z
+UID:oHxq0YpHxs9iVLecqXEXriTTnnZYm67iHB64liws@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162047Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20230301T162047Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Washington Spirit - Gotham FC (1-1)
+DTSTART:20230528T210000Z
+DTEND:20230528T224500Z
+DTSTAMP:20260529T061403Z
+UID:tqw0JAaNeQWF0a5GhPRwQjWAptwzCPBxgddN40JB@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162048Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20230529T031123Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - San Diego Wave (0-1)
+DTSTART:20230604T213000Z
+DTEND:20230604T231500Z
+DTSTAMP:20260529T061403Z
+UID:PWzPAZr1P3etT4YHRWxxK2CTTKsKerC2ako7c6xR@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162048Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20230605T031158Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Dash - Gotham FC (1-1)
+DTSTART:20230611T230000Z
+DTEND:20230612T004500Z
+DTSTAMP:20260529T061403Z
+UID:uOMsaDFsP40R0181HLOIqySq1rv0uZMy55CHQnlo@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162049Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20230612T031202Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Racing Louisville - Gotham FC (2-0)
+DTSTART:20230618T200000Z
+DTEND:20230618T214500Z
+DTSTAMP:20260529T061403Z
+UID:ygBQ4ISQ2H3VRKa2UVz9ym8kzGsNHN0EP3mSkW6A@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162049Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20230619T031214Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Chicago Red Stars (2-1)
+DTSTART:20230625T213000Z
+DTEND:20230625T231500Z
+DTSTAMP:20260529T061403Z
+UID:fEd95pgEF3XsPSEkOnlhTLNJ0oecIUtA7r8WLr1K@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162050Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20230627T031205Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Angel City (0-0)
+DTSTART:20230702T213000Z
+DTEND:20230702T231500Z
+DTSTAMP:20260529T061403Z
+UID:uBbByw7WUwe9BBRgit4sXI3RVondFE6tlPyHBdAT@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162050Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20230703T031209Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Portland Thorns (2-1)
+DTSTART:20230709T211500Z
+DTEND:20230709T230000Z
+DTSTAMP:20260529T061403Z
+UID:b7JKi8QLZiQbLjv9AicxQEfiLIWeAg6xmtfoHYoX@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162051Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20230711T031156Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego Wave - Gotham FC (2-1)
+DTSTART:20230820T000000Z
+DTEND:20230820T014500Z
+DTSTAMP:20260529T061403Z
+UID:dxaEKULfPsuQIFgJK743RvyQErGgZcZN6lJWPQbd@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162051Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20230820T031201Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Racing Louisville (0-0)
+DTSTART:20230827T213000Z
+DTEND:20230827T231500Z
+DTSTAMP:20260529T061403Z
+UID:hzawb5moUoRwNw8umHaBMtN3pa5oWhHLDIgpY6xZ@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162052Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20230828T031159Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Carolina Courage - Gotham FC (3-3)
+DTSTART:20230902T233000Z
+DTEND:20230903T011500Z
+DTSTAMP:20260529T061403Z
+UID:tgfYwcQ9qKd51DLEgGVzQBwSylfAguN3FCMomqD1@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162052Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20230903T031202Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Washington Spirit (2-0)
+DTSTART:20230916T233000Z
+DTEND:20230917T011500Z
+DTSTAMP:20260529T061403Z
+UID:btqdSEBPO7RQ6NmxTN4zUa2BnyKoo57UItlQinIg@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162053Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20230917T031157Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Houston Dash (0-2)
+DTSTART:20231001T223000Z
+DTEND:20231002T001500Z
+DTSTAMP:20260529T061403Z
+UID:KFvYKlVi1Eu6kja3vJGrqr5svQh7G6TlFnk53i8P@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162054Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20231002T031215Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portland Thorns - Gotham FC (1-0)
+DTSTART:20231007T210000Z
+DTEND:20231007T224500Z
+DTSTAMP:20260529T061403Z
+UID:FMWjTAEMpBdUOcmfOcuyFsgJ49kU9FJA6tpNRAu8@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162054Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20231008T031200Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Kansas City (2-2)
+DTSTART:20231015T210000Z
+DTEND:20231015T224500Z
+DTSTAMP:20260529T061403Z
+UID:hviC79kJSOJ0UboQhHTLKTRwGQ90wh40pXNSXHyR@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20230301T162054Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20231016T031200Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Carolina Courage - Gotham FC (0-2)
+DTSTART:20231022T230000Z
+DTEND:20231023T004500Z
+DTSTAMP:20260529T061403Z
+UID:rJHUL5RtdE9uUXJhFKeX57fGnOxHFlUvJZCiDfqM@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20231017T031203Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20231023T031204Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portland Thorns - Gotham FC (0-1)
+DTSTART:20231106T000000Z
+DTEND:20231106T014500Z
+DTSTAMP:20260529T061403Z
+UID:ii7SwFykMu1rfHYmzZiqVa48x7zJm7zGgEXNce7R@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20231024T031203Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20231106T031213Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Gotham FC (1-2)
+DTSTART:20231112T010000Z
+DTEND:20231112T024500Z
+DTSTAMP:20260529T061403Z
+UID:8ZMY9FrgSx5LkcuCjmZvoa79TXhYfVUAJbIAeyI2@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20231107T031201Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20231113T031210Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portland Thorns - Gotham FC (0-1)
+DTSTART;VALUE=DATE:20240325
+DTEND;VALUE=DATE:20240326
+DTSTAMP:20260529T061403Z
+UID:nWifkKRx4GGHc4t6xeBAQGya2st1cicEa45NAviv@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123632Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20241101T031234Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Carolina Courage - Gotham FC (1-0)
+DTSTART;VALUE=DATE:20240331
+DTEND;VALUE=DATE:20240401
+DTSTAMP:20260529T061403Z
+UID:HpFpEpsHnEWgQFDxcmUMv19OGbzn8SsTYcUd3pPc@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123632Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20241101T031235Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Kansas City (1-1)
+DTSTART;VALUE=DATE:20240415
+DTEND;VALUE=DATE:20240416
+DTSTAMP:20260529T061403Z
+UID:tFOgTmNfOilAf2Sbt0CGEPogLk8MpOpB8yf2NOGB@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123633Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20241101T031235Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Washington Spirit - Gotham FC (2-0)
+DTSTART:20240420T170000Z
+DTEND:20240420T184500Z
+DTSTAMP:20260529T061403Z
+UID:lPMuZfj135OnjQYZNCcyvTwoEtn9LIS8GIGaUbn0@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123633Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20240421T031209Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Racing Louisville (1-1)
+DTSTART:20240428T210000Z
+DTEND:20240428T224500Z
+DTSTAMP:20260529T061403Z
+UID:eeZMWvcYZWI32IrrI0qMxjwQ9MniAFsEfor8iUKG@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123634Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20240429T031121Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - North Carolina Courage (1-0)
+DTSTART:20240504T233000Z
+DTEND:20240505T011500Z
+DTSTAMP:20260529T061403Z
+UID:T9WSD7MA2udS2OTp4XZuDznNuvdV0ZZtlGaoFd3N@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123634Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20240505T031120Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Dash - Gotham FC (0-1)
+DTSTART:20240509T000000Z
+DTEND:20240509T014500Z
+DTSTAMP:20260529T061403Z
+UID:PVfCdlN2Pyo2AAnNuCIXxMqHcvleylMXyJPTvsFf@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123634Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20240509T031122Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego Wave - Gotham FC (1-1)
+DTSTART:20240512T233000Z
+DTEND:20240513T011500Z
+DTSTAMP:20260529T061403Z
+UID:gwblhvMAiiz5GM9CN4wA9ei4UYSrSaFwhO85f6WU@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123635Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20240513T031130Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Chicago Red Stars (2-1)
+DTSTART:20240519T210000Z
+DTEND:20240519T224500Z
+DTSTAMP:20260529T061403Z
+UID:til3NTvFDbDDWh3XHtqY2HW2kzfphxP6ExzRX7FB@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123635Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20240520T031239Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bay FC - Gotham FC (0-2)
+DTSTART:20240525T020000Z
+DTEND:20240525T034500Z
+DTSTAMP:20260529T061403Z
+UID:9aaKEpfUKquwGgJdewDmGDGKvWMvpBrBfqs2P20D@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123636Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20240526T031133Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Angel City (2-1)
+DTSTART:20240608T163000Z
+DTEND:20240608T181500Z
+DTSTAMP:20260529T061403Z
+UID:blKlpnJbytM3XfoISfg2XzWTX2lD9UWreq6fU7bk@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123636Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20240609T031136Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Racing Louisville - Gotham FC (0-2)
+DTSTART:20240615T160000Z
+DTEND:20240615T174500Z
+DTSTAMP:20260529T061403Z
+UID:4cRuPAyGFCtwjeEBGtsC6nmXVPbDFzZn3CaNmkKG@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123636Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20240616T031111Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - San Diego Wave (2-1)
+DTSTART:20240619T230000Z
+DTEND:20240620T004500Z
+DTSTAMP:20260529T061403Z
+UID:WiQaKoQQWPg5TNhAaE7yJQR66k3jSZzVcEItUDiW@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123637Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20240620T031117Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Washington Spirit (0-2)
+DTSTART:20240623T173000Z
+DTEND:20240623T191500Z
+DTSTAMP:20260529T061403Z
+UID:2zrlTvGIdlm80dne7BA7URk1WBFZ5iXhoSsQCHcZ@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123637Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20240624T031135Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Seattle Reign (1-1)
+DTSTART:20240630T170000Z
+DTEND:20240630T184500Z
+DTSTAMP:20260529T061403Z
+UID:je4fr787Vr6PYmaYPrP5JWUqlTHq4wPeuH0BovKD@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123638Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20240701T031146Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angel City - Gotham FC (1-2)
+DTSTART:20240707T020000Z
+DTEND:20240707T034500Z
+DTSTAMP:20260529T061403Z
+UID:bFwxjmTq9EA8TFJkEBMPRZmHQFhWmP7hALYs7FAV@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123638Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20240708T031155Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Portland Thorns (2-0)
+DTSTART:20240824T183000Z
+DTEND:20240824T201500Z
+DTSTAMP:20260529T061403Z
+UID:sSwgWoMJZyDu4dyDgBu0iBSNuXWYIT5VbqDPxjMA@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123638Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20240825T031239Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orlando Pride - Gotham FC (2-0)
+DTSTART:20240901T232500Z
+DTEND:20240902T011000Z
+DTSTAMP:20260529T061403Z
+UID:3yDJv4CpdqiQw6aL1QzHGLopvdIAgCSElEXQnbmg@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123639Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20240903T031257Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Houston Dash (2-1)
+DTSTART:20240908T170000Z
+DTEND:20240908T184500Z
+DTSTAMP:20260529T061403Z
+UID:w3AgaJD9P6hMspVCYVrFWQbkvtwRDbjzWGimp4Xx@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123639Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20240909T031238Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Gotham FC (0-2)
+DTSTART:20240917T020000Z
+DTEND:20240917T034500Z
+DTSTAMP:20260529T061403Z
+UID:wqgAuH8USchDnnbSAyangNaTDD6FR7zxPiSy25RS@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123640Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20240918T031240Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Utah Royals (1-0)
+DTSTART:20240922T170000Z
+DTEND:20240922T184500Z
+DTSTAMP:20260529T061403Z
+UID:Aocna01BapSxY4cuohLew0WecsDUtfEIR80TU2ps@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123640Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20241003T031337Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas City - Gotham FC (1-1)
+DTSTART:20240928T170000Z
+DTEND:20240928T184500Z
+DTSTAMP:20260529T061403Z
+UID:3k1wdkSSUT4L8hJspDmzknyvxh1Olma7x1H8h9BV@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123640Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20241003T031338Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Bay FC (5-1)
+DTSTART:20241005T233000Z
+DTEND:20241006T011500Z
+DTSTAMP:20260529T061403Z
+UID:MUv1UTQiEoYisajd8Ew3lnVUqhW78no8DwfsiQmG@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123641Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20241007T031351Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Gotham FC (0-2)
+DTSTART:20241012T200000Z
+DTEND:20241012T214500Z
+DTSTAMP:20260529T061403Z
+UID:XuMNOtqiP67gJCKHheLTX6gay7ltzlQ4yiN9iBtL@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123641Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20241014T031244Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Orlando Pride (3-1)
+DTSTART:20241020T210000Z
+DTEND:20241020T224500Z
+DTSTAMP:20260529T061403Z
+UID:uHEE1XZznvx3CaKavbDKjObx1jOVbiJ6uXSpva53@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123642Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20241101T031239Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Utah Royals - Gotham FC (1-4)
+DTSTART:20241102T013000Z
+DTEND:20241102T031500Z
+DTSTAMP:20260529T061403Z
+UID:p9q2XnjgFnMOi4CJrnJcejTc4t25kpxmjoovxKHO@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20240129T123642Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20241103T031247Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Portland Thorns (2-1)
+DTSTART:20241110T200000Z
+DTEND:20241110T214500Z
+DTSTAMP:20260529T061403Z
+UID:UAlBfIChHZQ1E2m9h3TY6RzNRlLSZ1c0aWpzv8h7@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20241105T031257Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20241111T031359Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Washington Spirit - Gotham FC (1-1)
+DTSTART:20241116T170000Z
+DTEND:20241116T184500Z
+DTSTAMP:20260529T061403Z
+UID:0y4oJ7PEJqpu5qnd2HwSffuACqaf9hSwDBnhQR7H@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20241112T031248Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20241117T031215Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Gotham FC (1-1)
+DTSTART:20250316T020000Z
+DTEND:20250316T034500Z
+DTSTAMP:20260529T061403Z
+UID:cY4ONvwTRs8tvGX6BKu4qrAUnDViyupb3rifAJvk@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250124T145536Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20250317T031222Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Orlando Pride (0-2)
+DTSTART:20250323T210000Z
+DTEND:20250323T224500Z
+DTSTAMP:20260529T061403Z
+UID:COu1Qyurm3zxRUhVJbOBcwqJfVNhWkxmkAX2hyir@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071343Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20250324T031148Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Dash - Gotham FC (0-0)
+DTSTART:20250329T000000Z
+DTEND:20250329T014500Z
+DTSTAMP:20260529T061403Z
+UID:o5tYIIlOeZWJqPEH8Ata2nZJDkafvmzu1PRRfhdr@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071343Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20250329T031156Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - North Carolina Courage (3-1)
+DTSTART:20250413T200000Z
+DTEND:20250413T214500Z
+DTSTAMP:20260529T061403Z
+UID:nWixNC1nM2LIEEbgErGbAQTBtqdLX8PEb38amYr9@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071344Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20250414T031249Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angel City - Gotham FC (0-4)
+DTSTART:20250419T023000Z
+DTEND:20250419T041500Z
+DTSTAMP:20260529T061403Z
+UID:GYK9FQ17qZeyp9zkuXWFPIbXnJoIFrmYqIXRccHK@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071344Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20250420T031200Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portland Thorns - Gotham FC (4-1)
+DTSTART:20250423T023000Z
+DTEND:20250423T041500Z
+DTSTAMP:20260529T061403Z
+UID:h6bvjQTYAIUczlNEN1EcWGUrCCp38udAdYI0yEW4@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071344Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20250424T031219Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Washington Spirit - Gotham FC (0-3)
+DTSTART:20250426T170000Z
+DTEND:20250426T184500Z
+DTSTAMP:20260529T061403Z
+UID:HiHopYPYjff9uyFITOSIWsT2j6UdcX111QO5G2k0@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071344Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20250427T031148Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Chicago Red Stars (0-0)
+DTSTART:20250504T170000Z
+DTEND:20250504T184500Z
+DTSTAMP:20260529T061403Z
+UID:9kowWzoSn7znrY7hKJktgcMz7Mw1MpGXKClP6kBP@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071344Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20250505T031219Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Racing Louisville - Gotham FC (1-0)
+DTSTART:20250510T000000Z
+DTEND:20250510T014500Z
+DTSTAMP:20260529T061403Z
+UID:2zW72Np2AXWRSkGpUhOIPICm31svgSAWxL3nPrE9@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071344Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20250510T031205Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - San Diego Wave (0-1)
+DTSTART:20250516T233000Z
+DTEND:20250517T011500Z
+DTSTAMP:20260529T061403Z
+UID:ztU2rEPcQ7O5qErBNkiKvifteFvbbRESuODmpLNo@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071344Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20250517T031159Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Kansas City (1-2)
+DTSTART:20250607T170000Z
+DTEND:20250607T184500Z
+DTSTAMP:20260529T061403Z
+UID:V6wDDBdDu4XLBdaCu0Tt9oTd7gNlWfSyBxmwfJE8@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071345Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20250608T031153Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Utah Royals - Gotham FC (0-3)
+DTSTART:20250614T013000Z
+DTEND:20250614T031500Z
+DTSTAMP:20260529T061403Z
+UID:KbaEmzQSc2jiV9gqJGZDVdgLUvcVwSWAYrUKd9NF@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071345Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20250615T031158Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Bay FC (2-1)
+DTSTART:20250621T233000Z
+DTEND:20250622T011500Z
+DTSTAMP:20260529T061403Z
+UID:MNEcgjPXQxe3I4drnq3AKxXVeHQOCnPRw2ZGTGcL@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071345Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20250622T031154Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Gotham FC (1-1)
+DTSTART:20250802T000000Z
+DTEND:20250802T014500Z
+DTSTAMP:20260529T061403Z
+UID:XCjKHtH8XcnVqDMGaznqrK5gZdliSJkWKPnPWfwD@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071345Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20250802T031157Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Washington Spirit (0-0)
+DTSTART:20250809T160000Z
+DTEND:20250809T174500Z
+DTSTAMP:20260529T061403Z
+UID:h7H2SWUoeNTZdK5TDTdqdr98PNUgZhFAe0Z2vLUH@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071345Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20250810T031155Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Houston Dash (1-2)
+DTSTART:20250817T200000Z
+DTEND:20250817T214500Z
+DTSTAMP:20260529T061403Z
+UID:xijHyYzxKHEDXJ3gTNlrHMEz0mYiVMklHfYC9mUy@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071346Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20250819T031203Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Utah Royals (0-0)
+DTSTART:20250823T233000Z
+DTEND:20250824T011500Z
+DTSTAMP:20260529T061403Z
+UID:HCMUhPlV1PGM1BiAAwk7JkCWf7QPkA4yHKovhLn4@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071346Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20250824T031238Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orlando Pride - Gotham FC (0-2)
+DTSTART:20250830T000000Z
+DTEND:20250830T014500Z
+DTSTAMP:20260529T061403Z
+UID:63UEqemUvFAd4mubA1AFdBLbA4skp7wC64YFWrFn@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071346Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20250830T031154Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Angel City (3-1)
+DTSTART:20250907T210000Z
+DTEND:20250907T224500Z
+DTSTAMP:20260529T061403Z
+UID:TxvljT1RU8JDwBQbxwniivX87n8crbAJYkLdiErd@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071346Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20250908T031146Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego Wave - Gotham FC (0-2)
+DTSTART:20250913T020000Z
+DTEND:20250913T034500Z
+DTSTAMP:20260529T061403Z
+UID:hymktdfbLIQ0ItSoPQE0FsvCsd4Mcbb6YeGEan2L@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071346Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20250914T031157Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bay FC - Gotham FC (1-1)
+DTSTART:20250922T003000Z
+DTEND:20250922T021500Z
+DTSTAMP:20260529T061403Z
+UID:G3RpQACr59XpjNMzf84KdqsTkkHGdz4krNpkhEeU@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071347Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20250922T031154Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Portland Thorns (3-0)
+DTSTART:20250927T000000Z
+DTEND:20250927T014500Z
+DTSTAMP:20260529T061403Z
+UID:GME2mzRRU2iyFOMq5P2WRje90Z1McsgU8MEmltzj@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071347Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20250927T031219Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Seattle Reign (0-0)
+DTSTART:20251005T200000Z
+DTEND:20251005T214500Z
+DTSTAMP:20260529T061403Z
+UID:pXTWfv3gEreqrb1Mq86XB3Lu6GBuVLllTvnx7ulW@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071347Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20251006T031143Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas City - Gotham FC (2-0)
+DTSTART:20251011T210000Z
+DTEND:20251011T224500Z
+DTSTAMP:20260529T061403Z
+UID:6y8BjS1R8g7ZkuNkdogVEDSVcy694T7ybgC7fMTv@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071347Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20251012T031147Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Racing Louisville (2-2)
+DTSTART:20251019T190000Z
+DTEND:20251019T204500Z
+DTSTAMP:20260529T061403Z
+UID:XuPzODxjuisTuMpwtjyuhx739W6Rvi7X77Q2IQdP@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071347Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20251020T031258Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Carolina Courage - Gotham FC (3-2)
+DTSTART:20251102T221500Z
+DTEND:20251103T000000Z
+DTSTAMP:20260529T061403Z
+UID:76M3qJe2d9iKVhJ1faBBdf5Uj5pMAxmwUt7tWY7W@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20250226T071347Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20251103T031215Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas City - Gotham FC (1-2)
+DTSTART:20251109T173000Z
+DTEND:20251109T191500Z
+DTSTAMP:20260529T061403Z
+UID:evKW3aqDTsiLfPWFL7uqeeellQlE6NKC2YDaseAz@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20251106T031232Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20251110T031225Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orlando Pride - Gotham FC (0-1)
+DTSTART:20251116T200000Z
+DTEND:20251116T214500Z
+DTSTAMP:20260529T061403Z
+UID:enIqVnVuvAlqhgQXFGZ6UzrcqNMWXPndMjKLnCnX@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20251111T031205Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20251117T031213Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Washington Spirit - Gotham FC (0-1)
+DTSTART:20251123T010000Z
+DTEND:20251123T024500Z
+DTSTAMP:20260529T061403Z
+UID:wiRcF3yLNfD5kWOejDzQAEFhjmBp4aSRhaG6A5uu@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20251119T031210Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20251124T031247Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston Legacy - Gotham FC (0-1)
+DTSTART:20260314T163000Z
+DTEND:20260314T181500Z
+DTSTAMP:20260529T061403Z
+UID:CaGJscQfiouW3hbsYeQwHkrBZ2eU0NnbDv5QDvU9@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071311Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20260315T031209Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - North Carolina Courage (0-0)
+DTSTART:20260321T223000Z
+DTEND:20260322T001500Z
+DTSTAMP:20260529T061403Z
+UID:eyg99PKE4PkfM4AJSJdKRrAfUX0OUvw7WYxYn3Bg@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071309Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20260322T031209Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Denver Summit
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260327
+DTSTAMP:20260529T061403Z
+UID:hY2C2KmQUyp2pKbA4bpqsqeraf8IK3J5olP1j6Aa@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071309Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20260122T071309Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Orlando Pride (0-0)
+DTSTART:20260329T230000Z
+DTEND:20260330T004500Z
+DTSTAMP:20260529T061403Z
+UID:WUHakZBEED3glLd3ceFQcjq0OpH7sMzh5ZgIVk0m@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071311Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20260330T031210Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas City - Gotham FC (2-1)
+DTSTART:20260404T200000Z
+DTEND:20260404T214500Z
+DTSTAMP:20260529T061403Z
+UID:D4WIOdi4eWn7pH7HhJUe3kK0k5H7S5CJbWnLmPmC@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071310Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20260405T031157Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Bay FC (3-0)
+DTSTART:20260425T170000Z
+DTEND:20260425T184500Z
+DTSTAMP:20260529T061403Z
+UID:dRbkY3UjU2Oah68mCm8a8ts8DP3rWFbZM09XOWpk@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071309Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20260426T031152Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Red Stars - Gotham FC (0-2)
+DTSTART:20260430T000000Z
+DTEND:20260430T014500Z
+DTSTAMP:20260529T061403Z
+UID:1EeGqSASHmqyRwaANPYYnpsMvDdozkQh9eU1DAKA@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071309Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20260430T031228Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Racing Louisville (1-0)
+DTSTART:20260503T210000Z
+DTEND:20260503T224500Z
+DTSTAMP:20260529T061403Z
+UID:igJ32KCuTHunBFpqSqugWYwMcebpkKBZZqErcHy3@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071309Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20260504T031208Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Boston Legacy (1-1)
+DTSTART:20260509T223000Z
+DTEND:20260510T001500Z
+DTSTAMP:20260529T061403Z
+UID:lqT3J4PfHruL9ogEVAS0PpRED3V9lpUU0dxINeDc@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071308Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20260510T031145Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Reign - Gotham FC (0-2)
+DTSTART:20260516T020000Z
+DTEND:20260516T034500Z
+DTSTAMP:20260529T061403Z
+UID:hb8zee3YovLr2zpFAMHoHjZrzgW1LpAzdZlfHkhJ@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071308Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20260517T031136Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Houston Dash
+DTSTART:20260531T190000Z
+DTEND:20260531T204500Z
+DTSTAMP:20260529T061403Z
+UID:bofTH29Btm0AKcucYWDUUcZ1fWiaZDsYW2Uw8WwP@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071304Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20260122T071304Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego Wave - Gotham FC
+DTSTART:20260705T004500Z
+DTEND:20260705T023000Z
+DTSTAMP:20260529T061403Z
+UID:J0MPropWe1vf6zjD5tOBqSdMh4gkzxCqJN7zKGQv@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071308Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20260122T071308Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Utah Royals - Gotham FC
+DTSTART:20260711T020000Z
+DTEND:20260711T034500Z
+DTSTAMP:20260529T061403Z
+UID:fY4vPRBG0qRYwsjFjm6bpl7Iy9IT03VH16igIvKl@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071304Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20260122T071304Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Washington Spirit
+DTSTART:20260716T000000Z
+DTEND:20260716T014500Z
+DTSTAMP:20260529T061403Z
+UID:xfUMYlLTDGtYrnCAzPsotSWUKGFYWxmV8TbfvqzC@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071306Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20260319T031220Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Seattle Reign
+DTSTART:20260718T160000Z
+DTEND:20260718T174500Z
+DTSTAMP:20260529T061403Z
+UID:oyZyFS7WEH25UI1gUW2BtoOtlSMvvxwlJHEfGBIc@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071308Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20260122T071308Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portland Thorns - Gotham FC
+DTSTART:20260725T020000Z
+DTEND:20260725T034500Z
+DTSTAMP:20260529T061403Z
+UID:G9zbQmyCjEmP4BbJ93wlMFWsIfqCPEP6vxB6evfD@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071310Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20260122T071310Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bay FC - Gotham FC
+DTSTART:20260730T020000Z
+DTEND:20260730T034500Z
+DTSTAMP:20260529T061403Z
+UID:SZBeCK1DPJ76TsmWS7fuAf7ICQAjtbW1BTZxORn6@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071307Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20260122T071307Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Dash - Gotham FC
+DTSTART:20260802T000000Z
+DTEND:20260802T014500Z
+DTSTAMP:20260529T061403Z
+UID:sbHbTmzNgRwQIfu6xZM6SR4bOlc33Fywtv2qMlcV@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071307Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20260122T071307Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - San Diego Wave
+DTSTART:20260808T000000Z
+DTEND:20260808T014500Z
+DTSTAMP:20260529T061403Z
+UID:NUNCHuuT42t84dZd6KV8o5K065FL5LX6usFsKXW7@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071307Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20260122T071307Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Kansas City
+DTSTART:20260815T000000Z
+DTEND:20260815T014500Z
+DTSTAMP:20260529T061403Z
+UID:SnRkfEeMrJ89QbTsifM8iLF6zagd0pdp5nUSWAAc@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071307Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20260122T071307Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angel City - Gotham FC
+DTSTART:20260824T000000Z
+DTEND:20260824T014500Z
+DTSTAMP:20260529T061403Z
+UID:9mtSWPlrkxrdDsLYwmGYEQ0EXH7rdA1XYyz0DwNs@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071310Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20260122T071310Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Portland Thorns
+DTSTART:20260829T000000Z
+DTEND:20260829T014500Z
+DTSTAMP:20260529T061403Z
+UID:pYJqimrbXtvzGdTCeMqOOC5Opoc7qc7YteUrM9gx@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071307Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20260122T071307Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Denver Summit - Gotham FC
+DTSTART:20260906T180000Z
+DTEND:20260906T194500Z
+DTSTAMP:20260529T061403Z
+UID:hle6E64n8kl7Cw7ZeMx9ut6eGBWHxS3OcyuV0fNu@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071306Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20260122T071306Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Racing Louisville - Gotham FC
+DTSTART:20260911T223000Z
+DTEND:20260912T001500Z
+DTSTAMP:20260529T061403Z
+UID:FRH1Q89HHDZTPuex5ACVKj2Drg2T5Hw85VnVld7n@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071306Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20260122T071306Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Carolina Courage - Gotham FC
+DTSTART:20260919T223000Z
+DTEND:20260920T001500Z
+DTSTAMP:20260529T061403Z
+UID:2gDrHzfj3Bciz9aW1L7UCLRNRempIS6pUI7UUHmw@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071306Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20260122T071306Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Chicago Red Stars
+DTSTART:20260926T000000Z
+DTEND:20260926T014500Z
+DTSTAMP:20260529T061403Z
+UID:OvWQ7iFupPgGeDGXynW61wgJGAlXVs7Nlmtc88jz@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071306Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20260122T071306Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Angel City
+DTSTART:20261004T160000Z
+DTEND:20261004T174500Z
+DTSTAMP:20260529T061403Z
+UID:e8WqL0MBbS6cLNhZY7cLdkqJoHmtg8mON8QG0RlW@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071305Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20260122T071305Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Washington Spirit - Gotham FC
+DTSTART:20261017T163000Z
+DTEND:20261017T181500Z
+DTSTAMP:20260529T061403Z
+UID:nPAiMcXunNxYNoibL0xnQ2lNqVvdtC1P0RRDCYiA@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071305Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20260122T071305Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orlando Pride - Gotham FC
+DTSTART:20261025T190000Z
+DTEND:20261025T204500Z
+DTSTAMP:20260529T061403Z
+UID:wptHSB45QKxgzX6jS3RW0hzunPHj1MZi1IaLdR33@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071305Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20260122T071305Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gotham FC - Utah Royals
+DTSTART:20261101T220000Z
+DTEND:20261101T234500Z
+DTSTAMP:20260529T061403Z
+UID:hchUa1svCUNPCu7rODKiCnoG9jEMJmHVUeYykdnc@maak-agenda.nl
+SEQUENCE:0
+CLASS:PUBLIC
+CREATED:20260122T071304Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
+ th=sky-blue\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.
+ com/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+LAST-MODIFIED:20260122T071304Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
