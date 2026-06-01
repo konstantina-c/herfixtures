@@ -1311,5 +1311,26 @@ function openNWSLModal() { FeedModal.open(NWSL_CONFIG); }
 /* Future: function openFIBAModal() { FeedModal.open(FIBA_CONFIG); } */
 
 </script>
+
+<a href="https://smollaunch.com" target="_blank" rel="noopener">
+  <img src="https://smollaunch.com/badges/featured.svg" 
+       alt="Featured on Smol Launch" 
+       loading="lazy" width="250" height="60"
+       class="smol-badge-light" />
+  <img src="https://smollaunch.com/badges/featured-dark.svg" 
+       alt="Featured on Smol Launch" 
+       loading="lazy" width="250" height="60"
+       class="smol-badge-dark" />
+</a>
+
+<style>
+  .smol-badge-light { display: none; }
+  .smol-badge-dark  { display: block; }
+
+  @media (prefers-color-scheme: light) {
+    .smol-badge-light { display: block; }
+    .smol-badge-dark  { display: none; }
+  }
+</style>
 </body>
 </html>
