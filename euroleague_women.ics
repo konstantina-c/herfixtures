@@ -604,4 +604,20 @@ UID:5650002@herfixtures.com
 DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
 LOCATION:EuroLeague Women
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Wadi Degla FC vs ZED FC
+DTSTART:20260608T140000Z
+DTEND:20260608T160000Z
+UID:5737261@herfixtures.com
+DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
+LOCATION:EuroLeague Women
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 ENPPI vs Al Masry SC
+DTSTART:20260608T170000Z
+DTEND:20260608T190000Z
+UID:5737262@herfixtures.com
+DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
+LOCATION:EuroLeague Women
+END:VEVENT
 END:VCALENDAR
