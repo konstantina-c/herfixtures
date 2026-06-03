@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>HerFixtures — Women's Sports on Your Calendar</title>
-<meta name="description" content="The world's first dedicated calendar subscription service for women's sports. Women's Champions League, EuroLeague Women, WNBA. One click. No login.">
+<meta name="description" content="The world's first dedicated calendar subscription service for women's sports. Women's Champions League, EuroLeague Women, WNBA, NWSL. One click. No login.">
 <meta property="og:title" content="HerFixtures — Women's Sports on Your Calendar">
 <meta property="og:description" content="They play every week. You just never knew when. Now you do. One click, no login, women's fixtures in your calendar.">
 <meta property="og:url" content="https://herfixtures.com">
@@ -597,6 +597,188 @@ body {
   #live-page .real-footer { padding: 48px 80px; }
 }
 
+
+/* ══════════════════════════════════════════════════
+   SCORES STRIP
+   Extracted from scores-strip.html standalone build
+══════════════════════════════════════════════════ */
+
+/* Strip wrapper */
+#scores-strip {
+  padding: 16px 20px;
+  border-bottom: 1px solid var(--border);
+  transition: border-color 0.4s;
+  position: relative;
+}
+
+/* Label overlay row */
+#strip-label-row {
+  position: relative;
+  height: 24px;
+  margin-bottom: 16px;
+  overflow: hidden;
+  pointer-events: none;
+}
+.strip-label {
+  position: absolute;
+  top: 0;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+  color: var(--blue);
+  white-space: nowrap;
+  transition: color 0.4s;
+}
+
+/* Scroll container */
+#strip-scroll {
+  overflow-x: auto;
+  overflow-y: visible;
+  scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
+  cursor: grab;
+  user-select: none;
+  padding-bottom: 4px;
+}
+#strip-scroll.is-dragging { cursor: grabbing; }
+#strip-scroll::-webkit-scrollbar { display: none; }
+
+/* Track */
+#strip-track {
+  display: flex;
+  align-items: flex-start;
+  gap: 24px;
+  width: max-content;
+}
+
+/* Group */
+.strip-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+/* Cards row */
+.strip-cards {
+  display: flex;
+  gap: 8px;
+}
+
+/* Game card */
+.game-card {
+  position: relative;
+  width: 200px;
+  flex-shrink: 0;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 18px 16px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  overflow: hidden;
+  transition: background 0.4s, border-color 0.4s;
+}
+.game-card::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 2px;
+  background: linear-gradient(90deg, var(--blue) 0%, var(--coral) 100%);
+}
+
+/* Card header */
+.gc-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+.gc-league {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.8px;
+  color: var(--muted);
+  text-transform: uppercase;
+  transition: color 0.4s;
+}
+.gc-status {
+  font-size: 10px;
+  font-weight: 700;
+  color: var(--muted);
+  text-align: right;
+  white-space: nowrap;
+  transition: color 0.4s;
+}
+.gc-status-live {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}
+.gc-live-dot {
+  width: 8px; height: 8px;
+  border-radius: 50%;
+  background: #e03737;
+  flex-shrink: 0;
+  animation: gc-live-pulse 1.6s ease-in-out infinite;
+}
+@keyframes gc-live-pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50%       { opacity: 0.35; transform: scale(0.65); }
+}
+
+/* Team rows */
+.gc-teams {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  width: 100%;
+}
+.gc-team {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+.gc-team-left {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.gc-logo {
+  width: 20px; height: 20px;
+  border-radius: 50%;
+  background: var(--bg3);
+  border: 1px solid var(--border);
+  flex-shrink: 0;
+  overflow: hidden;
+  display: flex; align-items: center; justify-content: center;
+  transition: background 0.4s, border-color 0.4s;
+}
+.gc-logo img { width: 100%; height: 100%; object-fit: contain; }
+.gc-name {
+  font-size: 14px; font-weight: 600;
+  color: var(--text); white-space: nowrap; transition: color 0.4s;
+}
+.gc-name.loser { color: var(--muted); font-weight: 400; }
+.gc-score {
+  font-family: 'Zalando Sans Expanded', sans-serif;
+  font-size: 16px; font-weight: 900;
+  color: var(--text); white-space: nowrap;
+  transition: color 0.4s; letter-spacing: -0.01em;
+}
+.gc-score.loser { color: var(--muted); }
+
+/* Responsive */
+@media (min-width: 768px) {
+  #scores-strip { padding: 16px 32px; }
+}
+@media (min-width: 1024px) {
+  #scores-strip { padding: 16px 80px; }
+}
+
 </style>
 </head>
 <body>
@@ -613,6 +795,31 @@ body {
       </div>
     </div>
   </div>
+
+
+    <!-- ══════════════════════════════════════════
+         SCORES STRIP — PostGame · LiveGame · PreGame
+    ══════════════════════════════════════════ -->
+    <div id="scores-strip">
+      <div id="strip-label-row">
+        <div class="strip-label" id="label-postgame">Final Results</div>
+        <div class="strip-label" id="label-livegame" style="display:none;">Live Now</div>
+        <div class="strip-label" id="label-pregame">Coming Up</div>
+      </div>
+      <div id="strip-scroll">
+        <div id="strip-track">
+          <div class="strip-group" id="group-postgame">
+            <div class="strip-cards" id="cards-postgame"></div>
+          </div>
+          <div class="strip-group" id="group-livegame" style="display:none;">
+            <div class="strip-cards" id="cards-livegame"></div>
+          </div>
+          <div class="strip-group" id="group-pregame">
+            <div class="strip-cards" id="cards-pregame"></div>
+          </div>
+        </div>
+      </div>
+    </div>
 
   <div class="page-content">
 
@@ -759,6 +966,9 @@ body {
       </div>
       <div class="footer-copy">© 2026 HerFixtures</div>
     </div>
+  </div>
+  <div style="text-align: center; font-size: 13px; color: var(--muted); padding: 12px 0 24px;">
+    Built by <a href="https://x.com/Konstantina__C" target="_blank" rel="noopener" class="footer-social-link" style="display:inline; font-size:inherit;">@Konstantina__C</a> &nbsp;|&nbsp; © 2026 HerFixtures™. All rights reserved.
   </div>
 
 </div><!-- /live-page -->
@@ -1310,6 +1520,273 @@ function openWNBAModal() { FeedModal.open(WNBA_CONFIG); }
 function openNWSLModal() { FeedModal.open(NWSL_CONFIG); }
 /* Future: function openFIBAModal() { FeedModal.open(FIBA_CONFIG); } */
 
+/* ══ SCORES STRIP ══ */
+/* ── Time label (Figma rules) ─────────────────────────── */
+function formatKickoff(iso) {
+  const now = new Date(), ko = new Date(iso);
+  const diffMs = ko - now, diffMin = Math.round(diffMs / 60000), diffHrs = Math.round(diffMs / 3600000);
+  if (diffMin <= 0) return '';
+  if (diffMin < 60) return `in ${diffMin} minutes`;
+  if (diffMs < 24 * 3600000) return `in ${diffHrs} hour${diffHrs !== 1 ? 's' : ''}`;
+  const h = ko.getHours(), m = ko.getMinutes();
+  let t;
+  if (h === 0 && m === 0) t = 'midnight';
+  else if (h === 12 && m === 0) t = 'midday';
+  else { const ap = h >= 12 ? 'pm' : 'am', h12 = h % 12 || 12; t = m === 0 ? `${h12}${ap}` : `${h12}:${String(m).padStart(2,'0')}${ap}`; }
+  const tom = new Date(now); tom.setDate(tom.getDate() + 1);
+  if (ko.toDateString() === tom.toDateString()) return `Tomorrow @ ${t}`;
+  return `${'Sunday Monday Tuesday Wednesday Thursday Friday Saturday'.split(' ')[ko.getDay()]} @ ${t}`;
+}
+
+function teamLogo(team) {
+  return team.logo ? `<img src="${team.logo}" alt="${team.name}" loading="lazy">` : '';
+}
+
+/* ── GameCard component ───────────────────────────────── */
+function makeCard(game) {
+  const card = document.createElement('div');
+  card.className = 'game-card';
+
+  if (game.variant === 'postgame') {
+    const hw = game.home.score > game.away.score;
+    card.innerHTML = `
+      <div class="gc-header">
+        <span class="gc-league">${game.league}</span>
+        <span class="gc-status">FINAL</span>
+      </div>
+      <div class="gc-teams">
+        <div class="gc-team">
+          <div class="gc-team-left">
+            <div class="gc-logo">${teamLogo(game.home)}</div>
+            <span class="gc-name ${hw?'':'loser'}">${game.home.name}</span>
+          </div>
+          <span class="gc-score ${hw?'':'loser'}">${game.home.score}</span>
+        </div>
+        <div class="gc-team">
+          <div class="gc-team-left">
+            <div class="gc-logo">${teamLogo(game.away)}</div>
+            <span class="gc-name ${hw?'loser':''}">${game.away.name}</span>
+          </div>
+          <span class="gc-score ${hw?'loser':''}">${game.away.score}</span>
+        </div>
+      </div>`;
+  }
+
+  else if (game.variant === 'livegame') {
+    card.innerHTML = `
+      <div class="gc-header">
+        <span class="gc-league">${game.league}</span>
+        <span class="gc-status gc-status-live"><span class="gc-live-dot"></span>Live now</span>
+      </div>
+      <div class="gc-teams">
+        <div class="gc-team">
+          <div class="gc-team-left">
+            <div class="gc-logo">${teamLogo(game.home)}</div>
+            <span class="gc-name">${game.home.name}</span>
+          </div>
+          <span class="gc-score">${game.home.score ?? '–'}</span>
+        </div>
+        <div class="gc-team">
+          <div class="gc-team-left">
+            <div class="gc-logo">${teamLogo(game.away)}</div>
+            <span class="gc-name">${game.away.name}</span>
+          </div>
+          <span class="gc-score">${game.away.score ?? '–'}</span>
+        </div>
+      </div>`;
+  }
+
+  else if (game.variant === 'pregame') {
+    const tl = game.kickoff ? formatKickoff(game.kickoff) : (game.kickoff_label || '');
+    card.innerHTML = `
+      <div class="gc-header">
+        <span class="gc-league">${game.league}</span>
+        <span class="gc-status">${tl}</span>
+      </div>
+      <div class="gc-teams">
+        <div class="gc-team">
+          <div class="gc-team-left">
+            <div class="gc-logo">${teamLogo(game.home)}</div>
+            <span class="gc-name">${game.home.name}</span>
+          </div>
+        </div>
+        <div class="gc-team">
+          <div class="gc-team-left">
+            <div class="gc-logo">${teamLogo(game.away)}</div>
+            <span class="gc-name">${game.away.name}</span>
+          </div>
+        </div>
+      </div>`;
+  }
+
+  return card;
+}
+
+/* ── Render ───────────────────────────────────────────── */
+function render(data) {
+  const pgCards = document.getElementById('cards-postgame');
+  const lgCards = document.getElementById('cards-livegame');
+  const prCards = document.getElementById('cards-pregame');
+  const lgGroup = document.getElementById('group-livegame');
+  const lgLabel = document.getElementById('label-livegame');
+
+  pgCards.innerHTML = '';
+  lgCards.innerHTML = '';
+  prCards.innerHTML = '';
+
+  (data.postgame || []).forEach(g => { g.variant='postgame'; pgCards.appendChild(makeCard(g)); });
+
+  const live = data.livegame || [];
+  lgGroup.style.display = live.length ? '' : 'none';
+  lgLabel.style.display = live.length ? '' : 'none';
+  live.forEach(g => { g.variant='livegame'; lgCards.appendChild(makeCard(g)); });
+
+  (data.pregame || []).forEach(g => { g.variant='pregame'; prCards.appendChild(makeCard(g)); });
+
+  requestAnimationFrame(positionLabels);
+}
+
+/* ── Label positioning ────────────────────────────────────
+   Strategy: labels live in a non-scrolling overlay row.
+   Each label's natural position = its group's offsetLeft
+   minus current scrollLeft (so it moves with the cards).
+   When that value < the sum of already-pinned label widths,
+   the label is clamped to that sum (it pins to the left).
+──────────────────────────────────────────────────────── */
+const GROUPS  = ['postgame', 'livegame', 'pregame'];
+const GAP     = 24; // matches strip-track gap
+
+function positionLabels() {
+  const scroll     = document.getElementById('strip-scroll');
+  const scrollRect = scroll.getBoundingClientRect();
+  const rowWidth   = document.getElementById('strip-label-row').offsetWidth;
+
+  // Build list of visible labels with natural position
+  const items = [];
+  GROUPS.forEach(key => {
+    const group = document.getElementById('group-' + key);
+    const label = document.getElementById('label-' + key);
+    if (!group || !label || group.style.display === 'none') return;
+    // Natural = where group's left edge sits relative to scroll container
+    const natural = group.getBoundingClientRect().left - scrollRect.left;
+    items.push({ label, natural, width: label.offsetWidth });
+  });
+
+  // Place labels left-to-right.
+  // Each label pins at `pinnedEdge` when its natural position reaches it.
+  // Once pinned, it gets pushed off by the next label arriving.
+  // `pinnedEdge` for label[0] = 0
+  // `pinnedEdge` for label[1] = 0 (it also wants left:0, pushing label[0] away)
+  // etc.
+  //
+  // The key insight:
+  // - A label's final position = max(0, natural) ... BUT
+  // - If a later label has already reached 0, the earlier one gets displaced.
+  // - We compute from RIGHT TO LEFT: each label can displace the one before it.
+
+  // Step 1: every label starts at max(0, natural) — pinned at 0 at minimum
+  items.forEach(item => {
+    item.finalLeft = Math.max(0, item.natural);
+  });
+
+  // Step 2: right-to-left — if label[i] would sit at 0,
+  // it pushes label[i-1] to (label[i].finalLeft - label[i-1].width - GAP)
+  // i.e. off screen to the left.
+  for (let i = items.length - 1; i >= 1; i--) {
+    const curr = items[i];
+    const prev = items[i - 1];
+    // If curr is at or near left edge (pinned), push prev out of the way
+    const requiredPrevRight = curr.finalLeft - GAP;
+    const requiredPrevLeft  = requiredPrevRight - prev.width;
+    if (requiredPrevLeft < prev.finalLeft) {
+      prev.finalLeft = requiredPrevLeft;
+    }
+  }
+
+  // Step 3: apply — hide labels not yet in view from the right
+  items.forEach(({ label, natural, finalLeft }) => {
+    if (natural > rowWidth) {
+      label.style.visibility = 'hidden';
+    } else {
+      label.style.visibility = 'visible';
+      label.style.left = finalLeft + 'px';
+    }
+  });
+}
+
+/* ── Mouse drag to scroll ─────────────────────────────── */
+(function() {
+  const el = document.getElementById('strip-scroll');
+  let isDown = false, startX, scrollLeft;
+  el.addEventListener('mousedown', e => {
+    isDown = true; el.classList.add('is-dragging');
+    startX = e.pageX - el.offsetLeft; scrollLeft = el.scrollLeft;
+  });
+  el.addEventListener('mouseleave', () => { isDown = false; el.classList.remove('is-dragging'); });
+  el.addEventListener('mouseup',    () => { isDown = false; el.classList.remove('is-dragging'); });
+  el.addEventListener('mousemove',  e => {
+    if (!isDown) return; e.preventDefault();
+    el.scrollLeft = scrollLeft - (e.pageX - el.offsetLeft - startX) * 1.2;
+  });
+})();
+
+document.getElementById('strip-scroll').addEventListener('scroll', positionLabels);
+window.addEventListener('resize', positionLabels);
+
+/* ── Demo data ────────────────────────────────────────── */
+const DEMO = {
+  postgame: [
+    { league:'WNBA', home:{name:'Lynx',   score:79, logo:'https://a.espncdn.com/i/teamlogos/wnba/500/minx.png'}, away:{name:'Sky',     score:58, logo:'https://a.espncdn.com/i/teamlogos/wnba/500/chis.png'} },
+    { league:'WNBA', home:{name:'Sparks', score:92, logo:'https://a.espncdn.com/i/teamlogos/wnba/500/lal.png'},  away:{name:'Mystics', score:87, logo:'https://a.espncdn.com/i/teamlogos/wnba/500/wsh.png'} },
+    { league:'WNBA', home:{name:'Dream',  score:86, logo:'https://a.espncdn.com/i/teamlogos/wnba/500/atl.png'},  away:{name:'Fire',    score:66, logo:'https://a.espncdn.com/i/teamlogos/wnba/500/por.png'} },
+  ],
+  livegame: [],
+  pregame: [
+    { league:'WNBA', kickoff:(() => { const d=new Date(); d.setHours(d.getHours()+2); return d.toISOString(); })(), home:{name:'Lynx', logo:'https://a.espncdn.com/i/teamlogos/wnba/500/minx.png'}, away:{name:'Sky', logo:'https://a.espncdn.com/i/teamlogos/wnba/500/chis.png'} },
+    { league:'WNBA', kickoff:(() => { const d=new Date(); const s=(6-d.getDay()+7)%7||7; d.setDate(d.getDate()+s); d.setHours(0,0,0,0); return d.toISOString(); })(), home:{name:'Lynx', logo:'https://a.espncdn.com/i/teamlogos/wnba/500/minx.png'}, away:{name:'Sky', logo:'https://a.espncdn.com/i/teamlogos/wnba/500/chis.png'} },
+  ],
+};
+
+fetch('/scores.json')
+  .then(r => { if (!r.ok) throw 0; return r.json(); })
+  .then(render).catch(() => render(DEMO));
+
+/* ── Controls ─────────────────────────────────────────── */
+function toggleTheme() {
+  document.documentElement.setAttribute('data-theme',
+    document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark');
+  requestAnimationFrame(positionLabels);
+}
+
+function addLiveGame() {
+  const d = JSON.parse(JSON.stringify(DEMO));
+  d.livegame = [
+    { league:'WNBA', home:{name:'Fever',   score:54, logo:'https://a.espncdn.com/i/teamlogos/wnba/500/ind.png'}, away:{name:'Liberty', score:49, logo:'https://a.espncdn.com/i/teamlogos/wnba/500/nyl.png'} },
+  ];
+  render(d);
+}
+
 </script>
+
+<a href="https://smollaunch.com" target="_blank" rel="noopener">
+  <img src="https://smollaunch.com/badges/featured.svg" 
+       alt="Featured on Smol Launch" 
+       loading="lazy" width="250" height="60"
+       class="smol-badge-light" />
+  <img src="https://smollaunch.com/badges/featured-dark.svg" 
+       alt="Featured on Smol Launch" 
+       loading="lazy" width="250" height="60"
+       class="smol-badge-dark" />
+</a>
+
+<style>
+  .smol-badge-light { display: none; }
+  .smol-badge-dark  { display: block; }
+
+  @media (prefers-color-scheme: light) {
+    .smol-badge-light { display: block; }
+    .smol-badge-dark  { display: none; }
+  }
+</style>
 </body>
 </html>
