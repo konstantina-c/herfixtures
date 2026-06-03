@@ -1548,7 +1548,8 @@ function makeCard(game) {
   card.className = 'game-card';
 
   if (game.variant === 'postgame') {
-    const hw = game.home.score > game.away.score;
+    // winner field set by fetch_scores_json.py (away team is "home" slot per US convention)
+    const hw = game.winner ? game.winner === 'home' : game.home.score > game.away.score;
     card.innerHTML = `
       <div class="gc-header">
         <span class="gc-league">${game.league}</span>
