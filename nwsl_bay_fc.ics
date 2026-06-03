@@ -10,1416 +10,1702 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:Angel City - Bay FC (0-1)
-DTSTART:20240317T233000Z
-DTEND:20240318T011500Z
-DTSTAMP:20260603T102310Z
-UID:KKcKLft5VPch4N5eetXjP7dOyaXnNkzUnHNiLjat@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20240129T123632Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20240318T031204Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Washington Spirit - Bay FC (2-1)
-DTSTART:20240323T233000Z
-DTEND:20240324T011500Z
-DTSTAMP:20260603T102310Z
-UID:8VQvQrSg1eMVQeNFO8jVu1dLvAH1dCV3VxsPS8QG@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20240129T123632Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20240324T031207Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bay FC - Houston Dash (2-3)
-DTSTART:20240331T020000Z
-DTEND:20240331T034500Z
-DTSTAMP:20260603T102310Z
-UID:4GdJxtA3XBPyLJUKrOJf7gO29KrjFVFhkxBHKefZ@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20240129T123632Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20240401T031210Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bay FC - Seattle Reign (3-2)
-DTSTART:20240415T000000Z
-DTEND:20240415T014500Z
-DTSTAMP:20260603T102310Z
-UID:ZlP8hAY3dHJCgfoafdIzPi7cdBZCQWRXJswmwHrJ@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20240129T123633Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20240415T031227Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kansas City - Bay FC (5-2)
-DTSTART:20240420T233000Z
-DTEND:20240421T011500Z
-DTSTAMP:20260603T102310Z
-UID:g5vGQ5BaiJvA89gl1eVDMnMjV1dR9xk1VY8fhQR6@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20240129T123633Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20240421T031209Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:San Diego Wave - Bay FC (2-1)
-DTSTART:20240428T020000Z
-DTEND:20240428T034500Z
-DTSTAMP:20260603T102310Z
-UID:P5Ff0Orkm651fejTIrAnE9FaaXEd5t8OglzxRyeX@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20240129T123634Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20240429T031121Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bay FC - Portland Thorns (2-3)
-DTSTART:20240502T020000Z
-DTEND:20240502T034500Z
-DTSTAMP:20260603T102310Z
-UID:iDfwEr6YVqCFuWzskn9IgKZ2Ndqrm0LWZjCXusLj@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20240129T123634Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20240503T031119Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bay FC - Chicago Red Stars (1-2)
-DTSTART:20240506T000000Z
-DTEND:20240506T014500Z
-DTSTAMP:20260603T102310Z
-UID:KjMHL5WqDzoRl1pFYepfr09ZRjI1OqmxmWT4f7y2@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20240129T123634Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20240506T031120Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Orlando Pride - Bay FC (1-0)
-DTSTART:20240511T233000Z
-DTEND:20240512T011500Z
-DTSTAMP:20260603T102310Z
-UID:EvhMPDcj98RQiGSIBhgEBPViNjRJO33LYX2oMtuM@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20240129T123634Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20240512T031128Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bay FC - San Diego Wave (2-1)
-DTSTART:20240518T023000Z
-DTEND:20240518T041500Z
-DTSTAMP:20260603T102310Z
-UID:whY4cMLVwtD7NMTC64KnE1OYiIEiFIAXUpvIPSc4@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20240129T123635Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20240519T031144Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bay FC - Gotham FC (0-2)
-DTSTART:20240525T020000Z
-DTEND:20240525T034500Z
-DTSTAMP:20260603T102310Z
-UID:9aaKEpfUKquwGgJdewDmGDGKvWMvpBrBfqs2P20D@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20240129T123636Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20240526T031133Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chicago Red Stars - Bay FC (1-2)
-DTSTART:20240608T233000Z
-DTEND:20240609T011500Z
-DTSTAMP:20260603T102310Z
-UID:s4mOqYGZvPC6ooAtTWqGZ1DVrBHhavJQkRcs4s6U@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20240129T123636Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20240609T031136Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bay FC - Utah Royals (0-1)
-DTSTART:20240617T020000Z
-DTEND:20240617T034500Z
-DTSTAMP:20260603T102310Z
-UID:2fAbo2V2G1DyulLPtgdiP4b7Gw462vkRnVNnDSjE@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20240129T123637Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20240618T031121Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bay FC - Angel City (1-0)
-DTSTART:20240623T020000Z
-DTEND:20240623T034500Z
-DTSTAMP:20260603T102310Z
-UID:SaBaZ3RbfvZ0XIZI2N0ychzobfGgb67k29JsPbzx@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20240129T123637Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20240624T031135Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Racing Louisville - Bay FC (0-1)
-DTSTART:20240629T200000Z
-DTEND:20240629T214500Z
-DTSTAMP:20260603T102310Z
-UID:syHVKdxAY5ZiaCZl068ab73bhAnXbOJhTURrCpI9@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20240129T123637Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20240630T031120Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bay FC - Washington Spirit (0-3)
-DTSTART:20240707T020000Z
-DTEND:20240707T034500Z
-DTSTAMP:20260603T102310Z
-UID:roLtPhSDrlk7eGNeVzOKdBswEfMRBjcPaqlpMfGo@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20240129T123638Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20240708T031155Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Utah Royals - Bay FC (2-1)
-DTSTART:20240824T013000Z
-DTEND:20240824T031500Z
-DTSTAMP:20260603T102310Z
-UID:oQYq7LgYnovhmtSMuSy9l0ZicbDdCUNy8enq3mWu@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20240129T123638Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20240825T031239Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Portland Thorns - Bay FC (1-3)
-DTSTART:20240831T020000Z
-DTEND:20240831T034500Z
-DTSTAMP:20260603T102310Z
-UID:IlJP1isgo0j5zpRQ6ulWo7Gsmuibvbnap4xGeUsg@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20240129T123639Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20240901T031317Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bay FC - Racing Louisville (1-0)
-DTSTART:20240908T020000Z
-DTEND:20240908T034500Z
-DTSTAMP:20260603T102310Z
-UID:abIsAi4p1WwmJLZtXZm48iKFpCSJq91aPC1QfvGg@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20240129T123639Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20240909T031238Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:North Carolina Courage - Bay FC (1-1)
-DTSTART:20240913T230000Z
-DTEND:20240914T004500Z
-DTSTAMP:20260603T102310Z
-UID:v0oas9L3V3XSK5KhmWnvtC2uwL70RiFtbQV8GxB1@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20240129T123640Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20240914T031304Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bay FC - Orlando Pride (0-1)
-DTSTART:20240921T023000Z
-DTEND:20240921T041500Z
-DTSTAMP:20260603T102310Z
-UID:J5CqTcq4Ca7sPBf53ywhRyByQoRuoW2SBgWEqMdG@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20240129T123640Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20240922T031245Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seattle Reign - Bay FC (0-1)
-DTSTART:20240929T000000Z
-DTEND:20240929T014500Z
-DTSTAMP:20260603T102310Z
-UID:8AjUZpw8wR9w1wxKo748XWgViJl7GmSHjqWSZbKV@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20240129T123641Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20241002T031302Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gotham FC - Bay FC (5-1)
-DTSTART:20241005T233000Z
-DTEND:20241006T011500Z
-DTSTAMP:20260603T102310Z
-UID:MUv1UTQiEoYisajd8Ew3lnVUqhW78no8DwfsiQmG@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20240129T123641Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20241007T031351Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bay FC - Kansas City (0-1)
-DTSTART:20241013T020000Z
-DTEND:20241013T034500Z
-DTSTAMP:20260603T102310Z
-UID:dUCNjXNBjXGQ0MBWyZhstsQxutlzoTuJEKJp6dQq@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20240129T123641Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20241015T032830Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bay FC - North Carolina Courage (1-0)
-DTSTART:20241020T020000Z
-DTEND:20241020T034500Z
-DTSTAMP:20260603T102310Z
-UID:At2qOoh8lSKTldh9qmIOKCaJ8ggnUz9jTOJLEuWF@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20240129T123642Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20241101T031239Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Houston Dash - Bay FC (2-3)
-DTSTART:20241103T022000Z
-DTEND:20241103T040500Z
-DTSTAMP:20260603T102310Z
-UID:bwtH9TCBeYhDHCWH8ruikQ2XgnKZ2qdhE0l70Ch4@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20240129T123642Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20241104T031346Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Washington Spirit - Bay FC (2-1)
-DTSTART:20241110T173000Z
-DTEND:20241110T191500Z
-DTSTAMP:20260603T102310Z
-UID:7LBdvw09jhZXxgNlBaCOE07MMKw4k5pbJGeqXzGp@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20241105T031257Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20241111T031359Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Utah Royals - Bay FC (1-1)
-DTSTART:20250315T233000Z
-DTEND:20250316T011500Z
-DTSTAMP:20260603T102310Z
-UID:aAnqlbmQEm0nyM59gP9PMNXP3eZSI0odnpO1pbON@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20250124T145536Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20250316T031154Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bay FC - Racing Louisville (2-0)
-DTSTART:20250323T020000Z
-DTEND:20250323T034500Z
-DTSTAMP:20260603T102310Z
-UID:BSWKIkLAA9wocZUDbJWC9tKLQdut33jTXXTO2cCu@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20250226T071343Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20250324T031148Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Washington Spirit - Bay FC (2-0)
-DTSTART:20250329T000000Z
-DTEND:20250329T014500Z
-DTSTAMP:20260603T102310Z
-UID:fL0Cl00szNxasN4f3sSEYqgBSs4ygwYhMffUQd00@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20250226T071343Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20250329T031156Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bay FC - Chicago Red Stars (1-2)
-DTSTART:20250413T230000Z
-DTEND:20250414T004500Z
-DTSTAMP:20260603T102310Z
-UID:8RYxrmamrqGloso0hi6SGOdux67hYMIx2ws76ZX8@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20250226T071344Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20250414T031249Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:North Carolina Courage - Bay FC (0-1)
-DTSTART:20250419T230000Z
-DTEND:20250420T004500Z
-DTSTAMP:20260603T102310Z
-UID:fw0nidH8XGe7GHwQlnzqIlVjJ2w0850Kg3X1umbB@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20250226T071344Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20250420T031200Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bay FC - Seattle Reign (1-1)
-DTSTART:20250427T020000Z
-DTEND:20250427T034500Z
-DTSTAMP:20260603T102310Z
-UID:1GvMR1G9GxbcTbnq4eTB3lQATtwqGnbmRrh6IY6g@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20250226T071344Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20250428T031215Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:San Diego Wave - Bay FC (2-1)
-DTSTART:20250505T000000Z
-DTEND:20250505T014500Z
-DTSTAMP:20260603T102310Z
-UID:vGvn0NZl6l4xQJIHevFS02LBZTiabIiY1mSsNGjw@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20250226T071344Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20250505T031219Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kansas City - Bay FC (4-1)
-DTSTART:20250511T165000Z
-DTEND:20250511T183500Z
-DTSTAMP:20260603T102310Z
-UID:Mdl0TXP5sAT0MiIswovjW4SHXaeUWtADNqwBRUe1@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20250226T071344Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20250512T031218Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bay FC - Angel City (2-0)
-DTSTART:20250518T020000Z
-DTEND:20250518T034500Z
-DTSTAMP:20260603T102310Z
-UID:ony2TQBJqYwgz48cQQ1dJvRFWcRKn0cfMhrHsPMX@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20250226T071344Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20250519T031213Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Houston Dash - Bay FC (2-2)
-DTSTART:20250525T000000Z
-DTEND:20250525T014500Z
-DTSTAMP:20260603T102310Z
-UID:gGJePmcZ2kFCYfOOAPCsvnxbGedNxrY4teruuRqQ@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20250226T071344Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20250825T031157Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bay FC - Portland Thorns (1-0)
-DTSTART:20250607T233000Z
-DTEND:20250608T011500Z
-DTSTAMP:20260603T102310Z
-UID:ez0q2jzq0bgr9ulzAR5FCSxIdYH7xcthutWD1slh@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20250226T071345Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20250608T031153Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bay FC - Orlando Pride (0-1)
-DTSTART:20250614T020000Z
-DTEND:20250614T034500Z
-DTSTAMP:20260603T102310Z
-UID:juM6Rtvstd7do9ePyLN1jmwoZOOitcsaan3sMNhu@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20250226T071345Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20250615T031158Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gotham FC - Bay FC (2-1)
-DTSTART:20250621T233000Z
-DTEND:20250622T011500Z
-DTSTAMP:20260603T102310Z
-UID:MNEcgjPXQxe3I4drnq3AKxXVeHQOCnPRw2ZGTGcL@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20250226T071345Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20250622T031154Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bay FC - Houston Dash (2-2)
-DTSTART:20250803T020000Z
-DTEND:20250803T034500Z
-DTSTAMP:20260603T102310Z
-UID:jjN0ayRu9MPJdosBYREY8U7cegZ3Mchz4gBYWwvg@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20250226T071345Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20250804T031204Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chicago Red Stars - Bay FC (1-1)
-DTSTART:20250810T180000Z
-DTEND:20250810T194500Z
-DTSTAMP:20260603T102310Z
-UID:W3YpOayde4ndUwG5CKM3nxwCQKAYRS9XiJDIhtmA@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20250226T071345Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20250811T031211Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bay FC - San Diego Wave (1-2)
-DTSTART:20250817T020000Z
-DTEND:20250817T034500Z
-DTSTAMP:20260603T102310Z
-UID:xo2tEWrG47Ls1J2MOA80MPABn6i5PsyxXISS3wOq@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20250226T071346Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20250818T031200Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bay FC - Washington Spirit (2-3)
-DTSTART:20250823T200000Z
-DTEND:20250823T214500Z
-DTSTAMP:20260603T102310Z
-UID:0miAmmxvtVxbtDppfQrNBPpWjbi4gxJMlQKQftO2@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20250226T071346Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20250824T031238Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Angel City - Bay FC (2-1)
-DTSTART:20250902T010000Z
-DTEND:20250902T024500Z
-DTSTAMP:20260603T102310Z
-UID:zUNoIWkDCPJlOISzUZ8jCoBAQybB4BM1zaJ4u3vX@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20250226T071346Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20250903T031145Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bay FC - Kansas City (0-2)
-DTSTART:20250907T020000Z
-DTEND:20250907T034500Z
-DTSTAMP:20260603T102310Z
-UID:lA8itfnh4A0kjhuAUmspQg8pwSt1pGNluSW5tczD@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20250226T071346Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20250908T031146Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Orlando Pride - Bay FC (1-1)
-DTSTART:20250913T210300Z
-DTEND:20250913T224800Z
-DTSTAMP:20260603T102310Z
-UID:ujAbMHcCwbQD1bL9ldRuawmWwg8YgzBQZx5NwXhW@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20250226T071346Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20260105T031208Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bay FC - Gotham FC (1-1)
-DTSTART:20250922T003000Z
-DTEND:20250922T021500Z
-DTSTAMP:20260603T102310Z
-UID:G3RpQACr59XpjNMzf84KdqsTkkHGdz4krNpkhEeU@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20250226T071347Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20250922T031154Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bay FC - Utah Royals (0-2)
-DTSTART:20250928T020000Z
-DTEND:20250928T034500Z
-DTSTAMP:20260603T102310Z
-UID:9mAxj2jB7T1HTyaChdxQ7jqSYJCVU9gQxNWGd9wI@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20250226T071347Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20250929T031218Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Portland Thorns - Bay FC (2-1)
-DTSTART:20251005T020000Z
-DTEND:20251005T034500Z
-DTSTAMP:20260603T102310Z
-UID:Cy2KCUpCCcXNmcMDBmeBk0GL8CYMpkNgKrYjO0Es@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20250226T071347Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20251006T031143Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seattle Reign - Bay FC (1-1)
-DTSTART:20251011T023000Z
-DTEND:20251011T041500Z
-DTSTAMP:20260603T102310Z
-UID:cwxChBuRR6GSQcpP8llMxntk4JVsYbB95C2qmCAX@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20250226T071347Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20251012T031147Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bay FC - North Carolina Courage (1-4)
-DTSTART:20251018T020000Z
-DTEND:20251018T034500Z
-DTSTAMP:20260603T102310Z
-UID:K7yNh09c4u10nXpslasoYLScBACsDDiD48PTwFjB@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20250226T071347Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20251019T031206Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Racing Louisville - Bay FC (1-0)
-DTSTART:20251102T221500Z
-DTEND:20251103T000000Z
-DTSTAMP:20260603T102310Z
-UID:chTJbImSDLoKnZTE6m0HaiUY9iByGmsrvLqg5U8i@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20250226T071347Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20251103T031215Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bay FC - Denver Summit (2-1)
-DTSTART:20260314T223000Z
-DTEND:20260315T001500Z
-DTSTAMP:20260603T102310Z
-UID:mQA88ZS65swxKLiuyEiVMssv49ntHBkxuM6zI50X@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20260122T071309Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20260315T031208Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bay FC - Angel City (1-3)
-DTSTART:20260322T004500Z
-DTEND:20260322T023000Z
-DTSTAMP:20260603T102310Z
-UID:yK68JnDpMmtMYwBbDcspiQsra0yUfyv88ci1dMce@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20260122T071311Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20260322T031209Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:North Carolina Courage - Bay FC (1-3)
-DTSTART;VALUE=DATE:20260329
-DTEND;VALUE=DATE:20260330
-DTSTAMP:20260603T102310Z
-UID:OiPpsFSfpTXc6zutz6F55Fag1blP6iNZmC4bqlUi@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20260122T071309Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20260425T031206Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bay FC - Washington Spirit (0-2)
-DTSTART:20260405T210000Z
-DTEND:20260405T224500Z
-DTSTAMP:20260603T102310Z
-UID:pvHmG2P1356CIwD96AaeXjH6WuBWfb3Ou2XneBcD@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20260122T071308Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20260406T031206Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gotham FC - Bay FC (3-0)
-DTSTART:20260425T170000Z
-DTEND:20260425T184500Z
-DTSTAMP:20260603T102310Z
-UID:dRbkY3UjU2Oah68mCm8a8ts8DP3rWFbZM09XOWpk@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20260122T071309Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20260426T031152Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:San Diego Wave - Bay FC (0-1)
-DTSTART:20260503T230000Z
-DTEND:20260504T004500Z
-DTSTAMP:20260603T102310Z
-UID:AzTuIlqMePtapwwKRVDsG2Bqd6VvRUnygr9DQ4u9@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20260122T071308Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20260504T031208Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bay FC - Utah Royals (0-0)
-DTSTART:20260510T200000Z
-DTEND:20260510T214500Z
-DTSTAMP:20260603T102310Z
-UID:uMk2o2KNivlo7GFfhGfHKkEpDUCsWAYwj6ua3OGD@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20260122T071308Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20260511T031142Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bay FC - Boston Legacy (1-1)
-DTSTART:20260516T020000Z
-DTEND:20260516T034500Z
-DTSTAMP:20260603T102310Z
-UID:7HycOPJaMce0pB2jmN1lhCzOg8qxFW2ekwGibhIi@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20260122T071305Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20260517T031136Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Portland Thorns - Bay FC (2-0)
-DTSTART:20260521T020000Z
-DTEND:20260521T034500Z
-DTSTAMP:20260603T102310Z
-UID:4EjGZy1PXfBq3e1aIoK0udqx31qrb7pIjumrcaJk@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20260122T071308Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20260522T031141Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bay FC - Chicago Red Stars (0-1)
-DTSTART:20260524T210000Z
-DTEND:20260524T224500Z
-DTSTAMP:20260603T102310Z
-UID:hH6rcmxs8JTwh8g2nvRMKn8IrMtGzoZqrOldDUnU@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20260122T071310Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20260525T031140Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Orlando Pride - Bay FC (3-1)
-DTSTART:20260529T230000Z
-DTEND:20260530T004500Z
-DTSTAMP:20260603T102310Z
-UID:pTBplzUIymyUwKyKz39DINgtFBuHEa7ia4kvgS92@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20260122T071308Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20260530T031143Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Boston Legacy - Bay FC
+SUMMARY:⚽ Houston Dash @ Washington Spirit
+DTSTART:20260704T000000Z
+DTEND:20260704T020000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853928@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nHouston Dash at Washington Spirit\nStatus
+ : Scheduled\nVenue: Audi Field\, Washington\, District of Columbia\nTV: Vi
+ ctory+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853928/houston-dash-wash
+ ington-spirit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Kansas City Current @ Denver Summit FC
+DTSTART:20260704T013000Z
+DTEND:20260704T033000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401854061@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nKansas City Current at Denver Summit FC\n
+ Status: Scheduled\nVenue: Dick's Sporting Goods Park\, Commerce City\, Col
+ orado\nTV: NWSL+\n\nFixtures by HerFixtures.com — Women's Sports on Your
+  Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401854061/kansas-city-curre
+ nt-denver-summit-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Orlando Pride @ Angel City FC
+DTSTART:20260704T020000Z
+DTEND:20260704T040000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853929@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nOrlando Pride at Angel City FC\nStatus: S
+ cheduled\nVenue: BMO Stadium\, Los Angeles\, California\nTV: Prime Video\n
+ \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853929/orlando-pride-ang
+ el-city-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Seattle Reign FC @ North Carolina Courage
+DTSTART:20260704T223000Z
+DTEND:20260705T003000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853930@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nSeattle Reign FC at North Carolina Courag
+ e\nStatus: Scheduled\nVenue: WakeMed Soccer Park\, Cary\, North Carolina\n
+ TV: ION\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853930/seattle-reign-fc-
+ north-carolina-courage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Gotham FC @ San Diego Wave FC
+DTSTART:20260705T004500Z
+DTEND:20260705T024500Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853931@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nGotham FC at San Diego Wave FC\nStatus: S
+ cheduled\nVenue: Snapdragon Stadium\, San Diego\, California\nTV: ION\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853931/gotham-fc-san-die
+ go-wave-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Bay FC @ Boston Legacy FC
 DTSTART:20260705T160000Z
-DTEND:20260705T174500Z
-DTSTAMP:20260603T102310Z
-UID:hmzFTCwHkzNN6YEPs4BI3nZbrCfn1cREwN4MzjT7@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20260122T071310Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20260122T071310Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
+DTEND:20260705T180000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401854062@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nBay FC at Boston Legacy FC\nStatus: Sched
+ uled\nVenue: Centreville Bank Stadium\, Pawtucket\, Rhode Island\nTV: ESPN
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401854062/bay-fc-boston-leg
+ acy-fc
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Racing Louisville - Bay FC
+SUMMARY:⚽ Utah Royals @ Chicago Stars FC
+DTSTART:20260705T210000Z
+DTEND:20260705T230000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853932@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nUtah Royals at Chicago Stars FC\nStatus: 
+ Scheduled\nVenue: Northwestern Medicine Field at Martin Stadium\, Evanston
+ \nTV: CBSSN\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
+ ndar
+URL:https://www.espn.com/soccer/match/_/gameId/401853932/utah-royals-chica
+ go-stars-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Racing Louisville FC @ Portland Thorns FC
+DTSTART:20260705T230000Z
+DTEND:20260706T010000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853933@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nRacing Louisville FC at Portland Thorns F
+ C\nStatus: Scheduled\nVenue: Providence Park\, Portland\, Oregon\nTV: Vict
+ ory+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853933/racing-louisville
+ -fc-portland-thorns-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Chicago Stars FC @ Boston Legacy FC
 DTSTART:20260711T000000Z
-DTEND:20260711T014500Z
-DTSTAMP:20260603T102310Z
-UID:14qsXJYW8o3rFjcKRAKOR6SM2fvjgTVj3JNFo4VN@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20260122T071304Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20260122T071304Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
+DTEND:20260711T020000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401854063@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nChicago Stars FC at Boston Legacy FC\nSta
+ tus: Scheduled\nVenue: Centreville Bank Stadium\, Pawtucket\, Rhode Island
+ \nTV: NWSL+\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
+ ndar
+URL:https://www.espn.com/soccer/match/_/gameId/401854063/chicago-stars-fc-
+ boston-legacy-fc
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bay FC - North Carolina Courage
+SUMMARY:⚽ Kansas City Current @ Orlando Pride
+DTSTART:20260711T000000Z
+DTEND:20260711T020000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853934@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nKansas City Current at Orlando Pride\nSta
+ tus: Scheduled\nVenue: Inter&Co Stadium\, Orlando\, Florida\nTV: Prime Vid
+ eo\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853934/kansas-city-curre
+ nt-orlando-pride
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Bay FC @ Racing Louisville FC
+DTSTART:20260711T000000Z
+DTEND:20260711T020000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853935@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nBay FC at Racing Louisville FC\nStatus: S
+ cheduled\nVenue: Lynn Family Stadium\, Louisville\, Kentucky\nTV: NWSL+\n\
+ nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853935/bay-fc-racing-lou
+ isville-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Gotham FC @ Utah Royals
+DTSTART:20260711T020000Z
+DTEND:20260711T040000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853936@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nGotham FC at Utah Royals\nStatus: Schedul
+ ed\nVenue: America First Field\, Sandy\, Utah\nTV: Victory+\n\nFixtures by
+  HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853936/gotham-fc-utah-ro
+ yals
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Washington Spirit @ North Carolina Courage
+DTSTART:20260711T223000Z
+DTEND:20260712T003000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853937@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nWashington Spirit at North Carolina Coura
+ ge\nStatus: Scheduled\nVenue: WakeMed Soccer Park\, Cary\, North Carolina\
+ nTV: ION\n\nFixtures by HerFixtures.com — Women's Sports on Your Calenda
+ r
+URL:https://www.espn.com/soccer/match/_/gameId/401853937/washington-spirit
+ -north-carolina-courage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Angel City FC @ San Diego Wave FC
+DTSTART:20260712T004500Z
+DTEND:20260712T024500Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853938@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nAngel City FC at San Diego Wave FC\nStatu
+ s: Scheduled\nVenue: Snapdragon Stadium\, San Diego\, California\nTV: ION\
+ n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853938/angel-city-fc-san
+ -diego-wave-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Portland Thorns FC @ Seattle Reign FC
+DTSTART:20260712T200000Z
+DTEND:20260712T220000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853939@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nPortland Thorns FC at Seattle Reign FC\nS
+ tatus: Scheduled\nVenue: Lumen Field\, Seattle\, Washington\nTV: ESPN\, ES
+ PN Deportes\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
+ ndar
+URL:https://www.espn.com/soccer/match/_/gameId/401853939/portland-thorns-f
+ c-seattle-reign-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Houston Dash @ Denver Summit FC
+DTSTART:20260712T230000Z
+DTEND:20260713T010000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401854064@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nHouston Dash at Denver Summit FC\nStatus:
+  Scheduled\nVenue: Dick's Sporting Goods Park\, Commerce City\, Colorado\n
+ TV: Victory+\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+URL:https://www.espn.com/soccer/match/_/gameId/401854064/houston-dash-denv
+ er-summit-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Boston Legacy FC @ Orlando Pride
+DTSTART:20260715T230000Z
+DTEND:20260716T010000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401854065@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nBoston Legacy FC at Orlando Pride\nStatus
+ : Scheduled\nVenue: Inter&Co Stadium\, Orlando\, Florida\nTV: NWSL+\n\nFix
+ tures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401854065/boston-legacy-fc-
+ orlando-pride
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Washington Spirit @ Gotham FC
+DTSTART:20260716T000000Z
+DTEND:20260716T020000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853940@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nWashington Spirit at Gotham FC\nStatus: S
+ cheduled\nVenue: Citi Field\, New York\, New York\nTV: ESPN\n\nFixtures by
+  HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853940/washington-spirit
+ -gotham-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ San Diego Wave FC @ Kansas City Current
+DTSTART:20260718T000000Z
+DTEND:20260718T020000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853941@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nSan Diego Wave FC at Kansas City Current\
+ nStatus: Scheduled\nVenue: CPKC Stadium\, Kansas City\, Missouri\nTV: Prim
+ e Video\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853941/san-diego-wave-fc
+ -kansas-city-current
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Seattle Reign FC @ Gotham FC
+DTSTART:20260718T160000Z
+DTEND:20260718T180000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853942@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nSeattle Reign FC at Gotham FC\nStatus: Sc
+ heduled\nVenue: Icahn Stadium\, New York City\, New York\nTV: ABC\, ESPN D
+ eportes\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853942/seattle-reign-fc-
+ gotham-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Portland Thorns FC @ Denver Summit FC
+DTSTART:20260718T180000Z
+DTEND:20260718T200000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401854066@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nPortland Thorns FC at Denver Summit FC\nS
+ tatus: Scheduled\nVenue: Centennial Stadium\, Centennial\nTV: CBS\, Paramo
+ unt+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401854066/portland-thorns-f
+ c-denver-summit-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ North Carolina Courage @ Bay FC
 DTSTART:20260718T200000Z
-DTEND:20260718T214500Z
-DTSTAMP:20260603T102310Z
-UID:GcgouAqPf7OwcvhrW0pQzi5UiRY56M2Uy1aE4AG7@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20260122T071308Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20260122T071308Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
+DTEND:20260718T220000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853943@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nNorth Carolina Courage at Bay FC\nStatus:
+  Scheduled\nVenue: PayPal Park\, San Jose\, California\nTV: CBS\, Paramoun
+ t+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853943/north-carolina-co
+ urage-bay-fc
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dash - Bay FC
+SUMMARY:⚽ Angel City FC @ Chicago Stars FC
+DTSTART:20260718T223000Z
+DTEND:20260719T003000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853944@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nAngel City FC at Chicago Stars FC\nStatus
+ : Scheduled\nVenue: Northwestern Medicine Field at Martin Stadium\, Evanst
+ on\nTV: ION\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
+ ndar
+URL:https://www.espn.com/soccer/match/_/gameId/401853944/angel-city-fc-chi
+ cago-stars-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Houston Dash @ Racing Louisville FC
+DTSTART:20260719T000000Z
+DTEND:20260719T020000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853945@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nHouston Dash at Racing Louisville FC\nSta
+ tus: Scheduled\nVenue: Lynn Family Stadium\, Louisville\, Kentucky\nTV: NW
+ SL+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853945/houston-dash-raci
+ ng-louisville-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Orlando Pride @ Utah Royals
+DTSTART:20260719T004500Z
+DTEND:20260719T024500Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853946@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nOrlando Pride at Utah Royals\nStatus: Sch
+ eduled\nVenue: America First Field\, Sandy\, Utah\nTV: ION\n\nFixtures by 
+ HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853946/orlando-pride-uta
+ h-royals
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Washington Spirit @ Boston Legacy FC
+DTSTART:20260719T230000Z
+DTEND:20260720T010000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401854067@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nWashington Spirit at Boston Legacy FC\nSt
+ atus: Scheduled\nVenue: Centreville Bank Stadium\, Pawtucket\, Rhode Islan
+ d\nTV: Victory+\n\nFixtures by HerFixtures.com — Women's Sports on Your 
+ Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401854067/washington-spirit
+ -boston-legacy-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Bay FC @ Houston Dash
 DTSTART:20260725T000000Z
-DTEND:20260725T014500Z
-DTSTAMP:20260603T102310Z
-UID:inIY4RzQf5HjjAOxIM1yfiucodSZtOA7CrOJF1Ca@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20260122T071310Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20260122T071310Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
+DTEND:20260725T020000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853948@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nBay FC at Houston Dash\nStatus: Scheduled
+ \nVenue: Shell Energy Stadium\, Houston\, Texas\nTV: Victory+\n\nFixtures 
+ by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853948/bay-fc-houston-da
+ sh
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bay FC - Gotham FC
+SUMMARY:⚽ Chicago Stars FC @ Orlando Pride
+DTSTART:20260725T000000Z
+DTEND:20260725T020000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853947@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nChicago Stars FC at Orlando Pride\nStatus
+ : Scheduled\nVenue: Inter&Co Stadium\, Orlando\, Florida\nTV: Victory+\n\n
+ Fixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853947/chicago-stars-fc-
+ orlando-pride
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Gotham FC @ Portland Thorns FC
+DTSTART:20260725T020000Z
+DTEND:20260725T040000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853949@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nGotham FC at Portland Thorns FC\nStatus: 
+ Scheduled\nVenue: Providence Park\, Portland\, Oregon\nTV: Prime Video\n\n
+ Fixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853949/gotham-fc-portlan
+ d-thorns-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Kansas City Current @ Boston Legacy FC
+DTSTART:20260725T210000Z
+DTEND:20260725T230000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401854068@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nKansas City Current at Boston Legacy FC\n
+ Status: Scheduled\nVenue: Centreville Bank Stadium\, Pawtucket\, Rhode Isl
+ and\nTV: ION\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+URL:https://www.espn.com/soccer/match/_/gameId/401854068/kansas-city-curre
+ nt-boston-legacy-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Utah Royals @ North Carolina Courage
+DTSTART:20260725T234500Z
+DTEND:20260726T014500Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853950@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nUtah Royals at North Carolina Courage\nSt
+ atus: Scheduled\nVenue: WakeMed Soccer Park\, Cary\, North Carolina\nTV: I
+ ON\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853950/utah-royals-north
+ -carolina-courage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Seattle Reign FC @ San Diego Wave FC
+DTSTART:20260726T210000Z
+DTEND:20260726T230000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853951@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nSeattle Reign FC at San Diego Wave FC\nSt
+ atus: Scheduled\nVenue: Snapdragon Stadium\, San Diego\, California\nTV: C
+ BSSN\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853951/seattle-reign-fc-
+ san-diego-wave-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Denver Summit FC @ Washington Spirit
+DTSTART:20260726T230000Z
+DTEND:20260727T010000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401854069@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nDenver Summit FC at Washington Spirit\nSt
+ atus: Scheduled\nVenue: Audi Field\, Washington\, District of Columbia\nTV
+ : Victory+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
+ dar
+URL:https://www.espn.com/soccer/match/_/gameId/401854069/denver-summit-fc-
+ washington-spirit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Racing Louisville FC @ Angel City FC
+DTSTART:20260727T010000Z
+DTEND:20260727T030000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853952@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nRacing Louisville FC at Angel City FC\nSt
+ atus: Scheduled\nVenue: BMO Stadium\, Los Angeles\, California\nTV: ESPN\,
+  ESPN Deportes\n\nFixtures by HerFixtures.com — Women's Sports on Your C
+ alendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853952/racing-louisville
+ -fc-angel-city-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Racing Louisville FC @ Kansas City Current
+DTSTART:20260730T000000Z
+DTEND:20260730T020000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853953@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nRacing Louisville FC at Kansas City Curre
+ nt\nStatus: Scheduled\nVenue: CPKC Stadium\, Kansas City\, Missouri\nTV: C
+ BSSN\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853953/racing-louisville
+ -fc-kansas-city-current
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Washington Spirit @ Utah Royals
+DTSTART:20260730T010000Z
+DTEND:20260730T030000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853954@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nWashington Spirit at Utah Royals\nStatus:
+  Scheduled\nVenue: America First Field\, Sandy\, Utah\nTV: NWSL+\n\nFixtur
+ es by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853954/washington-spirit
+ -utah-royals
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Gotham FC @ Bay FC
 DTSTART:20260730T020000Z
-DTEND:20260730T034500Z
-DTSTAMP:20260603T102310Z
-UID:SZBeCK1DPJ76TsmWS7fuAf7ICQAjtbW1BTZxORn6@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20260122T071307Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20260122T071307Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
+DTEND:20260730T040000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853955@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nGotham FC at Bay FC\nStatus: Scheduled\nV
+ enue: PayPal Park\, San Jose\, California\nTV: CBSSN\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853955/gotham-fc-bay-fc
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bay FC - Seattle Reign
+SUMMARY:⚽ Orlando Pride @ North Carolina Courage
+DTSTART:20260801T000000Z
+DTEND:20260801T020000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853956@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nOrlando Pride at North Carolina Courage\n
+ Status: Scheduled\nVenue: WakeMed Soccer Park\, Cary\, North Carolina\nTV:
+  Prime Video\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+URL:https://www.espn.com/soccer/match/_/gameId/401853956/orlando-pride-nor
+ th-carolina-courage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Chicago Stars FC @ Racing Louisville FC
+DTSTART:20260801T200000Z
+DTEND:20260801T220000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853957@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nChicago Stars FC at Racing Louisville FC\
+ nStatus: Scheduled\nVenue: Lynn Family Stadium\, Louisville\, Kentucky\nTV
+ : CBSSN\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853957/chicago-stars-fc-
+ racing-louisville-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Angel City FC @ Kansas City Current
+DTSTART:20260801T223000Z
+DTEND:20260802T003000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853958@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nAngel City FC at Kansas City Current\nSta
+ tus: Scheduled\nVenue: CPKC Stadium\, Kansas City\, Missouri\nTV: ION\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853958/angel-city-fc-kan
+ sas-city-current
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Gotham FC @ Houston Dash
+DTSTART:20260802T000000Z
+DTEND:20260802T020000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853959@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nGotham FC at Houston Dash\nStatus: Schedu
+ led\nVenue: Shell Energy Stadium\, Houston\, Texas\nTV: NWSL+\n\nFixtures 
+ by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853959/gotham-fc-houston
+ -dash
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Seattle Reign FC @ Bay FC
 DTSTART:20260802T004500Z
-DTEND:20260802T023000Z
-DTSTAMP:20260603T102310Z
-UID:ekc3yvzRQTLo2HUNy1GV5aDEFHoBv4ip6UOXs3Nm@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20260122T071307Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20260122T071307Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
+DTEND:20260802T024500Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853960@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nSeattle Reign FC at Bay FC\nStatus: Sched
+ uled\nVenue: PayPal Park\, San Jose\, California\nTV: ION\n\nFixtures by H
+ erFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853960/seattle-reign-fc-
+ bay-fc
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Red Stars - Bay FC
-DTSTART:20260809T230000Z
-DTEND:20260810T004500Z
-DTSTAMP:20260603T102310Z
-UID:GA67kukR2YeTOpSLJ7jdou9RMkXBfFDkM7ZsbJxG@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20260122T071305Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20260122T071305Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
+SUMMARY:⚽ San Diego Wave FC @ Washington Spirit
+DTSTART:20260802T200000Z
+DTEND:20260802T220000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853961@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nSan Diego Wave FC at Washington Spirit\nS
+ tatus: Scheduled\nVenue: Audi Field\, Washington\, District of Columbia\nT
+ V: CBSSN\n\nFixtures by HerFixtures.com — Women's Sports on Your Calenda
+ r
+URL:https://www.espn.com/soccer/match/_/gameId/401853961/san-diego-wave-fc
+ -washington-spirit
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Utah Royals - Bay FC
-DTSTART:20260815T020000Z
-DTEND:20260815T034500Z
-DTSTAMP:20260603T102310Z
-UID:ly1r4qBC25IeinsUD00CtghjvcxjZQUDDvkeXwt6@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20260122T071307Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20260122T071307Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
+SUMMARY:⚽ Portland Thorns FC @ Utah Royals
+DTSTART:20260802T230000Z
+DTEND:20260803T010000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853962@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nPortland Thorns FC at Utah Royals\nStatus
+ : Scheduled\nVenue: America First Field\, Sandy\, Utah\nTV: Victory+\n\nFi
+ xtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853962/portland-thorns-f
+ c-utah-royals
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bay FC - Houston Dash
-DTSTART;VALUE=DATE:20260824
-DTEND;VALUE=DATE:20260825
-DTSTAMP:20260603T102310Z
-UID:cp9lsEZnLDuMjHk30i1ero1BELdngDSx89SNqEun@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20260122T071310Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20260122T071310Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:⚽ Boston Legacy FC @ Denver Summit FC
+DTSTART:20260803T010000Z
+DTEND:20260803T030000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401854070@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nBoston Legacy FC at Denver Summit FC\nSta
+ tus: Scheduled\nVenue: Centennial Stadium\, Centennial\nTV: ESPN\, ESPN De
+ portes\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401854070/boston-legacy-fc-
+ denver-summit-fc
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Washington Spirit - Bay FC
-DTSTART:20260830T163000Z
-DTEND:20260830T181500Z
-DTSTAMP:20260603T102310Z
-UID:CTb7qTVdEcSdgmP58MROPn7ekp1rtrOW7TWeZiGD@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20260122T071305Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20260122T071305Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
+SUMMARY:⚽ Portland Thorns FC @ Washington Spirit (1–0)
+DTSTART:20260314T000000Z
+DTEND:20260314T020000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853857@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nPortland Thorns FC at Washington Spirit\n
+ Status: Full Time\nVenue: Audi Field\, Washington\, District of Columbia\n
+ TV: Prime Video\n\nFixtures by HerFixtures.com — Women's Sports on Your 
+ Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853857/portland-thorns-f
+ c-washington-spirit
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bay FC - Kansas City
-DTSTART:20260905T020000Z
-DTEND:20260905T034500Z
-DTSTAMP:20260603T102310Z
-UID:lgWsd6UdDxSmKcHIXQ6t3yKUce4l3RZ1aXswqsqX@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20260122T071310Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
+SUMMARY:⚽ Gotham FC @ Boston Legacy FC (1–0)
+DTSTART:20260314T163000Z
+DTEND:20260314T183000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401854039@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nGotham FC at Boston Legacy FC\nStatus: Fu
+ ll Time\nVenue: Gillette Stadium\, Foxborough\, Massachusetts\nTV: ABC\, E
+ SPN Unlmtd\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
  dar
-LAST-MODIFIED:20260122T071310Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/401854039/gotham-fc-boston-
+ legacy-fc
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Reign - Bay FC
-DTSTART:20260913T000000Z
-DTEND:20260913T014500Z
-DTSTAMP:20260603T102310Z
-UID:zsU7OmDPB3awCpq5Ll2X6eXbZOHRpaBuPk6X7mx9@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20260122T071304Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20260218T031158Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
+SUMMARY:⚽ Utah Royals @ Kansas City Current (1–2)
+DTSTART:20260314T200000Z
+DTEND:20260314T220000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853858@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nUtah Royals at Kansas City Current\nStatu
+ s: Full Time\nVenue: CPKC Stadium\, Kansas City\, Missouri\nTV: ION\n\nFix
+ tures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853858/utah-royals-kansa
+ s-city-current
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Denver Summit - Bay FC
-DTSTART:20260917T013000Z
-DTEND:20260917T031500Z
-DTSTAMP:20260603T102310Z
-UID:X4wrAXTErBMJ6LuQOV2w1lsip3o7dWdDv99ZrqZo@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20260122T071306Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20260122T071306Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
+SUMMARY:⚽ Denver Summit FC @ Bay FC (1–2)
+DTSTART:20260314T223000Z
+DTEND:20260315T003000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401854040@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nDenver Summit FC at Bay FC\nStatus: Full 
+ Time\nVenue: PayPal Park\, San Jose\, California\nTV: ION\n\nFixtures by H
+ erFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401854040/denver-summit-fc-
+ bay-fc
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bay FC - Racing Louisville
-DTSTART:20260920T230000Z
-DTEND:20260921T004500Z
-DTSTAMP:20260603T102310Z
-UID:w3HA2NIAnDkw047Wq4xELoX41u02OHKG589we0Sp@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20260122T071306Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20260122T071306Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
+SUMMARY:⚽ Racing Louisville FC @ North Carolina Courage (1–2)
+DTSTART:20260314T230000Z
+DTEND:20260315T010000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853859@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nRacing Louisville FC at North Carolina Co
+ urage\nStatus: Full Time\nVenue: WakeMed Soccer Park\, Cary\, North Caroli
+ na\nTV: NWSL+\n\nFixtures by HerFixtures.com — Women's Sports on Your Ca
+ lendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853859/racing-louisville
+ -fc-north-carolina-courage
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bay FC - Orlando Pride
-DTSTART:20260927T210000Z
-DTEND:20260927T224500Z
-DTSTAMP:20260603T102310Z
-UID:EFysZSqaih68x9OgAlC0ciyyEzfwzarDtuh9HZYe@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20260122T071305Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20260122T071305Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
+SUMMARY:⚽ Houston Dash @ San Diego Wave FC (1–0)
+DTSTART:20260315T004500Z
+DTEND:20260315T024500Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853860@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nHouston Dash at San Diego Wave FC\nStatus
+ : Full Time\nVenue: Snapdragon Stadium\, San Diego\, California\nTV: ION\n
+ \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853860/houston-dash-san-
+ diego-wave-fc
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kansas City - Bay FC
-DTSTART:20261003T223000Z
-DTEND:20261004T001500Z
-DTSTAMP:20260603T102310Z
-UID:WfNWc9uLzQ50GHOJB4v15FKiaf4DQy7QxfFTrjWj@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20260122T071305Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20260122T071305Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
+SUMMARY:⚽ Seattle Reign FC @ Orlando Pride (2–1)
+DTSTART:20260315T200000Z
+DTEND:20260315T220000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853861@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nSeattle Reign FC at Orlando Pride\nStatus
+ : Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\nTV: Victory+\n\n
+ Fixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853861/seattle-reign-fc-
+ orlando-pride
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bay FC - Portland Thorns
-DTSTART:20261018T210000Z
-DTEND:20261018T224500Z
-DTSTAMP:20260603T102310Z
-UID:iCekvfxyc2mV072Tb0yk6T9u7MwXVRrE0NLacymn@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20260122T071304Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20260122T071304Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
+SUMMARY:⚽ Chicago Stars FC @ Angel City FC (0–4)
+DTSTART:20260315T230000Z
+DTEND:20260316T010000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853862@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nChicago Stars FC at Angel City FC\nStatus
+ : Full Time\nVenue: BMO Stadium\, Los Angeles\, California\nTV: Victory+\n
+ \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853862/chicago-stars-fc-
+ angel-city-fc
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Angel City - Bay FC
-DTSTART:20261025T004500Z
-DTEND:20261025T023000Z
-DTSTAMP:20260603T102310Z
-UID:F0lpKtOfZ9tyaneFnhqvtLQGjHq813rztyz2rX3k@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20260122T071305Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-LAST-MODIFIED:20260124T031143Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
+SUMMARY:⚽ Denver Summit FC @ Orlando Pride (1–1)
+DTSTART:20260321T000000Z
+DTEND:20260321T020000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401854041@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nDenver Summit FC at Orlando Pride\nStatus
+ : Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\nTV: Victory+\n\n
+ Fixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401854041/denver-summit-fc-
+ orlando-pride
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bay FC - San Diego Wave
-DTSTART:20261101T220000Z
-DTEND:20261101T234500Z
-DTSTAMP:20260603T102310Z
-UID:M38LbSb8IwSr15yqjC8Zsja789K2jMVWmQKn2nXF@maak-agenda.nl
-SEQUENCE:0
-CLASS:PUBLIC
-CREATED:20260122T071305Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pa
- th=bay-fc\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.co
- m/fixtures\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
+SUMMARY:⚽ Washington Spirit @ Racing Louisville FC (2–2)
+DTSTART:20260321T000000Z
+DTEND:20260321T020000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853863@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nWashington Spirit at Racing Louisville FC
+ \nStatus: Full Time\nVenue: Lynn Family Stadium\, Louisville\, Kentucky\nT
+ V: Victory+\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
+ ndar
+URL:https://www.espn.com/soccer/match/_/gameId/401853863/washington-spirit
+ -racing-louisville-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Seattle Reign FC @ Portland Thorns FC (0–2)
+DTSTART:20260321T020000Z
+DTEND:20260321T040000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853864@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nSeattle Reign FC at Portland Thorns FC\nS
+ tatus: Full Time\nVenue: Providence Park\, Portland\, Oregon\nTV: Prime Vi
+ deo\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853864/seattle-reign-fc-
+ portland-thorns-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Boston Legacy FC @ Houston Dash (0–3)
+DTSTART:20260321T200000Z
+DTEND:20260321T220000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401854042@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nBoston Legacy FC at Houston Dash\nStatus:
+  Full Time\nVenue: Shell Energy Stadium\, Houston\, Texas\nTV: ION\n\nFixt
+ ures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401854042/boston-legacy-fc-
+ houston-dash
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ North Carolina Courage @ Gotham FC (0–0)
+DTSTART:20260321T223000Z
+DTEND:20260322T003000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853865@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nNorth Carolina Courage at Gotham FC\nStat
+ us: Full Time\nVenue: Red Bull Arena\, Harrison\, New Jersey\nTV: ION\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853865/north-carolina-co
+ urage-gotham-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Angel City FC @ Bay FC (3–1)
+DTSTART:20260322T004500Z
+DTEND:20260322T024500Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853866@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nAngel City FC at Bay FC\nStatus: Full Tim
+ e\nVenue: PayPal Park\, San Jose\, California\nTV: ION\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853866/angel-city-fc-bay
+ -fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Kansas City Current @ Chicago Stars FC (1–2)
+DTSTART:20260322T180000Z
+DTEND:20260322T200000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853867@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nKansas City Current at Chicago Stars FC\n
+ Status: Full Time\nVenue: Northwestern Medicine Field at Martin Stadium\, 
+ Evanston\nTV: ESPN2\, ESPN Unlmtd\n\nFixtures by HerFixtures.com — Women
+ 's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853867/kansas-city-curre
+ nt-chicago-stars-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ San Diego Wave FC @ Utah Royals (2–1)
+DTSTART:20260322T230000Z
+DTEND:20260323T010000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853868@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nSan Diego Wave FC at Utah Royals\nStatus:
+  Full Time\nVenue: America First Field\, Sandy\, Utah\nTV: Victory+\n\nFix
+ tures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853868/san-diego-wave-fc
+ -utah-royals
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Denver Summit FC @ Gotham FC (2–0)
+DTSTART:20260325T230000Z
+DTEND:20260326T010000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401854043@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nDenver Summit FC at Gotham FC\nStatus: Fu
+ ll Time\nVenue: Red Bull Arena\, Harrison\, New Jersey\nTV: Victory+\n\nFi
+ xtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401854043/denver-summit-fc-
+ gotham-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Utah Royals @ Washington Spirit (1–1)
+DTSTART:20260325T230000Z
+DTEND:20260326T010000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853869@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nUtah Royals at Washington Spirit\nStatus:
+  Full Time\nVenue: Audi Field\, Washington\, District of Columbia\nTV: Vic
+ tory+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853869/utah-royals-washi
+ ngton-spirit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Orlando Pride @ Chicago Stars FC (3–0)
+DTSTART:20260326T000000Z
+DTEND:20260326T020000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853870@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nOrlando Pride at Chicago Stars FC\nStatus
+ : Full Time\nVenue: Northwestern Medicine Field at Martin Stadium\, Evanst
+ on\nTV: Victory+\n\nFixtures by HerFixtures.com — Women's Sports on Your
+  Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853870/orlando-pride-chi
+ cago-stars-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Kansas City Current @ Seattle Reign FC (0–3)
+DTSTART:20260326T010000Z
+DTEND:20260326T030000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853871@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nKansas City Current at Seattle Reign FC\n
+ Status: Full Time\nVenue: ONE Spokane Stadium\, Spokane\, Washington\nTV: 
+ NWSL+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853871/kansas-city-curre
+ nt-seattle-reign-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Portland Thorns FC @ San Diego Wave FC (1–3)
+DTSTART:20260326T020000Z
+DTEND:20260326T040000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853872@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nPortland Thorns FC at San Diego Wave FC\n
+ Status: Full Time\nVenue: Snapdragon Stadium\, San Diego\, California\nTV:
+  CBSSN\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853872/portland-thorns-f
+ c-san-diego-wave-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Houston Dash @ Angel City FC (1–2)
+DTSTART:20260328T020000Z
+DTEND:20260328T040000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853873@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nHouston Dash at Angel City FC\nStatus: Fu
+ ll Time\nVenue: BMO Stadium\, Los Angeles\, California\nTV: Prime Video\n\
+ nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853873/houston-dash-ange
+ l-city-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Utah Royals @ Boston Legacy FC (2–1)
+DTSTART:20260328T160000Z
+DTEND:20260328T180000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401854044@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nUtah Royals at Boston Legacy FC\nStatus: 
+ Full Time\nVenue: Gillette Stadium\, Foxborough\, Massachusetts\nTV: ESPN2
+ \, ESPN Deportes\n\nFixtures by HerFixtures.com — Women's Sports on Your
+  Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401854044/utah-royals-bosto
+ n-legacy-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Washington Spirit @ Denver Summit FC (0–0)
+DTSTART:20260328T180000Z
+DTEND:20260328T200000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401854045@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nWashington Spirit at Denver Summit FC\nSt
+ atus: Full Time\nVenue: Empower Field at Mile High\, Denver\, Colorado\nTV
+ : CBS\, Paramount+\n\nFixtures by HerFixtures.com — Women's Sports on Yo
+ ur Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401854045/washington-spirit
+ -denver-summit-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Kansas City Current @ Portland Thorns FC (0–2)
+DTSTART:20260328T200000Z
+DTEND:20260328T220000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853874@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nKansas City Current at Portland Thorns FC
+ \nStatus: Full Time\nVenue: Providence Park\, Portland\, Oregon\nTV: CBS\,
+  Paramount+\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
+ ndar
+URL:https://www.espn.com/soccer/match/_/gameId/401853874/kansas-city-curre
+ nt-portland-thorns-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Racing Louisville FC @ Seattle Reign FC (1–2)
+DTSTART:20260328T223000Z
+DTEND:20260329T003000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853875@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nRacing Louisville FC at Seattle Reign FC\
+ nStatus: Full Time\nVenue: ONE Spokane Stadium\, Spokane\, Washington\nTV:
+  ION\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853875/racing-louisville
+ -fc-seattle-reign-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Bay FC @ North Carolina Courage (3–1)
+DTSTART:20260328T230000Z
+DTEND:20260329T010000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853876@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nBay FC at North Carolina Courage\nStatus:
+  Full Time\nVenue: WakeMed Soccer Park\, Cary\, North Carolina\nTV: NWSL+\
+ n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853876/bay-fc-north-caro
+ lina-courage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Chicago Stars FC @ San Diego Wave FC (0–2)
+DTSTART:20260329T004500Z
+DTEND:20260329T024500Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853877@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nChicago Stars FC at San Diego Wave FC\nSt
+ atus: Full Time\nVenue: Snapdragon Stadium\, San Diego\, California\nTV: I
+ ON\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853877/chicago-stars-fc-
+ san-diego-wave-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Orlando Pride @ Gotham FC (0–0)
+DTSTART:20260329T230000Z
+DTEND:20260330T010000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853878@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nOrlando Pride at Gotham FC\nStatus: Full 
+ Time\nVenue: Red Bull Arena\, Harrison\, New Jersey\nTV: Victory+\n\nFixtu
+ res by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853878/orlando-pride-got
+ ham-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ San Diego Wave FC @ Boston Legacy FC (1–0)
+DTSTART:20260403T230000Z
+DTEND:20260404T010000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401854046@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nSan Diego Wave FC at Boston Legacy FC\nSt
+ atus: Full Time\nVenue: Gillette Stadium\, Foxborough\, Massachusetts\nTV:
+  NWSL+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401854046/san-diego-wave-fc
+ -boston-legacy-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Angel City FC @ Orlando Pride (1–2)
+DTSTART:20260404T000000Z
+DTEND:20260404T020000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853879@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nAngel City FC at Orlando Pride\nStatus: F
+ ull Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\nTV: Prime Video\n\n
+ Fixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853879/angel-city-fc-orl
+ ando-pride
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Racing Louisville FC @ Houston Dash (3–4)
+DTSTART:20260404T003000Z
+DTEND:20260404T023000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853880@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nRacing Louisville FC at Houston Dash\nSta
+ tus: Full Time\nVenue: Shell Energy Stadium\, Houston\, Texas\nTV: NWSL+\n
+ \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853880/racing-louisville
+ -fc-houston-dash
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Chicago Stars FC @ Utah Royals (0–1)
+DTSTART:20260404T010000Z
+DTEND:20260404T030000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853881@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nChicago Stars FC at Utah Royals\nStatus: 
+ Full Time\nVenue: America First Field\, Sandy\, Utah\nTV: NWSL+\n\nFixture
+ s by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853881/chicago-stars-fc-
+ utah-royals
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Gotham FC @ Kansas City Current (1–2)
+DTSTART:20260404T200000Z
+DTEND:20260404T220000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853882@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nGotham FC at Kansas City Current\nStatus:
+  Full Time\nVenue: CPKC Stadium\, Kansas City\, Missouri\nTV: CBS\, Paramo
+ unt+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853882/gotham-fc-kansas-
+ city-current
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Portland Thorns FC @ North Carolina Courage (2–2)
+DTSTART:20260404T223000Z
+DTEND:20260405T003000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853883@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nPortland Thorns FC at North Carolina Cour
+ age\nStatus: Full Time\nVenue: WakeMed Soccer Park\, Cary\, North Carolina
+ \nTV: ION\n\nFixtures by HerFixtures.com — Women's Sports on Your Calend
+ ar
+URL:https://www.espn.com/soccer/match/_/gameId/401853883/portland-thorns-f
+ c-north-carolina-courage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Denver Summit FC @ Seattle Reign FC (0–0)
+DTSTART:20260405T004500Z
+DTEND:20260405T024500Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401854047@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nDenver Summit FC at Seattle Reign FC\nSta
+ tus: Full Time\nVenue: ONE Spokane Stadium\, Spokane\, Washington\nTV: ION
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401854047/denver-summit-fc-
+ seattle-reign-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Washington Spirit @ Bay FC (2–0)
+DTSTART:20260405T210000Z
+DTEND:20260405T230000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853884@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nWashington Spirit at Bay FC\nStatus: Full
+  Time\nVenue: PayPal Park\, San Jose\, California\nTV: ESPN2\, ESPN Deport
+ es\, ESPN Unlmtd\n\nFixtures by HerFixtures.com — Women's Sports on Your
+  Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853884/washington-spirit
+ -bay-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Orlando Pride @ Racing Louisville FC (2–3)
+DTSTART:20260424T213000Z
+DTEND:20260424T233000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853885@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nOrlando Pride at Racing Louisville FC\nSt
+ atus: Full Time\nVenue: Lynn Family Stadium\, Louisville\, Kentucky\nTV: V
+ ictory+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853885/orlando-pride-rac
+ ing-louisville-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Kansas City Current @ Washington Spirit (0–4)
+DTSTART:20260425T000000Z
+DTEND:20260425T020000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853886@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nKansas City Current at Washington Spirit\
+ nStatus: Full Time\nVenue: Audi Field\, Washington\, District of Columbia\
+ nTV: Prime Video\n\nFixtures by HerFixtures.com — Women's Sports on Your
+  Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853886/kansas-city-curre
+ nt-washington-spirit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Bay FC @ Gotham FC (0–3)
+DTSTART:20260425T170000Z
+DTEND:20260425T190000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853887@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nBay FC at Gotham FC\nStatus: Full Time\nV
+ enue: Red Bull Arena\, Harrison\, New Jersey\nTV: CBS\, Paramount+\n\nFixt
+ ures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853887/bay-fc-gotham-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Boston Legacy FC @ Chicago Stars FC (0–2)
+DTSTART:20260425T223000Z
+DTEND:20260426T003000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401854048@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nBoston Legacy FC at Chicago Stars FC\nSta
+ tus: Full Time\nVenue: Northwestern Medicine Field at Martin Stadium\, Eva
+ nston\nTV: ION\n\nFixtures by HerFixtures.com — Women's Sports on Your C
+ alendar
+URL:https://www.espn.com/soccer/match/_/gameId/401854048/boston-legacy-fc-
+ chicago-stars-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ North Carolina Courage @ Houston Dash (1–0)
+DTSTART:20260426T000000Z
+DTEND:20260426T020000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853888@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nNorth Carolina Courage at Houston Dash\nS
+ tatus: Full Time\nVenue: Shell Energy Stadium\, Houston\, Texas\nTV: NWSL+
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853888/north-carolina-co
+ urage-houston-dash
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ San Diego Wave FC @ Denver Summit FC (3–2)
+DTSTART:20260426T004500Z
+DTEND:20260426T024500Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401854049@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nSan Diego Wave FC at Denver Summit FC\nSt
+ atus: Full Time\nVenue: Dick's Sporting Goods Park\, Commerce City\, Color
+ ado\nTV: ION\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+URL:https://www.espn.com/soccer/match/_/gameId/401854049/san-diego-wave-fc
+ -denver-summit-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Portland Thorns FC @ Angel City FC (2–1)
+DTSTART:20260426T220000Z
+DTEND:20260427T000000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853889@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nPortland Thorns FC at Angel City FC\nStat
+ us: Full Time\nVenue: BMO Stadium\, Los Angeles\, California\nTV: ESPN2\, 
+ ESPN Deportes\n\nFixtures by HerFixtures.com — Women's Sports on Your Ca
+ lendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853889/portland-thorns-f
+ c-angel-city-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Utah Royals @ Seattle Reign FC (3–0)
+DTSTART:20260427T000000Z
+DTEND:20260427T020000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853890@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nUtah Royals at Seattle Reign FC\nStatus: 
+ Full Time\nVenue: Lumen Field\, Seattle\, Washington\nTV: Victory+\n\nFixt
+ ures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853890/utah-royals-seatt
+ le-reign-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ North Carolina Courage @ Boston Legacy FC (2–2)
+DTSTART:20260429T230000Z
+DTEND:20260430T010000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401854050@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nNorth Carolina Courage at Boston Legacy F
+ C\nStatus: Full Time\nVenue: Gillette Stadium\, Foxborough\, Massachusetts
+ \nTV: Victory+\n\nFixtures by HerFixtures.com — Women's Sports on Your C
+ alendar
+URL:https://www.espn.com/soccer/match/_/gameId/401854050/north-carolina-co
+ urage-boston-legacy-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Racing Louisville FC @ Washington Spirit (0–1)
+DTSTART:20260429T230000Z
+DTEND:20260430T010000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853891@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nRacing Louisville FC at Washington Spirit
+ \nStatus: Full Time\nVenue: Audi Field\, Washington\, District of Columbia
+ \nTV: Victory+\n\nFixtures by HerFixtures.com — Women's Sports on Your C
+ alendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853891/racing-louisville
+ -fc-washington-spirit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Gotham FC @ Chicago Stars FC (2–0)
+DTSTART:20260430T000000Z
+DTEND:20260430T020000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853892@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nGotham FC at Chicago Stars FC\nStatus: Fu
+ ll Time\nVenue: Northwestern Medicine Field at Martin Stadium\, Evanston\n
+ TV: Victory+\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+URL:https://www.espn.com/soccer/match/_/gameId/401853892/gotham-fc-chicago
+ -stars-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ San Diego Wave FC @ Portland Thorns FC (0–2)
+DTSTART:20260430T020000Z
+DTEND:20260430T040000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853893@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nSan Diego Wave FC at Portland Thorns FC\n
+ Status: Full Time\nVenue: Providence Park\, Portland\, Oregon\nTV: CBSSN\n
+ \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853893/san-diego-wave-fc
+ -portland-thorns-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Seattle Reign FC @ Houston Dash (0–0)
+DTSTART:20260502T000000Z
+DTEND:20260502T020000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853894@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nSeattle Reign FC at Houston Dash\nStatus:
+  Full Time\nVenue: Shell Energy Stadium\, Houston\, Texas\nTV: Victory+\n\
+ nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853894/seattle-reign-fc-
+ houston-dash
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Washington Spirit @ Orlando Pride (4–2)
+DTSTART:20260502T200000Z
+DTEND:20260502T220000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853895@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nWashington Spirit at Orlando Pride\nStatu
+ s: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\nTV: ION\n\nFixt
+ ures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853895/washington-spirit
+ -orlando-pride
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Kansas City Current @ North Carolina Courage (2–1)
+DTSTART:20260502T223000Z
+DTEND:20260503T003000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853896@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nKansas City Current at North Carolina Cou
+ rage\nStatus: Full Time\nVenue: WakeMed Soccer Park\, Cary\, North Carolin
+ a\nTV: ION\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
  dar
-LAST-MODIFIED:20260122T071305Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/401853896/kansas-city-curre
+ nt-north-carolina-courage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Utah Royals @ Angel City FC (1–0)
+DTSTART:20260503T004500Z
+DTEND:20260503T024500Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853897@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nUtah Royals at Angel City FC\nStatus: Ful
+ l Time\nVenue: BMO Stadium\, Los Angeles\, California\nTV: ION\n\nFixtures
+  by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853897/utah-royals-angel
+ -city-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Portland Thorns FC @ Chicago Stars FC (2–0)
+DTSTART:20260503T170000Z
+DTEND:20260503T190000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853898@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nPortland Thorns FC at Chicago Stars FC\nS
+ tatus: Full Time\nVenue: Northwestern Medicine Field at Martin Stadium\, E
+ vanston\nTV: ESPN2\, ESPN Unlmtd\n\nFixtures by HerFixtures.com — Women'
+ s Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853898/portland-thorns-f
+ c-chicago-stars-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Denver Summit FC @ Boston Legacy FC (2–3)
+DTSTART:20260503T190000Z
+DTEND:20260503T210000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401854051@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nDenver Summit FC at Boston Legacy FC\nSta
+ tus: Full Time\nVenue: Gillette Stadium\, Foxborough\, Massachusetts\nTV: 
+ CBSSN\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401854051/denver-summit-fc-
+ boston-legacy-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Racing Louisville FC @ Gotham FC (0–1)
+DTSTART:20260503T210000Z
+DTEND:20260503T230000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853899@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nRacing Louisville FC at Gotham FC\nStatus
+ : Full Time\nVenue: Red Bull Arena\, Harrison\, New Jersey\nTV: CBSSN\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853899/racing-louisville
+ -fc-gotham-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Bay FC @ San Diego Wave FC (1–0)
+DTSTART:20260503T230000Z
+DTEND:20260504T010000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853900@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nBay FC at San Diego Wave FC\nStatus: Full
+  Time\nVenue: Snapdragon Stadium\, San Diego\, California\nTV: Victory+\n\
+ nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853900/bay-fc-san-diego-
+ wave-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Houston Dash @ Utah Royals (0–2)
+DTSTART:20260507T020000Z
+DTEND:20260507T040000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853901@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nHouston Dash at Utah Royals\nStatus: Full
+  Time\nVenue: America First Field\, Sandy\, Utah\nTV: CBSSN\n\nFixtures by
+  HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853901/houston-dash-utah
+ -royals
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Portland Thorns FC @ Racing Louisville FC (1–3)
+DTSTART:20260508T223000Z
+DTEND:20260509T003000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853902@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nPortland Thorns FC at Racing Louisville F
+ C\nStatus: Full Time\nVenue: Lynn Family Stadium\, Louisville\, Kentucky\n
+ TV: NWSL+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calend
+ ar
+URL:https://www.espn.com/soccer/match/_/gameId/401853902/portland-thorns-f
+ c-racing-louisville-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ North Carolina Courage @ Orlando Pride (0–1)
+DTSTART:20260509T000000Z
+DTEND:20260509T020000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853903@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nNorth Carolina Courage at Orlando Pride\n
+ Status: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\nTV: Prime 
+ Video\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853903/north-carolina-co
+ urage-orlando-pride
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Boston Legacy FC @ Gotham FC (1–1)
+DTSTART:20260509T223000Z
+DTEND:20260510T003000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401854052@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nBoston Legacy FC at Gotham FC\nStatus: Fu
+ ll Time\nVenue: Red Bull Arena\, Harrison\, New Jersey\nTV: ION\n\nFixture
+ s by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401854052/boston-legacy-fc-
+ gotham-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Denver Summit FC @ Houston Dash (4–1)
+DTSTART:20260510T000000Z
+DTEND:20260510T020000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401854053@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nDenver Summit FC at Houston Dash\nStatus:
+  Full Time\nVenue: Shell Energy Stadium\, Houston\, Texas\nTV: NWSL+\n\nFi
+ xtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401854053/denver-summit-fc-
+ houston-dash
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ San Diego Wave FC @ Angel City FC (2–1)
+DTSTART:20260510T004500Z
+DTEND:20260510T024500Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853904@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nSan Diego Wave FC at Angel City FC\nStatu
+ s: Full Time\nVenue: BMO Stadium\, Los Angeles\, California\nTV: ION\n\nFi
+ xtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853904/san-diego-wave-fc
+ -angel-city-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Chicago Stars FC @ Kansas City Current (0–3)
+DTSTART:20260510T162500Z
+DTEND:20260510T182500Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853905@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nChicago Stars FC at Kansas City Current\n
+ Status: Full Time\nVenue: CPKC Stadium\, Kansas City\, Missouri\nTV: ESPN\
+ , ESPN Unlmtd\n\nFixtures by HerFixtures.com — Women's Sports on Your Ca
+ lendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853905/chicago-stars-fc-
+ kansas-city-current
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Utah Royals @ Bay FC (0–0)
+DTSTART:20260510T200000Z
+DTEND:20260510T220000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853906@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nUtah Royals at Bay FC\nStatus: Full Time\
+ nVenue: PayPal Park\, San Jose\, California\nTV: Victory+\n\nFixtures by H
+ erFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853906/utah-royals-bay-f
+ c
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Washington Spirit @ Seattle Reign FC (1–0)
+DTSTART:20260510T230000Z
+DTEND:20260511T010000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853907@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nWashington Spirit at Seattle Reign FC\nSt
+ atus: Full Time\nVenue: Lumen Field\, Seattle\, Washington\nTV: Victory+\n
+ \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853907/washington-spirit
+ -seattle-reign-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Orlando Pride @ Boston Legacy FC (1–2)
+DTSTART:20260512T230000Z
+DTEND:20260513T010000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401854054@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nOrlando Pride at Boston Legacy FC\nStatus
+ : Full Time\nVenue: Gillette Stadium\, Foxborough\, Massachusetts\nTV: Vic
+ tory+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401854054/orlando-pride-bos
+ ton-legacy-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Houston Dash @ Kansas City Current (0–3)
+DTSTART:20260516T000000Z
+DTEND:20260516T020000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853908@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nHouston Dash at Kansas City Current\nStat
+ us: Full Time\nVenue: CPKC Stadium\, Kansas City\, Missouri\nTV: Prime Vid
+ eo\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853908/houston-dash-kans
+ as-city-current
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Boston Legacy FC @ Bay FC (1–1)
+DTSTART:20260516T020000Z
+DTEND:20260516T040000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401854055@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nBoston Legacy FC at Bay FC\nStatus: Full 
+ Time\nVenue: PayPal Park\, San Jose\, California\nTV: Victory+\n\nFixtures
+  by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401854055/boston-legacy-fc-
+ bay-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Washington Spirit @ San Diego Wave FC (1–2)
+DTSTART:20260516T020000Z
+DTEND:20260516T040000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853909@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nWashington Spirit at San Diego Wave FC\nS
+ tatus: Full Time\nVenue: Snapdragon Stadium\, San Diego\, California\nTV: 
+ Victory+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calenda
+ r
+URL:https://www.espn.com/soccer/match/_/gameId/401853909/washington-spirit
+ -san-diego-wave-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Gotham FC @ Seattle Reign FC (2–0)
+DTSTART:20260516T020000Z
+DTEND:20260516T040000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853910@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nGotham FC at Seattle Reign FC\nStatus: Fu
+ ll Time\nVenue: Lumen Field\, Seattle\, Washington\nTV: Victory+\n\nFixtur
+ es by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853910/gotham-fc-seattle
+ -reign-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Chicago Stars FC @ North Carolina Courage (0–4)
+DTSTART:20260516T223000Z
+DTEND:20260517T003000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853911@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nChicago Stars FC at North Carolina Courag
+ e\nStatus: Full Time\nVenue: WakeMed Soccer Park\, Cary\, North Carolina\n
+ TV: ION\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853911/chicago-stars-fc-
+ north-carolina-courage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Orlando Pride @ Denver Summit FC (1–3)
+DTSTART:20260517T004500Z
+DTEND:20260517T024500Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401854056@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nOrlando Pride at Denver Summit FC\nStatus
+ : Full Time\nVenue: Dick's Sporting Goods Park\, Commerce City\, Colorado\
+ nTV: ION\n\nFixtures by HerFixtures.com — Women's Sports on Your Calenda
+ r
+URL:https://www.espn.com/soccer/match/_/gameId/401854056/orlando-pride-den
+ ver-summit-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Angel City FC @ Portland Thorns FC (0–0)
+DTSTART:20260517T220000Z
+DTEND:20260518T000000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853912@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nAngel City FC at Portland Thorns FC\nStat
+ us: Full Time\nVenue: Providence Park\, Portland\, Oregon\nTV: ESPN2\, ESP
+ N Deportes\, ESPN Unlmtd\n\nFixtures by HerFixtures.com — Women's Sports
+  on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853912/angel-city-fc-por
+ tland-thorns-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Racing Louisville FC @ Utah Royals (1–2)
+DTSTART:20260518T000000Z
+DTEND:20260518T020000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853913@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nRacing Louisville FC at Utah Royals\nStat
+ us: Full Time\nVenue: America First Field\, Sandy\, Utah\nTV: Victory+\n\n
+ Fixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853913/racing-louisville
+ -fc-utah-royals
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ San Diego Wave FC @ Houston Dash (2–2)
+DTSTART:20260521T000000Z
+DTEND:20260521T020000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853914@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nSan Diego Wave FC at Houston Dash\nStatus
+ : Full Time\nVenue: Shell Energy Stadium\, Houston\, Texas\nTV: CBSSN\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853914/san-diego-wave-fc
+ -houston-dash
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Kansas City Current @ Angel City FC (1–2)
+DTSTART:20260521T020000Z
+DTEND:20260521T040000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853916@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nKansas City Current at Angel City FC\nSta
+ tus: Full Time\nVenue: BMO Stadium\, Los Angeles\, California\nTV: Victory
+ +\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853916/kansas-city-curre
+ nt-angel-city-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Bay FC @ Portland Thorns FC (0–2)
+DTSTART:20260521T020000Z
+DTEND:20260521T040000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853915@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nBay FC at Portland Thorns FC\nStatus: Ful
+ l Time\nVenue: Providence Park\, Portland\, Oregon\nTV: Victory+\n\nFixtur
+ es by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853915/bay-fc-portland-t
+ horns-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Seattle Reign FC @ Boston Legacy FC (2–1)
+DTSTART:20260523T000000Z
+DTEND:20260523T020000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401854057@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nSeattle Reign FC at Boston Legacy FC\nSta
+ tus: Full Time\nVenue: Centreville Bank Stadium\, Pawtucket\, Rhode Island
+ \nTV: Prime Video\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401854057/seattle-reign-fc-
+ boston-legacy-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ North Carolina Courage @ Racing Louisville FC (2–1)
+DTSTART:20260523T200000Z
+DTEND:20260523T220000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853917@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nNorth Carolina Courage at Racing Louisvil
+ le FC\nStatus: Full Time\nVenue: Lynn Family Stadium\, Louisville\, Kentuc
+ ky\nTV: ION\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
+ ndar
+URL:https://www.espn.com/soccer/match/_/gameId/401853917/north-carolina-co
+ urage-racing-louisville-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Denver Summit FC @ Utah Royals (1–2)
+DTSTART:20260523T223000Z
+DTEND:20260524T003000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401854058@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nDenver Summit FC at Utah Royals\nStatus: 
+ Full Time\nVenue: America First Field\, Sandy\, Utah\nTV: ION\n\nFixtures 
+ by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401854058/denver-summit-fc-
+ utah-royals
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Angel City FC @ Houston Dash (1–2)
+DTSTART:20260524T004500Z
+DTEND:20260524T024500Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853918@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nAngel City FC at Houston Dash\nStatus: Fu
+ ll Time\nVenue: Shell Energy Stadium\, Houston\, Texas\nTV: ION\n\nFixture
+ s by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853918/angel-city-fc-hou
+ ston-dash
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Portland Thorns FC @ Kansas City Current (1–3)
+DTSTART:20260524T170000Z
+DTEND:20260524T190000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853919@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nPortland Thorns FC at Kansas City Current
+ \nStatus: Full Time\nVenue: CPKC Stadium\, Kansas City\, Missouri\nTV: CBS
+ \, Paramount+\n\nFixtures by HerFixtures.com — Women's Sports on Your Ca
+ lendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853919/portland-thorns-f
+ c-kansas-city-current
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Chicago Stars FC @ Bay FC (1–0)
+DTSTART:20260524T210000Z
+DTEND:20260524T230000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853920@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nChicago Stars FC at Bay FC\nStatus: Full 
+ Time\nVenue: PayPal Park\, San Jose\, California\nTV: ESPN2\, ESPN Deporte
+ s\, ESPN+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calend
+ ar
+URL:https://www.espn.com/soccer/match/_/gameId/401853920/chicago-stars-fc-
+ bay-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Orlando Pride @ San Diego Wave FC (1–0)
+DTSTART:20260524T230000Z
+DTEND:20260525T010000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853921@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nOrlando Pride at San Diego Wave FC\nStatu
+ s: Full Time\nVenue: Snapdragon Stadium\, San Diego\, California\nTV: Vict
+ ory+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853921/orlando-pride-san
+ -diego-wave-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Bay FC @ Orlando Pride (1–3)
+DTSTART:20260529T230000Z
+DTEND:20260530T010000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853922@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nBay FC at Orlando Pride\nStatus: Full Tim
+ e\nVenue: Inter&Co Stadium\, Orlando\, Florida\nTV: NWSL+\n\nFixtures by H
+ erFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853922/bay-fc-orlando-pr
+ ide
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Denver Summit FC @ Racing Louisville FC (1–0)
+DTSTART:20260530T000000Z
+DTEND:20260530T020000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401854059@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nDenver Summit FC at Racing Louisville FC\
+ nStatus: Full Time\nVenue: Lynn Family Stadium\, Louisville\, Kentucky\nTV
+ : Prime Video\n\nFixtures by HerFixtures.com — Women's Sports on Your Ca
+ lendar
+URL:https://www.espn.com/soccer/match/_/gameId/401854059/denver-summit-fc-
+ racing-louisville-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Boston Legacy FC @ Kansas City Current (0–1)
+DTSTART:20260530T173000Z
+DTEND:20260530T193000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401854060@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nBoston Legacy FC at Kansas City Current\n
+ Status: Full Time\nVenue: CPKC Stadium\, Kansas City\, Missouri\nTV: ION\n
+ \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401854060/boston-legacy-fc-
+ kansas-city-current
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Utah Royals @ Portland Thorns FC (2–2)
+DTSTART:20260530T200000Z
+DTEND:20260530T220000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853923@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nUtah Royals at Portland Thorns FC\nStatus
+ : Full Time\nVenue: Providence Park\, Portland\, Oregon\nTV: ION\n\nFixtur
+ es by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853923/utah-royals-portl
+ and-thorns-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Seattle Reign FC @ Washington Spirit (1–2)
+DTSTART:20260530T223000Z
+DTEND:20260531T003000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853924@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nSeattle Reign FC at Washington Spirit\nSt
+ atus: Full Time\nVenue: Audi Field\, Washington\, District of Columbia\nTV
+ : ION\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853924/seattle-reign-fc-
+ washington-spirit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ San Diego Wave FC @ Chicago Stars FC (2–0)
+DTSTART:20260531T170000Z
+DTEND:20260531T190000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853925@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nSan Diego Wave FC at Chicago Stars FC\nSt
+ atus: Full Time\nVenue: Northwestern Medicine Field at Martin Stadium\, Ev
+ anston\nTV: CBSSN\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853925/san-diego-wave-fc
+ -chicago-stars-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Houston Dash @ Gotham FC (0–1)
+DTSTART:20260531T190000Z
+DTEND:20260531T210000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853926@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nHouston Dash at Gotham FC\nStatus: Full T
+ ime\nVenue: Red Bull Arena\, Harrison\, New Jersey\nTV: ESPN Deportes\, ES
+ PN+\, NWSL+\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
+ ndar
+URL:https://www.espn.com/soccer/match/_/gameId/401853926/houston-dash-goth
+ am-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ North Carolina Courage @ Angel City FC (2–1)
+DTSTART:20260531T230000Z
+DTEND:20260601T010000Z
+DTSTAMP:20260603T125045Z
+UID:espn-nwsl-401853927@herfixtures.com
+DESCRIPTION:NWSL 2026 · Bay FC\nNorth Carolina Courage at Angel City FC\n
+ Status: Full Time\nVenue: BMO Stadium\, Los Angeles\, California\nTV: Vict
+ ory+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853927/north-carolina-co
+ urage-angel-city-fc
 END:VEVENT
 END:VCALENDAR
