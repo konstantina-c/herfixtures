@@ -142,20 +142,24 @@ def main():
         away  = parsed["away"]
         ko    = parsed["ko"]
 
+        # American sports convention: Away @ Home — away team listed first
         card = {
             "league": parsed["league"],
-            "home":   {"name": home["name"], "logo": home["logo"]},
-            "away":   {"name": away["name"], "logo": away["logo"]},
+            "home":   {"name": away["name"], "logo": away["logo"]},
+            "away":   {"name": home["name"], "logo": home["logo"]},
         }
 
         if state == "post":
-            card["home"]["score"] = home["score"]
-            card["away"]["score"] = away["score"]
+            # Winner is still determined by actual scores
+            card["home"]["score"] = away["score"]
+            card["away"]["score"] = home["score"]
+            # Mark winner on the away-first display
+            card["winner"] = "home" if away["score"] > home["score"] else "away"
             postgame.append(card)
 
         elif state == "in":
-            card["home"]["score"] = home["score"]
-            card["away"]["score"] = away["score"]
+            card["home"]["score"] = away["score"]
+            card["away"]["score"] = home["score"]
             livegame.append(card)
 
         elif state == "pre":
