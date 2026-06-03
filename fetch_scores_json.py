@@ -24,6 +24,14 @@ TODAY        = datetime.now(timezone.utc).date()
 YESTERDAY    = TODAY - timedelta(days=1)
 DAY_AFTER    = TODAY + timedelta(days=2)
 
+# Hardcoded logo map by ESPN team ID — newer expansion teams use
+# abbreviation-based slugs instead of numeric IDs
+LOGO_OVERRIDES = {
+    "129689": "https://a.espncdn.com/i/teamlogos/wnba/500/gs.png",   # GS Valkyries
+    "132052": "https://a.espncdn.com/i/teamlogos/wnba/500/por.png",  # Portland Fire
+    "131935": "https://a.espncdn.com/i/teamlogos/wnba/500/tor.png",  # Toronto Tempo
+}
+
 
 def fetch_scoreboard(date_from, date_to):
     r = requests.get(
@@ -40,12 +48,19 @@ def fetch_scoreboard(date_from, date_to):
 
 
 def team_data(competitor):
-    team = competitor.get("team", {})
+    team    = competitor.get("team", {})
+    team_id = str(team.get("id", ""))
+    # Use override if available, otherwise use ESPN's logo URL directly
+    if team_id in LOGO_OVERRIDES:
+        logo = LOGO_OVERRIDES[team_id]
+    elif team.get("logos"):
+        logo = team["logos"][0].get("href", "")
+    else:
+        logo = f"https://a.espncdn.com/i/teamlogos/wnba/500/{team_id}.png"
     return {
         "name":  team.get("shortDisplayName") or team.get("displayName", ""),
         "score": int(competitor["score"]) if competitor.get("score") not in (None, "") else None,
-        "logo":  team.get("logos", [{}])[0].get("href", "") if team.get("logos") else
-                 f"https://a.espncdn.com/i/teamlogos/wnba/500/{team.get('id', '')}.png",
+        "logo":  logo,
     }
 
 
@@ -127,20 +142,24 @@ def main():
         away  = parsed["away"]
         ko    = parsed["ko"]
 
+        # American sports convention: Away @ Home — away team listed first
         card = {
             "league": parsed["league"],
-            "home":   {"name": home["name"], "logo": home["logo"]},
-            "away":   {"name": away["name"], "logo": away["logo"]},
+            "home":   {"name": away["name"], "logo": away["logo"]},
+            "away":   {"name": home["name"], "logo": home["logo"]},
         }
 
         if state == "post":
-            card["home"]["score"] = home["score"]
-            card["away"]["score"] = away["score"]
+            # Winner is still determined by actual scores
+            card["home"]["score"] = away["score"]
+            card["away"]["score"] = home["score"]
+            # Mark winner on the away-first display
+            card["winner"] = "home" if away["score"] > home["score"] else "away"
             postgame.append(card)
 
         elif state == "in":
-            card["home"]["score"] = home["score"]
-            card["away"]["score"] = away["score"]
+            card["home"]["score"] = away["score"]
+            card["away"]["score"] = home["score"]
             livegame.append(card)
 
         elif state == "pre":
