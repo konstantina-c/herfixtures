@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Houston Dash @ Washington Spirit
 DTSTART:20260704T000000Z
 DTEND:20260704T020000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853928@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nHouston Dash at Washington S
  pirit\nStatus: Scheduled\nVenue: Audi Field\, Washington\, District of Col
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Kansas City Current @ Denver Summit FC
 DTSTART:20260704T013000Z
 DTEND:20260704T033000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401854061@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nKansas City Current at Denve
  r Summit FC\nStatus: Scheduled\nVenue: Dick's Sporting Goods Park\, Commer
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Orlando Pride @ Angel City FC
 DTSTART:20260704T020000Z
 DTEND:20260704T040000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853929@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nOrlando Pride at Angel City 
  FC\nStatus: Scheduled\nVenue: BMO Stadium\, Los Angeles\, California\nTV: 
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Seattle Reign FC @ North Carolina Courage
 DTSTART:20260704T223000Z
 DTEND:20260705T003000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853930@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nSeattle Reign FC at North Ca
  rolina Courage\nStatus: Scheduled\nVenue: WakeMed Soccer Park\, Cary\, Nor
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Gotham FC @ San Diego Wave FC
 DTSTART:20260705T004500Z
 DTEND:20260705T024500Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853931@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nGotham FC at San Diego Wave 
  FC\nStatus: Scheduled\nVenue: Snapdragon Stadium\, San Diego\, California\
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bay FC @ Boston Legacy FC
 DTSTART:20260705T160000Z
 DTEND:20260705T180000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401854062@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nBay FC at Boston Legacy FC\n
  Status: Scheduled\nVenue: Centreville Bank Stadium\, Pawtucket\, Rhode Isl
@@ -91,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Utah Royals @ Chicago Stars FC
 DTSTART:20260705T210000Z
 DTEND:20260705T230000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853932@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nUtah Royals at Chicago Stars
   FC\nStatus: Scheduled\nVenue: Northwestern Medicine Field at Martin Stadi
@@ -104,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Racing Louisville FC @ Portland Thorns FC
 DTSTART:20260705T230000Z
 DTEND:20260706T010000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853933@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nRacing Louisville FC at Port
  land Thorns FC\nStatus: Scheduled\nVenue: Providence Park\, Portland\, Ore
@@ -117,7 +117,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Chicago Stars FC @ Boston Legacy FC
 DTSTART:20260711T000000Z
 DTEND:20260711T020000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401854063@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nChicago Stars FC at Boston L
  egacy FC\nStatus: Scheduled\nVenue: Centreville Bank Stadium\, Pawtucket\,
@@ -130,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Kansas City Current @ Orlando Pride
 DTSTART:20260711T000000Z
 DTEND:20260711T020000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853934@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nKansas City Current at Orlan
  do Pride\nStatus: Scheduled\nVenue: Inter&Co Stadium\, Orlando\, Florida\n
@@ -143,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bay FC @ Racing Louisville FC
 DTSTART:20260711T000000Z
 DTEND:20260711T020000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853935@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nBay FC at Racing Louisville 
  FC\nStatus: Scheduled\nVenue: Lynn Family Stadium\, Louisville\, Kentucky\
@@ -156,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Gotham FC @ Utah Royals
 DTSTART:20260711T020000Z
 DTEND:20260711T040000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853936@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nGotham FC at Utah Royals\nSt
  atus: Scheduled\nVenue: America First Field\, Sandy\, Utah\nTV: Victory+\n
@@ -168,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Washington Spirit @ North Carolina Courage
 DTSTART:20260711T223000Z
 DTEND:20260712T003000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853937@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nWashington Spirit at North C
  arolina Courage\nStatus: Scheduled\nVenue: WakeMed Soccer Park\, Cary\, No
@@ -181,7 +181,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Angel City FC @ San Diego Wave FC
 DTSTART:20260712T004500Z
 DTEND:20260712T024500Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853938@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nAngel City FC at San Diego W
  ave FC\nStatus: Scheduled\nVenue: Snapdragon Stadium\, San Diego\, Califor
@@ -194,7 +194,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Portland Thorns FC @ Seattle Reign FC
 DTSTART:20260712T200000Z
 DTEND:20260712T220000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853939@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nPortland Thorns FC at Seattl
  e Reign FC\nStatus: Scheduled\nVenue: Lumen Field\, Seattle\, Washington\n
@@ -207,7 +207,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Houston Dash @ Denver Summit FC
 DTSTART:20260712T230000Z
 DTEND:20260713T010000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401854064@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nHouston Dash at Denver Summi
  t FC\nStatus: Scheduled\nVenue: Dick's Sporting Goods Park\, Commerce City
@@ -220,7 +220,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Boston Legacy FC @ Orlando Pride
 DTSTART:20260715T230000Z
 DTEND:20260716T010000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401854065@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nBoston Legacy FC at Orlando 
  Pride\nStatus: Scheduled\nVenue: Inter&Co Stadium\, Orlando\, Florida\nTV:
@@ -232,7 +232,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Washington Spirit @ Gotham FC
 DTSTART:20260716T000000Z
 DTEND:20260716T020000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853940@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nWashington Spirit at Gotham 
  FC\nStatus: Scheduled\nVenue: Citi Field\, New York\, New York\nTV: ESPN\n
@@ -244,7 +244,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Diego Wave FC @ Kansas City Current
 DTSTART:20260718T000000Z
 DTEND:20260718T020000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853941@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nSan Diego Wave FC at Kansas 
  City Current\nStatus: Scheduled\nVenue: CPKC Stadium\, Kansas City\, Misso
@@ -257,7 +257,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Seattle Reign FC @ Gotham FC
 DTSTART:20260718T160000Z
 DTEND:20260718T180000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853942@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nSeattle Reign FC at Gotham F
  C\nStatus: Scheduled\nVenue: Icahn Stadium\, New York City\, New York\nTV:
@@ -270,7 +270,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Portland Thorns FC @ Denver Summit FC
 DTSTART:20260718T180000Z
 DTEND:20260718T200000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401854066@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nPortland Thorns FC at Denver
   Summit FC\nStatus: Scheduled\nVenue: Centennial Stadium\, Centennial\nTV:
@@ -283,7 +283,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ North Carolina Courage @ Bay FC
 DTSTART:20260718T200000Z
 DTEND:20260718T220000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853943@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nNorth Carolina Courage at Ba
  y FC\nStatus: Scheduled\nVenue: PayPal Park\, San Jose\, California\nTV: C
@@ -296,7 +296,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Angel City FC @ Chicago Stars FC
 DTSTART:20260718T223000Z
 DTEND:20260719T003000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853944@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nAngel City FC at Chicago Sta
  rs FC\nStatus: Scheduled\nVenue: Northwestern Medicine Field at Martin Sta
@@ -309,7 +309,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Houston Dash @ Racing Louisville FC
 DTSTART:20260719T000000Z
 DTEND:20260719T020000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853945@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nHouston Dash at Racing Louis
  ville FC\nStatus: Scheduled\nVenue: Lynn Family Stadium\, Louisville\, Ken
@@ -322,7 +322,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Orlando Pride @ Utah Royals
 DTSTART:20260719T004500Z
 DTEND:20260719T024500Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853946@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nOrlando Pride at Utah Royals
  \nStatus: Scheduled\nVenue: America First Field\, Sandy\, Utah\nTV: ION\n\
@@ -334,7 +334,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Washington Spirit @ Boston Legacy FC
 DTSTART:20260719T230000Z
 DTEND:20260720T010000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401854067@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nWashington Spirit at Boston 
  Legacy FC\nStatus: Scheduled\nVenue: Centreville Bank Stadium\, Pawtucket\
@@ -347,7 +347,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bay FC @ Houston Dash
 DTSTART:20260725T000000Z
 DTEND:20260725T020000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853948@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nBay FC at Houston Dash\nStat
  us: Scheduled\nVenue: Shell Energy Stadium\, Houston\, Texas\nTV: Victory+
@@ -359,7 +359,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Chicago Stars FC @ Orlando Pride
 DTSTART:20260725T000000Z
 DTEND:20260725T020000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853947@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nChicago Stars FC at Orlando 
  Pride\nStatus: Scheduled\nVenue: Inter&Co Stadium\, Orlando\, Florida\nTV:
@@ -372,7 +372,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Gotham FC @ Portland Thorns FC
 DTSTART:20260725T020000Z
 DTEND:20260725T040000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853949@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nGotham FC at Portland Thorns
   FC\nStatus: Scheduled\nVenue: Providence Park\, Portland\, Oregon\nTV: Pr
@@ -385,7 +385,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Kansas City Current @ Boston Legacy FC
 DTSTART:20260725T210000Z
 DTEND:20260725T230000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401854068@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nKansas City Current at Bosto
  n Legacy FC\nStatus: Scheduled\nVenue: Centreville Bank Stadium\, Pawtucke
@@ -398,7 +398,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Utah Royals @ North Carolina Courage
 DTSTART:20260725T234500Z
 DTEND:20260726T014500Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853950@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nUtah Royals at North Carolin
  a Courage\nStatus: Scheduled\nVenue: WakeMed Soccer Park\, Cary\, North Ca
@@ -411,7 +411,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Seattle Reign FC @ San Diego Wave FC
 DTSTART:20260726T210000Z
 DTEND:20260726T230000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853951@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nSeattle Reign FC at San Dieg
  o Wave FC\nStatus: Scheduled\nVenue: Snapdragon Stadium\, San Diego\, Cali
@@ -424,7 +424,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Denver Summit FC @ Washington Spirit
 DTSTART:20260726T230000Z
 DTEND:20260727T010000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401854069@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nDenver Summit FC at Washingt
  on Spirit\nStatus: Scheduled\nVenue: Audi Field\, Washington\, District of
@@ -437,7 +437,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Racing Louisville FC @ Angel City FC
 DTSTART:20260727T010000Z
 DTEND:20260727T030000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853952@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nRacing Louisville FC at Ange
  l City FC\nStatus: Scheduled\nVenue: BMO Stadium\, Los Angeles\, Californi
@@ -450,7 +450,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Racing Louisville FC @ Kansas City Current
 DTSTART:20260730T000000Z
 DTEND:20260730T020000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853953@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nRacing Louisville FC at Kans
  as City Current\nStatus: Scheduled\nVenue: CPKC Stadium\, Kansas City\, Mi
@@ -463,7 +463,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Washington Spirit @ Utah Royals
 DTSTART:20260730T010000Z
 DTEND:20260730T030000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853954@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nWashington Spirit at Utah Ro
  yals\nStatus: Scheduled\nVenue: America First Field\, Sandy\, Utah\nTV: NW
@@ -475,7 +475,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Gotham FC @ Bay FC
 DTSTART:20260730T020000Z
 DTEND:20260730T040000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853955@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nGotham FC at Bay FC\nStatus:
   Scheduled\nVenue: PayPal Park\, San Jose\, California\nTV: CBSSN\n\nFixtu
@@ -486,7 +486,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Orlando Pride @ North Carolina Courage
 DTSTART:20260801T000000Z
 DTEND:20260801T020000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853956@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nOrlando Pride at North Carol
  ina Courage\nStatus: Scheduled\nVenue: WakeMed Soccer Park\, Cary\, North 
@@ -499,7 +499,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Chicago Stars FC @ Racing Louisville FC
 DTSTART:20260801T200000Z
 DTEND:20260801T220000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853957@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nChicago Stars FC at Racing L
  ouisville FC\nStatus: Scheduled\nVenue: Lynn Family Stadium\, Louisville\,
@@ -512,7 +512,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Angel City FC @ Kansas City Current
 DTSTART:20260801T223000Z
 DTEND:20260802T003000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853958@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nAngel City FC at Kansas City
   Current\nStatus: Scheduled\nVenue: CPKC Stadium\, Kansas City\, Missouri\
@@ -525,7 +525,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Gotham FC @ Houston Dash
 DTSTART:20260802T000000Z
 DTEND:20260802T020000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853959@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nGotham FC at Houston Dash\nS
  tatus: Scheduled\nVenue: Shell Energy Stadium\, Houston\, Texas\nTV: NWSL+
@@ -537,7 +537,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Seattle Reign FC @ Bay FC
 DTSTART:20260802T004500Z
 DTEND:20260802T024500Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853960@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nSeattle Reign FC at Bay FC\n
  Status: Scheduled\nVenue: PayPal Park\, San Jose\, California\nTV: ION\n\n
@@ -549,7 +549,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Diego Wave FC @ Washington Spirit
 DTSTART:20260802T200000Z
 DTEND:20260802T220000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853961@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nSan Diego Wave FC at Washing
  ton Spirit\nStatus: Scheduled\nVenue: Audi Field\, Washington\, District o
@@ -562,7 +562,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Portland Thorns FC @ Utah Royals
 DTSTART:20260802T230000Z
 DTEND:20260803T010000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853962@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nPortland Thorns FC at Utah R
  oyals\nStatus: Scheduled\nVenue: America First Field\, Sandy\, Utah\nTV: V
@@ -574,7 +574,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Boston Legacy FC @ Denver Summit FC
 DTSTART:20260803T010000Z
 DTEND:20260803T030000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401854070@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nBoston Legacy FC at Denver S
  ummit FC\nStatus: Scheduled\nVenue: Centennial Stadium\, Centennial\nTV: E
@@ -587,7 +587,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Portland Thorns FC @ Washington Spirit (1–0)
 DTSTART:20260314T000000Z
 DTEND:20260314T020000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853857@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nPortland Thorns FC at Washin
  gton Spirit\nStatus: Full Time\nVenue: Audi Field\, Washington\, District 
@@ -600,7 +600,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Gotham FC @ Boston Legacy FC (1–0)
 DTSTART:20260314T163000Z
 DTEND:20260314T183000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401854039@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nGotham FC at Boston Legacy F
  C\nStatus: Full Time\nVenue: Gillette Stadium\, Foxborough\, Massachusetts
@@ -613,7 +613,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Utah Royals @ Kansas City Current (1–2)
 DTSTART:20260314T200000Z
 DTEND:20260314T220000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853858@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nUtah Royals at Kansas City C
  urrent\nStatus: Full Time\nVenue: CPKC Stadium\, Kansas City\, Missouri\nT
@@ -625,7 +625,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Denver Summit FC @ Bay FC (1–2)
 DTSTART:20260314T223000Z
 DTEND:20260315T003000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401854040@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nDenver Summit FC at Bay FC\n
  Status: Full Time\nVenue: PayPal Park\, San Jose\, California\nTV: ION\n\n
@@ -637,7 +637,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Racing Louisville FC @ North Carolina Courage (1–2)
 DTSTART:20260314T230000Z
 DTEND:20260315T010000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853859@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nRacing Louisville FC at Nort
  h Carolina Courage\nStatus: Full Time\nVenue: WakeMed Soccer Park\, Cary\,
@@ -650,7 +650,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Houston Dash @ San Diego Wave FC (1–0)
 DTSTART:20260315T004500Z
 DTEND:20260315T024500Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853860@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nHouston Dash at San Diego Wa
  ve FC\nStatus: Full Time\nVenue: Snapdragon Stadium\, San Diego\, Californ
@@ -663,7 +663,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Seattle Reign FC @ Orlando Pride (2–1)
 DTSTART:20260315T200000Z
 DTEND:20260315T220000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853861@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nSeattle Reign FC at Orlando 
  Pride\nStatus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\nTV:
@@ -676,7 +676,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Chicago Stars FC @ Angel City FC (0–4)
 DTSTART:20260315T230000Z
 DTEND:20260316T010000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853862@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nChicago Stars FC at Angel Ci
  ty FC\nStatus: Full Time\nVenue: BMO Stadium\, Los Angeles\, California\nT
@@ -689,7 +689,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Denver Summit FC @ Orlando Pride (1–1)
 DTSTART:20260321T000000Z
 DTEND:20260321T020000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401854041@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nDenver Summit FC at Orlando 
  Pride\nStatus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\nTV:
@@ -702,7 +702,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Washington Spirit @ Racing Louisville FC (2–2)
 DTSTART:20260321T000000Z
 DTEND:20260321T020000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853863@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nWashington Spirit at Racing 
  Louisville FC\nStatus: Full Time\nVenue: Lynn Family Stadium\, Louisville\
@@ -715,7 +715,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Seattle Reign FC @ Portland Thorns FC (0–2)
 DTSTART:20260321T020000Z
 DTEND:20260321T040000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853864@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nSeattle Reign FC at Portland
   Thorns FC\nStatus: Full Time\nVenue: Providence Park\, Portland\, Oregon\
@@ -728,7 +728,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Boston Legacy FC @ Houston Dash (0–3)
 DTSTART:20260321T200000Z
 DTEND:20260321T220000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401854042@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nBoston Legacy FC at Houston 
  Dash\nStatus: Full Time\nVenue: Shell Energy Stadium\, Houston\, Texas\nTV
@@ -740,7 +740,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ North Carolina Courage @ Gotham FC (0–0)
 DTSTART:20260321T223000Z
 DTEND:20260322T003000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853865@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nNorth Carolina Courage at Go
  tham FC\nStatus: Full Time\nVenue: Red Bull Arena\, Harrison\, New Jersey\
@@ -753,7 +753,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Angel City FC @ Bay FC (3–1)
 DTSTART:20260322T004500Z
 DTEND:20260322T024500Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853866@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nAngel City FC at Bay FC\nSta
  tus: Full Time\nVenue: PayPal Park\, San Jose\, California\nTV: ION\n\nFix
@@ -765,7 +765,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Kansas City Current @ Chicago Stars FC (1–2)
 DTSTART:20260322T180000Z
 DTEND:20260322T200000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853867@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nKansas City Current at Chica
  go Stars FC\nStatus: Full Time\nVenue: Northwestern Medicine Field at Mart
@@ -778,7 +778,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Diego Wave FC @ Utah Royals (2–1)
 DTSTART:20260322T230000Z
 DTEND:20260323T010000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853868@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nSan Diego Wave FC at Utah Ro
  yals\nStatus: Full Time\nVenue: America First Field\, Sandy\, Utah\nTV: Vi
@@ -790,7 +790,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Denver Summit FC @ Gotham FC (2–0)
 DTSTART:20260325T230000Z
 DTEND:20260326T010000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401854043@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nDenver Summit FC at Gotham F
  C\nStatus: Full Time\nVenue: Red Bull Arena\, Harrison\, New Jersey\nTV: V
@@ -802,7 +802,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Utah Royals @ Washington Spirit (1–1)
 DTSTART:20260325T230000Z
 DTEND:20260326T010000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853869@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nUtah Royals at Washington Sp
  irit\nStatus: Full Time\nVenue: Audi Field\, Washington\, District of Colu
@@ -815,7 +815,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Orlando Pride @ Chicago Stars FC (3–0)
 DTSTART:20260326T000000Z
 DTEND:20260326T020000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853870@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nOrlando Pride at Chicago Sta
  rs FC\nStatus: Full Time\nVenue: Northwestern Medicine Field at Martin Sta
@@ -828,7 +828,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Kansas City Current @ Seattle Reign FC (0–3)
 DTSTART:20260326T010000Z
 DTEND:20260326T030000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853871@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nKansas City Current at Seatt
  le Reign FC\nStatus: Full Time\nVenue: ONE Spokane Stadium\, Spokane\, Was
@@ -841,7 +841,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Portland Thorns FC @ San Diego Wave FC (1–3)
 DTSTART:20260326T020000Z
 DTEND:20260326T040000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853872@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nPortland Thorns FC at San Di
  ego Wave FC\nStatus: Full Time\nVenue: Snapdragon Stadium\, San Diego\, Ca
@@ -854,7 +854,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Houston Dash @ Angel City FC (1–2)
 DTSTART:20260328T020000Z
 DTEND:20260328T040000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853873@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nHouston Dash at Angel City F
  C\nStatus: Full Time\nVenue: BMO Stadium\, Los Angeles\, California\nTV: P
@@ -867,7 +867,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Utah Royals @ Boston Legacy FC (2–1)
 DTSTART:20260328T160000Z
 DTEND:20260328T180000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401854044@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nUtah Royals at Boston Legacy
   FC\nStatus: Full Time\nVenue: Gillette Stadium\, Foxborough\, Massachuset
@@ -880,7 +880,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Washington Spirit @ Denver Summit FC (0–0)
 DTSTART:20260328T180000Z
 DTEND:20260328T200000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401854045@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nWashington Spirit at Denver 
  Summit FC\nStatus: Full Time\nVenue: Empower Field at Mile High\, Denver\,
@@ -893,7 +893,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Kansas City Current @ Portland Thorns FC (0–2)
 DTSTART:20260328T200000Z
 DTEND:20260328T220000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853874@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nKansas City Current at Portl
  and Thorns FC\nStatus: Full Time\nVenue: Providence Park\, Portland\, Oreg
@@ -906,7 +906,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Racing Louisville FC @ Seattle Reign FC (1–2)
 DTSTART:20260328T223000Z
 DTEND:20260329T003000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853875@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nRacing Louisville FC at Seat
  tle Reign FC\nStatus: Full Time\nVenue: ONE Spokane Stadium\, Spokane\, Wa
@@ -919,7 +919,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bay FC @ North Carolina Courage (3–1)
 DTSTART:20260328T230000Z
 DTEND:20260329T010000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853876@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nBay FC at North Carolina Cou
  rage\nStatus: Full Time\nVenue: WakeMed Soccer Park\, Cary\, North Carolin
@@ -932,7 +932,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Chicago Stars FC @ San Diego Wave FC (0–2)
 DTSTART:20260329T004500Z
 DTEND:20260329T024500Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853877@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nChicago Stars FC at San Dieg
  o Wave FC\nStatus: Full Time\nVenue: Snapdragon Stadium\, San Diego\, Cali
@@ -945,7 +945,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Orlando Pride @ Gotham FC (0–0)
 DTSTART:20260329T230000Z
 DTEND:20260330T010000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853878@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nOrlando Pride at Gotham FC\n
  Status: Full Time\nVenue: Red Bull Arena\, Harrison\, New Jersey\nTV: Vict
@@ -957,7 +957,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Diego Wave FC @ Boston Legacy FC (1–0)
 DTSTART:20260403T230000Z
 DTEND:20260404T010000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401854046@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nSan Diego Wave FC at Boston 
  Legacy FC\nStatus: Full Time\nVenue: Gillette Stadium\, Foxborough\, Massa
@@ -970,7 +970,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Angel City FC @ Orlando Pride (1–2)
 DTSTART:20260404T000000Z
 DTEND:20260404T020000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853879@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nAngel City FC at Orlando Pri
  de\nStatus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\nTV: Pr
@@ -983,7 +983,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Racing Louisville FC @ Houston Dash (3–4)
 DTSTART:20260404T003000Z
 DTEND:20260404T023000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853880@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nRacing Louisville FC at Hous
  ton Dash\nStatus: Full Time\nVenue: Shell Energy Stadium\, Houston\, Texas
@@ -996,7 +996,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Chicago Stars FC @ Utah Royals (0–1)
 DTSTART:20260404T010000Z
 DTEND:20260404T030000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853881@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nChicago Stars FC at Utah Roy
  als\nStatus: Full Time\nVenue: America First Field\, Sandy\, Utah\nTV: NWS
@@ -1008,7 +1008,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Gotham FC @ Kansas City Current (1–2)
 DTSTART:20260404T200000Z
 DTEND:20260404T220000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853882@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nGotham FC at Kansas City Cur
  rent\nStatus: Full Time\nVenue: CPKC Stadium\, Kansas City\, Missouri\nTV:
@@ -1021,7 +1021,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Portland Thorns FC @ North Carolina Courage (2–2)
 DTSTART:20260404T223000Z
 DTEND:20260405T003000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853883@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nPortland Thorns FC at North 
  Carolina Courage\nStatus: Full Time\nVenue: WakeMed Soccer Park\, Cary\, N
@@ -1034,7 +1034,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Denver Summit FC @ Seattle Reign FC (0–0)
 DTSTART:20260405T004500Z
 DTEND:20260405T024500Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401854047@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nDenver Summit FC at Seattle 
  Reign FC\nStatus: Full Time\nVenue: ONE Spokane Stadium\, Spokane\, Washin
@@ -1047,7 +1047,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Washington Spirit @ Bay FC (2–0)
 DTSTART:20260405T210000Z
 DTEND:20260405T230000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853884@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nWashington Spirit at Bay FC\
  nStatus: Full Time\nVenue: PayPal Park\, San Jose\, California\nTV: ESPN2\
@@ -1060,7 +1060,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Orlando Pride @ Racing Louisville FC (2–3)
 DTSTART:20260424T213000Z
 DTEND:20260424T233000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853885@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nOrlando Pride at Racing Loui
  sville FC\nStatus: Full Time\nVenue: Lynn Family Stadium\, Louisville\, Ke
@@ -1073,7 +1073,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Kansas City Current @ Washington Spirit (0–4)
 DTSTART:20260425T000000Z
 DTEND:20260425T020000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853886@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nKansas City Current at Washi
  ngton Spirit\nStatus: Full Time\nVenue: Audi Field\, Washington\, District
@@ -1086,7 +1086,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bay FC @ Gotham FC (0–3)
 DTSTART:20260425T170000Z
 DTEND:20260425T190000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853887@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nBay FC at Gotham FC\nStatus:
   Full Time\nVenue: Red Bull Arena\, Harrison\, New Jersey\nTV: CBS\, Param
@@ -1097,7 +1097,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Boston Legacy FC @ Chicago Stars FC (0–2)
 DTSTART:20260425T223000Z
 DTEND:20260426T003000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401854048@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nBoston Legacy FC at Chicago 
  Stars FC\nStatus: Full Time\nVenue: Northwestern Medicine Field at Martin 
@@ -1110,7 +1110,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ North Carolina Courage @ Houston Dash (1–0)
 DTSTART:20260426T000000Z
 DTEND:20260426T020000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853888@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nNorth Carolina Courage at Ho
  uston Dash\nStatus: Full Time\nVenue: Shell Energy Stadium\, Houston\, Tex
@@ -1123,7 +1123,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Diego Wave FC @ Denver Summit FC (3–2)
 DTSTART:20260426T004500Z
 DTEND:20260426T024500Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401854049@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nSan Diego Wave FC at Denver 
  Summit FC\nStatus: Full Time\nVenue: Dick's Sporting Goods Park\, Commerce
@@ -1136,7 +1136,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Portland Thorns FC @ Angel City FC (2–1)
 DTSTART:20260426T220000Z
 DTEND:20260427T000000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853889@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nPortland Thorns FC at Angel 
  City FC\nStatus: Full Time\nVenue: BMO Stadium\, Los Angeles\, California\
@@ -1149,7 +1149,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Utah Royals @ Seattle Reign FC (3–0)
 DTSTART:20260427T000000Z
 DTEND:20260427T020000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853890@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nUtah Royals at Seattle Reign
   FC\nStatus: Full Time\nVenue: Lumen Field\, Seattle\, Washington\nTV: Vic
@@ -1161,7 +1161,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ North Carolina Courage @ Boston Legacy FC (2–2)
 DTSTART:20260429T230000Z
 DTEND:20260430T010000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401854050@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nNorth Carolina Courage at Bo
  ston Legacy FC\nStatus: Full Time\nVenue: Gillette Stadium\, Foxborough\, 
@@ -1174,7 +1174,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Racing Louisville FC @ Washington Spirit (0–1)
 DTSTART:20260429T230000Z
 DTEND:20260430T010000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853891@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nRacing Louisville FC at Wash
  ington Spirit\nStatus: Full Time\nVenue: Audi Field\, Washington\, Distric
@@ -1187,7 +1187,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Gotham FC @ Chicago Stars FC (2–0)
 DTSTART:20260430T000000Z
 DTEND:20260430T020000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853892@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nGotham FC at Chicago Stars F
  C\nStatus: Full Time\nVenue: Northwestern Medicine Field at Martin Stadium
@@ -1200,7 +1200,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Diego Wave FC @ Portland Thorns FC (0–2)
 DTSTART:20260430T020000Z
 DTEND:20260430T040000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853893@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nSan Diego Wave FC at Portlan
  d Thorns FC\nStatus: Full Time\nVenue: Providence Park\, Portland\, Oregon
@@ -1213,7 +1213,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Seattle Reign FC @ Houston Dash (0–0)
 DTSTART:20260502T000000Z
 DTEND:20260502T020000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853894@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nSeattle Reign FC at Houston 
  Dash\nStatus: Full Time\nVenue: Shell Energy Stadium\, Houston\, Texas\nTV
@@ -1226,7 +1226,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Washington Spirit @ Orlando Pride (4–2)
 DTSTART:20260502T200000Z
 DTEND:20260502T220000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853895@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nWashington Spirit at Orlando
   Pride\nStatus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\nTV
@@ -1238,7 +1238,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Kansas City Current @ North Carolina Courage (2–1)
 DTSTART:20260502T223000Z
 DTEND:20260503T003000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853896@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nKansas City Current at North
   Carolina Courage\nStatus: Full Time\nVenue: WakeMed Soccer Park\, Cary\, 
@@ -1251,7 +1251,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Utah Royals @ Angel City FC (1–0)
 DTSTART:20260503T004500Z
 DTEND:20260503T024500Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853897@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nUtah Royals at Angel City FC
  \nStatus: Full Time\nVenue: BMO Stadium\, Los Angeles\, California\nTV: IO
@@ -1263,7 +1263,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Portland Thorns FC @ Chicago Stars FC (2–0)
 DTSTART:20260503T170000Z
 DTEND:20260503T190000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853898@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nPortland Thorns FC at Chicag
  o Stars FC\nStatus: Full Time\nVenue: Northwestern Medicine Field at Marti
@@ -1276,7 +1276,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Denver Summit FC @ Boston Legacy FC (2–3)
 DTSTART:20260503T190000Z
 DTEND:20260503T210000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401854051@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nDenver Summit FC at Boston L
  egacy FC\nStatus: Full Time\nVenue: Gillette Stadium\, Foxborough\, Massac
@@ -1289,7 +1289,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Racing Louisville FC @ Gotham FC (0–1)
 DTSTART:20260503T210000Z
 DTEND:20260503T230000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853899@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nRacing Louisville FC at Goth
  am FC\nStatus: Full Time\nVenue: Red Bull Arena\, Harrison\, New Jersey\nT
@@ -1302,7 +1302,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bay FC @ San Diego Wave FC (1–0)
 DTSTART:20260503T230000Z
 DTEND:20260504T010000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853900@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nBay FC at San Diego Wave FC\
  nStatus: Full Time\nVenue: Snapdragon Stadium\, San Diego\, California\nTV
@@ -1315,7 +1315,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Houston Dash @ Utah Royals (0–2)
 DTSTART:20260507T020000Z
 DTEND:20260507T040000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853901@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nHouston Dash at Utah Royals\
  nStatus: Full Time\nVenue: America First Field\, Sandy\, Utah\nTV: CBSSN\n
@@ -1327,7 +1327,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Portland Thorns FC @ Racing Louisville FC (1–3)
 DTSTART:20260508T223000Z
 DTEND:20260509T003000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853902@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nPortland Thorns FC at Racing
   Louisville FC\nStatus: Full Time\nVenue: Lynn Family Stadium\, Louisville
@@ -1340,7 +1340,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ North Carolina Courage @ Orlando Pride (0–1)
 DTSTART:20260509T000000Z
 DTEND:20260509T020000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853903@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nNorth Carolina Courage at Or
  lando Pride\nStatus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florid
@@ -1353,7 +1353,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Boston Legacy FC @ Gotham FC (1–1)
 DTSTART:20260509T223000Z
 DTEND:20260510T003000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401854052@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nBoston Legacy FC at Gotham F
  C\nStatus: Full Time\nVenue: Red Bull Arena\, Harrison\, New Jersey\nTV: I
@@ -1365,7 +1365,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Denver Summit FC @ Houston Dash (4–1)
 DTSTART:20260510T000000Z
 DTEND:20260510T020000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401854053@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nDenver Summit FC at Houston 
  Dash\nStatus: Full Time\nVenue: Shell Energy Stadium\, Houston\, Texas\nTV
@@ -1377,7 +1377,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Diego Wave FC @ Angel City FC (2–1)
 DTSTART:20260510T004500Z
 DTEND:20260510T024500Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853904@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nSan Diego Wave FC at Angel C
  ity FC\nStatus: Full Time\nVenue: BMO Stadium\, Los Angeles\, California\n
@@ -1389,7 +1389,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Chicago Stars FC @ Kansas City Current (0–3)
 DTSTART:20260510T162500Z
 DTEND:20260510T182500Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853905@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nChicago Stars FC at Kansas C
  ity Current\nStatus: Full Time\nVenue: CPKC Stadium\, Kansas City\, Missou
@@ -1402,7 +1402,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Utah Royals @ Bay FC (0–0)
 DTSTART:20260510T200000Z
 DTEND:20260510T220000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853906@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nUtah Royals at Bay FC\nStatu
  s: Full Time\nVenue: PayPal Park\, San Jose\, California\nTV: Victory+\n\n
@@ -1414,7 +1414,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Washington Spirit @ Seattle Reign FC (1–0)
 DTSTART:20260510T230000Z
 DTEND:20260511T010000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853907@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nWashington Spirit at Seattle
   Reign FC\nStatus: Full Time\nVenue: Lumen Field\, Seattle\, Washington\nT
@@ -1427,7 +1427,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Orlando Pride @ Boston Legacy FC (1–2)
 DTSTART:20260512T230000Z
 DTEND:20260513T010000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401854054@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nOrlando Pride at Boston Lega
  cy FC\nStatus: Full Time\nVenue: Gillette Stadium\, Foxborough\, Massachus
@@ -1440,7 +1440,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Houston Dash @ Kansas City Current (0–3)
 DTSTART:20260516T000000Z
 DTEND:20260516T020000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853908@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nHouston Dash at Kansas City 
  Current\nStatus: Full Time\nVenue: CPKC Stadium\, Kansas City\, Missouri\n
@@ -1453,7 +1453,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Boston Legacy FC @ Bay FC (1–1)
 DTSTART:20260516T020000Z
 DTEND:20260516T040000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401854055@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nBoston Legacy FC at Bay FC\n
  Status: Full Time\nVenue: PayPal Park\, San Jose\, California\nTV: Victory
@@ -1465,7 +1465,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Washington Spirit @ San Diego Wave FC (1–2)
 DTSTART:20260516T020000Z
 DTEND:20260516T040000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853909@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nWashington Spirit at San Die
  go Wave FC\nStatus: Full Time\nVenue: Snapdragon Stadium\, San Diego\, Cal
@@ -1478,7 +1478,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Gotham FC @ Seattle Reign FC (2–0)
 DTSTART:20260516T020000Z
 DTEND:20260516T040000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853910@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nGotham FC at Seattle Reign F
  C\nStatus: Full Time\nVenue: Lumen Field\, Seattle\, Washington\nTV: Victo
@@ -1490,7 +1490,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Chicago Stars FC @ North Carolina Courage (0–4)
 DTSTART:20260516T223000Z
 DTEND:20260517T003000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853911@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nChicago Stars FC at North Ca
  rolina Courage\nStatus: Full Time\nVenue: WakeMed Soccer Park\, Cary\, Nor
@@ -1503,7 +1503,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Orlando Pride @ Denver Summit FC (1–3)
 DTSTART:20260517T004500Z
 DTEND:20260517T024500Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401854056@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nOrlando Pride at Denver Summ
  it FC\nStatus: Full Time\nVenue: Dick's Sporting Goods Park\, Commerce Cit
@@ -1516,7 +1516,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Angel City FC @ Portland Thorns FC (0–0)
 DTSTART:20260517T220000Z
 DTEND:20260518T000000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853912@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nAngel City FC at Portland Th
  orns FC\nStatus: Full Time\nVenue: Providence Park\, Portland\, Oregon\nTV
@@ -1529,7 +1529,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Racing Louisville FC @ Utah Royals (1–2)
 DTSTART:20260518T000000Z
 DTEND:20260518T020000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853913@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nRacing Louisville FC at Utah
   Royals\nStatus: Full Time\nVenue: America First Field\, Sandy\, Utah\nTV:
@@ -1542,7 +1542,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Diego Wave FC @ Houston Dash (2–2)
 DTSTART:20260521T000000Z
 DTEND:20260521T020000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853914@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nSan Diego Wave FC at Houston
   Dash\nStatus: Full Time\nVenue: Shell Energy Stadium\, Houston\, Texas\nT
@@ -1555,7 +1555,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Kansas City Current @ Angel City FC (1–2)
 DTSTART:20260521T020000Z
 DTEND:20260521T040000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853916@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nKansas City Current at Angel
   City FC\nStatus: Full Time\nVenue: BMO Stadium\, Los Angeles\, California
@@ -1568,7 +1568,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bay FC @ Portland Thorns FC (0–2)
 DTSTART:20260521T020000Z
 DTEND:20260521T040000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853915@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nBay FC at Portland Thorns FC
  \nStatus: Full Time\nVenue: Providence Park\, Portland\, Oregon\nTV: Victo
@@ -1580,7 +1580,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Seattle Reign FC @ Boston Legacy FC (2–1)
 DTSTART:20260523T000000Z
 DTEND:20260523T020000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401854057@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nSeattle Reign FC at Boston L
  egacy FC\nStatus: Full Time\nVenue: Centreville Bank Stadium\, Pawtucket\,
@@ -1593,7 +1593,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ North Carolina Courage @ Racing Louisville FC (2–1)
 DTSTART:20260523T200000Z
 DTEND:20260523T220000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853917@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nNorth Carolina Courage at Ra
  cing Louisville FC\nStatus: Full Time\nVenue: Lynn Family Stadium\, Louisv
@@ -1606,7 +1606,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Denver Summit FC @ Utah Royals (1–2)
 DTSTART:20260523T223000Z
 DTEND:20260524T003000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401854058@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nDenver Summit FC at Utah Roy
  als\nStatus: Full Time\nVenue: America First Field\, Sandy\, Utah\nTV: ION
@@ -1618,7 +1618,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Angel City FC @ Houston Dash (1–2)
 DTSTART:20260524T004500Z
 DTEND:20260524T024500Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853918@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nAngel City FC at Houston Das
  h\nStatus: Full Time\nVenue: Shell Energy Stadium\, Houston\, Texas\nTV: I
@@ -1630,7 +1630,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Portland Thorns FC @ Kansas City Current (1–3)
 DTSTART:20260524T170000Z
 DTEND:20260524T190000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853919@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nPortland Thorns FC at Kansas
   City Current\nStatus: Full Time\nVenue: CPKC Stadium\, Kansas City\, Miss
@@ -1643,7 +1643,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Chicago Stars FC @ Bay FC (1–0)
 DTSTART:20260524T210000Z
 DTEND:20260524T230000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853920@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nChicago Stars FC at Bay FC\n
  Status: Full Time\nVenue: PayPal Park\, San Jose\, California\nTV: ESPN2\,
@@ -1656,7 +1656,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Orlando Pride @ San Diego Wave FC (1–0)
 DTSTART:20260524T230000Z
 DTEND:20260525T010000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853921@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nOrlando Pride at San Diego W
  ave FC\nStatus: Full Time\nVenue: Snapdragon Stadium\, San Diego\, Califor
@@ -1669,7 +1669,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bay FC @ Orlando Pride (1–3)
 DTSTART:20260529T230000Z
 DTEND:20260530T010000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853922@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nBay FC at Orlando Pride\nSta
  tus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\nTV: NWSL+\n\n
@@ -1681,7 +1681,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Denver Summit FC @ Racing Louisville FC (1–0)
 DTSTART:20260530T000000Z
 DTEND:20260530T020000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401854059@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nDenver Summit FC at Racing L
  ouisville FC\nStatus: Full Time\nVenue: Lynn Family Stadium\, Louisville\,
@@ -1694,7 +1694,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Boston Legacy FC @ Kansas City Current (0–1)
 DTSTART:20260530T173000Z
 DTEND:20260530T193000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401854060@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nBoston Legacy FC at Kansas C
  ity Current\nStatus: Full Time\nVenue: CPKC Stadium\, Kansas City\, Missou
@@ -1707,7 +1707,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Utah Royals @ Portland Thorns FC (2–2)
 DTSTART:20260530T200000Z
 DTEND:20260530T220000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853923@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nUtah Royals at Portland Thor
  ns FC\nStatus: Full Time\nVenue: Providence Park\, Portland\, Oregon\nTV: 
@@ -1719,7 +1719,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Seattle Reign FC @ Washington Spirit (1–2)
 DTSTART:20260530T223000Z
 DTEND:20260531T003000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853924@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nSeattle Reign FC at Washingt
  on Spirit\nStatus: Full Time\nVenue: Audi Field\, Washington\, District of
@@ -1732,7 +1732,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Diego Wave FC @ Chicago Stars FC (2–0)
 DTSTART:20260531T170000Z
 DTEND:20260531T190000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853925@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nSan Diego Wave FC at Chicago
   Stars FC\nStatus: Full Time\nVenue: Northwestern Medicine Field at Martin
@@ -1745,7 +1745,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Houston Dash @ Gotham FC (0–1)
 DTSTART:20260531T190000Z
 DTEND:20260531T210000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853926@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nHouston Dash at Gotham FC\nS
  tatus: Full Time\nVenue: Red Bull Arena\, Harrison\, New Jersey\nTV: ESPN 
@@ -1758,7 +1758,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ North Carolina Courage @ Angel City FC (2–1)
 DTSTART:20260531T230000Z
 DTEND:20260601T010000Z
-DTSTAMP:20260603T125057Z
+DTSTAMP:20260603T131517Z
 UID:espn-nwsl-401853927@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nNorth Carolina Courage at An
  gel City FC\nStatus: Full Time\nVenue: BMO Stadium\, Los Angeles\, Califor
