@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Las Vegas Aces 105–78 Los Angeles Sparks ✓ 🏠
 DTSTART:20260510T220000Z
 DTEND:20260511T003000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401856898-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nLas Vegas Aces at Los Angeles Sparks\n
  Status: Final\nFinal score: Las Vegas Aces 105 – Los Angeles Sparks 78\n
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Indiana Fever 87–78 Los Angeles Sparks ✓ 🏠
 DTSTART:20260514T023000Z
 DTEND:20260514T050000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401856907-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nIndiana Fever at Los Angeles Sparks\nS
  tatus: Final\nFinal score: Indiana Fever 87 – Los Angeles Sparks 78\nWat
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo 95–99 Los Angeles Sparks ✓ 🏠
 DTSTART:20260516T020000Z
 DTEND:20260516T043000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401856912-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nToronto Tempo at Los Angeles Sparks\nS
  tatus: Final\nFinal score: Toronto Tempo 95 – Los Angeles Sparks 99\nWat
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo 106–96 Los Angeles Sparks ✓ 🏠
 DTSTART:20260517T230000Z
 DTEND:20260518T013000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401856917-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nToronto Tempo at Los Angeles Sparks\nS
  tatus: Final\nFinal score: Toronto Tempo 106 – Los Angeles Sparks 96\nWa
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks 97–88 Phoenix Mercury ✓
 DTSTART:20260522T020000Z
 DTEND:20260522T043000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401856926-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nLos Angeles Sparks at Phoenix Mercury\
  nStatus: Final\nFinal score: Los Angeles Sparks 97 – Phoenix Mercury 88\
@@ -80,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks 101–95 Las Vegas Aces ✓
 DTSTART:20260524T000000Z
 DTEND:20260524T023000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401856932-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nLos Angeles Sparks at Las Vegas Aces\n
  Status: Final\nFinal score: Los Angeles Sparks 101 – Las Vegas Aces 95\n
@@ -90,46 +90,43 @@ LOCATION:Michelob ULTRA Arena\, Las Vegas
 URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Los Angeles Sparks @ Washington Mystics
+SUMMARY:🏀 Los Angeles Sparks 92–87 Washington Mystics ✓
 DTSTART:20260529T233000Z
 DTEND:20260530T020000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401856946-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nLos Angeles Sparks at Washington Mysti
- cs\nStatus: Scheduled\nWatch: ION · WNBA League Pass\nVenue: CareFirst Ar
- ena\, Washington\nTickets: https://www.vividseats.com/washington-mystics-t
- ickets-washington-carefirst-arena-5-29-2026/production/6559470?wsUser=717\
- n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+ cs\nStatus: Final\nFinal score: Los Angeles Sparks 92 – Washington Mysti
+ cs 87\nWatch: ION · WNBA League Pass\nVenue: CareFirst Arena\, Washington
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
 LOCATION:CareFirst Arena\, Washington
 URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Los Angeles Sparks @ Connecticut Sun
+SUMMARY:🏀 Los Angeles Sparks 81–84 Connecticut Sun ✓
 DTSTART:20260530T220000Z
 DTEND:20260531T003000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401856950-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nLos Angeles Sparks at Connecticut Sun\
- nStatus: Scheduled\nWatch: WNBA League Pass · Spectrum Sports Net · NBC 
- Sports BO\nVenue: PeoplesBank Arena\, Hartford\nTickets: https://www.vivid
- seats.com/connecticut-sun-tickets-hartford-peoplesbank-arena-5-30-2026/pro
- duction/6559541?wsUser=717\n\nFixtures by HerFixtures.com — Women's Spor
- ts on Your Calendar
+ nStatus: Final\nFinal score: Los Angeles Sparks 81 – Connecticut Sun 84\
+ nWatch: WNBA League Pass · Spectrum Sports Net · NBC Sports BO\nVenue: P
+ eoplesBank Arena\, Hartford\n\nFixtures by HerFixtures.com — Women's Spo
+ rts on Your Calendar
 LOCATION:PeoplesBank Arena\, Hartford
 URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Las Vegas Aces @ Los Angeles Sparks 🏠
+SUMMARY:🏀 Las Vegas Aces 79–69 Los Angeles Sparks ✓ 🏠
 DTSTART:20260603T020000Z
 DTEND:20260603T043000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401856958-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nLas Vegas Aces at Los Angeles Sparks\n
- Status: Scheduled\nWatch: WNBA League Pass · Vegas 34 · Spectrum Sports 
- Net\nVenue: crypto.com Arena\, Los Angeles\nTickets: https://www.vividseat
- s.com/los-angeles-sparks-tickets-cryptocom-arena-6-2-2026--sports-wnba/pro
- duction/6559387?wsUser=717\n\nFixtures by HerFixtures.com — Women's Spor
- ts on Your Calendar
+ Status: Final\nFinal score: Las Vegas Aces 79 – Los Angeles Sparks 69\nW
+ atch: WNBA League Pass · Vegas 34 · Spectrum Sports Net\nVenue: crypto.c
+ om Arena\, Los Angeles\n\nFixtures by HerFixtures.com — Women's Sports o
+ n Your Calendar
 LOCATION:crypto.com Arena\, Los Angeles
 URL:https://herfixtures.com
 END:VEVENT
@@ -137,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Dallas Wings @ Los Angeles Sparks 🏠
 DTSTART:20260606T020000Z
 DTEND:20260606T043000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401856964-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nDallas Wings at Los Angeles Sparks\nSt
  atus: Scheduled\nWatch: ION · WNBA League Pass\nVenue: crypto.com Arena\,
@@ -151,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Los Angeles Sparks 🏠
 DTSTART:20260607T230000Z
 DTEND:20260608T013000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401856971-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nPortland Fire at Los Angeles Sparks\nS
  tatus: Scheduled\nWatch: NBA TV · Spectrum Sports Net · Fox 12 Plus\nVen
@@ -166,7 +163,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Seattle Storm
 DTSTART:20260611T020000Z
 DTEND:20260611T043000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401856979-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nLos Angeles Sparks at Seattle Storm\nS
  tatus: Scheduled\nWatch: USA Net · CW Seattle · Prime Video-Seattle · S
@@ -181,14 +178,14 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Phoenix Mercury
 DTSTART:20260614T020000Z
 DTEND:20260614T043000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401856989-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nLos Angeles Sparks at Phoenix Mercury\
- nStatus: Scheduled\nWatch: Arizona's Family 3TV · Spectrum Sports Net\nVe
- nue: Mortgage Matchup Center\, Phoenix\nTickets: https://www.vividseats.co
- m/phoenix-mercury-tickets-mortgage-matchup-center-6-13-2026--sports-wnba/p
- roduction/6558988?wsUser=717\n\nFixtures by HerFixtures.com — Women's Sp
- orts on Your Calendar
+ nStatus: Scheduled\nWatch: WNBA League Pass · Spectrum Sports Net · Ariz
+ ona's Family 3TV · Merc+\nVenue: Mortgage Matchup Center\, Phoenix\nTicke
+ ts: https://www.vividseats.com/phoenix-mercury-tickets-mortgage-matchup-ce
+ nter-6-13-2026--sports-wnba/production/6558988?wsUser=717\n\nFixtures by H
+ erFixtures.com — Women's Sports on Your Calendar
 LOCATION:Mortgage Matchup Center\, Phoenix
 URL:https://herfixtures.com
 END:VEVENT
@@ -196,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Golden State Valkyries
 DTSTART:20260616T020000Z
 DTEND:20260616T043000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401856994-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nLos Angeles Sparks at Golden State Val
  kyries\nStatus: Scheduled\nWatch: Peacock · NBCSN · Spectrum Sports Net\
@@ -211,14 +208,14 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx @ Los Angeles Sparks 🏠
 DTSTART:20260618T020000Z
 DTEND:20260618T043000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401856999-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nMinnesota Lynx at Los Angeles Sparks\n
- Status: Scheduled\nWatch: Spectrum Sports Net · Victory+ MIN\nVenue: cryp
- to.com Arena\, Los Angeles\nTickets: https://www.vividseats.com/los-angele
- s-sparks-tickets-cryptocom-arena-6-17-2026--sports-wnba/production/6559452
- ?wsUser=717\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
- ndar
+ Status: Scheduled\nWatch: WNBA League Pass · Victory+ MIN · Spectrum Spo
+ rts Net\nVenue: crypto.com Arena\, Los Angeles\nTickets: https://www.vivid
+ seats.com/los-angeles-sparks-tickets-cryptocom-arena-6-17-2026--sports-wnb
+ a/production/6559452?wsUser=717\n\nFixtures by HerFixtures.com — Women's
+  Sports on Your Calendar
 LOCATION:crypto.com Arena\, Los Angeles
 URL:https://herfixtures.com
 END:VEVENT
@@ -226,7 +223,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 New York Liberty @ Los Angeles Sparks 🏠
 DTSTART:20260622T000000Z
 DTEND:20260622T023000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401857011-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nNew York Liberty at Los Angeles Sparks
  \nStatus: Scheduled\nWatch: ESPN\nVenue: crypto.com Arena\, Los Angeles\nT
@@ -240,7 +237,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Toronto Tempo
 DTSTART:20260625T230000Z
 DTEND:20260626T013000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401857021-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nLos Angeles Sparks at Toronto Tempo\nS
  tatus: Scheduled\nWatch: Prime Video · Spectrum Sports Net\nVenue: Coca-C
@@ -254,7 +251,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Indiana Fever
 DTSTART:20260628T000000Z
 DTEND:20260628T023000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401857028-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nLos Angeles Sparks at Indiana Fever\nS
  tatus: Scheduled\nWatch: CBS · Paramount+\nVenue: Gainbridge Fieldhouse\,
@@ -268,7 +265,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Seattle Storm @ Los Angeles Sparks 🏠
 DTSTART:20260707T020000Z
 DTEND:20260707T043000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401857045-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nSeattle Storm at Los Angeles Sparks\nS
  tatus: Scheduled\nWatch: USA Net · Spectrum Sports Net · CW Seattle · P
@@ -283,7 +280,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Indiana Fever @ Los Angeles Sparks 🏠
 DTSTART:20260709T020000Z
 DTEND:20260709T043000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401857050-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nIndiana Fever at Los Angeles Sparks\nS
  tatus: Scheduled\nWatch: USA Net · Spectrum Sports Net · WTHR Channel 13
@@ -298,7 +295,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky @ Los Angeles Sparks 🏠
 DTSTART:20260711T020000Z
 DTEND:20260711T043000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401857056-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nChicago Sky at Los Angeles Sparks\nSta
  tus: Scheduled\nWatch: ION\nVenue: crypto.com Arena\, Los Angeles\nTickets
@@ -312,7 +309,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Atlanta Dream
 DTSTART:20260713T230000Z
 DTEND:20260714T013000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401857064-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nLos Angeles Sparks at Atlanta Dream\nS
  tatus: Scheduled\nWatch: USA Net · Atlanta News First · Victory+ ATL · 
@@ -327,7 +324,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Minnesota Lynx
 DTSTART:20260715T170000Z
 DTEND:20260715T193000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401857069-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nLos Angeles Sparks at Minnesota Lynx\n
  Status: Scheduled\nWatch: Spectrum Sports Net · Victory+ MIN\nVenue: Targ
@@ -341,7 +338,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Chicago Sky
 DTSTART:20260717T233000Z
 DTEND:20260718T020000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401857075-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nLos Angeles Sparks at Chicago Sky\nSta
  tus: Scheduled\nWatch: ION\nVenue: Wintrust Arena\, Chicago\nTickets: http
@@ -355,7 +352,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Dallas Wings
 DTSTART:20260719T170000Z
 DTEND:20260719T193000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401857080-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nLos Angeles Sparks at Dallas Wings\nSt
  atus: Scheduled\nWatch: ABC\nVenue: College Park Center\, Arlington\nTicke
@@ -369,14 +366,14 @@ BEGIN:VEVENT
 SUMMARY:🏀 Phoenix Mercury @ Los Angeles Sparks 🏠
 DTSTART:20260722T190000Z
 DTEND:20260722T213000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401857086-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nPhoenix Mercury at Los Angeles Sparks\
- nStatus: Scheduled\nWatch: Spectrum Sports Net · Arizona's Family 3TV\nVe
- nue: crypto.com Arena\, Los Angeles\nTickets: https://www.vividseats.com/l
- os-angeles-sparks-tickets-cryptocom-arena-7-22-2026--sports-wnba/productio
- n/6559531?wsUser=717\n\nFixtures by HerFixtures.com — Women's Sports on 
- Your Calendar
+ nStatus: Scheduled\nWatch: Spectrum Sports Net · Arizona's Family 3TV · 
+ Merc+\nVenue: crypto.com Arena\, Los Angeles\nTickets: https://www.vividse
+ ats.com/los-angeles-sparks-tickets-cryptocom-arena-7-22-2026--sports-wnba/
+ production/6559531?wsUser=717\n\nFixtures by HerFixtures.com — Women's S
+ ports on Your Calendar
 LOCATION:crypto.com Arena\, Los Angeles
 URL:https://herfixtures.com
 END:VEVENT
@@ -384,7 +381,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 New York Liberty @ Los Angeles Sparks 🏠
 DTSTART:20260729T020000Z
 DTEND:20260729T043000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401857096-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nNew York Liberty at Los Angeles Sparks
  \nStatus: Scheduled\nWatch: WWOR-TV · Liberty Live · Spectrum Sports Net
@@ -399,7 +396,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Portland Fire
 DTSTART:20260802T193000Z
 DTEND:20260802T220000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401857108-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nLos Angeles Sparks at Portland Fire\nS
  tatus: Scheduled\nWatch: NBC · Peacock\nVenue: Moda Center\, Portland\nTi
@@ -413,7 +410,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Chicago Sky
 DTSTART:20260806T010000Z
 DTEND:20260806T033000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401857118-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nLos Angeles Sparks at Chicago Sky\nSta
  tus: Scheduled\nWatch: USA Net · CW26 · Spectrum Sports Net\nVenue: Wint
@@ -427,7 +424,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Minnesota Lynx
 DTSTART:20260807T010000Z
 DTEND:20260807T033000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401857120-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nLos Angeles Sparks at Minnesota Lynx\n
  Status: Scheduled\nWatch: Prime Video\nVenue: Target Center\, Minneapolis\
@@ -441,7 +438,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Golden State Valkyries @ Los Angeles Sparks 🏠
 DTSTART:20260809T230000Z
 DTEND:20260810T013000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401857131-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nGolden State Valkyries at Los Angeles 
  Sparks\nStatus: Scheduled\nWatch: ESPN\nVenue: crypto.com Arena\, Los Ange
@@ -455,14 +452,14 @@ BEGIN:VEVENT
 SUMMARY:🏀 Phoenix Mercury @ Los Angeles Sparks 🏠
 DTSTART:20260812T020000Z
 DTEND:20260812T043000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401857136-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nPhoenix Mercury at Los Angeles Sparks\
- nStatus: Scheduled\nWatch: Spectrum Sports Net · AZ Family Sports Net\nVe
- nue: Galen Center\, Los Angeles\nTickets: https://www.vividseats.com/los-a
- ngeles-sparks-tickets-cryptocom-arena-8-11-2026--sports-wnba/production/65
- 59592?wsUser=717\n\nFixtures by HerFixtures.com — Women's Sports on Your
-  Calendar
+ nStatus: Scheduled\nWatch: Spectrum Sports Net · AZ Family Sports Net · 
+ Merc+\nVenue: Galen Center\, Los Angeles\nTickets: https://www.vividseats.
+ com/los-angeles-sparks-tickets-cryptocom-arena-8-11-2026--sports-wnba/prod
+ uction/6559592?wsUser=717\n\nFixtures by HerFixtures.com — Women's Sport
+ s on Your Calendar
 LOCATION:Galen Center\, Los Angeles
 URL:https://herfixtures.com
 END:VEVENT
@@ -470,7 +467,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ New York Liberty
 DTSTART:20260814T000000Z
 DTEND:20260814T023000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401857141-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nLos Angeles Sparks at New York Liberty
  \nStatus: Scheduled\nWatch: Prime Video\nVenue: Barclays Center\, Brooklyn
@@ -484,7 +481,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Washington Mystics
 DTSTART:20260815T233000Z
 DTEND:20260816T020000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401857146-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nLos Angeles Sparks at Washington Mysti
  cs\nStatus: Scheduled\nWatch: Spectrum Sports Net · MNMT\nVenue: CareFirs
@@ -498,7 +495,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Connecticut Sun
 DTSTART:20260818T230000Z
 DTEND:20260819T013000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401857152-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nLos Angeles Sparks at Connecticut Sun\
  nStatus: Scheduled\nWatch: NBC Sports BO · Spectrum Sports Net\nVenue: TD
@@ -512,7 +509,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Atlanta Dream @ Los Angeles Sparks 🏠
 DTSTART:20260821T020000Z
 DTEND:20260821T043000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401857160-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nAtlanta Dream at Los Angeles Sparks\nS
  tatus: Scheduled\nWatch: Prime Video\nVenue: crypto.com Arena\, Los Angele
@@ -526,7 +523,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Connecticut Sun @ Los Angeles Sparks 🏠
 DTSTART:20260823T010000Z
 DTEND:20260823T033000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401857165-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nConnecticut Sun at Los Angeles Sparks\
  nStatus: Scheduled\nWatch: Prime Video · Spectrum Sports Net\nVenue: cryp
@@ -541,7 +538,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Atlanta Dream @ Los Angeles Sparks 🏠
 DTSTART:20260825T020000Z
 DTEND:20260825T043000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401857172-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nAtlanta Dream at Los Angeles Sparks\nS
  tatus: Scheduled\nWatch: Peacock · NBCSN · Atlanta News First · Victory
@@ -556,7 +553,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Washington Mystics @ Los Angeles Sparks 🏠
 DTSTART:20260829T020000Z
 DTEND:20260829T043000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401857183-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nWashington Mystics at Los Angeles Spar
  ks\nStatus: Scheduled\nWatch: ION\nVenue: crypto.com Arena\, Los Angeles\n
@@ -570,7 +567,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Seattle Storm
 DTSTART:20260830T210000Z
 DTEND:20260830T233000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401857187-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nLos Angeles Sparks at Seattle Storm\nS
  tatus: Scheduled\nWatch: NBA TV · KOMO-TV · Prime Video-Seattle · Spect
@@ -585,7 +582,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Dallas Wings
 DTSTART:20260918T000000Z
 DTEND:20260918T023000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401857192-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nLos Angeles Sparks at Dallas Wings\nSt
  atus: Scheduled\nWatch: USA Net · KFAA-TV · Spectrum Sports Net\nVenue: 
@@ -600,7 +597,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Los Angeles Sparks 🏠
 DTSTART:20260920T230000Z
 DTEND:20260921T013000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401857204-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nPortland Fire at Los Angeles Sparks\nS
  tatus: Scheduled\nWatch: Spectrum Sports Net · Fox 12 Plus\nVenue: crypto
@@ -615,7 +612,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Las Vegas Aces
 DTSTART:20260923T020000Z
 DTEND:20260923T043000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401857211-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nLos Angeles Sparks at Las Vegas Aces\n
  Status: Scheduled\nWatch: ESPN\nVenue: Michelob ULTRA Arena\, Las Vegas\nT
@@ -630,7 +627,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Golden State Valkyries @ Los Angeles Sparks 🏠
 DTSTART:20260925T020000Z
 DTEND:20260925T043000Z
-DTSTAMP:20260527T134752Z
+DTSTAMP:20260603T120731Z
 UID:wnba-401857218-6@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nGolden State Valkyries at Los Angeles 
  Sparks\nStatus: Scheduled\nWatch: KPIX+ · Spectrum Sports Net\nVenue: cry
