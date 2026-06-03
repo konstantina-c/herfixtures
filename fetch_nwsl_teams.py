@@ -2,18 +2,15 @@
 """
 HerFixtures — NWSL individual team feed generator
 Uses ESPN public API (no key required) to generate per-team .ics feeds.
+Uses the team schedule endpoint (soccer scoreboard does not support date ranges).
 """
 
 import requests
-from datetime import datetime, timezone, timedelta, date
+from datetime import datetime, timezone, timedelta
 from icalendar import Calendar, Event
 
 BASE_URL = "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.nwsl"
 HEADERS = {"User-Agent": "Mozilla/5.0"}
-
-TODAY = datetime.now(timezone.utc).date()
-SEASON_START = date(2026, 3, 13)
-DATE_TO = TODAY + timedelta(days=60)
 
 # ESPN team ID → (display name, output slug)
 NWSL_TEAMS = {
@@ -37,42 +34,23 @@ NWSL_TEAMS = {
 
 
 def fetch_team_games(team_id):
-    session = requests.Session()
-    session.headers.update(HEADERS)
-    games = {}
-
-    r = session.get(
-        f"{BASE_URL}/scoreboard",
-        params={
-            "dates": f"{TODAY.strftime('%Y%m%d')}-{DATE_TO.strftime('%Y%m%d')}",
-            "team": team_id,
-            "limit": 200,
-        },
+    r = requests.get(
+        f"{BASE_URL}/teams/{team_id}/schedule",
+        params={"season": 2026},
+        headers=HEADERS,
         timeout=10,
     )
     r.raise_for_status()
-    for event in r.json().get("events", []):
-        games[event["id"]] = event
+    return r.json().get("events", [])
 
-    yesterday = TODAY - timedelta(days=1)
-    current = SEASON_START
-    while current <= yesterday:
-        week_end = min(current + timedelta(days=6), yesterday)
-        r = session.get(
-            f"{BASE_URL}/scoreboard",
-            params={
-                "dates": f"{current.strftime('%Y%m%d')}-{week_end.strftime('%Y%m%d')}",
-                "team": team_id,
-                "limit": 50,
-            },
-            timeout=10,
-        )
-        r.raise_for_status()
-        for event in r.json().get("events", []):
-            games[event["id"]] = event
-        current += timedelta(days=7)
 
-    return list(games.values())
+def _score_str(competitor):
+    s = competitor.get("score")
+    if s is None or s == "":
+        return None
+    if isinstance(s, dict):
+        return s.get("displayValue")
+    return s
 
 
 def parse_event(event, display_name):
@@ -91,14 +69,16 @@ def parse_event(event, display_name):
     except (ValueError, AttributeError):
         return None
 
-    status_type = event["status"]["type"]
+    status_type = comp["status"]["type"]
     status_desc = status_type["description"]
     status_state = status_type.get("state", "pre")
     completed = status_state == "post"
 
     score = ""
     if completed:
-        score = f" ({away.get('score', '?')}–{home.get('score', '?')})"
+        a_score = _score_str(away) or "?"
+        h_score = _score_str(home) or "?"
+        score = f" ({a_score}–{h_score})"
 
     broadcasts = [n for b in comp.get("broadcasts", []) for n in b.get("names", [])]
 

@@ -48,6 +48,18 @@ def fetch_scoreboard(base_url, date_from, date_to):
     return r.json().get("events", [])
 
 
+def fetch_scoreboard_single(base_url, d):
+    """Fetch scoreboard for a single date — required for soccer endpoints that reject ranges."""
+    r = requests.get(
+        f"{base_url}/scoreboard",
+        params={"dates": d.strftime("%Y%m%d"), "limit": 50},
+        headers=HEADERS,
+        timeout=10,
+    )
+    r.raise_for_status()
+    return r.json().get("events", [])
+
+
 def team_data(competitor, sport_path="wnba"):
     team    = competitor.get("team", {})
     team_id = str(team.get("id", ""))
@@ -122,9 +134,16 @@ def kickoff_label(ko: datetime) -> str:
 def process_league(base_url, label):
     sport_path = "wnba" if label == "WNBA" else "soccer"
 
-    past_events   = fetch_scoreboard(base_url, YESTERDAY, TODAY)
-    future_events = fetch_scoreboard(base_url, TODAY, DAY_AFTER)
-    all_events = {e["id"]: e for e in past_events + future_events}
+    if label == "WNBA":
+        past_events   = fetch_scoreboard(base_url, YESTERDAY, TODAY)
+        future_events = fetch_scoreboard(base_url, TODAY, DAY_AFTER)
+        all_events = {e["id"]: e for e in past_events + future_events}
+    else:
+        # Soccer scoreboard rejects date ranges — fetch each day individually
+        all_events = {}
+        for day in [YESTERDAY, TODAY, TODAY + timedelta(days=1), DAY_AFTER]:
+            for e in fetch_scoreboard_single(base_url, day):
+                all_events[e["id"]] = e
 
     postgame, livegame, pregame = [], [], []
 

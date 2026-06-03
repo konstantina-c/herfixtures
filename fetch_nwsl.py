@@ -2,19 +2,24 @@
 """
 HerFixtures — NWSL feed generator
 Uses ESPN public API (no key required) to fetch fixtures and write nwsl.ics.
+
+Strategy: soccer scoreboard only accepts single dates (no ranges), so past
+games are collected from all 16 team schedules; the current/upcoming matchday
+comes from the default scoreboard (no date param).
 """
 
 import requests
-from datetime import datetime, timezone, timedelta, date
+from datetime import datetime, timezone, timedelta
 from icalendar import Calendar, Event
 
 OUTPUT_FILE = "nwsl.ics"
 BASE_URL = "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.nwsl"
 HEADERS = {"User-Agent": "Mozilla/5.0"}
 
-TODAY = datetime.now(timezone.utc).date()
-SEASON_START = date(2026, 3, 13)
-DATE_TO = TODAY + timedelta(days=60)
+TEAM_IDS = [
+    "21422", "22187", "131562", "15360", "131563", "15364", "17346",
+    "20907", "15366", "18206", "15362", "20905", "21423", "15363", "19141", "15365",
+]
 
 
 def fetch_games():
@@ -22,33 +27,33 @@ def fetch_games():
     session.headers.update(HEADERS)
     games = {}
 
-    # Future first: one wide call from today to DATE_TO (may lack scores)
-    r = session.get(
-        f"{BASE_URL}/scoreboard",
-        params={"dates": f"{TODAY.strftime('%Y%m%d')}-{DATE_TO.strftime('%Y%m%d')}", "limit": 200},
-        timeout=10,
-    )
+    # Current/upcoming matchday — default scoreboard returns latest activity
+    r = session.get(f"{BASE_URL}/scoreboard", timeout=10)
     r.raise_for_status()
     for event in r.json().get("events", []):
         games[event["id"]] = event
 
-    # Past last: week by week from season start to yesterday — overwrites future
-    # entries for any game that has since completed, ensuring scores are present
-    yesterday = TODAY - timedelta(days=1)
-    current = SEASON_START
-    while current <= yesterday:
-        week_end = min(current + timedelta(days=6), yesterday)
+    # Full season history from all 16 team schedules, deduplicated by event ID
+    for team_id in TEAM_IDS:
         r = session.get(
-            f"{BASE_URL}/scoreboard",
-            params={"dates": f"{current.strftime('%Y%m%d')}-{week_end.strftime('%Y%m%d')}", "limit": 50},
+            f"{BASE_URL}/teams/{team_id}/schedule",
+            params={"season": 2026},
             timeout=10,
         )
         r.raise_for_status()
         for event in r.json().get("events", []):
             games[event["id"]] = event
-        current += timedelta(days=7)
 
     return list(games.values())
+
+
+def _score_str(competitor):
+    s = competitor.get("score")
+    if s is None or s == "":
+        return None
+    if isinstance(s, dict):
+        return s.get("displayValue")
+    return s
 
 
 def parse_event(event):
@@ -67,14 +72,17 @@ def parse_event(event):
     except (ValueError, AttributeError):
         return None
 
-    status_type = event["status"]["type"]
+    # status lives at comp level in team-schedule events; also present there in scoreboard events
+    status_type = comp["status"]["type"]
     status_desc = status_type["description"]
     status_state = status_type.get("state", "pre")
     completed = status_state == "post"
 
     score = ""
     if completed:
-        score = f" ({away.get('score', '?')}–{home.get('score', '?')})"
+        a_score = _score_str(away) or "?"
+        h_score = _score_str(home) or "?"
+        score = f" ({a_score}–{h_score})"
 
     broadcasts = [n for b in comp.get("broadcasts", []) for n in b.get("names", [])]
 
@@ -138,7 +146,7 @@ def build_calendar(events):
 
 
 def main():
-    print(f"Fetching NWSL 2026 games from {SEASON_START} to {DATE_TO}...")
+    print("Fetching NWSL 2026 games from ESPN (team schedules + current scoreboard)...")
     events = fetch_games()
     print(f"  → {len(events)} games fetched")
 
