@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 HerFixtures — scores.json generator
-Fetches WNBA results + upcoming fixtures from ESPN public API
+Fetches WNBA and NWSL results + upcoming fixtures from ESPN public API
 and writes scores.json for the homepage scores strip.
 
 Output shape:
@@ -18,7 +18,8 @@ import requests
 from datetime import datetime, timezone, timedelta, date
 
 OUTPUT_FILE  = "scores.json"
-BASE_URL     = "https://site.api.espn.com/apis/site/v2/sports/basketball/wnba"
+WNBA_URL     = "https://site.api.espn.com/apis/site/v2/sports/basketball/wnba"
+NWSL_URL     = "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.nwsl"
 HEADERS      = {"User-Agent": "Mozilla/5.0"}
 TODAY        = datetime.now(timezone.utc).date()
 YESTERDAY    = TODAY - timedelta(days=1)
@@ -33,9 +34,9 @@ LOGO_OVERRIDES = {
 }
 
 
-def fetch_scoreboard(date_from, date_to):
+def fetch_scoreboard(base_url, date_from, date_to):
     r = requests.get(
-        f"{BASE_URL}/scoreboard",
+        f"{base_url}/scoreboard",
         params={
             "dates": f"{date_from.strftime('%Y%m%d')}-{date_to.strftime('%Y%m%d')}",
             "limit": 50,
@@ -47,16 +48,15 @@ def fetch_scoreboard(date_from, date_to):
     return r.json().get("events", [])
 
 
-def team_data(competitor):
+def team_data(competitor, sport_path="wnba"):
     team    = competitor.get("team", {})
     team_id = str(team.get("id", ""))
-    # Use override if available, otherwise use ESPN's logo URL directly
     if team_id in LOGO_OVERRIDES:
         logo = LOGO_OVERRIDES[team_id]
     elif team.get("logos"):
         logo = team["logos"][0].get("href", "")
     else:
-        logo = f"https://a.espncdn.com/i/teamlogos/wnba/500/{team_id}.png"
+        logo = f"https://a.espncdn.com/i/teamlogos/{sport_path}/500/{team_id}.png"
     return {
         "name":  team.get("shortDisplayName") or team.get("displayName", ""),
         "score": int(competitor["score"]) if competitor.get("score") not in (None, "") else None,
@@ -64,7 +64,7 @@ def team_data(competitor):
     }
 
 
-def parse_event(event):
+def parse_event(event, label, sport_path="wnba"):
     comp   = event["competitions"][0]
     status = event["status"]["type"]
     state  = status.get("state", "pre")   # pre | in | post
@@ -74,8 +74,8 @@ def parse_event(event):
     if not home_comp or not away_comp:
         return None
 
-    home = team_data(home_comp)
-    away = team_data(away_comp)
+    home = team_data(home_comp, sport_path)
+    away = team_data(away_comp, sport_path)
 
     try:
         ko = datetime.fromisoformat(event["date"].replace("Z", "+00:00"))
@@ -85,7 +85,7 @@ def parse_event(event):
     return {
         "state":   state,
         "ko":      ko,
-        "league":  "WNBA",
+        "league":  label,
         "home":    home,
         "away":    away,
     }
@@ -119,21 +119,17 @@ def kickoff_label(ko: datetime) -> str:
     return f"{days[ko.weekday()]} @ {time_str}"
 
 
-def main():
-    print(f"Fetching WNBA scores for strip ({YESTERDAY} → {DAY_AFTER})...")
+def process_league(base_url, label):
+    sport_path = "wnba" if label == "WNBA" else "soccer"
 
-    # Yesterday → today: completed + live games
-    past_events    = fetch_scoreboard(YESTERDAY, TODAY)
-    # Today → day after tomorrow: upcoming
-    future_events  = fetch_scoreboard(TODAY, DAY_AFTER)
-
-    # Merge, deduplicate by event id
+    past_events   = fetch_scoreboard(base_url, YESTERDAY, TODAY)
+    future_events = fetch_scoreboard(base_url, TODAY, DAY_AFTER)
     all_events = {e["id"]: e for e in past_events + future_events}
 
     postgame, livegame, pregame = [], [], []
 
     for event in all_events.values():
-        parsed = parse_event(event)
+        parsed = parse_event(event, label, sport_path)
         if not parsed:
             continue
 
@@ -167,21 +163,36 @@ def main():
             card["kickoff_label"] = kickoff_label(ko)
             pregame.append(card)
 
+    return postgame, livegame, pregame
+
+
+def main():
+    print(f"Fetching scores for strip ({YESTERDAY} → {DAY_AFTER})...")
+
+    all_postgame, all_livegame, all_pregame = [], [], []
+
+    for base_url, label in [(WNBA_URL, "WNBA"), (NWSL_URL, "NWSL")]:
+        pg, lg, prg = process_league(base_url, label)
+        all_postgame.extend(pg)
+        all_livegame.extend(lg)
+        all_pregame.extend(prg)
+        print(f"  {label}: {len(pg)} postgame, {len(lg)} live, {len(prg)} upcoming")
+
     # Sort: postgame newest first, pregame soonest first
-    postgame.sort(key=lambda x: x.get("kickoff", ""), reverse=True)
-    pregame.sort(key=lambda x: x.get("kickoff", ""))
+    all_postgame.sort(key=lambda x: x.get("kickoff", ""), reverse=True)
+    all_pregame.sort(key=lambda x: x.get("kickoff", ""))
 
     output = {
         "updated":  datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "postgame": postgame,
-        "livegame": livegame,
-        "pregame":  pregame,
+        "postgame": all_postgame,
+        "livegame": all_livegame,
+        "pregame":  all_pregame,
     }
 
     with open(OUTPUT_FILE, "w") as f:
         json.dump(output, f, indent=2)
 
-    print(f"  → scores.json written: {len(postgame)} postgame, {len(livegame)} live, {len(pregame)} upcoming")
+    print(f"  → scores.json written: {len(all_postgame)} postgame, {len(all_livegame)} live, {len(all_pregame)} upcoming")
 
 
 if __name__ == "__main__":
