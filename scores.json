@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T10:17:56Z",
+  "updated": "2026-06-04T13:40:21Z",
   "competitions": {
     "wnba": {
       "name": "WNBA",
@@ -48,7 +48,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/5.png"
           },
           "kickoff": "2026-06-04T23:00:00Z",
-          "kickoff_label": "in 13h"
+          "kickoff_label": "in 9h"
         },
         {
           "league": "WNBA",
@@ -61,7 +61,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/8.png"
           },
           "kickoff": "2026-06-05T01:00:00Z",
-          "kickoff_label": "in 15h"
+          "kickoff_label": "in 11h"
         },
         {
           "league": "WNBA",
@@ -160,6 +160,14 @@
       "name": "NWSL",
       "sport": "football",
       "slug": "nwsl",
+      "postgame": [],
+      "livegame": [],
+      "pregame": []
+    },
+    "icc-womens-t20": {
+      "name": "ICC Women's T20 WC",
+      "sport": "cricket",
+      "slug": "icc-womens-t20",
       "postgame": [],
       "livegame": [],
       "pregame": []

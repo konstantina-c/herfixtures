@@ -1,0 +1,372 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//ICC Women's T20 WC 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:ICC Women's T20 World Cup 2026 fixtures. Updated automaticall
+ y by HerFixtures.com
+X-WR-CALNAME:ICC Women's T20 World Cup 2026 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🏏 England Women v Sri Lanka Women
+DTSTART:20260612T173000Z
+DTEND:20260612T213000Z
+DTSTAMP:20260604T134019Z
+UID:espn-icc-womens-t20-1490677@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026\nEngland Women v Sri Lanka Wome
+ n\nStatus: Scheduled\nVenue: Edgbaston\, Birmingham\, Birmingham\n\nFixtur
+ es by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490677/england-women-vs-
+ sri-lanka-women-1st-match-group-2-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Ireland Women v Scotland Women
+DTSTART:20260613T093000Z
+DTEND:20260613T133000Z
+DTSTAMP:20260604T134019Z
+UID:espn-icc-womens-t20-1490678@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026\nIreland Women v Scotland Women
+ \nStatus: Scheduled\nVenue: Old Trafford\, Manchester\, Manchester\n\nFixt
+ ures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490678/ireland-women-vs-
+ scotland-women-2nd-match-group-2-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Australia Women v South Africa Women
+DTSTART:20260613T133000Z
+DTEND:20260613T173000Z
+DTSTAMP:20260604T134019Z
+UID:espn-icc-womens-t20-1490679@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026\nAustralia Women v South Africa
+  Women\nStatus: Scheduled\nVenue: Old Trafford\, Manchester\, Manchester\n
+ \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490679/australia-women-v
+ s-south-africa-women-3rd-match-group-1-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 New Zealand Women v West Indies Women
+DTSTART:20260613T173000Z
+DTEND:20260613T213000Z
+DTSTAMP:20260604T134019Z
+UID:espn-icc-womens-t20-1490680@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026\nNew Zealand Women v West Indie
+ s Women\nStatus: Scheduled\nVenue: The Rose Bowl\, Southampton\, Southampt
+ on\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490680/new-zealand-women
+ -vs-west-indies-women-4th-match-group-2-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Bangladesh Women v Netherlands Women
+DTSTART:20260614T093000Z
+DTEND:20260614T133000Z
+DTSTAMP:20260604T134019Z
+UID:espn-icc-womens-t20-1490681@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026\nBangladesh Women v Netherlands
+  Women\nStatus: Scheduled\nVenue: Edgbaston\, Birmingham\, Birmingham\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490681/bangladesh-women-
+ vs-netherlands-women-5th-match-group-1-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 India Women v Pakistan Women
+DTSTART:20260614T133000Z
+DTEND:20260614T173000Z
+DTSTAMP:20260604T134019Z
+UID:espn-icc-womens-t20-1490682@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026\nIndia Women v Pakistan Women\n
+ Status: Scheduled\nVenue: Edgbaston\, Birmingham\, Birmingham\n\nFixtures 
+ by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490682/india-women-vs-pa
+ kistan-women-6th-match-group-1-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 New Zealand Women v Sri Lanka Women
+DTSTART:20260616T133000Z
+DTEND:20260616T173000Z
+DTSTAMP:20260604T134019Z
+UID:espn-icc-womens-t20-1490683@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026\nNew Zealand Women v Sri Lanka 
+ Women\nStatus: Scheduled\nVenue: The Rose Bowl\, Southampton\, Southampton
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490683/new-zealand-women
+ -vs-sri-lanka-women-7th-match-group-2-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 England Women v Ireland Women
+DTSTART:20260616T173000Z
+DTEND:20260616T213000Z
+DTSTAMP:20260604T134019Z
+UID:espn-icc-womens-t20-1490684@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026\nEngland Women v Ireland Women\
+ nStatus: Scheduled\nVenue: The Rose Bowl\, Southampton\, Southampton\n\nFi
+ xtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490684/england-women-vs-
+ ireland-women-8th-match-group-2-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Australia Women v Bangladesh Women
+DTSTART:20260617T093000Z
+DTEND:20260617T133000Z
+DTSTAMP:20260604T134019Z
+UID:espn-icc-womens-t20-1490685@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026\nAustralia Women v Bangladesh W
+ omen\nStatus: Scheduled\nVenue: Headingley\, Leeds\, Leeds\n\nFixtures by 
+ HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490685/australia-women-v
+ s-bangladesh-women-9th-match-group-1-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 India Women v Netherlands Women
+DTSTART:20260617T133000Z
+DTEND:20260617T173000Z
+DTSTAMP:20260604T134019Z
+UID:espn-icc-womens-t20-1490686@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026\nIndia Women v Netherlands Wome
+ n\nStatus: Scheduled\nVenue: Headingley\, Leeds\, Leeds\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490686/india-women-vs-ne
+ therlands-women-10th-match-group-1-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Pakistan Women v South Africa Women
+DTSTART:20260617T173000Z
+DTEND:20260617T213000Z
+DTSTAMP:20260604T134019Z
+UID:espn-icc-womens-t20-1490687@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026\nPakistan Women v South Africa 
+ Women\nStatus: Scheduled\nVenue: Edgbaston\, Birmingham\, Birmingham\n\nFi
+ xtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490687/pakistan-women-vs
+ -south-africa-women-11th-match-group-1-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Scotland Women v West Indies Women
+DTSTART:20260618T173000Z
+DTEND:20260618T213000Z
+DTSTAMP:20260604T134019Z
+UID:espn-icc-womens-t20-1490688@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026\nScotland Women v West Indies W
+ omen\nStatus: Scheduled\nVenue: Headingley\, Leeds\, Leeds\n\nFixtures by 
+ HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490688/scotland-women-vs
+ -west-indies-women-12th-match-group-2-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Ireland Women v New Zealand Women
+DTSTART:20260619T173000Z
+DTEND:20260619T213000Z
+DTSTAMP:20260604T134019Z
+UID:espn-icc-womens-t20-1490689@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026\nIreland Women v New Zealand Wo
+ men\nStatus: Scheduled\nVenue: The Rose Bowl\, Southampton\, Southampton\n
+ \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490689/ireland-women-vs-
+ new-zealand-women-13th-match-group-2-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Australia Women v Netherlands Women
+DTSTART:20260620T093000Z
+DTEND:20260620T133000Z
+DTSTAMP:20260604T134019Z
+UID:espn-icc-womens-t20-1490690@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026\nAustralia Women v Netherlands 
+ Women\nStatus: Scheduled\nVenue: The Rose Bowl\, Southampton\, Southampton
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490690/australia-women-v
+ s-netherlands-women-14th-match-group-1-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Bangladesh Women v Pakistan Women
+DTSTART:20260620T133000Z
+DTEND:20260620T173000Z
+DTSTAMP:20260604T134019Z
+UID:espn-icc-womens-t20-1490691@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026\nBangladesh Women v Pakistan Wo
+ men\nStatus: Scheduled\nVenue: The Rose Bowl\, Southampton\, Southampton\n
+ \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490691/bangladesh-women-
+ vs-pakistan-women-15th-match-group-1-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 England Women v Scotland Women
+DTSTART:20260620T173000Z
+DTEND:20260620T213000Z
+DTSTAMP:20260604T134019Z
+UID:espn-icc-womens-t20-1490692@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026\nEngland Women v Scotland Women
+ \nStatus: Scheduled\nVenue: Headingley\, Leeds\, Leeds\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490692/england-women-vs-
+ scotland-women-16th-match-group-2-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Sri Lanka Women v West Indies Women
+DTSTART:20260621T093000Z
+DTEND:20260621T133000Z
+DTSTAMP:20260604T134019Z
+UID:espn-icc-womens-t20-1490693@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026\nSri Lanka Women v West Indies 
+ Women\nStatus: Scheduled\nVenue: County Ground\, Bristol\, Bristol\n\nFixt
+ ures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490693/sri-lanka-women-v
+ s-west-indies-women-17th-match-group-2-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 India Women v South Africa Women
+DTSTART:20260621T133000Z
+DTEND:20260621T173000Z
+DTSTAMP:20260604T134019Z
+UID:espn-icc-womens-t20-1490694@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026\nIndia Women v South Africa Wom
+ en\nStatus: Scheduled\nVenue: Old Trafford\, Manchester\, Manchester\n\nFi
+ xtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490694/india-women-vs-so
+ uth-africa-women-18th-match-group-1-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 New Zealand Women v Scotland Women
+DTSTART:20260623T093000Z
+DTEND:20260623T133000Z
+DTSTAMP:20260604T134019Z
+UID:espn-icc-womens-t20-1490695@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026\nNew Zealand Women v Scotland W
+ omen\nStatus: Scheduled\nVenue: County Ground\, Bristol\, Bristol\n\nFixtu
+ res by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490695/new-zealand-women
+ -vs-scotland-women-19th-match-group-2-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Ireland Women v Sri Lanka Women
+DTSTART:20260623T133000Z
+DTEND:20260623T173000Z
+DTSTAMP:20260604T134019Z
+UID:espn-icc-womens-t20-1490696@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026\nIreland Women v Sri Lanka Wome
+ n\nStatus: Scheduled\nVenue: County Ground\, Bristol\, Bristol\n\nFixtures
+  by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490696/ireland-women-vs-
+ sri-lanka-women-20th-match-group-2-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Australia Women v Pakistan Women
+DTSTART:20260623T173000Z
+DTEND:20260623T213000Z
+DTSTAMP:20260604T134019Z
+UID:espn-icc-womens-t20-1490697@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026\nAustralia Women v Pakistan Wom
+ en\nStatus: Scheduled\nVenue: Headingley\, Leeds\, Leeds\n\nFixtures by He
+ rFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490697/australia-women-v
+ s-pakistan-women-21st-match-group-1-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 England Women v West Indies Women
+DTSTART:20260624T173000Z
+DTEND:20260624T213000Z
+DTSTAMP:20260604T134019Z
+UID:espn-icc-womens-t20-1490698@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026\nEngland Women v West Indies Wo
+ men\nStatus: Scheduled\nVenue: Lord's\, London\, London\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490698/england-women-vs-
+ west-indies-women-22nd-match-group-2-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Bangladesh Women v India Women
+DTSTART:20260625T133000Z
+DTEND:20260625T173000Z
+DTSTAMP:20260604T134019Z
+UID:espn-icc-womens-t20-1490699@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026\nBangladesh Women v India Women
+ \nStatus: Scheduled\nVenue: Old Trafford\, Manchester\, Manchester\n\nFixt
+ ures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490699/bangladesh-women-
+ vs-india-women-23rd-match-group-1-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Netherlands Women v South Africa Women
+DTSTART:20260625T173000Z
+DTEND:20260625T213000Z
+DTSTAMP:20260604T134019Z
+UID:espn-icc-womens-t20-1490700@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026\nNetherlands Women v South Afri
+ ca Women\nStatus: Scheduled\nVenue: County Ground\, Bristol\, Bristol\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490700/netherlands-women
+ -vs-south-africa-women-24th-match-group-1-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Scotland Women v Sri Lanka Women
+DTSTART:20260626T173000Z
+DTEND:20260626T213000Z
+DTSTAMP:20260604T134019Z
+UID:espn-icc-womens-t20-1490701@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026\nScotland Women v Sri Lanka Wom
+ en\nStatus: Scheduled\nVenue: Old Trafford\, Manchester\, Manchester\n\nFi
+ xtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490701/scotland-women-vs
+ -sri-lanka-women-25th-match-group-2-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Netherlands Women v Pakistan Women
+DTSTART:20260627T093000Z
+DTEND:20260627T133000Z
+DTSTAMP:20260604T134019Z
+UID:espn-icc-womens-t20-1490702@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026\nNetherlands Women v Pakistan W
+ omen\nStatus: Scheduled\nVenue: County Ground\, Bristol\, Bristol\n\nFixtu
+ res by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490702/netherlands-women
+ -vs-pakistan-women-26th-match-group-1-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Ireland Women v West Indies Women
+DTSTART:20260627T133000Z
+DTEND:20260627T173000Z
+DTSTAMP:20260604T134019Z
+UID:espn-icc-womens-t20-1490703@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026\nIreland Women v West Indies Wo
+ men\nStatus: Scheduled\nVenue: County Ground\, Bristol\, Bristol\n\nFixtur
+ es by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490703/ireland-women-vs-
+ west-indies-women-27th-match-group-2-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 England Women v New Zealand Women
+DTSTART:20260627T173000Z
+DTEND:20260627T213000Z
+DTSTAMP:20260604T134019Z
+UID:espn-icc-womens-t20-1490704@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026\nEngland Women v New Zealand Wo
+ men\nStatus: Scheduled\nVenue: Kennington Oval\, London\, London\n\nFixtur
+ es by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490704/england-women-vs-
+ new-zealand-women-28th-match-group-2-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Bangladesh Women v South Africa Women
+DTSTART:20260628T093000Z
+DTEND:20260628T133000Z
+DTSTAMP:20260604T134019Z
+UID:espn-icc-womens-t20-1490705@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026\nBangladesh Women v South Afric
+ a Women\nStatus: Scheduled\nVenue: Lord's\, London\, London\n\nFixtures by
+  HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490705/bangladesh-women-
+ vs-south-africa-women-29th-match-group-1-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Australia Women v India Women
+DTSTART:20260628T133000Z
+DTEND:20260628T173000Z
+DTSTAMP:20260604T134019Z
+UID:espn-icc-womens-t20-1490706@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026\nAustralia Women v India Women\
+ nStatus: Scheduled\nVenue: Lord's\, London\, London\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490706/australia-women-v
+ s-india-women-30th-match-group-1-icc-womens-t20-world-cup-2026
+END:VEVENT
+END:VCALENDAR
