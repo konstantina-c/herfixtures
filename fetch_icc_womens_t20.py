@@ -68,18 +68,18 @@ def parse_event(event):
 
     score = ""
     if completed:
-        a_score = away.get("score") or "?"
         h_score = home.get("score") or "?"
-        score = f" ({a_score} / {h_score})"
+        a_score = away.get("score") or "?"
+        score = f" ({h_score} / {a_score})"
 
     broadcasts = [n for b in comp.get("broadcasts", []) for n in b.get("names", [])]
 
-    # Away first per HerFixtures convention; cricket uses "vs" not "@"
-    summary = f"🏏 {away_name} vs {home_name}{score}"
+    # Cricket global convention: home team first, "v" separator
+    summary = f"🏏 {home_name} v {away_name}{score}"
 
     desc_lines = [
         "ICC Women's T20 World Cup 2026",
-        f"{away_name} vs {home_name}",
+        f"{home_name} v {away_name}",
         f"Status: {status_desc}",
     ]
     venue = comp.get("venue", {})

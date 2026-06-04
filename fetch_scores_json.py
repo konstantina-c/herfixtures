@@ -144,7 +144,14 @@ def kickoff_label(ko: datetime) -> str:
     return f"{days[ko.weekday()]} @ {time_str}"
 
 
-def process_league(base_url, label):
+def process_league(base_url, label, home_first=False):
+    """Fetch and classify events for one league.
+
+    home_first=False (default): Away @ Home — away data in "home" slot.
+                                Used for American sports (WNBA, NWSL).
+    home_first=True:            Home first — no swap. Used for cricket
+                                and other global conventions.
+    """
     sport_path = {"WNBA": "wnba", "NWSL": "soccer"}.get(label, "cricket")
 
     if label == "WNBA":
@@ -152,7 +159,7 @@ def process_league(base_url, label):
         future_events = fetch_scoreboard(base_url, TODAY, DAY_AFTER)
         all_events = {e["id"]: e for e in past_events + future_events}
     else:
-        # Soccer scoreboard rejects date ranges — fetch each day individually
+        # Soccer/cricket scoreboard rejects date ranges — fetch each day individually
         all_events = {}
         for day in [YESTERDAY, TODAY, TODAY + timedelta(days=1), DAY_AFTER]:
             for e in fetch_scoreboard_single(base_url, day):
@@ -170,24 +177,39 @@ def process_league(base_url, label):
         away  = parsed["away"]
         ko    = parsed["ko"]
 
-        # American sports convention: Away @ Home — away team listed first
-        card = {
-            "league": parsed["league"],
-            "home":   {"name": away["name"], "logo": away["logo"]},
-            "away":   {"name": home["name"], "logo": home["logo"]},
-        }
+        if home_first:
+            # Cricket convention: home team listed first, no swap
+            card = {
+                "league": parsed["league"],
+                "home":   {"name": home["name"], "logo": home["logo"]},
+                "away":   {"name": away["name"], "logo": away["logo"]},
+            }
+        else:
+            # American sports convention: Away @ Home — away data in "home" slot
+            card = {
+                "league": parsed["league"],
+                "home":   {"name": away["name"], "logo": away["logo"]},
+                "away":   {"name": home["name"], "logo": home["logo"]},
+            }
 
         if state == "post":
-            # Winner is still determined by actual scores
-            card["home"]["score"] = away["score"]
-            card["away"]["score"] = home["score"]
-            # Mark winner on the away-first display
-            card["winner"] = "home" if away["score"] > home["score"] else "away"
+            if home_first:
+                card["home"]["score"] = home["score"]
+                card["away"]["score"] = away["score"]
+                card["winner"] = "home" if home["score"] > away["score"] else "away"
+            else:
+                card["home"]["score"] = away["score"]
+                card["away"]["score"] = home["score"]
+                card["winner"] = "home" if away["score"] > home["score"] else "away"
             postgame.append(card)
 
         elif state == "in":
-            card["home"]["score"] = away["score"]
-            card["away"]["score"] = home["score"]
+            if home_first:
+                card["home"]["score"] = home["score"]
+                card["away"]["score"] = away["score"]
+            else:
+                card["home"]["score"] = away["score"]
+                card["away"]["score"] = home["score"]
             livegame.append(card)
 
         elif state == "pre":
@@ -202,9 +224,10 @@ def process_league(base_url, label):
 
 
 LEAGUE_CONFIGS = [
-    (WNBA_URL, "WNBA",               "basketball", "wnba"),
-    (NWSL_URL, "NWSL",               "football",   "nwsl"),
-    (ICC_URL,  "ICC Women's T20 WC", "cricket",    "icc-womens-t20"),
+    #  url        name                  sport         slug               home_first
+    (WNBA_URL, "WNBA",               "basketball", "wnba",           False),
+    (NWSL_URL, "NWSL",               "football",   "nwsl",           False),
+    (ICC_URL,  "ICC Women's T20 WC", "cricket",    "icc-womens-t20", True),
 ]
 
 
@@ -212,8 +235,8 @@ def main():
     print(f"Fetching scores for strip ({YESTERDAY} → {DAY_AFTER})...")
 
     competitions = {}
-    for base_url, name, sport, slug in LEAGUE_CONFIGS:
-        result = process_league(base_url, name)
+    for base_url, name, sport, slug, home_first in LEAGUE_CONFIGS:
+        result = process_league(base_url, name, home_first=home_first)
         competitions[slug] = {"name": name, "sport": sport, "slug": slug, **result}
         pg, lg, prg = result["postgame"], result["livegame"], result["pregame"]
         print(f"  {name}: {len(pg)} postgame, {len(lg)} live, {len(prg)} upcoming")
