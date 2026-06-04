@@ -17,6 +17,7 @@
         "Content-Type": "text/calendar; charset=utf-8",
         "Cache-Control": "public, max-age=43200"
       }
-    }
+    },
+    { "src": "/(.*)", "dest": "/$1" }
   ]
 }
