@@ -182,36 +182,40 @@ def process_league(base_url, label):
             card["kickoff_label"] = kickoff_label(ko)
             pregame.append(card)
 
-    return postgame, livegame, pregame
+    postgame.sort(key=lambda x: x.get("kickoff", ""), reverse=True)
+    pregame.sort(key=lambda x: x.get("kickoff", ""))
+
+    return {"postgame": postgame, "livegame": livegame, "pregame": pregame}
+
+
+LEAGUE_CONFIGS = [
+    (WNBA_URL, "WNBA", "basketball", "wnba"),
+    (NWSL_URL, "NWSL", "football",   "nwsl"),
+]
 
 
 def main():
     print(f"Fetching scores for strip ({YESTERDAY} → {DAY_AFTER})...")
 
-    all_postgame, all_livegame, all_pregame = [], [], []
-
-    for base_url, label in [(WNBA_URL, "WNBA"), (NWSL_URL, "NWSL")]:
-        pg, lg, prg = process_league(base_url, label)
-        all_postgame.extend(pg)
-        all_livegame.extend(lg)
-        all_pregame.extend(prg)
-        print(f"  {label}: {len(pg)} postgame, {len(lg)} live, {len(prg)} upcoming")
-
-    # Sort: postgame newest first, pregame soonest first
-    all_postgame.sort(key=lambda x: x.get("kickoff", ""), reverse=True)
-    all_pregame.sort(key=lambda x: x.get("kickoff", ""))
+    competitions = {}
+    for base_url, name, sport, slug in LEAGUE_CONFIGS:
+        result = process_league(base_url, name)
+        competitions[slug] = {"name": name, "sport": sport, "slug": slug, **result}
+        pg, lg, prg = result["postgame"], result["livegame"], result["pregame"]
+        print(f"  {name}: {len(pg)} postgame, {len(lg)} live, {len(prg)} upcoming")
 
     output = {
-        "updated":  datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "postgame": all_postgame,
-        "livegame": all_livegame,
-        "pregame":  all_pregame,
+        "updated":      datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "competitions": competitions,
     }
 
     with open(OUTPUT_FILE, "w") as f:
         json.dump(output, f, indent=2)
 
-    print(f"  → scores.json written: {len(all_postgame)} postgame, {len(all_livegame)} live, {len(all_pregame)} upcoming")
+    total_pg  = sum(len(c["postgame"]) for c in competitions.values())
+    total_lg  = sum(len(c["livegame"]) for c in competitions.values())
+    total_prg = sum(len(c["pregame"])  for c in competitions.values())
+    print(f"  → scores.json written: {total_pg} postgame, {total_lg} live, {total_prg} upcoming")
 
 
 if __name__ == "__main__":

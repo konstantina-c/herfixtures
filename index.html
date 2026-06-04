@@ -1625,24 +1625,27 @@ function makeCard(game) {
 
 /* ── Render ───────────────────────────────────────────── */
 function render(data) {
-  const pgCards = document.getElementById('cards-postgame');
-  const lgCards = document.getElementById('cards-livegame');
-  const prCards = document.getElementById('cards-pregame');
+  document.getElementById('cards-postgame').innerHTML = '';
+  document.getElementById('cards-livegame').innerHTML = '';
+  document.getElementById('cards-pregame').innerHTML = '';
+
+  const competitions = data.competitions || {};
+  const allPostgame = [], allLivegame = [], allPregame = [];
+
+  Object.values(competitions).forEach(comp => {
+    (comp.postgame || []).forEach(g => { g.variant = 'postgame'; allPostgame.push(g); });
+    (comp.livegame || []).forEach(g => { g.variant = 'livegame'; allLivegame.push(g); });
+    (comp.pregame  || []).forEach(g => { g.variant = 'pregame';  allPregame.push(g); });
+  });
+
   const lgGroup = document.getElementById('group-livegame');
   const lgLabel = document.getElementById('label-livegame');
+  lgGroup.style.display = allLivegame.length ? '' : 'none';
+  lgLabel.style.display = allLivegame.length ? '' : 'none';
 
-  pgCards.innerHTML = '';
-  lgCards.innerHTML = '';
-  prCards.innerHTML = '';
-
-  (data.postgame || []).forEach(g => { g.variant='postgame'; pgCards.appendChild(makeCard(g)); });
-
-  const live = data.livegame || [];
-  lgGroup.style.display = live.length ? '' : 'none';
-  lgLabel.style.display = live.length ? '' : 'none';
-  live.forEach(g => { g.variant='livegame'; lgCards.appendChild(makeCard(g)); });
-
-  (data.pregame || []).forEach(g => { g.variant='pregame'; prCards.appendChild(makeCard(g)); });
+  allPostgame.forEach(g => document.getElementById('cards-postgame').appendChild(makeCard(g)));
+  allLivegame.forEach(g => document.getElementById('cards-livegame').appendChild(makeCard(g)));
+  allPregame.forEach(g  => document.getElementById('cards-pregame').appendChild(makeCard(g)));
 
   requestAnimationFrame(positionLabels);
 }
@@ -1736,16 +1739,27 @@ window.addEventListener('resize', positionLabels);
 
 /* ── Demo data ────────────────────────────────────────── */
 const DEMO = {
-  postgame: [
-    { league:'WNBA', home:{name:'Lynx',   score:79, logo:'https://a.espncdn.com/i/teamlogos/wnba/500/minx.png'}, away:{name:'Sky',     score:58, logo:'https://a.espncdn.com/i/teamlogos/wnba/500/chis.png'} },
-    { league:'WNBA', home:{name:'Sparks', score:92, logo:'https://a.espncdn.com/i/teamlogos/wnba/500/lal.png'},  away:{name:'Mystics', score:87, logo:'https://a.espncdn.com/i/teamlogos/wnba/500/wsh.png'} },
-    { league:'WNBA', home:{name:'Dream',  score:86, logo:'https://a.espncdn.com/i/teamlogos/wnba/500/atl.png'},  away:{name:'Fire',    score:66, logo:'https://a.espncdn.com/i/teamlogos/wnba/500/por.png'} },
-  ],
-  livegame: [],
-  pregame: [
-    { league:'WNBA', kickoff:(() => { const d=new Date(); d.setHours(d.getHours()+2); return d.toISOString(); })(), home:{name:'Lynx', logo:'https://a.espncdn.com/i/teamlogos/wnba/500/minx.png'}, away:{name:'Sky', logo:'https://a.espncdn.com/i/teamlogos/wnba/500/chis.png'} },
-    { league:'WNBA', kickoff:(() => { const d=new Date(); const s=(6-d.getDay()+7)%7||7; d.setDate(d.getDate()+s); d.setHours(0,0,0,0); return d.toISOString(); })(), home:{name:'Lynx', logo:'https://a.espncdn.com/i/teamlogos/wnba/500/minx.png'}, away:{name:'Sky', logo:'https://a.espncdn.com/i/teamlogos/wnba/500/chis.png'} },
-  ],
+  competitions: {
+    wnba: {
+      name: 'WNBA', sport: 'basketball', slug: 'wnba',
+      postgame: [
+        { league:'WNBA', home:{name:'Lynx',   score:79, logo:'https://a.espncdn.com/i/teamlogos/wnba/500/minx.png'}, away:{name:'Sky',     score:58, logo:'https://a.espncdn.com/i/teamlogos/wnba/500/chis.png'} },
+        { league:'WNBA', home:{name:'Sparks', score:92, logo:'https://a.espncdn.com/i/teamlogos/wnba/500/lal.png'},  away:{name:'Mystics', score:87, logo:'https://a.espncdn.com/i/teamlogos/wnba/500/wsh.png'} },
+        { league:'WNBA', home:{name:'Dream',  score:86, logo:'https://a.espncdn.com/i/teamlogos/wnba/500/atl.png'},  away:{name:'Fire',    score:66, logo:'https://a.espncdn.com/i/teamlogos/wnba/500/por.png'} },
+      ],
+      livegame: [],
+      pregame: [
+        { league:'WNBA', kickoff:(() => { const d=new Date(); d.setHours(d.getHours()+2); return d.toISOString(); })(), home:{name:'Lynx', logo:'https://a.espncdn.com/i/teamlogos/wnba/500/minx.png'}, away:{name:'Sky', logo:'https://a.espncdn.com/i/teamlogos/wnba/500/chis.png'} },
+        { league:'WNBA', kickoff:(() => { const d=new Date(); const s=(6-d.getDay()+7)%7||7; d.setDate(d.getDate()+s); d.setHours(0,0,0,0); return d.toISOString(); })(), home:{name:'Lynx', logo:'https://a.espncdn.com/i/teamlogos/wnba/500/minx.png'}, away:{name:'Sky', logo:'https://a.espncdn.com/i/teamlogos/wnba/500/chis.png'} },
+      ],
+    },
+    nwsl: {
+      name: 'NWSL', sport: 'football', slug: 'nwsl',
+      postgame: [],
+      livegame: [],
+      pregame:  [],
+    },
+  },
 };
 
 fetch('/scores.json')
@@ -1761,7 +1775,7 @@ function toggleTheme() {
 
 function addLiveGame() {
   const d = JSON.parse(JSON.stringify(DEMO));
-  d.livegame = [
+  d.competitions.wnba.livegame = [
     { league:'WNBA', home:{name:'Fever',   score:54, logo:'https://a.espncdn.com/i/teamlogos/wnba/500/ind.png'}, away:{name:'Liberty', score:49, logo:'https://a.espncdn.com/i/teamlogos/wnba/500/nyl.png'} },
   ];
   render(d);
