@@ -1,15 +1,17 @@
 #!/usr/bin/env python3
 """
 HerFixtures — scores.json generator
-Fetches WNBA and NWSL results + upcoming fixtures from ESPN public API
-and writes scores.json for the homepage scores strip.
+Fetches WNBA, NWSL, and ICC Women's T20 WC results + upcoming fixtures
+from ESPN public API and writes scores.json for the homepage scores strip.
 
 Output shape:
 {
-  "updated": "2026-06-03T12:00:00Z",
-  "postgame": [ { league, home, away } ],   # yesterday's completed games
-  "livegame":  [ { league, home, away } ],  # currently live
-  "pregame":   [ { league, kickoff, kickoff_label, home, away } ]  # next 2 days
+  "updated": "2026-06-04T06:00:00Z",
+  "competitions": {
+    "wnba":           { "name": ..., "sport": ..., "slug": ..., "postgame": [], ... },
+    "nwsl":           { ... },
+    "icc-womens-t20": { ... }
+  }
 }
 """
 
@@ -20,6 +22,7 @@ from datetime import datetime, timezone, timedelta, date
 OUTPUT_FILE  = "scores.json"
 WNBA_URL     = "https://site.api.espn.com/apis/site/v2/sports/basketball/wnba"
 NWSL_URL     = "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.nwsl"
+ICC_URL      = "https://site.api.espn.com/apis/site/v2/sports/cricket/8634"
 HEADERS      = {"User-Agent": "Mozilla/5.0"}
 TODAY        = datetime.now(timezone.utc).date()
 YESTERDAY    = TODAY - timedelta(days=1)
@@ -60,6 +63,16 @@ def fetch_scoreboard_single(base_url, d):
     return r.json().get("events", [])
 
 
+def _parse_score(raw):
+    """Return int for numeric scores (basketball/football), str for others (cricket)."""
+    if raw in (None, ""):
+        return None
+    try:
+        return int(raw)
+    except (ValueError, TypeError):
+        return raw
+
+
 def team_data(competitor, sport_path="wnba"):
     team    = competitor.get("team", {})
     team_id = str(team.get("id", ""))
@@ -71,7 +84,7 @@ def team_data(competitor, sport_path="wnba"):
         logo = f"https://a.espncdn.com/i/teamlogos/{sport_path}/500/{team_id}.png"
     return {
         "name":  team.get("shortDisplayName") or team.get("displayName", ""),
-        "score": int(competitor["score"]) if competitor.get("score") not in (None, "") else None,
+        "score": _parse_score(competitor.get("score")),
         "logo":  logo,
     }
 
@@ -132,7 +145,7 @@ def kickoff_label(ko: datetime) -> str:
 
 
 def process_league(base_url, label):
-    sport_path = "wnba" if label == "WNBA" else "soccer"
+    sport_path = {"WNBA": "wnba", "NWSL": "soccer"}.get(label, "cricket")
 
     if label == "WNBA":
         past_events   = fetch_scoreboard(base_url, YESTERDAY, TODAY)
@@ -189,8 +202,9 @@ def process_league(base_url, label):
 
 
 LEAGUE_CONFIGS = [
-    (WNBA_URL, "WNBA", "basketball", "wnba"),
-    (NWSL_URL, "NWSL", "football",   "nwsl"),
+    (WNBA_URL, "WNBA",               "basketball", "wnba"),
+    (NWSL_URL, "NWSL",               "football",   "nwsl"),
+    (ICC_URL,  "ICC Women's T20 WC", "cricket",    "icc-womens-t20"),
 ]
 
 
