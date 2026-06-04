@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bay FC @ Orlando Pride (1–3)
 DTSTART:20260529T230000Z
 DTEND:20260530T010000Z
-DTSTAMP:20260604T142747Z
+DTSTAMP:20260604T201301Z
 UID:espn-nwsl-401853922@herfixtures.com
 DESCRIPTION:NWSL 2026 · Orlando Pride\nBay FC at Orlando Pride\nStatus: F
  ull Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\n\nFixtures by HerFi
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Orlando Pride @ San Diego Wave FC (1–0)
 DTSTART:20260524T230000Z
 DTEND:20260525T010000Z
-DTSTAMP:20260604T142747Z
+DTSTAMP:20260604T201301Z
 UID:espn-nwsl-401853921@herfixtures.com
 DESCRIPTION:NWSL 2026 · Orlando Pride\nOrlando Pride at San Diego Wave FC
  \nStatus: Full Time\nVenue: Snapdragon Stadium\, San Diego\, California\n\
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Orlando Pride @ Denver Summit FC (1–3)
 DTSTART:20260517T004500Z
 DTEND:20260517T024500Z
-DTSTAMP:20260604T142747Z
+DTSTAMP:20260604T201301Z
 UID:espn-nwsl-401854056@herfixtures.com
 DESCRIPTION:NWSL 2026 · Orlando Pride\nOrlando Pride at Denver Summit FC\
  nStatus: Full Time\nVenue: Dick's Sporting Goods Park\, Commerce City\, Co
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Orlando Pride @ Boston Legacy FC (1–2)
 DTSTART:20260512T230000Z
 DTEND:20260513T010000Z
-DTSTAMP:20260604T142747Z
+DTSTAMP:20260604T201301Z
 UID:espn-nwsl-401854054@herfixtures.com
 DESCRIPTION:NWSL 2026 · Orlando Pride\nOrlando Pride at Boston Legacy FC\
  nStatus: Full Time\nVenue: Gillette Stadium\, Foxborough\, Massachusetts\n
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ North Carolina Courage @ Orlando Pride (0–1)
 DTSTART:20260509T000000Z
 DTEND:20260509T020000Z
-DTSTAMP:20260604T142747Z
+DTSTAMP:20260604T201301Z
 UID:espn-nwsl-401853903@herfixtures.com
 DESCRIPTION:NWSL 2026 · Orlando Pride\nNorth Carolina Courage at Orlando 
  Pride\nStatus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\n\nF
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Washington Spirit @ Orlando Pride (4–2)
 DTSTART:20260502T200000Z
 DTEND:20260502T220000Z
-DTSTAMP:20260604T142747Z
+DTSTAMP:20260604T201301Z
 UID:espn-nwsl-401853895@herfixtures.com
 DESCRIPTION:NWSL 2026 · Orlando Pride\nWashington Spirit at Orlando Pride
  \nStatus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\n\nFixtur
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Orlando Pride @ Racing Louisville FC (2–3)
 DTSTART:20260424T213000Z
 DTEND:20260424T233000Z
-DTSTAMP:20260604T142747Z
+DTSTAMP:20260604T201301Z
 UID:espn-nwsl-401853885@herfixtures.com
 DESCRIPTION:NWSL 2026 · Orlando Pride\nOrlando Pride at Racing Louisville
   FC\nStatus: Full Time\nVenue: Lynn Family Stadium\, Louisville\, Kentucky
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Angel City FC @ Orlando Pride (1–2)
 DTSTART:20260404T000000Z
 DTEND:20260404T020000Z
-DTSTAMP:20260604T142747Z
+DTSTAMP:20260604T201301Z
 UID:espn-nwsl-401853879@herfixtures.com
 DESCRIPTION:NWSL 2026 · Orlando Pride\nAngel City FC at Orlando Pride\nSt
  atus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\n\nFixtures b
@@ -109,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Orlando Pride @ Gotham FC (0–0)
 DTSTART:20260329T230000Z
 DTEND:20260330T010000Z
-DTSTAMP:20260604T142747Z
+DTSTAMP:20260604T201301Z
 UID:espn-nwsl-401853878@herfixtures.com
 DESCRIPTION:NWSL 2026 · Orlando Pride\nOrlando Pride at Gotham FC\nStatus
  : Full Time\nVenue: Red Bull Arena\, Harrison\, New Jersey\n\nFixtures by 
@@ -121,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Orlando Pride @ Chicago Stars FC (3–0)
 DTSTART:20260326T000000Z
 DTEND:20260326T020000Z
-DTSTAMP:20260604T142747Z
+DTSTAMP:20260604T201301Z
 UID:espn-nwsl-401853870@herfixtures.com
 DESCRIPTION:NWSL 2026 · Orlando Pride\nOrlando Pride at Chicago Stars FC\
  nStatus: Full Time\nVenue: Northwestern Medicine Field at Martin Stadium\,
@@ -134,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Denver Summit FC @ Orlando Pride (1–1)
 DTSTART:20260321T000000Z
 DTEND:20260321T020000Z
-DTSTAMP:20260604T142747Z
+DTSTAMP:20260604T201301Z
 UID:espn-nwsl-401854041@herfixtures.com
 DESCRIPTION:NWSL 2026 · Orlando Pride\nDenver Summit FC at Orlando Pride\
  nStatus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\n\nFixture
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Seattle Reign FC @ Orlando Pride (2–1)
 DTSTART:20260315T200000Z
 DTEND:20260315T220000Z
-DTSTAMP:20260604T142747Z
+DTSTAMP:20260604T201301Z
 UID:espn-nwsl-401853861@herfixtures.com
 DESCRIPTION:NWSL 2026 · Orlando Pride\nSeattle Reign FC at Orlando Pride\
  nStatus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\n\nFixture
