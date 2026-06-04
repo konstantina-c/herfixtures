@@ -2,22 +2,6 @@
   "version": 2,
   "routes": [
     {
-      "src": "/sitemap.xml",
-      "dest": "/sitemap.xml",
-      "headers": {
-        "Content-Type": "application/xml; charset=utf-8",
-        "Cache-Control": "public, max-age=86400"
-      }
-    },
-    {
-      "src": "/robots.txt",
-      "dest": "/robots.txt",
-      "headers": {
-        "Content-Type": "text/plain; charset=utf-8",
-        "Cache-Control": "public, max-age=86400"
-      }
-    },
-    {
       "src": "/scores.json",
       "dest": "/scores.json",
       "headers": {
