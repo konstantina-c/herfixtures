@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//ICC Women's T20 WC 2026 Bangladesh//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Bangladesh ICC Women's T20 World Cup 2026 fixtures. Updated a
+ utomatically by HerFixtures.com
+X-WR-CALNAME:Bangladesh — ICC Women's T20 WC 2026 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🏏 Bangladesh Women v Netherlands Women
+DTSTART:20260614T093000Z
+DTEND:20260614T133000Z
+DTSTAMP:20260604T142748Z
+UID:espn-icc-womens-t20-1490681@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026 · Bangladesh\nBangladesh Women
+  v Netherlands Women\nStatus: Scheduled\nVenue: Edgbaston\, Birmingham\, B
+ irmingham\n\nFixtures by HerFixtures.com — Women's Sports on Your Calend
+ ar
+URL:https://www.espn.in/cricket/series/8634/game/1490681/bangladesh-women-
+ vs-netherlands-women-5th-match-group-1-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Australia Women v Bangladesh Women
+DTSTART:20260617T093000Z
+DTEND:20260617T133000Z
+DTSTAMP:20260604T142748Z
+UID:espn-icc-womens-t20-1490685@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026 · Bangladesh\nAustralia Women 
+ v Bangladesh Women\nStatus: Scheduled\nVenue: Headingley\, Leeds\, Leeds\n
+ \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490685/australia-women-v
+ s-bangladesh-women-9th-match-group-1-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Bangladesh Women v Pakistan Women
+DTSTART:20260620T133000Z
+DTEND:20260620T173000Z
+DTSTAMP:20260604T142748Z
+UID:espn-icc-womens-t20-1490691@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026 · Bangladesh\nBangladesh Women
+  v Pakistan Women\nStatus: Scheduled\nVenue: The Rose Bowl\, Southampton\,
+  Southampton\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+URL:https://www.espn.in/cricket/series/8634/game/1490691/bangladesh-women-
+ vs-pakistan-women-15th-match-group-1-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Bangladesh Women v India Women
+DTSTART:20260625T133000Z
+DTEND:20260625T173000Z
+DTSTAMP:20260604T142748Z
+UID:espn-icc-womens-t20-1490699@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026 · Bangladesh\nBangladesh Women
+  v India Women\nStatus: Scheduled\nVenue: Old Trafford\, Manchester\, Manc
+ hester\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490699/bangladesh-women-
+ vs-india-women-23rd-match-group-1-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Bangladesh Women v South Africa Women
+DTSTART:20260628T093000Z
+DTEND:20260628T133000Z
+DTSTAMP:20260604T142748Z
+UID:espn-icc-womens-t20-1490705@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026 · Bangladesh\nBangladesh Women
+  v South Africa Women\nStatus: Scheduled\nVenue: Lord's\, London\, London\
+ n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490705/bangladesh-women-
+ vs-south-africa-women-29th-match-group-1-icc-womens-t20-world-cup-2026
+END:VEVENT
+END:VCALENDAR

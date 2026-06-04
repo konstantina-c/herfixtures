@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//ICC Women's T20 WC 2026 Scotland//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Scotland ICC Women's T20 World Cup 2026 fixtures. Updated aut
+ omatically by HerFixtures.com
+X-WR-CALNAME:Scotland — ICC Women's T20 WC 2026 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🏏 Ireland Women v Scotland Women
+DTSTART:20260613T093000Z
+DTEND:20260613T133000Z
+DTSTAMP:20260604T142748Z
+UID:espn-icc-womens-t20-1490678@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026 · Scotland\nIreland Women v Sc
+ otland Women\nStatus: Scheduled\nVenue: Old Trafford\, Manchester\, Manche
+ ster\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490678/ireland-women-vs-
+ scotland-women-2nd-match-group-2-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Scotland Women v West Indies Women
+DTSTART:20260618T173000Z
+DTEND:20260618T213000Z
+DTSTAMP:20260604T142748Z
+UID:espn-icc-womens-t20-1490688@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026 · Scotland\nScotland Women v W
+ est Indies Women\nStatus: Scheduled\nVenue: Headingley\, Leeds\, Leeds\n\n
+ Fixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490688/scotland-women-vs
+ -west-indies-women-12th-match-group-2-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 England Women v Scotland Women
+DTSTART:20260620T173000Z
+DTEND:20260620T213000Z
+DTSTAMP:20260604T142748Z
+UID:espn-icc-womens-t20-1490692@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026 · Scotland\nEngland Women v Sc
+ otland Women\nStatus: Scheduled\nVenue: Headingley\, Leeds\, Leeds\n\nFixt
+ ures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490692/england-women-vs-
+ scotland-women-16th-match-group-2-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 New Zealand Women v Scotland Women
+DTSTART:20260623T093000Z
+DTEND:20260623T133000Z
+DTSTAMP:20260604T142748Z
+UID:espn-icc-womens-t20-1490695@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026 · Scotland\nNew Zealand Women 
+ v Scotland Women\nStatus: Scheduled\nVenue: County Ground\, Bristol\, Bris
+ tol\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490695/new-zealand-women
+ -vs-scotland-women-19th-match-group-2-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Scotland Women v Sri Lanka Women
+DTSTART:20260626T173000Z
+DTEND:20260626T213000Z
+DTSTAMP:20260604T142748Z
+UID:espn-icc-womens-t20-1490701@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026 · Scotland\nScotland Women v S
+ ri Lanka Women\nStatus: Scheduled\nVenue: Old Trafford\, Manchester\, Manc
+ hester\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490701/scotland-women-vs
+ -sri-lanka-women-25th-match-group-2-icc-womens-t20-world-cup-2026
+END:VEVENT
+END:VCALENDAR

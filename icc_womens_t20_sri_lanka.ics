@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//ICC Women's T20 WC 2026 Sri Lanka//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Sri Lanka ICC Women's T20 World Cup 2026 fixtures. Updated au
+ tomatically by HerFixtures.com
+X-WR-CALNAME:Sri Lanka — ICC Women's T20 WC 2026 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🏏 England Women v Sri Lanka Women
+DTSTART:20260612T173000Z
+DTEND:20260612T213000Z
+DTSTAMP:20260604T142748Z
+UID:espn-icc-womens-t20-1490677@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026 · Sri Lanka\nEngland Women v S
+ ri Lanka Women\nStatus: Scheduled\nVenue: Edgbaston\, Birmingham\, Birming
+ ham\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490677/england-women-vs-
+ sri-lanka-women-1st-match-group-2-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 New Zealand Women v Sri Lanka Women
+DTSTART:20260616T133000Z
+DTEND:20260616T173000Z
+DTSTAMP:20260604T142748Z
+UID:espn-icc-womens-t20-1490683@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026 · Sri Lanka\nNew Zealand Women
+  v Sri Lanka Women\nStatus: Scheduled\nVenue: The Rose Bowl\, Southampton\
+ , Southampton\n\nFixtures by HerFixtures.com — Women's Sports on Your Ca
+ lendar
+URL:https://www.espn.in/cricket/series/8634/game/1490683/new-zealand-women
+ -vs-sri-lanka-women-7th-match-group-2-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Sri Lanka Women v West Indies Women
+DTSTART:20260621T093000Z
+DTEND:20260621T133000Z
+DTSTAMP:20260604T142748Z
+UID:espn-icc-womens-t20-1490693@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026 · Sri Lanka\nSri Lanka Women v
+  West Indies Women\nStatus: Scheduled\nVenue: County Ground\, Bristol\, Br
+ istol\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490693/sri-lanka-women-v
+ s-west-indies-women-17th-match-group-2-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Ireland Women v Sri Lanka Women
+DTSTART:20260623T133000Z
+DTEND:20260623T173000Z
+DTSTAMP:20260604T142748Z
+UID:espn-icc-womens-t20-1490696@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026 · Sri Lanka\nIreland Women v S
+ ri Lanka Women\nStatus: Scheduled\nVenue: County Ground\, Bristol\, Bristo
+ l\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490696/ireland-women-vs-
+ sri-lanka-women-20th-match-group-2-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Scotland Women v Sri Lanka Women
+DTSTART:20260626T173000Z
+DTEND:20260626T213000Z
+DTSTAMP:20260604T142748Z
+UID:espn-icc-womens-t20-1490701@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026 · Sri Lanka\nScotland Women v 
+ Sri Lanka Women\nStatus: Scheduled\nVenue: Old Trafford\, Manchester\, Man
+ chester\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/game/1490701/scotland-women-vs
+ -sri-lanka-women-25th-match-group-2-icc-womens-t20-world-cup-2026
+END:VEVENT
+END:VCALENDAR
