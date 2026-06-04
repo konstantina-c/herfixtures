@@ -33,12 +33,14 @@ jobs:
         run: python fetch_nwsl_teams.py
       - name: Run ICC Women's T20 fetch script
         run: python fetch_icc_womens_t20.py
+      - name: Run ICC Women's T20 team feeds script
+        run: python fetch_icc_womens_t20_teams.py
       - name: Generate scores.json for strip
         run: python fetch_scores_json.py
       - name: Commit and push updated feeds
         run: |
           git config user.name "HerFixtures Bot"
           git config user.email "bot@herfixtures.com"
-          git add womens_ucl.ics euroleague_women.ics wnba.ics wnba_*.ics nwsl.ics nwsl_*.ics icc_womens_t20.ics scores.json
+          git add womens_ucl.ics euroleague_women.ics wnba.ics wnba_*.ics nwsl.ics nwsl_*.ics icc_womens_t20.ics icc_womens_t20_*.ics scores.json
           git diff --staged --quiet || git commit -m "Auto-refresh feeds"
           git push

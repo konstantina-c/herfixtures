@@ -897,13 +897,7 @@ body {
           </div>
           <div class="feed-divider"></div>
           <div class="feed-actions">
-            <a href="https://calendar.google.com/calendar/r?cid=webcal://herfixtures.vercel.app/icc_womens_t20.ics"
-               target="_blank" rel="noopener"
-               class="btn-cal btn-google"
-               onclick="gtag('event','add_to_calendar',{competition:'ICC Women\'s T20 WC',calendar:'Google'})">Add to Google</a>
-            <a href="webcal://herfixtures.vercel.app/icc_womens_t20.ics"
-               class="btn-cal btn-apple"
-               onclick="gtag('event','add_to_calendar',{competition:'ICC Women\'s T20 WC',calendar:'Apple'})">Add to Apple</a>
+            <button class="btn-cal btn-choose-team" onclick="openICCModal()" aria-haspopup="dialog">Add to Calendar</button>
           </div>
         </div>
 
@@ -1410,6 +1404,26 @@ const NWSL_CONFIG = {
   ]
 };
 
+const ICC_CONFIG = {
+  leagueSlug:  'icc_womens_t20',
+  gaLabel:     "ICC Women's T20 WC",
+  teams: [
+    { name: "All Matches",  slug: "icc_womens_t20",              logo: "https://a.espncdn.com/i/leaguelogos/cricket/500/8634.png" },
+    { name: "Australia",    slug: "icc_womens_t20_australia",    logo: "https://flagcdn.com/w80/au.png" },
+    { name: "Bangladesh",   slug: "icc_womens_t20_bangladesh",   logo: "https://flagcdn.com/w80/bd.png" },
+    { name: "England",      slug: "icc_womens_t20_england",      logo: "https://flagcdn.com/w80/gb-eng.png" },
+    { name: "India",        slug: "icc_womens_t20_india",        logo: "https://flagcdn.com/w80/in.png" },
+    { name: "Ireland",      slug: "icc_womens_t20_ireland",      logo: "https://flagcdn.com/w80/ie.png" },
+    { name: "Netherlands",  slug: "icc_womens_t20_netherlands",  logo: "https://flagcdn.com/w80/nl.png" },
+    { name: "New Zealand",  slug: "icc_womens_t20_new_zealand",  logo: "https://flagcdn.com/w80/nz.png" },
+    { name: "Pakistan",     slug: "icc_womens_t20_pakistan",     logo: "https://flagcdn.com/w80/pk.png" },
+    { name: "Scotland",     slug: "icc_womens_t20_scotland",     logo: "https://flagcdn.com/w80/gb-sct.png" },
+    { name: "South Africa", slug: "icc_womens_t20_south_africa", logo: "https://flagcdn.com/w80/za.png" },
+    { name: "Sri Lanka",    slug: "icc_womens_t20_sri_lanka",    logo: "https://flagcdn.com/w80/lk.png" },
+    { name: "West Indies",  slug: "icc_womens_t20_west_indies",  logo: "https://a.espncdn.com/i/teamlogos/cricket/500/3816.png" },
+  ]
+};
+
 /* ── FeedModal component ─────────────────────────────────────────────────── */
 
 const FeedModal = (() => {
@@ -1540,6 +1554,7 @@ document.addEventListener('keydown', e => { if (e.key === 'Escape') FeedModal.cl
 /* ── Card button functions ───────────────────────────────────────────────── */
 function openWNBAModal() { FeedModal.open(WNBA_CONFIG); }
 function openNWSLModal() { FeedModal.open(NWSL_CONFIG); }
+function openICCModal()  { FeedModal.open(ICC_CONFIG);  }
 /* Future: function openFIBAModal() { FeedModal.open(FIBA_CONFIG); } */
 
 /* ══ SCORES STRIP ══ */
