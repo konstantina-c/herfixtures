@@ -1157,6 +1157,21 @@ async function subscribeHer(emailId, leagueId, btn) {
   width: 36px; height: 36px; object-fit: contain;
   border-radius: 50%;
 }
+.wnba-tile-emoji {
+  font-size: 28px; line-height: 1;
+  width: 36px; height: 36px;
+  display: flex; align-items: center; justify-content: center;
+}
+/* ICC modal — flags render at 3:2 ratio, not cropped into circles */
+#feedGrid[data-league="icc_womens_t20"] .wnba-tile-logo {
+  width: 64px; height: 43px;
+  object-fit: contain;
+  border-radius: 4px;
+}
+#feedGrid[data-league="icc_womens_t20"] .wnba-tile-emoji {
+  width: 64px; height: 43px;
+  font-size: 32px;
+}
 .wnba-tile-name {
   font-family: 'DM Sans', sans-serif;
   font-size: 13px; font-weight: 400;
@@ -1408,7 +1423,7 @@ const ICC_CONFIG = {
   leagueSlug:  'icc_womens_t20',
   gaLabel:     "ICC Women's T20 WC",
   teams: [
-    { name: "All Matches",  slug: "icc_womens_t20",              logo: "https://a.espncdn.com/i/leaguelogos/cricket/500/8634.png" },
+    { name: "All Matches",  slug: "icc_womens_t20",              emoji: "🌏" },
     { name: "Australia",    slug: "icc_womens_t20_australia",    logo: "https://flagcdn.com/w80/au.png" },
     { name: "Bangladesh",   slug: "icc_womens_t20_bangladesh",   logo: "https://flagcdn.com/w80/bd.png" },
     { name: "England",      slug: "icc_womens_t20_england",      logo: "https://flagcdn.com/w80/gb-eng.png" },
@@ -1446,8 +1461,11 @@ const FeedModal = (() => {
       tile.dataset.slug = team.slug;
       if (team.slug === _config.leagueSlug) tile.dataset.team = 'all';
       tile.onclick = () => { toggleTile(tile); updateButtons(); };
+      const logoHtml = team.emoji
+        ? `<span class="wnba-tile-emoji">${team.emoji}</span>`
+        : `<img class="wnba-tile-logo" src="${team.logo}" alt="${team.name}" onerror="this.style.opacity='0.3'">`;
       tile.innerHTML = `
-        <img class="wnba-tile-logo" src="${team.logo}" alt="${team.name}" onerror="this.style.opacity='0.3'">
+        ${logoHtml}
         <span class="wnba-tile-name">${team.name}</span>
         <div class="wnba-check">${CHECK_SVG}</div>`;
       g.appendChild(tile);
@@ -1500,6 +1518,7 @@ const FeedModal = (() => {
   return {
     open(config) {
       _config = config;
+      grid().dataset.league = config.leagueSlug;
       renderTiles(config.teams);
       updateButtons();
       overlay().classList.remove('is-closing');
