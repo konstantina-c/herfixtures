@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T08:42:32Z",
+  "updated": "2026-06-06T19:41:09Z",
   "competitions": {
     "wnba": {
       "name": "WNBA",
@@ -47,36 +47,38 @@
             "score": 72
           },
           "winner": "home"
-        }
-      ],
-      "livegame": [],
-      "pregame": [
+        },
         {
           "league": "WNBA",
           "home": {
             "name": "Storm",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/14.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/14.png",
+            "score": 68
           },
           "away": {
             "name": "Lynx",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/8.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/8.png",
+            "score": 88
           },
-          "kickoff": "2026-06-06T17:00:00Z",
-          "kickoff_label": "in 8h"
-        },
+          "winner": "away"
+        }
+      ],
+      "livegame": [
         {
           "league": "WNBA",
           "home": {
             "name": "Valkyries",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/gs.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/gs.png",
+            "score": 21
           },
           "away": {
             "name": "Aces",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/17.png"
-          },
-          "kickoff": "2026-06-06T19:00:00Z",
-          "kickoff_label": "in 10h"
-        },
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/17.png",
+            "score": 30
+          }
+        }
+      ],
+      "pregame": [
         {
           "league": "WNBA",
           "home": {
@@ -88,7 +90,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/20.png"
           },
           "kickoff": "2026-06-06T22:00:00Z",
-          "kickoff_label": "in 13h"
+          "kickoff_label": "in 2h"
         },
         {
           "league": "WNBA",
@@ -101,7 +103,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/9.png"
           },
           "kickoff": "2026-06-07T00:00:00Z",
-          "kickoff_label": "in 15h"
+          "kickoff_label": "in 4h"
         },
         {
           "league": "WNBA",
@@ -114,7 +116,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/tor.png"
           },
           "kickoff": "2026-06-07T19:00:00Z",
-          "kickoff_label": "Tomorrow @ 7pm"
+          "kickoff_label": "in 23h"
         },
         {
           "league": "WNBA",
