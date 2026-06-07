@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T09:26:50Z",
+  "updated": "2026-06-07T19:41:51Z",
   "competitions": {
     "wnba": {
       "name": "WNBA",
@@ -63,21 +63,22 @@
           "winner": "away"
         }
       ],
-      "livegame": [],
-      "pregame": [
+      "livegame": [
         {
           "league": "WNBA",
           "home": {
             "name": "Sky",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/19.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/19.png",
+            "score": 26
           },
           "away": {
             "name": "Tempo",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/tor.png"
-          },
-          "kickoff": "2026-06-07T19:00:00Z",
-          "kickoff_label": "in 10h"
-        },
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/tor.png",
+            "score": 42
+          }
+        }
+      ],
+      "pregame": [
         {
           "league": "WNBA",
           "home": {
@@ -89,7 +90,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/6.png"
           },
           "kickoff": "2026-06-07T23:00:00Z",
-          "kickoff_label": "in 14h"
+          "kickoff_label": "in 3h"
         },
         {
           "league": "WNBA",
