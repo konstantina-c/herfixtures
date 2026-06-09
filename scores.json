@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T09:57:03Z",
+  "updated": "2026-06-09T20:15:14Z",
   "competitions": {
     "wnba": {
       "name": "WNBA",
@@ -62,7 +62,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/19.png"
           },
           "kickoff": "2026-06-09T23:00:00Z",
-          "kickoff_label": "in 13h"
+          "kickoff_label": "in 3h"
         },
         {
           "league": "WNBA",
@@ -75,7 +75,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/8.png"
           },
           "kickoff": "2026-06-10T00:00:00Z",
-          "kickoff_label": "in 14h"
+          "kickoff_label": "in 4h"
         },
         {
           "league": "WNBA",
@@ -88,7 +88,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/gs.png"
           },
           "kickoff": "2026-06-10T02:00:00Z",
-          "kickoff_label": "in 16h"
+          "kickoff_label": "in 6h"
         },
         {
           "league": "WNBA",
