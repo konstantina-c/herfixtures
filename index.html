@@ -45,7 +45,7 @@
   --muted:      #555575;
   --card:       #181830;
   --border:     rgba(255,255,255,0.08);
-  --border2:    rgba(255,255,255,0.15);
+  --border2:    rgba(255,255,255,0.20);
   --grid:       rgba(7,62,227,0.07);
 
   /* Accessible blue for dark mode text/outlines (4.5:1 on #0C0C18) */
@@ -61,7 +61,7 @@
   --muted:      #7878A8;
   --card:       #FFFFFF;
   --border:     rgba(7,62,227,0.08);
-  --border2:    rgba(7,62,227,0.16);
+  --border2:    rgba(7,62,227,0.15);
   --grid:       rgba(7,62,227,0.04);
   --brand-fg:   #073EE3;
 }
@@ -178,12 +178,13 @@ body {
 
   #live-page .hero-title .w2 {
     display: inline-block; width: fit-content;
-    background: linear-gradient(to right, #073EE3 0%, #FF4D4D 100%);
+    background: linear-gradient(to right, var(--blue) 0%, var(--coral) 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
   }
 
+  /* ── Shared body-text class (hero subtitle, mission, email sub) ── */
   #live-page .hero-sub {
     font-size: 16px;
     color: var(--text2);
@@ -193,22 +194,8 @@ body {
     position: relative; z-index: 1;
     transition: color 0.4s;
   }
-
-  #live-page .hero-cta {
-    display: inline-flex; align-items: center; gap: 12px;
-    font-size: 14px; font-weight: 600; color: var(--muted);
-    cursor: pointer; transition: color 0.2s;
-    position: relative; z-index: 1;
-  }
-
-  #live-page .arrow-btn {
-    width: 40px; height: 40px; border-radius: 50%;
-    background: var(--brand-fg);
-    display: flex; align-items: center; justify-content: center;
-    color: white; font-size: 16px;
-    transition: transform 0.2s;
-    box-shadow: 0 4px 16px rgba(7,62,227,0.3);
-  }
+  #live-page .hero-sub p { margin-bottom: 1.3em; }
+  #live-page .hero-sub p:last-child { margin-bottom: 0; }
 
   #live-page .hero-social-proof {
     font-size: 13px;
@@ -231,15 +218,15 @@ body {
   /* Sections */
   #live-page .section { padding: 40px 20px; }
 
-  #live-page .mission-body { line-height: 1.8; color: var(--text2); transition: color 0.4s; }
-  #live-page .mission-body p { margin-bottom: 1.3em; }
-  #live-page .mission-body p:last-child { margin-bottom: 0; }
-
+  /* ── Typography tokens ── */
+  #live-page .eyebrow,
+  .strip-label {
+    font-size: 12px; font-weight: 700; letter-spacing: 0.18em;
+    text-transform: uppercase; color: var(--brand-fg); transition: color 0.4s;
+  }
   #live-page .eyebrow {
-    font-size: 11px; font-weight: 700; letter-spacing: 0.18em;
-    text-transform: uppercase; color: var(--brand-fg);
     margin-bottom: 14px; display: flex; align-items: center;
-    gap: 8px; transition: color 0.4s;
+    gap: 8px;
   }
   #live-page .eyebrow::before { content: ''; width: 20px; height: 2px; background: currentColor; border-radius: 2px; flex-shrink: 0; }
   #live-page .eyebrow.coral { color: var(--coral); }
@@ -251,6 +238,45 @@ body {
     margin-bottom: 24px; transition: color 0.4s;
   }
 
+  /* ── Button system ─────────────────────────────────────── */
+
+  /* Primary — filled, lifts on hover */
+  #live-page .btn-primary {
+    display: inline-flex; align-items: center; justify-content: center; gap: 10px;
+    padding: 14px 28px; border-radius: 12px; border: none;
+    background: var(--brand-fg); color: white;
+    font-family: 'DM Sans', sans-serif; font-size: 14px; font-weight: 600;
+    cursor: pointer; text-decoration: none;
+    box-shadow: 0 4px 20px rgba(7,62,227,0.25);
+    transition: transform 0.15s, box-shadow 0.15s;
+    position: relative; z-index: 1;
+  }
+  #live-page .btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 28px rgba(7,62,227,0.35);
+  }
+  #live-page .btn-full { width: 100%; display: flex; }
+
+  /* Outline base + colour modifiers */
+  #live-page .btn-outline {
+    display: inline-flex; align-items: center; justify-content: center;
+    padding: 13px 20px; border-radius: 12px;
+    font-family: 'DM Sans', sans-serif; font-size: 14px; font-weight: 600;
+    cursor: pointer; text-decoration: none; background: transparent;
+    transition: all 0.2s; white-space: nowrap;
+    overflow: hidden; text-overflow: ellipsis;
+  }
+  #live-page .btn-outline--blue {
+    color: var(--brand-fg); border: 1.5px solid var(--brand-fg);
+  }
+  #live-page .btn-outline--blue:hover { background: var(--brand-fg); color: white; }
+  #live-page .btn-outline--coral {
+    color: var(--coral); border: 1.5px solid var(--coral);
+  }
+  #live-page .btn-outline--coral:hover { background: var(--coral); color: white; }
+  #live-page .btn-outline--blue:disabled,
+  #live-page .btn-outline--coral:disabled { opacity: 0.35; cursor: default; pointer-events: none; }
+
   /* ── Disabled calendar button state — off-season feeds ── */
   #live-page .btn-cal-disabled {
     flex: 1; display: flex; align-items: center; justify-content: center;
@@ -261,10 +287,19 @@ body {
     cursor: default; opacity: 0.5; pointer-events: none;
   }
 
+  /* ── Calendar feed action buttons ── */
+  #live-page .btn-cal {
+    flex: 1; display: flex; align-items: center; justify-content: center;
+    font-family: 'DM Sans', sans-serif; font-size: 14px; font-weight: 600;
+    padding: 12px 10px; border-radius: 12px;
+    cursor: pointer; transition: all 0.2s; background: transparent;
+    text-decoration: none;
+  }
+
   /* ── UCL Final Card ── */
   #live-page .final-card {
     border-radius: 20px;
-    border: 1px solid #ebebeb;
+    border: 1px solid var(--border2);
     overflow: hidden;
     position: relative;
     background:
@@ -276,7 +311,7 @@ body {
   #live-page .final-card::before {
     content: ''; position: absolute; top: 0; left: 0; right: 0;
     height: 2px;
-    background: linear-gradient(to right, #073EE3 0%, #FF4D4D 100%);
+    background: linear-gradient(to right, var(--blue) 0%, var(--coral) 100%);
     z-index: 1;
   }
   #live-page .final-card-inner {
@@ -290,7 +325,7 @@ body {
     font-family: 'DM Sans', sans-serif;
     font-size: 14px;
     font-weight: 500;
-    color: #06060f;
+    color: var(--text);
     width: 100%;
   }
   #live-page .final-matchup {
@@ -316,7 +351,7 @@ body {
     font-family: 'Zalando Sans Expanded', sans-serif;
     font-size: 16px;
     font-weight: 700;
-    color: #1a1025;
+    color: var(--text);
     letter-spacing: -0.01em;
     white-space: nowrap;
   }
@@ -324,7 +359,7 @@ body {
     font-family: 'DM Sans', sans-serif;
     font-size: 16px;
     font-weight: 700;
-    color: #1a1025;
+    color: var(--text);
     letter-spacing: -0.01em;
     flex-shrink: 0;
     padding-bottom: 2px;
@@ -334,12 +369,12 @@ body {
     font-family: 'DM Sans', sans-serif;
     font-size: 12px;
     font-weight: 400;
-    color: #7b78a7;
+    color: var(--text2);
     width: 100%;
   }
   #live-page .final-divider {
     height: 1px;
-    background: #ebebeb;
+    background: var(--border);
     width: 100%;
   }
   #live-page .final-actions {
@@ -350,18 +385,12 @@ body {
 
   /* ── Final card dark mode overrides ── */
   [data-theme="dark"] #live-page .final-card {
-    border-color: rgba(255,255,255,0.08);
     background:
       url('data:image/svg+xml;utf8,<svg viewBox="0 0 400 229" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none"><rect x="0" y="0" height="100%25" width="100%25" fill="url(%23grad)" opacity="0.35"/><defs><radialGradient id="grad" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="10" gradientTransform="matrix(12.4 12.185 -9.95 15.185 45.5 -39.187)"><stop stop-color="rgba(0,77,152,1)" offset="0"/><stop stop-color="rgba(32,99,165,1)" offset="0.125"/><stop stop-color="rgba(128,166,204,1)" offset="0.5"/><stop stop-color="rgba(24,24,48,1)" offset="1"/></radialGradient></defs></svg>'),
       url('data:image/svg+xml;utf8,<svg viewBox="0 0 400 229" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none"><rect x="0" y="0" height="100%25" width="100%25" fill="url(%23grad)" opacity="0.7"/><defs><radialGradient id="grad" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="10" gradientTransform="matrix(-15.7 11.879 -9.7 -19.226 386.5 -39.187)"><stop stop-color="rgba(228,32,45,1)" offset="0"/><stop stop-color="rgba(235,88,98,1)" offset="0.25"/><stop stop-color="rgba(248,199,203,0.3)" offset="0.75"/><stop stop-color="rgba(24,24,48,1)" offset="1"/></radialGradient></defs></svg>'),
       #181830;
     background-size: cover, cover;
   }
-  [data-theme="dark"] #live-page .final-date { color: #EFEFFA; }
-  [data-theme="dark"] #live-page .final-team-name { color: #EFEFFA; }
-  [data-theme="dark"] #live-page .final-vs { color: #EFEFFA; }
-  [data-theme="dark"] #live-page .final-subtitle { color: #9898BB; }
-  [data-theme="dark"] #live-page .final-divider { background: rgba(255,255,255,0.08); }
 
   #live-page .feed-cards {
     display: grid;
@@ -376,21 +405,21 @@ body {
   }
 
   #live-page .feed-card {
-    background: var(--card); border: 1px solid var(--border);
+    background: var(--card); border: 1px solid var(--border2);
     border-radius: 20px; overflow: hidden;
     position: relative; transition: all 0.4s;
   }
   #live-page .feed-card::before {
     content: ''; position: absolute; top: 0; left: 0; right: 0;
     height: 2px;
-    background: linear-gradient(to right, #073EE3 0%, #FF4D4D 100%);
+    background: linear-gradient(to right, var(--blue) 0%, var(--coral) 100%);
   }
 
   #live-page .feed-header { padding: 20px 20px 14px; display: flex; align-items: center; gap: 14px; }
 
   #live-page .feed-icon {
     width: 44px; height: 44px; border-radius: 12px;
-    background: var(--bg3); border: 1px solid var(--border);
+    background: var(--bg3); border: 1px solid var(--border2);
     display: flex; align-items: center; justify-content: center;
     font-size: 20px; flex-shrink: 0; transition: all 0.4s;
   }
@@ -405,14 +434,18 @@ body {
     padding: 3px 8px; margin-bottom: 5px;
   }
   #live-page .badge-live {
-    background: rgba(34, 197, 94, 0.12);
-    color: #22c55e;
-    border: 1px solid rgba(34, 197, 94, 0.25);
+    background: rgba(94, 134, 255, 0.12);
+    color: var(--brand-fg);
+    border: 1px solid rgba(94, 134, 255, 0.25);
+  }
+  [data-theme="light"] #live-page .badge-live {
+    background: rgba(7, 62, 227, 0.08);
+    border-color: rgba(7, 62, 227, 0.20);
   }
   #live-page .badge-offseason {
     background: var(--bg3);
     color: var(--muted);
-    border: 1px solid var(--border);
+    border: 1px solid var(--border2);
   }
 
   #live-page .feed-divider { height: 1px; background: var(--border); margin: 0 20px; transition: background 0.4s; }
@@ -421,23 +454,6 @@ body {
     padding: 0 20px 14px; transition: color 0.4s;
   }
   #live-page .feed-actions { padding: 14px 20px 20px; display: flex; gap: 10px; }
-
-  #live-page .btn-cal {
-    flex: 1; display: flex; align-items: center; justify-content: center;
-    font-family: 'DM Sans', sans-serif; font-size: 13px; font-weight: 600;
-    padding: 12px 10px; border-radius: 12px;
-    cursor: pointer; transition: all 0.2s; background: transparent;
-    text-decoration: none;
-  }
-  #live-page .btn-google { color: var(--brand-fg); border: 1.5px solid var(--brand-fg); }
-  #live-page .btn-apple  { color: var(--coral); border: 1.5px solid var(--coral); }
-  #live-page .btn-choose-team {
-    width: 100%; color: var(--brand-fg); border: 1.5px solid var(--brand-fg);
-    background: transparent; cursor: pointer; font-family: 'DM Sans', sans-serif;
-  }
-  #live-page .btn-choose-team:hover {
-    background: var(--brand-fg); color: white;
-  }
 
   /* Email */
   #live-page .email-wrap {
@@ -450,21 +466,7 @@ body {
   #live-page .email-wrap::before {
     content: ''; position: absolute; top: 0; left: 0; right: 0;
     height: 3px;
-    background: linear-gradient(to right, #073EE3 0%, #FF4D4D 100%);
-  }
-
-  #live-page .email-section-title {
-    font-family: 'Zalando Sans Expanded', sans-serif;
-    font-weight: 800; font-size: 28px; line-height: 1.1;
-    letter-spacing: -0.02em; color: var(--text);
-    margin-bottom: 12px; transition: color 0.4s;
-    text-align: left;
-  }
-
-  #live-page .email-sub {
-    font-size: 15px; color: var(--text2); line-height: 1.6;
-    margin-bottom: 24px; transition: color 0.4s;
-    text-align: left;
+    background: linear-gradient(to right, var(--blue) 0%, var(--coral) 100%);
   }
 
   /* Stacked inputs on mobile */
@@ -484,16 +486,6 @@ body {
   }
   #live-page .email-input::placeholder { color: var(--muted); }
   #live-page .email-input:focus { border-color: var(--brand-fg); box-shadow: 0 0 0 3px rgba(7,62,227,0.10); }
-
-  #live-page .email-btn {
-    padding: 16px 24px;
-    background: var(--brand-fg); color: white;
-    font-family: 'DM Sans', sans-serif; font-size: 15px; font-weight: 700;
-    border: none; border-radius: 12px; cursor: pointer;
-    letter-spacing: 0.02em;
-    box-shadow: 0 4px 20px rgba(7,62,227,0.22);
-    transition: all 0.2s; display: block; width: 100%;
-  }
 
   #live-page .email-disclaimer {
     font-size: 12px; color: var(--muted);
@@ -515,12 +507,6 @@ body {
 
   #live-page .footer-left {
     display: flex; flex-direction: column; align-items: center; gap: 4px;
-  }
-
-  #live-page .footer-logo {
-    font-family: 'Zalando Sans Expanded', sans-serif;
-    font-weight: 800; font-size: 18px; letter-spacing: -0.01em;
-    color: var(--text); transition: color 0.4s;
   }
 
   #live-page .footer-right {
@@ -550,10 +536,8 @@ body {
   #live-page .section-title { font-size: 40px; }
   #live-page .feed-cards { grid-template-columns: 1fr 1fr; gap: 20px; padding: 0 0 56px; }
   #live-page .email-wrap { margin: 0 48px 56px; padding: 48px; }
-  #live-page .email-section-title { font-size: 40px; }
-  #live-page .email-sub { font-size: 17px; }
   #live-page .email-fields { grid-template-columns: 1fr 1fr; gap: 12px; }
-  #live-page .email-btn { width: auto; display: inline-block; padding: 16px 48px; }
+  #live-page .btn-primary.btn-full { width: auto; display: inline-flex; padding: 16px 48px; }
   #live-page .real-footer { padding: 40px 48px; flex-direction: row; align-items: center; justify-content: space-between; }
   #live-page .footer-left { align-items: flex-start; }
   #live-page .footer-right { align-items: flex-end; text-align: right; }
@@ -573,6 +557,8 @@ body {
 
   #live-page .hero-sub { font-size: 20px; max-width: 580px; margin-bottom: 48px; }
 
+  #live-page .section .hero-sub { font-size: 18px; max-width: 760px; line-height: 1.8; }
+
   #live-page .divider { margin: 0 80px; }
 
   #live-page .section { padding: 72px 80px; }
@@ -584,15 +570,7 @@ body {
     grid-template-columns: 1fr 1fr;
   }
 
-  #live-page .mission-body { font-size: 18px; max-width: 760px; line-height: 1.8; color: var(--text2); transition: color 0.4s; }
-  #live-page .mission-body p { margin-bottom: 1.3em; }
-  #live-page .mission-body p:last-child { margin-bottom: 0; }
-
   #live-page .email-wrap { margin: 0 80px 72px; padding: 64px; }
-
-  #live-page .email-section-title { font-size: 48px; }
-
-  #live-page .email-sub { font-size: 18px; }
 
   #live-page .real-footer { padding: 48px 80px; }
 }
@@ -623,13 +601,7 @@ body {
   position: absolute;
   top: 0;
   font-family: 'DM Sans', sans-serif;
-  font-size: 10px;
-  font-weight: 700;
-  letter-spacing: 0.8px;
-  text-transform: uppercase;
-  color: var(--blue);
   white-space: nowrap;
-  transition: color 0.4s;
 }
 
 /* Scroll container */
@@ -672,7 +644,7 @@ body {
   width: 200px;
   flex-shrink: 0;
   background: var(--card);
-  border: 1px solid var(--border);
+  border: 1px solid var(--border2);
   border-radius: 12px;
   padding: 18px 16px 16px;
   display: flex;
@@ -751,7 +723,7 @@ body {
   width: 20px; height: 20px;
   border-radius: 50%;
   background: var(--bg3);
-  border: 1px solid var(--border);
+  border: 1px solid var(--border2);
   flex-shrink: 0;
   overflow: hidden;
   display: flex; align-items: center; justify-content: center;
@@ -834,10 +806,10 @@ body {
       <p class="hero-sub">
         The fixtures were always happening. Now they live where you'll actually see them — in your calendar. Just pick your competition and add it to Google Calendar or Apple Calendar.
       </p>
-      <div class="hero-cta" onclick="document.getElementById('live-feeds').scrollIntoView({behavior:'smooth'})">
-        <div class="arrow-btn">↓</div>
+      <button class="btn-primary" onclick="document.getElementById('live-feeds').scrollIntoView({behavior:'smooth'})">
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M8 3v10M3 8.5l5 5 5-5" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/></svg>
         See the feeds
-      </div>
+      </button>
       <p class="hero-social-proof">Already followed by fans in New York, Madrid, Paris, Amsterdam and more.</p>
     </div>
 
@@ -861,7 +833,7 @@ body {
           </div>
           <div class="feed-divider"></div>
           <div class="feed-actions">
-            <button class="btn-cal btn-choose-team" onclick="openWNBAModal()" aria-haspopup="dialog">
+            <button class="btn-cal btn-outline--blue" onclick="openWNBAModal()" aria-haspopup="dialog">
               Add to Calendar
             </button>
           </div>
@@ -879,7 +851,7 @@ body {
           </div>
           <div class="feed-divider"></div>
           <div class="feed-actions">
-            <button class="btn-cal btn-choose-team" onclick="openNWSLModal()" aria-haspopup="dialog">
+            <button class="btn-cal btn-outline--blue" onclick="openNWSLModal()" aria-haspopup="dialog">
               Add to Calendar
             </button>
           </div>
@@ -928,7 +900,7 @@ body {
     <div class="section">
       <div class="eyebrow coral">Our story</div>
       <div class="section-title">Why HerFixtures exists.</div>
-      <div class="mission-body">
+      <div class="hero-sub">
         <p>Women's sports has always been here. The athletes, the seasons, the rivalries, the drama — all of it, running in full every year. <strong>What was missing was never the sport. It was the infrastructure to follow it.</strong></p>
         <p>HerFixtures came to life from our own lived experience — or rather, the absence of it. The frustration of searching for fixtures that should have been easy to find. The effort of manually tracking competitions across fragmented sources. The quiet resignation of missing matches not because we didn't care, but because nothing made it easy to stay connected. <strong>That experience — felt and real — is what led us to build something that simply works.</strong> Something that assumes you belong, that your interest is valid, that your calendar deserves to know.</p>
         <p>This is a small thing. And it is also, quietly, a statement about what we believe women's sports fans deserve as a baseline.</p>
@@ -939,13 +911,13 @@ body {
 
     <!-- Email capture -->
     <div class="email-wrap">
-      <div class="email-section-title">New competitions<br>added regularly.</div>
-      <div class="email-sub">Want to know when yours is live? Leave your details — be the first to know.</div>
+      <div class="section-title">New competitions<br>added regularly.</div>
+      <p class="hero-sub">Want to know when yours is live? Leave your details — be the first to know.</p>
       <div class="email-fields">
         <input class="email-input" type="email" id="email-input-main" placeholder="your@email.com">
         <input class="email-input" type="text" id="league-input-main" placeholder="Your favourite league or team">
       </div>
-      <button class="email-btn" onclick="subscribeHer('email-input-main','league-input-main',this)">Be the first to know</button>
+      <button class="btn-primary btn-full" onclick="subscribeHer('email-input-main','league-input-main',this)">Be the first to know</button>
       <p class="email-social-proof">Joined by fans in 7+ countries.</p>
     </div>
 
@@ -954,7 +926,7 @@ body {
   <!-- Footer -->
   <div class="real-footer">
     <div class="footer-left">
-      <div class="footer-logo">HerFixtures</div>
+      <div class="real-logo">HerFixtures</div>
       <div class="footer-url">herfixtures.com</div>
     </div>
     <div class="footer-right">
@@ -1061,7 +1033,7 @@ async function subscribeHer(emailId, leagueId, btn) {
 }
 .wnba-modal-bar {
   height: 3px; flex-shrink: 0;
-  background: linear-gradient(to right, #073EE3, #FF4D4D);
+  background: linear-gradient(to right, var(--blue), var(--coral));
 }
 .wnba-modal-head {
   padding: 24px 24px 0;
@@ -1130,7 +1102,7 @@ async function subscribeHer(emailId, leagueId, btn) {
   position: absolute; inset: 0;
   border-radius: 12px;
   padding: 1.5px;
-  background: linear-gradient(135deg, #073EE3, #FF4D4D);
+  background: linear-gradient(135deg, var(--blue), var(--coral));
   -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
   -webkit-mask-composite: xor;
   mask-composite: exclude;
@@ -1174,23 +1146,9 @@ async function subscribeHer(emailId, leagueId, btn) {
 .wnba-foot-btns {
   display: flex; gap: 12px;
 }
-.wnba-btn-google, .wnba-btn-apple {
-  flex: 1; padding: 13px 10px; border-radius: 12px;
-  font-family: 'DM Sans', sans-serif; font-size: 13px; font-weight: 600;
-  cursor: pointer; transition: all 0.2s; text-align: center;
-  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
-}
-.wnba-btn-google {
-  color: var(--brand-fg); border: 1.5px solid var(--brand-fg); background: transparent;
-}
-.wnba-btn-google:hover { background: var(--brand-fg); color: white; }
-.wnba-btn-apple {
-  color: var(--coral); border: 1.5px solid var(--coral); background: transparent;
-}
-.wnba-btn-apple:hover { background: var(--coral); color: white; }
-.wnba-btn-google:disabled, .wnba-btn-apple:disabled {
-  opacity: 0.35; cursor: default; pointer-events: none;
-}
+/* Context rule: outline buttons fill the modal footer */
+.wnba-foot-btns .btn-outline { flex: 1; }
+.wnba-foot-btns .btn-outline:disabled { opacity: 0.35; cursor: default; pointer-events: none; }
 
 /* ── Success state ── */
 .wnba-success {
@@ -1201,7 +1159,7 @@ async function subscribeHer(emailId, leagueId, btn) {
 .wnba-success.is-visible { display: flex; }
 .wnba-success-icon {
   width: 64px; height: 64px; border-radius: 50%;
-  background: linear-gradient(135deg, #073EE3, #FF4D4D);
+  background: linear-gradient(135deg, var(--blue), var(--coral));
   display: flex; align-items: center; justify-content: center;
   margin-bottom: 20px; font-size: 28px;
 }
@@ -1308,8 +1266,8 @@ async function subscribeHer(emailId, leagueId, btn) {
     <div class="wnba-modal-foot" id="feedFoot">
       <div class="wnba-foot-divider"></div>
       <div class="wnba-foot-btns">
-        <button class="wnba-btn-google" id="feedBtnGoogle" onclick="FeedModal.subscribe('google')">Add to Google</button>
-        <button class="wnba-btn-apple"  id="feedBtnApple"  onclick="FeedModal.subscribe('apple')">Add to Apple</button>
+        <button class="btn-outline btn-outline--blue" id="feedBtnGoogle" onclick="FeedModal.subscribe('google')">Add to Google</button>
+        <button class="btn-outline btn-outline--coral" id="feedBtnApple"  onclick="FeedModal.subscribe('apple')">Add to Apple</button>
       </div>
     </div>
 
@@ -1548,8 +1506,7 @@ function makeCard(game) {
   card.className = 'game-card';
 
   if (game.variant === 'postgame') {
-    // winner field set by fetch_scores_json.py (away team is "home" slot per US convention)
-    const hw = game.winner ? game.winner === 'home' : game.home.score > game.away.score;
+    const hw = game.home.score > game.away.score;
     card.innerHTML = `
       <div class="gc-header">
         <span class="gc-league">${game.league}</span>
@@ -1770,12 +1727,12 @@ function addLiveGame() {
 </script>
 
 <a href="https://smollaunch.com" target="_blank" rel="noopener">
-  <img src="https://smollaunch.com/badges/featured.svg" 
-       alt="Featured on Smol Launch" 
+  <img src="https://smollaunch.com/badges/featured.svg"
+       alt="Featured on Smol Launch"
        loading="lazy" width="250" height="60"
        class="smol-badge-light" />
-  <img src="https://smollaunch.com/badges/featured-dark.svg" 
-       alt="Featured on Smol Launch" 
+  <img src="https://smollaunch.com/badges/featured-dark.svg"
+       alt="Featured on Smol Launch"
        loading="lazy" width="250" height="60"
        class="smol-badge-dark" />
 </a>
