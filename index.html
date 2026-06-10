@@ -833,7 +833,7 @@ body {
           </div>
           <div class="feed-divider"></div>
           <div class="feed-actions">
-            <button class="btn-cal btn-outline--blue" onclick="openWNBAModal()" aria-haspopup="dialog">
+            <button class="btn-outline btn-outline--blue btn-full" onclick="openWNBAModal()" aria-haspopup="dialog">
               Add to Calendar
             </button>
           </div>
@@ -851,13 +851,29 @@ body {
           </div>
           <div class="feed-divider"></div>
           <div class="feed-actions">
-            <button class="btn-cal btn-outline--blue" onclick="openNWSLModal()" aria-haspopup="dialog">
+            <button class="btn-outline btn-outline--blue btn-full" onclick="openNWSLModal()" aria-haspopup="dialog">
               Add to Calendar
             </button>
           </div>
         </div>
 
-        <!-- 2. UCL Women — off-season, buttons disabled -->
+        <!-- 3. ICC Women's T20 World Cup — active tournament -->
+        <div class="feed-card">
+          <div class="feed-header">
+            <div class="feed-icon">🏏</div>
+            <div class="feed-info">
+              <div class="feed-badge badge-live">Tournament · Jun 12–29</div>
+              <div class="feed-name">ICC Women's T20 World Cup</div>
+              <div class="feed-meta">Cricket · England &amp; Wales · 2026</div>
+            </div>
+          </div>
+          <div class="feed-divider"></div>
+          <div class="feed-actions">
+            <button class="btn-outline btn-outline--blue btn-full" onclick="openICCModal()" aria-haspopup="dialog">Add to Calendar</button>
+          </div>
+        </div>
+
+        <!-- 4. UCL Women — off-season, buttons disabled -->
         <div class="feed-card">
           <div class="feed-header">
             <div class="feed-icon">⚽</div>
@@ -900,7 +916,7 @@ body {
     <div class="section">
       <div class="eyebrow coral">Our story</div>
       <div class="section-title">Why HerFixtures exists.</div>
-      <div class="hero-sub">
+      <div class="mission-body hero-sub">
         <p>Women's sports has always been here. The athletes, the seasons, the rivalries, the drama — all of it, running in full every year. <strong>What was missing was never the sport. It was the infrastructure to follow it.</strong></p>
         <p>HerFixtures came to life from our own lived experience — or rather, the absence of it. The frustration of searching for fixtures that should have been easy to find. The effort of manually tracking competitions across fragmented sources. The quiet resignation of missing matches not because we didn't care, but because nothing made it easy to stay connected. <strong>That experience — felt and real — is what led us to build something that simply works.</strong> Something that assumes you belong, that your interest is valid, that your calendar deserves to know.</p>
         <p>This is a small thing. And it is also, quietly, a statement about what we believe women's sports fans deserve as a baseline.</p>
@@ -1148,6 +1164,10 @@ async function subscribeHer(emailId, leagueId, btn) {
 }
 /* Context rule: outline buttons fill the modal footer */
 .wnba-foot-btns .btn-outline { flex: 1; }
+.wnba-foot-btns .btn-outline--blue  { color: var(--brand-fg); }
+.wnba-foot-btns .btn-outline--blue:hover  { background: var(--brand-fg); color: white; }
+.wnba-foot-btns .btn-outline--coral { color: var(--coral); }
+.wnba-foot-btns .btn-outline--coral:hover { background: var(--coral); color: white; }
 .wnba-foot-btns .btn-outline:disabled { opacity: 0.35; cursor: default; pointer-events: none; }
 
 /* ── Success state ── */
