@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="canonical" href="https://www.herfixtures.com/blog/">
+<title>Blog — HerFixtures</title>
+<meta name="description" content="Women's sports guides, fan resources, and fixture previews from HerFixtures. Follow the ICC Women's T20 World Cup, WNBA, NWSL, and more.">
+<meta property="og:title" content="Blog — HerFixtures">
+<meta property="og:description" content="Women's sports guides, fan resources, and fixture previews from HerFixtures.">
+<meta property="og:url" content="https://www.herfixtures.com/blog/">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://www.herfixtures.com/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Blog — HerFixtures">
+<meta name="twitter:description" content="Women's sports guides, fan resources, and fixture previews from HerFixtures.">
+<meta name="twitter:image" content="https://www.herfixtures.com/og-image.png">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TSQNRYCCSL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-TSQNRYCCSL');
+</script>
+<link rel="icon" type="image/svg+xml" href="/Favicon.svg">
+<link rel="apple-touch-icon" href="/Favicon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Zalando+Sans+Expanded:wght@300;400;500;600;700;800;900&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,300;1,9..40,400&display=swap" rel="stylesheet">
+<style>
+
+/* ── TOKENS ─────────────────────────────────────────────── */
+:root {
+  --blue:      #073EE3;
+  --blue-dim:  #052FC0;
+  --coral:     #FF4D4D;
+  --gold:      #F5C842;
+  --bg:        #0C0C18;
+  --bg2:       #181830;
+  --bg3:       #222240;
+  --text:      #EFEFFA;
+  --text2:     #9898BB;
+  --muted:     #555575;
+  --card:      #181830;
+  --border:    rgba(255,255,255,0.08);
+  --border2:   rgba(255,255,255,0.15);
+  --brand-fg:  #5E86FF;
+}
+
+[data-theme="light"] {
+  --bg:        #FAFAFE;
+  --bg2:       #FFFFFF;
+  --bg3:       #EEEEFF;
+  --text:      #06060F;
+  --text2:     #34345A;
+  --muted:     #7878A8;
+  --card:      #FFFFFF;
+  --border:    rgba(7,62,227,0.08);
+  --border2:   rgba(7,62,227,0.16);
+  --brand-fg:  #073EE3;
+}
+
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: 'DM Sans', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+  overflow-x: hidden;
+  transition: background 0.4s, color 0.4s;
+}
+
+/* ── TOPBAR ─────────────────────────────────────────────── */
+.topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 20px;
+  border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: var(--bg);
+  transition: background 0.4s, border-color 0.4s;
+}
+
+@media (min-width: 600px) { .topbar { padding: 20px 48px; } }
+@media (min-width: 900px) { .topbar { padding: 24px 80px; } }
+
+.logo {
+  font-family: 'Zalando Sans Expanded', sans-serif;
+  font-weight: 800;
+  font-size: 20px;
+  letter-spacing: -0.01em;
+  color: var(--text);
+  text-decoration: none;
+  transition: color 0.4s;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
+.nav-link {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--text2);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.nav-link:hover { color: var(--text); }
+.nav-link.active { color: var(--brand-fg); }
+
+.theme-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 4px;
+  display: flex;
+  align-items: center;
+  color: var(--muted);
+  transition: color 0.3s, opacity 0.3s;
+  border-radius: 6px;
+}
+.theme-btn:hover { opacity: 0.7; }
+
+/* ── BLOG HEADER ────────────────────────────────────────── */
+.blog-header {
+  padding: 56px 20px 40px;
+}
+@media (min-width: 600px) { .blog-header { padding: 72px 48px 48px; } }
+@media (min-width: 900px) { .blog-header { padding: 80px 80px 56px; } }
+
+.eyebrow {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--brand-fg);
+  margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  transition: color 0.4s;
+}
+.eyebrow::before {
+  content: '';
+  width: 20px;
+  height: 2px;
+  background: currentColor;
+  border-radius: 2px;
+  flex-shrink: 0;
+}
+
+.blog-title {
+  font-family: 'Zalando Sans Expanded', sans-serif;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 0.95;
+  letter-spacing: -0.02em;
+  color: var(--text);
+  margin-bottom: 16px;
+  transition: color 0.4s;
+}
+@media (min-width: 600px) { .blog-title { font-size: 52px; } }
+
+.blog-sub {
+  font-size: 16px;
+  color: var(--text2);
+  line-height: 1.65;
+  transition: color 0.4s;
+}
+
+/* ── POST LIST ──────────────────────────────────────────── */
+.blog-list {
+  padding: 0 20px 80px;
+  max-width: 900px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+@media (min-width: 600px) { .blog-list { padding: 0 48px 80px; } }
+@media (min-width: 900px) { .blog-list { padding: 0 80px 80px; } }
+
+.post-card {
+  display: block;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 28px;
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.2s, box-shadow 0.2s, background 0.4s;
+}
+.post-card:hover {
+  border-color: var(--border2);
+  box-shadow: 0 4px 24px rgba(0,0,0,0.10);
+}
+
+.post-meta {
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--brand-fg);
+  margin-bottom: 12px;
+  transition: color 0.4s;
+}
+
+.post-title {
+  font-family: 'Zalando Sans Expanded', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  line-height: 1.1;
+  letter-spacing: -0.01em;
+  color: var(--text);
+  margin-bottom: 12px;
+  transition: color 0.4s;
+}
+@media (min-width: 600px) { .post-title { font-size: 26px; } }
+
+.post-excerpt {
+  font-size: 15px;
+  color: var(--text2);
+  line-height: 1.65;
+  margin-bottom: 20px;
+  transition: color 0.4s;
+}
+
+.post-cta {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--brand-fg);
+  transition: color 0.4s;
+}
+
+/* ── FOOTER ─────────────────────────────────────────────── */
+.footer {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 32px 20px;
+  border-top: 1px solid var(--border);
+  transition: border-color 0.4s;
+}
+@media (min-width: 600px) {
+  .footer {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px 48px;
+  }
+}
+@media (min-width: 900px) { .footer { padding: 48px 80px; } }
+
+.footer-logo {
+  font-family: 'Zalando Sans Expanded', sans-serif;
+  font-weight: 800;
+  font-size: 16px;
+  color: var(--text);
+  transition: color 0.4s;
+}
+.footer-url {
+  font-size: 13px;
+  color: var(--muted);
+  margin-top: 4px;
+  transition: color 0.4s;
+}
+.footer-right { display: flex; flex-direction: column; gap: 6px; }
+@media (min-width: 600px) { .footer-right { align-items: flex-end; } }
+
+.footer-socials {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.footer-follow { font-size: 13px; color: var(--muted); transition: color 0.4s; }
+.footer-social-link {
+  color: var(--muted);
+  text-decoration: none;
+  transition: color 0.2s;
+  display: flex;
+  align-items: center;
+}
+.footer-social-link:hover { color: var(--brand-fg); }
+.footer-social-link svg { width: 16px; height: 16px; fill: currentColor; }
+.footer-copy { font-size: 11px; color: var(--muted); transition: color 0.4s; }
+.footer-credit {
+  text-align: center;
+  font-size: 13px;
+  color: var(--muted);
+  padding: 12px 0 24px;
+  transition: color 0.4s;
+}
+.footer-credit a { color: inherit; font-weight: 500; text-decoration: none; }
+.footer-credit a:hover { color: var(--brand-fg); }
+
+</style>
+</head>
+<body>
+
+<header class="topbar">
+  <a href="/" class="logo">HerFixtures</a>
+  <nav class="nav">
+    <a href="/blog" class="nav-link active">Blog</a>
+  </nav>
+  <button class="theme-btn" id="theme-btn" onclick="toggleTheme()" aria-label="Toggle dark mode">
+    <svg id="icon-moon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+    </svg>
+    <svg id="icon-sun" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="display:none;">
+      <circle cx="12" cy="12" r="5"/>
+      <line x1="12" y1="1" x2="12" y2="3"/>
+      <line x1="12" y1="21" x2="12" y2="23"/>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/>
+      <line x1="1" y1="12" x2="3" y2="12"/>
+      <line x1="21" y1="12" x2="23" y2="12"/>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
+    </svg>
+  </button>
+</header>
+
+<main>
+  <div class="blog-header">
+    <div class="eyebrow">Blog</div>
+    <h1 class="blog-title">Women's sports,<br>written for fans.</h1>
+    <p class="blog-sub">Guides, previews, and everything you need to follow the game.</p>
+  </div>
+
+  <div class="blog-list">
+    <a href="/blog/icc-womens-t20-world-cup-2026-guide/" class="post-card">
+      <div class="post-meta">Cricket &middot; 12 June 2026</div>
+      <h2 class="post-title">How to Follow the ICC Women's T20 World Cup 2026: The Complete Fan Guide</h2>
+      <p class="post-excerpt">Thirty-three matches. Twelve nations. Twenty-four days of women's cricket in England and Wales. Your complete guide to the tournament — where it's being held, how it works, the match you cannot miss, and how to never miss a fixture.</p>
+      <span class="post-cta">Read guide &rarr;</span>
+    </a>
+  </div>
+</main>
+
+<footer class="footer">
+  <div class="footer-left">
+    <div class="footer-logo">HerFixtures</div>
+    <div class="footer-url">herfixtures.com</div>
+  </div>
+  <div class="footer-right">
+    <div class="footer-socials">
+      <span class="footer-follow">Follow us on</span>
+      <a href="https://x.com/herfixtures" target="_blank" rel="noopener" class="footer-social-link" aria-label="HerFixtures on X">
+        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.744l7.737-8.835L1.254 2.25H8.08l4.253 5.622L18.244 2.25zm-1.161 17.52h1.833L7.084 4.126H5.117L17.083 19.77z"/></svg>
+      </a>
+    </div>
+    <div class="footer-copy">&copy; 2026 HerFixtures</div>
+  </div>
+</footer>
+<div class="footer-credit">
+  Built by <a href="https://x.com/Konstantina__C" target="_blank" rel="noopener">@Konstantina__C</a> &nbsp;|&nbsp; &copy; 2026 HerFixtures&trade;. All rights reserved.
+</div>
+
+<script>
+function toggleTheme() {
+  const h = document.documentElement;
+  const isDark = h.getAttribute('data-theme') === 'dark';
+  h.setAttribute('data-theme', isDark ? 'light' : 'dark');
+  document.getElementById('icon-moon').style.display = isDark ? '' : 'none';
+  document.getElementById('icon-sun').style.display  = isDark ? 'none' : '';
+}
+</script>
+</body>
+</html>
