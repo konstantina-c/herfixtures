@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 England Women v Sri Lanka Women
 DTSTART:20260612T173000Z
 DTEND:20260612T213000Z
-DTSTAMP:20260611T203032Z
+DTSTAMP:20260612T102450Z
 UID:espn-icc-womens-t20-1490677@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026\nEngland Women v Sri Lanka Wome
  n\nStatus: Scheduled\nVenue: Edgbaston\, Birmingham\, Birmingham\n\nFixtur
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 Ireland Women v Scotland Women
 DTSTART:20260613T093000Z
 DTEND:20260613T133000Z
-DTSTAMP:20260611T203032Z
+DTSTAMP:20260612T102450Z
 UID:espn-icc-womens-t20-1490678@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026\nIreland Women v Scotland Women
  \nStatus: Scheduled\nVenue: Old Trafford\, Manchester\, Manchester\n\nFixt
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 Australia Women v South Africa Women
 DTSTART:20260613T133000Z
 DTEND:20260613T173000Z
-DTSTAMP:20260611T203032Z
+DTSTAMP:20260612T102450Z
 UID:espn-icc-womens-t20-1490679@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026\nAustralia Women v South Africa
   Women\nStatus: Scheduled\nVenue: Old Trafford\, Manchester\, Manchester\n
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 New Zealand Women v West Indies Women
 DTSTART:20260613T173000Z
 DTEND:20260613T213000Z
-DTSTAMP:20260611T203032Z
+DTSTAMP:20260612T102450Z
 UID:espn-icc-womens-t20-1490680@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026\nNew Zealand Women v West Indie
  s Women\nStatus: Scheduled\nVenue: The Rose Bowl\, Southampton\, Southampt
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 Bangladesh Women v Netherlands Women
 DTSTART:20260614T093000Z
 DTEND:20260614T133000Z
-DTSTAMP:20260611T203032Z
+DTSTAMP:20260612T102450Z
 UID:espn-icc-womens-t20-1490681@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026\nBangladesh Women v Netherlands
   Women\nStatus: Scheduled\nVenue: Edgbaston\, Birmingham\, Birmingham\n\nF
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 India Women v Pakistan Women
 DTSTART:20260614T133000Z
 DTEND:20260614T173000Z
-DTSTAMP:20260611T203032Z
+DTSTAMP:20260612T102450Z
 UID:espn-icc-womens-t20-1490682@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026\nIndia Women v Pakistan Women\n
  Status: Scheduled\nVenue: Edgbaston\, Birmingham\, Birmingham\n\nFixtures 
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 New Zealand Women v Sri Lanka Women
 DTSTART:20260616T133000Z
 DTEND:20260616T173000Z
-DTSTAMP:20260611T203032Z
+DTSTAMP:20260612T102450Z
 UID:espn-icc-womens-t20-1490683@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026\nNew Zealand Women v Sri Lanka 
  Women\nStatus: Scheduled\nVenue: The Rose Bowl\, Southampton\, Southampton
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 England Women v Ireland Women
 DTSTART:20260616T173000Z
 DTEND:20260616T213000Z
-DTSTAMP:20260611T203032Z
+DTSTAMP:20260612T102450Z
 UID:espn-icc-womens-t20-1490684@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026\nEngland Women v Ireland Women\
  nStatus: Scheduled\nVenue: The Rose Bowl\, Southampton\, Southampton\n\nFi
@@ -109,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 Australia Women v Bangladesh Women
 DTSTART:20260617T093000Z
 DTEND:20260617T133000Z
-DTSTAMP:20260611T203032Z
+DTSTAMP:20260612T102450Z
 UID:espn-icc-womens-t20-1490685@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026\nAustralia Women v Bangladesh W
  omen\nStatus: Scheduled\nVenue: Headingley\, Leeds\, Leeds\n\nFixtures by 
@@ -121,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 India Women v Netherlands Women
 DTSTART:20260617T133000Z
 DTEND:20260617T173000Z
-DTSTAMP:20260611T203032Z
+DTSTAMP:20260612T102450Z
 UID:espn-icc-womens-t20-1490686@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026\nIndia Women v Netherlands Wome
  n\nStatus: Scheduled\nVenue: Headingley\, Leeds\, Leeds\n\nFixtures by Her
@@ -133,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 Pakistan Women v South Africa Women
 DTSTART:20260617T173000Z
 DTEND:20260617T213000Z
-DTSTAMP:20260611T203032Z
+DTSTAMP:20260612T102450Z
 UID:espn-icc-womens-t20-1490687@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026\nPakistan Women v South Africa 
  Women\nStatus: Scheduled\nVenue: Edgbaston\, Birmingham\, Birmingham\n\nFi
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 Scotland Women v West Indies Women
 DTSTART:20260618T173000Z
 DTEND:20260618T213000Z
-DTSTAMP:20260611T203032Z
+DTSTAMP:20260612T102450Z
 UID:espn-icc-womens-t20-1490688@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026\nScotland Women v West Indies W
  omen\nStatus: Scheduled\nVenue: Headingley\, Leeds\, Leeds\n\nFixtures by 
@@ -157,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 Ireland Women v New Zealand Women
 DTSTART:20260619T173000Z
 DTEND:20260619T213000Z
-DTSTAMP:20260611T203032Z
+DTSTAMP:20260612T102450Z
 UID:espn-icc-womens-t20-1490689@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026\nIreland Women v New Zealand Wo
  men\nStatus: Scheduled\nVenue: The Rose Bowl\, Southampton\, Southampton\n
@@ -169,7 +169,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 Australia Women v Netherlands Women
 DTSTART:20260620T093000Z
 DTEND:20260620T133000Z
-DTSTAMP:20260611T203032Z
+DTSTAMP:20260612T102450Z
 UID:espn-icc-womens-t20-1490690@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026\nAustralia Women v Netherlands 
  Women\nStatus: Scheduled\nVenue: The Rose Bowl\, Southampton\, Southampton
@@ -181,7 +181,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 Bangladesh Women v Pakistan Women
 DTSTART:20260620T133000Z
 DTEND:20260620T173000Z
-DTSTAMP:20260611T203032Z
+DTSTAMP:20260612T102450Z
 UID:espn-icc-womens-t20-1490691@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026\nBangladesh Women v Pakistan Wo
  men\nStatus: Scheduled\nVenue: The Rose Bowl\, Southampton\, Southampton\n
@@ -193,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 England Women v Scotland Women
 DTSTART:20260620T173000Z
 DTEND:20260620T213000Z
-DTSTAMP:20260611T203032Z
+DTSTAMP:20260612T102450Z
 UID:espn-icc-womens-t20-1490692@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026\nEngland Women v Scotland Women
  \nStatus: Scheduled\nVenue: Headingley\, Leeds\, Leeds\n\nFixtures by HerF
@@ -205,7 +205,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 Sri Lanka Women v West Indies Women
 DTSTART:20260621T093000Z
 DTEND:20260621T133000Z
-DTSTAMP:20260611T203032Z
+DTSTAMP:20260612T102450Z
 UID:espn-icc-womens-t20-1490693@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026\nSri Lanka Women v West Indies 
  Women\nStatus: Scheduled\nVenue: County Ground\, Bristol\, Bristol\n\nFixt
@@ -217,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 India Women v South Africa Women
 DTSTART:20260621T133000Z
 DTEND:20260621T173000Z
-DTSTAMP:20260611T203032Z
+DTSTAMP:20260612T102450Z
 UID:espn-icc-womens-t20-1490694@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026\nIndia Women v South Africa Wom
  en\nStatus: Scheduled\nVenue: Old Trafford\, Manchester\, Manchester\n\nFi
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 New Zealand Women v Scotland Women
 DTSTART:20260623T093000Z
 DTEND:20260623T133000Z
-DTSTAMP:20260611T203032Z
+DTSTAMP:20260612T102450Z
 UID:espn-icc-womens-t20-1490695@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026\nNew Zealand Women v Scotland W
  omen\nStatus: Scheduled\nVenue: County Ground\, Bristol\, Bristol\n\nFixtu
@@ -241,7 +241,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 Ireland Women v Sri Lanka Women
 DTSTART:20260623T133000Z
 DTEND:20260623T173000Z
-DTSTAMP:20260611T203032Z
+DTSTAMP:20260612T102450Z
 UID:espn-icc-womens-t20-1490696@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026\nIreland Women v Sri Lanka Wome
  n\nStatus: Scheduled\nVenue: County Ground\, Bristol\, Bristol\n\nFixtures
@@ -253,7 +253,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 Australia Women v Pakistan Women
 DTSTART:20260623T173000Z
 DTEND:20260623T213000Z
-DTSTAMP:20260611T203032Z
+DTSTAMP:20260612T102450Z
 UID:espn-icc-womens-t20-1490697@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026\nAustralia Women v Pakistan Wom
  en\nStatus: Scheduled\nVenue: Headingley\, Leeds\, Leeds\n\nFixtures by He
@@ -265,7 +265,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 England Women v West Indies Women
 DTSTART:20260624T173000Z
 DTEND:20260624T213000Z
-DTSTAMP:20260611T203032Z
+DTSTAMP:20260612T102450Z
 UID:espn-icc-womens-t20-1490698@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026\nEngland Women v West Indies Wo
  men\nStatus: Scheduled\nVenue: Lord's\, London\, London\n\nFixtures by Her
@@ -277,7 +277,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 Bangladesh Women v India Women
 DTSTART:20260625T133000Z
 DTEND:20260625T173000Z
-DTSTAMP:20260611T203032Z
+DTSTAMP:20260612T102450Z
 UID:espn-icc-womens-t20-1490699@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026\nBangladesh Women v India Women
  \nStatus: Scheduled\nVenue: Old Trafford\, Manchester\, Manchester\n\nFixt
@@ -289,7 +289,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 Netherlands Women v South Africa Women
 DTSTART:20260625T173000Z
 DTEND:20260625T213000Z
-DTSTAMP:20260611T203032Z
+DTSTAMP:20260612T102450Z
 UID:espn-icc-womens-t20-1490700@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026\nNetherlands Women v South Afri
  ca Women\nStatus: Scheduled\nVenue: County Ground\, Bristol\, Bristol\n\nF
@@ -301,7 +301,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 Scotland Women v Sri Lanka Women
 DTSTART:20260626T173000Z
 DTEND:20260626T213000Z
-DTSTAMP:20260611T203032Z
+DTSTAMP:20260612T102450Z
 UID:espn-icc-womens-t20-1490701@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026\nScotland Women v Sri Lanka Wom
  en\nStatus: Scheduled\nVenue: Old Trafford\, Manchester\, Manchester\n\nFi
@@ -313,7 +313,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 Netherlands Women v Pakistan Women
 DTSTART:20260627T093000Z
 DTEND:20260627T133000Z
-DTSTAMP:20260611T203032Z
+DTSTAMP:20260612T102450Z
 UID:espn-icc-womens-t20-1490702@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026\nNetherlands Women v Pakistan W
  omen\nStatus: Scheduled\nVenue: County Ground\, Bristol\, Bristol\n\nFixtu
@@ -325,7 +325,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 Ireland Women v West Indies Women
 DTSTART:20260627T133000Z
 DTEND:20260627T173000Z
-DTSTAMP:20260611T203032Z
+DTSTAMP:20260612T102450Z
 UID:espn-icc-womens-t20-1490703@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026\nIreland Women v West Indies Wo
  men\nStatus: Scheduled\nVenue: County Ground\, Bristol\, Bristol\n\nFixtur
@@ -337,7 +337,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 England Women v New Zealand Women
 DTSTART:20260627T173000Z
 DTEND:20260627T213000Z
-DTSTAMP:20260611T203032Z
+DTSTAMP:20260612T102450Z
 UID:espn-icc-womens-t20-1490704@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026\nEngland Women v New Zealand Wo
  men\nStatus: Scheduled\nVenue: Kennington Oval\, London\, London\n\nFixtur
@@ -349,7 +349,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 Bangladesh Women v South Africa Women
 DTSTART:20260628T093000Z
 DTEND:20260628T133000Z
-DTSTAMP:20260611T203032Z
+DTSTAMP:20260612T102450Z
 UID:espn-icc-womens-t20-1490705@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026\nBangladesh Women v South Afric
  a Women\nStatus: Scheduled\nVenue: Lord's\, London\, London\n\nFixtures by
@@ -361,7 +361,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 Australia Women v India Women
 DTSTART:20260628T133000Z
 DTEND:20260628T173000Z
-DTSTAMP:20260611T203032Z
+DTSTAMP:20260612T102450Z
 UID:espn-icc-womens-t20-1490706@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026\nAustralia Women v India Women\
  nStatus: Scheduled\nVenue: Lord's\, London\, London\n\nFixtures by HerFixt
