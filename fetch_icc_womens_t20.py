@@ -30,13 +30,19 @@ def fetch_games():
     )
     r.raise_for_status()
     for event in r.json().get("events", []):
-        games[event["id"]] = event
+        eid = event.get("id")
+        if not eid:
+            continue
+        games[eid] = event
 
     # Current matchday overwrites — ensures live/today scores are fresh
     r = session.get(f"{BASE_URL}/scoreboard", timeout=10)
     r.raise_for_status()
     for event in r.json().get("events", []):
-        games[event["id"]] = event
+        eid = event.get("id")
+        if not eid:
+            continue
+        games[eid] = event
 
     return list(games.values())
 
