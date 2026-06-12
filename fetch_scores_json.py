@@ -227,7 +227,7 @@ LEAGUE_CONFIGS = [
     #  url        name                  sport         slug               home_first
     (WNBA_URL, "WNBA",               "basketball", "wnba",           False),
     (NWSL_URL, "NWSL",               "football",   "nwsl",           False),
-    (ICC_URL,  "ICC Women's T20 WC", "cricket",    "icc-womens-t20", True),
+    (ICC_URL,  "T20 World Cup",       "cricket",    "icc-womens-t20", True),
 ]
 
 

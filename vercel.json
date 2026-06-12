@@ -6,7 +6,7 @@
       "dest": "/scores.json",
       "headers": {
         "Content-Type": "application/json; charset=utf-8",
-        "Cache-Control": "public, max-age=3600",
+        "Cache-Control": "public, max-age=60, must-revalidate",
         "Access-Control-Allow-Origin": "*"
       }
     },
