@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T20:20:08Z",
+  "updated": "2026-06-12T20:33:07Z",
   "competitions": {
     "wnba": {
       "name": "WNBA",
@@ -89,7 +89,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/14.png"
           },
           "kickoff": "2026-06-13T02:00:00Z",
-          "kickoff_label": "in 6h"
+          "kickoff_label": "in 5h"
         },
         {
           "league": "WNBA",
