@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky 98–83 Portland Fire ✓ 🏠
 DTSTART:20260510T010000Z
 DTEND:20260510T033000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401856895-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nChicago Sky at Portland Fire\nStatus: 
  Final\nFinal score: Chicago Sky 98 – Portland Fire 83\nWatch: NBA TV · 
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 New York Liberty 96–98 Portland Fire ✓ 🏠
 DTSTART:20260513T020000Z
 DTEND:20260513T043000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401856903-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nNew York Liberty at Portland Fire\nSta
  tus: Final\nFinal score: New York Liberty 96 – Portland Fire 98\nWatch: 
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 New York Liberty 100–82 Portland Fire ✓ 🏠
 DTSTART:20260515T020000Z
 DTEND:20260515T043000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401856909-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nNew York Liberty at Portland Fire\nSta
  tus: Final\nFinal score: New York Liberty 100 – Portland Fire 82\nWatch:
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Connecticut Sun 82–83 Portland Fire ✓ 🏠
 DTSTART:20260519T020000Z
 DTEND:20260519T043000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401856919-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nConnecticut Sun at Portland Fire\nStat
  us: Final\nFinal score: Connecticut Sun 82 – Portland Fire 83\nWatch: WN
@@ -66,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire 73–90 Indiana Fever ✓
 DTSTART:20260520T230000Z
 DTEND:20260521T013000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401856921-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nPortland Fire at Indiana Fever\nStatus
  : Final\nFinal score: Portland Fire 73 – Indiana Fever 90\nWatch: USA Ne
@@ -80,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire 99–80 Toronto Tempo ✓
 DTSTART:20260523T220000Z
 DTEND:20260524T003000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401856931-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nPortland Fire at Toronto Tempo\nStatus
  : Final\nFinal score: Portland Fire 99 – Toronto Tempo 80\nWatch: WNBA L
@@ -93,7 +93,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire 81–74 New York Liberty ✓
 DTSTART:20260526T000000Z
 DTEND:20260526T023000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401856936-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nPortland Fire at New York Liberty\nSta
  tus: Final\nFinal score: Portland Fire 81 – New York Liberty 74\nWatch: 
@@ -107,7 +107,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Connecticut Sun 61–71 Portland Fire ✓ 🏠
 DTSTART:20260528T020000Z
 DTEND:20260528T043000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401856941-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nConnecticut Sun at Portland Fire\nStat
  us: Final\nFinal score: Connecticut Sun 61 – Portland Fire 71\nWatch: WN
@@ -120,7 +120,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Atlanta Dream 86–66 Portland Fire ✓ 🏠
 DTSTART:20260530T020000Z
 DTEND:20260530T043000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401856948-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nAtlanta Dream at Portland Fire\nStatus
  : Final\nFinal score: Atlanta Dream 86 – Portland Fire 66\nWatch: ION ·
@@ -133,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Indiana Fever 84–100 Portland Fire ✓ 🏠
 DTSTART:20260531T000000Z
 DTEND:20260531T023000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401856951-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nIndiana Fever at Portland Fire\nStatus
  : Final\nFinal score: Indiana Fever 84 – Portland Fire 100\nWatch: CBS 
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire 77–95 Golden State Valkyries ✓
 DTSTART:20260603T020000Z
 DTEND:20260603T043000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401856957-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nPortland Fire at Golden State Valkyrie
  s\nStatus: Final\nFinal score: Portland Fire 77 – Golden State Valkyries
@@ -160,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Phoenix Mercury 78–72 Portland Fire ✓ 🏠
 DTSTART:20260606T020000Z
 DTEND:20260606T043000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401856965-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nPhoenix Mercury at Portland Fire\nStat
  us: Final\nFinal score: Phoenix Mercury 78 – Portland Fire 72\nWatch: IO
@@ -173,7 +173,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire 72–89 Los Angeles Sparks ✓
 DTSTART:20260607T230000Z
 DTEND:20260608T013000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401856971-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nPortland Fire at Los Angeles Sparks\nS
  tatus: Final\nFinal score: Portland Fire 72 – Los Angeles Sparks 89\nWat
@@ -187,7 +187,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Las Vegas Aces 105–89 Portland Fire ✓ 🏠
 DTSTART:20260612T020000Z
 DTEND:20260612T043000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401856983-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nLas Vegas Aces at Portland Fire\nStatu
  s: Final\nFinal score: Las Vegas Aces 105 – Portland Fire 89\nWatch: WNB
@@ -200,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Dallas Wings @ Portland Fire 🏠
 DTSTART:20260614T003000Z
 DTEND:20260614T030000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401856988-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nDallas Wings at Portland Fire\nStatus:
   Scheduled\nWatch: WNBA League Pass · KFAA-TV · Fox 12 Plus\nVenue: Moda
@@ -214,7 +214,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Minnesota Lynx
 DTSTART:20260616T000000Z
 DTEND:20260616T023000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401856993-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nPortland Fire at Minnesota Lynx\nStatu
  s: Scheduled\nWatch: WNBA League Pass · Fox 12 Plus · Victory+ MIN\nVenu
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Seattle Storm @ Portland Fire 🏠
 DTSTART:20260618T020000Z
 DTEND:20260618T043000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401857001-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nSeattle Storm at Portland Fire\nStatus
  : Scheduled\nWatch: WNBA League Pass · CW Seattle · Prime Video-Seattle 
@@ -244,7 +244,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Chicago Sky
 DTSTART:20260625T000000Z
 DTEND:20260625T023000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401857019-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nPortland Fire at Chicago Sky\nStatus: 
  Scheduled\nWatch: CW26 · Fox 12 Plus\nVenue: Wintrust Arena\, Chicago\nTi
@@ -258,7 +258,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Chicago Sky
 DTSTART:20260626T233000Z
 DTEND:20260627T020000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401857025-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nPortland Fire at Chicago Sky\nStatus: 
  Scheduled\nWatch: ION\nVenue: Wintrust Arena\, Chicago\nTickets: https://w
@@ -272,7 +272,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Washington Mystics
 DTSTART:20260628T190000Z
 DTEND:20260628T213000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401857031-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nPortland Fire at Washington Mystics\nS
  tatus: Scheduled\nWatch: Fox 12 Plus · MNMT\nVenue: CareFirst Arena\, Was
@@ -286,7 +286,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Seattle Storm
 DTSTART:20260705T010000Z
 DTEND:20260705T033000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401857040-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nPortland Fire at Seattle Storm\nStatus
  : Scheduled\nWatch: KOMO-TV · Prime Video-Seattle · Fox 12 Plus\nVenue: 
@@ -301,7 +301,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Las Vegas Aces @ Portland Fire 🏠
 DTSTART:20260710T020000Z
 DTEND:20260710T043000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401857053-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nLas Vegas Aces at Portland Fire\nStatu
  s: Scheduled\nWatch: Fox 12 Plus · Vegas 34\nVenue: Moda Center\, Portlan
@@ -315,7 +315,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Atlanta Dream
 DTSTART:20260711T200000Z
 DTEND:20260711T223000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401857059-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nPortland Fire at Atlanta Dream\nStatus
  : Scheduled\nWatch: CBS · Paramount+\nVenue: Gateway Center\, College Par
@@ -329,7 +329,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Connecticut Sun
 DTSTART:20260714T150000Z
 DTEND:20260714T173000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401857066-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nPortland Fire at Connecticut Sun\nStat
  us: Scheduled\nWatch: NBC Sports BO · Fox 12 Plus\nVenue: Mohegan Sun Are
@@ -343,7 +343,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Washington Mystics
 DTSTART:20260716T230000Z
 DTEND:20260717T013000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401857071-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nPortland Fire at Washington Mystics\nS
  tatus: Scheduled\nWatch: NBA TV · Fox 12 Plus · MNMT\nVenue: CareFirst A
@@ -357,7 +357,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Minnesota Lynx
 DTSTART:20260719T000000Z
 DTEND:20260719T023000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401857078-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nPortland Fire at Minnesota Lynx\nStatu
  s: Scheduled\nWatch: Fox 12 Plus · Victory+ MIN\nVenue: Target Center\, M
@@ -371,7 +371,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Dallas Wings @ Portland Fire 🏠
 DTSTART:20260723T020000Z
 DTEND:20260723T043000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401857091-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nDallas Wings at Portland Fire\nStatus:
   Scheduled\nWatch: USA Net · Fox 12 Plus · KFAA-TV\nVenue: Moda Center\,
@@ -385,7 +385,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Las Vegas Aces
 DTSTART:20260729T020000Z
 DTEND:20260729T043000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401857095-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nPortland Fire at Las Vegas Aces\nStatu
  s: Scheduled\nWatch: Vegas 34 · Fox 12 Plus\nVenue: Michelob ULTRA Arena\
@@ -400,7 +400,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Indiana Fever @ Portland Fire 🏠
 DTSTART:20260801T020000Z
 DTEND:20260801T043000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401857104-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nIndiana Fever at Portland Fire\nStatus
  : Scheduled\nWatch: ION · WTHR Channel 13\nVenue: Moda Center\, Portland\
@@ -414,7 +414,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Portland Fire 🏠
 DTSTART:20260802T193000Z
 DTEND:20260802T220000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401857108-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nLos Angeles Sparks at Portland Fire\nS
  tatus: Scheduled\nWatch: NBC · Peacock\nVenue: Moda Center\, Portland\nTi
@@ -428,7 +428,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo @ Portland Fire 🏠
 DTSTART:20260807T020000Z
 DTEND:20260807T043000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401857121-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nToronto Tempo at Portland Fire\nStatus
  : Scheduled\nWatch: Fox 12 Plus · TSN\nVenue: Moda Center\, Portland\nTic
@@ -442,7 +442,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Seattle Storm @ Portland Fire 🏠
 DTSTART:20260809T003000Z
 DTEND:20260809T030000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401857127-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nSeattle Storm at Portland Fire\nStatus
  : Scheduled\nWatch: NBA TV · Fox 12 Plus · KOMO-TV · Prime Video-Seattl
@@ -456,7 +456,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx @ Portland Fire 🏠
 DTSTART:20260813T020000Z
 DTEND:20260813T043000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401857139-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nMinnesota Lynx at Portland Fire\nStatu
  s: Scheduled\nWatch: Fox 12 Plus · Victory+ MIN\nVenue: Moda Center\, Por
@@ -470,7 +470,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Seattle Storm
 DTSTART:20260815T020000Z
 DTEND:20260815T043000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401857144-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nPortland Fire at Seattle Storm\nStatus
  : Scheduled\nWatch: ION\nVenue: Climate Pledge Arena\, Seattle\nTickets: h
@@ -484,7 +484,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Phoenix Mercury
 DTSTART:20260816T230000Z
 DTEND:20260817T013000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401857149-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nPortland Fire at Phoenix Mercury\nStat
  us: Scheduled\nWatch: ESPN\nVenue: Mortgage Matchup Center\, Phoenix\nTick
@@ -498,7 +498,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Toronto Tempo
 DTSTART:20260822T020000Z
 DTEND:20260822T043000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401857163-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nPortland Fire at Toronto Tempo\nStatus
  : Scheduled\nWatch: ION · TSN\nVenue: Rogers Arena\, Vancouver\nTickets: 
@@ -512,7 +512,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Washington Mystics @ Portland Fire 🏠
 DTSTART:20260823T230000Z
 DTEND:20260824T013000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401857169-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nWashington Mystics at Portland Fire\nS
  tatus: Scheduled\nWatch: Fox 12 Plus · MNMT\nVenue: Moda Center\, Portlan
@@ -526,7 +526,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Dallas Wings
 DTSTART:20260826T000000Z
 DTEND:20260826T023000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401857174-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nPortland Fire at Dallas Wings\nStatus:
   Scheduled\nWatch: NBA TV · KFAA-TV · Fox 12 Plus\nVenue: College Park C
@@ -540,7 +540,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Atlanta Dream
 DTSTART:20260828T233000Z
 DTEND:20260829T020000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401857180-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nPortland Fire at Atlanta Dream\nStatus
  : Scheduled\nWatch: ION\nVenue: Gateway Center\, College Park\nTickets: ht
@@ -554,7 +554,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Golden State Valkyries @ Portland Fire 🏠
 DTSTART:20260830T230000Z
 DTEND:20260831T013000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401857188-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nGolden State Valkyries at Portland Fir
  e\nStatus: Scheduled\nWatch: KPIX+ · Fox 12 Plus\nVenue: Moda Center\, Po
@@ -568,7 +568,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Phoenix Mercury @ Portland Fire 🏠
 DTSTART:20260918T020000Z
 DTEND:20260918T043000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401857193-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nPhoenix Mercury at Portland Fire\nStat
  us: Scheduled\nWatch: Fox 12 Plus · AZ Family Sports Net · Merc+\nVenue:
@@ -582,7 +582,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Golden State Valkyries
 DTSTART:20260919T020000Z
 DTEND:20260919T043000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401857197-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nPortland Fire at Golden State Valkyrie
  s\nStatus: Scheduled\nWatch: ION\nVenue: Chase Center\, San Francisco\nTic
@@ -596,7 +596,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Los Angeles Sparks
 DTSTART:20260920T230000Z
 DTEND:20260921T013000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401857204-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nPortland Fire at Los Angeles Sparks\nS
  tatus: Scheduled\nWatch: Spectrum Sports Net · Fox 12 Plus\nVenue: crypto
@@ -611,7 +611,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Golden State Valkyries @ Portland Fire 🏠
 DTSTART:20260923T020000Z
 DTEND:20260923T043000Z
-DTSTAMP:20260612T102443Z
+DTSTAMP:20260612T202001Z
 UID:wnba-401857212-132052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nGolden State Valkyries at Portland Fir
  e\nStatus: Scheduled\nWatch: Fox 12 Plus\nVenue: Moda Center\, Portland\nT
