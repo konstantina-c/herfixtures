@@ -45,6 +45,7 @@
   --border:    rgba(255,255,255,0.08);
   --border2:   rgba(255,255,255,0.15);
   --brand-fg:  #5E86FF;
+  --purple:    #7C3AED;
 }
 
 [data-theme="light"] {
@@ -113,8 +114,14 @@ body {
   transition: color 0.2s;
 }
 
-.nav-link:hover { color: var(--text); }
+.nav-link:hover { color: var(--purple); }
 .nav-link.active { color: var(--brand-fg); }
+
+.topbar-right {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
 
 .theme-btn {
   background: none;
@@ -306,6 +313,7 @@ body {
 
 <header class="topbar">
   <a href="/" class="logo">HerFixtures</a>
+  <div class="topbar-right">
   <nav class="nav">
     <a href="/blog" class="nav-link active">Blog</a>
   </nav>
@@ -325,6 +333,7 @@ body {
       <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
     </svg>
   </button>
+  </div>
 </header>
 
 <main>

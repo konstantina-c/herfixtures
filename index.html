@@ -51,6 +51,7 @@
 
   /* Accessible blue for dark mode text/outlines (4.5:1 on #0C0C18) */
   --brand-fg:   #5E86FF;
+  --purple:     #7C3AED;
 }
 
 [data-theme="light"] {
@@ -134,8 +135,14 @@ body {
   transition: color 0.2s;
 }
 
-.nav-link:hover { color: var(--text); }
+.nav-link:hover { color: var(--purple); }
 .nav-link.active { color: var(--brand-fg); }
+
+.topbar-right {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
 
 .theme-icon-btn {
   background: none;
@@ -827,6 +834,7 @@ body {
   <!-- Topbar -->
   <div class="real-topbar">
     <div class="real-logo">HerFixtures</div>
+    <div class="topbar-right">
     <nav class="real-nav">
       <a href="/blog" class="nav-link">Blog</a>
     </nav>
@@ -846,6 +854,7 @@ body {
         <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
       </svg>
     </button>
+    </div>
   </div>
 
 

@@ -45,6 +45,7 @@
   --border:    rgba(255,255,255,0.08);
   --border2:   rgba(255,255,255,0.15);
   --brand-fg:  #5E86FF;
+  --purple:    #7C3AED;
 }
 
 [data-theme="light"] {
@@ -113,8 +114,14 @@ body {
   transition: color 0.2s;
 }
 
-.nav-link:hover { color: var(--text); }
+.nav-link:hover { color: var(--purple); }
 .nav-link.active { color: var(--brand-fg); }
+
+.topbar-right {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
 
 .theme-btn {
   background: none;
@@ -364,12 +371,187 @@ body {
 .footer-credit a { color: inherit; font-weight: 500; text-decoration: none; }
 .footer-credit a:hover { color: var(--brand-fg); }
 
+/* ── CTA button reset (works for both <a> and <button>) ── */
+button.cta-btn { border: none; cursor: pointer; font-family: 'DM Sans', sans-serif; }
+
+/* ── Feed Modal ─────────────────────────────────────────── */
+.wnba-overlay {
+  display: none;
+  position: fixed; inset: 0; z-index: 500;
+  background: rgba(0,0,0,0.45);
+  align-items: center; justify-content: center;
+  padding: 20px;
+  transition: opacity 0.2s ease;
+}
+.wnba-overlay.is-open { display: flex; }
+.wnba-overlay.is-closing { pointer-events: none; }
+
+@keyframes overlayIn  { from { opacity:0 } to { opacity:1 } }
+@keyframes overlayOut { from { opacity:1 } to { opacity:0 } }
+@keyframes modalIn    { from { opacity:0; transform:scale(0.95) } to { opacity:1; transform:scale(1) } }
+@keyframes modalOut   { from { opacity:1; transform:scale(1) } to { opacity:0; transform:scale(0.95) } }
+@keyframes sheetIn    { from { transform:translateY(100%) } to { transform:translateY(0) } }
+@keyframes sheetOut   { from { transform:translateY(0) } to { transform:translateY(100%) } }
+
+.wnba-overlay.is-open { animation: overlayIn 0.2s ease forwards; }
+.wnba-overlay.is-open .wnba-modal { animation: modalIn 0.25s ease forwards; }
+.wnba-overlay.is-closing { animation: overlayOut 0.2s ease forwards; }
+.wnba-overlay.is-closing .wnba-modal { animation: modalOut 0.2s ease forwards; }
+
+.wnba-modal {
+  background: var(--card);
+  border-radius: 20px;
+  overflow: hidden;
+  width: 100%; max-width: 650px;
+  max-height: 90vh;
+  display: flex; flex-direction: column;
+  position: relative;
+  box-shadow: 0 24px 64px rgba(0,0,0,0.18);
+}
+.wnba-modal-bar {
+  height: 3px; flex-shrink: 0;
+  background: linear-gradient(to right, #073EE3, #FF4D4D);
+}
+.wnba-modal-head {
+  padding: 24px 24px 0;
+  display: flex; align-items: flex-start; justify-content: space-between;
+  flex-shrink: 0;
+}
+.wnba-modal-title {
+  font-family: 'Zalando Sans Expanded', sans-serif;
+  font-weight: 900;
+  font-size: 20px; color: var(--text);
+  margin-bottom: 6px; line-height: 1.2;
+  letter-spacing: -0.01em;
+}
+.wnba-modal-sub {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 16px; color: var(--muted); line-height: 1.5;
+}
+.wnba-close {
+  background: none; border: none; cursor: pointer;
+  color: var(--muted); font-size: 18px; padding: 4px;
+  line-height: 1; flex-shrink: 0; margin-left: 16px;
+  border-radius: 8px; transition: color 0.15s, background 0.15s;
+  font-family: 'DM Sans', sans-serif;
+}
+.wnba-close:hover { color: var(--text); background: var(--bg3); }
+#feedMain {
+  display: flex; flex-direction: column; flex: 1;
+  min-height: 0; overflow: hidden;
+}
+.wnba-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+  padding: 16px 24px;
+  overflow-y: auto; flex: 1; min-height: 0;
+}
+.wnba-tile {
+  border: 1px solid var(--border2);
+  border-radius: 12px;
+  padding: 12px 6px 10px;
+  display: flex; flex-direction: column;
+  align-items: center; gap: 8px;
+  cursor: pointer; position: relative;
+  transition: border-color 0.15s, background 0.15s;
+  background: var(--card); user-select: none;
+}
+.wnba-tile:hover { border-color: var(--brand-fg); background: var(--bg3); }
+.wnba-tile.is-selected { border: none; background: #EEF1FD; }
+.wnba-tile.is-selected::before {
+  content: ''; position: absolute; inset: 0;
+  border-radius: 12px; padding: 1.5px;
+  background: linear-gradient(135deg, #073EE3, #FF4D4D);
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;
+}
+[data-theme="dark"] .wnba-tile.is-selected { background: rgba(7,62,227,0.15); }
+.wnba-tile-logo { width: 36px; height: 36px; object-fit: contain; border-radius: 50%; }
+.wnba-tile-emoji {
+  font-size: 28px; line-height: 1;
+  width: 36px; height: 36px;
+  display: flex; align-items: center; justify-content: center;
+}
+#feedGrid[data-league="icc_womens_t20"] .wnba-tile-logo {
+  width: 36px; height: 36px; object-fit: contain; border-radius: 4px;
+}
+.wnba-tile-name {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 13px; font-weight: 400;
+  color: var(--text2); text-align: center; line-height: 1.3;
+}
+.wnba-check {
+  position: absolute; top: 5px; right: 5px;
+  width: 16px; height: 16px; border-radius: 50%;
+  background: var(--brand-fg);
+  display: none; align-items: center; justify-content: center;
+}
+.wnba-tile.is-selected .wnba-check { display: flex; }
+@keyframes checkPop {
+  0%   { transform: scale(0); opacity: 0; }
+  60%  { transform: scale(1.25); opacity: 1; }
+  100% { transform: scale(1); opacity: 1; }
+}
+.wnba-tile.is-selected .wnba-check { animation: checkPop 0.2s cubic-bezier(0.34,1.56,0.64,1) forwards; }
+.wnba-modal-foot { padding: 0 24px 20px; flex-shrink: 0; }
+.wnba-foot-divider { height: 1px; background: var(--border); margin-bottom: 16px; }
+.wnba-foot-btns { display: flex; gap: 12px; }
+.wnba-btn-google, .wnba-btn-apple {
+  flex: 1; padding: 13px 10px; border-radius: 12px;
+  font-family: 'DM Sans', sans-serif; font-size: 13px; font-weight: 600;
+  cursor: pointer; transition: all 0.2s; text-align: center;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.wnba-btn-google { color: var(--brand-fg); border: 1.5px solid var(--brand-fg); background: transparent; }
+.wnba-btn-google:hover { background: var(--brand-fg); color: white; }
+.wnba-btn-apple { color: var(--coral); border: 1.5px solid var(--coral); background: transparent; }
+.wnba-btn-apple:hover { background: var(--coral); color: white; }
+.wnba-btn-google:disabled, .wnba-btn-apple:disabled { opacity: 0.35; cursor: default; pointer-events: none; }
+.wnba-success {
+  display: none; flex-direction: column; align-items: center;
+  padding: 48px 32px 32px; text-align: center;
+}
+.wnba-success.is-visible { display: flex; }
+.wnba-success-icon {
+  width: 64px; height: 64px; border-radius: 50%;
+  background: linear-gradient(135deg, #073EE3, #FF4D4D);
+  display: flex; align-items: center; justify-content: center;
+  margin-bottom: 20px; font-size: 28px;
+}
+.wnba-success-title { font-family: 'DM Sans', sans-serif; font-size: 18px; font-weight: 500; color: var(--text); margin-bottom: 10px; }
+.wnba-success-sub { font-family: 'DM Sans', sans-serif; font-size: 14px; color: var(--muted); line-height: 1.6; margin-bottom: 28px; max-width: 360px; }
+.wnba-success-close {
+  padding: 12px 32px; border-radius: 12px;
+  background: transparent; border: 1.5px solid var(--brand-fg);
+  color: var(--brand-fg); font-family: 'DM Sans', sans-serif;
+  font-size: 14px; font-weight: 600; cursor: pointer; transition: all 0.2s;
+}
+.wnba-success-close:hover { background: var(--brand-fg); color: white; }
+@media (max-width: 640px) {
+  .wnba-overlay { align-items: flex-end; padding: 0; }
+  .wnba-overlay.is-open .wnba-modal { animation: sheetIn 0.3s ease-out forwards !important; }
+  .wnba-overlay.is-closing .wnba-modal { animation: sheetOut 0.3s ease-out forwards !important; }
+  .wnba-modal { border-radius: 20px 20px 0 0; max-width: 100%; width: 100%; height: 80vh; max-height: 80vh; display: flex; flex-direction: column; }
+  .wnba-grid { grid-template-columns: repeat(2, 1fr); -webkit-overflow-scrolling: touch; }
+  .wnba-modal-foot { flex-shrink: 0; border-top: 1px solid var(--border); padding: 12px 20px 24px; background: var(--card); }
+  .wnba-foot-divider { display: none; }
+  .wnba-tile[data-team="all"] { grid-column: span 2; flex-direction: row; padding: 14px 16px; justify-content: flex-start; gap: 12px; }
+  .wnba-tile[data-team="all"] .wnba-tile-logo { flex-shrink: 0; }
+  .wnba-tile[data-team="all"] .wnba-tile-name { font-size: 14px; font-weight: 500; text-align: left; }
+  .wnba-tile[data-team="all"] .wnba-check { top: 4px; right: 4px; }
+  .wnba-modal-bar { position: relative; cursor: grab; }
+  .wnba-modal-bar::after { content: ''; position: absolute; top: 8px; left: 50%; transform: translateX(-50%); width: 40px; height: 4px; border-radius: 2px; background: rgba(7,62,227,0.2); }
+  .wnba-foot-btns { flex-direction: column; gap: 8px; }
+}
+
 </style>
 </head>
 <body>
 
 <header class="topbar">
   <a href="/" class="logo">HerFixtures</a>
+  <div class="topbar-right">
   <nav class="nav">
     <a href="/blog" class="nav-link active">Blog</a>
   </nav>
@@ -389,6 +571,7 @@ body {
       <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
     </svg>
   </button>
+  </div>
 </header>
 
 <main>
@@ -446,7 +629,7 @@ body {
           <div class="cta-block-text">ICC Women's T20 World Cup 2026</div>
           <div class="cta-block-sub">All 33 fixtures in your calendar — updates automatically</div>
         </div>
-        <a href="https://www.herfixtures.com/#icc" class="cta-btn">Add to calendar &rarr;</a>
+        <button onclick="FeedModal.open(ICC_CONFIG)" class="cta-btn">Add to calendar &rarr;</button>
       </div>
 
       <h2>What to watch for</h2>
@@ -481,6 +664,35 @@ body {
   Built by <a href="https://x.com/Konstantina__C" target="_blank" rel="noopener">@Konstantina__C</a> &nbsp;|&nbsp; &copy; 2026 HerFixtures&trade;. All rights reserved.
 </div>
 
+<div class="wnba-overlay" id="feedOverlay" role="dialog" aria-modal="true" aria-label="Choose your team">
+  <div class="wnba-modal" id="feedModal">
+    <div class="wnba-modal-bar" id="feedHandle"></div>
+    <div id="feedMain">
+      <div class="wnba-modal-head">
+        <div>
+          <div class="wnba-modal-title">Choose your team</div>
+          <div class="wnba-modal-sub" id="feedSub">Select one or more — each adds a separate feed to your calendar.</div>
+        </div>
+        <button class="wnba-close" onclick="FeedModal.close()" aria-label="Close">&#x2715;</button>
+      </div>
+      <div class="wnba-grid" id="feedGrid"></div>
+    </div>
+    <div class="wnba-modal-foot" id="feedFoot">
+      <div class="wnba-foot-divider"></div>
+      <div class="wnba-foot-btns">
+        <button class="wnba-btn-google" id="feedBtnGoogle" onclick="FeedModal.subscribe('google')">Add to Google</button>
+        <button class="wnba-btn-apple"  id="feedBtnApple"  onclick="FeedModal.subscribe('apple')">Add to Apple</button>
+      </div>
+    </div>
+    <div class="wnba-success" id="feedSuccess">
+      <div class="wnba-success-icon">&#x2713;</div>
+      <div class="wnba-success-title">Added to your calendar</div>
+      <div class="wnba-success-sub">Fixtures will appear in your calendar next time it syncs. You won't miss a game.</div>
+      <button class="wnba-success-close" onclick="FeedModal.close()">Close</button>
+    </div>
+  </div>
+</div>
+
 <script>
 function toggleTheme() {
   const h = document.documentElement;
@@ -489,6 +701,134 @@ function toggleTheme() {
   document.getElementById('icon-moon').style.display = isDark ? '' : 'none';
   document.getElementById('icon-sun').style.display  = isDark ? 'none' : '';
 }
+
+const BASE_URL  = 'herfixtures.vercel.app';
+const CHECK_SVG = `<svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+
+const ICC_CONFIG = {
+  leagueSlug: 'icc_womens_t20',
+  gaLabel:    "ICC Women's T20 WC",
+  teams: [
+    { name: "All Matches",  slug: "icc_womens_t20",              emoji: "🌏" },
+    { name: "Australia",    slug: "icc_womens_t20_australia",    logo: "https://flagcdn.com/w80/au.png" },
+    { name: "Bangladesh",   slug: "icc_womens_t20_bangladesh",   logo: "https://flagcdn.com/w80/bd.png" },
+    { name: "England",      slug: "icc_womens_t20_england",      logo: "https://flagcdn.com/w80/gb-eng.png" },
+    { name: "India",        slug: "icc_womens_t20_india",        logo: "https://flagcdn.com/w80/in.png" },
+    { name: "Ireland",      slug: "icc_womens_t20_ireland",      logo: "https://flagcdn.com/w80/ie.png" },
+    { name: "Netherlands",  slug: "icc_womens_t20_netherlands",  logo: "https://flagcdn.com/w80/nl.png" },
+    { name: "New Zealand",  slug: "icc_womens_t20_new_zealand",  logo: "https://flagcdn.com/w80/nz.png" },
+    { name: "Pakistan",     slug: "icc_womens_t20_pakistan",     logo: "https://flagcdn.com/w80/pk.png" },
+    { name: "Scotland",     slug: "icc_womens_t20_scotland",     logo: "https://flagcdn.com/w80/gb-sct.png" },
+    { name: "South Africa", slug: "icc_womens_t20_south_africa", logo: "https://flagcdn.com/w80/za.png" },
+    { name: "Sri Lanka",    slug: "icc_womens_t20_sri_lanka",    logo: "https://flagcdn.com/w80/lk.png" },
+    { name: "West Indies",  slug: "icc_womens_t20_west_indies",  logo: "https://a.espncdn.com/i/teamlogos/cricket/500/3816.png" },
+  ]
+};
+
+const FeedModal = (() => {
+  let _config = null;
+  const overlay = () => document.getElementById('feedOverlay');
+  const grid    = () => document.getElementById('feedGrid');
+  const btnG    = () => document.getElementById('feedBtnGoogle');
+  const btnA    = () => document.getElementById('feedBtnApple');
+  const main    = () => document.getElementById('feedMain');
+  const foot    = () => document.getElementById('feedFoot');
+  const success = () => document.getElementById('feedSuccess');
+
+  function renderTiles(teams) {
+    const g = grid(); g.innerHTML = '';
+    teams.forEach(team => {
+      const tile = document.createElement('div');
+      tile.className = 'wnba-tile';
+      tile.dataset.slug = team.slug;
+      if (team.slug === _config.leagueSlug) tile.dataset.team = 'all';
+      tile.onclick = () => { toggleTile(tile); updateButtons(); };
+      const logoHtml = team.emoji
+        ? `<span class="wnba-tile-emoji">${team.emoji}</span>`
+        : `<img class="wnba-tile-logo" src="${team.logo}" alt="${team.name}" onerror="this.style.opacity='0.3'">`;
+      tile.innerHTML = `${logoHtml}<span class="wnba-tile-name">${team.name}</span><div class="wnba-check">${CHECK_SVG}</div>`;
+      g.appendChild(tile);
+    });
+  }
+
+  function toggleTile(tile) {
+    tile.classList.toggle('is-selected');
+    if (tile.classList.contains('is-selected')) {
+      const check = tile.querySelector('.wnba-check');
+      check.style.animation = 'none'; check.offsetHeight; check.style.animation = '';
+    }
+  }
+
+  function getSelected() { return Array.from(grid().querySelectorAll('.wnba-tile.is-selected')); }
+
+  function getLabel(platform) {
+    const selected = getSelected(), count = selected.length;
+    const hasAll = selected.some(t => t.dataset.slug === _config.leagueSlug);
+    const teamOnly = selected.filter(t => t.dataset.slug !== _config.leagueSlug).length;
+    const suffix = platform === 'google' ? 'Google' : 'Apple';
+    if (count === 0)                return `Add to ${suffix}`;
+    if (hasAll && teamOnly === 0)   return `Add all teams to ${suffix}`;
+    if (!hasAll && count === 1)     return `Add ${selected[0].querySelector('.wnba-tile-name').textContent.trim()} to ${suffix}`;
+    if (hasAll && teamOnly > 0)     return `Add selections to ${suffix}`;
+    return `Add ${count} teams to ${suffix}`;
+  }
+
+  function updateButtons() {
+    const disabled = getSelected().length === 0;
+    btnG().textContent = getLabel('google'); btnA().textContent = getLabel('apple');
+    btnG().disabled = disabled; btnA().disabled = disabled;
+  }
+
+  function reset() {
+    main().style.display = ''; foot().style.display = '';
+    success().classList.remove('is-visible'); _config = null;
+  }
+
+  return {
+    open(config) {
+      _config = config;
+      grid().dataset.league = config.leagueSlug;
+      renderTiles(config.teams); updateButtons();
+      overlay().classList.remove('is-closing');
+      overlay().classList.add('is-open');
+      document.body.style.overflow = 'hidden';
+    },
+    close() {
+      const isMobile = window.innerWidth <= 640;
+      overlay().classList.add('is-closing');
+      setTimeout(() => {
+        overlay().classList.remove('is-open', 'is-closing');
+        document.body.style.overflow = ''; reset();
+      }, isMobile ? 300 : 200);
+    },
+    subscribe(calendar) {
+      if (!_config) return;
+      const selected = getSelected(); if (!selected.length) return;
+      selected.forEach(tile => {
+        const slug = tile.dataset.slug;
+        const isLeague = slug === _config.leagueSlug;
+        const webcalUrl = `webcal://${BASE_URL}/${slug}.ics`;
+        const url = calendar === 'google'
+          ? `https://calendar.google.com/calendar/r?cid=${webcalUrl}` : webcalUrl;
+        if (typeof gtag !== 'undefined') {
+          gtag('event', 'add_to_calendar', {
+            competition: isLeague ? _config.gaLabel : `${_config.gaLabel} — ${tile.querySelector('.wnba-tile-name').textContent.trim()}`,
+            calendar: calendar === 'google' ? 'Google' : 'Apple'
+          });
+        }
+        window.open(url, '_blank');
+      });
+      setTimeout(() => {
+        main().style.display = 'none'; foot().style.display = 'none';
+        success().classList.add('is-visible');
+      }, 300);
+    }
+  };
+})();
+
+document.getElementById('feedOverlay').addEventListener('click', function(e) { if (e.target === this) FeedModal.close(); });
+document.getElementById('feedHandle').addEventListener('click', () => FeedModal.close());
+document.addEventListener('keydown', e => { if (e.key === 'Escape') FeedModal.close(); });
 </script>
 </body>
 </html>
