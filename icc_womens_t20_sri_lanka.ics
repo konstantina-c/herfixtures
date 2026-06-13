@@ -10,22 +10,23 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:🏏 England Women v Sri Lanka Women
+SUMMARY:🏏 England Women v Sri Lanka Women (219/1 / 132 (20 ov\, target 
+ 220))
 DTSTART:20260612T173000Z
 DTEND:20260612T213000Z
-DTSTAMP:20260612T203306Z
+DTSTAMP:20260613T092647Z
 UID:espn-icc-womens-t20-1490677@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026 · Sri Lanka\nEngland Women v S
- ri Lanka Women\nStatus: Live\nVenue: Edgbaston\, Birmingham\, Birmingham\n
- \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.in/cricket/series/8634/game/1490677/england-women-vs-
- sri-lanka-women-1st-match-group-2-icc-womens-t20-world-cup-2026
+ ri Lanka Women\nStatus: Result\nVenue: Edgbaston\, Birmingham\, Birmingham
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/scorecard/1490677/england-wome
+ n-vs-sri-lanka-women-1st-match-group-2-icc-womens-t20-world-cup-2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏏 New Zealand Women v Sri Lanka Women
 DTSTART:20260616T133000Z
 DTEND:20260616T173000Z
-DTSTAMP:20260612T203306Z
+DTSTAMP:20260613T092647Z
 UID:espn-icc-womens-t20-1490683@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026 · Sri Lanka\nNew Zealand Women
   v Sri Lanka Women\nStatus: Scheduled\nVenue: The Rose Bowl\, Southampton\
@@ -38,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 Sri Lanka Women v West Indies Women
 DTSTART:20260621T093000Z
 DTEND:20260621T133000Z
-DTSTAMP:20260612T203306Z
+DTSTAMP:20260613T092647Z
 UID:espn-icc-womens-t20-1490693@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026 · Sri Lanka\nSri Lanka Women v
   West Indies Women\nStatus: Scheduled\nVenue: County Ground\, Bristol\, Br
@@ -50,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 Ireland Women v Sri Lanka Women
 DTSTART:20260623T133000Z
 DTEND:20260623T173000Z
-DTSTAMP:20260612T203306Z
+DTSTAMP:20260613T092647Z
 UID:espn-icc-womens-t20-1490696@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026 · Sri Lanka\nIreland Women v S
  ri Lanka Women\nStatus: Scheduled\nVenue: County Ground\, Bristol\, Bristo
@@ -62,7 +63,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 Scotland Women v Sri Lanka Women
 DTSTART:20260626T173000Z
 DTEND:20260626T213000Z
-DTSTAMP:20260612T203306Z
+DTSTAMP:20260613T092647Z
 UID:espn-icc-womens-t20-1490701@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026 · Sri Lanka\nScotland Women v 
  Sri Lanka Women\nStatus: Scheduled\nVenue: Old Trafford\, Manchester\, Man
