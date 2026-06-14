@@ -10,23 +10,23 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:🏏 Bangladesh Women v Netherlands Women
+SUMMARY:🏏 Bangladesh Women v Netherlands Women (141/4 (19.1/20 ov\, tar
+ get 140) / 139/8)
 DTSTART:20260614T093000Z
 DTEND:20260614T133000Z
-DTSTAMP:20260613T194549Z
+DTSTAMP:20260614T194646Z
 UID:espn-icc-womens-t20-1490681@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026 · Netherlands\nBangladesh Wome
- n v Netherlands Women\nStatus: Scheduled\nVenue: Edgbaston\, Birmingham\, 
- Birmingham\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-URL:https://www.espn.in/cricket/series/8634/game/1490681/bangladesh-women-
- vs-netherlands-women-5th-match-group-1-icc-womens-t20-world-cup-2026
+ n v Netherlands Women\nStatus: Result\nVenue: Edgbaston\, Birmingham\, Bir
+ mingham\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/scorecard/1490681/bangladesh-w
+ omen-vs-netherlands-women-5th-match-group-1-icc-womens-t20-world-cup-2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏏 India Women v Netherlands Women
 DTSTART:20260617T133000Z
 DTEND:20260617T173000Z
-DTSTAMP:20260613T194549Z
+DTSTAMP:20260614T194646Z
 UID:espn-icc-womens-t20-1490686@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026 · Netherlands\nIndia Women v N
  etherlands Women\nStatus: Scheduled\nVenue: Headingley\, Leeds\, Leeds\n\n
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 Australia Women v Netherlands Women
 DTSTART:20260620T093000Z
 DTEND:20260620T133000Z
-DTSTAMP:20260613T194549Z
+DTSTAMP:20260614T194646Z
 UID:espn-icc-womens-t20-1490690@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026 · Netherlands\nAustralia Women
   v Netherlands Women\nStatus: Scheduled\nVenue: The Rose Bowl\, Southampto
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 Netherlands Women v South Africa Women
 DTSTART:20260625T173000Z
 DTEND:20260625T213000Z
-DTSTAMP:20260613T194549Z
+DTSTAMP:20260614T194646Z
 UID:espn-icc-womens-t20-1490700@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026 · Netherlands\nNetherlands Wom
  en v South Africa Women\nStatus: Scheduled\nVenue: County Ground\, Bristol
@@ -64,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 Netherlands Women v Pakistan Women
 DTSTART:20260627T093000Z
 DTEND:20260627T133000Z
-DTSTAMP:20260613T194549Z
+DTSTAMP:20260614T194646Z
 UID:espn-icc-womens-t20-1490702@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026 · Netherlands\nNetherlands Wom
  en v Pakistan Women\nStatus: Scheduled\nVenue: County Ground\, Bristol\, B
