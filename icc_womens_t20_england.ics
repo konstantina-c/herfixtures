@@ -14,7 +14,7 @@ SUMMARY:🏏 England Women v Sri Lanka Women (219/1 / 132 (20 ov\, target
  220))
 DTSTART:20260612T173000Z
 DTEND:20260612T213000Z
-DTSTAMP:20260616T112540Z
+DTSTAMP:20260616T211216Z
 UID:espn-icc-womens-t20-1490677@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026 · England\nEngland Women v Sri
   Lanka Women\nStatus: Result\nVenue: Edgbaston\, Birmingham\, Birmingham\n
@@ -26,11 +26,11 @@ BEGIN:VEVENT
 SUMMARY:🏏 England Women v Ireland Women
 DTSTART:20260616T173000Z
 DTEND:20260616T213000Z
-DTSTAMP:20260616T112540Z
+DTSTAMP:20260616T211216Z
 UID:espn-icc-womens-t20-1490684@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026 · England\nEngland Women v Ire
- land Women\nStatus: Scheduled\nVenue: The Rose Bowl\, Southampton\, Southa
- mpton\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+ land Women\nStatus: Live\nVenue: The Rose Bowl\, Southampton\, Southampton
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.in/cricket/series/8634/game/1490684/england-women-vs-
  ireland-women-8th-match-group-2-icc-womens-t20-world-cup-2026
 END:VEVENT
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 England Women v Scotland Women
 DTSTART:20260620T173000Z
 DTEND:20260620T213000Z
-DTSTAMP:20260616T112540Z
+DTSTAMP:20260616T211216Z
 UID:espn-icc-womens-t20-1490692@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026 · England\nEngland Women v Sco
  tland Women\nStatus: Scheduled\nVenue: Headingley\, Leeds\, Leeds\n\nFixtu
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 England Women v West Indies Women
 DTSTART:20260624T173000Z
 DTEND:20260624T213000Z
-DTSTAMP:20260616T112540Z
+DTSTAMP:20260616T211216Z
 UID:espn-icc-womens-t20-1490698@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026 · England\nEngland Women v Wes
  t Indies Women\nStatus: Scheduled\nVenue: Lord's\, London\, London\n\nFixt
@@ -62,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:🏏 England Women v New Zealand Women
 DTSTART:20260627T173000Z
 DTEND:20260627T213000Z
-DTSTAMP:20260616T112540Z
+DTSTAMP:20260616T211216Z
 UID:espn-icc-womens-t20-1490704@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026 · England\nEngland Women v New
   Zealand Women\nStatus: Scheduled\nVenue: Kennington Oval\, London\, Londo
