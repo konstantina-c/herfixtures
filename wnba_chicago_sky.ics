@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky 98–83 Portland Fire ✓
 DTSTART:20260510T010000Z
 DTEND:20260510T033000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401856895-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nChicago Sky at Portland Fire\nStatus: 
  Final\nFinal score: Chicago Sky 98 – Portland Fire 83\nWatch: NBA TV · 
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky 69–63 Golden State Valkyries ✓
 DTSTART:20260514T020000Z
 DTEND:20260514T043000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401856906-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nChicago Sky at Golden State Valkyries\
  nStatus: Final\nFinal score: Chicago Sky 69 – Golden State Valkyries 63\
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky 83–91 Phoenix Mercury ✓
 DTSTART:20260516T020000Z
 DTEND:20260516T043000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401856913-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nChicago Sky at Phoenix Mercury\nStatus
  : Final\nFinal score: Chicago Sky 83 – Phoenix Mercury 91\nWatch: ION ·
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky 86–79 Minnesota Lynx ✓
 DTSTART:20260517T230000Z
 DTEND:20260518T013000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401856914-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nChicago Sky at Minnesota Lynx\nStatus:
   Final\nFinal score: Chicago Sky 86 – Minnesota Lynx 79\nWatch: WNBA Lea
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Dallas Wings 99–89 Chicago Sky ✓ 🏠
 DTSTART:20260521T010000Z
 DTEND:20260521T033000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401856922-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nDallas Wings at Chicago Sky\nStatus: F
  inal\nFinal score: Dallas Wings 99 – Chicago Sky 89\nWatch: USA Net · C
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx 85–75 Chicago Sky ✓ 🏠
 DTSTART:20260523T170000Z
 DTEND:20260523T193000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401856930-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nMinnesota Lynx at Chicago Sky\nStatus:
   Final\nFinal score: Minnesota Lynx 85 – Chicago Sky 75\nWatch: CBS · P
@@ -91,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo 111–104 Chicago Sky ✓ 🏠
 DTSTART:20260528T000000Z
 DTEND:20260528T023000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401856939-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nToronto Tempo at Chicago Sky\nStatus: 
  Final\nFinal score: Toronto Tempo 111 – Chicago Sky 104\nWatch: WNBA Lea
@@ -104,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx 79–58 Chicago Sky ✓ 🏠
 DTSTART:20260529T233000Z
 DTEND:20260530T020000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401856947-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nMinnesota Lynx at Chicago Sky\nStatus:
   Final\nFinal score: Minnesota Lynx 79 – Chicago Sky 58\nWatch: ION · W
@@ -117,7 +117,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky 72–90 Washington Mystics ✓
 DTSTART:20260602T233000Z
 DTEND:20260603T020000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401856956-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nChicago Sky at Washington Mystics\nSta
  tus: Final\nFinal score: Chicago Sky 72 – Washington Mystics 90\nWatch: 
@@ -130,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Connecticut Sun 80–85 Chicago Sky ✓ 🏠
 DTSTART:20260605T233000Z
 DTEND:20260606T020000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401856963-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nConnecticut Sun at Chicago Sky\nStatus
  : Final\nFinal score: Connecticut Sun 80 – Chicago Sky 85\nWatch: ION ·
@@ -143,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky 68–85 Toronto Tempo ✓
 DTSTART:20260607T190000Z
 DTEND:20260607T213000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401856970-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nChicago Sky at Toronto Tempo\nStatus: 
  Final\nFinal score: Chicago Sky 68 – Toronto Tempo 85\nWatch: WNBA Leagu
@@ -156,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Atlanta Dream 82–75 Chicago Sky ✓ 🏠
 DTSTART:20260609T230000Z
 DTEND:20260610T013000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401856975-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nAtlanta Dream at Chicago Sky\nStatus: 
  Final\nFinal score: Atlanta Dream 82 – Chicago Sky 75\nWatch: ESPN\nVenu
@@ -169,7 +169,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky 106–114 Indiana Fever ✓
 DTSTART:20260611T230000Z
 DTEND:20260612T013000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401856980-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nChicago Sky at Indiana Fever\nStatus: 
  Final\nFinal score: Chicago Sky 106 – Indiana Fever 114\nWatch: Prime Vi
@@ -179,16 +179,15 @@ LOCATION:Gainbridge Fieldhouse\, Indianapolis
 URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 New York Liberty @ Chicago Sky 🏠
+SUMMARY:🏀 New York Liberty 96–95 Chicago Sky ✓ 🏠
 DTSTART:20260618T000000Z
 DTEND:20260618T023000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401856997-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nNew York Liberty at Chicago Sky\nStatu
- s: Scheduled\nWatch: USA Net · Fox 5 New York · Liberty Live · CW26\nVe
- nue: Wintrust Arena\, Chicago\nTickets: https://www.vividseats.com/chicago
- -sky-tickets-wintrust-arena-6-17-2026--sports-wnba/production/6559070?wsUs
- er=717\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+ s: Final\nFinal score: New York Liberty 96 – Chicago Sky 95\nWatch: USA 
+ Net · Fox 5 New York · Liberty Live · CW26\nVenue: Wintrust Arena\, Chi
+ cago\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
 LOCATION:Wintrust Arena\, Chicago
 URL:https://herfixtures.com
 END:VEVENT
@@ -196,7 +195,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky @ Dallas Wings
 DTSTART:20260621T000000Z
 DTEND:20260621T023000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401857008-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nChicago Sky at Dallas Wings\nStatus: S
  cheduled\nWatch: CBS · Paramount+\nVenue: College Park Center\, Arlington
@@ -210,7 +209,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky @ Connecticut Sun
 DTSTART:20260622T230000Z
 DTEND:20260623T013000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401857012-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nChicago Sky at Connecticut Sun\nStatus
  : Scheduled\nWatch: WNBA League Pass · CW26 · NBC Sports BO\nVenue: Mohe
@@ -225,7 +224,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Chicago Sky 🏠
 DTSTART:20260625T000000Z
 DTEND:20260625T023000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401857019-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nPortland Fire at Chicago Sky\nStatus: 
  Scheduled\nWatch: WNBA League Pass · Fox 12 Plus · CW26\nVenue: Wintrust
@@ -239,7 +238,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Chicago Sky 🏠
 DTSTART:20260626T233000Z
 DTEND:20260627T020000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401857025-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nPortland Fire at Chicago Sky\nStatus: 
  Scheduled\nWatch: WNBA League Pass · ION\nVenue: Wintrust Arena\, Chicago
@@ -253,7 +252,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Las Vegas Aces @ Chicago Sky 🏠
 DTSTART:20260628T200000Z
 DTEND:20260628T223000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401857032-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nLas Vegas Aces at Chicago Sky\nStatus:
   Scheduled\nWatch: CBS · Paramount+\nVenue: United Center\, Chicago\nTick
@@ -267,7 +266,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky @ Las Vegas Aces
 DTSTART:20260704T020000Z
 DTEND:20260704T043000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401857038-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nChicago Sky at Las Vegas Aces\nStatus:
   Scheduled\nWatch: ION\nVenue: T-Mobile Arena\, Las Vegas\nTickets: https:
@@ -281,7 +280,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky @ Phoenix Mercury
 DTSTART:20260708T020000Z
 DTEND:20260708T043000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401857047-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nChicago Sky at Phoenix Mercury\nStatus
  : Scheduled\nWatch: AZ Family Sports Net · Merc+ · CW26\nVenue: Mortgage
@@ -296,7 +295,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky @ Los Angeles Sparks
 DTSTART:20260711T020000Z
 DTEND:20260711T043000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401857056-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nChicago Sky at Los Angeles Sparks\nSta
  tus: Scheduled\nWatch: ION\nVenue: crypto.com Arena\, Los Angeles\nTickets
@@ -310,7 +309,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky @ Dallas Wings
 DTSTART:20260712T230000Z
 DTEND:20260713T013000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401857062-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nChicago Sky at Dallas Wings\nStatus: S
  cheduled\nWatch: ESPN · Disney+\nVenue: American Airlines Center\, Dallas
@@ -324,7 +323,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Seattle Storm @ Chicago Sky 🏠
 DTSTART:20260715T160000Z
 DTEND:20260715T183000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401857068-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nSeattle Storm at Chicago Sky\nStatus: 
  Scheduled\nWatch: CW26 · CW Seattle · Prime Video-Seattle\nVenue: Wintru
@@ -338,7 +337,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Chicago Sky 🏠
 DTSTART:20260717T233000Z
 DTEND:20260718T020000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401857075-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nLos Angeles Sparks at Chicago Sky\nSta
  tus: Scheduled\nWatch: ION\nVenue: Wintrust Arena\, Chicago\nTickets: http
@@ -352,7 +351,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky @ Atlanta Dream
 DTSTART:20260719T200000Z
 DTEND:20260719T223000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401857081-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nChicago Sky at Atlanta Dream\nStatus: 
  Scheduled\nWatch: CBS · Paramount+\nVenue: Gateway Center\, College Park\
@@ -366,7 +365,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky @ New York Liberty
 DTSTART:20260722T230000Z
 DTEND:20260723T013000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401857088-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nChicago Sky at New York Liberty\nStatu
  s: Scheduled\nWatch: Fox 5 New York · Liberty Live\nVenue: Barclays Cente
@@ -380,7 +379,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Connecticut Sun @ Chicago Sky 🏠
 DTSTART:20260731T000000Z
 DTEND:20260731T023000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401857100-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nConnecticut Sun at Chicago Sky\nStatus
  : Scheduled\nWatch: Prime Video\nVenue: Wintrust Arena\, Chicago\nTickets:
@@ -394,7 +393,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Las Vegas Aces @ Chicago Sky 🏠
 DTSTART:20260801T170000Z
 DTEND:20260801T193000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401857105-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nLas Vegas Aces at Chicago Sky\nStatus:
   Scheduled\nWatch: CBS · Paramount+\nVenue: Wintrust Arena\, Chicago\nTic
@@ -408,7 +407,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Phoenix Mercury @ Chicago Sky 🏠
 DTSTART:20260804T010000Z
 DTEND:20260804T033000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401857113-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nPhoenix Mercury at Chicago Sky\nStatus
  : Scheduled\nWatch: USA Net · CW26 · AZ Family Sports Net · Merc+\nVenu
@@ -422,7 +421,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Chicago Sky 🏠
 DTSTART:20260806T010000Z
 DTEND:20260806T033000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401857118-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nLos Angeles Sparks at Chicago Sky\nSta
  tus: Scheduled\nWatch: USA Net · CNBC · CW26 · Spectrum Sports Net\nVen
@@ -436,7 +435,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Indiana Fever @ Chicago Sky 🏠
 DTSTART:20260808T193000Z
 DTEND:20260808T220000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401857126-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nIndiana Fever at Chicago Sky\nStatus: 
  Scheduled\nWatch: ABC\nVenue: United Center\, Chicago\nTickets: https://ww
@@ -450,7 +449,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky @ Seattle Storm
 DTSTART:20260811T020000Z
 DTEND:20260811T043000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401857133-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nChicago Sky at Seattle Storm\nStatus: 
  Scheduled\nWatch: USA Net · CW Seattle · Prime Video-Seattle · CW26\nVe
@@ -465,7 +464,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky @ Golden State Valkyries
 DTSTART:20260813T020000Z
 DTEND:20260813T043000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401857138-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nChicago Sky at Golden State Valkyries\
  nStatus: Scheduled\nWatch: USA Net · CNBC · KPIX+ · CW26\nVenue: Chase 
@@ -480,7 +479,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky @ Seattle Storm
 DTSTART:20260816T210000Z
 DTEND:20260816T233000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401857148-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nChicago Sky at Seattle Storm\nStatus: 
  Scheduled\nWatch: KOMO-TV · Prime Video-Seattle · CW26\nVenue: Climate P
@@ -494,7 +493,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 New York Liberty @ Chicago Sky 🏠
 DTSTART:20260819T010000Z
 DTEND:20260819T033000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401857154-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nNew York Liberty at Chicago Sky\nStatu
  s: Scheduled\nWatch: ESPN\nVenue: Wintrust Arena\, Chicago\nTickets: https
@@ -508,7 +507,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Golden State Valkyries @ Chicago Sky 🏠
 DTSTART:20260821T233000Z
 DTEND:20260822T020000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401857162-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nGolden State Valkyries at Chicago Sky\
  nStatus: Scheduled\nWatch: ION\nVenue: Wintrust Arena\, Chicago\nTickets: 
@@ -522,7 +521,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Indiana Fever @ Chicago Sky 🏠
 DTSTART:20260823T230000Z
 DTEND:20260824T013000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401857168-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nIndiana Fever at Chicago Sky\nStatus: 
  Scheduled\nWatch: NBC · Peacock\nVenue: Wintrust Arena\, Chicago\nTickets
@@ -536,7 +535,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky @ Connecticut Sun
 DTSTART:20260825T230000Z
 DTEND:20260826T013000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401857173-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nChicago Sky at Connecticut Sun\nStatus
  : Scheduled\nWatch: NBC Sports BO · CW26\nVenue: Mohegan Sun Arena\, Unca
@@ -550,7 +549,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky @ New York Liberty
 DTSTART:20260829T170000Z
 DTEND:20260829T193000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401857184-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nChicago Sky at New York Liberty\nStatu
  s: Scheduled\nWatch: CBS · Paramount+\nVenue: Barclays Center\, Brooklyn\
@@ -564,7 +563,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Washington Mystics @ Chicago Sky 🏠
 DTSTART:20260918T000000Z
 DTEND:20260918T023000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401857191-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nWashington Mystics at Chicago Sky\nSta
  tus: Scheduled\nWatch: CW26 · MNMT\nVenue: Wintrust Arena\, Chicago\nTick
@@ -578,7 +577,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky @ Atlanta Dream
 DTSTART:20260919T230000Z
 DTEND:20260920T013000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401857199-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nChicago Sky at Atlanta Dream\nStatus: 
  Scheduled\nWatch: Prime Video\nVenue: State Farm Arena\, Atlanta\nTickets:
@@ -592,7 +591,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo @ Chicago Sky 🏠
 DTSTART:20260923T000000Z
 DTEND:20260923T023000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401857210-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nToronto Tempo at Chicago Sky\nStatus: 
  Scheduled\nWatch: CW26 · TSN\nVenue: Wintrust Arena\, Chicago\nTickets: h
@@ -606,7 +605,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky @ Washington Mystics
 DTSTART:20260924T233000Z
 DTEND:20260925T020000Z
-DTSTAMP:20260617T202333Z
+DTSTAMP:20260618T104041Z
 UID:wnba-401857216-19@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nChicago Sky at Washington Mystics\nSta
  tus: Scheduled\nWatch: CW26 · MNMT\nVenue: Capital One Arena\, Washington
