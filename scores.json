@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T10:49:26Z",
+  "updated": "2026-06-19T19:57:08Z",
   "competitions": {
     "wnba": {
       "name": "WNBA",
@@ -34,7 +34,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/18.png"
           },
           "kickoff": "2026-06-19T23:30:00Z",
-          "kickoff_label": "in 13h"
+          "kickoff_label": "in 4h"
         },
         {
           "league": "WNBA",
@@ -47,7 +47,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/9.png"
           },
           "kickoff": "2026-06-19T23:30:00Z",
-          "kickoff_label": "in 13h"
+          "kickoff_label": "in 4h"
         },
         {
           "league": "WNBA",
@@ -60,7 +60,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/gs.png"
           },
           "kickoff": "2026-06-20T02:00:00Z",
-          "kickoff_label": "in 15h"
+          "kickoff_label": "in 6h"
         },
         {
           "league": "WNBA",
@@ -73,7 +73,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/20.png"
           },
           "kickoff": "2026-06-20T17:00:00Z",
-          "kickoff_label": "Tomorrow @ 5pm"
+          "kickoff_label": "in 21h"
         },
         {
           "league": "WNBA",
@@ -86,7 +86,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/11.png"
           },
           "kickoff": "2026-06-20T19:00:00Z",
-          "kickoff_label": "Tomorrow @ 7pm"
+          "kickoff_label": "in 23h"
         },
         {
           "league": "WNBA",
@@ -154,35 +154,38 @@
       "name": "ICC Women's T20 WC",
       "sport": "cricket",
       "slug": "icc-womens-t20",
-      "postgame": [],
-      "livegame": [],
-      "pregame": [
+      "postgame": [
         {
           "league": "ICC Women's T20 WC",
           "home": {
             "name": "SCO-W",
-            "logo": "https://a.espncdn.com/i/teamlogos/cricket/500/3454.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/cricket/500/3454.png",
+            "score": "146 (20 ov, target 154)"
           },
           "away": {
             "name": "WI-W",
-            "logo": "https://a.espncdn.com/i/teamlogos/cricket/500/3816.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/cricket/500/3816.png",
+            "score": "153/6"
           },
-          "kickoff": "2026-06-18T17:30:00Z",
-          "kickoff_label": "in -1039 min"
-        },
+          "winner": "away"
+        }
+      ],
+      "livegame": [
         {
           "league": "ICC Women's T20 WC",
           "home": {
             "name": "IRE-W",
-            "logo": "https://a.espncdn.com/i/teamlogos/cricket/500/2234.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/cricket/500/2234.png",
+            "score": "68/1 (11.3/20 ov, target 141)"
           },
           "away": {
             "name": "NZ-W",
-            "logo": "https://a.espncdn.com/i/teamlogos/cricket/500/2563.png"
-          },
-          "kickoff": "2026-06-19T17:30:00Z",
-          "kickoff_label": "in 7h"
-        },
+            "logo": "https://a.espncdn.com/i/teamlogos/cricket/500/2563.png",
+            "score": "140/6"
+          }
+        }
+      ],
+      "pregame": [
         {
           "league": "ICC Women's T20 WC",
           "home": {
@@ -194,7 +197,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/cricket/500/2410.png"
           },
           "kickoff": "2026-06-20T09:30:00Z",
-          "kickoff_label": "in 23h"
+          "kickoff_label": "in 14h"
         },
         {
           "league": "ICC Women's T20 WC",
@@ -207,7 +210,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/cricket/500/2971.png"
           },
           "kickoff": "2026-06-20T13:30:00Z",
-          "kickoff_label": "Tomorrow @ 1:30pm"
+          "kickoff_label": "in 18h"
         },
         {
           "league": "ICC Women's T20 WC",
@@ -220,7 +223,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/cricket/500/3454.png"
           },
           "kickoff": "2026-06-20T17:30:00Z",
-          "kickoff_label": "Tomorrow @ 5:30pm"
+          "kickoff_label": "in 22h"
         },
         {
           "league": "ICC Women's T20 WC",
