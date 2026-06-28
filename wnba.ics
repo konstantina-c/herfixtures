@@ -12,30 +12,30 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx @ Dallas Wings
 DTSTART:20260628T180000Z
 DTEND:20260628T203000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857030@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nMinnesota Lynx at Dallas Wings\nStat
- us: Scheduled\nVenue: College Park Center\, Arlington\nTV: CBS\, Paramount
- +\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/wnba/game/_/gameId/401857030/lynx-wings
+ us: In Progress\nVenue: College Park Center\, Arlington\nTV: CBS\, Paramou
+ nt+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/wnba/game?gameId=401857030
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Washington Mystics
 DTSTART:20260628T190000Z
 DTEND:20260628T213000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857031@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPortland Fire at Washington Mystics\
- nStatus: Scheduled\nVenue: CareFirst Arena\, Washington\nTV: WNBA League P
- ass\, Fox 12 Plus\, MNMT\n\nFixtures by HerFixtures.com — Women's Sports
-  on Your Calendar
-URL:https://www.espn.com/wnba/game/_/gameId/401857031/fire-mystics
+ nStatus: In Progress\nVenue: CareFirst Arena\, Washington\nTV: WNBA League
+  Pass\, Fox 12 Plus\, MNMT\n\nFixtures by HerFixtures.com — Women's Spor
+ ts on Your Calendar
+URL:https://www.espn.com/wnba/game?gameId=401857031
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏀 Las Vegas Aces @ Chicago Sky
 DTSTART:20260628T200000Z
 DTEND:20260628T223000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857032@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLas Vegas Aces at Chicago Sky\nStatu
  s: Scheduled\nVenue: United Center\, Chicago\nTV: CBS\, Paramount+\n\nFixt
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 New York Liberty @ Golden State Valkyries
 DTSTART:20260628T230000Z
 DTEND:20260629T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857033@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nNew York Liberty at Golden State Val
  kyries\nStatus: Scheduled\nVenue: Chase Center\, San Francisco\nTV: ESPN\,
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Las Vegas Aces @ New York Liberty
 DTSTART:20260630T230000Z
 DTEND:20260701T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857321@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLas Vegas Aces at New York Liberty\n
  Status: Scheduled\nVenue: Barclays Center\, Brooklyn\nTV: Prime Video\n\nF
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Atlanta Dream @ Washington Mystics
 DTSTART:20260702T233000Z
 DTEND:20260703T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857034@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nAtlanta Dream at Washington Mystics\
  nStatus: Scheduled\nVenue: CareFirst Arena\, Washington\nTV: WNBA League P
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Dallas Wings @ Connecticut Sun
 DTSTART:20260703T000000Z
 DTEND:20260703T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857035@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nDallas Wings at Connecticut Sun\nSta
  tus: Scheduled\nVenue: PeoplesBank Arena\, Hartford\nTV: Prime Video\, KFA
@@ -92,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Seattle Storm @ Phoenix Mercury
 DTSTART:20260703T020000Z
 DTEND:20260703T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857036@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nSeattle Storm at Phoenix Mercury\nSt
  atus: Scheduled\nVenue: Mortgage Matchup Center\, Phoenix\nTV: WNBA League
@@ -104,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx @ New York Liberty
 DTSTART:20260703T233000Z
 DTEND:20260704T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857037@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nMinnesota Lynx at New York Liberty\n
  Status: Scheduled\nVenue: Barclays Center\, Brooklyn\nTV: ION\, WNBA Leagu
@@ -115,7 +115,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky @ Las Vegas Aces
 DTSTART:20260704T020000Z
 DTEND:20260704T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857038@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nChicago Sky at Las Vegas Aces\nStatu
  s: Scheduled\nVenue: T-Mobile Arena\, Las Vegas\nTV: ION\, WNBA League Pas
@@ -126,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Golden State Valkyries @ Atlanta Dream
 DTSTART:20260704T170000Z
 DTEND:20260704T193000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857039@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nGolden State Valkyries at Atlanta Dr
  eam\nStatus: Scheduled\nVenue: Gateway Center\, College Park\nTV: CBS\, Pa
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Seattle Storm
 DTSTART:20260705T010000Z
 DTEND:20260705T033000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857040@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPortland Fire at Seattle Storm\nStat
  us: Scheduled\nVenue: Climate Pledge Arena\, Seattle\nTV: WNBA League Pass
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Dallas Wings @ Toronto Tempo
 DTSTART:20260705T190000Z
 DTEND:20260705T213000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857041@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nDallas Wings at Toronto Tempo\nStatu
  s: Scheduled\nVenue: Coca-Cola Coliseum\, Toronto\nTV: WNBA League Pass\, 
@@ -162,7 +162,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Indiana Fever @ Las Vegas Aces
 DTSTART:20260705T230000Z
 DTEND:20260706T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857042@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nIndiana Fever at Las Vegas Aces\nSta
  tus: Scheduled\nVenue: T-Mobile Arena\, Las Vegas\nTV: ESPN\, Disney+\n\nF
@@ -173,7 +173,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Golden State Valkyries @ Washington Mystics
 DTSTART:20260706T233000Z
 DTEND:20260707T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857043@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nGolden State Valkyries at Washington
   Mystics\nStatus: Scheduled\nVenue: CareFirst Arena\, Washington\nTV: WNBA
@@ -185,7 +185,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Connecticut Sun @ Minnesota Lynx
 DTSTART:20260707T000000Z
 DTEND:20260707T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857044@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nConnecticut Sun at Minnesota Lynx\nS
  tatus: Scheduled\nVenue: Target Center\, Minneapolis\nTV: WNBA League Pass
@@ -197,7 +197,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Seattle Storm @ Los Angeles Sparks
 DTSTART:20260707T020000Z
 DTEND:20260707T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857045@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nSeattle Storm at Los Angeles Sparks\
  nStatus: Scheduled\nVenue: crypto.com Arena\, Los Angeles\nTV: USA Net\, S
@@ -209,7 +209,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Dallas Wings @ New York Liberty
 DTSTART:20260708T000000Z
 DTEND:20260708T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857046@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nDallas Wings at New York Liberty\nSt
  atus: Scheduled\nVenue: Barclays Center\, Brooklyn\nTV: ESPN\n\nFixtures b
@@ -220,7 +220,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky @ Phoenix Mercury
 DTSTART:20260708T020000Z
 DTEND:20260708T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857047@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nChicago Sky at Phoenix Mercury\nStat
  us: Scheduled\nVenue: Mortgage Matchup Center\, Phoenix\nTV: WNBA League P
@@ -232,7 +232,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Golden State Valkyries @ Toronto Tempo
 DTSTART:20260708T230000Z
 DTEND:20260709T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857048@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nGolden State Valkyries at Toronto Te
  mpo\nStatus: Scheduled\nVenue: Coca-Cola Coliseum\, Toronto\nTV: KPIX+\, T
@@ -243,7 +243,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx @ Connecticut Sun
 DTSTART:20260708T233000Z
 DTEND:20260709T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857049@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nMinnesota Lynx at Connecticut Sun\nS
  tatus: Scheduled\nVenue: Mohegan Sun Arena\, Uncasville\nTV: USA Net\, Vic
@@ -255,7 +255,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Indiana Fever @ Los Angeles Sparks
 DTSTART:20260709T020000Z
 DTEND:20260709T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857050@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nIndiana Fever at Los Angeles Sparks\
  nStatus: Scheduled\nVenue: crypto.com Arena\, Los Angeles\nTV: USA Net\, C
@@ -267,7 +267,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Seattle Storm @ Atlanta Dream
 DTSTART:20260710T000000Z
 DTEND:20260710T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857051@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nSeattle Storm at Atlanta Dream\nStat
  us: Scheduled\nVenue: Gateway Center\, College Park\nTV: Prime Video\n\nFi
@@ -278,7 +278,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Indiana Fever @ Phoenix Mercury
 DTSTART:20260710T020000Z
 DTEND:20260710T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857052@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nIndiana Fever at Phoenix Mercury\nSt
  atus: Scheduled\nVenue: Mortgage Matchup Center\, Phoenix\nTV: Prime Video
@@ -290,7 +290,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Las Vegas Aces @ Portland Fire
 DTSTART:20260710T020000Z
 DTEND:20260710T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857053@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLas Vegas Aces at Portland Fire\nSta
  tus: Scheduled\nVenue: Moda Center\, Portland\nTV: Fox 12 Plus\, Vegas 34\
@@ -301,7 +301,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Golden State Valkyries @ Connecticut Sun
 DTSTART:20260710T233000Z
 DTEND:20260711T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857054@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nGolden State Valkyries at Connecticu
  t Sun\nStatus: Scheduled\nVenue: Mohegan Sun Arena\, Uncasville\nTV: ION\n
@@ -312,7 +312,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Dallas Wings @ Toronto Tempo
 DTSTART:20260710T233000Z
 DTEND:20260711T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857055@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nDallas Wings at Toronto Tempo\nStatu
  s: Scheduled\nVenue: Bell Centre\, Montreal\nTV: ION\, TSN\n\nFixtures by 
@@ -323,7 +323,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky @ Los Angeles Sparks
 DTSTART:20260711T020000Z
 DTEND:20260711T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857056@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nChicago Sky at Los Angeles Sparks\nS
  tatus: Scheduled\nVenue: crypto.com Arena\, Los Angeles\nTV: ION\n\nFixtur
@@ -334,7 +334,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 New York Liberty @ Minnesota Lynx
 DTSTART:20260711T170000Z
 DTEND:20260711T193000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857057@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nNew York Liberty at Minnesota Lynx\n
  Status: Scheduled\nVenue: Target Center\, Minneapolis\nTV: ABC\n\nFixtures
@@ -345,7 +345,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Atlanta Dream
 DTSTART:20260711T200000Z
 DTEND:20260711T223000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857059@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPortland Fire at Atlanta Dream\nStat
  us: Scheduled\nVenue: Gateway Center\, College Park\nTV: CBS\, Paramount+\
@@ -356,7 +356,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Phoenix Mercury @ Las Vegas Aces
 DTSTART:20260711T220000Z
 DTEND:20260712T003000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857058@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPhoenix Mercury at Las Vegas Aces\nS
  tatus: Scheduled\nVenue: Michelob ULTRA Arena\, Las Vegas\nTV: Peacock\, N
@@ -368,7 +368,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 New York Liberty @ Toronto Tempo
 DTSTART:20260712T190000Z
 DTEND:20260712T213000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857060@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nNew York Liberty at Toronto Tempo\nS
  tatus: Scheduled\nVenue: Bell Centre\, Montreal\nTV: NBA TV\, Fox 5 New Yo
@@ -380,7 +380,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Seattle Storm @ Washington Mystics
 DTSTART:20260712T190000Z
 DTEND:20260712T213000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857061@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nSeattle Storm at Washington Mystics\
  nStatus: Scheduled\nVenue: CareFirst Arena\, Washington\nTV: MNMT\, KOMO-T
@@ -392,7 +392,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky @ Dallas Wings
 DTSTART:20260712T230000Z
 DTEND:20260713T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857062@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nChicago Sky at Dallas Wings\nStatus:
   Scheduled\nVenue: American Airlines Center\, Dallas\nTV: ESPN\, Disney+\n
@@ -403,7 +403,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Indiana Fever @ Las Vegas Aces
 DTSTART:20260713T010000Z
 DTEND:20260713T033000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857063@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nIndiana Fever at Las Vegas Aces\nSta
  tus: Scheduled\nVenue: Michelob ULTRA Arena\, Las Vegas\nTV: NBC\, Peacock
@@ -414,7 +414,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Atlanta Dream
 DTSTART:20260713T230000Z
 DTEND:20260714T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857064@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLos Angeles Sparks at Atlanta Dream\
  nStatus: Scheduled\nVenue: Gateway Center\, College Park\nTV: USA Net\, At
@@ -426,7 +426,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Phoenix Mercury @ Minnesota Lynx
 DTSTART:20260714T010000Z
 DTEND:20260714T033000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857065@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPhoenix Mercury at Minnesota Lynx\nS
  tatus: Scheduled\nVenue: Target Center\, Minneapolis\nTV: Peacock\, NBCSN\
@@ -438,7 +438,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Connecticut Sun
 DTSTART:20260714T150000Z
 DTEND:20260714T173000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857066@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPortland Fire at Connecticut Sun\nSt
  atus: Scheduled\nVenue: Mohegan Sun Arena\, Uncasville\nTV: NBC Sports BO\
@@ -450,7 +450,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Washington Mystics @ Toronto Tempo
 DTSTART:20260714T230000Z
 DTEND:20260715T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857067@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nWashington Mystics at Toronto Tempo\
  nStatus: Scheduled\nVenue: Coca-Cola Coliseum\, Toronto\nTV: MNMT\, TSN\n\
@@ -461,7 +461,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Seattle Storm @ Chicago Sky
 DTSTART:20260715T160000Z
 DTEND:20260715T183000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857068@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nSeattle Storm at Chicago Sky\nStatus
  : Scheduled\nVenue: Wintrust Arena\, Chicago\nTV: CW26\, CW Seattle\, Prim
@@ -473,7 +473,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Minnesota Lynx
 DTSTART:20260715T170000Z
 DTEND:20260715T193000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857069@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLos Angeles Sparks at Minnesota Lynx
  \nStatus: Scheduled\nVenue: Target Center\, Minneapolis\nTV: Spectrum Spor
@@ -485,7 +485,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Golden State Valkyries @ Indiana Fever
 DTSTART:20260716T000000Z
 DTEND:20260716T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857070@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nGolden State Valkyries at Indiana Fe
  ver\nStatus: Scheduled\nVenue: Gainbridge Fieldhouse\, Indianapolis\nTV: U
@@ -497,7 +497,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Washington Mystics
 DTSTART:20260716T230000Z
 DTEND:20260717T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857071@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPortland Fire at Washington Mystics\
  nStatus: Scheduled\nVenue: CareFirst Arena\, Washington\nTV: NBA TV\, Fox 
@@ -509,7 +509,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 New York Liberty @ Dallas Wings
 DTSTART:20260717T010000Z
 DTEND:20260717T033000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857072@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nNew York Liberty at Dallas Wings\nSt
  atus: Scheduled\nVenue: College Park Center\, Arlington\nTV: Prime Video\n
@@ -520,7 +520,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Seattle Storm @ Indiana Fever
 DTSTART:20260717T233000Z
 DTEND:20260718T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857073@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nSeattle Storm at Indiana Fever\nStat
  us: Scheduled\nVenue: Gainbridge Fieldhouse\, Indianapolis\nTV: ION\n\nFix
@@ -531,7 +531,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Atlanta Dream @ Toronto Tempo
 DTSTART:20260717T233000Z
 DTEND:20260718T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857074@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nAtlanta Dream at Toronto Tempo\nStat
  us: Scheduled\nVenue: Coca-Cola Coliseum\, Toronto\nTV: ION\, TSN\n\nFixtu
@@ -542,7 +542,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Chicago Sky
 DTSTART:20260717T233000Z
 DTEND:20260718T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857075@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLos Angeles Sparks at Chicago Sky\nS
  tatus: Scheduled\nVenue: Wintrust Arena\, Chicago\nTV: ION\n\nFixtures by 
@@ -553,7 +553,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Connecticut Sun @ Phoenix Mercury
 DTSTART:20260718T020000Z
 DTEND:20260718T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857076@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nConnecticut Sun at Phoenix Mercury\n
  Status: Scheduled\nVenue: Mortgage Matchup Center\, Phoenix\nTV: ION\n\nFi
@@ -564,7 +564,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 New York Liberty @ Indiana Fever
 DTSTART:20260719T000000Z
 DTEND:20260719T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857077@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nNew York Liberty at Indiana Fever\nS
  tatus: Scheduled\nVenue: Gainbridge Fieldhouse\, Indianapolis\nTV: CBS\, P
@@ -576,7 +576,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Minnesota Lynx
 DTSTART:20260719T000000Z
 DTEND:20260719T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857078@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPortland Fire at Minnesota Lynx\nSta
  tus: Scheduled\nVenue: Target Center\, Minneapolis\nTV: Fox 12 Plus\, Vict
@@ -588,7 +588,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Washington Mystics @ Golden State Valkyries
 DTSTART:20260719T003000Z
 DTEND:20260719T030000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857079@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nWashington Mystics at Golden State V
  alkyries\nStatus: Scheduled\nVenue: Chase Center\, San Francisco\nTV: MNMT
@@ -600,7 +600,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Dallas Wings
 DTSTART:20260719T170000Z
 DTEND:20260719T193000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857080@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLos Angeles Sparks at Dallas Wings\n
  Status: Scheduled\nVenue: College Park Center\, Arlington\nTV: ABC\n\nFixt
@@ -611,7 +611,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky @ Atlanta Dream
 DTSTART:20260719T200000Z
 DTEND:20260719T223000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857081@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nChicago Sky at Atlanta Dream\nStatus
  : Scheduled\nVenue: Gateway Center\, College Park\nTV: CBS\, Paramount+\n\
@@ -622,7 +622,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Connecticut Sun @ Phoenix Mercury
 DTSTART:20260719T230000Z
 DTEND:20260720T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857082@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nConnecticut Sun at Phoenix Mercury\n
  Status: Scheduled\nVenue: Mortgage Matchup Center\, Phoenix\nTV: ESPN\, Di
@@ -633,7 +633,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Las Vegas Aces @ Toronto Tempo
 DTSTART:20260721T000000Z
 DTEND:20260721T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857083@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLas Vegas Aces at Toronto Tempo\nSta
  tus: Scheduled\nVenue: Coca-Cola Coliseum\, Toronto\nTV: Peacock\, NBCSN\,
@@ -645,7 +645,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Washington Mystics @ Golden State Valkyries
 DTSTART:20260721T020000Z
 DTEND:20260721T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857084@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nWashington Mystics at Golden State V
  alkyries\nStatus: Scheduled\nVenue: Chase Center\, San Francisco\nTV: MNMT
@@ -656,7 +656,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx @ Seattle Storm
 DTSTART:20260721T020000Z
 DTEND:20260721T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857085@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nMinnesota Lynx at Seattle Storm\nSta
  tus: Scheduled\nVenue: Climate Pledge Arena\, Seattle\nTV: USA Net\, CW Se
@@ -668,7 +668,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Phoenix Mercury @ Los Angeles Sparks
 DTSTART:20260722T190000Z
 DTEND:20260722T213000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857086@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPhoenix Mercury at Los Angeles Spark
  s\nStatus: Scheduled\nVenue: crypto.com Arena\, Los Angeles\nTV: Spectrum 
@@ -680,7 +680,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx @ Seattle Storm
 DTSTART:20260722T190000Z
 DTEND:20260722T213000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857087@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nMinnesota Lynx at Seattle Storm\nSta
  tus: Scheduled\nVenue: Climate Pledge Arena\, Seattle\nTV: CW Seattle\, Pr
@@ -692,7 +692,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky @ New York Liberty
 DTSTART:20260722T230000Z
 DTEND:20260723T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857088@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nChicago Sky at New York Liberty\nSta
  tus: Scheduled\nVenue: Barclays Center\, Brooklyn\nTV: Fox 5 New York\, Li
@@ -704,7 +704,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Las Vegas Aces @ Washington Mystics
 DTSTART:20260722T233000Z
 DTEND:20260723T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857089@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLas Vegas Aces at Washington Mystics
  \nStatus: Scheduled\nVenue: CareFirst Arena\, Washington\nTV: MNMT\, Vegas
@@ -715,7 +715,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Connecticut Sun @ Indiana Fever
 DTSTART:20260723T000000Z
 DTEND:20260723T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857090@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nConnecticut Sun at Indiana Fever\nSt
  atus: Scheduled\nVenue: Gainbridge Fieldhouse\, Indianapolis\nTV: USA Net\
@@ -727,7 +727,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Dallas Wings @ Portland Fire
 DTSTART:20260723T020000Z
 DTEND:20260723T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857091@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nDallas Wings at Portland Fire\nStatu
  s: Scheduled\nVenue: Moda Center\, Portland\nTV: USA Net\, CNBC\, Fox 12 P
@@ -739,7 +739,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 TBD @ TBD
 DTSTART:20260725T040000Z
 DTEND:20260725T063000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857320@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nTBD at TBD\nStatus: Scheduled\nVenue
  : United Center\, Chicago\n\nFixtures by HerFixtures.com — Women's Sport
@@ -750,7 +750,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Connecticut Sun @ Washington Mystics
 DTSTART:20260728T233000Z
 DTEND:20260729T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857092@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nConnecticut Sun at Washington Mystic
  s\nStatus: Scheduled\nVenue: CareFirst Arena\, Washington\nTV: NBA TV\, MN
@@ -762,7 +762,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo @ Minnesota Lynx
 DTSTART:20260729T000000Z
 DTEND:20260729T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857093@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nToronto Tempo at Minnesota Lynx\nSta
  tus: Scheduled\nVenue: Target Center\, Minneapolis\nTV: TSN\, Victory+ MIN
@@ -773,7 +773,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Indiana Fever @ Seattle Storm
 DTSTART:20260729T013000Z
 DTEND:20260729T040000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857094@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nIndiana Fever at Seattle Storm\nStat
  us: Scheduled\nVenue: Climate Pledge Arena\, Seattle\nTV: ESPN\, MeTV Indi
@@ -785,7 +785,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Las Vegas Aces
 DTSTART:20260729T020000Z
 DTEND:20260729T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857095@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPortland Fire at Las Vegas Aces\nSta
  tus: Scheduled\nVenue: Michelob ULTRA Arena\, Las Vegas\nTV: Vegas 34\, Fo
@@ -797,7 +797,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 New York Liberty @ Los Angeles Sparks
 DTSTART:20260729T020000Z
 DTEND:20260729T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857096@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nNew York Liberty at Los Angeles Spar
  ks\nStatus: Scheduled\nVenue: crypto.com Arena\, Los Angeles\nTV: WWOR-TV\
@@ -809,7 +809,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Atlanta Dream @ Dallas Wings
 DTSTART:20260730T000000Z
 DTEND:20260730T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857097@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nAtlanta Dream at Dallas Wings\nStatu
  s: Scheduled\nVenue: College Park Center\, Arlington\nTV: USA Net\, Atlant
@@ -821,7 +821,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Golden State Valkyries @ Phoenix Mercury
 DTSTART:20260730T020000Z
 DTEND:20260730T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857098@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nGolden State Valkyries at Phoenix Me
  rcury\nStatus: Scheduled\nVenue: Mortgage Matchup Center\, Phoenix\nTV: US
@@ -833,7 +833,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx @ Toronto Tempo
 DTSTART:20260730T230000Z
 DTEND:20260731T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857099@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nMinnesota Lynx at Toronto Tempo\nSta
  tus: Scheduled\nVenue: Scotiabank Arena\, Toronto\nTV: TSN\, Victory+ MIN\
@@ -844,7 +844,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Connecticut Sun @ Chicago Sky
 DTSTART:20260731T000000Z
 DTEND:20260731T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857100@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nConnecticut Sun at Chicago Sky\nStat
  us: Scheduled\nVenue: Wintrust Arena\, Chicago\nTV: Prime Video\n\nFixture
@@ -855,7 +855,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 New York Liberty @ Las Vegas Aces
 DTSTART:20260731T020000Z
 DTEND:20260731T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857101@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nNew York Liberty at Las Vegas Aces\n
  Status: Scheduled\nVenue: Michelob ULTRA Arena\, Las Vegas\nTV: Prime Vide
@@ -866,7 +866,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Seattle Storm @ Atlanta Dream
 DTSTART:20260731T233000Z
 DTEND:20260801T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857102@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nSeattle Storm at Atlanta Dream\nStat
  us: Scheduled\nVenue: Gateway Center\, College Park\nTV: ION\n\nFixtures b
@@ -877,7 +877,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Dallas Wings @ Washington Mystics
 DTSTART:20260731T233000Z
 DTEND:20260801T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857103@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nDallas Wings at Washington Mystics\n
  Status: Scheduled\nVenue: CareFirst Arena\, Washington\nTV: ION\n\nFixture
@@ -888,7 +888,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Indiana Fever @ Portland Fire
 DTSTART:20260801T020000Z
 DTEND:20260801T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857104@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nIndiana Fever at Portland Fire\nStat
  us: Scheduled\nVenue: Moda Center\, Portland\nTV: ION\, WTHR Channel 13\n\
@@ -899,7 +899,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Las Vegas Aces @ Chicago Sky
 DTSTART:20260801T170000Z
 DTEND:20260801T193000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857105@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLas Vegas Aces at Chicago Sky\nStatu
  s: Scheduled\nVenue: Wintrust Arena\, Chicago\nTV: CBS\, Paramount+\n\nFix
@@ -910,7 +910,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 New York Liberty @ Phoenix Mercury
 DTSTART:20260801T190000Z
 DTEND:20260801T213000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857106@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nNew York Liberty at Phoenix Mercury\
  nStatus: Scheduled\nVenue: Mortgage Matchup Center\, Phoenix\nTV: ABC\n\nF
@@ -921,7 +921,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Indiana Fever @ Minnesota Lynx
 DTSTART:20260802T170000Z
 DTEND:20260802T193000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857107@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nIndiana Fever at Minnesota Lynx\nSta
  tus: Scheduled\nVenue: Target Center\, Minneapolis\nTV: ABC\n\nFixtures by
@@ -932,7 +932,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Portland Fire
 DTSTART:20260802T193000Z
 DTEND:20260802T220000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857108@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLos Angeles Sparks at Portland Fire\
  nStatus: Scheduled\nVenue: Moda Center\, Portland\nTV: NBC\, Peacock\n\nFi
@@ -943,7 +943,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Connecticut Sun @ Dallas Wings
 DTSTART:20260802T230000Z
 DTEND:20260803T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857109@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nConnecticut Sun at Dallas Wings\nSta
  tus: Scheduled\nVenue: College Park Center\, Arlington\nTV: ESPN\, Disney+
@@ -954,7 +954,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo @ Golden State Valkyries
 DTSTART:20260803T003000Z
 DTEND:20260803T030000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857110@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nToronto Tempo at Golden State Valkyr
  ies\nStatus: Scheduled\nVenue: Chase Center\, San Francisco\nTV: KPIX+\, T
@@ -965,7 +965,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Seattle Storm @ New York Liberty
 DTSTART:20260803T230000Z
 DTEND:20260804T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857112@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nSeattle Storm at New York Liberty\nS
  tatus: Scheduled\nVenue: Barclays Center\, Brooklyn\nTV: Peacock\, NBCSN\,
@@ -977,7 +977,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Las Vegas Aces @ Atlanta Dream
 DTSTART:20260803T233000Z
 DTEND:20260804T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857111@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLas Vegas Aces at Atlanta Dream\nSta
  tus: Scheduled\nVenue: State Farm Arena\, Atlanta\nTV: Atlanta News First\
@@ -989,7 +989,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Phoenix Mercury @ Chicago Sky
 DTSTART:20260804T010000Z
 DTEND:20260804T033000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857113@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPhoenix Mercury at Chicago Sky\nStat
  us: Scheduled\nVenue: Wintrust Arena\, Chicago\nTV: USA Net\, CW26\, AZ Fa
@@ -1001,7 +1001,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo @ Golden State Valkyries
 DTSTART:20260805T020000Z
 DTEND:20260805T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857114@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nToronto Tempo at Golden State Valkyr
  ies\nStatus: Scheduled\nVenue: Chase Center\, San Francisco\nTV: TSN\n\nFi
@@ -1012,7 +1012,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Phoenix Mercury @ Atlanta Dream
 DTSTART:20260805T230000Z
 DTEND:20260806T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857115@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPhoenix Mercury at Atlanta Dream\nSt
  atus: Scheduled\nVenue: Gateway Center\, College Park\nTV: Atlanta News Fi
@@ -1024,7 +1024,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Seattle Storm @ New York Liberty
 DTSTART:20260805T230000Z
 DTEND:20260806T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857116@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nSeattle Storm at New York Liberty\nS
  tatus: Scheduled\nVenue: Barclays Center\, Brooklyn\nTV: USA Net\, Fox 5 N
@@ -1036,7 +1036,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Dallas Wings @ Washington Mystics
 DTSTART:20260805T233000Z
 DTEND:20260806T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857117@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nDallas Wings at Washington Mystics\n
  Status: Scheduled\nVenue: CareFirst Arena\, Washington\nTV: KFAA-TV\, MNMT
@@ -1047,7 +1047,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Chicago Sky
 DTSTART:20260806T010000Z
 DTEND:20260806T033000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857118@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLos Angeles Sparks at Chicago Sky\nS
  tatus: Scheduled\nVenue: Wintrust Arena\, Chicago\nTV: USA Net\, CNBC\, CW
@@ -1059,7 +1059,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Las Vegas Aces @ Indiana Fever
 DTSTART:20260806T230000Z
 DTEND:20260807T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857119@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLas Vegas Aces at Indiana Fever\nSta
  tus: Scheduled\nVenue: Gainbridge Fieldhouse\, Indianapolis\nTV: Prime Vid
@@ -1070,7 +1070,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Minnesota Lynx
 DTSTART:20260807T010000Z
 DTEND:20260807T033000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857120@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLos Angeles Sparks at Minnesota Lynx
  \nStatus: Scheduled\nVenue: Target Center\, Minneapolis\nTV: Prime Video\n
@@ -1081,7 +1081,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo @ Portland Fire
 DTSTART:20260807T020000Z
 DTEND:20260807T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857121@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nToronto Tempo at Portland Fire\nStat
  us: Scheduled\nVenue: Moda Center\, Portland\nTV: Fox 12 Plus\, TSN\n\nFix
@@ -1092,7 +1092,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Phoenix Mercury @ Connecticut Sun
 DTSTART:20260807T233000Z
 DTEND:20260808T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857122@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPhoenix Mercury at Connecticut Sun\n
  Status: Scheduled\nVenue: Mohegan Sun Arena\, Uncasville\nTV: ION\n\nFixtu
@@ -1103,7 +1103,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Atlanta Dream @ Washington Mystics
 DTSTART:20260807T233000Z
 DTEND:20260808T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857123@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nAtlanta Dream at Washington Mystics\
  nStatus: Scheduled\nVenue: CareFirst Arena\, Washington\nTV: ION\n\nFixtur
@@ -1114,7 +1114,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Golden State Valkyries @ Dallas Wings
 DTSTART:20260808T013000Z
 DTEND:20260808T040000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857124@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nGolden State Valkyries at Dallas Win
  gs\nStatus: Scheduled\nVenue: American Airlines Center\, Dallas\nTV: ION\n
@@ -1125,7 +1125,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Las Vegas Aces @ Minnesota Lynx
 DTSTART:20260808T170000Z
 DTEND:20260808T193000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857125@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLas Vegas Aces at Minnesota Lynx\nSt
  atus: Scheduled\nVenue: Target Center\, Minneapolis\nTV: CBS\, Paramount+\
@@ -1136,7 +1136,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Indiana Fever @ Chicago Sky
 DTSTART:20260808T193000Z
 DTEND:20260808T220000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857126@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nIndiana Fever at Chicago Sky\nStatus
  : Scheduled\nVenue: United Center\, Chicago\nTV: ABC\n\nFixtures by HerFix
@@ -1147,7 +1147,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Seattle Storm @ Portland Fire
 DTSTART:20260809T003000Z
 DTEND:20260809T030000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857127@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nSeattle Storm at Portland Fire\nStat
  us: Scheduled\nVenue: Moda Center\, Portland\nTV: NBA TV\, Fox 12 Plus\, K
@@ -1159,7 +1159,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Las Vegas Aces @ New York Liberty
 DTSTART:20260809T163000Z
 DTEND:20260809T190000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857128@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLas Vegas Aces at New York Liberty\n
  Status: Scheduled\nVenue: Barclays Center\, Brooklyn\nTV: ABC\n\nFixtures 
@@ -1170,7 +1170,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Phoenix Mercury @ Washington Mystics
 DTSTART:20260809T190000Z
 DTEND:20260809T213000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857129@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPhoenix Mercury at Washington Mystic
  s\nStatus: Scheduled\nVenue: CareFirst Arena\, Washington\nTV: Arizona's F
@@ -1182,7 +1182,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Dallas Wings @ Minnesota Lynx
 DTSTART:20260809T193000Z
 DTEND:20260809T220000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857130@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nDallas Wings at Minnesota Lynx\nStat
  us: Scheduled\nVenue: Target Center\, Minneapolis\nTV: NBC\, Peacock\n\nFi
@@ -1193,7 +1193,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Golden State Valkyries @ Los Angeles Sparks
 DTSTART:20260809T230000Z
 DTEND:20260810T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857131@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nGolden State Valkyries at Los Angele
  s Sparks\nStatus: Scheduled\nVenue: crypto.com Arena\, Los Angeles\nTV: ES
@@ -1205,7 +1205,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo @ Atlanta Dream
 DTSTART:20260811T000000Z
 DTEND:20260811T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857132@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nToronto Tempo at Atlanta Dream\nStat
  us: Scheduled\nVenue: Gateway Center\, College Park\nTV: Peacock\, NBCSN\,
@@ -1217,7 +1217,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky @ Seattle Storm
 DTSTART:20260811T020000Z
 DTEND:20260811T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857133@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nChicago Sky at Seattle Storm\nStatus
  : Scheduled\nVenue: Climate Pledge Arena\, Seattle\nTV: USA Net\, CW Seatt
@@ -1229,7 +1229,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 New York Liberty @ Indiana Fever
 DTSTART:20260811T233000Z
 DTEND:20260812T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857134@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nNew York Liberty at Indiana Fever\nS
  tatus: Scheduled\nVenue: Gainbridge Fieldhouse\, Indianapolis\nTV: ESPN\n\
@@ -1240,7 +1240,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Washington Mystics @ Las Vegas Aces
 DTSTART:20260812T020000Z
 DTEND:20260812T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857135@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nWashington Mystics at Las Vegas Aces
  \nStatus: Scheduled\nVenue: Michelob ULTRA Arena\, Las Vegas\nTV: Vegas 34
@@ -1251,7 +1251,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Phoenix Mercury @ Los Angeles Sparks
 DTSTART:20260812T020000Z
 DTEND:20260812T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857136@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPhoenix Mercury at Los Angeles Spark
  s\nStatus: Scheduled\nVenue: Galen Center\, Los Angeles\nTV: Spectrum Spor
@@ -1263,7 +1263,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo @ Dallas Wings
 DTSTART:20260813T000000Z
 DTEND:20260813T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857137@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nToronto Tempo at Dallas Wings\nStatu
  s: Scheduled\nVenue: College Park Center\, Arlington\nTV: USA Net\, KFAA-T
@@ -1274,7 +1274,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky @ Golden State Valkyries
 DTSTART:20260813T020000Z
 DTEND:20260813T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857138@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nChicago Sky at Golden State Valkyrie
  s\nStatus: Scheduled\nVenue: Chase Center\, San Francisco\nTV: USA Net\, C
@@ -1286,7 +1286,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx @ Portland Fire
 DTSTART:20260813T020000Z
 DTEND:20260813T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857139@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nMinnesota Lynx at Portland Fire\nSta
  tus: Scheduled\nVenue: Moda Center\, Portland\nTV: Fox 12 Plus\, Victory+ 
@@ -1297,7 +1297,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Atlanta Dream @ Connecticut Sun
 DTSTART:20260813T230000Z
 DTEND:20260814T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857140@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nAtlanta Dream at Connecticut Sun\nSt
  atus: Scheduled\nVenue: Mohegan Sun Arena\, Uncasville\nTV: PeachtreeTV\, 
@@ -1309,7 +1309,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ New York Liberty
 DTSTART:20260814T000000Z
 DTEND:20260814T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857141@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLos Angeles Sparks at New York Liber
  ty\nStatus: Scheduled\nVenue: Barclays Center\, Brooklyn\nTV: Prime Video\
@@ -1320,7 +1320,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Washington Mystics @ Las Vegas Aces
 DTSTART:20260814T020000Z
 DTEND:20260814T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857142@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nWashington Mystics at Las Vegas Aces
  \nStatus: Scheduled\nVenue: Michelob ULTRA Arena\, Las Vegas\nTV: Prime Vi
@@ -1331,7 +1331,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Dallas Wings @ Indiana Fever
 DTSTART:20260814T233000Z
 DTEND:20260815T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857143@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nDallas Wings at Indiana Fever\nStatu
  s: Scheduled\nVenue: Gainbridge Fieldhouse\, Indianapolis\nTV: ION\n\nFixt
@@ -1342,7 +1342,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Seattle Storm
 DTSTART:20260815T020000Z
 DTEND:20260815T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857144@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPortland Fire at Seattle Storm\nStat
  us: Scheduled\nVenue: Climate Pledge Arena\, Seattle\nTV: ION\n\nFixtures 
@@ -1353,7 +1353,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 New York Liberty @ Connecticut Sun
 DTSTART:20260815T170000Z
 DTEND:20260815T193000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857145@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nNew York Liberty at Connecticut Sun\
  nStatus: Scheduled\nVenue: Mohegan Sun Arena\, Uncasville\nTV: Fox 5 New Y
@@ -1365,7 +1365,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Washington Mystics
 DTSTART:20260815T233000Z
 DTEND:20260816T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857146@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLos Angeles Sparks at Washington Mys
  tics\nStatus: Scheduled\nVenue: CareFirst Arena\, Washington\nTV: Spectrum
@@ -1377,7 +1377,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx @ Las Vegas Aces
 DTSTART:20260816T000000Z
 DTEND:20260816T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857147@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nMinnesota Lynx at Las Vegas Aces\nSt
  atus: Scheduled\nVenue: Michelob ULTRA Arena\, Las Vegas\nTV: CBS\, Paramo
@@ -1388,7 +1388,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky @ Seattle Storm
 DTSTART:20260816T210000Z
 DTEND:20260816T233000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857148@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nChicago Sky at Seattle Storm\nStatus
  : Scheduled\nVenue: Climate Pledge Arena\, Seattle\nTV: KOMO-TV\, Prime Vi
@@ -1400,7 +1400,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Indiana Fever @ Atlanta Dream
 DTSTART:20260816T210000Z
 DTEND:20260816T233000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857150@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nIndiana Fever at Atlanta Dream\nStat
  us: Scheduled\nVenue: State Farm Arena\, Atlanta\nTV: ESPN\, Disney+\n\nFi
@@ -1411,7 +1411,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Phoenix Mercury
 DTSTART:20260816T230000Z
 DTEND:20260817T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857149@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPortland Fire at Phoenix Mercury\nSt
  atus: Scheduled\nVenue: Mortgage Matchup Center\, Phoenix\nTV: ESPN\, Disn
@@ -1422,7 +1422,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Dallas Wings @ Golden State Valkyries
 DTSTART:20260818T020000Z
 DTEND:20260818T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857151@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nDallas Wings at Golden State Valkyri
  es\nStatus: Scheduled\nVenue: Chase Center\, San Francisco\nTV: Peacock\, 
@@ -1434,7 +1434,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Connecticut Sun
 DTSTART:20260818T230000Z
 DTEND:20260819T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857152@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLos Angeles Sparks at Connecticut Su
  n\nStatus: Scheduled\nVenue: TD Garden\, Boston\nTV: NBC Sports BO\, Spect
@@ -1446,7 +1446,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Indiana Fever @ Toronto Tempo
 DTSTART:20260818T230000Z
 DTEND:20260819T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857153@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nIndiana Fever at Toronto Tempo\nStat
  us: Scheduled\nVenue: Scotiabank Arena\, Toronto\nTV: ESPN\, MeTV Indianap
@@ -1458,7 +1458,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 New York Liberty @ Chicago Sky
 DTSTART:20260819T010000Z
 DTEND:20260819T033000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857154@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nNew York Liberty at Chicago Sky\nSta
  tus: Scheduled\nVenue: Wintrust Arena\, Chicago\nTV: ESPN\n\nFixtures by H
@@ -1469,7 +1469,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Atlanta Dream @ Las Vegas Aces
 DTSTART:20260819T020000Z
 DTEND:20260819T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857155@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nAtlanta Dream at Las Vegas Aces\nSta
  tus: Scheduled\nVenue: Michelob ULTRA Arena\, Las Vegas\nTV: Atlanta News 
@@ -1481,7 +1481,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo @ Washington Mystics
 DTSTART:20260819T233000Z
 DTEND:20260820T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857156@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nToronto Tempo at Washington Mystics\
  nStatus: Scheduled\nVenue: CareFirst Arena\, Washington\nTV: TSN\, MNMT\n\
@@ -1492,7 +1492,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx @ Golden State Valkyries
 DTSTART:20260820T020000Z
 DTEND:20260820T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857157@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nMinnesota Lynx at Golden State Valky
  ries\nStatus: Scheduled\nVenue: Chase Center\, San Francisco\nTV: USA Net\
@@ -1504,7 +1504,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Indiana Fever @ Dallas Wings
 DTSTART:20260821T000000Z
 DTEND:20260821T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857158@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nIndiana Fever at Dallas Wings\nStatu
  s: Scheduled\nVenue: American Airlines Center\, Dallas\nTV: Prime Video\, 
@@ -1516,7 +1516,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Connecticut Sun @ Las Vegas Aces
 DTSTART:20260821T020000Z
 DTEND:20260821T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857159@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nConnecticut Sun at Las Vegas Aces\nS
  tatus: Scheduled\nVenue: Michelob ULTRA Arena\, Las Vegas\nTV: Vegas 34\, 
@@ -1528,7 +1528,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Atlanta Dream @ Los Angeles Sparks
 DTSTART:20260821T020000Z
 DTEND:20260821T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857160@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nAtlanta Dream at Los Angeles Sparks\
  nStatus: Scheduled\nVenue: crypto.com Arena\, Los Angeles\nTV: Prime Video
@@ -1539,7 +1539,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx @ Washington Mystics
 DTSTART:20260821T233000Z
 DTEND:20260822T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857161@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nMinnesota Lynx at Washington Mystics
  \nStatus: Scheduled\nVenue: CareFirst Arena\, Washington\nTV: ION\n\nFixtu
@@ -1550,7 +1550,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Golden State Valkyries @ Chicago Sky
 DTSTART:20260821T233000Z
 DTEND:20260822T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857162@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nGolden State Valkyries at Chicago Sk
  y\nStatus: Scheduled\nVenue: Wintrust Arena\, Chicago\nTV: ION\n\nFixtures
@@ -1561,7 +1561,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Toronto Tempo
 DTSTART:20260822T020000Z
 DTEND:20260822T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857163@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPortland Fire at Toronto Tempo\nStat
  us: Scheduled\nVenue: Rogers Arena\, Vancouver\nTV: ION\, TSN\n\nFixtures 
@@ -1572,7 +1572,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Indiana Fever @ New York Liberty
 DTSTART:20260822T230000Z
 DTEND:20260823T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857164@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nIndiana Fever at New York Liberty\nS
  tatus: Scheduled\nVenue: Barclays Center\, Brooklyn\nTV: Prime Video\n\nFi
@@ -1583,7 +1583,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Connecticut Sun @ Los Angeles Sparks
 DTSTART:20260823T010000Z
 DTEND:20260823T033000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857165@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nConnecticut Sun at Los Angeles Spark
  s\nStatus: Scheduled\nVenue: crypto.com Arena\, Los Angeles\nTV: Prime Vid
@@ -1595,7 +1595,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Atlanta Dream @ Phoenix Mercury
 DTSTART:20260823T020000Z
 DTEND:20260823T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857166@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nAtlanta Dream at Phoenix Mercury\nSt
  atus: Scheduled\nVenue: Mortgage Matchup Center\, Phoenix\nTV: Atlanta New
@@ -1607,7 +1607,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Seattle Storm @ Dallas Wings
 DTSTART:20260823T200000Z
 DTEND:20260823T223000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857167@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nSeattle Storm at Dallas Wings\nStatu
  s: Scheduled\nVenue: College Park Center\, Arlington\nTV: NBA TV\, KFAA-TV
@@ -1619,7 +1619,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Indiana Fever @ Chicago Sky
 DTSTART:20260823T230000Z
 DTEND:20260824T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857168@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nIndiana Fever at Chicago Sky\nStatus
  : Scheduled\nVenue: Wintrust Arena\, Chicago\nTV: NBC\, Peacock\n\nFixture
@@ -1630,7 +1630,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Washington Mystics @ Portland Fire
 DTSTART:20260823T230000Z
 DTEND:20260824T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857169@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nWashington Mystics at Portland Fire\
  nStatus: Scheduled\nVenue: Moda Center\, Portland\nTV: Fox 12 Plus\, MNMT\
@@ -1641,7 +1641,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Las Vegas Aces @ Toronto Tempo
 DTSTART:20260823T230000Z
 DTEND:20260824T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857170@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLas Vegas Aces at Toronto Tempo\nSta
  tus: Scheduled\nVenue: Rogers Arena\, Vancouver\nTV: TSN\, Vegas 34\n\nFix
@@ -1652,7 +1652,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Golden State Valkyries @ Minnesota Lynx
 DTSTART:20260825T000000Z
 DTEND:20260825T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857171@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nGolden State Valkyries at Minnesota 
  Lynx\nStatus: Scheduled\nVenue: Target Center\, Minneapolis\nTV: USA Net\,
@@ -1664,7 +1664,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Atlanta Dream @ Los Angeles Sparks
 DTSTART:20260825T020000Z
 DTEND:20260825T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857172@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nAtlanta Dream at Los Angeles Sparks\
  nStatus: Scheduled\nVenue: crypto.com Arena\, Los Angeles\nTV: Peacock\, N
@@ -1676,7 +1676,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky @ Connecticut Sun
 DTSTART:20260825T230000Z
 DTEND:20260826T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857173@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nChicago Sky at Connecticut Sun\nStat
  us: Scheduled\nVenue: Mohegan Sun Arena\, Uncasville\nTV: NBC Sports BO\, 
@@ -1687,7 +1687,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Dallas Wings
 DTSTART:20260826T000000Z
 DTEND:20260826T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857174@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPortland Fire at Dallas Wings\nStatu
  s: Scheduled\nVenue: College Park Center\, Arlington\nTV: NBA TV\, KFAA-TV
@@ -1699,7 +1699,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Washington Mystics @ Phoenix Mercury
 DTSTART:20260826T020000Z
 DTEND:20260826T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857175@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nWashington Mystics at Phoenix Mercur
  y\nStatus: Scheduled\nVenue: Mortgage Matchup Center\, Phoenix\nTV: AZ Fam
@@ -1711,7 +1711,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Golden State Valkyries @ Connecticut Sun
 DTSTART:20260826T230000Z
 DTEND:20260827T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857176@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nGolden State Valkyries at Connecticu
  t Sun\nStatus: Scheduled\nVenue: Mohegan Sun Arena\, Uncasville\nTV: KPIX+
@@ -1723,7 +1723,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo @ Seattle Storm
 DTSTART:20260827T020000Z
 DTEND:20260827T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857177@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nToronto Tempo at Seattle Storm\nStat
  us: Scheduled\nVenue: Climate Pledge Arena\, Seattle\nTV: USA Net\, CW Sea
@@ -1735,7 +1735,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Golden State Valkyries @ New York Liberty
 DTSTART:20260828T000000Z
 DTEND:20260828T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857178@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nGolden State Valkyries at New York L
  iberty\nStatus: Scheduled\nVenue: Barclays Center\, Brooklyn\nTV: Prime Vi
@@ -1747,7 +1747,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Washington Mystics @ Phoenix Mercury
 DTSTART:20260828T020000Z
 DTEND:20260828T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857179@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nWashington Mystics at Phoenix Mercur
  y\nStatus: Scheduled\nVenue: Mortgage Matchup Center\, Phoenix\nTV: Prime 
@@ -1758,7 +1758,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Las Vegas Aces @ Atlanta Dream (85–84)
 DTSTART:20260517T173000Z
 DTEND:20260517T200000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856915@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLas Vegas Aces at Atlanta Dream\nSta
  tus: Final\nVenue: State Farm Arena\, Atlanta\nTV: NBC\, Peacock\n\nFixtur
@@ -1769,7 +1769,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Seattle Storm @ Indiana Fever (78–89)
 DTSTART:20260517T220000Z
 DTEND:20260518T003000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856916@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nSeattle Storm at Indiana Fever\nStat
  us: Final\nVenue: Gainbridge Fieldhouse\, Indianapolis\nTV: Peacock\, NBCS
@@ -1781,7 +1781,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky @ Minnesota Lynx (86–79)
 DTSTART:20260517T230000Z
 DTEND:20260518T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856914@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nChicago Sky at Minnesota Lynx\nStatu
  s: Final\nVenue: Target Center\, Minneapolis\nTV: WNBA League Pass\, CW26\
@@ -1793,7 +1793,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo @ Los Angeles Sparks (106–96)
 DTSTART:20260517T230000Z
 DTEND:20260518T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856917@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nToronto Tempo at Los Angeles Sparks\
  nStatus: Final\nVenue: crypto.com Arena\, Los Angeles\nTV: WNBA League Pas
@@ -1805,7 +1805,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Washington Mystics @ Dallas Wings (69–92)
 DTSTART:20260519T000000Z
 DTEND:20260519T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856918@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nWashington Mystics at Dallas Wings\n
  Status: Final\nVenue: College Park Center\, Arlington\nTV: Peacock\, NBCSN
@@ -1817,7 +1817,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Connecticut Sun @ Portland Fire (82–83)
 DTSTART:20260519T020000Z
 DTEND:20260519T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856919@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nConnecticut Sun at Portland Fire\nSt
  atus: Final\nVenue: Moda Center\, Portland\nTV: WNBA League Pass\, NBC Spo
@@ -1829,7 +1829,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo @ Phoenix Mercury (98–90)
 DTSTART:20260520T020000Z
 DTEND:20260520T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856920@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nToronto Tempo at Phoenix Mercury\nSt
  atus: Final\nVenue: Mortgage Matchup Center\, Phoenix\nTV: WNBA League Pas
@@ -1841,7 +1841,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Indiana Fever (73–90)
 DTSTART:20260520T230000Z
 DTEND:20260521T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856921@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPortland Fire at Indiana Fever\nStat
  us: Final\nVenue: Gainbridge Fieldhouse\, Indianapolis\nTV: USA Net\, MeTV
@@ -1853,7 +1853,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Dallas Wings @ Chicago Sky (99–89)
 DTSTART:20260521T010000Z
 DTEND:20260521T033000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856922@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nDallas Wings at Chicago Sky\nStatus:
   Final\nVenue: Wintrust Arena\, Chicago\nTV: USA Net\, CW26\, KFAA-TV\n\nF
@@ -1864,7 +1864,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Connecticut Sun @ Seattle Storm (80–78)
 DTSTART:20260521T020000Z
 DTEND:20260521T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856923@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nConnecticut Sun at Seattle Storm\nSt
  atus: Final\nVenue: Climate Pledge Arena\, Seattle\nTV: WNBA League Pass\,
@@ -1876,7 +1876,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Golden State Valkyries @ New York Liberty (87–70)
 DTSTART:20260522T000000Z
 DTEND:20260522T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856924@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nGolden State Valkyries at New York L
  iberty\nStatus: Final\nVenue: Barclays Center\, Brooklyn\nTV: Prime Video\
@@ -1888,7 +1888,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo @ Minnesota Lynx (72–100)
 DTSTART:20260522T000000Z
 DTEND:20260522T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856925@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nToronto Tempo at Minnesota Lynx\nSta
  tus: Final\nVenue: Target Center\, Minneapolis\nTV: WNBA League Pass\, TSN
@@ -1900,7 +1900,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Phoenix Mercury (97–88)
 DTSTART:20260522T020000Z
 DTEND:20260522T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856926@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLos Angeles Sparks at Phoenix Mercur
  y\nStatus: Final\nVenue: Mortgage Matchup Center\, Phoenix\nTV: Prime Vide
@@ -1911,7 +1911,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Dallas Wings @ Atlanta Dream (69–86)
 DTSTART:20260522T233000Z
 DTEND:20260523T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856927@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nDallas Wings at Atlanta Dream\nStatu
  s: Final\nVenue: Gateway Center\, College Park\nTV: ION\, WNBA League Pass
@@ -1922,7 +1922,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Golden State Valkyries @ Indiana Fever (82–90)
 DTSTART:20260522T233000Z
 DTEND:20260523T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856928@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nGolden State Valkyries at Indiana Fe
  ver\nStatus: Final\nVenue: Gainbridge Fieldhouse\, Indianapolis\nTV: ION\,
@@ -1934,7 +1934,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Connecticut Sun @ Seattle Storm (59–77)
 DTSTART:20260523T020000Z
 DTEND:20260523T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856929@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nConnecticut Sun at Seattle Storm\nSt
  atus: Final\nVenue: Climate Pledge Arena\, Seattle\nTV: ION\, WNBA League 
@@ -1945,7 +1945,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx @ Chicago Sky (85–75)
 DTSTART:20260523T170000Z
 DTEND:20260523T193000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856930@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nMinnesota Lynx at Chicago Sky\nStatu
  s: Final\nVenue: Wintrust Arena\, Chicago\nTV: CBS\, Paramount+\n\nFixture
@@ -1956,7 +1956,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Toronto Tempo (99–80)
 DTSTART:20260523T220000Z
 DTEND:20260524T003000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856931@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPortland Fire at Toronto Tempo\nStat
  us: Final\nVenue: Coca-Cola Coliseum\, Toronto\nTV: WNBA League Pass\, Fox
@@ -1968,7 +1968,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Las Vegas Aces (101–95)
 DTSTART:20260524T000000Z
 DTEND:20260524T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856932@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLos Angeles Sparks at Las Vegas Aces
  \nStatus: Final\nVenue: Michelob ULTRA Arena\, Las Vegas\nTV: CBS\, Paramo
@@ -1979,7 +1979,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Phoenix Mercury @ Atlanta Dream (80–82)
 DTSTART:20260524T190000Z
 DTEND:20260524T213000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856933@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPhoenix Mercury at Atlanta Dream\nSt
  atus: Final\nVenue: Gateway Center\, College Park\nTV: WNBA League Pass\, 
@@ -1991,7 +1991,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Dallas Wings @ New York Liberty (91–76)
 DTSTART:20260524T193000Z
 DTEND:20260524T220000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856934@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nDallas Wings at New York Liberty\nSt
  atus: Final\nVenue: Barclays Center\, Brooklyn\nTV: NBC\, Peacock\n\nFixtu
@@ -2002,7 +2002,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Washington Mystics @ Seattle Storm (85–97)
 DTSTART:20260524T220000Z
 DTEND:20260525T003000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nWashington Mystics at Seattle Storm\
  nStatus: Final\nVenue: Climate Pledge Arena\, Seattle\nTV: WNBA League Pas
@@ -2014,7 +2014,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ New York Liberty (81–74)
 DTSTART:20260526T000000Z
 DTEND:20260526T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856936@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPortland Fire at New York Liberty\nS
  tatus: Final\nVenue: Barclays Center\, Brooklyn\nTV: Peacock\, NBCSN\, Fox
@@ -2026,7 +2026,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Connecticut Sun @ Golden State Valkyries (70–97)
 DTSTART:20260526T020000Z
 DTEND:20260526T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856937@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nConnecticut Sun at Golden State Valk
  yries\nStatus: Final\nVenue: Chase Center\, San Francisco\nTV: WNBA League
@@ -2038,7 +2038,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Phoenix Mercury @ New York Liberty (74–84)
 DTSTART:20260527T230000Z
 DTEND:20260528T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856938@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPhoenix Mercury at New York Liberty\
  nStatus: Final\nVenue: Barclays Center\, Brooklyn\nTV: USA Net\, WWOR-TV\,
@@ -2050,7 +2050,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo @ Chicago Sky (111–104)
 DTSTART:20260528T000000Z
 DTEND:20260528T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856939@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nToronto Tempo at Chicago Sky\nStatus
  : Final\nVenue: Wintrust Arena\, Chicago\nTV: WNBA League Pass\, TSN\, CW2
@@ -2061,7 +2061,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Atlanta Dream @ Minnesota Lynx (81–96)
 DTSTART:20260528T010000Z
 DTEND:20260528T033000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856940@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nAtlanta Dream at Minnesota Lynx\nSta
  tus: Final\nVenue: Target Center\, Minneapolis\nTV: USA Net\, Atlanta News
@@ -2073,7 +2073,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Connecticut Sun @ Portland Fire (61–71)
 DTSTART:20260528T020000Z
 DTEND:20260528T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856941@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nConnecticut Sun at Portland Fire\nSt
  atus: Final\nVenue: Moda Center\, Portland\nTV: WNBA League Pass\, NBC Spo
@@ -2085,7 +2085,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Washington Mystics @ Seattle Storm (78–64)
 DTSTART:20260528T020000Z
 DTEND:20260528T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856942@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nWashington Mystics at Seattle Storm\
  nStatus: Final\nVenue: Climate Pledge Arena\, Seattle\nTV: WNBA League Pas
@@ -2097,7 +2097,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Las Vegas Aces @ Dallas Wings (87–95)
 DTSTART:20260529T000000Z
 DTEND:20260529T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856943@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLas Vegas Aces at Dallas Wings\nStat
  us: Final\nVenue: College Park Center\, Arlington\nTV: Prime Video\n\nFixt
@@ -2108,7 +2108,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Indiana Fever @ Golden State Valkyries (88–90)
 DTSTART:20260529T020000Z
 DTEND:20260529T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856944@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nIndiana Fever at Golden State Valkyr
  ies\nStatus: Final\nVenue: Chase Center\, San Francisco\nTV: Prime Video\n
@@ -2119,7 +2119,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Phoenix Mercury @ New York Liberty (68–75)
 DTSTART:20260529T233000Z
 DTEND:20260530T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856945@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPhoenix Mercury at New York Liberty\
  nStatus: Final\nVenue: Barclays Center\, Brooklyn\nTV: ION\, WNBA League P
@@ -2130,7 +2130,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Washington Mystics (92–87)
 DTSTART:20260529T233000Z
 DTEND:20260530T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856946@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLos Angeles Sparks at Washington Mys
  tics\nStatus: Final\nVenue: CareFirst Arena\, Washington\nTV: ION\, WNBA L
@@ -2142,7 +2142,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx @ Chicago Sky (79–58)
 DTSTART:20260529T233000Z
 DTEND:20260530T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856947@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nMinnesota Lynx at Chicago Sky\nStatu
  s: Final\nVenue: Wintrust Arena\, Chicago\nTV: ION\, WNBA League Pass\n\nF
@@ -2153,7 +2153,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Atlanta Dream @ Portland Fire (86–66)
 DTSTART:20260530T020000Z
 DTEND:20260530T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856948@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nAtlanta Dream at Portland Fire\nStat
  us: Final\nVenue: Moda Center\, Portland\nTV: ION\, WNBA League Pass\n\nFi
@@ -2164,7 +2164,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Seattle Storm @ Toronto Tempo (72–93)
 DTSTART:20260530T170000Z
 DTEND:20260530T193000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856949@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nSeattle Storm at Toronto Tempo\nStat
  us: Final\nVenue: Coca-Cola Coliseum\, Toronto\nTV: WNBA League Pass\, KOM
@@ -2176,7 +2176,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Connecticut Sun (81–84)
 DTSTART:20260530T220000Z
 DTEND:20260531T003000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856950@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLos Angeles Sparks at Connecticut Su
  n\nStatus: Final\nVenue: PeoplesBank Arena\, Hartford\nTV: WNBA League Pas
@@ -2188,7 +2188,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Indiana Fever @ Portland Fire (84–100)
 DTSTART:20260531T000000Z
 DTEND:20260531T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856951@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nIndiana Fever at Portland Fire\nStat
  us: Final\nVenue: Moda Center\, Portland\nTV: CBS\, Paramount+\n\nFixtures
@@ -2199,7 +2199,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Las Vegas Aces @ Golden State Valkyries (91–81)
 DTSTART:20260531T193000Z
 DTEND:20260531T220000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856952@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLas Vegas Aces at Golden State Valky
  ries\nStatus: Final\nVenue: Chase Center\, San Francisco\nTV: NBC\, Peacoc
@@ -2210,7 +2210,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Seattle Storm @ Dallas Wings (56–79)
 DTSTART:20260602T000000Z
 DTEND:20260602T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856953@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nSeattle Storm at Dallas Wings\nStatu
  s: Final\nVenue: College Park Center\, Arlington\nTV: USA Net\, KFAA-TV\, 
@@ -2222,7 +2222,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx @ Phoenix Mercury (111–77)
 DTSTART:20260602T020000Z
 DTEND:20260602T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856954@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nMinnesota Lynx at Phoenix Mercury\nS
  tatus: Final\nVenue: Mortgage Matchup Center\, Phoenix\nTV: Peacock\, NBCS
@@ -2234,7 +2234,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Connecticut Sun @ Atlanta Dream (75–91)
 DTSTART:20260602T233000Z
 DTEND:20260603T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856955@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nConnecticut Sun at Atlanta Dream\nSt
  atus: Final\nVenue: Gateway Center\, College Park\nTV: WNBA League Pass\, 
@@ -2246,7 +2246,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky @ Washington Mystics (72–90)
 DTSTART:20260602T233000Z
 DTEND:20260603T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856956@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nChicago Sky at Washington Mystics\nS
  tatus: Final\nVenue: CareFirst Arena\, Washington\nTV: WNBA League Pass\, 
@@ -2258,7 +2258,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Golden State Valkyries (77–95)
 DTSTART:20260603T020000Z
 DTEND:20260603T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856957@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPortland Fire at Golden State Valkyr
  ies\nStatus: Final\nVenue: Chase Center\, San Francisco\nTV: WNBA League P
@@ -2270,7 +2270,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Las Vegas Aces @ Los Angeles Sparks (79–69)
 DTSTART:20260603T020000Z
 DTEND:20260603T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856958@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLas Vegas Aces at Los Angeles Sparks
  \nStatus: Final\nVenue: crypto.com Arena\, Los Angeles\nTV: WNBA League Pa
@@ -2282,7 +2282,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo @ New York Liberty (82–97)
 DTSTART:20260603T233000Z
 DTEND:20260604T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856959@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nToronto Tempo at New York Liberty\nS
  tatus: Final\nVenue: Barclays Center\, Brooklyn\nTV: USA Net\, WWOR-TV\, L
@@ -2294,7 +2294,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Phoenix Mercury @ Seattle Storm (72–68)
 DTSTART:20260604T020000Z
 DTEND:20260604T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856960@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPhoenix Mercury at Seattle Storm\nSt
  atus: Final\nVenue: Climate Pledge Arena\, Seattle\nTV: USA Net\, CW Seatt
@@ -2306,7 +2306,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Atlanta Dream @ Indiana Fever (71–83)
 DTSTART:20260604T230000Z
 DTEND:20260605T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856961@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nAtlanta Dream at Indiana Fever\nStat
  us: Final\nVenue: Gainbridge Fieldhouse\, Indianapolis\nTV: Prime Video\n\
@@ -2317,7 +2317,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Golden State Valkyries @ Minnesota Lynx (84–87)
 DTSTART:20260605T010000Z
 DTEND:20260605T033000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856962@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nGolden State Valkyries at Minnesota 
  Lynx\nStatus: Final\nVenue: Target Center\, Minneapolis\nTV: Prime Video\n
@@ -2328,7 +2328,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Connecticut Sun @ Chicago Sky (80–85)
 DTSTART:20260605T233000Z
 DTEND:20260606T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856963@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nConnecticut Sun at Chicago Sky\nStat
  us: Final\nVenue: Wintrust Arena\, Chicago\nTV: ION\, WNBA League Pass\n\n
@@ -2339,7 +2339,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Dallas Wings @ Los Angeles Sparks (104–96)
 DTSTART:20260606T020000Z
 DTEND:20260606T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856964@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nDallas Wings at Los Angeles Sparks\n
  Status: Final\nVenue: crypto.com Arena\, Los Angeles\nTV: ION\, WNBA Leagu
@@ -2350,7 +2350,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Phoenix Mercury @ Portland Fire (78–72)
 DTSTART:20260606T020000Z
 DTEND:20260606T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856965@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPhoenix Mercury at Portland Fire\nSt
  atus: Final\nVenue: Moda Center\, Portland\nTV: ION\, WNBA League Pass\n\n
@@ -2361,7 +2361,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Seattle Storm @ Minnesota Lynx (68–88)
 DTSTART:20260606T170000Z
 DTEND:20260606T193000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856966@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nSeattle Storm at Minnesota Lynx\nSta
  tus: Final\nVenue: Target Center\, Minneapolis\nTV: ABC\n\nFixtures by Her
@@ -2372,7 +2372,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Golden State Valkyries @ Las Vegas Aces (79–84)
 DTSTART:20260606T190000Z
 DTEND:20260606T213000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856967@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nGolden State Valkyries at Las Vegas 
  Aces\nStatus: Final\nVenue: Michelob ULTRA Arena\, Las Vegas\nTV: ABC\n\nF
@@ -2383,7 +2383,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Washington Mystics @ Atlanta Dream (77–109)
 DTSTART:20260606T220000Z
 DTEND:20260607T003000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856968@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nWashington Mystics at Atlanta Dream\
  nStatus: Final\nVenue: Gateway Center\, College Park\nTV: WNBA League Pass
@@ -2395,7 +2395,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Indiana Fever @ New York Liberty (75–83)
 DTSTART:20260607T000000Z
 DTEND:20260607T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856969@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nIndiana Fever at New York Liberty\nS
  tatus: Final\nVenue: Barclays Center\, Brooklyn\nTV: CBS\, Paramount+\n\nF
@@ -2406,7 +2406,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky @ Toronto Tempo (68–85)
 DTSTART:20260607T190000Z
 DTEND:20260607T213000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856970@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nChicago Sky at Toronto Tempo\nStatus
  : Final\nVenue: Coca-Cola Coliseum\, Toronto\nTV: WNBA League Pass\, CW26\
@@ -2417,7 +2417,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Los Angeles Sparks (72–89)
 DTSTART:20260607T230000Z
 DTEND:20260608T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856971@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPortland Fire at Los Angeles Sparks\
  nStatus: Final\nVenue: crypto.com Arena\, Los Angeles\nTV: NBA TV\, Spectr
@@ -2429,7 +2429,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 New York Liberty @ Connecticut Sun (89–80)
 DTSTART:20260608T230000Z
 DTEND:20260609T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856972@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nNew York Liberty at Connecticut Sun\
  nStatus: Final\nVenue: Mohegan Sun Arena\, Uncasville\nTV: WNBA League Pas
@@ -2441,7 +2441,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Indiana Fever @ Washington Mystics (78–76)
 DTSTART:20260608T230000Z
 DTEND:20260609T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856973@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nIndiana Fever at Washington Mystics\
  nStatus: Final\nVenue: CareFirst Arena\, Washington\nTV: Peacock\, NBCSN\,
@@ -2453,7 +2453,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Seattle Storm @ Las Vegas Aces (91–101)
 DTSTART:20260609T020000Z
 DTEND:20260609T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856974@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nSeattle Storm at Las Vegas Aces\nSta
  tus: Final\nVenue: Michelob ULTRA Arena\, Las Vegas\nTV: USA Net\, Vegas 3
@@ -2465,7 +2465,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Atlanta Dream @ Chicago Sky (82–75)
 DTSTART:20260609T230000Z
 DTEND:20260610T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856975@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nAtlanta Dream at Chicago Sky\nStatus
  : Final\nVenue: Wintrust Arena\, Chicago\nTV: ESPN\n\nFixtures by HerFixtu
@@ -2476,7 +2476,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Dallas Wings @ Minnesota Lynx (76–100)
 DTSTART:20260610T000000Z
 DTEND:20260610T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856976@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nDallas Wings at Minnesota Lynx\nStat
  us: Final\nVenue: Target Center\, Minneapolis\nTV: WNBA League Pass\, KFAA
@@ -2488,7 +2488,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Phoenix Mercury @ Golden State Valkyries (81–87)
 DTSTART:20260610T020000Z
 DTEND:20260610T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856977@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPhoenix Mercury at Golden State Valk
  yries\nStatus: Final\nVenue: Chase Center\, San Francisco\nTV: WNBA League
@@ -2500,7 +2500,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Connecticut Sun @ Toronto Tempo (102–106)
 DTSTART:20260610T230000Z
 DTEND:20260611T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856978@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nConnecticut Sun at Toronto Tempo\nSt
  atus: Final\nVenue: Coca-Cola Coliseum\, Toronto\nTV: WNBA League Pass\, N
@@ -2512,7 +2512,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Seattle Storm (88–83)
 DTSTART:20260611T020000Z
 DTEND:20260611T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856979@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLos Angeles Sparks at Seattle Storm\
  nStatus: Final\nVenue: Climate Pledge Arena\, Seattle\nTV: USA Net\, CW Se
@@ -2524,7 +2524,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky @ Indiana Fever (106–114)
 DTSTART:20260611T230000Z
 DTEND:20260612T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856980@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nChicago Sky at Indiana Fever\nStatus
  : Final\nVenue: Gainbridge Fieldhouse\, Indianapolis\nTV: Prime Video\, WT
@@ -2536,7 +2536,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 New York Liberty @ Atlanta Dream (104–90)
 DTSTART:20260611T233000Z
 DTEND:20260612T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856981@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nNew York Liberty at Atlanta Dream\nS
  tatus: Final\nVenue: Gateway Center\, College Park\nTV: WNBA League Pass\,
@@ -2548,7 +2548,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Phoenix Mercury @ Dallas Wings (70–85)
 DTSTART:20260612T010000Z
 DTEND:20260612T033000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856982@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPhoenix Mercury at Dallas Wings\nSta
  tus: Final\nVenue: College Park Center\, Arlington\nTV: Prime Video\n\nFix
@@ -2559,7 +2559,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Las Vegas Aces @ Portland Fire (105–89)
 DTSTART:20260612T020000Z
 DTEND:20260612T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856983@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLas Vegas Aces at Portland Fire\nSta
  tus: Final\nVenue: Moda Center\, Portland\nTV: WNBA League Pass\, Vegas 34
@@ -2571,7 +2571,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo @ Washington Mystics (85–86)
 DTSTART:20260612T233000Z
 DTEND:20260613T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856984@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nToronto Tempo at Washington Mystics\
  nStatus: Final\nVenue: CareFirst Arena\, Washington\nTV: ION\, WNBA League
@@ -2583,7 +2583,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Golden State Valkyries @ Seattle Storm (76–72)
 DTSTART:20260613T020000Z
 DTEND:20260613T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856985@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nGolden State Valkyries at Seattle St
  orm\nStatus: Final\nVenue: Climate Pledge Arena\, Seattle\nTV: ION\, WNBA 
@@ -2595,7 +2595,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Indiana Fever @ Connecticut Sun (85–75)
 DTSTART:20260613T220000Z
 DTEND:20260614T003000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856986@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nIndiana Fever at Connecticut Sun\nSt
  atus: Final\nVenue: Mohegan Sun Arena\, Uncasville\nTV: Peacock\, NBCSN\, 
@@ -2607,7 +2607,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx @ Las Vegas Aces (97–100)
 DTSTART:20260614T000000Z
 DTEND:20260614T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856987@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nMinnesota Lynx at Las Vegas Aces\nSt
  atus: Final\nVenue: Michelob ULTRA Arena\, Las Vegas\nTV: CBS\, Paramount+
@@ -2618,7 +2618,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Dallas Wings @ Portland Fire (83–84)
 DTSTART:20260614T003000Z
 DTEND:20260614T030000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856988@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nDallas Wings at Portland Fire\nStatu
  s: Final\nVenue: Moda Center\, Portland\nTV: WNBA League Pass\, KFAA-TV\, 
@@ -2630,7 +2630,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Phoenix Mercury (111–102)
 DTSTART:20260614T020000Z
 DTEND:20260614T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856989@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLos Angeles Sparks at Phoenix Mercur
  y\nStatus: Final\nVenue: Mortgage Matchup Center\, Phoenix\nTV: WNBA Leagu
@@ -2642,7 +2642,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Washington Mystics @ New York Liberty (64–86)
 DTSTART:20260614T190000Z
 DTEND:20260614T213000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856990@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nWashington Mystics at New York Liber
  ty\nStatus: Final\nVenue: Barclays Center\, Brooklyn\nTV: NBA TV\, MNMT\, 
@@ -2654,7 +2654,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Atlanta Dream @ Toronto Tempo (102–77)
 DTSTART:20260614T190000Z
 DTEND:20260614T213000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856991@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nAtlanta Dream at Toronto Tempo\nStat
  us: Final\nVenue: Coca-Cola Coliseum\, Toronto\nTV: WNBA League Pass\, Pea
@@ -2666,7 +2666,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Las Vegas Aces @ Dallas Wings (66–96)
 DTSTART:20260616T000000Z
 DTEND:20260616T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856992@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLas Vegas Aces at Dallas Wings\nStat
  us: Final\nVenue: College Park Center\, Arlington\nTV: USA Net\, KFAA-TV\,
@@ -2678,7 +2678,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Minnesota Lynx (74–107)
 DTSTART:20260616T000000Z
 DTEND:20260616T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856993@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPortland Fire at Minnesota Lynx\nSta
  tus: Final\nVenue: Target Center\, Minneapolis\nTV: WNBA League Pass\, Fox
@@ -2690,7 +2690,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Golden State Valkyries (58–78)
 DTSTART:20260616T020000Z
 DTEND:20260616T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856994@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLos Angeles Sparks at Golden State V
  alkyries\nStatus: Final\nVenue: Chase Center\, San Francisco\nTV: Peacock\
@@ -2702,7 +2702,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo @ Indiana Fever (91–113)
 DTSTART:20260616T230000Z
 DTEND:20260617T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856995@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nToronto Tempo at Indiana Fever\nStat
  us: Final\nVenue: Gainbridge Fieldhouse\, Indianapolis\nTV: USA Net\, MeTV
@@ -2714,7 +2714,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Washington Mystics @ Connecticut Sun (88–81)
 DTSTART:20260617T230000Z
 DTEND:20260618T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856996@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nWashington Mystics at Connecticut Su
  n\nStatus: Final\nVenue: Mohegan Sun Arena\, Uncasville\nTV: WNBA League P
@@ -2726,7 +2726,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 New York Liberty @ Chicago Sky (96–95)
 DTSTART:20260618T000000Z
 DTEND:20260618T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856997@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nNew York Liberty at Chicago Sky\nSta
  tus: Final\nVenue: Wintrust Arena\, Chicago\nTV: USA Net\, Fox 5 New York\
@@ -2738,7 +2738,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Dallas Wings @ Golden State Valkyries (80–91)
 DTSTART:20260618T020000Z
 DTEND:20260618T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856998@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nDallas Wings at Golden State Valkyri
  es\nStatus: Final\nVenue: Chase Center\, San Francisco\nTV: WNBA League Pa
@@ -2750,7 +2750,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx @ Los Angeles Sparks (99–83)
 DTSTART:20260618T020000Z
 DTEND:20260618T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401856999@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nMinnesota Lynx at Los Angeles Sparks
  \nStatus: Final\nVenue: crypto.com Arena\, Los Angeles\nTV: WNBA League Pa
@@ -2762,7 +2762,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Las Vegas Aces @ Phoenix Mercury (86–76)
 DTSTART:20260618T020000Z
 DTEND:20260618T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857000@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLas Vegas Aces at Phoenix Mercury\nS
  tatus: Final\nVenue: Mortgage Matchup Center\, Phoenix\nTV: USA Net\, CNBC
@@ -2774,7 +2774,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Seattle Storm @ Portland Fire (89–94)
 DTSTART:20260618T020000Z
 DTEND:20260618T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857001@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nSeattle Storm at Portland Fire\nStat
  us: Final\nVenue: Moda Center\, Portland\nTV: WNBA League Pass\, CW Seattl
@@ -2786,7 +2786,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Atlanta Dream @ Indiana Fever (108–101)
 DTSTART:20260618T233000Z
 DTEND:20260619T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857002@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nAtlanta Dream at Indiana Fever\nStat
  us: Final\nVenue: Gainbridge Fieldhouse\, Indianapolis\nTV: Prime Video\, 
@@ -2798,7 +2798,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo @ Connecticut Sun (101–97)
 DTSTART:20260619T233000Z
 DTEND:20260620T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857003@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nToronto Tempo at Connecticut Sun\nSt
  atus: Final\nVenue: Mohegan Sun Arena\, Uncasville\nTV: WNBA League Pass\,
@@ -2810,7 +2810,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Washington Mystics @ New York Liberty (86–83)
 DTSTART:20260619T233000Z
 DTEND:20260620T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857004@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nWashington Mystics at New York Liber
  ty\nStatus: Final\nVenue: Barclays Center\, Brooklyn\nTV: ION\, WNBA Leagu
@@ -2821,7 +2821,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx @ Golden State Valkyries (81–75)
 DTSTART:20260620T020000Z
 DTEND:20260620T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857005@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nMinnesota Lynx at Golden State Valky
  ries\nStatus: Final\nVenue: Chase Center\, San Francisco\nTV: ION\, WNBA L
@@ -2833,7 +2833,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Indiana Fever @ Atlanta Dream (96–113)
 DTSTART:20260620T170000Z
 DTEND:20260620T193000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857006@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nIndiana Fever at Atlanta Dream\nStat
  us: Final\nVenue: State Farm Arena\, Atlanta\nTV: ABC\n\nFixtures by HerFi
@@ -2844,7 +2844,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Seattle Storm @ Phoenix Mercury (73–93)
 DTSTART:20260620T190700Z
 DTEND:20260620T213700Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857007@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nSeattle Storm at Phoenix Mercury\nSt
  atus: Final\nVenue: Mortgage Matchup Center\, Phoenix\nTV: ABC\n\nFixtures
@@ -2855,7 +2855,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky @ Dallas Wings (92–93)
 DTSTART:20260621T000000Z
 DTEND:20260621T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857008@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nChicago Sky at Dallas Wings\nStatus:
   Final\nVenue: College Park Center\, Arlington\nTV: CBS\, Paramount+\n\nFi
@@ -2866,7 +2866,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Golden State Valkyries @ Las Vegas Aces (73–92)
 DTSTART:20260621T200000Z
 DTEND:20260621T223000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857009@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nGolden State Valkyries at Las Vegas 
  Aces\nStatus: Final\nVenue: Michelob ULTRA Arena\, Las Vegas\nTV: CBS\, Pa
@@ -2878,7 +2878,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Washington Mystics @ Minnesota Lynx (84–79)
 DTSTART:20260621T220000Z
 DTEND:20260622T003000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857010@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nWashington Mystics at Minnesota Lynx
  \nStatus: Final\nVenue: Target Center\, Minneapolis\nTV: NBA TV\, MNMT\, V
@@ -2890,7 +2890,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 New York Liberty @ Los Angeles Sparks (97–98)
 DTSTART:20260622T000000Z
 DTEND:20260622T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857011@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nNew York Liberty at Los Angeles Spar
  ks\nStatus: Final\nVenue: crypto.com Arena\, Los Angeles\nTV: ESPN\, Disne
@@ -2901,7 +2901,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky @ Connecticut Sun (63–92)
 DTSTART:20260622T230000Z
 DTEND:20260623T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857012@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nChicago Sky at Connecticut Sun\nStat
  us: Final\nVenue: Mohegan Sun Arena\, Uncasville\nTV: WNBA League Pass\, C
@@ -2913,7 +2913,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo @ Atlanta Dream (87–94)
 DTSTART:20260622T233000Z
 DTEND:20260623T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857013@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nToronto Tempo at Atlanta Dream\nStat
  us: Final\nVenue: State Farm Arena\, Atlanta\nTV: WNBA League Pass\, TSN\,
@@ -2925,7 +2925,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Phoenix Mercury @ Indiana Fever (77–86)
 DTSTART:20260623T000000Z
 DTEND:20260623T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857014@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPhoenix Mercury at Indiana Fever\nSt
  atus: Final\nVenue: Gainbridge Fieldhouse\, Indianapolis\nTV: USA Net\, WT
@@ -2937,7 +2937,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Dallas Wings @ Seattle Storm (112–110)
 DTSTART:20260623T020000Z
 DTEND:20260623T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857015@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nDallas Wings at Seattle Storm\nStatu
  s: Final\nVenue: Climate Pledge Arena\, Seattle\nTV: WNBA League Pass\, KF
@@ -2949,7 +2949,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 New York Liberty @ Las Vegas Aces (87–76)
 DTSTART:20260624T020000Z
 DTEND:20260624T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857016@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nNew York Liberty at Las Vegas Aces\n
  Status: Final\nVenue: Michelob ULTRA Arena\, Las Vegas\nTV: USA Net\, WWOR
@@ -2961,7 +2961,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Phoenix Mercury @ Indiana Fever (111–109)
 DTSTART:20260624T233000Z
 DTEND:20260625T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857017@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPhoenix Mercury at Indiana Fever\nSt
  atus: Final\nVenue: Gainbridge Fieldhouse\, Indianapolis\nTV: USA Net\, WT
@@ -2973,7 +2973,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx @ Washington Mystics (78–76)
 DTSTART:20260624T233000Z
 DTEND:20260625T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857018@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nMinnesota Lynx at Washington Mystics
  \nStatus: Final\nVenue: CareFirst Arena\, Washington\nTV: WNBA League Pass
@@ -2985,7 +2985,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Chicago Sky (78–101)
 DTSTART:20260625T000000Z
 DTEND:20260625T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857019@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPortland Fire at Chicago Sky\nStatus
  : Final\nVenue: Wintrust Arena\, Chicago\nTV: WNBA League Pass\, Fox 12 Pl
@@ -2997,7 +2997,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Atlanta Dream @ Golden State Valkyries (66–77)
 DTSTART:20260625T020000Z
 DTEND:20260625T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857020@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nAtlanta Dream at Golden State Valkyr
  ies\nStatus: Final\nVenue: Chase Center\, San Francisco\nTV: USA Net\, CNB
@@ -3009,7 +3009,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Toronto Tempo (97–125)
 DTSTART:20260625T230000Z
 DTEND:20260626T013000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857021@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLos Angeles Sparks at Toronto Tempo\
  nStatus: Final\nVenue: Coca-Cola Coliseum\, Toronto\nTV: Prime Video\, Spe
@@ -3021,7 +3021,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Dallas Wings @ Las Vegas Aces (84–99)
 DTSTART:20260626T020000Z
 DTEND:20260626T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857022@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nDallas Wings at Las Vegas Aces\nStat
  us: Final\nVenue: Michelob ULTRA Arena\, Las Vegas\nTV: NBA TV\, Vegas 34\
@@ -3033,7 +3033,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 New York Liberty @ Seattle Storm (88–99)
 DTSTART:20260626T020000Z
 DTEND:20260626T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857023@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nNew York Liberty at Seattle Storm\nS
  tatus: Final\nVenue: Climate Pledge Arena\, Seattle\nTV: WNBA League Pass\
@@ -3045,7 +3045,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Washington Mystics @ Connecticut Sun (57–68)
 DTSTART:20260626T233000Z
 DTEND:20260627T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857024@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nWashington Mystics at Connecticut Su
  n\nStatus: Final\nVenue: Mohegan Sun Arena\, Uncasville\nTV: WNBA League P
@@ -3057,7 +3057,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Chicago Sky (94–124)
 DTSTART:20260626T233000Z
 DTEND:20260627T020000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857025@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPortland Fire at Chicago Sky\nStatus
  : Final\nVenue: Wintrust Arena\, Chicago\nTV: WNBA League Pass\, ION\n\nFi
@@ -3068,7 +3068,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Atlanta Dream @ Golden State Valkyries (75–78)
 DTSTART:20260627T020000Z
 DTEND:20260627T043000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857026@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nAtlanta Dream at Golden State Valkyr
  ies\nStatus: Final\nVenue: Chase Center\, San Francisco\nTV: WNBA League P
@@ -3080,7 +3080,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Phoenix Mercury @ Toronto Tempo (89–80)
 DTSTART:20260627T180000Z
 DTEND:20260627T203000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857027@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nPhoenix Mercury at Toronto Tempo\nSt
  atus: Final\nVenue: Scotiabank Arena\, Toronto\nTV: CBS\, Paramount+\, TSN
@@ -3091,7 +3091,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Indiana Fever (87–111)
 DTSTART:20260628T000000Z
 DTEND:20260628T023000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857028@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nLos Angeles Sparks at Indiana Fever\
  nStatus: Final\nVenue: Gainbridge Fieldhouse\, Indianapolis\nTV: CBS\, Par
@@ -3102,7 +3102,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Atlanta Dream @ Seattle Storm (90–105)
 DTSTART:20260628T010000Z
 DTEND:20260628T033000Z
-DTSTAMP:20260628T092207Z
+DTSTAMP:20260628T193951Z
 UID:espn-wnba-401857029@herfixtures.com
 DESCRIPTION:WNBA 2026 · Season Game\nAtlanta Dream at Seattle Storm\nStat
  us: Final\nVenue: Climate Pledge Arena\, Seattle\nTV: WNBA League Pass\, A
