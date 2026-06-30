@@ -1,109 +1,13 @@
 {
-  "updated": "2026-06-28T19:39:58Z",
+  "updated": "2026-06-30T09:54:01Z",
   "competitions": {
     "wnba": {
       "name": "WNBA",
       "sport": "basketball",
       "slug": "wnba",
-      "postgame": [
-        {
-          "league": "WNBA",
-          "home": {
-            "name": "Mercury",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/11.png",
-            "score": 89
-          },
-          "away": {
-            "name": "Tempo",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/tor.png",
-            "score": 80
-          },
-          "winner": "home"
-        },
-        {
-          "league": "WNBA",
-          "home": {
-            "name": "Sparks",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/6.png",
-            "score": 87
-          },
-          "away": {
-            "name": "Fever",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/5.png",
-            "score": 111
-          },
-          "winner": "away"
-        },
-        {
-          "league": "WNBA",
-          "home": {
-            "name": "Dream",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/20.png",
-            "score": 90
-          },
-          "away": {
-            "name": "Storm",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/14.png",
-            "score": 105
-          },
-          "winner": "away"
-        }
-      ],
-      "livegame": [
-        {
-          "league": "WNBA",
-          "home": {
-            "name": "Lynx",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/8.png",
-            "score": 68
-          },
-          "away": {
-            "name": "Wings",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/3.png",
-            "score": 55
-          }
-        },
-        {
-          "league": "WNBA",
-          "home": {
-            "name": "Fire",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/por.png",
-            "score": 38
-          },
-          "away": {
-            "name": "Mystics",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/16.png",
-            "score": 32
-          }
-        }
-      ],
+      "postgame": [],
+      "livegame": [],
       "pregame": [
-        {
-          "league": "WNBA",
-          "home": {
-            "name": "Aces",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/17.png"
-          },
-          "away": {
-            "name": "Sky",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/19.png"
-          },
-          "kickoff": "2026-06-28T20:00:00Z",
-          "kickoff_label": "in 20 min"
-        },
-        {
-          "league": "WNBA",
-          "home": {
-            "name": "Liberty",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/9.png"
-          },
-          "away": {
-            "name": "Valkyries",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/gs.png"
-          },
-          "kickoff": "2026-06-28T23:00:00Z",
-          "kickoff_label": "in 3h"
-        },
         {
           "league": "WNBA",
           "home": {
@@ -115,7 +19,46 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/9.png"
           },
           "kickoff": "2026-06-30T23:00:00Z",
-          "kickoff_label": "Monday @ 11pm"
+          "kickoff_label": "in 13h"
+        },
+        {
+          "league": "WNBA",
+          "home": {
+            "name": "Dream",
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/20.png"
+          },
+          "away": {
+            "name": "Mystics",
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/16.png"
+          },
+          "kickoff": "2026-07-02T23:30:00Z",
+          "kickoff_label": "Wednesday @ 11:30pm"
+        },
+        {
+          "league": "WNBA",
+          "home": {
+            "name": "Wings",
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/3.png"
+          },
+          "away": {
+            "name": "Sun",
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/18.png"
+          },
+          "kickoff": "2026-07-03T00:00:00Z",
+          "kickoff_label": "Thursday @ midnight"
+        },
+        {
+          "league": "WNBA",
+          "home": {
+            "name": "Storm",
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/14.png"
+          },
+          "away": {
+            "name": "Mercury",
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/11.png"
+          },
+          "kickoff": "2026-07-03T02:00:00Z",
+          "kickoff_label": "Thursday @ 2am"
         }
       ]
     },
@@ -131,78 +74,7 @@
       "name": "ICC Women's T20 WC",
       "sport": "cricket",
       "slug": "icc-womens-t20",
-      "postgame": [
-        {
-          "league": "ICC Women's T20 WC",
-          "home": {
-            "name": "NL-W",
-            "logo": "https://a.espncdn.com/i/teamlogos/cricket/500/2410.png",
-            "score": "89 (18/20 ov, target 127)"
-          },
-          "away": {
-            "name": "PAK-W",
-            "logo": "https://a.espncdn.com/i/teamlogos/cricket/500/2971.png",
-            "score": "126/6"
-          },
-          "winner": "home"
-        },
-        {
-          "league": "ICC Women's T20 WC",
-          "home": {
-            "name": "IRE-W",
-            "logo": "https://a.espncdn.com/i/teamlogos/cricket/500/2234.png",
-            "score": "129/4 (18.1/20 ov, target 129)"
-          },
-          "away": {
-            "name": "WI-W",
-            "logo": "https://a.espncdn.com/i/teamlogos/cricket/500/3816.png",
-            "score": "128/7"
-          },
-          "winner": "home"
-        },
-        {
-          "league": "ICC Women's T20 WC",
-          "home": {
-            "name": "ENG-W",
-            "logo": "https://a.espncdn.com/i/teamlogos/cricket/500/975.png",
-            "score": "164/1 (17.2/20 ov, target 164)"
-          },
-          "away": {
-            "name": "NZ-W",
-            "logo": "https://a.espncdn.com/i/teamlogos/cricket/500/2563.png",
-            "score": "163/6"
-          },
-          "winner": "home"
-        },
-        {
-          "league": "ICC Women's T20 WC",
-          "home": {
-            "name": "BAN-W",
-            "logo": "https://a.espncdn.com/i/teamlogos/cricket/500/299037.png",
-            "score": "117/5"
-          },
-          "away": {
-            "name": "SA-W",
-            "logo": "https://a.espncdn.com/i/teamlogos/cricket/500/3328.png",
-            "score": "118/6 (19.2/20 ov, target 118)"
-          },
-          "winner": "away"
-        },
-        {
-          "league": "ICC Women's T20 WC",
-          "home": {
-            "name": "AUS-W",
-            "logo": "https://a.espncdn.com/i/teamlogos/cricket/500/238.png",
-            "score": "172/4 (19/20 ov, target 171)"
-          },
-          "away": {
-            "name": "IND-W",
-            "logo": "https://a.espncdn.com/i/teamlogos/cricket/500/1812.png",
-            "score": "170/4"
-          },
-          "winner": "home"
-        }
-      ],
+      "postgame": [],
       "livegame": [],
       "pregame": [
         {
@@ -216,7 +88,20 @@
             "logo": "https://a.espncdn.com/i/teamlogos/cricket/500/3816.png"
           },
           "kickoff": "2026-06-30T13:30:00Z",
-          "kickoff_label": "Monday @ 1:30pm"
+          "kickoff_label": "in 4h"
+        },
+        {
+          "league": "ICC Women's T20 WC",
+          "home": {
+            "name": "ENG-W",
+            "logo": "https://a.espncdn.com/i/teamlogos/cricket/500/975.png"
+          },
+          "away": {
+            "name": "SA-W",
+            "logo": "https://a.espncdn.com/i/teamlogos/cricket/500/3328.png"
+          },
+          "kickoff": "2026-07-02T17:30:00Z",
+          "kickoff_label": "Wednesday @ 5:30pm"
         }
       ]
     }
