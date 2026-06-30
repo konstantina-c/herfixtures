@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Diego Wave FC @ Chicago Stars FC (2–0)
 DTSTART:20260531T170000Z
 DTEND:20260531T190000Z
-DTSTAMP:20260630T095356Z
+DTSTAMP:20260630T200708Z
 UID:espn-nwsl-401853925@herfixtures.com
 DESCRIPTION:NWSL 2026 · San Diego Wave\nSan Diego Wave FC at Chicago Star
  s FC\nStatus: Full Time\nVenue: Northwestern Medicine Field at Martin Stad
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Orlando Pride @ San Diego Wave FC (1–0)
 DTSTART:20260524T230000Z
 DTEND:20260525T010000Z
-DTSTAMP:20260630T095356Z
+DTSTAMP:20260630T200708Z
 UID:espn-nwsl-401853921@herfixtures.com
 DESCRIPTION:NWSL 2026 · San Diego Wave\nOrlando Pride at San Diego Wave F
  C\nStatus: Full Time\nVenue: Snapdragon Stadium\, San Diego\, California\n
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Diego Wave FC @ Houston Dash (2–2)
 DTSTART:20260521T000000Z
 DTEND:20260521T020000Z
-DTSTAMP:20260630T095356Z
+DTSTAMP:20260630T200708Z
 UID:espn-nwsl-401853914@herfixtures.com
 DESCRIPTION:NWSL 2026 · San Diego Wave\nSan Diego Wave FC at Houston Dash
  \nStatus: Full Time\nVenue: Shell Energy Stadium\, Houston\, Texas\n\nFixt
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Washington Spirit @ San Diego Wave FC (1–2)
 DTSTART:20260516T020000Z
 DTEND:20260516T040000Z
-DTSTAMP:20260630T095356Z
+DTSTAMP:20260630T200708Z
 UID:espn-nwsl-401853909@herfixtures.com
 DESCRIPTION:NWSL 2026 · San Diego Wave\nWashington Spirit at San Diego Wa
  ve FC\nStatus: Full Time\nVenue: Snapdragon Stadium\, San Diego\, Californ
@@ -62,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Diego Wave FC @ Angel City FC (2–1)
 DTSTART:20260510T004500Z
 DTEND:20260510T024500Z
-DTSTAMP:20260630T095356Z
+DTSTAMP:20260630T200708Z
 UID:espn-nwsl-401853904@herfixtures.com
 DESCRIPTION:NWSL 2026 · San Diego Wave\nSan Diego Wave FC at Angel City F
  C\nStatus: Full Time\nVenue: BMO Stadium\, Los Angeles\, California\n\nFix
@@ -74,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bay FC @ San Diego Wave FC (1–0)
 DTSTART:20260503T230000Z
 DTEND:20260504T010000Z
-DTSTAMP:20260630T095356Z
+DTSTAMP:20260630T200708Z
 UID:espn-nwsl-401853900@herfixtures.com
 DESCRIPTION:NWSL 2026 · San Diego Wave\nBay FC at San Diego Wave FC\nStat
  us: Full Time\nVenue: Snapdragon Stadium\, San Diego\, California\n\nFixtu
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Diego Wave FC @ Portland Thorns FC (0–2)
 DTSTART:20260430T020000Z
 DTEND:20260430T040000Z
-DTSTAMP:20260630T095356Z
+DTSTAMP:20260630T200708Z
 UID:espn-nwsl-401853893@herfixtures.com
 DESCRIPTION:NWSL 2026 · San Diego Wave\nSan Diego Wave FC at Portland Tho
  rns FC\nStatus: Full Time\nVenue: Providence Park\, Portland\, Oregon\n\nF
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Diego Wave FC @ Denver Summit FC (3–2)
 DTSTART:20260426T004500Z
 DTEND:20260426T024500Z
-DTSTAMP:20260630T095356Z
+DTSTAMP:20260630T200708Z
 UID:espn-nwsl-401854049@herfixtures.com
 DESCRIPTION:NWSL 2026 · San Diego Wave\nSan Diego Wave FC at Denver Summi
  t FC\nStatus: Full Time\nVenue: Dick's Sporting Goods Park\, Commerce City
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Diego Wave FC @ Boston Legacy FC (1–0)
 DTSTART:20260403T230000Z
 DTEND:20260404T010000Z
-DTSTAMP:20260630T095356Z
+DTSTAMP:20260630T200708Z
 UID:espn-nwsl-401854046@herfixtures.com
 DESCRIPTION:NWSL 2026 · San Diego Wave\nSan Diego Wave FC at Boston Legac
  y FC\nStatus: Full Time\nVenue: Gillette Stadium\, Foxborough\, Massachuse
@@ -123,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Chicago Stars FC @ San Diego Wave FC (0–2)
 DTSTART:20260329T004500Z
 DTEND:20260329T024500Z
-DTSTAMP:20260630T095356Z
+DTSTAMP:20260630T200708Z
 UID:espn-nwsl-401853877@herfixtures.com
 DESCRIPTION:NWSL 2026 · San Diego Wave\nChicago Stars FC at San Diego Wav
  e FC\nStatus: Full Time\nVenue: Snapdragon Stadium\, San Diego\, Californi
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Portland Thorns FC @ San Diego Wave FC (1–3)
 DTSTART:20260326T020000Z
 DTEND:20260326T040000Z
-DTSTAMP:20260630T095356Z
+DTSTAMP:20260630T200708Z
 UID:espn-nwsl-401853872@herfixtures.com
 DESCRIPTION:NWSL 2026 · San Diego Wave\nPortland Thorns FC at San Diego W
  ave FC\nStatus: Full Time\nVenue: Snapdragon Stadium\, San Diego\, Califor
@@ -147,7 +147,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Diego Wave FC @ Utah Royals (2–1)
 DTSTART:20260322T230000Z
 DTEND:20260323T010000Z
-DTSTAMP:20260630T095356Z
+DTSTAMP:20260630T200708Z
 UID:espn-nwsl-401853868@herfixtures.com
 DESCRIPTION:NWSL 2026 · San Diego Wave\nSan Diego Wave FC at Utah Royals\
  nStatus: Full Time\nVenue: America First Field\, Sandy\, Utah\n\nFixtures 
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Houston Dash @ San Diego Wave FC (1–0)
 DTSTART:20260315T004500Z
 DTEND:20260315T024500Z
-DTSTAMP:20260630T095356Z
+DTSTAMP:20260630T200708Z
 UID:espn-nwsl-401853860@herfixtures.com
 DESCRIPTION:NWSL 2026 · San Diego Wave\nHouston Dash at San Diego Wave FC
  \nStatus: Full Time\nVenue: Snapdragon Stadium\, San Diego\, California\n\
