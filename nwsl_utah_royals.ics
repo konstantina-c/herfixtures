@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Utah Royals @ Portland Thorns FC (2–2)
 DTSTART:20260530T200000Z
 DTEND:20260530T220000Z
-DTSTAMP:20260701T100230Z
+DTSTAMP:20260701T200409Z
 UID:espn-nwsl-401853923@herfixtures.com
 DESCRIPTION:NWSL 2026 · Utah Royals\nUtah Royals at Portland Thorns FC\nS
  tatus: Full Time\nVenue: Providence Park\, Portland\, Oregon\n\nFixtures b
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Denver Summit FC @ Utah Royals (1–2)
 DTSTART:20260523T223000Z
 DTEND:20260524T003000Z
-DTSTAMP:20260701T100230Z
+DTSTAMP:20260701T200409Z
 UID:espn-nwsl-401854058@herfixtures.com
 DESCRIPTION:NWSL 2026 · Utah Royals\nDenver Summit FC at Utah Royals\nSta
  tus: Full Time\nVenue: America First Field\, Sandy\, Utah\n\nFixtures by H
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Racing Louisville FC @ Utah Royals (1–2)
 DTSTART:20260518T000000Z
 DTEND:20260518T020000Z
-DTSTAMP:20260701T100230Z
+DTSTAMP:20260701T200409Z
 UID:espn-nwsl-401853913@herfixtures.com
 DESCRIPTION:NWSL 2026 · Utah Royals\nRacing Louisville FC at Utah Royals\
  nStatus: Full Time\nVenue: America First Field\, Sandy\, Utah\n\nFixtures 
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Utah Royals @ Bay FC (0–0)
 DTSTART:20260510T200000Z
 DTEND:20260510T220000Z
-DTSTAMP:20260701T100230Z
+DTSTAMP:20260701T200409Z
 UID:espn-nwsl-401853906@herfixtures.com
 DESCRIPTION:NWSL 2026 · Utah Royals\nUtah Royals at Bay FC\nStatus: Full 
  Time\nVenue: PayPal Park\, San Jose\, California\n\nFixtures by HerFixture
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Houston Dash @ Utah Royals (0–2)
 DTSTART:20260507T020000Z
 DTEND:20260507T040000Z
-DTSTAMP:20260701T100230Z
+DTSTAMP:20260701T200409Z
 UID:espn-nwsl-401853901@herfixtures.com
 DESCRIPTION:NWSL 2026 · Utah Royals\nHouston Dash at Utah Royals\nStatus:
   Full Time\nVenue: America First Field\, Sandy\, Utah\n\nFixtures by HerFi
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Utah Royals @ Angel City FC (1–0)
 DTSTART:20260503T004500Z
 DTEND:20260503T024500Z
-DTSTAMP:20260701T100230Z
+DTSTAMP:20260701T200409Z
 UID:espn-nwsl-401853897@herfixtures.com
 DESCRIPTION:NWSL 2026 · Utah Royals\nUtah Royals at Angel City FC\nStatus
  : Full Time\nVenue: BMO Stadium\, Los Angeles\, California\n\nFixtures by 
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Utah Royals @ Seattle Reign FC (3–0)
 DTSTART:20260427T000000Z
 DTEND:20260427T020000Z
-DTSTAMP:20260701T100230Z
+DTSTAMP:20260701T200409Z
 UID:espn-nwsl-401853890@herfixtures.com
 DESCRIPTION:NWSL 2026 · Utah Royals\nUtah Royals at Seattle Reign FC\nSta
  tus: Full Time\nVenue: Lumen Field\, Seattle\, Washington\n\nFixtures by H
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Chicago Stars FC @ Utah Royals (0–1)
 DTSTART:20260404T010000Z
 DTEND:20260404T030000Z
-DTSTAMP:20260701T100230Z
+DTSTAMP:20260701T200409Z
 UID:espn-nwsl-401853881@herfixtures.com
 DESCRIPTION:NWSL 2026 · Utah Royals\nChicago Stars FC at Utah Royals\nSta
  tus: Full Time\nVenue: America First Field\, Sandy\, Utah\n\nFixtures by H
@@ -109,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Utah Royals @ Boston Legacy FC (2–1)
 DTSTART:20260328T160000Z
 DTEND:20260328T180000Z
-DTSTAMP:20260701T100230Z
+DTSTAMP:20260701T200409Z
 UID:espn-nwsl-401854044@herfixtures.com
 DESCRIPTION:NWSL 2026 · Utah Royals\nUtah Royals at Boston Legacy FC\nSta
  tus: Full Time\nVenue: Gillette Stadium\, Foxborough\, Massachusetts\n\nFi
@@ -121,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Utah Royals @ Washington Spirit (1–1)
 DTSTART:20260325T230000Z
 DTEND:20260326T010000Z
-DTSTAMP:20260701T100230Z
+DTSTAMP:20260701T200409Z
 UID:espn-nwsl-401853869@herfixtures.com
 DESCRIPTION:NWSL 2026 · Utah Royals\nUtah Royals at Washington Spirit\nSt
  atus: Full Time\nVenue: Audi Field\, Washington\, District of Columbia\n\n
@@ -133,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Diego Wave FC @ Utah Royals (2–1)
 DTSTART:20260322T230000Z
 DTEND:20260323T010000Z
-DTSTAMP:20260701T100230Z
+DTSTAMP:20260701T200409Z
 UID:espn-nwsl-401853868@herfixtures.com
 DESCRIPTION:NWSL 2026 · Utah Royals\nSan Diego Wave FC at Utah Royals\nSt
  atus: Full Time\nVenue: America First Field\, Sandy\, Utah\n\nFixtures by 
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Utah Royals @ Kansas City Current (1–2)
 DTSTART:20260314T200000Z
 DTEND:20260314T220000Z
-DTSTAMP:20260701T100230Z
+DTSTAMP:20260701T200409Z
 UID:espn-nwsl-401853858@herfixtures.com
 DESCRIPTION:NWSL 2026 · Utah Royals\nUtah Royals at Kansas City Current\n
  Status: Full Time\nVenue: CPKC Stadium\, Kansas City\, Missouri\n\nFixture
