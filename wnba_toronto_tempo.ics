@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Washington Mystics 68–65 Toronto Tempo ✓ 🏠
 DTSTART:20260508T233000Z
 DTEND:20260509T020000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401856891-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nWashington Mystics at Toronto Tempo\nS
  tatus: Final\nFinal score: Washington Mystics 68 – Toronto Tempo 65\nWat
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Seattle Storm 73–86 Toronto Tempo ✓ 🏠
 DTSTART:20260513T230000Z
 DTEND:20260514T013000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401856904-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nSeattle Storm at Toronto Tempo\nStatus
  : Final\nFinal score: Seattle Storm 73 – Toronto Tempo 86\nWatch: WNBA L
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo 95–99 Los Angeles Sparks ✓
 DTSTART:20260516T020000Z
 DTEND:20260516T043000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401856912-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nToronto Tempo at Los Angeles Sparks\nS
  tatus: Final\nFinal score: Toronto Tempo 95 – Los Angeles Sparks 99\nWat
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo 106–96 Los Angeles Sparks ✓
 DTSTART:20260517T230000Z
 DTEND:20260518T013000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401856917-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nToronto Tempo at Los Angeles Sparks\nS
  tatus: Final\nFinal score: Toronto Tempo 106 – Los Angeles Sparks 96\nWa
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo 98–90 Phoenix Mercury ✓
 DTSTART:20260520T020000Z
 DTEND:20260520T043000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401856920-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nToronto Tempo at Phoenix Mercury\nStat
  us: Final\nFinal score: Toronto Tempo 98 – Phoenix Mercury 90\nWatch: WN
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo 72–100 Minnesota Lynx ✓
 DTSTART:20260522T000000Z
 DTEND:20260522T023000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401856925-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nToronto Tempo at Minnesota Lynx\nStatu
  s: Final\nFinal score: Toronto Tempo 72 – Minnesota Lynx 100\nWatch: WNB
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire 99–80 Toronto Tempo ✓ 🏠
 DTSTART:20260523T220000Z
 DTEND:20260524T003000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401856931-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nPortland Fire at Toronto Tempo\nStatus
  : Final\nFinal score: Portland Fire 99 – Toronto Tempo 80\nWatch: WNBA L
@@ -108,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo 111–104 Chicago Sky ✓
 DTSTART:20260528T000000Z
 DTEND:20260528T023000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401856939-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nToronto Tempo at Chicago Sky\nStatus: 
  Final\nFinal score: Toronto Tempo 111 – Chicago Sky 104\nWatch: WNBA Lea
@@ -121,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Seattle Storm 72–93 Toronto Tempo ✓ 🏠
 DTSTART:20260530T170000Z
 DTEND:20260530T193000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401856949-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nSeattle Storm at Toronto Tempo\nStatus
  : Final\nFinal score: Seattle Storm 72 – Toronto Tempo 93\nWatch: WNBA L
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo 82–97 New York Liberty ✓
 DTSTART:20260603T233000Z
 DTEND:20260604T020000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401856959-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nToronto Tempo at New York Liberty\nSta
  tus: Final\nFinal score: Toronto Tempo 82 – New York Liberty 97\nWatch: 
@@ -148,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky 68–85 Toronto Tempo ✓ 🏠
 DTSTART:20260607T190000Z
 DTEND:20260607T213000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401856970-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nChicago Sky at Toronto Tempo\nStatus: 
  Final\nFinal score: Chicago Sky 68 – Toronto Tempo 85\nWatch: WNBA Leagu
@@ -161,7 +161,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Connecticut Sun 102–106 Toronto Tempo ✓ 🏠
 DTSTART:20260610T230000Z
 DTEND:20260611T013000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401856978-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nConnecticut Sun at Toronto Tempo\nStat
  us: Final\nFinal score: Connecticut Sun 102 – Toronto Tempo 106\nWatch: 
@@ -174,7 +174,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo 85–86 Washington Mystics ✓
 DTSTART:20260612T233000Z
 DTEND:20260613T020000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401856984-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nToronto Tempo at Washington Mystics\nS
  tatus: Final\nFinal score: Toronto Tempo 85 – Washington Mystics 86\nWat
@@ -187,7 +187,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Atlanta Dream 102–77 Toronto Tempo ✓ 🏠
 DTSTART:20260614T190000Z
 DTEND:20260614T213000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401856991-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nAtlanta Dream at Toronto Tempo\nStatus
  : Final\nFinal score: Atlanta Dream 102 – Toronto Tempo 77\nWatch: WNBA 
@@ -201,7 +201,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo 91–113 Indiana Fever ✓
 DTSTART:20260616T230000Z
 DTEND:20260617T013000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401856995-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nToronto Tempo at Indiana Fever\nStatus
  : Final\nFinal score: Toronto Tempo 91 – Indiana Fever 113\nWatch: USA N
@@ -214,7 +214,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo 101–97 Connecticut Sun ✓
 DTSTART:20260619T233000Z
 DTEND:20260620T020000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401857003-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nToronto Tempo at Connecticut Sun\nStat
  us: Final\nFinal score: Toronto Tempo 101 – Connecticut Sun 97\nWatch: W
@@ -227,7 +227,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo 87–94 Atlanta Dream ✓
 DTSTART:20260622T233000Z
 DTEND:20260623T020000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401857013-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nToronto Tempo at Atlanta Dream\nStatus
  : Final\nFinal score: Toronto Tempo 87 – Atlanta Dream 94\nWatch: WNBA L
@@ -241,7 +241,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks 97–125 Toronto Tempo ✓ 🏠
 DTSTART:20260625T230000Z
 DTEND:20260626T013000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401857021-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nLos Angeles Sparks at Toronto Tempo\nS
  tatus: Final\nFinal score: Los Angeles Sparks 97 – Toronto Tempo 125\nWa
@@ -254,7 +254,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Phoenix Mercury 89–80 Toronto Tempo ✓ 🏠
 DTSTART:20260627T180000Z
 DTEND:20260627T203000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401857027-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nPhoenix Mercury at Toronto Tempo\nStat
  us: Final\nFinal score: Phoenix Mercury 89 – Toronto Tempo 80\nWatch: CB
@@ -267,7 +267,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Dallas Wings @ Toronto Tempo 🏠
 DTSTART:20260705T190000Z
 DTEND:20260705T213000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401857041-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nDallas Wings at Toronto Tempo\nStatus:
   Scheduled\nWatch: WNBA League Pass · KFAA-TV · TSN\nVenue: Coca-Cola Co
@@ -281,7 +281,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Golden State Valkyries @ Toronto Tempo 🏠
 DTSTART:20260708T230000Z
 DTEND:20260709T013000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401857048-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nGolden State Valkyries at Toronto Temp
  o\nStatus: Scheduled\nWatch: WNBA League Pass · KPIX+ · TSN\nVenue: Coca
@@ -295,7 +295,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Dallas Wings @ Toronto Tempo 🏠
 DTSTART:20260710T233000Z
 DTEND:20260711T020000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401857055-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nDallas Wings at Toronto Tempo\nStatus:
   Scheduled\nWatch: ION · WNBA League Pass · TSN\nVenue: Bell Centre\, Mo
@@ -309,7 +309,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 New York Liberty @ Toronto Tempo 🏠
 DTSTART:20260712T190000Z
 DTEND:20260712T213000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401857060-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nNew York Liberty at Toronto Tempo\nSta
  tus: Scheduled\nWatch: NBA TV · Fox 5 New York · Liberty Live · TSN\nVe
@@ -324,7 +324,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Washington Mystics @ Toronto Tempo 🏠
 DTSTART:20260714T230000Z
 DTEND:20260715T013000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401857067-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nWashington Mystics at Toronto Tempo\nS
  tatus: Scheduled\nWatch: MNMT · TSN\nVenue: Coca-Cola Coliseum\, Toronto\
@@ -338,7 +338,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Atlanta Dream @ Toronto Tempo 🏠
 DTSTART:20260717T233000Z
 DTEND:20260718T020000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401857074-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nAtlanta Dream at Toronto Tempo\nStatus
  : Scheduled\nWatch: WNBA League Pass · ION · TSN\nVenue: Coca-Cola Colis
@@ -352,7 +352,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Las Vegas Aces @ Toronto Tempo 🏠
 DTSTART:20260721T000000Z
 DTEND:20260721T023000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401857083-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nLas Vegas Aces at Toronto Tempo\nStatu
  s: Scheduled\nWatch: Peacock · NBCSN · TSN · Vegas 34\nVenue: Coca-Cola
@@ -366,7 +366,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo @ Minnesota Lynx
 DTSTART:20260729T000000Z
 DTEND:20260729T023000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401857093-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nToronto Tempo at Minnesota Lynx\nStatu
  s: Scheduled\nWatch: TSN · Victory+ MIN\nVenue: Target Center\, Minneapol
@@ -380,7 +380,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx @ Toronto Tempo 🏠
 DTSTART:20260730T230000Z
 DTEND:20260731T013000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401857099-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nMinnesota Lynx at Toronto Tempo\nStatu
  s: Scheduled\nWatch: TSN · Victory+ MIN\nVenue: Scotiabank Arena\, Toront
@@ -394,7 +394,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo @ Golden State Valkyries
 DTSTART:20260803T003000Z
 DTEND:20260803T030000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401857110-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nToronto Tempo at Golden State Valkyrie
  s\nStatus: Scheduled\nWatch: KPIX+ · TSN\nVenue: Chase Center\, San Franc
@@ -408,7 +408,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo @ Golden State Valkyries
 DTSTART:20260805T020000Z
 DTEND:20260805T043000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401857114-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nToronto Tempo at Golden State Valkyrie
  s\nStatus: Scheduled\nWatch: TSN\nVenue: Chase Center\, San Francisco\nTic
@@ -422,7 +422,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo @ Portland Fire
 DTSTART:20260807T020000Z
 DTEND:20260807T043000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401857121-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nToronto Tempo at Portland Fire\nStatus
  : Scheduled\nWatch: Fox 12 Plus · TSN\nVenue: Moda Center\, Portland\nTic
@@ -436,7 +436,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo @ Atlanta Dream
 DTSTART:20260811T000000Z
 DTEND:20260811T023000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401857132-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nToronto Tempo at Atlanta Dream\nStatus
  : Scheduled\nWatch: Peacock · NBCSN · Atlanta News First · Victory+ ATL
@@ -451,7 +451,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo @ Dallas Wings
 DTSTART:20260813T000000Z
 DTEND:20260813T023000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401857137-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nToronto Tempo at Dallas Wings\nStatus:
   Scheduled\nWatch: USA Net · KFAA-TV · TSN\nVenue: College Park Center\,
@@ -465,7 +465,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Indiana Fever @ Toronto Tempo 🏠
 DTSTART:20260818T230000Z
 DTEND:20260819T013000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401857153-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nIndiana Fever at Toronto Tempo\nStatus
  : Scheduled\nWatch: ESPN · MeTV Indianapolis · TSN\nVenue: Scotiabank Ar
@@ -479,7 +479,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo @ Washington Mystics
 DTSTART:20260819T233000Z
 DTEND:20260820T020000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401857156-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nToronto Tempo at Washington Mystics\nS
  tatus: Scheduled\nWatch: TSN · MNMT\nVenue: CareFirst Arena\, Washington\
@@ -493,7 +493,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Toronto Tempo 🏠
 DTSTART:20260822T020000Z
 DTEND:20260822T043000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401857163-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nPortland Fire at Toronto Tempo\nStatus
  : Scheduled\nWatch: ION · TSN\nVenue: Rogers Arena\, Vancouver\nTickets: 
@@ -507,7 +507,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Las Vegas Aces @ Toronto Tempo 🏠
 DTSTART:20260823T230000Z
 DTEND:20260824T013000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401857170-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nLas Vegas Aces at Toronto Tempo\nStatu
  s: Scheduled\nWatch: TSN · Vegas 34\nVenue: Rogers Arena\, Vancouver\nTic
@@ -521,7 +521,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo @ Seattle Storm
 DTSTART:20260827T020000Z
 DTEND:20260827T043000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401857177-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nToronto Tempo at Seattle Storm\nStatus
  : Scheduled\nWatch: USA Net · CW Seattle · Prime Video-Seattle · TSN\nV
@@ -536,7 +536,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo @ Las Vegas Aces
 DTSTART:20260829T020000Z
 DTEND:20260829T043000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401857182-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nToronto Tempo at Las Vegas Aces\nStatu
  s: Scheduled\nWatch: ION · TSN\nVenue: Michelob ULTRA Arena\, Las Vegas\n
@@ -551,7 +551,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo @ Phoenix Mercury
 DTSTART:20260830T020000Z
 DTEND:20260830T043000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401857185-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nToronto Tempo at Phoenix Mercury\nStat
  us: Scheduled\nWatch: AZ Family Sports Net · Merc+ · TSN\nVenue: Mortgag
@@ -566,7 +566,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Indiana Fever @ Toronto Tempo 🏠
 DTSTART:20260918T233000Z
 DTEND:20260919T020000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401857195-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nIndiana Fever at Toronto Tempo\nStatus
  : Scheduled\nWatch: ION · TSN\nVenue: Coca-Cola Coliseum\, Toronto\nTicke
@@ -580,7 +580,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 New York Liberty @ Toronto Tempo 🏠
 DTSTART:20260920T190000Z
 DTEND:20260920T213000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401857202-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nNew York Liberty at Toronto Tempo\nSta
  tus: Scheduled\nWatch: WWOR-TV · Liberty Live · TSN\nVenue: Coca-Cola Co
@@ -594,7 +594,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo @ Chicago Sky
 DTSTART:20260923T000000Z
 DTEND:20260923T023000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401857210-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nToronto Tempo at Chicago Sky\nStatus: 
  Scheduled\nWatch: CW26 · TSN\nVenue: Wintrust Arena\, Chicago\nTickets: h
@@ -608,7 +608,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo @ Connecticut Sun
 DTSTART:20260924T230000Z
 DTEND:20260925T013000Z
-DTSTAMP:20260704T084623Z
+DTSTAMP:20260704T192355Z
 UID:wnba-401857215-131935@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nToronto Tempo at Connecticut Sun\nStat
  us: Scheduled\nWatch: NBA TV · NBC Sports BO · TSN\nVenue: Mohegan Sun A
