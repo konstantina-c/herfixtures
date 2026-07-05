@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T19:24:02Z",
+  "updated": "2026-07-05T09:15:36Z",
   "competitions": {
     "wnba": {
       "name": "WNBA",
@@ -9,61 +9,34 @@
         {
           "league": "WNBA",
           "home": {
-            "name": "Lynx",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/8.png",
-            "score": 86
-          },
-          "away": {
-            "name": "Liberty",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/9.png",
-            "score": 99
-          },
-          "winner": "away"
-        },
-        {
-          "league": "WNBA",
-          "home": {
-            "name": "Sky",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/19.png",
-            "score": 90
-          },
-          "away": {
-            "name": "Aces",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/17.png",
-            "score": 98
-          },
-          "winner": "away"
-        }
-      ],
-      "livegame": [
-        {
-          "league": "WNBA",
-          "home": {
             "name": "Valkyries",
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/gs.png",
-            "score": 86
+            "score": 88
           },
           "away": {
             "name": "Dream",
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/20.png",
-            "score": 35
-          }
-        }
-      ],
-      "pregame": [
+            "score": 83
+          },
+          "winner": "home"
+        },
         {
           "league": "WNBA",
           "home": {
             "name": "Fire",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/por.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/por.png",
+            "score": 77
           },
           "away": {
             "name": "Storm",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/14.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/14.png",
+            "score": 72
           },
-          "kickoff": "2026-07-05T01:00:00Z",
-          "kickoff_label": "in 6h"
-        },
+          "winner": "home"
+        }
+      ],
+      "livegame": [],
+      "pregame": [
         {
           "league": "WNBA",
           "home": {
@@ -75,7 +48,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/tor.png"
           },
           "kickoff": "2026-07-05T19:00:00Z",
-          "kickoff_label": "in 24h"
+          "kickoff_label": "in 10h"
         },
         {
           "league": "WNBA",
@@ -88,7 +61,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/17.png"
           },
           "kickoff": "2026-07-05T23:00:00Z",
-          "kickoff_label": "Tomorrow @ 11pm"
+          "kickoff_label": "in 14h"
         },
         {
           "league": "WNBA",
@@ -101,7 +74,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/16.png"
           },
           "kickoff": "2026-07-06T23:30:00Z",
-          "kickoff_label": "Sunday @ 11:30pm"
+          "kickoff_label": "Tomorrow @ 11:30pm"
         },
         {
           "league": "WNBA",
@@ -128,6 +101,32 @@
           },
           "kickoff": "2026-07-07T02:00:00Z",
           "kickoff_label": "Monday @ 2am"
+        },
+        {
+          "league": "WNBA",
+          "home": {
+            "name": "Wings",
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/3.png"
+          },
+          "away": {
+            "name": "Liberty",
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/9.png"
+          },
+          "kickoff": "2026-07-08T00:00:00Z",
+          "kickoff_label": "Tuesday @ midnight"
+        },
+        {
+          "league": "WNBA",
+          "home": {
+            "name": "Sky",
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/19.png"
+          },
+          "away": {
+            "name": "Mercury",
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/11.png"
+          },
+          "kickoff": "2026-07-08T02:00:00Z",
+          "kickoff_label": "Tuesday @ 2am"
         }
       ]
     },
@@ -139,41 +138,27 @@
         {
           "league": "NWSL",
           "home": {
-            "name": "Houston",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17346.png",
+            "name": "Seattle",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15363.png",
             "score": 1
           },
           "away": {
-            "name": "Washington",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15365.png",
-            "score": 2
+            "name": "North Carolina",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15366.png",
+            "score": 3
           },
           "winner": "away"
         },
         {
           "league": "NWSL",
           "home": {
-            "name": "Kansas City",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20907.png",
-            "score": 3
-          },
-          "away": {
-            "name": "Denver",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131563.png",
-            "score": 0
-          },
-          "winner": "home"
-        },
-        {
-          "league": "NWSL",
-          "home": {
-            "name": "Orlando",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18206.png",
+            "name": "Gotham",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15364.png",
             "score": 0
           },
           "away": {
-            "name": "Angel City",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21422.png",
+            "name": "San Diego",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21423.png",
             "score": 2
           },
           "winner": "away"
@@ -181,32 +166,6 @@
       ],
       "livegame": [],
       "pregame": [
-        {
-          "league": "NWSL",
-          "home": {
-            "name": "Seattle",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15363.png"
-          },
-          "away": {
-            "name": "North Carolina",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15366.png"
-          },
-          "kickoff": "2026-07-04T23:30:00Z",
-          "kickoff_label": "in 4h"
-        },
-        {
-          "league": "NWSL",
-          "home": {
-            "name": "Gotham",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15364.png"
-          },
-          "away": {
-            "name": "San Diego",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21423.png"
-          },
-          "kickoff": "2026-07-05T00:45:00Z",
-          "kickoff_label": "in 5h"
-        },
         {
           "league": "NWSL",
           "home": {
@@ -218,7 +177,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131562.png"
           },
           "kickoff": "2026-07-05T16:00:00Z",
-          "kickoff_label": "in 21h"
+          "kickoff_label": "in 7h"
         },
         {
           "league": "NWSL",
@@ -231,7 +190,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15360.png"
           },
           "kickoff": "2026-07-05T21:00:00Z",
-          "kickoff_label": "Tomorrow @ 9pm"
+          "kickoff_label": "in 12h"
         },
         {
           "league": "NWSL",
@@ -244,7 +203,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15362.png"
           },
           "kickoff": "2026-07-05T23:00:00Z",
-          "kickoff_label": "Tomorrow @ 11pm"
+          "kickoff_label": "in 14h"
         }
       ]
     },
@@ -266,7 +225,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/cricket/500/238.png"
           },
           "kickoff": "2026-07-05T14:30:00Z",
-          "kickoff_label": "in 19h"
+          "kickoff_label": "in 5h"
         }
       ]
     }
