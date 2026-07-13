@@ -38,29 +38,37 @@ LOGO_OVERRIDES = {
 
 
 def fetch_scoreboard(base_url, date_from, date_to):
-    r = requests.get(
-        f"{base_url}/scoreboard",
-        params={
-            "dates": f"{date_from.strftime('%Y%m%d')}-{date_to.strftime('%Y%m%d')}",
-            "limit": 50,
-        },
-        headers=HEADERS,
-        timeout=10,
-    )
-    r.raise_for_status()
-    return r.json().get("events", [])
+    try:
+        r = requests.get(
+            f"{base_url}/scoreboard",
+            params={
+                "dates": f"{date_from.strftime('%Y%m%d')}-{date_to.strftime('%Y%m%d')}",
+                "limit": 50,
+            },
+            headers=HEADERS,
+            timeout=10,
+        )
+        r.raise_for_status()
+        return r.json().get("events", [])
+    except requests.exceptions.RequestException as e:
+        print(f"    ⚠️  Scoreboard {date_from}–{date_to} error, skipping: {e}")
+        return []
 
 
 def fetch_scoreboard_single(base_url, d):
     """Fetch scoreboard for a single date — required for soccer endpoints that reject ranges."""
-    r = requests.get(
-        f"{base_url}/scoreboard",
-        params={"dates": d.strftime("%Y%m%d"), "limit": 50},
-        headers=HEADERS,
-        timeout=10,
-    )
-    r.raise_for_status()
-    return r.json().get("events", [])
+    try:
+        r = requests.get(
+            f"{base_url}/scoreboard",
+            params={"dates": d.strftime("%Y%m%d"), "limit": 50},
+            headers=HEADERS,
+            timeout=10,
+        )
+        r.raise_for_status()
+        return r.json().get("events", [])
+    except requests.exceptions.RequestException as e:
+        print(f"    ⚠️  Scoreboard {d} error, skipping: {e}")
+        return []
 
 
 def _parse_score(raw):
@@ -232,14 +240,32 @@ LEAGUE_CONFIGS = [
 
 
 def main():
+    # Load existing scores.json so a failed competition can fall back to last-known-good
+    existing_competitions = {}
+    try:
+        with open(OUTPUT_FILE) as f:
+            existing_competitions = json.load(f).get("competitions", {})
+    except (FileNotFoundError, json.JSONDecodeError):
+        pass
+
     print(f"Fetching scores for strip ({YESTERDAY} → {DAY_AFTER})...")
 
     competitions = {}
     for base_url, name, sport, slug, home_first in LEAGUE_CONFIGS:
-        result = process_league(base_url, name, home_first=home_first)
-        competitions[slug] = {"name": name, "sport": sport, "slug": slug, **result}
-        pg, lg, prg = result["postgame"], result["livegame"], result["pregame"]
-        print(f"  {name}: {len(pg)} postgame, {len(lg)} live, {len(prg)} upcoming")
+        try:
+            result = process_league(base_url, name, home_first=home_first)
+            competitions[slug] = {"name": name, "sport": sport, "slug": slug, **result}
+            pg, lg, prg = result["postgame"], result["livegame"], result["pregame"]
+            print(f"  {name}: {len(pg)} postgame, {len(lg)} live, {len(prg)} upcoming")
+        except Exception as e:
+            print(f"  ⚠️  {name} failed — keeping last-known-good data: {e}")
+            if slug in existing_competitions:
+                competitions[slug] = existing_competitions[slug]
+            else:
+                competitions[slug] = {
+                    "name": name, "sport": sport, "slug": slug,
+                    "postgame": [], "livegame": [], "pregame": [],
+                }
 
     output = {
         "updated":      datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
