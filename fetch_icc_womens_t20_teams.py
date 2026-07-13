@@ -36,20 +36,32 @@ def fetch_all_fixtures():
     session.headers.update(HEADERS)
     games = {}
 
-    r = session.get(
-        f"{BASE_URL}/scoreboard",
-        params={"season": SEASON_YEAR, "limit": 100},
-        timeout=10,
-    )
-    r.raise_for_status()
-    for event in r.json().get("events", []):
-        games[event["id"]] = event
+    try:
+        r = session.get(
+            f"{BASE_URL}/scoreboard",
+            params={"season": SEASON_YEAR, "limit": 100},
+            timeout=10,
+        )
+        r.raise_for_status()
+        for event in r.json().get("events", []):
+            eid = event.get("id")
+            if not eid:
+                continue
+            games[eid] = event
+    except requests.exceptions.HTTPError as e:
+        print(f"  ⚠️  Season scoreboard HTTP error, skipping: {e}")
 
     # Current matchday overwrites — ensures live/today scores are fresh
-    r = session.get(f"{BASE_URL}/scoreboard", timeout=10)
-    r.raise_for_status()
-    for event in r.json().get("events", []):
-        games[event["id"]] = event
+    try:
+        r = session.get(f"{BASE_URL}/scoreboard", timeout=10)
+        r.raise_for_status()
+        for event in r.json().get("events", []):
+            eid = event.get("id")
+            if not eid:
+                continue
+            games[eid] = event
+    except requests.exceptions.HTTPError as e:
+        print(f"  ⚠️  Current scoreboard HTTP error, skipping: {e}")
 
     return list(games.values())
 
@@ -162,8 +174,12 @@ def main():
     print("Fetching ICC Women's T20 World Cup 2026 fixtures from ESPN...")
     all_events = fetch_all_fixtures()
     print(f"  → {len(all_events)} raw events fetched")
-    print()
 
+    if not all_events:
+        print("  ⚠️  No events returned — skipping write to preserve existing files")
+        return
+
+    print()
     success = 0
     for team_name, slug in ICC_TEAMS.items():
         try:

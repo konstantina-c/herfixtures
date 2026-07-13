@@ -23,14 +23,17 @@ def fetch_games():
     games = {}
 
     # Future first: one wide call from today to DATE_TO (may lack scores)
-    r = session.get(
-        f"{BASE_URL}/scoreboard",
-        params={"dates": f"{TODAY.strftime('%Y%m%d')}-{DATE_TO.strftime('%Y%m%d')}", "limit": 200},
-        timeout=10,
-    )
-    r.raise_for_status()
-    for event in r.json().get("events", []):
-        games[event["id"]] = event
+    try:
+        r = session.get(
+            f"{BASE_URL}/scoreboard",
+            params={"dates": f"{TODAY.strftime('%Y%m%d')}-{DATE_TO.strftime('%Y%m%d')}", "limit": 200},
+            timeout=10,
+        )
+        r.raise_for_status()
+        for event in r.json().get("events", []):
+            games[event["id"]] = event
+    except requests.exceptions.HTTPError as e:
+        print(f"  ⚠️  Future scoreboard HTTP error, skipping: {e}")
 
     # Past last: week by week from season start to yesterday — overwrites future
     # entries for any game that has since completed, ensuring scores are present
@@ -38,14 +41,17 @@ def fetch_games():
     current = SEASON_START
     while current <= yesterday:
         week_end = min(current + timedelta(days=6), yesterday)
-        r = session.get(
-            f"{BASE_URL}/scoreboard",
-            params={"dates": f"{current.strftime('%Y%m%d')}-{week_end.strftime('%Y%m%d')}", "limit": 50},
-            timeout=10,
-        )
-        r.raise_for_status()
-        for event in r.json().get("events", []):
-            games[event["id"]] = event
+        try:
+            r = session.get(
+                f"{BASE_URL}/scoreboard",
+                params={"dates": f"{current.strftime('%Y%m%d')}-{week_end.strftime('%Y%m%d')}", "limit": 50},
+                timeout=10,
+            )
+            r.raise_for_status()
+            for event in r.json().get("events", []):
+                games[event["id"]] = event
+        except requests.exceptions.HTTPError as e:
+            print(f"  ⚠️  Scoreboard {current}–{week_end} HTTP error, skipping: {e}")
         current += timedelta(days=7)
 
     return list(games.values())
@@ -142,6 +148,10 @@ def main():
     print(f"Fetching WNBA 2026 games from {SEASON_START} to {DATE_TO}...")
     events = fetch_games()
     print(f"  → {len(events)} games fetched")
+
+    if not events:
+        print("  ⚠️  No events returned — skipping write to preserve existing file")
+        return
 
     cal = build_calendar(events)
 

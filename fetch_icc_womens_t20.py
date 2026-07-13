@@ -23,26 +23,32 @@ def fetch_games():
     games = {}
 
     # Full tournament schedule — one call returns all 33 fixtures
-    r = session.get(
-        f"{BASE_URL}/scoreboard",
-        params={"season": SEASON_YEAR, "limit": 100},
-        timeout=10,
-    )
-    r.raise_for_status()
-    for event in r.json().get("events", []):
-        eid = event.get("id")
-        if not eid:
-            continue
-        games[eid] = event
+    try:
+        r = session.get(
+            f"{BASE_URL}/scoreboard",
+            params={"season": SEASON_YEAR, "limit": 100},
+            timeout=10,
+        )
+        r.raise_for_status()
+        for event in r.json().get("events", []):
+            eid = event.get("id")
+            if not eid:
+                continue
+            games[eid] = event
+    except requests.exceptions.HTTPError as e:
+        print(f"  ⚠️  Season scoreboard HTTP error, skipping: {e}")
 
     # Current matchday overwrites — ensures live/today scores are fresh
-    r = session.get(f"{BASE_URL}/scoreboard", timeout=10)
-    r.raise_for_status()
-    for event in r.json().get("events", []):
-        eid = event.get("id")
-        if not eid:
-            continue
-        games[eid] = event
+    try:
+        r = session.get(f"{BASE_URL}/scoreboard", timeout=10)
+        r.raise_for_status()
+        for event in r.json().get("events", []):
+            eid = event.get("id")
+            if not eid:
+                continue
+            games[eid] = event
+    except requests.exceptions.HTTPError as e:
+        print(f"  ⚠️  Current scoreboard HTTP error, skipping: {e}")
 
     return list(games.values())
 
@@ -146,6 +152,10 @@ def main():
     print("Fetching ICC Women's T20 World Cup 2026 fixtures from ESPN...")
     events = fetch_games()
     print(f"  → {len(events)} raw events fetched")
+
+    if not events:
+        print("  ⚠️  No events returned — skipping write to preserve existing file")
+        return
 
     cal, count = build_calendar(events)
 
