@@ -44,7 +44,10 @@ def fetch_all_fixtures():
         )
         r.raise_for_status()
         for event in r.json().get("events", []):
-            games[event["id"]] = event
+            eid = event.get("id")
+            if not eid:
+                continue
+            games[eid] = event
     except requests.exceptions.HTTPError as e:
         print(f"  ⚠️  Season scoreboard HTTP error, skipping: {e}")
 
@@ -53,7 +56,10 @@ def fetch_all_fixtures():
         r = session.get(f"{BASE_URL}/scoreboard", timeout=10)
         r.raise_for_status()
         for event in r.json().get("events", []):
-            games[event["id"]] = event
+            eid = event.get("id")
+            if not eid:
+                continue
+            games[eid] = event
     except requests.exceptions.HTTPError as e:
         print(f"  ⚠️  Current scoreboard HTTP error, skipping: {e}")
 
