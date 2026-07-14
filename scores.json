@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T08:19:50Z",
+  "updated": "2026-07-14T19:36:12Z",
   "competitions": {
     "wnba": {
       "name": "WNBA",
@@ -33,23 +33,24 @@
             "score": 104
           },
           "winner": "away"
-        }
-      ],
-      "livegame": [],
-      "pregame": [
+        },
         {
           "league": "WNBA",
           "home": {
             "name": "Fire",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/por.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/por.png",
+            "score": 87
           },
           "away": {
             "name": "Sun",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/18.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/18.png",
+            "score": 90
           },
-          "kickoff": "2026-07-14T15:00:00Z",
-          "kickoff_label": "in 7h"
-        },
+          "winner": "away"
+        }
+      ],
+      "livegame": [],
+      "pregame": [
         {
           "league": "WNBA",
           "home": {
@@ -61,7 +62,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/tor.png"
           },
           "kickoff": "2026-07-14T23:00:00Z",
-          "kickoff_label": "in 15h"
+          "kickoff_label": "in 3h"
         },
         {
           "league": "WNBA",
@@ -74,7 +75,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/19.png"
           },
           "kickoff": "2026-07-15T16:00:00Z",
-          "kickoff_label": "Tomorrow @ 4pm"
+          "kickoff_label": "in 20h"
         },
         {
           "league": "WNBA",
@@ -87,7 +88,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/8.png"
           },
           "kickoff": "2026-07-15T17:00:00Z",
-          "kickoff_label": "Tomorrow @ 5pm"
+          "kickoff_label": "in 21h"
         },
         {
           "league": "WNBA",
