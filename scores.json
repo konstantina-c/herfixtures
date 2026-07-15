@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T08:25:39Z",
+  "updated": "2026-07-15T19:21:58Z",
   "competitions": {
     "wnba": {
       "name": "WNBA",
@@ -33,36 +33,38 @@
             "score": 62
           },
           "winner": "home"
-        }
-      ],
-      "livegame": [],
-      "pregame": [
+        },
         {
           "league": "WNBA",
           "home": {
             "name": "Storm",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/14.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/14.png",
+            "score": 90
           },
           "away": {
             "name": "Sky",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/19.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/19.png",
+            "score": 95
           },
-          "kickoff": "2026-07-15T16:00:00Z",
-          "kickoff_label": "in 8h"
+          "winner": "away"
         },
         {
           "league": "WNBA",
           "home": {
             "name": "Sparks",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/6.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/6.png",
+            "score": 87
           },
           "away": {
             "name": "Lynx",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/8.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/8.png",
+            "score": 96
           },
-          "kickoff": "2026-07-15T17:00:00Z",
-          "kickoff_label": "in 9h"
-        },
+          "winner": "away"
+        }
+      ],
+      "livegame": [],
+      "pregame": [
         {
           "league": "WNBA",
           "home": {
@@ -74,7 +76,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/5.png"
           },
           "kickoff": "2026-07-16T00:00:00Z",
-          "kickoff_label": "in 16h"
+          "kickoff_label": "in 5h"
         },
         {
           "league": "WNBA",
@@ -174,7 +176,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18206.png"
           },
           "kickoff": "2026-07-15T23:00:00Z",
-          "kickoff_label": "in 15h"
+          "kickoff_label": "in 4h"
         },
         {
           "league": "NWSL",
@@ -187,7 +189,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15364.png"
           },
           "kickoff": "2026-07-16T00:00:00Z",
-          "kickoff_label": "in 16h"
+          "kickoff_label": "in 5h"
         },
         {
           "league": "NWSL",
