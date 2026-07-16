@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Atlanta Dream 91–90 Minnesota Lynx ✓ 🏠
 DTSTART:20260510T000000Z
 DTEND:20260510T023000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401856899-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nAtlanta Dream at Minnesota Lynx\nStatu
  s: Final\nFinal score: Atlanta Dream 91 – Minnesota Lynx 90\nWatch: Atla
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx 88–84 Phoenix Mercury ✓
 DTSTART:20260513T020000Z
 DTEND:20260513T043000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401856902-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nMinnesota Lynx at Phoenix Mercury\nSta
  tus: Final\nFinal score: Minnesota Lynx 88 – Phoenix Mercury 84\nWatch: 
@@ -41,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx 90–86 Dallas Wings ✓
 DTSTART:20260515T000000Z
 DTEND:20260515T023000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401856908-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nMinnesota Lynx at Dallas Wings\nStatus
  : Final\nFinal score: Minnesota Lynx 90 – Dallas Wings 86\nWatch: Prime 
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Sky 86–79 Minnesota Lynx ✓ 🏠
 DTSTART:20260517T230000Z
 DTEND:20260518T013000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401856914-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nChicago Sky at Minnesota Lynx\nStatus:
   Final\nFinal score: Chicago Sky 86 – Minnesota Lynx 79\nWatch: WNBA Lea
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo 72–100 Minnesota Lynx ✓ 🏠
 DTSTART:20260522T000000Z
 DTEND:20260522T023000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401856925-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nToronto Tempo at Minnesota Lynx\nStatu
  s: Final\nFinal score: Toronto Tempo 72 – Minnesota Lynx 100\nWatch: WNB
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx 85–75 Chicago Sky ✓
 DTSTART:20260523T170000Z
 DTEND:20260523T193000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401856930-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nMinnesota Lynx at Chicago Sky\nStatus:
   Final\nFinal score: Minnesota Lynx 85 – Chicago Sky 75\nWatch: CBS · P
@@ -94,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Atlanta Dream 81–96 Minnesota Lynx ✓ 🏠
 DTSTART:20260528T010000Z
 DTEND:20260528T033000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401856940-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nAtlanta Dream at Minnesota Lynx\nStatu
  s: Final\nFinal score: Atlanta Dream 81 – Minnesota Lynx 96\nWatch: USA 
@@ -108,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx 79–58 Chicago Sky ✓
 DTSTART:20260529T233000Z
 DTEND:20260530T020000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401856947-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nMinnesota Lynx at Chicago Sky\nStatus:
   Final\nFinal score: Minnesota Lynx 79 – Chicago Sky 58\nWatch: ION · W
@@ -121,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx 111–77 Phoenix Mercury ✓
 DTSTART:20260602T020000Z
 DTEND:20260602T043000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401856954-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nMinnesota Lynx at Phoenix Mercury\nSta
  tus: Final\nFinal score: Minnesota Lynx 111 – Phoenix Mercury 77\nWatch:
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Golden State Valkyries 84–87 Minnesota Lynx ✓ 🏠
 DTSTART:20260605T010000Z
 DTEND:20260605T033000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401856962-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nGolden State Valkyries at Minnesota Ly
  nx\nStatus: Final\nFinal score: Golden State Valkyries 84 – Minnesota Ly
@@ -148,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Seattle Storm 68–88 Minnesota Lynx ✓ 🏠
 DTSTART:20260606T170000Z
 DTEND:20260606T193000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401856966-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nSeattle Storm at Minnesota Lynx\nStatu
  s: Final\nFinal score: Seattle Storm 68 – Minnesota Lynx 88\nWatch: ABC\
@@ -161,7 +161,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Dallas Wings 76–100 Minnesota Lynx ✓ 🏠
 DTSTART:20260610T000000Z
 DTEND:20260610T023000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401856976-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nDallas Wings at Minnesota Lynx\nStatus
  : Final\nFinal score: Dallas Wings 76 – Minnesota Lynx 100\nWatch: WNBA 
@@ -174,7 +174,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx 97–100 Las Vegas Aces ✓
 DTSTART:20260614T000000Z
 DTEND:20260614T023000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401856987-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nMinnesota Lynx at Las Vegas Aces\nStat
  us: Final\nFinal score: Minnesota Lynx 97 – Las Vegas Aces 100\nWatch: C
@@ -187,7 +187,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire 74–107 Minnesota Lynx ✓ 🏠
 DTSTART:20260616T000000Z
 DTEND:20260616T023000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401856993-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nPortland Fire at Minnesota Lynx\nStatu
  s: Final\nFinal score: Portland Fire 74 – Minnesota Lynx 107\nWatch: WNB
@@ -200,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx 99–83 Los Angeles Sparks ✓
 DTSTART:20260618T020000Z
 DTEND:20260618T043000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401856999-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nMinnesota Lynx at Los Angeles Sparks\n
  Status: Final\nFinal score: Minnesota Lynx 99 – Los Angeles Sparks 83\nW
@@ -214,7 +214,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx 81–75 Golden State Valkyries ✓
 DTSTART:20260620T020000Z
 DTEND:20260620T043000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401857005-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nMinnesota Lynx at Golden State Valkyri
  es\nStatus: Final\nFinal score: Minnesota Lynx 81 – Golden State Valkyri
@@ -227,7 +227,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Washington Mystics 84–79 Minnesota Lynx ✓ 🏠
 DTSTART:20260621T220000Z
 DTEND:20260622T003000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401857010-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nWashington Mystics at Minnesota Lynx\n
  Status: Final\nFinal score: Washington Mystics 84 – Minnesota Lynx 79\nW
@@ -240,7 +240,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx 78–76 Washington Mystics ✓
 DTSTART:20260624T233000Z
 DTEND:20260625T020000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401857018-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nMinnesota Lynx at Washington Mystics\n
  Status: Final\nFinal score: Minnesota Lynx 78 – Washington Mystics 76\nW
@@ -254,7 +254,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx 85–77 Dallas Wings ✓
 DTSTART:20260628T180000Z
 DTEND:20260628T203000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401857030-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nMinnesota Lynx at Dallas Wings\nStatus
  : Final\nFinal score: Minnesota Lynx 85 – Dallas Wings 77\nWatch: CBS ·
@@ -267,7 +267,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx 86–99 New York Liberty ✓
 DTSTART:20260703T233000Z
 DTEND:20260704T020000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401857037-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nMinnesota Lynx at New York Liberty\nSt
  atus: Final\nFinal score: Minnesota Lynx 86 – New York Liberty 99\nWatch
@@ -280,7 +280,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Connecticut Sun 90–89 Minnesota Lynx ✓ 🏠
 DTSTART:20260707T000000Z
 DTEND:20260707T023000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401857044-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nConnecticut Sun at Minnesota Lynx\nSta
  tus: Final\nFinal score: Connecticut Sun 90 – Minnesota Lynx 89\nWatch: 
@@ -294,7 +294,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx 86–80 Connecticut Sun ✓
 DTSTART:20260708T233000Z
 DTEND:20260709T020000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401857049-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nMinnesota Lynx at Connecticut Sun\nSta
  tus: Final\nFinal score: Minnesota Lynx 86 – Connecticut Sun 80\nWatch: 
@@ -307,7 +307,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 New York Liberty 85–90 Minnesota Lynx ✓ 🏠
 DTSTART:20260711T170000Z
 DTEND:20260711T193000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401857057-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nNew York Liberty at Minnesota Lynx\nSt
  atus: Final\nFinal score: New York Liberty 85 – Minnesota Lynx 90\nWatch
@@ -320,7 +320,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Phoenix Mercury 100–104 Minnesota Lynx ✓ 🏠
 DTSTART:20260714T010000Z
 DTEND:20260714T033000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401857065-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nPhoenix Mercury at Minnesota Lynx\nSta
  tus: Final\nFinal score: Phoenix Mercury 100 – Minnesota Lynx 104\nWatch
@@ -334,7 +334,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks 87–96 Minnesota Lynx ✓ 🏠
 DTSTART:20260715T170000Z
 DTEND:20260715T193000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401857069-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nLos Angeles Sparks at Minnesota Lynx\n
  Status: Final\nFinal score: Los Angeles Sparks 87 – Minnesota Lynx 96\nW
@@ -348,7 +348,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Portland Fire @ Minnesota Lynx 🏠
 DTSTART:20260719T000000Z
 DTEND:20260719T023000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401857078-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nPortland Fire at Minnesota Lynx\nStatu
  s: Scheduled\nWatch: WNBA League Pass · Fox 12 Plus · Victory+ MIN\nVenu
@@ -363,7 +363,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx @ Seattle Storm
 DTSTART:20260721T020000Z
 DTEND:20260721T043000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401857085-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nMinnesota Lynx at Seattle Storm\nStatu
  s: Scheduled\nWatch: USA Net · CW Seattle · Prime Video-Seattle · Victo
@@ -378,7 +378,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx @ Seattle Storm
 DTSTART:20260722T190000Z
 DTEND:20260722T213000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401857087-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nMinnesota Lynx at Seattle Storm\nStatu
  s: Scheduled\nWatch: WNBA League Pass · Victory+ MIN · CW Seattle · Pri
@@ -393,7 +393,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Tempo @ Minnesota Lynx 🏠
 DTSTART:20260729T000000Z
 DTEND:20260729T023000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401857093-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nToronto Tempo at Minnesota Lynx\nStatu
  s: Scheduled\nWatch: WNBA League Pass · TSN · Victory+ MIN\nVenue: Targe
@@ -407,7 +407,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx @ Toronto Tempo
 DTSTART:20260730T230000Z
 DTEND:20260731T013000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401857099-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nMinnesota Lynx at Toronto Tempo\nStatu
  s: Scheduled\nWatch: TSN · Victory+ MIN\nVenue: Scotiabank Arena\, Toront
@@ -421,7 +421,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Indiana Fever @ Minnesota Lynx 🏠
 DTSTART:20260802T170000Z
 DTEND:20260802T193000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401857107-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nIndiana Fever at Minnesota Lynx\nStatu
  s: Scheduled\nWatch: ABC\nVenue: Target Center\, Minneapolis\nTickets: htt
@@ -435,7 +435,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Sparks @ Minnesota Lynx 🏠
 DTSTART:20260807T010000Z
 DTEND:20260807T033000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401857120-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nLos Angeles Sparks at Minnesota Lynx\n
  Status: Scheduled\nWatch: Prime Video\nVenue: Target Center\, Minneapolis\
@@ -449,7 +449,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Las Vegas Aces @ Minnesota Lynx 🏠
 DTSTART:20260808T170000Z
 DTEND:20260808T193000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401857125-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nLas Vegas Aces at Minnesota Lynx\nStat
  us: Scheduled\nWatch: CBS · Paramount+\nVenue: Target Center\, Minneapoli
@@ -463,7 +463,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Dallas Wings @ Minnesota Lynx 🏠
 DTSTART:20260809T193000Z
 DTEND:20260809T220000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401857130-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nDallas Wings at Minnesota Lynx\nStatus
  : Scheduled\nWatch: NBC · Peacock\nVenue: Target Center\, Minneapolis\nTi
@@ -477,7 +477,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx @ Portland Fire
 DTSTART:20260813T020000Z
 DTEND:20260813T043000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401857139-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nMinnesota Lynx at Portland Fire\nStatu
  s: Scheduled\nWatch: Fox 12 Plus · Victory+ MIN\nVenue: Moda Center\, Por
@@ -491,7 +491,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx @ Las Vegas Aces
 DTSTART:20260816T000000Z
 DTEND:20260816T023000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401857147-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nMinnesota Lynx at Las Vegas Aces\nStat
  us: Scheduled\nWatch: CBS · Paramount+\nVenue: Michelob ULTRA Arena\, Las
@@ -506,7 +506,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx @ Golden State Valkyries
 DTSTART:20260820T020000Z
 DTEND:20260820T043000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401857157-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nMinnesota Lynx at Golden State Valkyri
  es\nStatus: Scheduled\nWatch: USA Net · KPIX+ · Victory+ MIN\nVenue: Cha
@@ -521,7 +521,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx @ Washington Mystics
 DTSTART:20260821T233000Z
 DTEND:20260822T020000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401857161-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nMinnesota Lynx at Washington Mystics\n
  Status: Scheduled\nWatch: ION\nVenue: CareFirst Arena\, Washington\nTicket
@@ -535,7 +535,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Golden State Valkyries @ Minnesota Lynx 🏠
 DTSTART:20260825T000000Z
 DTEND:20260825T023000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401857171-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nGolden State Valkyries at Minnesota Ly
  nx\nStatus: Scheduled\nWatch: USA Net · Victory+ MIN\nVenue: Target Cente
@@ -549,7 +549,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx @ Atlanta Dream
 DTSTART:20260830T190000Z
 DTEND:20260830T213000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401857186-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nMinnesota Lynx at Atlanta Dream\nStatu
  s: Scheduled\nWatch: NBA TV · Atlanta News First · Victory+ ATL · Victo
@@ -564,7 +564,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 New York Liberty @ Minnesota Lynx 🏠
 DTSTART:20260918T233000Z
 DTEND:20260919T020000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401857196-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nNew York Liberty at Minnesota Lynx\nSt
  atus: Scheduled\nWatch: ION\nVenue: Target Center\, Minneapolis\nTickets: 
@@ -578,7 +578,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx @ Connecticut Sun
 DTSTART:20260920T170000Z
 DTEND:20260920T193000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401857201-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nMinnesota Lynx at Connecticut Sun\nSta
  tus: Scheduled\nWatch: NBC Sports BO · Victory+ MIN\nVenue: Mohegan Sun A
@@ -592,7 +592,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Lynx @ Indiana Fever
 DTSTART:20260923T000000Z
 DTEND:20260923T023000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401857209-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Away Game\nMinnesota Lynx at Indiana Fever\nStatu
  s: Scheduled\nWatch: ESPN\nVenue: Gainbridge Fieldhouse\, Indianapolis\nTi
@@ -606,7 +606,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Indiana Fever @ Minnesota Lynx 🏠
 DTSTART:20260925T000000Z
 DTEND:20260925T023000Z
-DTSTAMP:20260716T082420Z
+DTSTAMP:20260716T192206Z
 UID:wnba-401857217-8@herfixtures.com
 DESCRIPTION:WNBA 2026 · Home Game\nIndiana Fever at Minnesota Lynx\nStatu
  s: Scheduled\nWatch: USA Net · Victory+ MIN\nVenue: Target Center\, Minne
