@@ -9,4 +9,83 @@ X-WR-CALNAME:West Indies — ICC Women's T20 WC 2026 — HerFixtures
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🏏 New Zealand Women v West Indies Women (162/6 / 163/3 (19.5/20
+  ov\, target 163))
+DTSTART:20260613T173000Z
+DTEND:20260613T213000Z
+DTSTAMP:20260717T192009Z
+UID:espn-icc-womens-t20-1490680@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026 · West Indies\nNew Zealand Wom
+ en v West Indies Women\nStatus: Result\nVenue: The Rose Bowl\, Southampton
+ \, Southampton\n\nFixtures by HerFixtures.com — Women's Sports on Your C
+ alendar
+URL:https://www.espn.in/cricket/series/8634/scorecard/1490680/new-zealand-
+ women-vs-west-indies-women-4th-match-group-2-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Scotland Women v West Indies Women (146 (20 ov\, target 154) 
+ / 153/6)
+DTSTART:20260618T173000Z
+DTEND:20260618T213000Z
+DTSTAMP:20260717T192009Z
+UID:espn-icc-womens-t20-1490688@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026 · West Indies\nScotland Women 
+ v West Indies Women\nStatus: Result\nVenue: Headingley\, Leeds\, Leeds\n\n
+ Fixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/scorecard/1490688/scotland-wom
+ en-vs-west-indies-women-12th-match-group-2-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Sri Lanka Women v West Indies Women (98 / 99/5 (16.1/20 ov\, 
+ target 99))
+DTSTART:20260621T093000Z
+DTEND:20260621T133000Z
+DTSTAMP:20260717T192009Z
+UID:espn-icc-womens-t20-1490693@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026 · West Indies\nSri Lanka Women
+  v West Indies Women\nStatus: Result\nVenue: County Ground\, Bristol\, Bri
+ stol\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/scorecard/1490693/sri-lanka-wo
+ men-vs-west-indies-women-17th-match-group-2-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 England Women v West Indies Women (186/7 / 148/5 (20 ov\, tar
+ get 187))
+DTSTART:20260624T173000Z
+DTEND:20260624T213000Z
+DTSTAMP:20260717T192009Z
+UID:espn-icc-womens-t20-1490698@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026 · West Indies\nEngland Women v
+  West Indies Women\nStatus: Result\nVenue: Lord's\, London\, London\n\nFix
+ tures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/scorecard/1490698/england-wome
+ n-vs-west-indies-women-22nd-match-group-2-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Ireland Women v West Indies Women (129/4 (18.1/20 ov\, target
+  129) / 128/7)
+DTSTART:20260627T133000Z
+DTEND:20260627T173000Z
+DTSTAMP:20260717T192009Z
+UID:espn-icc-womens-t20-1490703@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026 · West Indies\nIreland Women v
+  West Indies Women\nStatus: Result\nVenue: County Ground\, Bristol\, Brist
+ ol\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/scorecard/1490703/ireland-wome
+ n-vs-west-indies-women-27th-match-group-2-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Australia Women v West Indies Women (127/2 (13/20 ov\, target
+  126) / 125/7)
+DTSTART:20260630T133000Z
+DTEND:20260630T173000Z
+DTSTAMP:20260717T192009Z
+UID:espn-icc-womens-t20-1490707@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026 · West Indies\nAustralia Women
+  v West Indies Women\nStatus: Result\nVenue: Kennington Oval\, London\, Lo
+ ndon\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/scorecard/1490707/australia-wo
+ men-vs-west-indies-women-1st-semi-final-icc-womens-t20-world-cup-2026
+END:VEVENT
 END:VCALENDAR
