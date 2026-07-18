@@ -23,6 +23,7 @@ OUTPUT_FILE  = "scores.json"
 WNBA_URL     = "https://site.api.espn.com/apis/site/v2/sports/basketball/wnba"
 NWSL_URL     = "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.nwsl"
 ICC_URL      = "https://site.api.espn.com/apis/site/v2/sports/cricket/8634"
+UCL_URL      = "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.wchampions"
 HEADERS      = {"User-Agent": "Mozilla/5.0"}
 TODAY        = datetime.now(timezone.utc).date()
 YESTERDAY    = TODAY - timedelta(days=1)
@@ -160,7 +161,7 @@ def process_league(base_url, label, home_first=False):
     home_first=True:            Home first — no swap. Used for cricket
                                 and other global conventions.
     """
-    sport_path = {"WNBA": "wnba", "NWSL": "soccer"}.get(label, "cricket")
+    sport_path = {"WNBA": "wnba", "NWSL": "soccer", "Women's UCL": "soccer"}.get(label, "cricket")
 
     if label == "WNBA":
         past_events   = fetch_scoreboard(base_url, YESTERDAY, TODAY)
@@ -236,6 +237,7 @@ LEAGUE_CONFIGS = [
     (WNBA_URL, "WNBA",               "basketball", "wnba",           False),
     (NWSL_URL, "NWSL",               "football",   "nwsl",           False),
     (ICC_URL,  "ICC Women's T20 WC", "cricket",    "icc-womens-t20", True),
+    (UCL_URL,  "Women's UCL",        "football",   "ucl-women",      True),
 ]
 
 

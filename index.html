@@ -972,18 +972,18 @@ body {
           </div>
         </div>
 
-        <!-- 4. UCL Women — off-season, buttons disabled -->
-        <div class="feed-card">
+        <!-- 4. UCL Women — state derived from scores.json (ucl-women) -->
+        <div class="feed-card" id="ucl-feed-card">
           <div class="feed-header">
             <div class="feed-icon">⚽</div>
             <div class="feed-info">
-              <div class="feed-badge badge-offseason">New season starts 22 July</div>
+              <div class="feed-badge badge-offseason" id="ucl-feed-badge">New season starts 22 July</div>
               <div class="feed-name">Women's Champions League</div>
-              <div class="feed-meta">UEFA · Europe · 2025/26 season complete</div>
+              <div class="feed-meta" id="ucl-feed-meta">UEFA · Europe · 2026/27 season</div>
             </div>
           </div>
           <div class="feed-divider"></div>
-          <div class="feed-actions">
+          <div class="feed-actions" id="ucl-feed-actions">
             <span class="btn-cal-disabled">Add to Google</span>
             <span class="btn-cal-disabled">Add to Apple</span>
           </div>
@@ -1886,9 +1886,27 @@ const DEMO = {
   },
 };
 
+function updateUCLCard(data) {
+  const ucl = (data.competitions || {})['ucl-women'];
+  const hasData = ucl && (
+    (ucl.postgame || []).length > 0 ||
+    (ucl.livegame || []).length > 0 ||
+    (ucl.pregame  || []).length > 0
+  );
+  if (!hasData) return;
+  const badge   = document.getElementById('ucl-feed-badge');
+  const actions = document.getElementById('ucl-feed-actions');
+  badge.className   = 'feed-badge badge-live';
+  badge.textContent = 'Season in progress';
+  actions.innerHTML =
+    `<button class="btn-cal" onclick="handleCalendarClick(event,'https://calendar.google.com/calendar/r?cid=webcal://herfixtures.vercel.app/womens_ucl.ics','UCL Women','google')">Add to Google</button>` +
+    `<button class="btn-cal" onclick="handleCalendarClick(event,'webcal://herfixtures.vercel.app/womens_ucl.ics','UCL Women','apple')">Add to Apple</button>`;
+}
+
 fetch('/scores.json')
   .then(r => { if (!r.ok) throw 0; return r.json(); })
-  .then(render).catch(() => render(DEMO));
+  .then(data => { render(data); updateUCLCard(data); })
+  .catch(() => render(DEMO));
 
 /* ── Controls ─────────────────────────────────────────── */
 function toggleTheme() {
