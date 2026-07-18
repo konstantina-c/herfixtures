@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T08:02:47Z",
+  "updated": "2026-07-18T13:39:41Z",
   "competitions": {
     "wnba": {
       "name": "WNBA",
@@ -76,7 +76,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/5.png"
           },
           "kickoff": "2026-07-19T00:00:00Z",
-          "kickoff_label": "in 16h"
+          "kickoff_label": "in 10h"
         },
         {
           "league": "WNBA",
@@ -89,7 +89,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/8.png"
           },
           "kickoff": "2026-07-19T00:00:00Z",
-          "kickoff_label": "in 16h"
+          "kickoff_label": "in 10h"
         },
         {
           "league": "WNBA",
@@ -102,7 +102,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/gs.png"
           },
           "kickoff": "2026-07-19T00:30:00Z",
-          "kickoff_label": "in 16h"
+          "kickoff_label": "in 11h"
         },
         {
           "league": "WNBA",
@@ -230,7 +230,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15364.png"
           },
           "kickoff": "2026-07-18T16:00:00Z",
-          "kickoff_label": "in 8h"
+          "kickoff_label": "in 2h"
         },
         {
           "league": "NWSL",
@@ -243,7 +243,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131563.png"
           },
           "kickoff": "2026-07-18T18:00:00Z",
-          "kickoff_label": "in 10h"
+          "kickoff_label": "in 4h"
         },
         {
           "league": "NWSL",
@@ -256,7 +256,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22187.png"
           },
           "kickoff": "2026-07-18T20:00:00Z",
-          "kickoff_label": "in 12h"
+          "kickoff_label": "in 6h"
         },
         {
           "league": "NWSL",
@@ -269,7 +269,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15360.png"
           },
           "kickoff": "2026-07-18T22:30:00Z",
-          "kickoff_label": "in 14h"
+          "kickoff_label": "in 9h"
         },
         {
           "league": "NWSL",
@@ -282,7 +282,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20905.png"
           },
           "kickoff": "2026-07-19T00:00:00Z",
-          "kickoff_label": "in 16h"
+          "kickoff_label": "in 10h"
         },
         {
           "league": "NWSL",
@@ -295,7 +295,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19141.png"
           },
           "kickoff": "2026-07-19T00:45:00Z",
-          "kickoff_label": "in 17h"
+          "kickoff_label": "in 11h"
         },
         {
           "league": "NWSL",
@@ -316,6 +316,14 @@
       "name": "ICC Women's T20 WC",
       "sport": "cricket",
       "slug": "icc-womens-t20",
+      "postgame": [],
+      "livegame": [],
+      "pregame": []
+    },
+    "ucl-women": {
+      "name": "Women's UCL",
+      "sport": "football",
+      "slug": "ucl-women",
       "postgame": [],
       "livegame": [],
       "pregame": []
