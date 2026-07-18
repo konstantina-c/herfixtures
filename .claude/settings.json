@@ -1,0 +1,31 @@
+{
+  "permissions": {
+    "deny": [
+      "Bash(git push*)",
+      "Bash(git reset --hard*)",
+      "Bash(git clean*)",
+      "Bash(git rebase*)",
+      "Bash(gh pr merge*)",
+      "Bash(rm -rf*)",
+      "Bash(rm *)",
+      "Bash(sudo*)"
+    ],
+    "ask": [
+      "Write(**)",
+      "Edit(**)",
+      "Bash(git commit*)",
+      "Bash(git add*)",
+      "Bash(curl*)",
+      "Bash(python3 -c*)"
+    ],
+    "allow": [
+      "Bash(git status*)",
+      "Bash(git diff*)",
+      "Bash(git log*)",
+      "Bash(git branch*)",
+      "Bash(gh api*)",
+      "Bash(gh pr view*)",
+      "Bash(gh run list*)"
+    ]
+  }
+}
