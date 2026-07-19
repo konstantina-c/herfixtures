@@ -10,10 +10,23 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
+SUMMARY:⚽ Angel City FC @ Chicago Stars FC (2–0)
+DTSTART:20260718T223000Z
+DTEND:20260719T003000Z
+DTSTAMP:20260719T082802Z
+UID:espn-nwsl-401853944@herfixtures.com
+DESCRIPTION:NWSL 2026 · Angel City FC\nAngel City FC at Chicago Stars FC\
+ nStatus: Full Time\nVenue: Northwestern Medicine Field at Martin Stadium\,
+  Evanston\n\nFixtures by HerFixtures.com — Women's Sports on Your Calend
+ ar
+URL:https://www.espn.com/soccer/match/_/gameId/401853944/angel-city-fc-chi
+ cago-stars-fc
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:⚽ Angel City FC @ San Diego Wave FC (2–0)
 DTSTART:20260712T004500Z
 DTEND:20260712T024500Z
-DTSTAMP:20260718T191309Z
+DTSTAMP:20260719T082802Z
 UID:espn-nwsl-401853938@herfixtures.com
 DESCRIPTION:NWSL 2026 · Angel City FC\nAngel City FC at San Diego Wave FC
  \nStatus: Full Time\nVenue: Snapdragon Stadium\, San Diego\, California\n\
@@ -25,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Orlando Pride @ Angel City FC (0–2)
 DTSTART:20260704T020000Z
 DTEND:20260704T040000Z
-DTSTAMP:20260718T191309Z
+DTSTAMP:20260719T082802Z
 UID:espn-nwsl-401853929@herfixtures.com
 DESCRIPTION:NWSL 2026 · Angel City FC\nOrlando Pride at Angel City FC\nSt
  atus: Full Time\nVenue: BMO Stadium\, Los Angeles\, California\n\nFixtures
@@ -37,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ North Carolina Courage @ Angel City FC (2–1)
 DTSTART:20260531T230000Z
 DTEND:20260601T010000Z
-DTSTAMP:20260718T191309Z
+DTSTAMP:20260719T082802Z
 UID:espn-nwsl-401853927@herfixtures.com
 DESCRIPTION:NWSL 2026 · Angel City FC\nNorth Carolina Courage at Angel Ci
  ty FC\nStatus: Full Time\nVenue: BMO Stadium\, Los Angeles\, California\n\
@@ -49,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Angel City FC @ Houston Dash (1–2)
 DTSTART:20260524T004500Z
 DTEND:20260524T024500Z
-DTSTAMP:20260718T191309Z
+DTSTAMP:20260719T082802Z
 UID:espn-nwsl-401853918@herfixtures.com
 DESCRIPTION:NWSL 2026 · Angel City FC\nAngel City FC at Houston Dash\nSta
  tus: Full Time\nVenue: Shell Energy Stadium\, Houston\, Texas\n\nFixtures 
@@ -61,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Kansas City Current @ Angel City FC (1–2)
 DTSTART:20260521T020000Z
 DTEND:20260521T040000Z
-DTSTAMP:20260718T191309Z
+DTSTAMP:20260719T082802Z
 UID:espn-nwsl-401853916@herfixtures.com
 DESCRIPTION:NWSL 2026 · Angel City FC\nKansas City Current at Angel City 
  FC\nStatus: Full Time\nVenue: BMO Stadium\, Los Angeles\, California\n\nFi
@@ -73,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Angel City FC @ Portland Thorns FC (0–0)
 DTSTART:20260517T220000Z
 DTEND:20260518T000000Z
-DTSTAMP:20260718T191309Z
+DTSTAMP:20260719T082802Z
 UID:espn-nwsl-401853912@herfixtures.com
 DESCRIPTION:NWSL 2026 · Angel City FC\nAngel City FC at Portland Thorns F
  C\nStatus: Full Time\nVenue: Providence Park\, Portland\, Oregon\n\nFixtur
@@ -85,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Diego Wave FC @ Angel City FC (2–1)
 DTSTART:20260510T004500Z
 DTEND:20260510T024500Z
-DTSTAMP:20260718T191309Z
+DTSTAMP:20260719T082802Z
 UID:espn-nwsl-401853904@herfixtures.com
 DESCRIPTION:NWSL 2026 · Angel City FC\nSan Diego Wave FC at Angel City FC
  \nStatus: Full Time\nVenue: BMO Stadium\, Los Angeles\, California\n\nFixt
@@ -97,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Utah Royals @ Angel City FC (1–0)
 DTSTART:20260503T004500Z
 DTEND:20260503T024500Z
-DTSTAMP:20260718T191309Z
+DTSTAMP:20260719T082802Z
 UID:espn-nwsl-401853897@herfixtures.com
 DESCRIPTION:NWSL 2026 · Angel City FC\nUtah Royals at Angel City FC\nStat
  us: Full Time\nVenue: BMO Stadium\, Los Angeles\, California\n\nFixtures b
@@ -109,7 +122,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Portland Thorns FC @ Angel City FC (2–1)
 DTSTART:20260426T220000Z
 DTEND:20260427T000000Z
-DTSTAMP:20260718T191309Z
+DTSTAMP:20260719T082802Z
 UID:espn-nwsl-401853889@herfixtures.com
 DESCRIPTION:NWSL 2026 · Angel City FC\nPortland Thorns FC at Angel City F
  C\nStatus: Full Time\nVenue: BMO Stadium\, Los Angeles\, California\n\nFix
@@ -121,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Angel City FC @ Orlando Pride (1–2)
 DTSTART:20260404T000000Z
 DTEND:20260404T020000Z
-DTSTAMP:20260718T191309Z
+DTSTAMP:20260719T082802Z
 UID:espn-nwsl-401853879@herfixtures.com
 DESCRIPTION:NWSL 2026 · Angel City FC\nAngel City FC at Orlando Pride\nSt
  atus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\n\nFixtures b
@@ -133,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Houston Dash @ Angel City FC (1–2)
 DTSTART:20260328T020000Z
 DTEND:20260328T040000Z
-DTSTAMP:20260718T191309Z
+DTSTAMP:20260719T082802Z
 UID:espn-nwsl-401853873@herfixtures.com
 DESCRIPTION:NWSL 2026 · Angel City FC\nHouston Dash at Angel City FC\nSta
  tus: Full Time\nVenue: BMO Stadium\, Los Angeles\, California\n\nFixtures 
@@ -145,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Angel City FC @ Bay FC (3–1)
 DTSTART:20260322T004500Z
 DTEND:20260322T024500Z
-DTSTAMP:20260718T191309Z
+DTSTAMP:20260719T082802Z
 UID:espn-nwsl-401853866@herfixtures.com
 DESCRIPTION:NWSL 2026 · Angel City FC\nAngel City FC at Bay FC\nStatus: F
  ull Time\nVenue: PayPal Park\, San Jose\, California\n\nFixtures by HerFix
@@ -157,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Chicago Stars FC @ Angel City FC (0–4)
 DTSTART:20260315T230000Z
 DTEND:20260316T010000Z
-DTSTAMP:20260718T191309Z
+DTSTAMP:20260719T082802Z
 UID:espn-nwsl-401853862@herfixtures.com
 DESCRIPTION:NWSL 2026 · Angel City FC\nChicago Stars FC at Angel City FC\
  nStatus: Full Time\nVenue: BMO Stadium\, Los Angeles\, California\n\nFixtu
