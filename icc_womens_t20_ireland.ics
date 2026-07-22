@@ -9,4 +9,69 @@ X-WR-CALNAME:Ireland — ICC Women's T20 WC 2026 — HerFixtures
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🏏 Ireland Women v Scotland Women (121 (19.1/20 ov\, target 162)
+  / 161/5)
+DTSTART:20260613T093000Z
+DTEND:20260613T133000Z
+DTSTAMP:20260722T083810Z
+UID:espn-icc-womens-t20-1490678@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026 · Ireland\nIreland Women v Sco
+ tland Women\nStatus: Result\nVenue: Old Trafford\, Manchester\, Manchester
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/scorecard/1490678/ireland-wome
+ n-vs-scotland-women-2nd-match-group-2-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 England Women v Ireland Women (119/6 (17.3/20 ov\, target 119
+ ) / 118/9)
+DTSTART:20260616T173000Z
+DTEND:20260616T213000Z
+DTSTAMP:20260722T083810Z
+UID:espn-icc-womens-t20-1490684@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026 · Ireland\nEngland Women v Ire
+ land Women\nStatus: Result\nVenue: The Rose Bowl\, Southampton\, Southampt
+ on\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/scorecard/1490684/england-wome
+ n-vs-ireland-women-8th-match-group-2-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Ireland Women v New Zealand Women (136/4 (20 ov\, target 141)
+  / 140/6)
+DTSTART:20260619T173000Z
+DTEND:20260619T213000Z
+DTSTAMP:20260722T083810Z
+UID:espn-icc-womens-t20-1490689@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026 · Ireland\nIreland Women v New
+  Zealand Women\nStatus: Result\nVenue: The Rose Bowl\, Southampton\, South
+ ampton\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/scorecard/1490689/ireland-wome
+ n-vs-new-zealand-women-13th-match-group-2-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Ireland Women v Sri Lanka Women (130/5 / 134/1 (15.3/20 ov\, 
+ target 131))
+DTSTART:20260623T133000Z
+DTEND:20260623T173000Z
+DTSTAMP:20260722T083810Z
+UID:espn-icc-womens-t20-1490696@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026 · Ireland\nIreland Women v Sri
+  Lanka Women\nStatus: Result\nVenue: County Ground\, Bristol\, Bristol\n\n
+ Fixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/scorecard/1490696/ireland-wome
+ n-vs-sri-lanka-women-20th-match-group-2-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Ireland Women v West Indies Women (129/4 (18.1/20 ov\, target
+  129) / 128/7)
+DTSTART:20260627T133000Z
+DTEND:20260627T173000Z
+DTSTAMP:20260722T083810Z
+UID:espn-icc-womens-t20-1490703@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026 · Ireland\nIreland Women v Wes
+ t Indies Women\nStatus: Result\nVenue: County Ground\, Bristol\, Bristol\n
+ \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/scorecard/1490703/ireland-wome
+ n-vs-west-indies-women-27th-match-group-2-icc-womens-t20-world-cup-2026
+END:VEVENT
 END:VCALENDAR

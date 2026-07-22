@@ -10,11 +10,91 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
+SUMMARY:🏏 Australia Women v South Africa Women (172/8 / 107 (16.4/20 ov
+ \, target 173))
+DTSTART:20260613T133000Z
+DTEND:20260613T173000Z
+DTSTAMP:20260722T083810Z
+UID:espn-icc-womens-t20-1490679@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026 · Australia\nAustralia Women v
+  South Africa Women\nStatus: Result\nVenue: Old Trafford\, Manchester\, Ma
+ nchester\n\nFixtures by HerFixtures.com — Women's Sports on Your Calenda
+ r
+URL:https://www.espn.in/cricket/series/8634/scorecard/1490679/australia-wo
+ men-vs-south-africa-women-3rd-match-group-1-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Australia Women v Bangladesh Women (78/1 (9.3/20 ov\, target 
+ 78) / 77/8)
+DTSTART:20260617T093000Z
+DTEND:20260617T133000Z
+DTSTAMP:20260722T083810Z
+UID:espn-icc-womens-t20-1490685@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026 · Australia\nAustralia Women v
+  Bangladesh Women\nStatus: Result\nVenue: Headingley\, Leeds\, Leeds\n\nFi
+ xtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/scorecard/1490685/australia-wo
+ men-vs-bangladesh-women-9th-match-group-1-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Australia Women v Netherlands Women (219/6 / 121/3 (20 ov\, t
+ arget 220))
+DTSTART:20260620T093000Z
+DTEND:20260620T133000Z
+DTSTAMP:20260722T083810Z
+UID:espn-icc-womens-t20-1490690@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026 · Australia\nAustralia Women v
+  Netherlands Women\nStatus: Result\nVenue: The Rose Bowl\, Southampton\, S
+ outhampton\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
+ dar
+URL:https://www.espn.in/cricket/series/8634/scorecard/1490690/australia-wo
+ men-vs-netherlands-women-14th-match-group-1-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Australia Women v Pakistan Women (199/7 / 86 (13.4/20 ov\, ta
+ rget 200))
+DTSTART:20260623T173000Z
+DTEND:20260623T213000Z
+DTSTAMP:20260722T083810Z
+UID:espn-icc-womens-t20-1490697@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026 · Australia\nAustralia Women v
+  Pakistan Women\nStatus: Result\nVenue: Headingley\, Leeds\, Leeds\n\nFixt
+ ures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/scorecard/1490697/australia-wo
+ men-vs-pakistan-women-21st-match-group-1-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Australia Women v India Women (172/4 (19/20 ov\, target 171) 
+ / 170/4)
+DTSTART:20260628T133000Z
+DTEND:20260628T173000Z
+DTSTAMP:20260722T083810Z
+UID:espn-icc-womens-t20-1490706@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026 · Australia\nAustralia Women v
+  India Women\nStatus: Result\nVenue: Lord's\, London\, London\n\nFixtures 
+ by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/scorecard/1490706/australia-wo
+ men-vs-india-women-30th-match-group-1-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 Australia Women v West Indies Women (127/2 (13/20 ov\, target
+  126) / 125/7)
+DTSTART:20260630T133000Z
+DTEND:20260630T173000Z
+DTSTAMP:20260722T083810Z
+UID:espn-icc-womens-t20-1490707@herfixtures.com
+DESCRIPTION:ICC Women's T20 World Cup 2026 · Australia\nAustralia Women v
+  West Indies Women\nStatus: Result\nVenue: Kennington Oval\, London\, Lond
+ on\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.in/cricket/series/8634/scorecard/1490707/australia-wo
+ men-vs-west-indies-women-1st-semi-final-icc-womens-t20-world-cup-2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏏 England Women v Australia Women (150/4 / 153/3 (17.1/20 ov\, 
  target 151))
 DTSTART:20260705T143000Z
 DTEND:20260705T183000Z
-DTSTAMP:20260721T194115Z
+DTSTAMP:20260722T083810Z
 UID:espn-icc-womens-t20-1490709@herfixtures.com
 DESCRIPTION:ICC Women's T20 World Cup 2026 · Australia\nEngland Women v A
  ustralia Women\nStatus: Result\nVenue: Lord's\, London\, London\n\nFixture
