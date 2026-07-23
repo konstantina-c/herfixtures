@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Diego Wave FC @ Kansas City Current (2–2)
 DTSTART:20260718T000000Z
 DTEND:20260718T020000Z
-DTSTAMP:20260723T083959Z
+DTSTAMP:20260723T193537Z
 UID:espn-nwsl-401853941@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nSan Diego Wave FC at Kansas 
  City Current\nStatus: Full Time\nVenue: CPKC Stadium\, Kansas City\, Misso
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Kansas City Current @ Orlando Pride (0–3)
 DTSTART:20260711T010300Z
 DTEND:20260711T030300Z
-DTSTAMP:20260723T083959Z
+DTSTAMP:20260723T193537Z
 UID:espn-nwsl-401853934@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nKansas City Current at Orlan
  do Pride\nStatus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\n
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Kansas City Current @ Denver Summit FC (3–0)
 DTSTART:20260704T013000Z
 DTEND:20260704T033000Z
-DTSTAMP:20260723T083959Z
+DTSTAMP:20260723T193537Z
 UID:espn-nwsl-401854061@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nKansas City Current at Denve
  r Summit FC\nStatus: Full Time\nVenue: Dick's Sporting Goods Park\, Commer
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Boston Legacy FC @ Kansas City Current (0–1)
 DTSTART:20260530T173000Z
 DTEND:20260530T193000Z
-DTSTAMP:20260723T083959Z
+DTSTAMP:20260723T193537Z
 UID:espn-nwsl-401854060@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nBoston Legacy FC at Kansas C
  ity Current\nStatus: Full Time\nVenue: CPKC Stadium\, Kansas City\, Missou
@@ -62,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Portland Thorns FC @ Kansas City Current (1–3)
 DTSTART:20260524T170000Z
 DTEND:20260524T190000Z
-DTSTAMP:20260723T083959Z
+DTSTAMP:20260723T193537Z
 UID:espn-nwsl-401853919@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nPortland Thorns FC at Kansas
   City Current\nStatus: Full Time\nVenue: CPKC Stadium\, Kansas City\, Miss
@@ -74,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Kansas City Current @ Angel City FC (1–2)
 DTSTART:20260521T020000Z
 DTEND:20260521T040000Z
-DTSTAMP:20260723T083959Z
+DTSTAMP:20260723T193537Z
 UID:espn-nwsl-401853916@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nKansas City Current at Angel
   City FC\nStatus: Full Time\nVenue: BMO Stadium\, Los Angeles\, California
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Houston Dash @ Kansas City Current (0–3)
 DTSTART:20260516T000000Z
 DTEND:20260516T020000Z
-DTSTAMP:20260723T083959Z
+DTSTAMP:20260723T193537Z
 UID:espn-nwsl-401853908@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nHouston Dash at Kansas City 
  Current\nStatus: Full Time\nVenue: CPKC Stadium\, Kansas City\, Missouri\n
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Chicago Stars FC @ Kansas City Current (0–3)
 DTSTART:20260510T162500Z
 DTEND:20260510T182500Z
-DTSTAMP:20260723T083959Z
+DTSTAMP:20260723T193537Z
 UID:espn-nwsl-401853905@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nChicago Stars FC at Kansas C
  ity Current\nStatus: Full Time\nVenue: CPKC Stadium\, Kansas City\, Missou
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Kansas City Current @ North Carolina Courage (2–1)
 DTSTART:20260502T223000Z
 DTEND:20260503T003000Z
-DTSTAMP:20260723T083959Z
+DTSTAMP:20260723T193537Z
 UID:espn-nwsl-401853896@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nKansas City Current at North
   Carolina Courage\nStatus: Full Time\nVenue: WakeMed Soccer Park\, Cary\, 
@@ -123,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Kansas City Current @ Washington Spirit (0–4)
 DTSTART:20260425T000000Z
 DTEND:20260425T020000Z
-DTSTAMP:20260723T083959Z
+DTSTAMP:20260723T193537Z
 UID:espn-nwsl-401853886@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nKansas City Current at Washi
  ngton Spirit\nStatus: Full Time\nVenue: Audi Field\, Washington\, District
@@ -136,7 +136,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Gotham FC @ Kansas City Current (1–2)
 DTSTART:20260404T200000Z
 DTEND:20260404T220000Z
-DTSTAMP:20260723T083959Z
+DTSTAMP:20260723T193537Z
 UID:espn-nwsl-401853882@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nGotham FC at Kansas City Cur
  rent\nStatus: Full Time\nVenue: CPKC Stadium\, Kansas City\, Missouri\n\nF
@@ -148,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Kansas City Current @ Portland Thorns FC (0–2)
 DTSTART:20260328T200000Z
 DTEND:20260328T220000Z
-DTSTAMP:20260723T083959Z
+DTSTAMP:20260723T193537Z
 UID:espn-nwsl-401853874@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nKansas City Current at Portl
  and Thorns FC\nStatus: Full Time\nVenue: Providence Park\, Portland\, Oreg
@@ -160,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Kansas City Current @ Seattle Reign FC (0–3)
 DTSTART:20260326T010000Z
 DTEND:20260326T030000Z
-DTSTAMP:20260723T083959Z
+DTSTAMP:20260723T193537Z
 UID:espn-nwsl-401853871@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nKansas City Current at Seatt
  le Reign FC\nStatus: Full Time\nVenue: ONE Spokane Stadium\, Spokane\, Was
@@ -172,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Kansas City Current @ Chicago Stars FC (1–2)
 DTSTART:20260322T180000Z
 DTEND:20260322T200000Z
-DTSTAMP:20260723T083959Z
+DTSTAMP:20260723T193537Z
 UID:espn-nwsl-401853867@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nKansas City Current at Chica
  go Stars FC\nStatus: Full Time\nVenue: Northwestern Medicine Field at Mart
@@ -185,7 +185,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Utah Royals @ Kansas City Current (1–2)
 DTSTART:20260314T200000Z
 DTEND:20260314T220000Z
-DTSTAMP:20260723T083959Z
+DTSTAMP:20260723T193537Z
 UID:espn-nwsl-401853858@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nUtah Royals at Kansas City C
  urrent\nStatus: Full Time\nVenue: CPKC Stadium\, Kansas City\, Missouri\n\
