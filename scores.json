@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T19:39:23Z",
+  "updated": "2026-07-25T08:16:48Z",
   "competitions": {
     "wnba": {
       "name": "WNBA",
@@ -19,7 +19,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/133384.png"
           },
           "kickoff": "2026-07-26T00:30:00Z",
-          "kickoff_label": "Saturday @ 12:30am"
+          "kickoff_label": "in 16h"
         }
       ]
     },
@@ -27,48 +27,52 @@
       "name": "NWSL",
       "sport": "football",
       "slug": "nwsl",
-      "postgame": [],
-      "livegame": [],
-      "pregame": [
+      "postgame": [
         {
           "league": "NWSL",
           "home": {
             "name": "Bay",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22187.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22187.png",
+            "score": 0
           },
           "away": {
             "name": "Houston",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17346.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17346.png",
+            "score": 1
           },
-          "kickoff": "2026-07-25T00:00:00Z",
-          "kickoff_label": "in 4h"
+          "winner": "away"
         },
         {
           "league": "NWSL",
           "home": {
             "name": "Chicago",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15360.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15360.png",
+            "score": 0
           },
           "away": {
             "name": "Orlando",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18206.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18206.png",
+            "score": 1
           },
-          "kickoff": "2026-07-25T00:00:00Z",
-          "kickoff_label": "in 4h"
+          "winner": "away"
         },
         {
           "league": "NWSL",
           "home": {
             "name": "Gotham",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15364.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15364.png",
+            "score": 2
           },
           "away": {
             "name": "Portland",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15362.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15362.png",
+            "score": 2
           },
-          "kickoff": "2026-07-25T02:00:00Z",
-          "kickoff_label": "in 6h"
-        },
+          "winner": "away"
+        }
+      ],
+      "livegame": [],
+      "pregame": [
         {
           "league": "NWSL",
           "home": {
@@ -80,7 +84,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131562.png"
           },
           "kickoff": "2026-07-25T21:00:00Z",
-          "kickoff_label": "Tomorrow @ 9pm"
+          "kickoff_label": "in 13h"
         },
         {
           "league": "NWSL",
@@ -93,7 +97,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15366.png"
           },
           "kickoff": "2026-07-25T23:45:00Z",
-          "kickoff_label": "Tomorrow @ 11:45pm"
+          "kickoff_label": "in 15h"
         },
         {
           "league": "NWSL",
@@ -106,7 +110,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21423.png"
           },
           "kickoff": "2026-07-26T21:00:00Z",
-          "kickoff_label": "Saturday @ 9pm"
+          "kickoff_label": "Tomorrow @ 9pm"
         },
         {
           "league": "NWSL",
@@ -119,7 +123,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15365.png"
           },
           "kickoff": "2026-07-26T23:00:00Z",
-          "kickoff_label": "Saturday @ 11pm"
+          "kickoff_label": "Tomorrow @ 11pm"
         },
         {
           "league": "NWSL",
