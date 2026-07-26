@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T08:34:55Z",
+  "updated": "2026-07-26T19:21:11Z",
   "competitions": {
     "wnba": {
       "name": "WNBA",
@@ -137,7 +137,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21423.png"
           },
           "kickoff": "2026-07-26T21:00:00Z",
-          "kickoff_label": "in 12h"
+          "kickoff_label": "in 2h"
         },
         {
           "league": "NWSL",
@@ -150,7 +150,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15365.png"
           },
           "kickoff": "2026-07-26T23:00:00Z",
-          "kickoff_label": "in 14h"
+          "kickoff_label": "in 4h"
         },
         {
           "league": "NWSL",
@@ -163,7 +163,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21422.png"
           },
           "kickoff": "2026-07-27T01:00:00Z",
-          "kickoff_label": "in 16h"
+          "kickoff_label": "in 6h"
         }
       ]
     },
