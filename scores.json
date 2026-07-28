@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T19:44:47Z",
+  "updated": "2026-07-28T08:45:31Z",
   "competitions": {
     "wnba": {
       "name": "WNBA",
@@ -19,7 +19,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/16.png"
           },
           "kickoff": "2026-07-28T23:30:00Z",
-          "kickoff_label": "Tomorrow @ 11:30pm"
+          "kickoff_label": "in 15h"
         },
         {
           "league": "WNBA",
@@ -32,7 +32,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/8.png"
           },
           "kickoff": "2026-07-29T00:00:00Z",
-          "kickoff_label": "Tuesday @ midnight"
+          "kickoff_label": "in 15h"
         },
         {
           "league": "WNBA",
@@ -45,7 +45,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/14.png"
           },
           "kickoff": "2026-07-29T01:30:00Z",
-          "kickoff_label": "Tuesday @ 1:30am"
+          "kickoff_label": "in 17h"
         },
         {
           "league": "WNBA",
@@ -58,7 +58,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/17.png"
           },
           "kickoff": "2026-07-29T02:00:00Z",
-          "kickoff_label": "Tuesday @ 2am"
+          "kickoff_label": "in 17h"
         },
         {
           "league": "WNBA",
@@ -71,7 +71,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/6.png"
           },
           "kickoff": "2026-07-29T02:00:00Z",
-          "kickoff_label": "Tuesday @ 2am"
+          "kickoff_label": "in 17h"
         },
         {
           "league": "WNBA",
@@ -98,6 +98,45 @@
           },
           "kickoff": "2026-07-30T02:00:00Z",
           "kickoff_label": "Wednesday @ 2am"
+        },
+        {
+          "league": "WNBA",
+          "home": {
+            "name": "Lynx",
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/8.png"
+          },
+          "away": {
+            "name": "Tempo",
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/tor.png"
+          },
+          "kickoff": "2026-07-31T00:00:00Z",
+          "kickoff_label": "Thursday @ midnight"
+        },
+        {
+          "league": "WNBA",
+          "home": {
+            "name": "Sun",
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/18.png"
+          },
+          "away": {
+            "name": "Sky",
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/19.png"
+          },
+          "kickoff": "2026-07-31T00:00:00Z",
+          "kickoff_label": "Thursday @ midnight"
+        },
+        {
+          "league": "WNBA",
+          "home": {
+            "name": "Liberty",
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/9.png"
+          },
+          "away": {
+            "name": "Aces",
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/17.png"
+          },
+          "kickoff": "2026-07-31T02:00:00Z",
+          "kickoff_label": "Thursday @ 2am"
         }
       ]
     },
@@ -105,50 +144,7 @@
       "name": "NWSL",
       "sport": "football",
       "slug": "nwsl",
-      "postgame": [
-        {
-          "league": "NWSL",
-          "home": {
-            "name": "Seattle",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15363.png",
-            "score": 2
-          },
-          "away": {
-            "name": "San Diego",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21423.png",
-            "score": 0
-          },
-          "winner": "home"
-        },
-        {
-          "league": "NWSL",
-          "home": {
-            "name": "Denver",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131563.png",
-            "score": 0
-          },
-          "away": {
-            "name": "Washington",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15365.png",
-            "score": 1
-          },
-          "winner": "away"
-        },
-        {
-          "league": "NWSL",
-          "home": {
-            "name": "Louisville",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20905.png",
-            "score": 2
-          },
-          "away": {
-            "name": "Angel City",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21422.png",
-            "score": 1
-          },
-          "winner": "home"
-        }
-      ],
+      "postgame": [],
       "livegame": [],
       "pregame": [
         {
