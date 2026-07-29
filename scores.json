@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T08:50:12Z",
+  "updated": "2026-07-29T19:26:50Z",
   "competitions": {
     "wnba": {
       "name": "WNBA",
@@ -90,7 +90,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/3.png"
           },
           "kickoff": "2026-07-30T00:00:00Z",
-          "kickoff_label": "in 15h"
+          "kickoff_label": "in 5h"
         },
         {
           "league": "WNBA",
@@ -103,7 +103,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/11.png"
           },
           "kickoff": "2026-07-30T02:00:00Z",
-          "kickoff_label": "in 17h"
+          "kickoff_label": "in 7h"
         },
         {
           "league": "WNBA",
@@ -203,7 +203,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20907.png"
           },
           "kickoff": "2026-07-30T00:00:00Z",
-          "kickoff_label": "in 15h"
+          "kickoff_label": "in 5h"
         },
         {
           "league": "NWSL",
@@ -216,7 +216,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19141.png"
           },
           "kickoff": "2026-07-30T01:00:00Z",
-          "kickoff_label": "in 16h"
+          "kickoff_label": "in 6h"
         },
         {
           "league": "NWSL",
@@ -229,7 +229,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22187.png"
           },
           "kickoff": "2026-07-30T02:00:00Z",
-          "kickoff_label": "in 17h"
+          "kickoff_label": "in 7h"
         },
         {
           "league": "NWSL",
