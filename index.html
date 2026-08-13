@@ -473,6 +473,14 @@ body {
     background: rgba(7, 62, 227, 0.18);
   }
 
+  @keyframes cardEnter {
+    from { opacity: 0; transform: translateY(10px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+  #live-page .feed-card.is-entering {
+    animation: cardEnter 0.28s ease both;
+  }
+
   #live-page .feed-divider { height: 1px; background: var(--border); margin: 0 20px; transition: background 0.4s; }
   #live-page .feed-anticipation {
     font-size: 12px; color: var(--muted); line-height: 1.5;
@@ -1718,18 +1726,47 @@ function openFrauenBLModal() { FeedModal.open(FRAUEN_BL_CONFIG); }
 
 /* ── Sport filter pills ──────────────────────────────────────────────────── */
 (function () {
-  const pills = document.querySelectorAll('#live-feeds .filter-pill');
-  const cards = document.querySelectorAll('#live-feeds .feed-card');
+  const pills   = document.querySelectorAll('#live-feeds .filter-pill');
+  const cards   = Array.from(document.querySelectorAll('#live-feeds .feed-card'));
+  const FADE_MS = 160;
+  let   timer;
 
   pills.forEach(pill => {
     pill.addEventListener('click', () => {
+      if (pill.classList.contains('is-active')) return;
       pills.forEach(p => p.classList.remove('is-active'));
       pill.classList.add('is-active');
-      const sport = pill.dataset.filter;
-      cards.forEach(card => {
-        const visible = sport === 'all' || card.dataset.sport === sport;
-        card.style.display = visible ? '' : 'none';
+
+      const sport   = pill.dataset.filter;
+      const visible = cards.filter(c => sport === 'all' || c.dataset.sport === sport);
+      const hidden  = cards.filter(c => sport !== 'all' && c.dataset.sport !== sport);
+
+      // Phase 1 — fade departing cards out
+      hidden.forEach(c => {
+        c.style.transition = `opacity ${FADE_MS}ms ease, transform ${FADE_MS}ms ease`;
+        c.style.opacity    = '0';
+        c.style.transform  = 'scale(0.96)';
       });
+
+      clearTimeout(timer);
+      timer = setTimeout(() => {
+        // Collapse hidden cards
+        hidden.forEach(c => {
+          c.style.display    = 'none';
+          c.style.opacity    = '';
+          c.style.transform  = '';
+          c.style.transition = '';
+        });
+
+        // Phase 2 — staggered entrance for visible cards
+        visible.forEach((c, i) => {
+          c.style.display = '';
+          c.classList.remove('is-entering');
+          void c.offsetWidth;                       // reflow → restart animation
+          c.style.animationDelay = `${i * 45}ms`;
+          c.classList.add('is-entering');
+        });
+      }, FADE_MS);
     });
   });
 }());
