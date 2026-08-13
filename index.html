@@ -1728,7 +1728,7 @@ function openFrauenBLModal() { FeedModal.open(FRAUEN_BL_CONFIG); }
 (function () {
   const pills   = document.querySelectorAll('#live-feeds .filter-pill');
   const cards   = Array.from(document.querySelectorAll('#live-feeds .feed-card'));
-  const FADE_MS = 160;
+  const FADE_MS = 300;
   let   timer;
 
   pills.forEach(pill => {
@@ -1763,7 +1763,7 @@ function openFrauenBLModal() { FeedModal.open(FRAUEN_BL_CONFIG); }
           c.style.display = '';
           c.classList.remove('is-entering');
           void c.offsetWidth;                       // reflow → restart animation
-          c.style.animationDelay = `${i * 45}ms`;
+          c.style.animationDelay = `${i * 90}ms`;
           c.classList.add('is-entering');
         });
       }, FADE_MS);
