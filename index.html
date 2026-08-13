@@ -473,14 +473,6 @@ body {
     background: rgba(7, 62, 227, 0.18);
   }
 
-  @keyframes cardEnter {
-    from { opacity: 0; transform: translateY(10px); }
-    to   { opacity: 1; transform: translateY(0); }
-  }
-  #live-page .feed-card.is-entering {
-    animation: cardEnter 0.28s ease both;
-  }
-
   #live-page .feed-divider { height: 1px; background: var(--border); margin: 0 20px; transition: background 0.4s; }
   #live-page .feed-anticipation {
     font-size: 12px; color: var(--muted); line-height: 1.5;
@@ -1726,47 +1718,77 @@ function openFrauenBLModal() { FeedModal.open(FRAUEN_BL_CONFIG); }
 
 /* ── Sport filter pills ──────────────────────────────────────────────────── */
 (function () {
-  const pills   = document.querySelectorAll('#live-feeds .filter-pill');
-  const cards   = Array.from(document.querySelectorAll('#live-feeds .feed-card'));
-  const FADE_MS = 300;
-  let   timer;
+  const pills = document.querySelectorAll('#live-feeds .filter-pill');
+  const cards = Array.from(document.querySelectorAll('#live-feeds .feed-card'));
+  let cleanupTimer;
+
+  function applyFilter(sport) {
+    // 1. Snapshot bounding rects of every currently-visible card before the
+    //    layout changes — this is the "First" step of FLIP.
+    const snapshots = new Map();
+    cards.forEach(c => {
+      if (c.style.display !== 'none') snapshots.set(c, c.getBoundingClientRect());
+    });
+
+    // 2. Apply display changes instantly (grid reflows here, but no paint yet).
+    const entering = [];
+    const staying  = [];
+    cards.forEach(c => {
+      const show = sport === 'all' || c.dataset.sport === sport;
+      if (show) {
+        const wasHidden = !snapshots.has(c);
+        c.style.display = '';
+        (wasHidden ? entering : staying).push(c);
+      } else {
+        c.style.display = 'none';
+      }
+    });
+
+    // 3. FLIP — for cards that stayed visible, invert the layout delta and
+    //    animate back to the identity transform so they appear to slide.
+    staying.forEach(c => {
+      const before = snapshots.get(c);
+      const after  = c.getBoundingClientRect(); // post-reflow position
+      const dx = before.left - after.left;
+      const dy = before.top  - after.top;
+      if (dx === 0 && dy === 0) return;
+
+      c.style.transition = 'none';
+      c.style.transform  = `translate(${dx}px, ${dy}px)`;
+      c.offsetWidth; // force reflow so the browser registers the start state
+      c.style.transition = 'transform 0.38s cubic-bezier(0.25, 0.46, 0.45, 0.94)';
+      c.style.transform  = '';
+    });
+
+    // 4. Staggered fade-in for cards that were previously hidden.
+    entering.forEach((c, i) => {
+      const delay = `${i * 80}ms`;
+      c.style.transition = 'none';
+      c.style.opacity    = '0';
+      c.style.transform  = 'translateY(14px)';
+      c.offsetWidth;
+      c.style.transition = `opacity 0.32s ease ${delay}, transform 0.32s ease ${delay}`;
+      c.style.opacity    = '1';
+      c.style.transform  = '';
+    });
+
+    // 5. Strip inline styles once all transitions have finished.
+    clearTimeout(cleanupTimer);
+    cleanupTimer = setTimeout(() => {
+      cards.forEach(c => {
+        c.style.transition = '';
+        c.style.transform  = '';
+        c.style.opacity    = '';
+      });
+    }, 700);
+  }
 
   pills.forEach(pill => {
     pill.addEventListener('click', () => {
       if (pill.classList.contains('is-active')) return;
       pills.forEach(p => p.classList.remove('is-active'));
       pill.classList.add('is-active');
-
-      const sport   = pill.dataset.filter;
-      const visible = cards.filter(c => sport === 'all' || c.dataset.sport === sport);
-      const hidden  = cards.filter(c => sport !== 'all' && c.dataset.sport !== sport);
-
-      // Phase 1 — fade departing cards out
-      hidden.forEach(c => {
-        c.style.transition = `opacity ${FADE_MS}ms ease, transform ${FADE_MS}ms ease`;
-        c.style.opacity    = '0';
-        c.style.transform  = 'scale(0.96)';
-      });
-
-      clearTimeout(timer);
-      timer = setTimeout(() => {
-        // Collapse hidden cards
-        hidden.forEach(c => {
-          c.style.display    = 'none';
-          c.style.opacity    = '';
-          c.style.transform  = '';
-          c.style.transition = '';
-        });
-
-        // Phase 2 — staggered entrance for visible cards
-        visible.forEach((c, i) => {
-          c.style.display = '';
-          c.classList.remove('is-entering');
-          void c.offsetWidth;                       // reflow → restart animation
-          c.style.animationDelay = `${i * 90}ms`;
-          c.classList.add('is-entering');
-        });
-      }, FADE_MS);
+      applyFilter(pill.dataset.filter);
     });
   });
 }());
