@@ -448,6 +448,31 @@ body {
     border: 1px solid var(--border);
   }
 
+  #live-page .filter-pills {
+    display: flex; gap: 8px; flex-wrap: wrap;
+    margin: 16px 0 20px;
+  }
+  #live-page .filter-pill {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 13px; font-weight: 600;
+    padding: 6px 16px; border-radius: 20px;
+    border: 1.5px solid var(--border);
+    color: var(--muted); background: transparent;
+    cursor: pointer; transition: all 0.2s;
+  }
+  #live-page .filter-pill:hover {
+    border-color: var(--brand-fg);
+    color: var(--brand-fg);
+  }
+  #live-page .filter-pill.is-active {
+    border-color: var(--brand-fg);
+    color: var(--brand-fg);
+    background: rgba(7, 62, 227, 0.08);
+  }
+  [data-theme="dark"] #live-page .filter-pill.is-active {
+    background: rgba(7, 62, 227, 0.18);
+  }
+
   #live-page .feed-divider { height: 1px; background: var(--border); margin: 0 20px; transition: background 0.4s; }
   #live-page .feed-anticipation {
     font-size: 12px; color: var(--muted); line-height: 1.5;
@@ -917,10 +942,35 @@ body {
     <div class="section" id="live-feeds">
       <div class="eyebrow">Available now</div>
       <div class="section-title">Pick your competition.</div>
+
+      <div class="filter-pills" role="group" aria-label="Filter by sport">
+        <button class="filter-pill is-active" data-filter="all">All</button>
+        <button class="filter-pill" data-filter="football">Football</button>
+        <button class="filter-pill" data-filter="basketball">Basketball</button>
+      </div>
+
       <div class="feed-cards">
 
-        <!-- 1. WNBA — active season, first -->
-        <div class="feed-card">
+        <!-- 1. Frauen-Bundesliga — pinned first; season starts 21 Aug 2026 -->
+        <div class="feed-card" data-sport="football">
+          <div class="feed-header">
+            <div class="feed-icon">⚽</div>
+            <div class="feed-info">
+              <div class="feed-badge badge-live">Starts 21 August 2026</div>
+              <div class="feed-name">Frauen-Bundesliga</div>
+              <div class="feed-meta">Football · Germany · 2026/27 season</div>
+            </div>
+          </div>
+          <div class="feed-divider"></div>
+          <div class="feed-actions">
+            <button class="btn-cal btn-choose-team" onclick="openFrauenBLModal()" aria-haspopup="dialog">
+              Add to Calendar
+            </button>
+          </div>
+        </div>
+
+        <!-- 2. WNBA — active season -->
+        <div class="feed-card" data-sport="basketball">
           <div class="feed-header">
             <div class="feed-icon">🏀</div>
             <div class="feed-info">
@@ -937,8 +987,8 @@ body {
           </div>
         </div>
 
-        <!-- 2. NWSL — active season -->
-        <div class="feed-card">
+        <!-- 3. NWSL — active season -->
+        <div class="feed-card" data-sport="football">
           <div class="feed-header">
             <div class="feed-icon">⚽</div>
             <div class="feed-info">
@@ -955,25 +1005,8 @@ body {
           </div>
         </div>
 
-        <!-- 3. ICC Women's T20 World Cup — tournament complete -->
-        <div class="feed-card" id="icc">
-          <div class="feed-header">
-            <div class="feed-icon">🏏</div>
-            <div class="feed-info">
-              <div class="feed-badge badge-offseason">Tournament complete</div>
-              <div class="feed-name">ICC Women's T20 World Cup</div>
-              <div class="feed-meta">Cricket · England &amp; Wales · 2026</div>
-            </div>
-          </div>
-          <div class="feed-divider"></div>
-          <div class="feed-actions">
-            <span class="btn-cal-disabled">Add to Google</span>
-            <span class="btn-cal-disabled">Add to Apple</span>
-          </div>
-        </div>
-
         <!-- 4. UCL Women — state derived from scores.json (ucl-women) -->
-        <div class="feed-card" id="ucl-feed-card">
+        <div class="feed-card" id="ucl-feed-card" data-sport="football">
           <div class="feed-header">
             <div class="feed-icon">⚽</div>
             <div class="feed-info">
@@ -989,8 +1022,25 @@ body {
           </div>
         </div>
 
-        <!-- 5. EuroLeague Women — off-season, buttons disabled -->
-        <div class="feed-card">
+        <!-- 5. ICC Women's T20 World Cup — tournament complete -->
+        <div class="feed-card" id="icc" data-sport="cricket">
+          <div class="feed-header">
+            <div class="feed-icon">🏏</div>
+            <div class="feed-info">
+              <div class="feed-badge badge-offseason">Tournament complete</div>
+              <div class="feed-name">ICC Women's T20 World Cup</div>
+              <div class="feed-meta">Cricket · England &amp; Wales · 2026</div>
+            </div>
+          </div>
+          <div class="feed-divider"></div>
+          <div class="feed-actions">
+            <span class="btn-cal-disabled">Add to Google</span>
+            <span class="btn-cal-disabled">Add to Apple</span>
+          </div>
+        </div>
+
+        <!-- 6. EuroLeague Women — off-season -->
+        <div class="feed-card" data-sport="basketball">
           <div class="feed-header">
             <div class="feed-icon">🏀</div>
             <div class="feed-info">
@@ -1507,6 +1557,28 @@ const ICC_CONFIG = {
   ]
 };
 
+const FRAUEN_BL_CONFIG = {
+  leagueSlug:  'frauen_bundesliga',
+  gaLabel:     'Frauen-Bundesliga',
+  teams: [
+    { name: "All teams",              slug: "frauen_bundesliga",        emoji: "🇩🇪" },
+    { name: "Bayern München",         slug: "frauen_bl_bayern",         logo: "https://i.imgur.com/jJEsJrj.png" },
+    { name: "VfL Wolfsburg",          slug: "frauen_bl_wolfsburg",      logo: "https://i.imgur.com/ucqKV4B.png" },
+    { name: "Eintracht Frankfurt",    slug: "frauen_bl_frankfurt",      logo: "https://i.imgur.com/X8NFkOb.png" },
+    { name: "SC Freiburg",            slug: "frauen_bl_freiburg",       logo: "https://i.imgur.com/r3mvi0h.png" },
+    { name: "TSG Hoffenheim",         slug: "frauen_bl_hoffenheim",     logo: "https://i.imgur.com/gF0PfEl.png" },
+    { name: "Bayer Leverkusen",       slug: "frauen_bl_leverkusen",     logo: "https://upload.wikimedia.org/wikipedia/en/5/59/Bayer_04_Leverkusen_logo.svg" },
+    { name: "RB Leipzig",             slug: "frauen_bl_leipzig",        logo: "https://i.imgur.com/Rpwsjz1.png" },
+    { name: "1. FC Köln",             slug: "frauen_bl_koeln",          logo: "https://upload.wikimedia.org/wikipedia/commons/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg" },
+    { name: "Union Berlin",           slug: "frauen_bl_union_berlin",   logo: "https://upload.wikimedia.org/wikipedia/commons/4/44/1._FC_Union_Berlin_Logo.svg" },
+    { name: "SV Werder Bremen",       slug: "frauen_bl_bremen",         logo: "https://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg" },
+    { name: "Hamburger SV",           slug: "frauen_bl_hsv",            logo: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg" },
+    { name: "VfB Stuttgart",          slug: "frauen_bl_stuttgart",      logo: "https://i.imgur.com/v0tkpNx.png" },
+    { name: "1. FC Nürnberg",         slug: "frauen_bl_nuernberg",      logo: "https://upload.wikimedia.org/wikipedia/commons/f/fa/1._FC_Nürnberg_logo.svg" },
+    { name: "1. FSV Mainz 05",        slug: "frauen_bl_mainz",          logo: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_Mainz_05.svg" },
+  ]
+};
+
 /* ── FeedModal component ─────────────────────────────────────────────────── */
 
 const FeedModal = (() => {
@@ -1639,10 +1711,87 @@ document.getElementById('feedHandle').addEventListener('click', () => FeedModal.
 document.addEventListener('keydown', e => { if (e.key === 'Escape') FeedModal.close(); });
 
 /* ── Card button functions ───────────────────────────────────────────────── */
-function openWNBAModal() { FeedModal.open(WNBA_CONFIG); }
-function openNWSLModal() { FeedModal.open(NWSL_CONFIG); }
-function openICCModal()  { FeedModal.open(ICC_CONFIG);  }
-/* Future: function openFIBAModal() { FeedModal.open(FIBA_CONFIG); } */
+function openWNBAModal()     { FeedModal.open(WNBA_CONFIG);      }
+function openNWSLModal()     { FeedModal.open(NWSL_CONFIG);      }
+function openICCModal()      { FeedModal.open(ICC_CONFIG);       }
+function openFrauenBLModal() { FeedModal.open(FRAUEN_BL_CONFIG); }
+
+/* ── Sport filter pills ──────────────────────────────────────────────────── */
+(function () {
+  const pills = document.querySelectorAll('#live-feeds .filter-pill');
+  const cards = Array.from(document.querySelectorAll('#live-feeds .feed-card'));
+  let cleanupTimer;
+
+  function applyFilter(sport) {
+    // 1. Snapshot bounding rects of every currently-visible card before the
+    //    layout changes — this is the "First" step of FLIP.
+    const snapshots = new Map();
+    cards.forEach(c => {
+      if (c.style.display !== 'none') snapshots.set(c, c.getBoundingClientRect());
+    });
+
+    // 2. Apply display changes instantly (grid reflows here, but no paint yet).
+    const entering = [];
+    const staying  = [];
+    cards.forEach(c => {
+      const show = sport === 'all' || c.dataset.sport === sport;
+      if (show) {
+        const wasHidden = !snapshots.has(c);
+        c.style.display = '';
+        (wasHidden ? entering : staying).push(c);
+      } else {
+        c.style.display = 'none';
+      }
+    });
+
+    // 3. FLIP — for cards that stayed visible, invert the layout delta and
+    //    animate back to the identity transform so they appear to slide.
+    staying.forEach(c => {
+      const before = snapshots.get(c);
+      const after  = c.getBoundingClientRect(); // post-reflow position
+      const dx = before.left - after.left;
+      const dy = before.top  - after.top;
+      if (dx === 0 && dy === 0) return;
+
+      c.style.transition = 'none';
+      c.style.transform  = `translate(${dx}px, ${dy}px)`;
+      c.offsetWidth; // force reflow so the browser registers the start state
+      c.style.transition = 'transform 0.38s cubic-bezier(0.25, 0.46, 0.45, 0.94)';
+      c.style.transform  = '';
+    });
+
+    // 4. Staggered fade-in for cards that were previously hidden.
+    entering.forEach((c, i) => {
+      const delay = `${i * 80}ms`;
+      c.style.transition = 'none';
+      c.style.opacity    = '0';
+      c.style.transform  = 'translateY(14px)';
+      c.offsetWidth;
+      c.style.transition = `opacity 0.32s ease ${delay}, transform 0.32s ease ${delay}`;
+      c.style.opacity    = '1';
+      c.style.transform  = '';
+    });
+
+    // 5. Strip inline styles once all transitions have finished.
+    clearTimeout(cleanupTimer);
+    cleanupTimer = setTimeout(() => {
+      cards.forEach(c => {
+        c.style.transition = '';
+        c.style.transform  = '';
+        c.style.opacity    = '';
+      });
+    }, 700);
+  }
+
+  pills.forEach(pill => {
+    pill.addEventListener('click', () => {
+      if (pill.classList.contains('is-active')) return;
+      pills.forEach(p => p.classList.remove('is-active'));
+      pill.classList.add('is-active');
+      applyFilter(pill.dataset.filter);
+    });
+  });
+}());
 
 /* ══ SCORES STRIP ══ */
 /* ── Time label (Figma rules) ─────────────────────────── */
