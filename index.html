@@ -989,7 +989,25 @@ body {
           </div>
         </div>
 
-        <!-- 5. EuroLeague Women — off-season, buttons disabled -->
+        <!-- 5. Frauen-Bundesliga — season starts 21 Aug 2026 -->
+        <div class="feed-card">
+          <div class="feed-header">
+            <div class="feed-icon">⚽</div>
+            <div class="feed-info">
+              <div class="feed-badge badge-live">Starts 21 Aug — add now</div>
+              <div class="feed-name">Frauen-Bundesliga</div>
+              <div class="feed-meta">Football · Germany · 2026/27 season</div>
+            </div>
+          </div>
+          <div class="feed-divider"></div>
+          <div class="feed-actions">
+            <button class="btn-cal btn-choose-team" onclick="openFrauenBLModal()" aria-haspopup="dialog">
+              Add to Calendar
+            </button>
+          </div>
+        </div>
+
+        <!-- 6. EuroLeague Women — off-season, buttons disabled -->
         <div class="feed-card">
           <div class="feed-header">
             <div class="feed-icon">🏀</div>
@@ -1507,6 +1525,28 @@ const ICC_CONFIG = {
   ]
 };
 
+const FRAUEN_BL_CONFIG = {
+  leagueSlug:  'frauen_bundesliga',
+  gaLabel:     'Frauen-Bundesliga',
+  teams: [
+    { name: "All teams",              slug: "frauen_bundesliga",        emoji: "🇩🇪" },
+    { name: "Bayern München",         slug: "frauen_bl_bayern",         logo: "https://i.imgur.com/jJEsJrj.png" },
+    { name: "VfL Wolfsburg",          slug: "frauen_bl_wolfsburg",      logo: "https://i.imgur.com/ucqKV4B.png" },
+    { name: "Eintracht Frankfurt",    slug: "frauen_bl_frankfurt",      logo: "https://i.imgur.com/X8NFkOb.png" },
+    { name: "SC Freiburg",            slug: "frauen_bl_freiburg",       logo: "https://i.imgur.com/r3mvi0h.png" },
+    { name: "TSG Hoffenheim",         slug: "frauen_bl_hoffenheim",     logo: "https://i.imgur.com/gF0PfEl.png" },
+    { name: "Bayer Leverkusen",       slug: "frauen_bl_leverkusen",     logo: "https://upload.wikimedia.org/wikipedia/en/5/59/Bayer_04_Leverkusen_logo.svg" },
+    { name: "RB Leipzig",             slug: "frauen_bl_leipzig",        logo: "https://i.imgur.com/Rpwsjz1.png" },
+    { name: "1. FC Köln",             slug: "frauen_bl_koeln",          logo: "https://upload.wikimedia.org/wikipedia/commons/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg" },
+    { name: "Union Berlin",           slug: "frauen_bl_union_berlin",   logo: "https://upload.wikimedia.org/wikipedia/commons/4/44/1._FC_Union_Berlin_Logo.svg" },
+    { name: "SV Werder Bremen",       slug: "frauen_bl_bremen",         logo: "https://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg" },
+    { name: "Hamburger SV",           slug: "frauen_bl_hsv",            logo: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg" },
+    { name: "VfB Stuttgart",          slug: "frauen_bl_stuttgart",      logo: "https://i.imgur.com/v0tkpNx.png" },
+    { name: "1. FC Nürnberg",         slug: "frauen_bl_nuernberg",      logo: "https://upload.wikimedia.org/wikipedia/commons/f/fa/1._FC_Nürnberg_logo.svg" },
+    { name: "1. FSV Mainz 05",        slug: "frauen_bl_mainz",          logo: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_Mainz_05.svg" },
+  ]
+};
+
 /* ── FeedModal component ─────────────────────────────────────────────────── */
 
 const FeedModal = (() => {
@@ -1639,10 +1679,10 @@ document.getElementById('feedHandle').addEventListener('click', () => FeedModal.
 document.addEventListener('keydown', e => { if (e.key === 'Escape') FeedModal.close(); });
 
 /* ── Card button functions ───────────────────────────────────────────────── */
-function openWNBAModal() { FeedModal.open(WNBA_CONFIG); }
-function openNWSLModal() { FeedModal.open(NWSL_CONFIG); }
-function openICCModal()  { FeedModal.open(ICC_CONFIG);  }
-/* Future: function openFIBAModal() { FeedModal.open(FIBA_CONFIG); } */
+function openWNBAModal()     { FeedModal.open(WNBA_CONFIG);      }
+function openNWSLModal()     { FeedModal.open(NWSL_CONFIG);      }
+function openICCModal()      { FeedModal.open(ICC_CONFIG);       }
+function openFrauenBLModal() { FeedModal.open(FRAUEN_BL_CONFIG); }
 
 /* ══ SCORES STRIP ══ */
 /* ── Time label (Figma rules) ─────────────────────────── */

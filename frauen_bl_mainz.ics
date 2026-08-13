@@ -1,0 +1,299 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//Frauen-Bundesliga 2026-27 1. FSV Mainz 05 Frauen//E
+ N
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:1. FSV Mainz 05 Frauen Frauen-Bundesliga 2026/27 fixtures. Up
+ dated automatically by HerFixtures.com
+X-WR-CALNAME:1. FSV Mainz 05 Frauen 2026/27 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ 1. FSV Mainz 05 Frauen vs SV Werder Bremen Frauen
+DTSTART:20260824T160000Z
+DTEND:20260824T180000Z
+DTSTAMP:20260813T185941Z
+UID:openligadb-ffb1-85269@herfixtures.com
+DESCRIPTION:Frauen-Bundesliga 2026/27 · 1. Spieltag\n1. FSV Mainz 05 Frau
+ en vs SV Werder Bremen Frauen\nVenue: Bruchwegstadion\, Mainz\n\nData: ope
+ nligadb.de (ODbL) · Fixtures by HerFixtures.com
+LOCATION:Bruchwegstadion\, Mainz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ FC Bayern München Frauen vs 1. FSV Mainz 05 Frauen
+DTSTART:20260831T160000Z
+DTEND:20260831T180000Z
+DTSTAMP:20260813T185941Z
+UID:openligadb-ffb1-85280@herfixtures.com
+DESCRIPTION:Frauen-Bundesliga 2026/27 · 2. Spieltag\nFC Bayern München F
+ rauen vs 1. FSV Mainz 05 Frauen\nVenue: FC Bayern Campus\, München\n\nDat
+ a: openligadb.de (ODbL) · Fixtures by HerFixtures.com
+LOCATION:FC Bayern Campus\, München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ 1. FSV Mainz 05 Frauen vs 1. FC Köln Frauen
+DTSTART:20260905T120000Z
+DTEND:20260905T140000Z
+DTSTAMP:20260813T185941Z
+UID:openligadb-ffb1-85283@herfixtures.com
+DESCRIPTION:Frauen-Bundesliga 2026/27 · 3. Spieltag\n1. FSV Mainz 05 Frau
+ en vs 1. FC Köln Frauen\nVenue: Bruchwegstadion\, Mainz\n\nData: openliga
+ db.de (ODbL) · Fixtures by HerFixtures.com
+LOCATION:Bruchwegstadion\, Mainz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ SC Freiburg Frauen vs 1. FSV Mainz 05 Frauen
+DTSTART:20260913T163000Z
+DTEND:20260913T183000Z
+DTSTAMP:20260813T185941Z
+UID:openligadb-ffb1-85741@herfixtures.com
+DESCRIPTION:Frauen-Bundesliga 2026/27 · 4. Spieltag\nSC Freiburg Frauen v
+ s 1. FSV Mainz 05 Frauen\nVenue: Dreisamstadion\, Freiburg\n\nData: openli
+ gadb.de (ODbL) · Fixtures by HerFixtures.com
+LOCATION:Dreisamstadion\, Freiburg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ 1. FSV Mainz 05 Frauen vs Eintracht Frankfurt Frauen
+DTSTART:20260918T163000Z
+DTEND:20260918T183000Z
+DTSTAMP:20260813T185941Z
+UID:openligadb-ffb1-85743@herfixtures.com
+DESCRIPTION:Frauen-Bundesliga 2026/27 · 5. Spieltag\n1. FSV Mainz 05 Frau
+ en vs Eintracht Frankfurt Frauen\nVenue: Mewa Arena\, Mainz\n\nData: openl
+ igadb.de (ODbL) · Fixtures by HerFixtures.com
+LOCATION:Mewa Arena\, Mainz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ RB Leipzig Frauen vs 1. FSV Mainz 05 Frauen
+DTSTART:20261004T133000Z
+DTEND:20261004T153000Z
+DTSTAMP:20260813T185941Z
+UID:openligadb-ffb1-85752@herfixtures.com
+DESCRIPTION:Frauen-Bundesliga 2026/27 · 6. Spieltag\nRB Leipzig Frauen vs
+  1. FSV Mainz 05 Frauen\nVenue: Trainingszentrum Cottaweg\, Leipzig\n\nDat
+ a: openligadb.de (ODbL) · Fixtures by HerFixtures.com
+LOCATION:Trainingszentrum Cottaweg\, Leipzig
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ 1. FSV Mainz 05 Frauen vs VfL Wolfsburg Frauen
+DTSTART:20261018T133000Z
+DTEND:20261018T153000Z
+DTSTAMP:20260813T185941Z
+UID:openligadb-ffb1-85759@herfixtures.com
+DESCRIPTION:Frauen-Bundesliga 2026/27 · 7. Spieltag\n1. FSV Mainz 05 Frau
+ en vs VfL Wolfsburg Frauen\nVenue: Bruchwegstadion\, Mainz\n\nData: openli
+ gadb.de (ODbL) · Fixtures by HerFixtures.com
+LOCATION:Bruchwegstadion\, Mainz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ TSG 1899 Hoffenheim Frauen vs 1. FSV Mainz 05 Frauen
+DTSTART:20261025T143000Z
+DTEND:20261025T163000Z
+DTSTAMP:20260813T185941Z
+UID:openligadb-ffb1-85766@herfixtures.com
+DESCRIPTION:Frauen-Bundesliga 2026/27 · 8. Spieltag\nTSG 1899 Hoffenheim 
+ Frauen vs 1. FSV Mainz 05 Frauen\nVenue: Dietmar-Hopp-Stadion\, Hoffenheim
+ \n\nData: openligadb.de (ODbL) · Fixtures by HerFixtures.com
+LOCATION:Dietmar-Hopp-Stadion\, Hoffenheim
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ 1. FSV Mainz 05 Frauen vs VfB Stuttgart Frauen
+DTSTART:20261108T143000Z
+DTEND:20261108T163000Z
+DTSTAMP:20260813T185941Z
+UID:openligadb-ffb1-85771@herfixtures.com
+DESCRIPTION:Frauen-Bundesliga 2026/27 · 9. Spieltag\n1. FSV Mainz 05 Frau
+ en vs VfB Stuttgart Frauen\nVenue: Bruchwegstadion\, Mainz\n\nData: openli
+ gadb.de (ODbL) · Fixtures by HerFixtures.com
+LOCATION:Bruchwegstadion\, Mainz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Hamburger SV Frauen vs 1. FSV Mainz 05 Frauen
+DTSTART:20261115T143000Z
+DTEND:20261115T163000Z
+DTSTAMP:20260813T185941Z
+UID:openligadb-ffb1-85779@herfixtures.com
+DESCRIPTION:Frauen-Bundesliga 2026/27 · 10. Spieltag\nHamburger SV Frauen
+  vs 1. FSV Mainz 05 Frauen\nVenue: Volksparkstadion\, Hamburg\n\nData: ope
+ nligadb.de (ODbL) · Fixtures by HerFixtures.com
+LOCATION:Volksparkstadion\, Hamburg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ 1. FSV Mainz 05 Frauen vs 1. FC Nürnberg Frauen
+DTSTART:20261122T143000Z
+DTEND:20261122T163000Z
+DTSTAMP:20260813T185941Z
+UID:openligadb-ffb1-85786@herfixtures.com
+DESCRIPTION:Frauen-Bundesliga 2026/27 · 11. Spieltag\n1. FSV Mainz 05 Fra
+ uen vs 1. FC Nürnberg Frauen\nVenue: Bruchwegstadion\, Mainz\n\nData: ope
+ nligadb.de (ODbL) · Fixtures by HerFixtures.com
+LOCATION:Bruchwegstadion\, Mainz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ 1. FC Union Berlin Frauen vs 1. FSV Mainz 05 Frauen
+DTSTART:20261213T143000Z
+DTEND:20261213T163000Z
+DTSTAMP:20260813T185941Z
+UID:openligadb-ffb1-85792@herfixtures.com
+DESCRIPTION:Frauen-Bundesliga 2026/27 · 12. Spieltag\n1. FC Union Berlin 
+ Frauen vs 1. FSV Mainz 05 Frauen\nVenue: Alte Försterei\, Berlin\n\nData:
+  openligadb.de (ODbL) · Fixtures by HerFixtures.com
+LOCATION:Alte Försterei\, Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ 1. FSV Mainz 05 Frauen vs Bayer 04 Leverkusen Frauen
+DTSTART:20261220T143000Z
+DTEND:20261220T163000Z
+DTSTAMP:20260813T185941Z
+UID:openligadb-ffb1-85799@herfixtures.com
+DESCRIPTION:Frauen-Bundesliga 2026/27 · 13. Spieltag\n1. FSV Mainz 05 Fra
+ uen vs Bayer 04 Leverkusen Frauen\nVenue: Bruchwegstadion\, Mainz\n\nData:
+  openligadb.de (ODbL) · Fixtures by HerFixtures.com
+LOCATION:Bruchwegstadion\, Mainz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ SV Werder Bremen Frauen vs 1. FSV Mainz 05 Frauen
+DTSTART:20270117T143000Z
+DTEND:20270117T163000Z
+DTSTAMP:20260813T185941Z
+UID:openligadb-ffb1-85806@herfixtures.com
+DESCRIPTION:Frauen-Bundesliga 2026/27 · 14. Spieltag\nSV Werder Bremen Fr
+ auen vs 1. FSV Mainz 05 Frauen\nVenue: Weserstadion - Platz 11\, Bremen\n\
+ nData: openligadb.de (ODbL) · Fixtures by HerFixtures.com
+LOCATION:Weserstadion - Platz 11\, Bremen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ 1. FSV Mainz 05 Frauen vs FC Bayern München Frauen
+DTSTART:20270124T143000Z
+DTEND:20270124T163000Z
+DTSTAMP:20260813T185941Z
+UID:openligadb-ffb1-85814@herfixtures.com
+DESCRIPTION:Frauen-Bundesliga 2026/27 · 15. Spieltag\n1. FSV Mainz 05 Fra
+ uen vs FC Bayern München Frauen\nVenue: Bruchwegstadion\, Mainz\n\nData: 
+ openligadb.de (ODbL) · Fixtures by HerFixtures.com
+LOCATION:Bruchwegstadion\, Mainz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ 1. FC Köln Frauen vs 1. FSV Mainz 05 Frauen
+DTSTART:20270131T143000Z
+DTEND:20270131T163000Z
+DTSTAMP:20260813T185941Z
+UID:openligadb-ffb1-85824@herfixtures.com
+DESCRIPTION:Frauen-Bundesliga 2026/27 · 16. Spieltag\n1. FC Köln Frauen 
+ vs 1. FSV Mainz 05 Frauen\nVenue: Franz-Kremer-Stadion\, Köln\n\nData: op
+ enligadb.de (ODbL) · Fixtures by HerFixtures.com
+LOCATION:Franz-Kremer-Stadion\, Köln
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ 1. FSV Mainz 05 Frauen vs SC Freiburg Frauen
+DTSTART:20270207T143000Z
+DTEND:20270207T163000Z
+DTSTAMP:20260813T185941Z
+UID:openligadb-ffb1-85828@herfixtures.com
+DESCRIPTION:Frauen-Bundesliga 2026/27 · 17. Spieltag\n1. FSV Mainz 05 Fra
+ uen vs SC Freiburg Frauen\nVenue: Bruchwegstadion\, Mainz\n\nData: openlig
+ adb.de (ODbL) · Fixtures by HerFixtures.com
+LOCATION:Bruchwegstadion\, Mainz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Eintracht Frankfurt Frauen vs 1. FSV Mainz 05 Frauen
+DTSTART:20270214T143000Z
+DTEND:20270214T163000Z
+DTSTAMP:20260813T185941Z
+UID:openligadb-ffb1-85838@herfixtures.com
+DESCRIPTION:Frauen-Bundesliga 2026/27 · 18. Spieltag\nEintracht Frankfurt
+  Frauen vs 1. FSV Mainz 05 Frauen\nVenue: Stadion am Brentanobad\, Frankfu
+ rt\n\nData: openligadb.de (ODbL) · Fixtures by HerFixtures.com
+LOCATION:Stadion am Brentanobad\, Frankfurt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ 1. FSV Mainz 05 Frauen vs RB Leipzig Frauen
+DTSTART:20270221T143000Z
+DTEND:20270221T163000Z
+DTSTAMP:20260813T185941Z
+UID:openligadb-ffb1-85843@herfixtures.com
+DESCRIPTION:Frauen-Bundesliga 2026/27 · 19. Spieltag\n1. FSV Mainz 05 Fra
+ uen vs RB Leipzig Frauen\nVenue: Bruchwegstadion\, Mainz\n\nData: openliga
+ db.de (ODbL) · Fixtures by HerFixtures.com
+LOCATION:Bruchwegstadion\, Mainz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ VfL Wolfsburg Frauen vs 1. FSV Mainz 05 Frauen
+DTSTART:20270314T143000Z
+DTEND:20270314T163000Z
+DTSTAMP:20260813T185941Z
+UID:openligadb-ffb1-85854@herfixtures.com
+DESCRIPTION:Frauen-Bundesliga 2026/27 · 20. Spieltag\nVfL Wolfsburg Fraue
+ n vs 1. FSV Mainz 05 Frauen\nVenue: AOK Stadion\, Wolfsburg\n\nData: openl
+ igadb.de (ODbL) · Fixtures by HerFixtures.com
+LOCATION:AOK Stadion\, Wolfsburg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ 1. FSV Mainz 05 Frauen vs TSG 1899 Hoffenheim Frauen
+DTSTART:20270321T143000Z
+DTEND:20270321T163000Z
+DTSTAMP:20260813T185941Z
+UID:openligadb-ffb1-85856@herfixtures.com
+DESCRIPTION:Frauen-Bundesliga 2026/27 · 21. Spieltag\n1. FSV Mainz 05 Fra
+ uen vs TSG 1899 Hoffenheim Frauen\nVenue: Bruchwegstadion\, Mainz\n\nData:
+  openligadb.de (ODbL) · Fixtures by HerFixtures.com
+LOCATION:Bruchwegstadion\, Mainz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ VfB Stuttgart Frauen vs 1. FSV Mainz 05 Frauen
+DTSTART:20270328T133000Z
+DTEND:20270328T153000Z
+DTSTAMP:20260813T185941Z
+UID:openligadb-ffb1-85864@herfixtures.com
+DESCRIPTION:Frauen-Bundesliga 2026/27 · 22. Spieltag\nVfB Stuttgart Fraue
+ n vs 1. FSV Mainz 05 Frauen\nVenue: GAZi-Stadion auf der Waldau\, Stuttgar
+ t\n\nData: openligadb.de (ODbL) · Fixtures by HerFixtures.com
+LOCATION:GAZi-Stadion auf der Waldau\, Stuttgart
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ 1. FSV Mainz 05 Frauen vs Hamburger SV Frauen
+DTSTART:20270411T133000Z
+DTEND:20270411T153000Z
+DTSTAMP:20260813T185941Z
+UID:openligadb-ffb1-85870@herfixtures.com
+DESCRIPTION:Frauen-Bundesliga 2026/27 · 23. Spieltag\n1. FSV Mainz 05 Fra
+ uen vs Hamburger SV Frauen\nVenue: Bruchwegstadion\, Mainz\n\nData: openli
+ gadb.de (ODbL) · Fixtures by HerFixtures.com
+LOCATION:Bruchwegstadion\, Mainz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ 1. FC Nürnberg Frauen vs 1. FSV Mainz 05 Frauen
+DTSTART:20270502T133000Z
+DTEND:20270502T153000Z
+DTSTAMP:20260813T185941Z
+UID:openligadb-ffb1-85881@herfixtures.com
+DESCRIPTION:Frauen-Bundesliga 2026/27 · 24. Spieltag\n1. FC Nürnberg Fra
+ uen vs 1. FSV Mainz 05 Frauen\nVenue: Max-Morlock-Stadion\, Nürnberg\n\nD
+ ata: openligadb.de (ODbL) · Fixtures by HerFixtures.com
+LOCATION:Max-Morlock-Stadion\, Nürnberg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ 1. FSV Mainz 05 Frauen vs 1. FC Union Berlin Frauen
+DTSTART:20270509T133000Z
+DTEND:20270509T153000Z
+DTSTAMP:20260813T185941Z
+UID:openligadb-ffb1-85883@herfixtures.com
+DESCRIPTION:Frauen-Bundesliga 2026/27 · 25. Spieltag\n1. FSV Mainz 05 Fra
+ uen vs 1. FC Union Berlin Frauen\nVenue: Bruchwegstadion\, Mainz\n\nData: 
+ openligadb.de (ODbL) · Fixtures by HerFixtures.com
+LOCATION:Bruchwegstadion\, Mainz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Bayer 04 Leverkusen Frauen vs 1. FSV Mainz 05 Frauen
+DTSTART:20270523T133000Z
+DTEND:20270523T153000Z
+DTSTAMP:20260813T185941Z
+UID:openligadb-ffb1-85895@herfixtures.com
+DESCRIPTION:Frauen-Bundesliga 2026/27 · 26. Spieltag\nBayer 04 Leverkusen
+  Frauen vs 1. FSV Mainz 05 Frauen\nVenue: Ulrich-Haberland-Stadion\, Lever
+ kusen\n\nData: openligadb.de (ODbL) · Fixtures by HerFixtures.com
+LOCATION:Ulrich-Haberland-Stadion\, Leverkusen
+END:VEVENT
+END:VCALENDAR
