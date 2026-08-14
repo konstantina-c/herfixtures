@@ -10,10 +10,22 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
+SUMMARY:⚽ Utah Royals @ Denver Summit FC (1–2)
+DTSTART:20260809T020000Z
+DTEND:20260809T040000Z
+DTSTAMP:20260814T094103Z
+UID:espn-nwsl-401854072@herfixtures.com
+DESCRIPTION:NWSL 2026 · Utah Royals\nUtah Royals at Denver Summit FC\nSta
+ tus: Full Time\nVenue: Centennial Stadium\, Centennial\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401854072/utah-royals-denve
+ r-summit-fc
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:⚽ Portland Thorns FC @ Utah Royals (1–5)
 DTSTART:20260802T230000Z
 DTEND:20260803T010000Z
-DTSTAMP:20260804T084829Z
+DTSTAMP:20260814T094103Z
 UID:espn-nwsl-401853962@herfixtures.com
 DESCRIPTION:NWSL 2026 · Utah Royals\nPortland Thorns FC at Utah Royals\nS
  tatus: Full Time\nVenue: America First Field\, Sandy\, Utah\n\nFixtures by
@@ -25,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Washington Spirit @ Utah Royals (1–0)
 DTSTART:20260730T010000Z
 DTEND:20260730T030000Z
-DTSTAMP:20260804T084829Z
+DTSTAMP:20260814T094103Z
 UID:espn-nwsl-401853954@herfixtures.com
 DESCRIPTION:NWSL 2026 · Utah Royals\nWashington Spirit at Utah Royals\nSt
  atus: Full Time\nVenue: America First Field\, Sandy\, Utah\n\nFixtures by 
@@ -37,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Utah Royals @ North Carolina Courage (4–1)
 DTSTART:20260725T234500Z
 DTEND:20260726T014500Z
-DTSTAMP:20260804T084829Z
+DTSTAMP:20260814T094103Z
 UID:espn-nwsl-401853950@herfixtures.com
 DESCRIPTION:NWSL 2026 · Utah Royals\nUtah Royals at North Carolina Courag
  e\nStatus: Full Time\nVenue: WakeMed Soccer Park\, Cary\, North Carolina\n
@@ -49,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Orlando Pride @ Utah Royals (0–1)
 DTSTART:20260719T004500Z
 DTEND:20260719T024500Z
-DTSTAMP:20260804T084829Z
+DTSTAMP:20260814T094103Z
 UID:espn-nwsl-401853946@herfixtures.com
 DESCRIPTION:NWSL 2026 · Utah Royals\nOrlando Pride at Utah Royals\nStatus
  : Full Time\nVenue: America First Field\, Sandy\, Utah\n\nFixtures by HerF
@@ -61,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Gotham FC @ Utah Royals (3–1)
 DTSTART:20260711T020000Z
 DTEND:20260711T040000Z
-DTSTAMP:20260804T084829Z
+DTSTAMP:20260814T094103Z
 UID:espn-nwsl-401853936@herfixtures.com
 DESCRIPTION:NWSL 2026 · Utah Royals\nGotham FC at Utah Royals\nStatus: Fu
  ll Time\nVenue: America First Field\, Sandy\, Utah\n\nFixtures by HerFixtu
@@ -73,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Utah Royals @ Chicago Stars FC (2–3)
 DTSTART:20260705T210000Z
 DTEND:20260705T230000Z
-DTSTAMP:20260804T084829Z
+DTSTAMP:20260814T094103Z
 UID:espn-nwsl-401853932@herfixtures.com
 DESCRIPTION:NWSL 2026 · Utah Royals\nUtah Royals at Chicago Stars FC\nSta
  tus: Full Time\nVenue: Northwestern Medicine Field at Martin Stadium\, Eva
@@ -85,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Utah Royals @ Portland Thorns FC (2–2)
 DTSTART:20260530T200000Z
 DTEND:20260530T220000Z
-DTSTAMP:20260804T084829Z
+DTSTAMP:20260814T094103Z
 UID:espn-nwsl-401853923@herfixtures.com
 DESCRIPTION:NWSL 2026 · Utah Royals\nUtah Royals at Portland Thorns FC\nS
  tatus: Full Time\nVenue: Providence Park\, Portland\, Oregon\n\nFixtures b
@@ -97,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Denver Summit FC @ Utah Royals (1–2)
 DTSTART:20260523T223000Z
 DTEND:20260524T003000Z
-DTSTAMP:20260804T084829Z
+DTSTAMP:20260814T094103Z
 UID:espn-nwsl-401854058@herfixtures.com
 DESCRIPTION:NWSL 2026 · Utah Royals\nDenver Summit FC at Utah Royals\nSta
  tus: Full Time\nVenue: America First Field\, Sandy\, Utah\n\nFixtures by H
@@ -109,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Racing Louisville FC @ Utah Royals (1–2)
 DTSTART:20260518T000000Z
 DTEND:20260518T020000Z
-DTSTAMP:20260804T084829Z
+DTSTAMP:20260814T094103Z
 UID:espn-nwsl-401853913@herfixtures.com
 DESCRIPTION:NWSL 2026 · Utah Royals\nRacing Louisville FC at Utah Royals\
  nStatus: Full Time\nVenue: America First Field\, Sandy\, Utah\n\nFixtures 
@@ -121,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Utah Royals @ Bay FC (0–0)
 DTSTART:20260510T200000Z
 DTEND:20260510T220000Z
-DTSTAMP:20260804T084829Z
+DTSTAMP:20260814T094103Z
 UID:espn-nwsl-401853906@herfixtures.com
 DESCRIPTION:NWSL 2026 · Utah Royals\nUtah Royals at Bay FC\nStatus: Full 
  Time\nVenue: PayPal Park\, San Jose\, California\n\nFixtures by HerFixture
@@ -133,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Houston Dash @ Utah Royals (0–2)
 DTSTART:20260507T020000Z
 DTEND:20260507T040000Z
-DTSTAMP:20260804T084829Z
+DTSTAMP:20260814T094103Z
 UID:espn-nwsl-401853901@herfixtures.com
 DESCRIPTION:NWSL 2026 · Utah Royals\nHouston Dash at Utah Royals\nStatus:
   Full Time\nVenue: America First Field\, Sandy\, Utah\n\nFixtures by HerFi
@@ -145,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Utah Royals @ Angel City FC (1–0)
 DTSTART:20260503T004500Z
 DTEND:20260503T024500Z
-DTSTAMP:20260804T084829Z
+DTSTAMP:20260814T094103Z
 UID:espn-nwsl-401853897@herfixtures.com
 DESCRIPTION:NWSL 2026 · Utah Royals\nUtah Royals at Angel City FC\nStatus
  : Full Time\nVenue: BMO Stadium\, Los Angeles\, California\n\nFixtures by 
@@ -157,7 +169,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Utah Royals @ Seattle Reign FC (3–0)
 DTSTART:20260427T000000Z
 DTEND:20260427T020000Z
-DTSTAMP:20260804T084829Z
+DTSTAMP:20260814T094103Z
 UID:espn-nwsl-401853890@herfixtures.com
 DESCRIPTION:NWSL 2026 · Utah Royals\nUtah Royals at Seattle Reign FC\nSta
  tus: Full Time\nVenue: Lumen Field\, Seattle\, Washington\n\nFixtures by H
@@ -169,7 +181,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Chicago Stars FC @ Utah Royals (0–1)
 DTSTART:20260404T010000Z
 DTEND:20260404T030000Z
-DTSTAMP:20260804T084829Z
+DTSTAMP:20260814T094103Z
 UID:espn-nwsl-401853881@herfixtures.com
 DESCRIPTION:NWSL 2026 · Utah Royals\nChicago Stars FC at Utah Royals\nSta
  tus: Full Time\nVenue: America First Field\, Sandy\, Utah\n\nFixtures by H
@@ -181,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Utah Royals @ Boston Legacy FC (2–1)
 DTSTART:20260328T160000Z
 DTEND:20260328T180000Z
-DTSTAMP:20260804T084829Z
+DTSTAMP:20260814T094103Z
 UID:espn-nwsl-401854044@herfixtures.com
 DESCRIPTION:NWSL 2026 · Utah Royals\nUtah Royals at Boston Legacy FC\nSta
  tus: Full Time\nVenue: Gillette Stadium\, Foxborough\, Massachusetts\n\nFi
@@ -193,7 +205,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Utah Royals @ Washington Spirit (1–1)
 DTSTART:20260325T230000Z
 DTEND:20260326T010000Z
-DTSTAMP:20260804T084829Z
+DTSTAMP:20260814T094103Z
 UID:espn-nwsl-401853869@herfixtures.com
 DESCRIPTION:NWSL 2026 · Utah Royals\nUtah Royals at Washington Spirit\nSt
  atus: Full Time\nVenue: Audi Field\, Washington\, District of Columbia\n\n
@@ -205,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Diego Wave FC @ Utah Royals (2–1)
 DTSTART:20260322T230000Z
 DTEND:20260323T010000Z
-DTSTAMP:20260804T084829Z
+DTSTAMP:20260814T094103Z
 UID:espn-nwsl-401853868@herfixtures.com
 DESCRIPTION:NWSL 2026 · Utah Royals\nSan Diego Wave FC at Utah Royals\nSt
  atus: Full Time\nVenue: America First Field\, Sandy\, Utah\n\nFixtures by 
@@ -217,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Utah Royals @ Kansas City Current (1–2)
 DTSTART:20260314T200000Z
 DTEND:20260314T220000Z
-DTSTAMP:20260804T084829Z
+DTSTAMP:20260814T094103Z
 UID:espn-nwsl-401853858@herfixtures.com
 DESCRIPTION:NWSL 2026 · Utah Royals\nUtah Royals at Kansas City Current\n
  Status: Full Time\nVenue: CPKC Stadium\, Kansas City\, Missouri\n\nFixture
