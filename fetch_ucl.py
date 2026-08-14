@@ -17,7 +17,7 @@ from icalendar import Calendar, Event
 OUTPUT_FILE = "womens_ucl.ics"
 BASE_URL    = "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.wchampions"
 SEASON_YEAR = 2026  # ESPN uses the start year: 2026 = 2026/27 season
-HEADERS     = {"User-Agent": "Mozilla/5.0"}
+HEADERS     = {}  # requests default (python-requests/<version>) passes ESPN WAF; Mozilla/5.0 does not
 
 # All 18 league-phase team IDs (confirmed July 2026)
 TEAM_IDS = [

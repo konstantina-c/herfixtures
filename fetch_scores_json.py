@@ -24,7 +24,7 @@ WNBA_URL     = "https://site.api.espn.com/apis/site/v2/sports/basketball/wnba"
 NWSL_URL     = "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.nwsl"
 ICC_URL      = "https://site.api.espn.com/apis/site/v2/sports/cricket/8634"
 UCL_URL      = "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.wchampions"
-HEADERS      = {"User-Agent": "Mozilla/5.0"}
+HEADERS      = {}  # requests default (python-requests/<version>) passes ESPN WAF; Mozilla/5.0 does not
 TODAY        = datetime.now(timezone.utc).date()
 YESTERDAY    = TODAY - timedelta(days=1)
 DAY_AFTER    = TODAY + timedelta(days=2)

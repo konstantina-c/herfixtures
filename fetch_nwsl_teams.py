@@ -10,7 +10,7 @@ from datetime import datetime, timezone, timedelta
 from icalendar import Calendar, Event
 
 BASE_URL = "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.nwsl"
-HEADERS = {"User-Agent": "Mozilla/5.0"}
+HEADERS = {}  # requests default (python-requests/<version>) passes ESPN WAF; Mozilla/5.0 does not
 
 # ESPN team ID → (display name, output slug)
 NWSL_TEAMS = {

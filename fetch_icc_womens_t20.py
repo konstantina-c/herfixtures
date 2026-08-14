@@ -13,7 +13,7 @@ from icalendar import Calendar, Event
 
 OUTPUT_FILE  = "icc_womens_t20.ics"
 BASE_URL     = "https://site.api.espn.com/apis/site/v2/sports/cricket/8634"
-HEADERS      = {"User-Agent": "Mozilla/5.0"}
+HEADERS      = {}  # requests default (python-requests/<version>) passes ESPN WAF; Mozilla/5.0 does not
 SEASON_YEAR  = 2026
 
 

@@ -18,7 +18,7 @@ SEASON_START = "20260508"
 SEASON_END   = "20261031"
 
 ESPN_SCOREBOARD = "https://site.api.espn.com/apis/site/v2/sports/basketball/wnba/scoreboard"
-ESPN_HEADERS    = {"User-Agent": "Mozilla/5.0 (compatible; HerFixtures/1.0)"}
+ESPN_HEADERS    = {}  # requests default (python-requests/<version>) passes ESPN WAF; Mozilla/5.0 does not
 
 # ── Team map — ESPN ID → (display name, slug) ─────────────────────────────────
 TEAMS = {
