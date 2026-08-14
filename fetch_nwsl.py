@@ -14,7 +14,7 @@ from icalendar import Calendar, Event
 
 OUTPUT_FILE = "nwsl.ics"
 BASE_URL = "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.nwsl"
-HEADERS = {"User-Agent": "Mozilla/5.0"}
+HEADERS = {}  # requests default (python-requests/<version>) passes ESPN WAF; Mozilla/5.0 does not
 
 TEAM_IDS = [
     "21422", "22187", "131562", "15360", "131563", "15364", "17346",

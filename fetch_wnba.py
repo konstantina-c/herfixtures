@@ -10,7 +10,7 @@ from icalendar import Calendar, Event
 
 OUTPUT_FILE = "wnba.ics"
 BASE_URL = "https://site.api.espn.com/apis/site/v2/sports/basketball/wnba"
-HEADERS = {"User-Agent": "Mozilla/5.0"}
+HEADERS = {}  # requests default (python-requests/<version>) passes ESPN WAF; Mozilla/5.0 does not
 
 TODAY = datetime.now(timezone.utc).date()
 SEASON_START = date(2026, 5, 16)
