@@ -1905,10 +1905,15 @@ function render(data) {
   const competitions = data.competitions || {};
   const allPostgame = [], allLivegame = [], allPregame = [];
 
+  const now = new Date();
   Object.values(competitions).forEach(comp => {
     (comp.postgame || []).forEach(g => { g.variant = 'postgame'; allPostgame.push(g); });
     (comp.livegame || []).forEach(g => { g.variant = 'livegame'; allLivegame.push(g); });
-    (comp.pregame  || []).forEach(g => { g.variant = 'pregame';  allPregame.push(g); });
+    (comp.pregame  || []).forEach(g => {
+      if (g.kickoff && new Date(g.kickoff) <= now) return; // skip stale entries
+      g.variant = 'pregame';
+      allPregame.push(g);
+    });
   });
 
   const lgGroup = document.getElementById('group-livegame');

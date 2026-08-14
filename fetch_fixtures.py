@@ -43,6 +43,9 @@ def fetch_fixtures(competition):
     params = {"leagueid": competition["id"]}
     print(f"Fetching {competition['name']}...")
     response = requests.get(url, headers=headers, params=params)
+    if response.status_code == 429:
+        print(f"  ⚠️  RapidAPI quota exhausted (429) — skipping remaining fetches")
+        return None  # sentinel: stop all further calls
     data = response.json()
     if "response" not in data:
         print(f"  ⚠️  No data returned for {competition['name']}")
@@ -92,6 +95,8 @@ def generate_ics(competition, matches):
 print("🟢 HerFixtures — generating calendar feeds...\n")
 for comp in COMPETITIONS:
     matches = fetch_fixtures(comp)
+    if matches is None:  # quota exhausted — stop all calls, preserve existing files
+        break
     if matches:
         generate_ics(comp, matches)
 
