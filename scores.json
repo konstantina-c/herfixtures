@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T09:41:09Z",
+  "updated": "2026-08-14T19:02:28Z",
   "competitions": {
     "wnba": {
       "name": "WNBA",
@@ -62,7 +62,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/5.png"
           },
           "kickoff": "2026-08-14T23:30:00Z",
-          "kickoff_label": "in 14h"
+          "kickoff_label": "in 4h"
         },
         {
           "league": "WNBA",
@@ -75,7 +75,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/14.png"
           },
           "kickoff": "2026-08-15T02:00:00Z",
-          "kickoff_label": "in 16h"
+          "kickoff_label": "in 7h"
         },
         {
           "league": "WNBA",
@@ -88,7 +88,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/18.png"
           },
           "kickoff": "2026-08-15T17:00:00Z",
-          "kickoff_label": "Tomorrow @ 5pm"
+          "kickoff_label": "in 22h"
         },
         {
           "league": "WNBA",
@@ -175,7 +175,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15364.png"
           },
           "kickoff": "2026-08-15T00:00:00Z",
-          "kickoff_label": "in 14h"
+          "kickoff_label": "in 5h"
         },
         {
           "league": "NWSL",
@@ -188,7 +188,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21423.png"
           },
           "kickoff": "2026-08-15T02:00:00Z",
-          "kickoff_label": "in 16h"
+          "kickoff_label": "in 7h"
         },
         {
           "league": "NWSL",
@@ -201,7 +201,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15363.png"
           },
           "kickoff": "2026-08-15T02:00:00Z",
-          "kickoff_label": "in 16h"
+          "kickoff_label": "in 7h"
         },
         {
           "league": "NWSL",
@@ -214,7 +214,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19141.png"
           },
           "kickoff": "2026-08-15T02:00:00Z",
-          "kickoff_label": "in 16h"
+          "kickoff_label": "in 7h"
         },
         {
           "league": "NWSL",
