@@ -28,21 +28,27 @@ def fetch_games():
     games = {}
 
     # Current/upcoming matchday — default scoreboard returns latest activity
-    r = session.get(f"{BASE_URL}/scoreboard", timeout=10)
-    r.raise_for_status()
-    for event in r.json().get("events", []):
-        games[event["id"]] = event
-
-    # Full season history from all 16 team schedules, deduplicated by event ID
-    for team_id in TEAM_IDS:
-        r = session.get(
-            f"{BASE_URL}/teams/{team_id}/schedule",
-            params={"season": 2026},
-            timeout=10,
-        )
+    try:
+        r = session.get(f"{BASE_URL}/scoreboard", timeout=10)
         r.raise_for_status()
         for event in r.json().get("events", []):
             games[event["id"]] = event
+    except requests.exceptions.RequestException as e:
+        print(f"  ⚠️  Scoreboard fetch error, skipping: {e}")
+
+    # Full season history from all 16 team schedules, deduplicated by event ID
+    for team_id in TEAM_IDS:
+        try:
+            r = session.get(
+                f"{BASE_URL}/teams/{team_id}/schedule",
+                params={"season": 2026},
+                timeout=10,
+            )
+            r.raise_for_status()
+            for event in r.json().get("events", []):
+                games[event["id"]] = event
+        except requests.exceptions.RequestException as e:
+            print(f"  ⚠️  Team {team_id} schedule error, skipping: {e}")
 
     return list(games.values())
 
@@ -149,6 +155,10 @@ def main():
     print("Fetching NWSL 2026 games from ESPN (team schedules + current scoreboard)...")
     events = fetch_games()
     print(f"  → {len(events)} games fetched")
+
+    if not events:
+        print("  ⚠️  No events — skipping write to preserve existing file")
+        return
 
     cal = build_calendar(events)
 

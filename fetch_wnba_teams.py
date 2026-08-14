@@ -218,6 +218,10 @@ def main():
     print(f"  → {len(all_games)} total games fetched")
     print()
 
+    if not all_games:
+        print("  ⚠️  No games returned — skipping all team feed writes to preserve existing files")
+        return
+
     for team_id, (team_name, slug) in TEAMS.items():
         output_file = f"wnba_{slug}.ics"
         cal, count = build_team_calendar(team_id, team_name, all_games)
