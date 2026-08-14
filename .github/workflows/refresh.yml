@@ -19,6 +19,19 @@ jobs:
           python-version: '3.11'
       - name: Install dependencies
         run: pip install requests icalendar pytz
+      - name: ESPN connectivity probe
+        run: |
+          python3 -c "
+          import requests, sys
+          try:
+              r = requests.get('https://site.api.espn.com/apis/site/v2/sports/basketball/wnba/scoreboard', timeout=10)
+              events = len(r.json().get('events', []))
+              print(f'ESPN probe: HTTP {r.status_code}, {events} events returned')
+              if r.status_code != 200:
+                  print('WARNING: ESPN returning non-200 — fetch scripts will skip writes and preserve existing files')
+          except Exception as e:
+              print(f'ESPN probe: connection error — {e}')
+          "
       - name: Run fetch script
         env:
           RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
