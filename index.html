@@ -91,10 +91,31 @@ body {
 #live-page {
   display: block;
   width: 100%;
-  background: var(--bg);
+  position: relative;
+  isolation: isolate;
+  background-color: var(--bg);
   color: var(--text);
   min-height: 100vh;
-  transition: background 0.4s, color 0.4s;
+  transition: background-color 0.4s, color 0.4s;
+}
+
+/* Hero gradient — rendered via ::before so a filter: blur can be applied to
+   soften the shape's edges (Figma layer-blur effect) without affecting any
+   children. z-index:-1 in an isolated parent keeps it behind all page content
+   while still sitting above #live-page's own background-color. */
+#live-page::before {
+  content: '';
+  position: absolute;
+  top: 130px;
+  left: 0;
+  right: 0;
+  height: 640px;
+  z-index: -1;
+  pointer-events: none;
+  background: radial-gradient(circle at 50% 45%, #028E53 0%, #2CCB88 30%, rgba(44,203,136,0) 70%);
+}
+[data-theme="dark"] #live-page::before {
+  background: radial-gradient(circle at 50% 45%, #04492C 0%, #09633D 30%, rgba(9,99,61,0) 70%);
 }
 
 /* Real topbar */
@@ -177,78 +198,261 @@ body {
 
   #live-page .real-topbar { padding: 16px 20px; }
 
-  /* Hero */
-  #live-page .hero {
-    padding: 48px 20px 56px;
+  /* ── Hero — competition announcement card ─────────────── */
+
+  #live-page .hero-slot {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 16px 0 40px;
+    /* Clip the decorative field-line shapes (left:-38 / right:-30) that
+       would otherwise bleed past the viewport edge and cause a horizontal
+       scrollbar on small viewports. */
+    overflow-x: clip;
+  }
+
+  #live-page .hero-card {
     position: relative;
+    width: 100%;
+    min-height: 440px;
+  }
+
+  #live-page .hero-card--mobile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    padding: 32px 0;
+  }
+
+  #live-page .hero-card--wide {
+    display: none;
+    align-items: center;
+    padding: 0;
+    gap: 48px;
+  }
+
+
+  #live-page .hero-card__noise {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.12;
+    mix-blend-mode: overlay;
+    pointer-events: none;
+    z-index: 1;
+  }
+
+  /* Field-line + circle blur shapes bleeding off the card */
+  #live-page .hero-card__field-line {
+    position: absolute;
+    top: 150px;
+    width: 101px;
+    height: 172px;
+    border-radius: 24px;
+    border: 2px solid rgba(255,255,255,0.4);
+    filter: blur(4px);
+    z-index: 1;
+  }
+  #live-page .hero-card__field-line--left  { left: -38px; }
+  #live-page .hero-card__field-line--right { right: -30px; }
+
+  #live-page .hero-card__field-circle {
+    position: absolute;
+    top: 150px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 137px;
+    height: 137px;
+    border-radius: 50%;
+    border: 2px solid rgba(255,255,255,0.4);
+    filter: blur(4px);
+    z-index: 1;
+  }
+
+  #live-page .hero-card--wide .hero-card__field-line {
+    top: 50%;
+    transform: translateY(-50%);
+    border-color: rgba(255,255,255,0.6);
+  }
+  #live-page .hero-card--wide .hero-card__field-line--left  { left: -30px; }
+  #live-page .hero-card--wide .hero-card__field-line--right { right: -30px; }
+  #live-page .hero-card--wide .hero-card__field-circle {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  #live-page .hero-card__eyebrow {
+    position: relative;
+    z-index: 2;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #06060F;
+  }
+  [data-theme="dark"] #live-page .hero-card__eyebrow { color: #fff; }
+
+  #live-page .hero-card__crest-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    z-index: 2;
+  }
+
+  #live-page .hero-card__headline {
+    position: relative;
+    z-index: 2;
+    font-family: 'Zalando Sans Expanded', 'Arial Black', sans-serif;
+    font-weight: 900;
+    font-size: 73px;
+    line-height: 56px;
+    text-align: center;
+    width: 100%;
+    word-break: break-word;
+    margin: 0 0 -16px;
+    color: #06060F;
+  }
+  [data-theme="dark"] #live-page .hero-card__headline { color: #fff; }
+
+  #live-page .hero-card__subtext {
+    position: relative;
+    z-index: 2;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: capitalize;
+    text-align: center;
+    color: #06060F;
+  }
+  [data-theme="dark"] #live-page .hero-card__subtext { color: #fff; }
+
+  #live-page .hero-card__badge-wrap {
+    position: relative;
+    z-index: 2;
+    width: 120px;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+
+  #live-page .hero-card__badge {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background: #fff;
+    border: 4px solid #004941;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+
+  #live-page .hero-card__badge-inner {
+    width: 94px;
+    height: 94px;
+    border-radius: 50%;
+    background: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
     overflow: hidden;
   }
-
-  #live-page .hero::before {
-    content: '';
-    position: absolute; inset: 0;
-    background-image:
-      linear-gradient(var(--grid) 1px, transparent 1px),
-      linear-gradient(90deg, var(--grid) 1px, transparent 1px);
-    background-size: 32px 32px;
-    pointer-events: none; z-index: 0;
+  #live-page .hero-card__badge-inner img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
   }
 
-  #live-page .hero-title {
-    font-family: 'Zalando Sans Expanded', sans-serif;
-    font-weight: 900;
-    font-size: 52px;
-    line-height: 0.94;
-    letter-spacing: -0.02em;
-    margin-bottom: 24px;
-    position: relative; z-index: 1;
-    max-width: 100%;
+  #live-page .hero-card__buttons {
+    position: relative;
+    z-index: 2;
+    display: flex;
+    gap: 16px;
+  }
+  #live-page .hero-card--mobile .hero-card__buttons {
+    width: 100%;
+    padding: 0 16px;
+    flex-direction: column;
+  }
+  #live-page .hero-card--mobile .hero-card__btn {
+    width: 100%;
   }
 
-  #live-page .hero-title .w1,
-  #live-page .hero-title .w3,
-  #live-page .hero-title .w4 { display: block; color: var(--text); transition: color 0.4s; }
-
-  #live-page .hero-title .w2 {
-    display: inline-block; width: fit-content;
-    background: linear-gradient(to right, #073EE3 0%, #FF4D4D 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-  }
-
-  #live-page .hero-sub {
-    font-size: 16px;
-    color: var(--text2);
-    line-height: 1.65;
-    margin-bottom: 32px;
-    max-width: 100%;
-    position: relative; z-index: 1;
-    transition: color 0.4s;
-  }
-
-  #live-page .hero-cta {
-    display: inline-flex; align-items: center; gap: 12px;
-    font-size: 14px; font-weight: 600; color: var(--muted);
-    cursor: pointer; transition: color 0.2s;
-    position: relative; z-index: 1;
-  }
-
-  #live-page .arrow-btn {
-    width: 40px; height: 40px; border-radius: 50%;
-    background: var(--brand-fg);
-    display: flex; align-items: center; justify-content: center;
-    color: white; font-size: 16px;
-    transition: transform 0.2s;
-    box-shadow: 0 4px 16px rgba(7,62,227,0.3);
-  }
-
-  #live-page .hero-social-proof {
+  #live-page .hero-card__btn {
+    height: 44px;
+    border-radius: 12px;
+    font-family: 'DM Sans', sans-serif;
     font-size: 13px;
-    color: var(--muted);
-    margin-top: 20px;
-    position: relative; z-index: 1;
-    transition: color 0.4s;
+    font-weight: 600;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    cursor: pointer;
+    border: 1.5px solid transparent;
+    padding: 0 20px;
+    text-decoration: none;
+    line-height: 1;
+    box-sizing: border-box;
+    transition: opacity 0.2s;
+  }
+  #live-page .hero-card__btn:hover { opacity: 0.85; }
+
+  #live-page .hero-card__btn--outline {
+    background: transparent;
+    border-color: #06060F;
+    color: #06060F;
+  }
+  [data-theme="dark"] #live-page .hero-card__btn--outline {
+    border-color: #fff;
+    color: #fff;
+  }
+
+  #live-page .hero-card__btn--filled {
+    background: #073EE3;
+    color: #fff;
+  }
+  [data-theme="dark"] #live-page .hero-card__btn--filled {
+    background: #5E86FF;
+  }
+
+  /* Desktop text/visual columns */
+  #live-page .hero-card__text {
+    position: relative;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+  #live-page .hero-card--wide .hero-card__eyebrow,
+  #live-page .hero-card--wide .hero-card__subtext { text-align: left; }
+  #live-page .hero-card--wide .hero-card__headline {
+    text-align: left;
+    font-size: 80px;
+    line-height: 61px;
+    margin-bottom: 0;
+    word-break: normal;
+  }
+  #live-page .hero-card__visual {
+    position: relative;
+    z-index: 2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 0 0 auto;
+    padding-right: 24px;
   }
 
   #live-page .email-social-proof {
@@ -600,9 +804,20 @@ body {
 @media (min-width: 768px) {
 
   #live-page .real-topbar { padding: 20px 48px; }
-  #live-page .hero { padding: 80px 48px 72px; }
-  #live-page .hero-title { font-size: 80px; max-width: 640px; }
-  #live-page .hero-sub { font-size: 18px; max-width: 520px; margin-bottom: 40px; }
+  #live-page .hero-slot { padding: 24px 48px 56px; }
+  /* Desktop: linear-gradient rectangle with a strong layer blur to soften
+     all four edges — matches the Figma hero rectangle (node 300:823). */
+  #live-page::before {
+    top: 200px;
+    height: 440px;
+    background: linear-gradient(270deg, rgba(44,203,136,0.80) 0%, rgba(2,142,83,0.80) 49.52%, rgba(44,203,136,0.80) 100%);
+    filter: blur(60px);
+  }
+  [data-theme="dark"] #live-page::before {
+    background: linear-gradient(270deg, rgba(9,99,61,0.80) 0%, rgba(4,73,44,0.80) 49.52%, rgba(9,99,61,0.80) 100%);
+  }
+  #live-page .hero-card--mobile { display: none; }
+  #live-page .hero-card--wide   { display: flex; }
   #live-page .divider { margin: 0 48px; }
   #live-page .section { padding: 56px 48px; }
   #live-page .section-title { font-size: 40px; }
@@ -625,11 +840,11 @@ body {
 
   #live-page .page-content { max-width: 1280px; }
 
-  #live-page .hero { padding: 100px 80px 88px; }
-
-  #live-page .hero-title { font-size: 110px; max-width: 860px; }
-
-  #live-page .hero-sub { font-size: 20px; max-width: 580px; margin-bottom: 48px; }
+  #live-page .hero-slot { padding: 32px 80px 72px; }
+  #live-page .hero-card--wide .hero-card__headline {
+    font-size: 110px;
+    line-height: 85px;
+  }
 
   #live-page .divider { margin: 0 80px; }
 
@@ -918,22 +1133,82 @@ body {
 
   <div class="page-content">
 
-    <!-- Hero -->
-    <div class="hero" id="live-hero">
-      <div class="hero-title">
-        <span class="w1">Women's</span>
-        <span class="w2">Sports</span>
-        <span class="w3">On Your</span>
-        <span class="w4">Calendar.</span>
+    <!-- Hero — competition announcement card (Frauen-Bundesliga) -->
+    <div class="hero-slot" id="live-hero">
+
+      <!-- Mobile stack (up to 767px) -->
+      <div class="hero-card hero-card--mobile" data-sport="football">
+        <svg class="hero-card__noise" aria-hidden="true">
+          <filter id="hero-noise-mobile">
+            <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/>
+            <feColorMatrix type="saturate" values="0"/>
+          </filter>
+          <rect width="100%" height="100%" filter="url(#hero-noise-mobile)"/>
+        </svg>
+
+        <div class="hero-card__field-line hero-card__field-line--left" aria-hidden="true"></div>
+        <div class="hero-card__field-line hero-card__field-line--right" aria-hidden="true"></div>
+        <div class="hero-card__field-circle" aria-hidden="true"></div>
+
+        <div class="hero-card__eyebrow">We Welcome</div>
+
+        <div class="hero-card__crest-group">
+          <h1 class="hero-card__headline">FRAUENBUNDESLIGA</h1>
+          <div class="hero-card__badge-wrap">
+            <div class="hero-card__badge">
+              <div class="hero-card__badge-inner">
+                <img src="/assets/DFB_logo.svg" alt="Frauen-Bundesliga crest">
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="hero-card__subtext">14 teams · 182 matches · Kick off August 21</div>
+
+        <div class="hero-card__buttons">
+          <a class="hero-card__btn hero-card__btn--outline" href="/blog/frauen-bundesliga-2026-27-season-preview/">Read the Season Preview</a>
+          <button type="button" class="hero-card__btn hero-card__btn--filled" onclick="openFrauenBLModal()" aria-haspopup="dialog">
+            <span aria-hidden="true">+</span> Add to Calendar
+          </button>
+        </div>
       </div>
-      <p class="hero-sub">
-        The fixtures were always happening. Now they live where you'll actually see them — in your calendar. Just pick your competition and add it to Google Calendar or Apple Calendar.
-      </p>
-      <div class="hero-cta" onclick="document.getElementById('live-feeds').scrollIntoView({behavior:'smooth'})">
-        <div class="arrow-btn">↓</div>
-        See the feeds
+
+      <!-- Wide layout (768px+) -->
+      <div class="hero-card hero-card--wide" data-sport="football">
+        <svg class="hero-card__noise" aria-hidden="true">
+          <filter id="hero-noise-wide">
+            <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/>
+            <feColorMatrix type="saturate" values="0"/>
+          </filter>
+          <rect width="100%" height="100%" filter="url(#hero-noise-wide)"/>
+        </svg>
+
+        <div class="hero-card__field-line hero-card__field-line--left" aria-hidden="true"></div>
+        <div class="hero-card__field-line hero-card__field-line--right" aria-hidden="true"></div>
+        <div class="hero-card__field-circle" aria-hidden="true"></div>
+
+        <div class="hero-card__text">
+          <div class="hero-card__eyebrow">We Welcome</div>
+          <h1 class="hero-card__headline">FRAUEN<br>BUNDES<br>LIGA</h1>
+          <div class="hero-card__subtext">14 teams · 182 matches · Kick off August 21</div>
+          <div class="hero-card__buttons">
+            <a class="hero-card__btn hero-card__btn--outline" href="/blog/frauen-bundesliga-2026-27-season-preview/">Read the Season Preview</a>
+            <button type="button" class="hero-card__btn hero-card__btn--filled" onclick="openFrauenBLModal()" aria-haspopup="dialog">
+              <span aria-hidden="true">+</span> Add to Calendar
+            </button>
+          </div>
+        </div>
+
+        <div class="hero-card__visual">
+          <div class="hero-card__badge-wrap">
+            <div class="hero-card__badge">
+              <div class="hero-card__badge-inner">
+                <img src="/assets/DFB_logo.svg" alt="Frauen-Bundesliga crest">
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
-      <p class="hero-social-proof">Already followed by fans in New York, Madrid, Paris, Amsterdam and more.</p>
     </div>
 
     <div class="divider"></div>
