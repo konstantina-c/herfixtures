@@ -204,6 +204,10 @@ body {
     max-width: 1280px;
     margin: 0 auto;
     padding: 16px 0 40px;
+    /* Clip the decorative field-line shapes (left:-38 / right:-30) that
+       would otherwise bleed past the viewport edge and cause a horizontal
+       scrollbar on small viewports. */
+    overflow-x: clip;
   }
 
   #live-page .hero-card {
