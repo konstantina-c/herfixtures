@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ RB Leipzig Frauen vs Bayer 04 Leverkusen Frauen
 DTSTART:20260823T140000Z
 DTEND:20260823T160000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85273@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 1. Spieltag\nRB Leipzig Frauen vs
   Bayer 04 Leverkusen Frauen\nVenue: Trainingszentrum Cottaweg\, Leipzig\n\
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ SV Werder Bremen Frauen vs RB Leipzig Frauen
 DTSTART:20260830T163000Z
 DTEND:20260830T183000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85275@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 2. Spieltag\nSV Werder Bremen Fra
  uen vs RB Leipzig Frauen\nVenue: Weserstadion - Platz 11\, Bremen\n\nData:
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Hamburger SV Frauen vs RB Leipzig Frauen
 DTSTART:20260905T100000Z
 DTEND:20260905T120000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85284@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 3. Spieltag\nHamburger SV Frauen 
  vs RB Leipzig Frauen\nVenue: Volksparkstadion\, Hamburg\n\nData: openligad
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ RB Leipzig Frauen vs 1. FC Nürnberg Frauen
 DTSTART:20260912T100000Z
 DTEND:20260912T120000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85737@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 4. Spieltag\nRB Leipzig Frauen vs
   1. FC Nürnberg Frauen\nVenue: Trainingszentrum Cottaweg\, Leipzig\n\nDat
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FC Union Berlin Frauen vs RB Leipzig Frauen
 DTSTART:20260920T140000Z
 DTEND:20260920T160000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85748@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 5. Spieltag\n1. FC Union Berlin F
  rauen vs RB Leipzig Frauen\nVenue: An der Alten Försterei\, Berlin\n\nDat
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ RB Leipzig Frauen vs 1. FSV Mainz 05 Frauen
 DTSTART:20261004T133000Z
 DTEND:20261004T153000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85752@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 6. Spieltag\nRB Leipzig Frauen vs
   1. FSV Mainz 05 Frauen\nVenue: Trainingszentrum Cottaweg\, Leipzig\n\nDat
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ SC Freiburg Frauen vs RB Leipzig Frauen
 DTSTART:20261018T133000Z
 DTEND:20261018T153000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85760@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 7. Spieltag\nSC Freiburg Frauen v
  s RB Leipzig Frauen\nVenue: Dreisamstadion\, Freiburg\n\nData: openligadb.
@@ -90,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ RB Leipzig Frauen vs FC Bayern München Frauen
 DTSTART:20261025T143000Z
 DTEND:20261025T163000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85768@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 8. Spieltag\nRB Leipzig Frauen vs
   FC Bayern München Frauen\nVenue: Trainingszentrum Cottaweg\, Leipzig\n\n
@@ -101,7 +101,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FC Köln Frauen vs RB Leipzig Frauen
 DTSTART:20261108T143000Z
 DTEND:20261108T163000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85774@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 9. Spieltag\n1. FC Köln Frauen v
  s RB Leipzig Frauen\nVenue: Franz-Kremer-Stadion\, Köln\n\nData: openliga
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ RB Leipzig Frauen vs Eintracht Frankfurt Frauen
 DTSTART:20261115T143000Z
 DTEND:20261115T163000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85783@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 10. Spieltag\nRB Leipzig Frauen v
  s Eintracht Frankfurt Frauen\nVenue: Trainingszentrum Cottaweg\, Leipzig\n
@@ -123,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ RB Leipzig Frauen vs VfL Wolfsburg Frauen
 DTSTART:20261122T143000Z
 DTEND:20261122T163000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85790@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 11. Spieltag\nRB Leipzig Frauen v
  s VfL Wolfsburg Frauen\nVenue: Trainingszentrum Cottaweg\, Leipzig\n\nData
@@ -134,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ VfB Stuttgart Frauen vs RB Leipzig Frauen
 DTSTART:20261213T143000Z
 DTEND:20261213T163000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85796@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 12. Spieltag\nVfB Stuttgart Fraue
  n vs RB Leipzig Frauen\nVenue: GAZi-Stadion auf der Waldau\, Stuttgart\n\n
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ RB Leipzig Frauen vs TSG 1899 Hoffenheim Frauen
 DTSTART:20261220T143000Z
 DTEND:20261220T163000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85803@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 13. Spieltag\nRB Leipzig Frauen v
  s TSG 1899 Hoffenheim Frauen\nVenue: Trainingszentrum Cottaweg\, Leipzig\n
@@ -156,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bayer 04 Leverkusen Frauen vs RB Leipzig Frauen
 DTSTART:20270117T143000Z
 DTEND:20270117T163000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85810@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 14. Spieltag\nBayer 04 Leverkusen
   Frauen vs RB Leipzig Frauen\nVenue: Ulrich-Haberland-Stadion\, Leverkusen
@@ -167,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ RB Leipzig Frauen vs SV Werder Bremen Frauen
 DTSTART:20270124T143000Z
 DTEND:20270124T163000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85817@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 15. Spieltag\nRB Leipzig Frauen v
  s SV Werder Bremen Frauen\nVenue: Trainingszentrum Cottaweg\, Leipzig\n\nD
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ RB Leipzig Frauen vs Hamburger SV Frauen
 DTSTART:20270131T143000Z
 DTEND:20270131T163000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85825@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 16. Spieltag\nRB Leipzig Frauen v
  s Hamburger SV Frauen\nVenue: Trainingszentrum Cottaweg\, Leipzig\n\nData:
@@ -189,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FC Nürnberg Frauen vs RB Leipzig Frauen
 DTSTART:20270207T143000Z
 DTEND:20270207T163000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85830@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 17. Spieltag\n1. FC Nürnberg Fra
  uen vs RB Leipzig Frauen\nVenue: Max-Morlock-Stadion\, Nürnberg\n\nData: 
@@ -200,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ RB Leipzig Frauen vs 1. FC Union Berlin Frauen
 DTSTART:20270214T143000Z
 DTEND:20270214T163000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85835@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 18. Spieltag\nRB Leipzig Frauen v
  s 1. FC Union Berlin Frauen\nVenue: Trainingszentrum Cottaweg\, Leipzig\n\
@@ -211,7 +211,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FSV Mainz 05 Frauen vs RB Leipzig Frauen
 DTSTART:20270221T143000Z
 DTEND:20270221T163000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85843@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 19. Spieltag\n1. FSV Mainz 05 Fra
  uen vs RB Leipzig Frauen\nVenue: Bruchwegstadion\, Mainz\n\nData: openliga
@@ -222,7 +222,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ RB Leipzig Frauen vs SC Freiburg Frauen
 DTSTART:20270314T143000Z
 DTEND:20270314T163000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85852@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 20. Spieltag\nRB Leipzig Frauen v
  s SC Freiburg Frauen\nVenue: Trainingszentrum Cottaweg\, Leipzig\n\nData: 
@@ -233,7 +233,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Bayern München Frauen vs RB Leipzig Frauen
 DTSTART:20270321T143000Z
 DTEND:20270321T163000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85861@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 21. Spieltag\nFC Bayern München 
  Frauen vs RB Leipzig Frauen\nVenue: FC Bayern Campus\, München\n\nData: o
@@ -244,7 +244,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ RB Leipzig Frauen vs 1. FC Köln Frauen
 DTSTART:20270328T133000Z
 DTEND:20270328T153000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85865@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 22. Spieltag\nRB Leipzig Frauen v
  s 1. FC Köln Frauen\nVenue: Trainingszentrum Cottaweg\, Leipzig\n\nData: 
@@ -255,7 +255,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eintracht Frankfurt Frauen vs RB Leipzig Frauen
 DTSTART:20270411T133000Z
 DTEND:20270411T153000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85871@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 23. Spieltag\nEintracht Frankfurt
   Frauen vs RB Leipzig Frauen\nVenue: Stadion am Brentanobad\, Frankfurt\n\
@@ -266,7 +266,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ VfL Wolfsburg Frauen vs RB Leipzig Frauen
 DTSTART:20270502T133000Z
 DTEND:20270502T153000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85882@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 24. Spieltag\nVfL Wolfsburg Fraue
  n vs RB Leipzig Frauen\nVenue: AOK Stadion\, Wolfsburg\n\nData: openligadb
@@ -277,7 +277,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ RB Leipzig Frauen vs VfB Stuttgart Frauen
 DTSTART:20270509T133000Z
 DTEND:20270509T153000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85887@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 25. Spieltag\nRB Leipzig Frauen v
  s VfB Stuttgart Frauen\nVenue: Trainingszentrum Cottaweg\, Leipzig\n\nData
@@ -288,7 +288,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ TSG 1899 Hoffenheim Frauen vs RB Leipzig Frauen
 DTSTART:20270523T133000Z
 DTEND:20270523T153000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85893@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 26. Spieltag\nTSG 1899 Hoffenheim
   Frauen vs RB Leipzig Frauen\nVenue: Dietmar-Hopp-Stadion\, Hoffenheim\n\n

@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Hamburger SV Frauen vs SC Freiburg Frauen
 DTSTART:20260823T163000Z
 DTEND:20260823T183000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85271@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 1. Spieltag\nHamburger SV Frauen 
  vs SC Freiburg Frauen\nVenue: Volksparkstadion\, Hamburg\n\nData: openliga
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ VfB Stuttgart Frauen vs Hamburger SV Frauen
 DTSTART:20260829T120000Z
 DTEND:20260829T140000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85278@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 2. Spieltag\nVfB Stuttgart Frauen
   vs Hamburger SV Frauen\nVenue: GAZi-Stadion auf der Waldau\, Stuttgart\n\
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Hamburger SV Frauen vs RB Leipzig Frauen
 DTSTART:20260905T100000Z
 DTEND:20260905T120000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85284@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 3. Spieltag\nHamburger SV Frauen 
  vs RB Leipzig Frauen\nVenue: Volksparkstadion\, Hamburg\n\nData: openligad
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ SV Werder Bremen Frauen vs Hamburger SV Frauen
 DTSTART:20260911T163000Z
 DTEND:20260911T183000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85736@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 4. Spieltag\nSV Werder Bremen Fra
  uen vs Hamburger SV Frauen\nVenue: Weserstadion\, Bremen\n\nData: openliga
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Hamburger SV Frauen vs 1. FC Nürnberg Frauen
 DTSTART:20260920T120000Z
 DTEND:20260920T140000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85746@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 5. Spieltag\nHamburger SV Frauen 
  vs 1. FC Nürnberg Frauen\nVenue: Volksparkstadion\, Hamburg\n\nData: open
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ VfL Wolfsburg Frauen vs Hamburger SV Frauen
 DTSTART:20261004T133000Z
 DTEND:20261004T153000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85756@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 6. Spieltag\nVfL Wolfsburg Frauen
   vs Hamburger SV Frauen\nVenue: AOK Stadion\, Wolfsburg\n\nData: openligad
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FC Köln Frauen vs Hamburger SV Frauen
 DTSTART:20261018T133000Z
 DTEND:20261018T153000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85761@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 7. Spieltag\n1. FC Köln Frauen v
  s Hamburger SV Frauen\nVenue: Franz-Kremer-Stadion\, Köln\n\nData: openli
@@ -90,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Hamburger SV Frauen vs 1. FC Union Berlin Frauen
 DTSTART:20261025T143000Z
 DTEND:20261025T163000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85765@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 8. Spieltag\nHamburger SV Frauen 
  vs 1. FC Union Berlin Frauen\nVenue: Volksparkstadion\, Hamburg\n\nData: o
@@ -101,7 +101,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bayer 04 Leverkusen Frauen vs Hamburger SV Frauen
 DTSTART:20261108T143000Z
 DTEND:20261108T163000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85775@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 9. Spieltag\nBayer 04 Leverkusen 
  Frauen vs Hamburger SV Frauen\nVenue: Ulrich-Haberland-Stadion\, Leverkuse
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Hamburger SV Frauen vs 1. FSV Mainz 05 Frauen
 DTSTART:20261115T143000Z
 DTEND:20261115T163000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85779@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 10. Spieltag\nHamburger SV Frauen
   vs 1. FSV Mainz 05 Frauen\nVenue: Volksparkstadion\, Hamburg\n\nData: ope
@@ -123,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eintracht Frankfurt Frauen vs Hamburger SV Frauen
 DTSTART:20261122T143000Z
 DTEND:20261122T163000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85789@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 11. Spieltag\nEintracht Frankfurt
   Frauen vs Hamburger SV Frauen\nVenue: Stadion am Brentanobad\, Frankfurt\
@@ -134,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ TSG 1899 Hoffenheim Frauen vs Hamburger SV Frauen
 DTSTART:20261213T143000Z
 DTEND:20261213T163000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85795@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 12. Spieltag\nTSG 1899 Hoffenheim
   Frauen vs Hamburger SV Frauen\nVenue: Dietmar-Hopp-Stadion\, Hoffenheim\n
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Hamburger SV Frauen vs FC Bayern München Frauen
 DTSTART:20261220T143000Z
 DTEND:20261220T163000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85801@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 13. Spieltag\nHamburger SV Frauen
   vs FC Bayern München Frauen\nVenue: Volksparkstadion\, Hamburg\n\nData: 
@@ -156,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ SC Freiburg Frauen vs Hamburger SV Frauen
 DTSTART:20270117T143000Z
 DTEND:20270117T163000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85807@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 14. Spieltag\nSC Freiburg Frauen 
  vs Hamburger SV Frauen\nVenue: Dreisamstadion\, Freiburg\n\nData: openliga
@@ -167,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Hamburger SV Frauen vs VfB Stuttgart Frauen
 DTSTART:20270124T143000Z
 DTEND:20270124T163000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85815@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 15. Spieltag\nHamburger SV Frauen
   vs VfB Stuttgart Frauen\nVenue: Volksparkstadion\, Hamburg\n\nData: openl
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ RB Leipzig Frauen vs Hamburger SV Frauen
 DTSTART:20270131T143000Z
 DTEND:20270131T163000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85825@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 16. Spieltag\nRB Leipzig Frauen v
  s Hamburger SV Frauen\nVenue: Trainingszentrum Cottaweg\, Leipzig\n\nData:
@@ -189,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Hamburger SV Frauen vs SV Werder Bremen Frauen
 DTSTART:20270207T143000Z
 DTEND:20270207T163000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85829@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 17. Spieltag\nHamburger SV Frauen
   vs SV Werder Bremen Frauen\nVenue: Volksparkstadion\, Hamburg\n\nData: op
@@ -200,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FC Nürnberg Frauen vs Hamburger SV Frauen
 DTSTART:20270214T143000Z
 DTEND:20270214T163000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85836@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 18. Spieltag\n1. FC Nürnberg Fra
  uen vs Hamburger SV Frauen\nVenue: Max-Morlock-Stadion\, Nürnberg\n\nData
@@ -211,7 +211,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Hamburger SV Frauen vs VfL Wolfsburg Frauen
 DTSTART:20270221T143000Z
 DTEND:20270221T163000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85845@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 19. Spieltag\nHamburger SV Frauen
   vs VfL Wolfsburg Frauen\nVenue: Volksparkstadion\, Hamburg\n\nData: openl
@@ -222,7 +222,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Hamburger SV Frauen vs 1. FC Köln Frauen
 DTSTART:20270314T143000Z
 DTEND:20270314T163000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85849@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 20. Spieltag\nHamburger SV Frauen
   vs 1. FC Köln Frauen\nVenue: Volksparkstadion\, Hamburg\n\nData: openlig
@@ -233,7 +233,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FC Union Berlin Frauen vs Hamburger SV Frauen
 DTSTART:20270321T143000Z
 DTEND:20270321T163000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85855@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 21. Spieltag\n1. FC Union Berlin 
  Frauen vs Hamburger SV Frauen\nVenue: Alte Försterei\, Berlin\n\nData: op
@@ -244,7 +244,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Hamburger SV Frauen vs Bayer 04 Leverkusen Frauen
 DTSTART:20270328T133000Z
 DTEND:20270328T153000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85863@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 22. Spieltag\nHamburger SV Frauen
   vs Bayer 04 Leverkusen Frauen\nVenue: Volksparkstadion\, Hamburg\n\nData:
@@ -255,7 +255,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FSV Mainz 05 Frauen vs Hamburger SV Frauen
 DTSTART:20270411T133000Z
 DTEND:20270411T153000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85870@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 23. Spieltag\n1. FSV Mainz 05 Fra
  uen vs Hamburger SV Frauen\nVenue: Bruchwegstadion\, Mainz\n\nData: openli
@@ -266,7 +266,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Hamburger SV Frauen vs Eintracht Frankfurt Frauen
 DTSTART:20270502T133000Z
 DTEND:20270502T153000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85877@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 24. Spieltag\nHamburger SV Frauen
   vs Eintracht Frankfurt Frauen\nVenue: Volksparkstadion\, Hamburg\n\nData:
@@ -277,7 +277,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Hamburger SV Frauen vs TSG 1899 Hoffenheim Frauen
 DTSTART:20270509T133000Z
 DTEND:20270509T153000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85885@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 25. Spieltag\nHamburger SV Frauen
   vs TSG 1899 Hoffenheim Frauen\nVenue: Volksparkstadion\, Hamburg\n\nData:
@@ -288,7 +288,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Bayern München Frauen vs Hamburger SV Frauen
 DTSTART:20270523T133000Z
 DTEND:20270523T153000Z
-DTSTAMP:20260817T184845Z
+DTSTAMP:20260818T065406Z
 UID:openligadb-ffb1-85896@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 26. Spieltag\nFC Bayern München 
  Frauen vs Hamburger SV Frauen\nVenue: FC Bayern Campus\, München\n\nData:
