@@ -1,0 +1,369 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//Liga F 2026-27 Dux Logroño//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Dux Logroño Liga F 2026/27 fixtures. Updated automatically b
+ y HerFixtures.com
+X-WR-CALNAME:Dux Logroño — Liga F 2026/27 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Dux Logroño @ Real Sociedad
+DTSTART:20260829T100000Z
+DTEND:20260829T120000Z
+DTSTAMP:20260819T144022Z
+UID:espn-liga-f-401882533@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Real Sociedad\nStatus:
+  Scheduled\nVenue: Instalaciones de Zubieta\, San Sebastian\n\nFixtures by
+  HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882533/dux-logrono-real-
+ sociedad
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Athletic Club @ Dux Logroño
+DTSTART:20260906T163000Z
+DTEND:20260906T183000Z
+DTSTAMP:20260819T144022Z
+UID:espn-liga-f-401882530@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Dux Logroño\nStatus:
+  Scheduled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882530/athletic-club-dux
+ -logrono
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Valencia @ Dux Logroño
+DTSTART:20260913T180000Z
+DTEND:20260913T200000Z
+DTSTAMP:20260819T144022Z
+UID:espn-liga-f-401882521@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nValencia at Dux Logroño\nStatus: Sche
+ duled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — Wom
+ en's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882521/valencia-dux-logr
+ ono
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Dux Logroño @ Atlético Madrid
+DTSTART:20260920T180000Z
+DTEND:20260920T200000Z
+DTSTAMP:20260819T144022Z
+UID:espn-liga-f-401882515@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Atlético Madrid\nStat
+ us: Scheduled\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de Hen
+ ares\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882515/dux-logrono-atlet
+ ico-madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Barcelona @ Dux Logroño
+DTSTART:20260927T180000Z
+DTEND:20260927T200000Z
+DTSTAMP:20260819T144022Z
+UID:espn-liga-f-401882506@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Dux Logroño\nStatus: Sch
+ eduled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — Wo
+ men's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882506/barcelona-dux-log
+ rono
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Dux Logroño @ CD Tenerife
+DTSTART:20261004T180000Z
+DTEND:20261004T200000Z
+DTSTAMP:20260819T144022Z
+UID:espn-liga-f-401882500@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at CD Tenerife\nStatus: S
+ cheduled\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tener
+ ife\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882500/dux-logrono-cd-te
+ nerife
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Granada @ Dux Logroño
+DTSTART:20261018T180000Z
+DTEND:20261018T200000Z
+DTSTAMP:20260819T144022Z
+UID:espn-liga-f-401882489@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nGranada at Dux Logroño\nStatus: Sched
+ uled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — Wome
+ n's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882489/granada-dux-logro
+ no
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ FC Badalona @ Dux Logroño
+DTSTART:20261025T180000Z
+DTEND:20261025T200000Z
+DTSTAMP:20260819T144022Z
+UID:espn-liga-f-401882481@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Dux Logroño\nStatus: S
+ cheduled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — 
+ Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882481/fc-badalona-dux-l
+ ogrono
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Dux Logroño @ Espanyol
+DTSTART:20261101T200000Z
+DTEND:20261101T220000Z
+DTSTAMP:20260819T144022Z
+UID:espn-liga-f-401882474@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Espanyol\nStatus: Sche
+ duled\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882474/dux-logrono-espan
+ yol
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sevilla @ Dux Logroño
+DTSTART:20261108T200000Z
+DTEND:20261108T220000Z
+DTSTAMP:20260819T144022Z
+UID:espn-liga-f-401882464@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Dux Logroño\nStatus: Sched
+ uled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — Wome
+ n's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882464/sevilla-dux-logro
+ no
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Dux Logroño @ Madrid CFF
+DTSTART:20261115T200000Z
+DTEND:20261115T220000Z
+DTSTAMP:20260819T144022Z
+UID:espn-liga-f-401882457@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Madrid CFF\nStatus: Sc
+ heduled\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFi
+ xtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882457/dux-logrono-madri
+ d-cff
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Alavés @ Dux Logroño
+DTSTART:20261122T200000Z
+DTEND:20261122T220000Z
+DTSTAMP:20260819T144022Z
+UID:espn-liga-f-401882451@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Dux Logroño\nStatus: Sched
+ uled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — Wome
+ n's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882451/alaves-dux-logron
+ o
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Dux Logroño @ Eibar
+DTSTART:20261209T200000Z
+DTEND:20261209T220000Z
+DTSTAMP:20260819T144022Z
+UID:espn-liga-f-401882441@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Eibar\nStatus: Schedul
+ ed\nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sport
+ s on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882441/dux-logrono-eibar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Deportivo @ Dux Logroño
+DTSTART:20261213T200000Z
+DTEND:20261213T220000Z
+DTSTAMP:20260819T144022Z
+UID:espn-liga-f-401882434@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Dux Logroño\nStatus: Sch
+ eduled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — Wo
+ men's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882434/deportivo-dux-log
+ rono
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Dux Logroño @ Real Madrid
+DTSTART:20270110T200000Z
+DTEND:20270110T220000Z
+DTSTAMP:20260819T144022Z
+UID:espn-liga-f-401882422@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Real Madrid\nStatus: S
+ cheduled\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFi
+ xtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882422/dux-logrono-real-
+ madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Atlético Madrid @ Dux Logroño
+DTSTART:20270117T200000Z
+DTEND:20270117T220000Z
+DTSTAMP:20260819T144022Z
+UID:espn-liga-f-401882417@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Dux Logroño\nStat
+ us: Scheduled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com
+  — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882417/atletico-madrid-d
+ ux-logrono
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Dux Logroño @ FC Badalona
+DTSTART:20270124T200000Z
+DTEND:20270124T220000Z
+DTSTAMP:20260819T144022Z
+UID:espn-liga-f-401882407@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at FC Badalona\nStatus: S
+ cheduled\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882407/dux-logrono-fc-ba
+ dalona
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Dux Logroño @ Sevilla
+DTSTART:20270131T200000Z
+DTEND:20270131T220000Z
+DTSTAMP:20260819T144022Z
+UID:espn-liga-f-401882398@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Sevilla\nStatus: Sched
+ uled\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.com
+  — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882398/dux-logrono-sevil
+ la
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ CD Tenerife @ Dux Logroño
+DTSTART:20270207T200000Z
+DTEND:20270207T220000Z
+DTSTAMP:20260819T144022Z
+UID:espn-liga-f-401882395@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Dux Logroño\nStatus: S
+ cheduled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — 
+ Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882395/cd-tenerife-dux-l
+ ogrono
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Dux Logroño @ Barcelona
+DTSTART:20270214T200000Z
+DTEND:20270214T220000Z
+DTSTAMP:20260819T144022Z
+UID:espn-liga-f-401882382@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Barcelona\nStatus: Sch
+ eduled\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures.
+ com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882382/dux-logrono-barce
+ lona
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Eibar @ Dux Logroño
+DTSTART:20270221T200000Z
+DTEND:20270221T220000Z
+DTSTAMP:20260819T144022Z
+UID:espn-liga-f-401882379@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nEibar at Dux Logroño\nStatus: Schedul
+ ed\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — Women'
+ s Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882379/eibar-dux-logrono
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Dux Logroño @ Athletic Club
+DTSTART:20270314T180000Z
+DTEND:20270314T200000Z
+DTSTAMP:20260819T144022Z
+UID:espn-liga-f-401882372@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Athletic Club\nStatus:
+  Scheduled\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by
+  HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882372/dux-logrono-athle
+ tic-club
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Dux Logroño @ Alavés
+DTSTART:20270321T180000Z
+DTEND:20270321T200000Z
+DTSTAMP:20260819T144022Z
+UID:espn-liga-f-401882364@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Alavés\nStatus: Sched
+ uled\nVenue: Ciudad Deportiva José Luis Compañón\, Vitoria-Gasteiz\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882364/dux-logrono-alave
+ s
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Real Sociedad @ Dux Logroño
+DTSTART:20270328T180000Z
+DTEND:20270328T200000Z
+DTSTAMP:20260819T144022Z
+UID:espn-liga-f-401882354@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Dux Logroño\nStatus:
+  Scheduled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882354/real-sociedad-dux
+ -logrono
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Real Madrid @ Dux Logroño
+DTSTART:20270404T180000Z
+DTEND:20270404T200000Z
+DTSTAMP:20260819T144022Z
+UID:espn-liga-f-401882346@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Dux Logroño\nStatus: S
+ cheduled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — 
+ Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882346/real-madrid-dux-l
+ ogrono
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Dux Logroño @ Valencia
+DTSTART:20270411T180000Z
+DTEND:20270411T200000Z
+DTSTAMP:20260819T144022Z
+UID:espn-liga-f-401882333@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Valencia\nStatus: Sche
+ duled\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882333/dux-logrono-valen
+ cia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Dux Logroño @ Deportivo
+DTSTART:20270502T180000Z
+DTEND:20270502T200000Z
+DTSTAMP:20260819T144022Z
+UID:espn-liga-f-401882330@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Deportivo\nStatus: Sch
+ eduled\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882330/dux-logrono-depor
+ tivo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Madrid CFF @ Dux Logroño
+DTSTART:20270509T180000Z
+DTEND:20270509T200000Z
+DTSTAMP:20260819T144022Z
+UID:espn-liga-f-401882322@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Dux Logroño\nStatus: Sc
+ heduled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — W
+ omen's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882322/madrid-cff-dux-lo
+ grono
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Dux Logroño @ Granada
+DTSTART:20270519T180000Z
+DTEND:20270519T200000Z
+DTSTAMP:20260819T144022Z
+UID:espn-liga-f-401882311@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Granada\nStatus: Sched
+ uled\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882311/dux-logrono-grana
+ da
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Espanyol @ Dux Logroño
+DTSTART:20270523T180000Z
+DTEND:20270523T200000Z
+DTSTAMP:20260819T144022Z
+UID:espn-liga-f-401882306@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Dux Logroño\nStatus: Sche
+ duled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — Wom
+ en's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882306/espanyol-dux-logr
+ ono
+END:VEVENT
+END:VCALENDAR

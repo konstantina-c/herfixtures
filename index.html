@@ -1244,7 +1244,25 @@ body {
           </div>
         </div>
 
-        <!-- 2. WNBA — active season -->
+        <!-- 2. Liga F — season starts 29 Aug 2026 -->
+        <div class="feed-card" data-sport="football">
+          <div class="feed-header">
+            <div class="feed-icon">⚽</div>
+            <div class="feed-info">
+              <div class="feed-badge badge-live">Starts 29 August 2026</div>
+              <div class="feed-name">Liga F</div>
+              <div class="feed-meta">Football · Spain · 2026/27 season</div>
+            </div>
+          </div>
+          <div class="feed-divider"></div>
+          <div class="feed-actions">
+            <button class="btn-cal btn-choose-team" onclick="openLigaFModal()" aria-haspopup="dialog">
+              Add to Calendar
+            </button>
+          </div>
+        </div>
+
+        <!-- 3. WNBA — active season -->
         <div class="feed-card" data-sport="basketball">
           <div class="feed-header">
             <div class="feed-icon">🏀</div>
@@ -1262,7 +1280,7 @@ body {
           </div>
         </div>
 
-        <!-- 3. NWSL — active season -->
+        <!-- 4. NWSL — active season -->
         <div class="feed-card" data-sport="football">
           <div class="feed-header">
             <div class="feed-icon">⚽</div>
@@ -1280,7 +1298,7 @@ body {
           </div>
         </div>
 
-        <!-- 4. UCL Women — state derived from scores.json (ucl-women) -->
+        <!-- 5. UCL Women — state derived from scores.json (ucl-women) -->
         <div class="feed-card" id="ucl-feed-card" data-sport="football">
           <div class="feed-header">
             <div class="feed-icon">⚽</div>
@@ -1297,7 +1315,7 @@ body {
           </div>
         </div>
 
-        <!-- 5. ICC Women's T20 World Cup — tournament complete -->
+        <!-- 6. ICC Women's T20 World Cup — tournament complete -->
         <div class="feed-card" id="icc" data-sport="cricket">
           <div class="feed-header">
             <div class="feed-icon">🏏</div>
@@ -1314,7 +1332,7 @@ body {
           </div>
         </div>
 
-        <!-- 6. EuroLeague Women — off-season -->
+        <!-- 7. EuroLeague Women — off-season -->
         <div class="feed-card" data-sport="basketball">
           <div class="feed-header">
             <div class="feed-icon">🏀</div>
@@ -1832,6 +1850,30 @@ const ICC_CONFIG = {
   ]
 };
 
+const LIGA_F_CONFIG = {
+  leagueSlug:  'liga_f',
+  gaLabel:     'Liga F',
+  teams: [
+    { name: "All teams",      slug: "liga_f",                  emoji: "🇪🇸" },
+    { name: "Alavés",         slug: "liga_f_alaves",           logo: "https://a.espncdn.com/i/teamlogos/soccer/500/21378.png" },
+    { name: "Athletic Club",  slug: "liga_f_athletic_club",    logo: "https://a.espncdn.com/i/teamlogos/soccer/500/21372.png" },
+    { name: "Atlético Madrid",slug: "liga_f_atletico_madrid",  logo: "https://a.espncdn.com/i/teamlogos/soccer/500/20093.png" },
+    { name: "Barcelona",      slug: "liga_f_barcelona",        logo: "https://a.espncdn.com/i/teamlogos/soccer/500/20091.png" },
+    { name: "CD Tenerife",    slug: "liga_f_tenerife",         logo: "https://a.espncdn.com/i/teamlogos/soccer/500/131393.png" },
+    { name: "Deportivo",      slug: "liga_f_deportivo",        logo: "https://a.espncdn.com/i/teamlogos/soccer/500/21145.png" },
+    { name: "Dux Logroño",    slug: "liga_f_dux_logrono",      logo: "https://a.espncdn.com/i/teamlogos/soccer/500/21175.png" },
+    { name: "Eibar",          slug: "liga_f_eibar",            logo: "https://a.espncdn.com/i/teamlogos/soccer/500/21376.png" },
+    { name: "Espanyol",       slug: "liga_f_espanyol",         logo: "https://a.espncdn.com/i/teamlogos/soccer/500/21154.png" },
+    { name: "FC Badalona",    slug: "liga_f_badalona",         logo: "https://a.espncdn.com/i/teamlogos/soccer/500/21149.png" },
+    { name: "Granada",        slug: "liga_f_granada",          logo: "https://a.espncdn.com/i/teamlogos/soccer/500/21140.png" },
+    { name: "Madrid CFF",     slug: "liga_f_madrid_cff",       logo: "https://a.espncdn.com/i/teamlogos/soccer/500/21425.png" },
+    { name: "Real Madrid",    slug: "liga_f_real_madrid",      logo: "https://a.espncdn.com/i/teamlogos/soccer/500/21128.png" },
+    { name: "Real Sociedad",  slug: "liga_f_real_sociedad",    logo: "https://a.espncdn.com/i/teamlogos/soccer/500/21428.png" },
+    { name: "Sevilla",        slug: "liga_f_sevilla",          logo: "https://a.espncdn.com/i/teamlogos/soccer/500/21424.png" },
+    { name: "Valencia",       slug: "liga_f_valencia",         logo: "https://a.espncdn.com/i/teamlogos/soccer/500/21374.png" },
+  ]
+};
+
 const FRAUEN_BL_CONFIG = {
   leagueSlug:  'frauen_bundesliga',
   gaLabel:     'Frauen-Bundesliga',
@@ -1989,6 +2031,7 @@ document.addEventListener('keydown', e => { if (e.key === 'Escape') FeedModal.cl
 function openWNBAModal()     { FeedModal.open(WNBA_CONFIG);      }
 function openNWSLModal()     { FeedModal.open(NWSL_CONFIG);      }
 function openICCModal()      { FeedModal.open(ICC_CONFIG);       }
+function openLigaFModal()    { FeedModal.open(LIGA_F_CONFIG);    }
 function openFrauenBLModal() { FeedModal.open(FRAUEN_BL_CONFIG); }
 
 /* ── Sport filter pills ──────────────────────────────────────────────────── */

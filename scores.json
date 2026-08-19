@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T06:54:33Z",
+  "updated": "2026-08-19T14:41:09Z",
   "competitions": {
     "wnba": {
       "name": "WNBA",
@@ -76,7 +76,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/16.png"
           },
           "kickoff": "2026-08-19T23:30:00Z",
-          "kickoff_label": "in 17h"
+          "kickoff_label": "in 9h"
         },
         {
           "league": "WNBA",
@@ -89,7 +89,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/gs.png"
           },
           "kickoff": "2026-08-20T02:00:00Z",
-          "kickoff_label": "in 19h"
+          "kickoff_label": "in 11h"
         },
         {
           "league": "WNBA",
@@ -189,7 +189,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20905.png"
           },
           "kickoff": "2026-08-19T22:30:00Z",
-          "kickoff_label": "in 16h"
+          "kickoff_label": "in 8h"
         },
         {
           "league": "NWSL",
@@ -202,7 +202,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17346.png"
           },
           "kickoff": "2026-08-20T00:00:00Z",
-          "kickoff_label": "in 17h"
+          "kickoff_label": "in 9h"
         },
         {
           "league": "NWSL",
@@ -231,6 +231,14 @@
       "name": "Women's UCL",
       "sport": "football",
       "slug": "ucl-women",
+      "postgame": [],
+      "livegame": [],
+      "pregame": []
+    },
+    "liga-f": {
+      "name": "Liga F",
+      "sport": "football",
+      "slug": "liga-f",
       "postgame": [],
       "livegame": [],
       "pregame": []

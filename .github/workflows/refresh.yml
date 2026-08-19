@@ -50,6 +50,10 @@ jobs:
         run: python fetch_icc_womens_t20_teams.py
       - name: Run UCL Women fetch script
         run: python fetch_ucl.py
+      - name: Run Liga F fetch script
+        run: python fetch_liga_f.py
+      - name: Run Liga F team feeds script
+        run: python fetch_liga_f_teams.py
       - name: Run Frauen-Bundesliga fetch script
         run: python fetch_frauen_bundesliga.py
       - name: Run Frauen-Bundesliga team feeds script
@@ -62,6 +66,6 @@ jobs:
         run: |
           git config user.name "HerFixtures Bot"
           git config user.email "bot@herfixtures.com"
-          git add womens_ucl.ics euroleague_women.ics wnba.ics wnba_*.ics nwsl.ics nwsl_*.ics icc_womens_t20.ics icc_womens_t20_*.ics frauen_bundesliga.ics frauen_bl_*.ics scores.json sitemap.xml
+          git add womens_ucl.ics euroleague_women.ics wnba.ics wnba_*.ics nwsl.ics nwsl_*.ics icc_womens_t20.ics icc_womens_t20_*.ics liga_f.ics liga_f_*.ics frauen_bundesliga.ics frauen_bl_*.ics scores.json sitemap.xml
           git diff --staged --quiet || git commit -m "Auto-refresh feeds"
           git push
