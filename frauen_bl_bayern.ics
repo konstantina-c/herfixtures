@@ -14,7 +14,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FC Union Berlin Frauen vs FC Bayern München Frauen
 DTSTART:20260821T162000Z
 DTEND:20260821T182000Z
-DTSTAMP:20260819T065431Z
+DTSTAMP:20260819T184321Z
 UID:openligadb-ffb1-85162@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 1. Spieltag\n1. FC Union Berlin F
  rauen vs FC Bayern München Frauen\nVenue: Alte Försterei\, Berlin\n\nDat
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Bayern München Frauen vs 1. FSV Mainz 05 Frauen
 DTSTART:20260831T160000Z
 DTEND:20260831T180000Z
-DTSTAMP:20260819T065431Z
+DTSTAMP:20260819T184321Z
 UID:openligadb-ffb1-85280@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 2. Spieltag\nFC Bayern München F
  rauen vs 1. FSV Mainz 05 Frauen\nVenue: FC Bayern Campus\, München\n\nDat
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Bayern München Frauen vs SC Freiburg Frauen
 DTSTART:20260906T140000Z
 DTEND:20260906T160000Z
-DTSTAMP:20260819T065431Z
+DTSTAMP:20260819T184321Z
 UID:openligadb-ffb1-85286@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 3. Spieltag\nFC Bayern München F
  rauen vs SC Freiburg Frauen\nVenue: FC Bayern Campus\, München\n\nData: o
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bayer 04 Leverkusen Frauen vs FC Bayern München Frauen
 DTSTART:20260914T160000Z
 DTEND:20260914T180000Z
-DTSTAMP:20260819T065431Z
+DTSTAMP:20260819T184321Z
 UID:openligadb-ffb1-85742@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 4. Spieltag\nBayer 04 Leverkusen 
  Frauen vs FC Bayern München Frauen\nVenue: Ulrich-Haberland-Stadion\, Lev
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Bayern München Frauen vs 1. FC Köln Frauen
 DTSTART:20260919T120000Z
 DTEND:20260919T140000Z
-DTSTAMP:20260819T065431Z
+DTSTAMP:20260819T184321Z
 UID:openligadb-ffb1-85745@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 5. Spieltag\nFC Bayern München F
  rauen vs 1. FC Köln Frauen\nVenue: FC Bayern Campus\, München\n\nData: o
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eintracht Frankfurt Frauen vs FC Bayern München Frauen
 DTSTART:20261004T133000Z
 DTEND:20261004T153000Z
-DTSTAMP:20260819T065431Z
+DTSTAMP:20260819T184321Z
 UID:openligadb-ffb1-85755@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 6. Spieltag\nEintracht Frankfurt 
  Frauen vs FC Bayern München Frauen\nVenue: Stadion am Brentanobad\, Frank
@@ -80,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Bayern München Frauen vs VfB Stuttgart Frauen
 DTSTART:20261018T133000Z
 DTEND:20261018T153000Z
-DTSTAMP:20260819T065431Z
+DTSTAMP:20260819T184321Z
 UID:openligadb-ffb1-85763@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 7. Spieltag\nFC Bayern München F
  rauen vs VfB Stuttgart Frauen\nVenue: FC Bayern Campus\, München\n\nData:
@@ -91,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ RB Leipzig Frauen vs FC Bayern München Frauen
 DTSTART:20261025T143000Z
 DTEND:20261025T163000Z
-DTSTAMP:20260819T065431Z
+DTSTAMP:20260819T184321Z
 UID:openligadb-ffb1-85768@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 8. Spieltag\nRB Leipzig Frauen vs
   FC Bayern München Frauen\nVenue: Trainingszentrum Cottaweg\, Leipzig\n\n
@@ -102,7 +102,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Bayern München Frauen vs SV Werder Bremen Frauen
 DTSTART:20261108T143000Z
 DTEND:20261108T163000Z
-DTSTAMP:20260819T065431Z
+DTSTAMP:20260819T184321Z
 UID:openligadb-ffb1-85776@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 9. Spieltag\nFC Bayern München F
  rauen vs SV Werder Bremen Frauen\nVenue: FC Bayern Campus\, München\n\nDa
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ VfL Wolfsburg Frauen vs FC Bayern München Frauen
 DTSTART:20261115T143000Z
 DTEND:20261115T163000Z
-DTSTAMP:20260819T065431Z
+DTSTAMP:20260819T184321Z
 UID:openligadb-ffb1-85784@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 10. Spieltag\nVfL Wolfsburg Fraue
  n vs FC Bayern München Frauen\nVenue: AOK Stadion\, Wolfsburg\n\nData: op
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Bayern München Frauen vs TSG 1899 Hoffenheim Frauen
 DTSTART:20261122T143000Z
 DTEND:20261122T163000Z
-DTSTAMP:20260819T065431Z
+DTSTAMP:20260819T184321Z
 UID:openligadb-ffb1-85791@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 11. Spieltag\nFC Bayern München 
  Frauen vs TSG 1899 Hoffenheim Frauen\nVenue: FC Bayern Campus\, München\n
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Bayern München Frauen vs 1. FC Nürnberg Frauen
 DTSTART:20261213T143000Z
 DTEND:20261213T163000Z
-DTSTAMP:20260819T065431Z
+DTSTAMP:20260819T184321Z
 UID:openligadb-ffb1-85798@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 12. Spieltag\nFC Bayern München 
  Frauen vs 1. FC Nürnberg Frauen\nVenue: FC Bayern Campus\, München\n\nDa
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Hamburger SV Frauen vs FC Bayern München Frauen
 DTSTART:20261220T143000Z
 DTEND:20261220T163000Z
-DTSTAMP:20260819T065431Z
+DTSTAMP:20260819T184321Z
 UID:openligadb-ffb1-85801@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 13. Spieltag\nHamburger SV Frauen
   vs FC Bayern München Frauen\nVenue: Volksparkstadion\, Hamburg\n\nData: 
@@ -157,18 +157,18 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Bayern München Frauen vs 1. FC Union Berlin Frauen
 DTSTART:20270117T143000Z
 DTEND:20270117T163000Z
-DTSTAMP:20260819T065431Z
+DTSTAMP:20260819T184321Z
 UID:openligadb-ffb1-85811@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 14. Spieltag\nFC Bayern München 
- Frauen vs 1. FC Union Berlin Frauen\nVenue: FC Bayern Campus\, München\n\
- nData: openligadb.de (ODbL) · Fixtures by HerFixtures.com
+ Frauen vs 1. FC Union Berlin Frauen\nVenue: FC Bayern Campus\, München\n
+ \nData: openligadb.de (ODbL) · Fixtures by HerFixtures.com
 LOCATION:FC Bayern Campus\, München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ 1. FSV Mainz 05 Frauen vs FC Bayern München Frauen
 DTSTART:20270124T143000Z
 DTEND:20270124T163000Z
-DTSTAMP:20260819T065431Z
+DTSTAMP:20260819T184321Z
 UID:openligadb-ffb1-85814@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 15. Spieltag\n1. FSV Mainz 05 Fra
  uen vs FC Bayern München Frauen\nVenue: Bruchwegstadion\, Mainz\n\nData: 
@@ -179,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ SC Freiburg Frauen vs FC Bayern München Frauen
 DTSTART:20270131T143000Z
 DTEND:20270131T163000Z
-DTSTAMP:20260819T065431Z
+DTSTAMP:20260819T184321Z
 UID:openligadb-ffb1-85822@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 16. Spieltag\nSC Freiburg Frauen 
  vs FC Bayern München Frauen\nVenue: Dreisamstadion\, Freiburg\n\nData: op
@@ -190,7 +190,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Bayern München Frauen vs Bayer 04 Leverkusen Frauen
 DTSTART:20270207T143000Z
 DTEND:20270207T163000Z
-DTSTAMP:20260819T065431Z
+DTSTAMP:20260819T184321Z
 UID:openligadb-ffb1-85832@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 17. Spieltag\nFC Bayern München 
  Frauen vs Bayer 04 Leverkusen Frauen\nVenue: FC Bayern Campus\, München\n
@@ -201,7 +201,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FC Köln Frauen vs FC Bayern München Frauen
 DTSTART:20270214T143000Z
 DTEND:20270214T163000Z
-DTSTAMP:20260819T065431Z
+DTSTAMP:20260819T184321Z
 UID:openligadb-ffb1-85839@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 18. Spieltag\n1. FC Köln Frauen 
  vs FC Bayern München Frauen\nVenue: Franz-Kremer-Stadion\, Köln\n\nData:
@@ -212,7 +212,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Bayern München Frauen vs Eintracht Frankfurt Frauen
 DTSTART:20270221T143000Z
 DTEND:20270221T163000Z
-DTSTAMP:20260819T065431Z
+DTSTAMP:20260819T184321Z
 UID:openligadb-ffb1-85847@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 19. Spieltag\nFC Bayern München 
  Frauen vs Eintracht Frankfurt Frauen\nVenue: FC Bayern Campus\, München\n
@@ -223,7 +223,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ VfB Stuttgart Frauen vs FC Bayern München Frauen
 DTSTART:20270314T143000Z
 DTEND:20270314T163000Z
-DTSTAMP:20260819T065431Z
+DTSTAMP:20260819T184321Z
 UID:openligadb-ffb1-85851@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 20. Spieltag\nVfB Stuttgart Fraue
  n vs FC Bayern München Frauen\nVenue: GAZi-Stadion auf der Waldau\, Stutt
@@ -234,7 +234,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Bayern München Frauen vs RB Leipzig Frauen
 DTSTART:20270321T143000Z
 DTEND:20270321T163000Z
-DTSTAMP:20260819T065431Z
+DTSTAMP:20260819T184321Z
 UID:openligadb-ffb1-85861@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 21. Spieltag\nFC Bayern München 
  Frauen vs RB Leipzig Frauen\nVenue: FC Bayern Campus\, München\n\nData: o
@@ -245,7 +245,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ SV Werder Bremen Frauen vs FC Bayern München Frauen
 DTSTART:20270328T133000Z
 DTEND:20270328T153000Z
-DTSTAMP:20260819T065431Z
+DTSTAMP:20260819T184321Z
 UID:openligadb-ffb1-85862@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 22. Spieltag\nSV Werder Bremen Fr
  auen vs FC Bayern München Frauen\nVenue: Weserstadion - Platz 11\, Bremen
@@ -256,7 +256,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Bayern München Frauen vs VfL Wolfsburg Frauen
 DTSTART:20270411T133000Z
 DTEND:20270411T153000Z
-DTSTAMP:20260819T065431Z
+DTSTAMP:20260819T184321Z
 UID:openligadb-ffb1-85875@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 23. Spieltag\nFC Bayern München 
  Frauen vs VfL Wolfsburg Frauen\nVenue: FC Bayern Campus\, München\n\nData
@@ -267,7 +267,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ TSG 1899 Hoffenheim Frauen vs FC Bayern München Frauen
 DTSTART:20270502T133000Z
 DTEND:20270502T153000Z
-DTSTAMP:20260819T065431Z
+DTSTAMP:20260819T184321Z
 UID:openligadb-ffb1-85878@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 24. Spieltag\nTSG 1899 Hoffenheim
   Frauen vs FC Bayern München Frauen\nVenue: Dietmar-Hopp-Stadion\, Hoffen
@@ -278,7 +278,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FC Nürnberg Frauen vs FC Bayern München Frauen
 DTSTART:20270509T133000Z
 DTEND:20270509T153000Z
-DTSTAMP:20260819T065431Z
+DTSTAMP:20260819T184321Z
 UID:openligadb-ffb1-85888@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 25. Spieltag\n1. FC Nürnberg Fra
  uen vs FC Bayern München Frauen\nVenue: Max-Morlock-Stadion\, Nürnberg\n
@@ -289,7 +289,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Bayern München Frauen vs Hamburger SV Frauen
 DTSTART:20270523T133000Z
 DTEND:20270523T153000Z
-DTSTAMP:20260819T065431Z
+DTSTAMP:20260819T184321Z
 UID:openligadb-ffb1-85896@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 26. Spieltag\nFC Bayern München 
  Frauen vs Hamburger SV Frauen\nVenue: FC Bayern Campus\, München\n\nData:
