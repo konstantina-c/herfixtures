@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+PRODID:-//HerFixtures//FIBA Women's Basketball World Cup 2026 Australia//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Australia — FIBA WWC 2026 — HerFixtures
+X-WR-CALDESC:Australia FIBA Women's Basketball World Cup 2026 fixtures. Upd
+ ated automatically by HerFixtures.com.
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:fiba-wwc-2026-002@herfixtures.com
+DTSTAMP:20260820T060000Z
+SEQUENCE:0
+DTSTART:20260904T093000Z
+DTEND:20260904T113000Z
+SUMMARY:🏀 Australia vs Puerto Rico
+DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup C - Game 2\nAustr
+ alia vs Puerto Rico\nOfficial tickets for this session: https://www.eventi
+ m.de/en/artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-
+ 2026-max-schmeling-halle-sessions-4006861/?affiliate=b1w\nSource: https://
+ www.fiba.basketball/en/events/fiba-womens-basketball-world-cup-2026/games\
+ n\nFixtures by HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:Max-Schmeling-Halle\, Berlin\, Germany
+URL:https://www.fiba.basketball/en/events/fiba-womens-basketball-world-cup-
+ 2026/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wwc-2026-013@herfixtures.com
+DTSTAMP:20260820T060000Z
+SEQUENCE:0
+DTSTART:20260906T093000Z
+DTEND:20260906T113000Z
+SUMMARY:🏀 Türkiye vs Australia
+DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup C - Game 13\nTür
+ kiye vs Australia\nOfficial tickets for this session: https://www.eventim.
+ de/en/artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-20
+ 26-berlin-arena-sessions-3961330/?affiliate=b1w\nSource: https://www.fiba.
+ basketball/en/events/fiba-womens-basketball-world-cup-2026/games\n\nFixtur
+ es by HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:Berlin Arena\, Berlin\, Germany
+URL:https://www.fiba.basketball/en/events/fiba-womens-basketball-world-cup-
+ 2026/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wwc-2026-017@herfixtures.com
+DTSTAMP:20260820T060000Z
+SEQUENCE:0
+DTSTART:20260907T093000Z
+DTEND:20260907T113000Z
+SUMMARY:🏀 Belgium vs Australia
+DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup C - Game 17\nBelg
+ ium vs Australia\nOfficial tickets for this session: https://www.eventim.d
+ e/en/artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-202
+ 6-berlin-arena-sessions-3961330/?affiliate=b1w\nSource: https://www.fiba.b
+ asketball/en/events/fiba-womens-basketball-world-cup-2026/games\n\nFixture
+ s by HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:Berlin Arena\, Berlin\, Germany
+URL:https://www.fiba.basketball/en/events/fiba-womens-basketball-world-cup-
+ 2026/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
