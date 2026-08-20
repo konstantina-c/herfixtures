@@ -11,7 +11,7 @@ from zoneinfo import ZoneInfo
 ROOT = Path(__file__).resolve().parent
 DATA_FILE = ROOT / "feeds" / "fiba-wwc-2026" / "fixtures.json"
 OUTPUT_FILE = ROOT / "feeds" / "fiba-wwc-2026" / "all.ics"
-DTSTAMP = "20260820T060000Z"
+DTSTAMP = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
 
 
 def escape(value: str) -> str:

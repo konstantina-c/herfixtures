@@ -10,7 +10,7 @@ from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parent
 DATA_FILE = ROOT / "feeds" / "fiba-wwc-2026" / "fixtures.json"
-DTSTAMP = "20260820T060000Z"
+DTSTAMP = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
 
 # (name as it appears in fixtures.json, output slug)
 FIBA_TEAMS = [
