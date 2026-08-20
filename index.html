@@ -1778,7 +1778,7 @@ async function subscribeHer(emailId, leagueId, btn) {
    No new HTML, no new CSS, no new JS logic needed.
    ═══════════════════════════════════════════════════════════════════════════ */
 
-const BASE_URL  = 'herfixtures.vercel.app';
+const BASE_URL  = 'herfixtures.com';
 const CHECK_SVG = `<svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
 
 /* ── Team data ────────────────────────────────────────────────────────────── */
@@ -2371,8 +2371,8 @@ function updateUCLCard(data) {
   badge.className   = 'feed-badge badge-live';
   badge.textContent = 'Season in progress';
   actions.innerHTML =
-    `<button class="btn-cal" onclick="handleCalendarClick(event,'https://calendar.google.com/calendar/r?cid=webcal://herfixtures.vercel.app/womens_ucl.ics','UCL Women','google')">Add to Google</button>` +
-    `<button class="btn-cal" onclick="handleCalendarClick(event,'webcal://herfixtures.vercel.app/womens_ucl.ics','UCL Women','apple')">Add to Apple</button>`;
+    `<button class="btn-cal" onclick="handleCalendarClick(event,'https://calendar.google.com/calendar/r?cid=webcal://herfixtures.com/womens_ucl.ics','UCL Women','google')">Add to Google</button>` +
+    `<button class="btn-cal" onclick="handleCalendarClick(event,'webcal://herfixtures.com/womens_ucl.ics','UCL Women','apple')">Add to Apple</button>`;
 }
 
 fetch('/scores.json')
