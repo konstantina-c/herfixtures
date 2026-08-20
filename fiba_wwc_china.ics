@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+PRODID:-//HerFixtures//FIBA Women's Basketball World Cup 2026 China//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:China — FIBA WWC 2026 — HerFixtures
+X-WR-CALDESC:China FIBA Women's Basketball World Cup 2026 fixtures. Updated
+  automatically by HerFixtures.com.
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:fiba-wwc-2026-003@herfixtures.com
+DTSTAMP:20260820T060000Z
+SEQUENCE:0
+DTSTART:20260904T121500Z
+DTEND:20260904T141500Z
+SUMMARY:🏀 USA vs China
+DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup D - Game 3\nUSA v
+ s China\nOfficial tickets for this session: https://www.eventim.de/en/arti
+ st/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-max-sch
+ meling-halle-sessions-4006861/?affiliate=b1w\nSource: https://www.fiba.bas
+ ketball/en/events/fiba-womens-basketball-world-cup-2026/games\n\nFixtures 
+ by HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:Max-Schmeling-Halle\, Berlin\, Germany
+URL:https://www.fiba.basketball/en/events/fiba-womens-basketball-world-cup-
+ 2026/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wwc-2026-014@herfixtures.com
+DTSTAMP:20260820T060000Z
+SEQUENCE:0
+DTSTART:20260906T123000Z
+DTEND:20260906T143000Z
+SUMMARY:🏀 China vs Czechia
+DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup D - Game 14\nChin
+ a vs Czechia\nOfficial tickets for this session: https://www.eventim.de/en
+ /artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-be
+ rlin-arena-sessions-3961330/?affiliate=b1w\nSource: https://www.fiba.baske
+ tball/en/events/fiba-womens-basketball-world-cup-2026/games\n\nFixtures by
+  HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:Berlin Arena\, Berlin\, Germany
+URL:https://www.fiba.basketball/en/events/fiba-womens-basketball-world-cup-
+ 2026/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wwc-2026-024@herfixtures.com
+DTSTAMP:20260820T060000Z
+SEQUENCE:0
+DTSTART:20260907T184500Z
+DTEND:20260907T204500Z
+SUMMARY:🏀 Italy vs China
+DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup D - Game 24\nItal
+ y vs China\nOfficial tickets for this session: https://www.eventim.de/en/a
+ rtist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-max-
+ schmeling-halle-sessions-4006861/?affiliate=b1w\nSource: https://www.fiba.
+ basketball/en/events/fiba-womens-basketball-world-cup-2026/games\n\nFixtur
+ es by HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:Max-Schmeling-Halle\, Berlin\, Germany
+URL:https://www.fiba.basketball/en/events/fiba-womens-basketball-world-cup-
+ 2026/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

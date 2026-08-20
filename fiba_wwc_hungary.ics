@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+PRODID:-//HerFixtures//FIBA Women's Basketball World Cup 2026 Hungary//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hungary — FIBA WWC 2026 — HerFixtures
+X-WR-CALDESC:Hungary FIBA Women's Basketball World Cup 2026 fixtures. Updat
+ ed automatically by HerFixtures.com.
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:fiba-wwc-2026-008@herfixtures.com
+DTSTAMP:20260820T060000Z
+SEQUENCE:0
+DTSTART:20260904T190000Z
+DTEND:20260904T210000Z
+SUMMARY:🏀 Hungary vs France
+DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup B - Game 8\nHunga
+ ry vs France\nOfficial tickets for this session: https://www.eventim.de/en
+ /artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-be
+ rlin-arena-sessions-3961330/?affiliate=b1w\nSource: https://www.fiba.baske
+ tball/en/events/fiba-womens-basketball-world-cup-2026/games\n\nFixtures by
+  HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:Berlin Arena\, Berlin\, Germany
+URL:https://www.fiba.basketball/en/events/fiba-womens-basketball-world-cup-
+ 2026/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wwc-2026-010@herfixtures.com
+DTSTAMP:20260820T060000Z
+SEQUENCE:0
+DTSTART:20260905T121500Z
+DTEND:20260905T141500Z
+SUMMARY:🏀 Nigeria vs Hungary
+DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup B - Game 10\nNige
+ ria vs Hungary\nOfficial tickets for this session: https://www.eventim.de/
+ en/artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-
+ max-schmeling-halle-sessions-4006861/?affiliate=b1w\nSource: https://www.f
+ iba.basketball/en/events/fiba-womens-basketball-world-cup-2026/games\n\nFi
+ xtures by HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:Max-Schmeling-Halle\, Berlin\, Germany
+URL:https://www.fiba.basketball/en/events/fiba-womens-basketball-world-cup-
+ 2026/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wwc-2026-020@herfixtures.com
+DTSTAMP:20260820T060000Z
+SEQUENCE:0
+DTSTART:20260907T123000Z
+DTEND:20260907T143000Z
+SUMMARY:🏀 Hungary vs Korea
+DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup B - Game 20\nHung
+ ary vs Korea\nOfficial tickets for this session: https://www.eventim.de/en
+ /artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-ma
+ x-schmeling-halle-sessions-4006861/?affiliate=b1w\nSource: https://www.fib
+ a.basketball/en/events/fiba-womens-basketball-world-cup-2026/games\n\nFixt
+ ures by HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:Max-Schmeling-Halle\, Berlin\, Germany
+URL:https://www.fiba.basketball/en/events/fiba-womens-basketball-world-cup-
+ 2026/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

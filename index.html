@@ -1274,8 +1274,9 @@ body {
           </div>
           <div class="feed-divider"></div>
           <div class="feed-actions">
-            <button class="btn-cal btn-google" onclick="handleCalendarClick(event,'https://calendar.google.com/calendar/r?cid=webcal://herfixtures.vercel.app/fiba_womens_world_cup_2026.ics','FIBA WWC 2026','google')">Add to Google</button>
-            <button class="btn-cal btn-apple"  onclick="handleCalendarClick(event,'webcal://herfixtures.vercel.app/fiba_womens_world_cup_2026.ics','FIBA WWC 2026','apple')">Add to Apple</button>
+            <button class="btn-cal btn-choose-team" onclick="openFIBAModal()" aria-haspopup="dialog">
+              Add to Calendar
+            </button>
           </div>
         </div>
 
@@ -1913,6 +1914,30 @@ const FRAUEN_BL_CONFIG = {
   ]
 };
 
+const FIBA_CONFIG = {
+  leagueSlug:  'fiba_womens_world_cup_2026',
+  gaLabel:     'FIBA WWC 2026',
+  teams: [
+    { name: "All matches",  slug: "fiba_womens_world_cup_2026", emoji: "🏀" },
+    { name: "Japan",        slug: "fiba_wwc_japan",        logo: "https://flagcdn.com/w80/jp.png" },
+    { name: "Mali",         slug: "fiba_wwc_mali",         logo: "https://flagcdn.com/w80/ml.png" },
+    { name: "Spain",        slug: "fiba_wwc_spain",        logo: "https://flagcdn.com/w80/es.png" },
+    { name: "Germany",      slug: "fiba_wwc_germany",      logo: "https://flagcdn.com/w80/de.png" },
+    { name: "Korea",        slug: "fiba_wwc_korea",        logo: "https://flagcdn.com/w80/kr.png" },
+    { name: "Nigeria",      slug: "fiba_wwc_nigeria",      logo: "https://flagcdn.com/w80/ng.png" },
+    { name: "Hungary",      slug: "fiba_wwc_hungary",      logo: "https://flagcdn.com/w80/hu.png" },
+    { name: "France",       slug: "fiba_wwc_france",       logo: "https://flagcdn.com/w80/fr.png" },
+    { name: "Australia",    slug: "fiba_wwc_australia",    logo: "https://flagcdn.com/w80/au.png" },
+    { name: "Puerto Rico",  slug: "fiba_wwc_puerto_rico",  logo: "https://flagcdn.com/w80/pr.png" },
+    { name: "Belgium",      slug: "fiba_wwc_belgium",      logo: "https://flagcdn.com/w80/be.png" },
+    { name: "Türkiye",      slug: "fiba_wwc_turkiye",      logo: "https://flagcdn.com/w80/tr.png" },
+    { name: "USA",          slug: "fiba_wwc_usa",          logo: "https://flagcdn.com/w80/us.png" },
+    { name: "China",        slug: "fiba_wwc_china",        logo: "https://flagcdn.com/w80/cn.png" },
+    { name: "Czechia",      slug: "fiba_wwc_czechia",      logo: "https://flagcdn.com/w80/cz.png" },
+    { name: "Italy",        slug: "fiba_wwc_italy",        logo: "https://flagcdn.com/w80/it.png" },
+  ]
+};
+
 /* ── FeedModal component ─────────────────────────────────────────────────── */
 
 const FeedModal = (() => {
@@ -2050,6 +2075,7 @@ function openNWSLModal()     { FeedModal.open(NWSL_CONFIG);      }
 function openICCModal()      { FeedModal.open(ICC_CONFIG);       }
 function openLigaFModal()    { FeedModal.open(LIGA_F_CONFIG);    }
 function openFrauenBLModal() { FeedModal.open(FRAUEN_BL_CONFIG); }
+function openFIBAModal()     { FeedModal.open(FIBA_CONFIG);      }
 
 /* ── Sport filter pills ──────────────────────────────────────────────────── */
 (function () {

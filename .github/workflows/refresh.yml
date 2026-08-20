@@ -60,6 +60,8 @@ jobs:
         run: python fetch_frauen_bundesliga_teams.py
       - name: Generate FIBA Women's World Cup 2026 feed
         run: python generate_fiba_ics.py
+      - name: Generate FIBA Women's World Cup 2026 team feeds
+        run: python generate_fiba_ics_teams.py
       - name: Generate scores.json for strip
         run: python fetch_scores_json.py
       - name: Generate sitemap
@@ -68,6 +70,6 @@ jobs:
         run: |
           git config user.name "HerFixtures Bot"
           git config user.email "bot@herfixtures.com"
-          git add womens_ucl.ics euroleague_women.ics wnba.ics wnba_*.ics nwsl.ics nwsl_*.ics icc_womens_t20.ics icc_womens_t20_*.ics liga_f.ics liga_f_*.ics frauen_bundesliga.ics frauen_bl_*.ics feeds/fiba-wwc-2026/all.ics scores.json sitemap.xml
+          git add womens_ucl.ics euroleague_women.ics wnba.ics wnba_*.ics nwsl.ics nwsl_*.ics icc_womens_t20.ics icc_womens_t20_*.ics liga_f.ics liga_f_*.ics frauen_bundesliga.ics frauen_bl_*.ics feeds/fiba-wwc-2026/all.ics fiba_wwc_*.ics scores.json sitemap.xml
           git diff --staged --quiet || git commit -m "Auto-refresh feeds"
           git push
