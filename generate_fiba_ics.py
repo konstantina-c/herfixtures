@@ -103,8 +103,7 @@ def build(data: dict) -> tuple[str, list[int]]:
         description = (
             f"FIBA Women's Basketball World Cup 2026\\n{escape(label)} - Game {fixture['game']}\\n"
             f"{escape(fixture['home'])} vs {escape(fixture['away'])}\\n"
-            f"{escape(tickets['label'])}: {escape(tickets['url'])}\\n"
-            f"Source: {escape(competition['source_url'])}\\n\\n"
+            f"{escape(tickets['label'])}: {escape(tickets['url'])}\\n\\n"
             "Fixtures by HerFixtures.com - Women's Sports on Your Calendar"
         )
         event = [
