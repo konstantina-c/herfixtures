@@ -5,8 +5,8 @@ import json
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
-data = json.loads((ROOT / "public" / "feeds" / "fiba-wwc-2026" / "fixtures.json").read_text(encoding="utf-8"))
-ics = (ROOT / "public" / "feeds" / "fiba-wwc-2026" / "all.ics").read_text(encoding="utf-8")
+data = json.loads((ROOT / "feeds" / "fiba-wwc-2026" / "fixtures.json").read_text(encoding="utf-8"))
+ics = (ROOT / "feeds" / "fiba-wwc-2026" / "all.ics").read_text(encoding="utf-8")
 unfolded = ics.replace("\n ", "")
 
 assert len(data["fixtures"]) == 36

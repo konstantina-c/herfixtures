@@ -9,8 +9,8 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parent
-DATA_FILE = ROOT / "public" / "feeds" / "fiba-wwc-2026" / "fixtures.json"
-OUTPUT_FILE = ROOT / "public" / "feeds" / "fiba-wwc-2026" / "all.ics"
+DATA_FILE = ROOT / "feeds" / "fiba-wwc-2026" / "fixtures.json"
+OUTPUT_FILE = ROOT / "feeds" / "fiba-wwc-2026" / "all.ics"
 DTSTAMP = "20260820T060000Z"
 
 
