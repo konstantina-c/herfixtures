@@ -1,0 +1,70 @@
+{
+  "competition": {
+    "id": "fiba-wwc-2026",
+    "name": "FIBA Women's Basketball World Cup 2026",
+    "timezone": "Europe/Berlin",
+    "default_duration_minutes": 120,
+    "source_url": "https://www.fiba.basketball/en/events/fiba-womens-basketball-world-cup-2026/games",
+    "source_pdf": "https://assets.fiba.basketball/image/upload/fiba-womens-basketball-world-cup-208875-game-schedule.pdf",
+    "source_checked_at": "2026-08-20T08:48:00+03:00"
+  },
+  "venues": {
+    "berlin-arena": "Berlin Arena, Berlin, Germany",
+    "max-schmeling-halle": "Max-Schmeling-Halle, Berlin, Germany"
+  },
+  "ticket_products": {
+    "berlin-arena-sessions": {
+      "type": "session",
+      "label": "Official tickets for this session",
+      "url": "https://www.eventim.de/en/artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-berlin-arena-sessions-3961330/?affiliate=b1w"
+    },
+    "max-schmeling-halle-sessions": {
+      "type": "session",
+      "label": "Official tickets for this session",
+      "url": "https://www.eventim.de/en/artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-max-schmeling-halle-sessions-4006861/?affiliate=b1w"
+    },
+    "berlin-arena-final-phase": {
+      "type": "day",
+      "label": "Official tickets for this game day",
+      "url": "https://www.eventim.de/en/artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-berlin-arena-tageskarten-4085168/?affiliate=b1w"
+    }
+  },
+  "fixtures": [
+    {"game": 1, "date": "2026-09-04", "time": "11:30", "stage": "group", "group": "A", "home": "Japan", "away": "Mali", "venue": "berlin-arena", "ticket_product": "berlin-arena-sessions"},
+    {"game": 2, "date": "2026-09-04", "time": "11:30", "stage": "group", "group": "C", "home": "Australia", "away": "Puerto Rico", "venue": "max-schmeling-halle"},
+    {"game": 3, "date": "2026-09-04", "time": "14:15", "stage": "group", "group": "D", "home": "USA", "away": "China", "venue": "max-schmeling-halle"},
+    {"game": 4, "date": "2026-09-04", "time": "14:30", "stage": "group", "group": "B", "home": "Korea", "away": "Nigeria", "venue": "berlin-arena"},
+    {"game": 5, "date": "2026-09-04", "time": "17:30", "stage": "group", "group": "C", "home": "Belgium", "away": "Türkiye", "venue": "max-schmeling-halle"},
+    {"game": 6, "date": "2026-09-04", "time": "17:45", "stage": "group", "group": "A", "home": "Spain", "away": "Germany", "venue": "berlin-arena"},
+    {"game": 7, "date": "2026-09-04", "time": "20:15", "stage": "group", "group": "D", "home": "Czechia", "away": "Italy", "venue": "max-schmeling-halle"},
+    {"game": 8, "date": "2026-09-04", "time": "21:00", "stage": "group", "group": "B", "home": "Hungary", "away": "France", "venue": "berlin-arena"},
+    {"game": 9, "date": "2026-09-05", "time": "11:30", "stage": "group", "group": "A", "home": "Mali", "away": "Spain", "venue": "max-schmeling-halle"},
+    {"game": 10, "date": "2026-09-05", "time": "14:15", "stage": "group", "group": "B", "home": "Nigeria", "away": "Hungary", "venue": "max-schmeling-halle"},
+    {"game": 11, "date": "2026-09-05", "time": "18:00", "stage": "group", "group": "A", "home": "Germany", "away": "Japan", "venue": "max-schmeling-halle"},
+    {"game": 12, "date": "2026-09-05", "time": "20:45", "stage": "group", "group": "B", "home": "France", "away": "Korea", "venue": "max-schmeling-halle"},
+    {"game": 13, "date": "2026-09-06", "time": "11:30", "stage": "group", "group": "C", "home": "Türkiye", "away": "Australia", "venue": "berlin-arena"},
+    {"game": 14, "date": "2026-09-06", "time": "14:30", "stage": "group", "group": "D", "home": "China", "away": "Czechia", "venue": "berlin-arena"},
+    {"game": 15, "date": "2026-09-06", "time": "17:45", "stage": "group", "group": "C", "home": "Puerto Rico", "away": "Belgium", "venue": "berlin-arena"},
+    {"game": 16, "date": "2026-09-06", "time": "20:45", "stage": "group", "group": "D", "home": "Italy", "away": "USA", "venue": "berlin-arena"},
+    {"game": 17, "date": "2026-09-07", "time": "11:30", "stage": "group", "group": "C", "home": "Belgium", "away": "Australia", "venue": "berlin-arena"},
+    {"game": 18, "date": "2026-09-07", "time": "11:30", "stage": "group", "group": "C", "home": "Puerto Rico", "away": "Türkiye", "venue": "max-schmeling-halle"},
+    {"game": 19, "date": "2026-09-07", "time": "14:30", "stage": "group", "group": "B", "home": "Nigeria", "away": "France", "venue": "berlin-arena"},
+    {"game": 20, "date": "2026-09-07", "time": "14:30", "stage": "group", "group": "B", "home": "Hungary", "away": "Korea", "venue": "max-schmeling-halle"},
+    {"game": 21, "date": "2026-09-07", "time": "17:50", "stage": "group", "group": "A", "home": "Germany", "away": "Mali", "venue": "berlin-arena"},
+    {"game": 22, "date": "2026-09-07", "time": "17:50", "stage": "group", "group": "A", "home": "Japan", "away": "Spain", "venue": "max-schmeling-halle"},
+    {"game": 23, "date": "2026-09-07", "time": "20:45", "stage": "group", "group": "D", "home": "USA", "away": "Czechia", "venue": "berlin-arena"},
+    {"game": 24, "date": "2026-09-07", "time": "20:45", "stage": "group", "group": "D", "home": "Italy", "away": "China", "venue": "max-schmeling-halle"},
+    {"game": 25, "date": "2026-09-08", "time": null, "time_options": ["17:45", "20:45"], "stage": "qualification", "home": "2nd Group A", "away": "3rd Group B", "venue": "berlin-arena"},
+    {"game": 26, "date": "2026-09-08", "time": null, "time_options": ["17:45", "20:45"], "stage": "qualification", "home": "2nd Group B", "away": "3rd Group A", "venue": "berlin-arena"},
+    {"game": 27, "date": "2026-09-09", "time": null, "time_options": ["17:45", "20:45"], "stage": "qualification", "home": "3rd Group C", "away": "2nd Group D", "venue": "berlin-arena"},
+    {"game": 28, "date": "2026-09-09", "time": null, "time_options": ["17:45", "20:45"], "stage": "qualification", "home": "3rd Group D", "away": "2nd Group C", "venue": "berlin-arena"},
+    {"game": 29, "date": "2026-09-10", "time": "11:30", "stage": "quarter-final", "home": "Winner Game 27", "away": "1st Group A", "venue": "berlin-arena"},
+    {"game": 30, "date": "2026-09-10", "time": "14:30", "stage": "quarter-final", "home": "Winner Game 28", "away": "1st Group B", "venue": "berlin-arena"},
+    {"game": 31, "date": "2026-09-10", "time": "17:45", "stage": "quarter-final", "home": "1st Group C", "away": "Winner Game 25", "venue": "berlin-arena"},
+    {"game": 32, "date": "2026-09-10", "time": "20:45", "stage": "quarter-final", "home": "1st Group D", "away": "Winner Game 26", "venue": "berlin-arena"},
+    {"game": 33, "date": "2026-09-12", "time": null, "time_options": ["16:30", "20:00"], "stage": "semi-final", "home": "Winner Game 29", "away": "Winner Game 32", "venue": "berlin-arena"},
+    {"game": 34, "date": "2026-09-12", "time": null, "time_options": ["16:30", "20:00"], "stage": "semi-final", "home": "Winner Game 30", "away": "Winner Game 31", "venue": "berlin-arena"},
+    {"game": 35, "date": "2026-09-13", "time": "16:30", "stage": "third-place", "home": "Loser Game 33", "away": "Loser Game 34", "venue": "berlin-arena"},
+    {"game": 36, "date": "2026-09-13", "time": "20:00", "stage": "final", "home": "Winner Game 33", "away": "Winner Game 34", "venue": "berlin-arena"}
+  ]
+}

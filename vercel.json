@@ -1,4 +1,10 @@
 {
+  "rewrites": [
+    {
+      "source": "/fiba_womens_world_cup_2026.ics",
+      "destination": "/public/feeds/fiba-wwc-2026/all.ics"
+    }
+  ],
   "redirects": [
     {
       "source": "/:path*",
