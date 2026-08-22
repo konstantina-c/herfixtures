@@ -398,6 +398,11 @@ function toggleTheme() {
   document.getElementById('icon-moon').style.display = isDark ? '' : 'none';
   document.getElementById('icon-sun').style.display  = isDark ? 'none' : '';
 }
+(function(){
+  var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+  document.getElementById('icon-moon').style.display = isDark ? 'none' : '';
+  document.getElementById('icon-sun').style.display  = isDark ? '' : 'none';
+})();
 </script>
 </body>
 </html>

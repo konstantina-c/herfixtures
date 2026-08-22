@@ -1433,6 +1433,11 @@ function toggleTheme() {
   document.getElementById('icon-sun').style.display  = isDark ? 'none' : '';
   if (typeof positionLabels === 'function') requestAnimationFrame(positionLabels);
 }
+(function(){
+  var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+  document.getElementById('icon-moon').style.display = isDark ? 'none' : '';
+  document.getElementById('icon-sun').style.display  = isDark ? '' : 'none';
+})();
 
 /* GA4 calendar tracking — fires event then navigates after 300ms */
 function handleCalendarClick(e, url, competition, calendar) {
