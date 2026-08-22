@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FC Nürnberg Frauen vs VfL Wolfsburg Frauen
 DTSTART:20260822T120000Z
 DTEND:20260822T140000Z
-DTSTAMP:20260821T184557Z
+DTSTAMP:20260822T065042Z
 UID:openligadb-ffb1-85274@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 1. Spieltag\n1. FC Nürnberg Frau
  en vs VfL Wolfsburg Frauen\nVenue: Max-Morlock-Stadion\, Nürnberg\n\nData
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bayer 04 Leverkusen Frauen vs VfL Wolfsburg Frauen
 DTSTART:20260830T140000Z
 DTEND:20260830T160000Z
-DTSTAMP:20260821T184557Z
+DTSTAMP:20260822T065042Z
 UID:openligadb-ffb1-85281@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 2. Spieltag\nBayer 04 Leverkusen 
  Frauen vs VfL Wolfsburg Frauen\nVenue: Ulrich-Haberland-Stadion\, Leverkus
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ VfL Wolfsburg Frauen vs SV Werder Bremen Frauen
 DTSTART:20260906T120000Z
 DTEND:20260906T140000Z
-DTSTAMP:20260821T184557Z
+DTSTAMP:20260822T065042Z
 UID:openligadb-ffb1-85288@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 3. Spieltag\nVfL Wolfsburg Frauen
   vs SV Werder Bremen Frauen\nVenue: AOK Stadion\, Wolfsburg\n\nData: openl
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ VfB Stuttgart Frauen vs VfL Wolfsburg Frauen
 DTSTART:20260913T120000Z
 DTEND:20260913T140000Z
-DTSTAMP:20260821T184557Z
+DTSTAMP:20260822T065042Z
 UID:openligadb-ffb1-85739@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 4. Spieltag\nVfB Stuttgart Frauen
   vs VfL Wolfsburg Frauen\nVenue: GAZi-Stadion auf der Waldau\, Stuttgart\n
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ TSG 1899 Hoffenheim Frauen vs VfL Wolfsburg Frauen
 DTSTART:20260918T163000Z
 DTEND:20260918T183000Z
-DTSTAMP:20260821T184557Z
+DTSTAMP:20260822T065042Z
 UID:openligadb-ffb1-85744@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 5. Spieltag\nTSG 1899 Hoffenheim 
  Frauen vs VfL Wolfsburg Frauen\nVenue: Dietmar-Hopp-Stadion\, Hoffenheim\n
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ VfL Wolfsburg Frauen vs Hamburger SV Frauen
 DTSTART:20261004T133000Z
 DTEND:20261004T153000Z
-DTSTAMP:20260821T184557Z
+DTSTAMP:20260822T065042Z
 UID:openligadb-ffb1-85756@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 6. Spieltag\nVfL Wolfsburg Frauen
   vs Hamburger SV Frauen\nVenue: AOK Stadion\, Wolfsburg\n\nData: openligad
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FSV Mainz 05 Frauen vs VfL Wolfsburg Frauen
 DTSTART:20261018T133000Z
 DTEND:20261018T153000Z
-DTSTAMP:20260821T184557Z
+DTSTAMP:20260822T065042Z
 UID:openligadb-ffb1-85759@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 7. Spieltag\n1. FSV Mainz 05 Frau
  en vs VfL Wolfsburg Frauen\nVenue: Bruchwegstadion\, Mainz\n\nData: openli
@@ -90,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ VfL Wolfsburg Frauen vs 1. FC Köln Frauen
 DTSTART:20261025T143000Z
 DTEND:20261025T163000Z
-DTSTAMP:20260821T184557Z
+DTSTAMP:20260822T065042Z
 UID:openligadb-ffb1-85770@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 8. Spieltag\nVfL Wolfsburg Frauen
   vs 1. FC Köln Frauen\nVenue: AOK Stadion\, Wolfsburg\n\nData: openligadb
@@ -101,7 +101,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eintracht Frankfurt Frauen vs VfL Wolfsburg Frauen
 DTSTART:20261108T143000Z
 DTEND:20261108T163000Z
-DTSTAMP:20260821T184557Z
+DTSTAMP:20260822T065042Z
 UID:openligadb-ffb1-85772@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 9. Spieltag\nEintracht Frankfurt 
  Frauen vs VfL Wolfsburg Frauen\nVenue: Stadion am Brentanobad\, Frankfurt
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ VfL Wolfsburg Frauen vs FC Bayern München Frauen
 DTSTART:20261115T143000Z
 DTEND:20261115T163000Z
-DTSTAMP:20260821T184557Z
+DTSTAMP:20260822T065042Z
 UID:openligadb-ffb1-85784@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 10. Spieltag\nVfL Wolfsburg Fraue
  n vs FC Bayern München Frauen\nVenue: AOK Stadion\, Wolfsburg\n\nData: op
@@ -123,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ RB Leipzig Frauen vs VfL Wolfsburg Frauen
 DTSTART:20261122T143000Z
 DTEND:20261122T163000Z
-DTSTAMP:20260821T184557Z
+DTSTAMP:20260822T065042Z
 UID:openligadb-ffb1-85790@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 11. Spieltag\nRB Leipzig Frauen v
  s VfL Wolfsburg Frauen\nVenue: Trainingszentrum Cottaweg\, Leipzig\n\nData
@@ -134,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ SC Freiburg Frauen vs VfL Wolfsburg Frauen
 DTSTART:20261213T143000Z
 DTEND:20261213T163000Z
-DTSTAMP:20260821T184557Z
+DTSTAMP:20260822T065042Z
 UID:openligadb-ffb1-85794@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 12. Spieltag\nSC Freiburg Frauen 
  vs VfL Wolfsburg Frauen\nVenue: Dreisamstadion\, Freiburg\n\nData: openlig
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ VfL Wolfsburg Frauen vs 1. FC Union Berlin Frauen
 DTSTART:20261220T143000Z
 DTEND:20261220T163000Z
-DTSTAMP:20260821T184557Z
+DTSTAMP:20260822T065042Z
 UID:openligadb-ffb1-85805@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 13. Spieltag\nVfL Wolfsburg Fraue
  n vs 1. FC Union Berlin Frauen\nVenue: AOK Stadion\, Wolfsburg\n\nData: op
@@ -156,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ VfL Wolfsburg Frauen vs 1. FC Nürnberg Frauen
 DTSTART:20270117T143000Z
 DTEND:20270117T163000Z
-DTSTAMP:20260821T184557Z
+DTSTAMP:20260822T065042Z
 UID:openligadb-ffb1-85812@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 14. Spieltag\nVfL Wolfsburg Fraue
  n vs 1. FC Nürnberg Frauen\nVenue: AOK Stadion\, Wolfsburg\n\nData: openl
@@ -167,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ VfL Wolfsburg Frauen vs Bayer 04 Leverkusen Frauen
 DTSTART:20270124T143000Z
 DTEND:20270124T163000Z
-DTSTAMP:20260821T184557Z
+DTSTAMP:20260822T065042Z
 UID:openligadb-ffb1-85819@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 15. Spieltag\nVfL Wolfsburg Fraue
  n vs Bayer 04 Leverkusen Frauen\nVenue: AOK Stadion\, Wolfsburg\n\nData: o
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ SV Werder Bremen Frauen vs VfL Wolfsburg Frauen
 DTSTART:20270131T143000Z
 DTEND:20270131T163000Z
-DTSTAMP:20260821T184557Z
+DTSTAMP:20260822T065042Z
 UID:openligadb-ffb1-85820@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 16. Spieltag\nSV Werder Bremen Fr
  auen vs VfL Wolfsburg Frauen\nVenue: Weserstadion - Platz 11\, Bremen\n\nD
@@ -189,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ VfL Wolfsburg Frauen vs VfB Stuttgart Frauen
 DTSTART:20270207T143000Z
 DTEND:20270207T163000Z
-DTSTAMP:20260821T184557Z
+DTSTAMP:20260822T065042Z
 UID:openligadb-ffb1-85833@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 17. Spieltag\nVfL Wolfsburg Fraue
  n vs VfB Stuttgart Frauen\nVenue: AOK Stadion\, Wolfsburg\n\nData: openlig
@@ -200,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ VfL Wolfsburg Frauen vs TSG 1899 Hoffenheim Frauen
 DTSTART:20270214T143000Z
 DTEND:20270214T163000Z
-DTSTAMP:20260821T184557Z
+DTSTAMP:20260822T065042Z
 UID:openligadb-ffb1-85840@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 18. Spieltag\nVfL Wolfsburg Fraue
  n vs TSG 1899 Hoffenheim Frauen\nVenue: AOK Stadion\, Wolfsburg\n\nData: o
@@ -211,7 +211,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Hamburger SV Frauen vs VfL Wolfsburg Frauen
 DTSTART:20270221T143000Z
 DTEND:20270221T163000Z
-DTSTAMP:20260821T184557Z
+DTSTAMP:20260822T065042Z
 UID:openligadb-ffb1-85845@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 19. Spieltag\nHamburger SV Frauen
   vs VfL Wolfsburg Frauen\nVenue: Volksparkstadion\, Hamburg\n\nData: openl
@@ -222,7 +222,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ VfL Wolfsburg Frauen vs 1. FSV Mainz 05 Frauen
 DTSTART:20270314T143000Z
 DTEND:20270314T163000Z
-DTSTAMP:20260821T184557Z
+DTSTAMP:20260822T065042Z
 UID:openligadb-ffb1-85854@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 20. Spieltag\nVfL Wolfsburg Fraue
  n vs 1. FSV Mainz 05 Frauen\nVenue: AOK Stadion\, Wolfsburg\n\nData: openl
@@ -233,7 +233,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FC Köln Frauen vs VfL Wolfsburg Frauen
 DTSTART:20270321T143000Z
 DTEND:20270321T163000Z
-DTSTAMP:20260821T184557Z
+DTSTAMP:20260822T065042Z
 UID:openligadb-ffb1-85859@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 21. Spieltag\n1. FC Köln Frauen 
  vs VfL Wolfsburg Frauen\nVenue: Franz-Kremer-Stadion\, Köln\n\nData: open
@@ -244,7 +244,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ VfL Wolfsburg Frauen vs Eintracht Frankfurt Frauen
 DTSTART:20270328T133000Z
 DTEND:20270328T153000Z
-DTSTAMP:20260821T184557Z
+DTSTAMP:20260822T065042Z
 UID:openligadb-ffb1-85867@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 22. Spieltag\nVfL Wolfsburg Fraue
  n vs Eintracht Frankfurt Frauen\nVenue: AOK Stadion\, Wolfsburg\n\nData: o
@@ -255,7 +255,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Bayern München Frauen vs VfL Wolfsburg Frauen
 DTSTART:20270411T133000Z
 DTEND:20270411T153000Z
-DTSTAMP:20260821T184557Z
+DTSTAMP:20260822T065042Z
 UID:openligadb-ffb1-85875@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 23. Spieltag\nFC Bayern München 
  Frauen vs VfL Wolfsburg Frauen\nVenue: FC Bayern Campus\, München\n\nData
@@ -266,7 +266,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ VfL Wolfsburg Frauen vs RB Leipzig Frauen
 DTSTART:20270502T133000Z
 DTEND:20270502T153000Z
-DTSTAMP:20260821T184557Z
+DTSTAMP:20260822T065042Z
 UID:openligadb-ffb1-85882@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 24. Spieltag\nVfL Wolfsburg Fraue
  n vs RB Leipzig Frauen\nVenue: AOK Stadion\, Wolfsburg\n\nData: openligadb
@@ -277,7 +277,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ VfL Wolfsburg Frauen vs SC Freiburg Frauen
 DTSTART:20270509T133000Z
 DTEND:20270509T153000Z
-DTSTAMP:20260821T184557Z
+DTSTAMP:20260822T065042Z
 UID:openligadb-ffb1-85889@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 25. Spieltag\nVfL Wolfsburg Fraue
  n vs SC Freiburg Frauen\nVenue: AOK Stadion\, Wolfsburg\n\nData: openligad
@@ -288,7 +288,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FC Union Berlin Frauen vs VfL Wolfsburg Frauen
 DTSTART:20270523T133000Z
 DTEND:20270523T153000Z
-DTSTAMP:20260821T184557Z
+DTSTAMP:20260822T065042Z
 UID:openligadb-ffb1-85890@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 26. Spieltag\n1. FC Union Berlin 
  Frauen vs VfL Wolfsburg Frauen\nVenue: Alte Försterei\, Berlin\n\nData: o
