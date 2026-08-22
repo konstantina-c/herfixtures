@@ -3,6 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script>(function(){var t=localStorage.getItem('theme');if(t==='dark'||t==='light')document.documentElement.setAttribute('data-theme',t);})();</script>
 <link rel="canonical" href="https://herfixtures.com/blog/frauen-bundesliga-2026-27-season-preview/">
 <title>Frauen-Bundesliga 2026/27 Preview: Teams, Fixtures, Players, Dates &amp; Where to Watch | HerFixtures</title>
 <meta name="description" content="The Frauen-Bundesliga returns on 21 August. Meet all 14 teams, discover the players and stories to follow, find where to watch and add every 2026/27 fixture to your calendar.">
@@ -1216,7 +1217,9 @@ body {
 function toggleTheme() {
   const h = document.documentElement;
   const isDark = h.getAttribute('data-theme') === 'dark';
-  h.setAttribute('data-theme', isDark ? 'light' : 'dark');
+  const next = isDark ? 'light' : 'dark';
+  h.setAttribute('data-theme', next);
+  localStorage.setItem('theme', next);
   document.getElementById('icon-moon').style.display = isDark ? '' : 'none';
   document.getElementById('icon-sun').style.display  = isDark ? 'none' : '';
 }
