@@ -3,6 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script>(function(){var t=localStorage.getItem('theme');if(t==='dark'||t==='light')document.documentElement.setAttribute('data-theme',t);})();</script>
 <link rel="canonical" href="https://herfixtures.com/blog/icc-womens-t20-world-cup-2026-guide/">
 <title>How to Follow the ICC Women's T20 World Cup 2026 — HerFixtures</title>
 <meta name="description" content="Thirty-three matches, twelve nations, twenty-four days. Your complete fan guide to the ICC Women's T20 World Cup 2026 — venues, format, the match you cannot miss, and how to add every fixture to your calendar.">
@@ -706,10 +707,17 @@ button.cta-btn { border: none; cursor: pointer; font-family: 'DM Sans', sans-ser
 function toggleTheme() {
   const h = document.documentElement;
   const isDark = h.getAttribute('data-theme') === 'dark';
-  h.setAttribute('data-theme', isDark ? 'light' : 'dark');
+  const next = isDark ? 'light' : 'dark';
+  h.setAttribute('data-theme', next);
+  localStorage.setItem('theme', next);
   document.getElementById('icon-moon').style.display = isDark ? '' : 'none';
   document.getElementById('icon-sun').style.display  = isDark ? 'none' : '';
 }
+(function(){
+  var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+  document.getElementById('icon-moon').style.display = isDark ? 'none' : '';
+  document.getElementById('icon-sun').style.display  = isDark ? '' : 'none';
+})();
 
 const BASE_URL  = 'herfixtures.com';
 const CHECK_SVG = `<svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>`;

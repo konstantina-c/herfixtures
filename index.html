@@ -3,6 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script>(function(){var t=localStorage.getItem('theme');if(t==='dark'||t==='light')document.documentElement.setAttribute('data-theme',t);})();</script>
 <link rel="canonical" href="https://herfixtures.com/">
 <title>HerFixtures — Women's Sports on Your Calendar</title>
 <meta name="description" content="Women's sports fixtures, always in your calendar. Subscribe to live fixture feeds for WNBA, NWSL, ICC Women's T20 World Cup and more — straight to Google Calendar, Apple Calendar, or Outlook.">
@@ -1087,7 +1088,7 @@ body {
       <a href="/blog" class="nav-link">Blog</a>
     </nav>
     <div class="nav-divider"></div>
-    <button class="theme-icon-btn" id="theme-icon-btn" onclick="toggleThemeReal()" aria-label="Toggle dark mode">
+    <button class="theme-icon-btn" id="theme-icon-btn" onclick="toggleTheme()" aria-label="Toggle dark mode">
       <svg id="icon-moon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
         <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
       </svg>
@@ -1422,14 +1423,21 @@ body {
 </div><!-- /live-page -->
 
 <script>
-/* Real page toggle */
-function toggleThemeReal() {
+function toggleTheme() {
   const h = document.documentElement;
   const isDark = h.getAttribute('data-theme') === 'dark';
-  h.setAttribute('data-theme', isDark ? 'light' : 'dark');
+  const next = isDark ? 'light' : 'dark';
+  h.setAttribute('data-theme', next);
+  localStorage.setItem('theme', next);
   document.getElementById('icon-moon').style.display = isDark ? '' : 'none';
   document.getElementById('icon-sun').style.display  = isDark ? 'none' : '';
+  if (typeof positionLabels === 'function') requestAnimationFrame(positionLabels);
 }
+(function(){
+  var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+  document.getElementById('icon-moon').style.display = isDark ? 'none' : '';
+  document.getElementById('icon-sun').style.display  = isDark ? '' : 'none';
+})();
 
 /* GA4 calendar tracking — fires event then navigates after 300ms */
 function handleCalendarClick(e, url, competition, calendar) {
@@ -2424,12 +2432,6 @@ fetch('/scores.json')
   .catch(() => render(DEMO));
 
 /* ── Controls ─────────────────────────────────────────── */
-function toggleTheme() {
-  document.documentElement.setAttribute('data-theme',
-    document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark');
-  requestAnimationFrame(positionLabels);
-}
-
 function addLiveGame() {
   const d = JSON.parse(JSON.stringify(DEMO));
   d.competitions.wnba.livegame = [
