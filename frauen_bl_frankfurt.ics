@@ -14,7 +14,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eintracht Frankfurt Frauen vs 1. FC Köln Frauen (2–0)
 DTSTART:20260822T100000Z
 DTEND:20260822T120000Z
-DTSTAMP:20260825T065801Z
+DTSTAMP:20260825T184817Z
 UID:openligadb-ffb1-85270@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 1. Spieltag\nEintracht Frankfurt 
  Frauen vs 1. FC Köln Frauen\nResult: 2–0\nVenue: Stadion am Brentanobad
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eintracht Frankfurt Frauen vs 1. FC Nürnberg Frauen
 DTSTART:20260830T120000Z
 DTEND:20260830T140000Z
-DTSTAMP:20260825T065801Z
+DTSTAMP:20260825T184817Z
 UID:openligadb-ffb1-85276@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 2. Spieltag\nEintracht Frankfurt 
  Frauen vs 1. FC Nürnberg Frauen\nVenue: Stadion am Brentanobad\, Frankfur
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FC Union Berlin Frauen vs Eintracht Frankfurt Frauen
 DTSTART:20260907T160000Z
 DTEND:20260907T180000Z
-DTSTAMP:20260825T065801Z
+DTSTAMP:20260825T184817Z
 UID:openligadb-ffb1-85282@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 3. Spieltag\n1. FC Union Berlin F
  rauen vs Eintracht Frankfurt Frauen\nVenue: Alte Försterei\, Berlin\n\nDa
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eintracht Frankfurt Frauen vs TSG 1899 Hoffenheim Frauen
 DTSTART:20260913T140000Z
 DTEND:20260913T160000Z
-DTSTAMP:20260825T065801Z
+DTSTAMP:20260825T184817Z
 UID:openligadb-ffb1-85740@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 4. Spieltag\nEintracht Frankfurt 
  Frauen vs TSG 1899 Hoffenheim Frauen\nVenue: Stadion am Brentanobad\, Fran
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FSV Mainz 05 Frauen vs Eintracht Frankfurt Frauen
 DTSTART:20260918T163000Z
 DTEND:20260918T183000Z
-DTSTAMP:20260825T065801Z
+DTSTAMP:20260825T184817Z
 UID:openligadb-ffb1-85743@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 5. Spieltag\n1. FSV Mainz 05 Frau
  en vs Eintracht Frankfurt Frauen\nVenue: Mewa Arena\, Mainz\n\nData: openl
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eintracht Frankfurt Frauen vs FC Bayern München Frauen
 DTSTART:20261004T133000Z
 DTEND:20261004T153000Z
-DTSTAMP:20260825T065801Z
+DTSTAMP:20260825T184817Z
 UID:openligadb-ffb1-85755@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 6. Spieltag\nEintracht Frankfurt 
  Frauen vs FC Bayern München Frauen\nVenue: Stadion am Brentanobad\, Frank
@@ -80,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bayer 04 Leverkusen Frauen vs Eintracht Frankfurt Frauen
 DTSTART:20261018T133000Z
 DTEND:20261018T153000Z
-DTSTAMP:20260825T065801Z
+DTSTAMP:20260825T184817Z
 UID:openligadb-ffb1-85762@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 7. Spieltag\nBayer 04 Leverkusen 
  Frauen vs Eintracht Frankfurt Frauen\nVenue: Ulrich-Haberland-Stadion\, Le
@@ -91,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ VfB Stuttgart Frauen vs Eintracht Frankfurt Frauen
 DTSTART:20261025T143000Z
 DTEND:20261025T163000Z
-DTSTAMP:20260825T065801Z
+DTSTAMP:20260825T184817Z
 UID:openligadb-ffb1-85767@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 8. Spieltag\nVfB Stuttgart Frauen
   vs Eintracht Frankfurt Frauen\nVenue: GAZi-Stadion auf der Waldau\, Stutt
@@ -102,7 +102,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eintracht Frankfurt Frauen vs VfL Wolfsburg Frauen
 DTSTART:20261108T143000Z
 DTEND:20261108T163000Z
-DTSTAMP:20260825T065801Z
+DTSTAMP:20260825T184817Z
 UID:openligadb-ffb1-85772@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 9. Spieltag\nEintracht Frankfurt 
  Frauen vs VfL Wolfsburg Frauen\nVenue: Stadion am Brentanobad\, Frankfurt
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ RB Leipzig Frauen vs Eintracht Frankfurt Frauen
 DTSTART:20261115T143000Z
 DTEND:20261115T163000Z
-DTSTAMP:20260825T065801Z
+DTSTAMP:20260825T184817Z
 UID:openligadb-ffb1-85783@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 10. Spieltag\nRB Leipzig Frauen v
  s Eintracht Frankfurt Frauen\nVenue: Trainingszentrum Cottaweg\, Leipzig\n
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eintracht Frankfurt Frauen vs Hamburger SV Frauen
 DTSTART:20261122T143000Z
 DTEND:20261122T163000Z
-DTSTAMP:20260825T065801Z
+DTSTAMP:20260825T184817Z
 UID:openligadb-ffb1-85789@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 11. Spieltag\nEintracht Frankfurt
   Frauen vs Hamburger SV Frauen\nVenue: Stadion am Brentanobad\, Frankfurt
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ SV Werder Bremen Frauen vs Eintracht Frankfurt Frauen
 DTSTART:20261213T143000Z
 DTEND:20261213T163000Z
-DTSTAMP:20260825T065801Z
+DTSTAMP:20260825T184817Z
 UID:openligadb-ffb1-85793@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 12. Spieltag\nSV Werder Bremen Fr
  auen vs Eintracht Frankfurt Frauen\nVenue: Weserstadion - Platz 11\, Breme
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eintracht Frankfurt Frauen vs SC Freiburg Frauen
 DTSTART:20261220T143000Z
 DTEND:20261220T163000Z
-DTSTAMP:20260825T065801Z
+DTSTAMP:20260825T184817Z
 UID:openligadb-ffb1-85800@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 13. Spieltag\nEintracht Frankfurt
   Frauen vs SC Freiburg Frauen\nVenue: Stadion am Brentanobad\, Frankfurt\n
@@ -157,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FC Köln Frauen vs Eintracht Frankfurt Frauen
 DTSTART:20270117T143000Z
 DTEND:20270117T163000Z
-DTSTAMP:20260825T065801Z
+DTSTAMP:20260825T184817Z
 UID:openligadb-ffb1-85809@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 14. Spieltag\n1. FC Köln Frauen 
  vs Eintracht Frankfurt Frauen\nVenue: Franz-Kremer-Stadion\, Köln\n\nData
@@ -168,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FC Nürnberg Frauen vs Eintracht Frankfurt Frauen
 DTSTART:20270124T143000Z
 DTEND:20270124T163000Z
-DTSTAMP:20260825T065801Z
+DTSTAMP:20260825T184817Z
 UID:openligadb-ffb1-85818@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 15. Spieltag\n1. FC Nürnberg Fra
  uen vs Eintracht Frankfurt Frauen\nVenue: Max-Morlock-Stadion\, Nürnberg
@@ -179,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eintracht Frankfurt Frauen vs 1. FC Union Berlin Frauen
 DTSTART:20270131T143000Z
 DTEND:20270131T163000Z
-DTSTAMP:20260825T065801Z
+DTSTAMP:20260825T184817Z
 UID:openligadb-ffb1-85821@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 16. Spieltag\nEintracht Frankfurt
   Frauen vs 1. FC Union Berlin Frauen\nVenue: Stadion am Brentanobad\, Fran
@@ -190,7 +190,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ TSG 1899 Hoffenheim Frauen vs Eintracht Frankfurt Frauen
 DTSTART:20270207T143000Z
 DTEND:20270207T163000Z
-DTSTAMP:20260825T065801Z
+DTSTAMP:20260825T184817Z
 UID:openligadb-ffb1-85831@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 17. Spieltag\nTSG 1899 Hoffenheim
   Frauen vs Eintracht Frankfurt Frauen\nVenue: Dietmar-Hopp-Stadion\, Hoffe
@@ -201,7 +201,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eintracht Frankfurt Frauen vs 1. FSV Mainz 05 Frauen
 DTSTART:20270214T143000Z
 DTEND:20270214T163000Z
-DTSTAMP:20260825T065801Z
+DTSTAMP:20260825T184817Z
 UID:openligadb-ffb1-85838@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 18. Spieltag\nEintracht Frankfurt
   Frauen vs 1. FSV Mainz 05 Frauen\nVenue: Stadion am Brentanobad\, Frankfu
@@ -212,7 +212,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Bayern München Frauen vs Eintracht Frankfurt Frauen
 DTSTART:20270221T143000Z
 DTEND:20270221T163000Z
-DTSTAMP:20260825T065801Z
+DTSTAMP:20260825T184817Z
 UID:openligadb-ffb1-85847@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 19. Spieltag\nFC Bayern München 
  Frauen vs Eintracht Frankfurt Frauen\nVenue: FC Bayern Campus\, München\n
@@ -223,7 +223,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eintracht Frankfurt Frauen vs Bayer 04 Leverkusen Frauen
 DTSTART:20270314T143000Z
 DTEND:20270314T163000Z
-DTSTAMP:20260825T065801Z
+DTSTAMP:20260825T184817Z
 UID:openligadb-ffb1-85848@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 20. Spieltag\nEintracht Frankfurt
   Frauen vs Bayer 04 Leverkusen Frauen\nVenue: Stadion am Brentanobad\, Fra
@@ -234,7 +234,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eintracht Frankfurt Frauen vs VfB Stuttgart Frauen
 DTSTART:20270321T143000Z
 DTEND:20270321T163000Z
-DTSTAMP:20260825T065801Z
+DTSTAMP:20260825T184817Z
 UID:openligadb-ffb1-85857@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 21. Spieltag\nEintracht Frankfurt
   Frauen vs VfB Stuttgart Frauen\nVenue: Stadion am Brentanobad\, Frankfurt
@@ -245,7 +245,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ VfL Wolfsburg Frauen vs Eintracht Frankfurt Frauen
 DTSTART:20270328T133000Z
 DTEND:20270328T153000Z
-DTSTAMP:20260825T065801Z
+DTSTAMP:20260825T184817Z
 UID:openligadb-ffb1-85867@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 22. Spieltag\nVfL Wolfsburg Fraue
  n vs Eintracht Frankfurt Frauen\nVenue: AOK Stadion\, Wolfsburg\n\nData: o
@@ -256,7 +256,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eintracht Frankfurt Frauen vs RB Leipzig Frauen
 DTSTART:20270411T133000Z
 DTEND:20270411T153000Z
-DTSTAMP:20260825T065801Z
+DTSTAMP:20260825T184817Z
 UID:openligadb-ffb1-85871@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 23. Spieltag\nEintracht Frankfurt
   Frauen vs RB Leipzig Frauen\nVenue: Stadion am Brentanobad\, Frankfurt\n
@@ -267,7 +267,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Hamburger SV Frauen vs Eintracht Frankfurt Frauen
 DTSTART:20270502T133000Z
 DTEND:20270502T153000Z
-DTSTAMP:20260825T065801Z
+DTSTAMP:20260825T184817Z
 UID:openligadb-ffb1-85877@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 24. Spieltag\nHamburger SV Frauen
   vs Eintracht Frankfurt Frauen\nVenue: Volksparkstadion\, Hamburg\n\nData:
@@ -278,7 +278,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eintracht Frankfurt Frauen vs SV Werder Bremen Frauen
 DTSTART:20270509T133000Z
 DTEND:20270509T153000Z
-DTSTAMP:20260825T065801Z
+DTSTAMP:20260825T184817Z
 UID:openligadb-ffb1-85884@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 25. Spieltag\nEintracht Frankfurt
   Frauen vs SV Werder Bremen Frauen\nVenue: Stadion am Brentanobad\, Frankf
@@ -289,7 +289,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ SC Freiburg Frauen vs Eintracht Frankfurt Frauen
 DTSTART:20270523T133000Z
 DTEND:20270523T153000Z
-DTSTAMP:20260825T065801Z
+DTSTAMP:20260825T184817Z
 UID:openligadb-ffb1-85892@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 26. Spieltag\nSC Freiburg Frauen 
  vs Eintracht Frankfurt Frauen\nVenue: Dreisamstadion\, Freiburg\n\nData: o
