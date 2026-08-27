@@ -1146,6 +1146,83 @@ body {
 
       <p>International rights vary by country, so check your local broadcaster before kick-off.</p>
 
+      <h2>Liga F fixtures by team</h2>
+      <p>Follow the whole competition or just the club you support. Each HerFixtures team calendar updates automatically throughout the season.</p>
+
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr><th>Team</th><th>Calendar</th></tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>FC Barcelona</strong></td>
+              <td><button class="team-cal-btn" onclick="addTeamToCalendar('Barcelona', 'liga_f_barcelona')">Add Barcelona fixtures &rarr;</button></td>
+            </tr>
+            <tr>
+              <td><strong>Real Madrid CF</strong></td>
+              <td><button class="team-cal-btn" onclick="addTeamToCalendar('Real Madrid', 'liga_f_real_madrid')">Add Real Madrid fixtures &rarr;</button></td>
+            </tr>
+            <tr>
+              <td><strong>Real Sociedad</strong></td>
+              <td><button class="team-cal-btn" onclick="addTeamToCalendar('Real Sociedad', 'liga_f_real_sociedad')">Add Real Sociedad fixtures &rarr;</button></td>
+            </tr>
+            <tr>
+              <td><strong>Costa Adeje Tenerife</strong></td>
+              <td><button class="team-cal-btn" onclick="addTeamToCalendar('CD Tenerife', 'liga_f_tenerife')">Add Tenerife fixtures &rarr;</button></td>
+            </tr>
+            <tr>
+              <td><strong>Atlético de Madrid</strong></td>
+              <td><button class="team-cal-btn" onclick="addTeamToCalendar('Atlético Madrid', 'liga_f_atletico_madrid')">Add Atlético fixtures &rarr;</button></td>
+            </tr>
+            <tr>
+              <td><strong>Granada CF</strong></td>
+              <td><button class="team-cal-btn" onclick="addTeamToCalendar('Granada', 'liga_f_granada')">Add Granada fixtures &rarr;</button></td>
+            </tr>
+            <tr>
+              <td><strong>Athletic Club</strong></td>
+              <td><button class="team-cal-btn" onclick="addTeamToCalendar('Athletic Club', 'liga_f_athletic_club')">Add Athletic Club fixtures &rarr;</button></td>
+            </tr>
+            <tr>
+              <td><strong>Deportivo Abanca</strong></td>
+              <td><button class="team-cal-btn" onclick="addTeamToCalendar('Deportivo', 'liga_f_deportivo')">Add Deportivo fixtures &rarr;</button></td>
+            </tr>
+            <tr>
+              <td><strong>Sevilla FC</strong></td>
+              <td><button class="team-cal-btn" onclick="addTeamToCalendar('Sevilla', 'liga_f_sevilla')">Add Sevilla fixtures &rarr;</button></td>
+            </tr>
+            <tr>
+              <td><strong>SD Eibar</strong></td>
+              <td><button class="team-cal-btn" onclick="addTeamToCalendar('Eibar', 'liga_f_eibar')">Add Eibar fixtures &rarr;</button></td>
+            </tr>
+            <tr>
+              <td><strong>RCD Espanyol</strong></td>
+              <td><button class="team-cal-btn" onclick="addTeamToCalendar('Espanyol', 'liga_f_espanyol')">Add Espanyol fixtures &rarr;</button></td>
+            </tr>
+            <tr>
+              <td><strong>Madrid CFF</strong></td>
+              <td><button class="team-cal-btn" onclick="addTeamToCalendar('Madrid CFF', 'liga_f_madrid_cff')">Add Madrid CFF fixtures &rarr;</button></td>
+            </tr>
+            <tr>
+              <td><strong>Logroño United</strong></td>
+              <td><button class="team-cal-btn" onclick="addTeamToCalendar('Dux Logroño', 'liga_f_dux_logrono')">Add Logroño United fixtures &rarr;</button></td>
+            </tr>
+            <tr>
+              <td><strong>FC Badalona Women</strong></td>
+              <td><button class="team-cal-btn" onclick="addTeamToCalendar('FC Badalona', 'liga_f_badalona')">Add Badalona fixtures &rarr;</button></td>
+            </tr>
+            <tr>
+              <td><strong>Deportivo Alavés</strong></td>
+              <td><button class="team-cal-btn" onclick="addTeamToCalendar('Alavés', 'liga_f_alaves')">Add Alavés fixtures &rarr;</button></td>
+            </tr>
+            <tr>
+              <td><strong>Valencia CF</strong></td>
+              <td><button class="team-cal-btn" onclick="addTeamToCalendar('Valencia', 'liga_f_valencia')">Add Valencia fixtures &rarr;</button></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
       <h2>Our predictions</h2>
       <p><strong>Champions: FC Barcelona.</strong> We tried. We looked at the departures. We looked at Real Madrid's recruitment. We looked at the possibility of transition. And we still cannot make a serious case for anybody else as favourite. Barcelona won 29 of 30 league matches last year. They finished with a +121 goal difference. They lost Alexia Putellas, Mapi León, Ona Batlle and Salma Paralluelo — and can still start a team containing Aitana Bonmatí, Patri Guijarro, Caroline Graham Hansen, Claudia Pina, Ewa Pajor, Irene Paredes and Cata Coll. That is the problem.</p>
       <p>Our call: Barcelona win an eighth consecutive title. But not with 87 points. And not with 29 victories. The gap closes.</p>
@@ -1317,6 +1394,23 @@ const LIGA_F_CONFIG = {
     { name: "Valencia",       slug: "liga_f_valencia",         logo: "https://a.espncdn.com/i/teamlogos/soccer/500/21374.png" },
   ]
 };
+
+/* Fires GA4 add_to_calendar_team_click, then opens modal pre-selecting that team */
+function addTeamToCalendar(teamName, slug) {
+  if (typeof gtag !== 'undefined') {
+    gtag('event', 'add_to_calendar_team_click', { team_name: teamName });
+  }
+  /* Reuse the club's entry from the league config so the scoped modal keeps its
+     crest, and leagueSlug stays the league — otherwise the tile is treated as
+     "all teams", which mislabels add_to_calendar and the subscribe button. */
+  var team = LIGA_F_CONFIG.teams.filter(function (t) { return t.slug === slug; })[0]
+             || { name: teamName, slug: slug };
+  FeedModal.open({
+    leagueSlug: LIGA_F_CONFIG.leagueSlug,
+    gaLabel:    LIGA_F_CONFIG.gaLabel,
+    teams: [Object.assign({}, team, { _preselect: true })]
+  });
+}
 
 const FeedModal = (() => {
   let _config = null;
