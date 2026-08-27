@@ -1264,10 +1264,15 @@ function addTeamToCalendar(teamName, slug) {
   if (typeof gtag !== 'undefined') {
     gtag('event', 'add_to_calendar_team_click', { team_name: teamName });
   }
+  /* Reuse the club's entry from the league config so the scoped modal keeps its
+     crest, and leagueSlug stays the league — otherwise the tile is treated as
+     "all teams", which mislabels add_to_calendar and the subscribe button. */
+  var team = FRAUEN_BL_CONFIG.teams.filter(function (t) { return t.slug === slug; })[0]
+             || { name: teamName, slug: slug };
   FeedModal.open({
-    leagueSlug: slug,
-    gaLabel:    'Frauen-Bundesliga',
-    teams: [{ name: teamName, slug: slug, _preselect: true }]
+    leagueSlug: FRAUEN_BL_CONFIG.leagueSlug,
+    gaLabel:    FRAUEN_BL_CONFIG.gaLabel,
+    teams: [Object.assign({}, team, { _preselect: true })]
   });
 }
 
