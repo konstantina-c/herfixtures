@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eintracht Frankfurt Frauen vs 1. FC Köln Frauen (2–0)
 DTSTART:20260822T100000Z
 DTEND:20260822T120000Z
-DTSTAMP:20260828T020730Z
+DTSTAMP:20260828T182918Z
 UID:openligadb-ffb1-85270@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 1. Spieltag\nEintracht Frankfurt 
  Frauen vs 1. FC Köln Frauen\nResult: 2–0\nVenue: Stadion am Brentanobad
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FC Köln Frauen vs TSG 1899 Hoffenheim Frauen
 DTSTART:20260828T163000Z
 DTEND:20260828T183000Z
-DTSTAMP:20260828T020730Z
+DTSTAMP:20260828T182918Z
 UID:openligadb-ffb1-85279@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 2. Spieltag\n1. FC Köln Frauen v
  s TSG 1899 Hoffenheim Frauen\nVenue: Franz-Kremer-Stadion\, Köln\n\nData:
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FSV Mainz 05 Frauen vs 1. FC Köln Frauen
 DTSTART:20260905T120000Z
 DTEND:20260905T140000Z
-DTSTAMP:20260828T020730Z
+DTSTAMP:20260828T182918Z
 UID:openligadb-ffb1-85283@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 3. Spieltag\n1. FSV Mainz 05 Frau
  en vs 1. FC Köln Frauen\nVenue: Bruchwegstadion\, Mainz\n\nData: openliga
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FC Köln Frauen vs 1. FC Union Berlin Frauen
 DTSTART:20260912T120000Z
 DTEND:20260912T140000Z
-DTSTAMP:20260828T020730Z
+DTSTAMP:20260828T182918Z
 UID:openligadb-ffb1-85738@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 4. Spieltag\n1. FC Köln Frauen v
  s 1. FC Union Berlin Frauen\nVenue: Franz-Kremer-Stadion\, Köln\n\nData: 
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Bayern München Frauen vs 1. FC Köln Frauen
 DTSTART:20260919T120000Z
 DTEND:20260919T140000Z
-DTSTAMP:20260828T020730Z
+DTSTAMP:20260828T182918Z
 UID:openligadb-ffb1-85745@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 5. Spieltag\nFC Bayern München F
  rauen vs 1. FC Köln Frauen\nVenue: FC Bayern Campus\, München\n\nData: o
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FC Köln Frauen vs SC Freiburg Frauen
 DTSTART:20261004T133000Z
 DTEND:20261004T153000Z
-DTSTAMP:20260828T020730Z
+DTSTAMP:20260828T182918Z
 UID:openligadb-ffb1-85751@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 6. Spieltag\n1. FC Köln Frauen v
  s SC Freiburg Frauen\nVenue: Franz-Kremer-Stadion\, Köln\n\nData: openlig
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FC Köln Frauen vs Hamburger SV Frauen
 DTSTART:20261018T133000Z
 DTEND:20261018T153000Z
-DTSTAMP:20260828T020730Z
+DTSTAMP:20260828T182918Z
 UID:openligadb-ffb1-85761@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 7. Spieltag\n1. FC Köln Frauen v
  s Hamburger SV Frauen\nVenue: Franz-Kremer-Stadion\, Köln\n\nData: openli
@@ -90,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ VfL Wolfsburg Frauen vs 1. FC Köln Frauen
 DTSTART:20261025T143000Z
 DTEND:20261025T163000Z
-DTSTAMP:20260828T020730Z
+DTSTAMP:20260828T182918Z
 UID:openligadb-ffb1-85770@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 8. Spieltag\nVfL Wolfsburg Frauen
   vs 1. FC Köln Frauen\nVenue: AOK Stadion\, Wolfsburg\n\nData: openligadb
@@ -101,7 +101,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FC Köln Frauen vs RB Leipzig Frauen
 DTSTART:20261108T143000Z
 DTEND:20261108T163000Z
-DTSTAMP:20260828T020730Z
+DTSTAMP:20260828T182918Z
 UID:openligadb-ffb1-85774@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 9. Spieltag\n1. FC Köln Frauen v
  s RB Leipzig Frauen\nVenue: Franz-Kremer-Stadion\, Köln\n\nData: openliga
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FC Nürnberg Frauen vs 1. FC Köln Frauen
 DTSTART:20261115T143000Z
 DTEND:20261115T163000Z
-DTSTAMP:20260828T020730Z
+DTSTAMP:20260828T182918Z
 UID:openligadb-ffb1-85782@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 10. Spieltag\n1. FC Nürnberg Fra
  uen vs 1. FC Köln Frauen\nVenue: Max-Morlock-Stadion\, Nürnberg\n\nData:
@@ -123,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FC Köln Frauen vs SV Werder Bremen Frauen
 DTSTART:20261122T143000Z
 DTEND:20261122T163000Z
-DTSTAMP:20260828T020730Z
+DTSTAMP:20260828T182918Z
 UID:openligadb-ffb1-85788@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 11. Spieltag\n1. FC Köln Frauen 
  vs SV Werder Bremen Frauen\nVenue: Franz-Kremer-Stadion\, Köln\n\nData: o
@@ -134,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bayer 04 Leverkusen Frauen vs 1. FC Köln Frauen
 DTSTART:20261213T143000Z
 DTEND:20261213T163000Z
-DTSTAMP:20260828T020730Z
+DTSTAMP:20260828T182918Z
 UID:openligadb-ffb1-85797@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 12. Spieltag\nBayer 04 Leverkusen
   Frauen vs 1. FC Köln Frauen\nVenue: Ulrich-Haberland-Stadion\, Leverkuse
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FC Köln Frauen vs VfB Stuttgart Frauen
 DTSTART:20261220T143000Z
 DTEND:20261220T163000Z
-DTSTAMP:20260828T020730Z
+DTSTAMP:20260828T182918Z
 UID:openligadb-ffb1-85802@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 13. Spieltag\n1. FC Köln Frauen 
  vs VfB Stuttgart Frauen\nVenue: Franz-Kremer-Stadion\, Köln\n\nData: open
@@ -156,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FC Köln Frauen vs Eintracht Frankfurt Frauen
 DTSTART:20270117T143000Z
 DTEND:20270117T163000Z
-DTSTAMP:20260828T020730Z
+DTSTAMP:20260828T182918Z
 UID:openligadb-ffb1-85809@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 14. Spieltag\n1. FC Köln Frauen 
  vs Eintracht Frankfurt Frauen\nVenue: Franz-Kremer-Stadion\, Köln\n\nData
@@ -167,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ TSG 1899 Hoffenheim Frauen vs 1. FC Köln Frauen
 DTSTART:20270124T143000Z
 DTEND:20270124T163000Z
-DTSTAMP:20260828T020730Z
+DTSTAMP:20260828T182918Z
 UID:openligadb-ffb1-85816@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 15. Spieltag\nTSG 1899 Hoffenheim
   Frauen vs 1. FC Köln Frauen\nVenue: Dietmar-Hopp-Stadion\, Hoffenheim\n
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FC Köln Frauen vs 1. FSV Mainz 05 Frauen
 DTSTART:20270131T143000Z
 DTEND:20270131T163000Z
-DTSTAMP:20260828T020730Z
+DTSTAMP:20260828T182918Z
 UID:openligadb-ffb1-85824@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 16. Spieltag\n1. FC Köln Frauen 
  vs 1. FSV Mainz 05 Frauen\nVenue: Franz-Kremer-Stadion\, Köln\n\nData: op
@@ -189,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FC Union Berlin Frauen vs 1. FC Köln Frauen
 DTSTART:20270207T143000Z
 DTEND:20270207T163000Z
-DTSTAMP:20260828T020730Z
+DTSTAMP:20260828T182918Z
 UID:openligadb-ffb1-85827@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 17. Spieltag\n1. FC Union Berlin 
  Frauen vs 1. FC Köln Frauen\nVenue: Alte Försterei\, Berlin\n\nData: ope
@@ -200,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FC Köln Frauen vs FC Bayern München Frauen
 DTSTART:20270214T143000Z
 DTEND:20270214T163000Z
-DTSTAMP:20260828T020730Z
+DTSTAMP:20260828T182918Z
 UID:openligadb-ffb1-85839@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 18. Spieltag\n1. FC Köln Frauen 
  vs FC Bayern München Frauen\nVenue: Franz-Kremer-Stadion\, Köln\n\nData:
@@ -211,7 +211,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ SC Freiburg Frauen vs 1. FC Köln Frauen
 DTSTART:20270221T143000Z
 DTEND:20270221T163000Z
-DTSTAMP:20260828T020730Z
+DTSTAMP:20260828T182918Z
 UID:openligadb-ffb1-85844@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 19. Spieltag\nSC Freiburg Frauen 
  vs 1. FC Köln Frauen\nVenue: Dreisamstadion\, Freiburg\n\nData: openligad
@@ -222,7 +222,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Hamburger SV Frauen vs 1. FC Köln Frauen
 DTSTART:20270314T143000Z
 DTEND:20270314T163000Z
-DTSTAMP:20260828T020730Z
+DTSTAMP:20260828T182918Z
 UID:openligadb-ffb1-85849@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 20. Spieltag\nHamburger SV Frauen
   vs 1. FC Köln Frauen\nVenue: Volksparkstadion\, Hamburg\n\nData: openlig
@@ -233,7 +233,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FC Köln Frauen vs VfL Wolfsburg Frauen
 DTSTART:20270321T143000Z
 DTEND:20270321T163000Z
-DTSTAMP:20260828T020730Z
+DTSTAMP:20260828T182918Z
 UID:openligadb-ffb1-85859@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 21. Spieltag\n1. FC Köln Frauen 
  vs VfL Wolfsburg Frauen\nVenue: Franz-Kremer-Stadion\, Köln\n\nData: open
@@ -244,7 +244,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ RB Leipzig Frauen vs 1. FC Köln Frauen
 DTSTART:20270328T133000Z
 DTEND:20270328T153000Z
-DTSTAMP:20260828T020730Z
+DTSTAMP:20260828T182918Z
 UID:openligadb-ffb1-85865@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 22. Spieltag\nRB Leipzig Frauen v
  s 1. FC Köln Frauen\nVenue: Trainingszentrum Cottaweg\, Leipzig\n\nData: 
@@ -255,7 +255,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FC Köln Frauen vs 1. FC Nürnberg Frauen
 DTSTART:20270411T133000Z
 DTEND:20270411T153000Z
-DTSTAMP:20260828T020730Z
+DTSTAMP:20260828T182918Z
 UID:openligadb-ffb1-85873@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 23. Spieltag\n1. FC Köln Frauen 
  vs 1. FC Nürnberg Frauen\nVenue: Franz-Kremer-Stadion\, Köln\n\nData: op
@@ -266,7 +266,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ SV Werder Bremen Frauen vs 1. FC Köln Frauen
 DTSTART:20270502T133000Z
 DTEND:20270502T153000Z
-DTSTAMP:20260828T020730Z
+DTSTAMP:20260828T182918Z
 UID:openligadb-ffb1-85876@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 24. Spieltag\nSV Werder Bremen Fr
  auen vs 1. FC Köln Frauen\nVenue: Weserstadion - Platz 11\, Bremen\n\nDat
@@ -277,7 +277,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FC Köln Frauen vs Bayer 04 Leverkusen Frauen
 DTSTART:20270509T133000Z
 DTEND:20270509T153000Z
-DTSTAMP:20260828T020730Z
+DTSTAMP:20260828T182918Z
 UID:openligadb-ffb1-85886@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 25. Spieltag\n1. FC Köln Frauen 
  vs Bayer 04 Leverkusen Frauen\nVenue: Franz-Kremer-Stadion\, Köln\n\nData
@@ -288,7 +288,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ VfB Stuttgart Frauen vs 1. FC Köln Frauen
 DTSTART:20270523T133000Z
 DTEND:20270523T153000Z
-DTSTAMP:20260828T020730Z
+DTSTAMP:20260828T182918Z
 UID:openligadb-ffb1-85894@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 26. Spieltag\nVfB Stuttgart Fraue
  n vs 1. FC Köln Frauen\nVenue: GAZi-Stadion auf der Waldau\, Stuttgart\n
