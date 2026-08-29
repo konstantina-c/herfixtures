@@ -14,7 +14,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ RB Leipzig Frauen vs Bayer 04 Leverkusen Frauen (0–2)
 DTSTART:20260823T140000Z
 DTEND:20260823T160000Z
-DTSTAMP:20260828T182918Z
+DTSTAMP:20260829T123509Z
 UID:openligadb-ffb1-85273@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 1. Spieltag\nRB Leipzig Frauen vs
   Bayer 04 Leverkusen Frauen\nResult: 0–2\nVenue: Trainingszentrum Cottaw
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bayer 04 Leverkusen Frauen vs VfL Wolfsburg Frauen
 DTSTART:20260830T140000Z
 DTEND:20260830T160000Z
-DTSTAMP:20260828T182918Z
+DTSTAMP:20260829T123509Z
 UID:openligadb-ffb1-85281@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 2. Spieltag\nBayer 04 Leverkusen 
  Frauen vs VfL Wolfsburg Frauen\nVenue: Ulrich-Haberland-Stadion\, Leverkus
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ TSG 1899 Hoffenheim Frauen vs Bayer 04 Leverkusen Frauen
 DTSTART:20260904T163000Z
 DTEND:20260904T183000Z
-DTSTAMP:20260828T182918Z
+DTSTAMP:20260829T123509Z
 UID:openligadb-ffb1-85285@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 3. Spieltag\nTSG 1899 Hoffenheim 
  Frauen vs Bayer 04 Leverkusen Frauen\nVenue: Dietmar-Hopp-Stadion\, Hoffen
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bayer 04 Leverkusen Frauen vs FC Bayern München Frauen
 DTSTART:20260914T160000Z
 DTEND:20260914T180000Z
-DTSTAMP:20260828T182918Z
+DTSTAMP:20260829T123509Z
 UID:openligadb-ffb1-85742@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 4. Spieltag\nBayer 04 Leverkusen 
  Frauen vs FC Bayern München Frauen\nVenue: Ulrich-Haberland-Stadion\, Lev
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ SC Freiburg Frauen vs Bayer 04 Leverkusen Frauen
 DTSTART:20260920T140000Z
 DTEND:20260920T160000Z
-DTSTAMP:20260828T182918Z
+DTSTAMP:20260829T123509Z
 UID:openligadb-ffb1-85747@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 5. Spieltag\nSC Freiburg Frauen v
  s Bayer 04 Leverkusen Frauen\nVenue: Dreisamstadion\, Freiburg\n\nData: op
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bayer 04 Leverkusen Frauen vs SV Werder Bremen Frauen
 DTSTART:20261004T133000Z
 DTEND:20261004T153000Z
-DTSTAMP:20260828T182918Z
+DTSTAMP:20260829T123509Z
 UID:openligadb-ffb1-85753@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 6. Spieltag\nBayer 04 Leverkusen 
  Frauen vs SV Werder Bremen Frauen\nVenue: Ulrich-Haberland-Stadion\, Lever
@@ -80,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bayer 04 Leverkusen Frauen vs Eintracht Frankfurt Frauen
 DTSTART:20261018T133000Z
 DTEND:20261018T153000Z
-DTSTAMP:20260828T182918Z
+DTSTAMP:20260829T123509Z
 UID:openligadb-ffb1-85762@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 7. Spieltag\nBayer 04 Leverkusen 
  Frauen vs Eintracht Frankfurt Frauen\nVenue: Ulrich-Haberland-Stadion\, Le
@@ -91,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FC Nürnberg Frauen vs Bayer 04 Leverkusen Frauen
 DTSTART:20261025T143000Z
 DTEND:20261025T163000Z
-DTSTAMP:20260828T182918Z
+DTSTAMP:20260829T123509Z
 UID:openligadb-ffb1-85769@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 8. Spieltag\n1. FC Nürnberg Frau
  en vs Bayer 04 Leverkusen Frauen\nVenue: Max-Morlock-Stadion\, Nürnberg\n
@@ -102,7 +102,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bayer 04 Leverkusen Frauen vs Hamburger SV Frauen
 DTSTART:20261108T143000Z
 DTEND:20261108T163000Z
-DTSTAMP:20260828T182918Z
+DTSTAMP:20260829T123509Z
 UID:openligadb-ffb1-85775@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 9. Spieltag\nBayer 04 Leverkusen 
  Frauen vs Hamburger SV Frauen\nVenue: Ulrich-Haberland-Stadion\, Leverkuse
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ VfB Stuttgart Frauen vs Bayer 04 Leverkusen Frauen
 DTSTART:20261115T143000Z
 DTEND:20261115T163000Z
-DTSTAMP:20260828T182918Z
+DTSTAMP:20260829T123509Z
 UID:openligadb-ffb1-85781@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 10. Spieltag\nVfB Stuttgart Fraue
  n vs Bayer 04 Leverkusen Frauen\nVenue: GAZi-Stadion auf der Waldau\, Stut
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FC Union Berlin Frauen vs Bayer 04 Leverkusen Frauen
 DTSTART:20261122T143000Z
 DTEND:20261122T163000Z
-DTSTAMP:20260828T182918Z
+DTSTAMP:20260829T123509Z
 UID:openligadb-ffb1-85785@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 11. Spieltag\n1. FC Union Berlin 
  Frauen vs Bayer 04 Leverkusen Frauen\nVenue: Alte Försterei\, Berlin\n\nD
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bayer 04 Leverkusen Frauen vs 1. FC Köln Frauen
 DTSTART:20261213T143000Z
 DTEND:20261213T163000Z
-DTSTAMP:20260828T182918Z
+DTSTAMP:20260829T123509Z
 UID:openligadb-ffb1-85797@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 12. Spieltag\nBayer 04 Leverkusen
   Frauen vs 1. FC Köln Frauen\nVenue: Ulrich-Haberland-Stadion\, Leverkuse
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FSV Mainz 05 Frauen vs Bayer 04 Leverkusen Frauen
 DTSTART:20261220T143000Z
 DTEND:20261220T163000Z
-DTSTAMP:20260828T182918Z
+DTSTAMP:20260829T123509Z
 UID:openligadb-ffb1-85799@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 13. Spieltag\n1. FSV Mainz 05 Fra
  uen vs Bayer 04 Leverkusen Frauen\nVenue: Bruchwegstadion\, Mainz\n\nData:
@@ -157,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bayer 04 Leverkusen Frauen vs RB Leipzig Frauen
 DTSTART:20270117T143000Z
 DTEND:20270117T163000Z
-DTSTAMP:20260828T182918Z
+DTSTAMP:20260829T123509Z
 UID:openligadb-ffb1-85810@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 14. Spieltag\nBayer 04 Leverkusen
   Frauen vs RB Leipzig Frauen\nVenue: Ulrich-Haberland-Stadion\, Leverkusen
@@ -168,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ VfL Wolfsburg Frauen vs Bayer 04 Leverkusen Frauen
 DTSTART:20270124T143000Z
 DTEND:20270124T163000Z
-DTSTAMP:20260828T182918Z
+DTSTAMP:20260829T123509Z
 UID:openligadb-ffb1-85819@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 15. Spieltag\nVfL Wolfsburg Fraue
  n vs Bayer 04 Leverkusen Frauen\nVenue: AOK Stadion\, Wolfsburg\n\nData: o
@@ -179,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bayer 04 Leverkusen Frauen vs TSG 1899 Hoffenheim Frauen
 DTSTART:20270131T143000Z
 DTEND:20270131T163000Z
-DTSTAMP:20260828T182918Z
+DTSTAMP:20260829T123509Z
 UID:openligadb-ffb1-85826@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 16. Spieltag\nBayer 04 Leverkusen
   Frauen vs TSG 1899 Hoffenheim Frauen\nVenue: Ulrich-Haberland-Stadion\, L
@@ -190,7 +190,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Bayern München Frauen vs Bayer 04 Leverkusen Frauen
 DTSTART:20270207T143000Z
 DTEND:20270207T163000Z
-DTSTAMP:20260828T182918Z
+DTSTAMP:20260829T123509Z
 UID:openligadb-ffb1-85832@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 17. Spieltag\nFC Bayern München 
  Frauen vs Bayer 04 Leverkusen Frauen\nVenue: FC Bayern Campus\, München\n
@@ -201,7 +201,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bayer 04 Leverkusen Frauen vs SC Freiburg Frauen
 DTSTART:20270214T143000Z
 DTEND:20270214T163000Z
-DTSTAMP:20260828T182918Z
+DTSTAMP:20260829T123509Z
 UID:openligadb-ffb1-85837@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 18. Spieltag\nBayer 04 Leverkusen
   Frauen vs SC Freiburg Frauen\nVenue: Ulrich-Haberland-Stadion\, Leverkuse
@@ -212,7 +212,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ SV Werder Bremen Frauen vs Bayer 04 Leverkusen Frauen
 DTSTART:20270221T143000Z
 DTEND:20270221T163000Z
-DTSTAMP:20260828T182918Z
+DTSTAMP:20260829T123509Z
 UID:openligadb-ffb1-85842@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 19. Spieltag\nSV Werder Bremen Fr
  auen vs Bayer 04 Leverkusen Frauen\nVenue: Weserstadion - Platz 11\, Breme
@@ -223,7 +223,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eintracht Frankfurt Frauen vs Bayer 04 Leverkusen Frauen
 DTSTART:20270314T143000Z
 DTEND:20270314T163000Z
-DTSTAMP:20260828T182918Z
+DTSTAMP:20260829T123509Z
 UID:openligadb-ffb1-85848@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 20. Spieltag\nEintracht Frankfurt
   Frauen vs Bayer 04 Leverkusen Frauen\nVenue: Stadion am Brentanobad\, Fra
@@ -234,7 +234,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bayer 04 Leverkusen Frauen vs 1. FC Nürnberg Frauen
 DTSTART:20270321T143000Z
 DTEND:20270321T163000Z
-DTSTAMP:20260828T182918Z
+DTSTAMP:20260829T123509Z
 UID:openligadb-ffb1-85860@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 21. Spieltag\nBayer 04 Leverkusen
   Frauen vs 1. FC Nürnberg Frauen\nVenue: Ulrich-Haberland-Stadion\, Lever
@@ -245,7 +245,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Hamburger SV Frauen vs Bayer 04 Leverkusen Frauen
 DTSTART:20270328T133000Z
 DTEND:20270328T153000Z
-DTSTAMP:20260828T182918Z
+DTSTAMP:20260829T123509Z
 UID:openligadb-ffb1-85863@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 22. Spieltag\nHamburger SV Frauen
   vs Bayer 04 Leverkusen Frauen\nVenue: Volksparkstadion\, Hamburg\n\nData:
@@ -256,7 +256,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bayer 04 Leverkusen Frauen vs 1. FC Union Berlin Frauen
 DTSTART:20270502T133000Z
 DTEND:20270502T153000Z
-DTSTAMP:20260828T182918Z
+DTSTAMP:20260829T123509Z
 UID:openligadb-ffb1-85880@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 24. Spieltag\nBayer 04 Leverkusen
   Frauen vs 1. FC Union Berlin Frauen\nVenue: Ulrich-Haberland-Stadion\, Le
@@ -267,7 +267,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FC Köln Frauen vs Bayer 04 Leverkusen Frauen
 DTSTART:20270509T133000Z
 DTEND:20270509T153000Z
-DTSTAMP:20260828T182918Z
+DTSTAMP:20260829T123509Z
 UID:openligadb-ffb1-85886@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 25. Spieltag\n1. FC Köln Frauen 
  vs Bayer 04 Leverkusen Frauen\nVenue: Franz-Kremer-Stadion\, Köln\n\nData
@@ -278,7 +278,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bayer 04 Leverkusen Frauen vs 1. FSV Mainz 05 Frauen
 DTSTART:20270523T133000Z
 DTEND:20270523T153000Z
-DTSTAMP:20260828T182918Z
+DTSTAMP:20260829T123509Z
 UID:openligadb-ffb1-85895@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 26. Spieltag\nBayer 04 Leverkusen
   Frauen vs 1. FSV Mainz 05 Frauen\nVenue: Ulrich-Haberland-Stadion\, Lever
