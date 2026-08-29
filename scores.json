@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T12:35:14Z",
+  "updated": "2026-08-29T20:48:32Z",
   "competitions": {
     "wnba": {
       "name": "WNBA",
@@ -61,23 +61,24 @@
             "score": 88
           },
           "winner": "away"
-        }
-      ],
-      "livegame": [],
-      "pregame": [
+        },
         {
           "league": "WNBA",
           "home": {
             "name": "Sky",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/19.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/19.png",
+            "score": 66
           },
           "away": {
             "name": "Liberty",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/9.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/9.png",
+            "score": 85
           },
-          "kickoff": "2026-08-29T17:00:00Z",
-          "kickoff_label": "in 4h"
-        },
+          "winner": "away"
+        }
+      ],
+      "livegame": [],
+      "pregame": [
         {
           "league": "WNBA",
           "home": {
@@ -89,7 +90,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/11.png"
           },
           "kickoff": "2026-08-30T02:00:00Z",
-          "kickoff_label": "in 13h"
+          "kickoff_label": "in 5h"
         },
         {
           "league": "WNBA",
@@ -102,7 +103,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/20.png"
           },
           "kickoff": "2026-08-30T19:00:00Z",
-          "kickoff_label": "Tomorrow @ 7pm"
+          "kickoff_label": "in 22h"
         },
         {
           "league": "WNBA",
@@ -192,7 +193,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20907.png"
           },
           "kickoff": "2026-08-29T22:30:00Z",
-          "kickoff_label": "in 10h"
+          "kickoff_label": "in 2h"
         },
         {
           "league": "NWSL",
@@ -205,7 +206,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18206.png"
           },
           "kickoff": "2026-08-29T23:00:00Z",
-          "kickoff_label": "in 10h"
+          "kickoff_label": "in 2h"
         },
         {
           "league": "NWSL",
@@ -218,7 +219,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131563.png"
           },
           "kickoff": "2026-08-30T00:45:00Z",
-          "kickoff_label": "in 12h"
+          "kickoff_label": "in 4h"
         },
         {
           "league": "NWSL",
@@ -231,7 +232,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15365.png"
           },
           "kickoff": "2026-08-30T16:30:00Z",
-          "kickoff_label": "Tomorrow @ 4:30pm"
+          "kickoff_label": "in 20h"
         },
         {
           "league": "NWSL",
@@ -309,36 +310,38 @@
             "score": 0
           },
           "winner": "home"
-        }
-      ],
-      "livegame": [],
-      "pregame": [
+        },
         {
           "league": "Liga F",
           "home": {
             "name": "Espanyol",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21154.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21154.png",
+            "score": 0
           },
           "away": {
             "name": "Eibar",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21376.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21376.png",
+            "score": 1
           },
-          "kickoff": "2026-08-29T15:00:00Z",
-          "kickoff_label": "in 2h"
-        },
+          "winner": "away"
+        }
+      ],
+      "livegame": [
         {
           "league": "Liga F",
           "home": {
             "name": "Granada",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21140.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21140.png",
+            "score": 0
           },
           "away": {
             "name": "Madrid CFF",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21425.png"
-          },
-          "kickoff": "2026-08-29T19:00:00Z",
-          "kickoff_label": "in 6h"
-        },
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21425.png",
+            "score": 3
+          }
+        }
+      ],
+      "pregame": [
         {
           "league": "Liga F",
           "home": {
@@ -350,7 +353,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21372.png"
           },
           "kickoff": "2026-08-30T10:00:00Z",
-          "kickoff_label": "in 21h"
+          "kickoff_label": "in 13h"
         },
         {
           "league": "Liga F",
@@ -363,7 +366,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21378.png"
           },
           "kickoff": "2026-08-30T15:00:00Z",
-          "kickoff_label": "Tomorrow @ 3pm"
+          "kickoff_label": "in 18h"
         },
         {
           "league": "Liga F",
@@ -376,7 +379,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20091.png"
           },
           "kickoff": "2026-08-30T17:00:00Z",
-          "kickoff_label": "Tomorrow @ 5pm"
+          "kickoff_label": "in 20h"
         },
         {
           "league": "Liga F",
@@ -389,7 +392,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21128.png"
           },
           "kickoff": "2026-08-30T19:00:00Z",
-          "kickoff_label": "Tomorrow @ 7pm"
+          "kickoff_label": "in 22h"
         }
       ]
     }
