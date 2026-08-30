@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Deportivo (1–0)
 DTSTART:20260829T100000Z
 DTEND:20260829T120000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882538@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Deportivo\nStatus: Full Tim
  e\nVenue: Riazor\, La Coruña\n\nFixtures by HerFixtures.com — Women's S
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Real Sociedad (2–0)
 DTSTART:20260829T100000Z
 DTEND:20260829T120000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882533@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Real Sociedad\nStatus:
   Full Time\nVenue: Instalaciones de Zubieta\, San Sebastian\n\nFixtures by
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ Eibar (0–1)
 DTSTART:20260829T150000Z
 DTEND:20260829T170000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882537@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Eibar\nStatus: Full Time\n
  Venue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sports on
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Madrid CFF (1–3)
 DTSTART:20260829T190000Z
 DTEND:20260829T210000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882535@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at Madrid CFF\nStatus: Full Ti
  me\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFixture
@@ -56,35 +56,36 @@ URL:https://www.espn.com/soccer/match/_/gameId/401882535/granada-madrid-cf
  f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ FC Badalona @ Athletic Club
+SUMMARY:⚽ FC Badalona @ Athletic Club (1–3)
 DTSTART:20260830T100000Z
 DTEND:20260830T120000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882539@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Athletic Club\nStatus: 
- Second Half\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures b
- y HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882539
+ Full Time\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by 
+ HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882539/fc-badalona-athle
+ tic-club
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Valencia @ Alavés
+SUMMARY:⚽ Valencia @ Alavés (0–2)
 DTSTART:20260830T150000Z
 DTEND:20260830T170000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882540@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nValencia at Alavés\nStatus: Scheduled
+DESCRIPTION:Spanish Liga F 2026/27\nValencia at Alavés\nStatus: Full Time
  \nVenue: Mendizorrotza\, Vitoria-Gasteiz\n\nFixtures by HerFixtures.com 
  — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882540/valencia-alaves
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ CD Tenerife @ Barcelona
+SUMMARY:⚽ CD Tenerife @ Barcelona (0–5)
 DTSTART:20260830T170000Z
 DTEND:20260830T190000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882536@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Barcelona\nStatus: Sche
- duled\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures.c
+DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Barcelona\nStatus: Full
+  Time\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures.c
  om — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882536/cd-tenerife-barce
  lona
@@ -93,19 +94,18 @@ BEGIN:VEVENT
 SUMMARY:⚽ Atlético Madrid @ Real Madrid
 DTSTART:20260830T190000Z
 DTEND:20260830T210000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882534@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Real Madrid\nStatu
- s: Scheduled\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by H
- erFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882534/atletico-madrid-r
- eal-madrid
+ s: Second Half\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by
+  HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882534
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ FC Badalona @ Espanyol
 DTSTART:20260905T100000Z
 DTEND:20260905T120000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882529@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Espanyol\nStatus: Sched
  uled\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFi
@@ -117,7 +117,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Madrid CFF @ Valencia
 DTSTART:20260905T100000Z
 DTEND:20260905T120000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882525@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Valencia\nStatus: Schedu
  led\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtures.
@@ -129,7 +129,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Sevilla
 DTSTART:20260905T183000Z
 DTEND:20260905T203000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882526@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Sevilla\nStatus: Schedule
  d\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.com 
@@ -140,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Atlético Madrid
 DTSTART:20260906T100000Z
 DTEND:20260906T120000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882532@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Atlético Madrid\nStatus: S
  cheduled\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de Henares
@@ -152,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ CD Tenerife
 DTSTART:20260906T104500Z
 DTEND:20260906T124500Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882531@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at CD Tenerife\nStatus: Sche
  duled\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
@@ -164,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Dux Logroño
 DTSTART:20260906T163000Z
 DTEND:20260906T183000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882530@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Dux Logroño\nStatus:
   Scheduled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com 
@@ -176,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ Real Madrid
 DTSTART:20260906T183000Z
 DTEND:20260906T203000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882527@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Real Madrid\nStatus: Schedule
  d\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFixtures.
@@ -187,7 +187,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Sociedad @ Granada
 DTSTART:20260907T173000Z
 DTEND:20260907T193000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882528@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Granada\nStatus: Sche
  duled\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by Her
@@ -199,7 +199,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Alavés
 DTSTART:20260913T180000Z
 DTEND:20260913T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882524@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at Alavés\nStatus: Scheduled
  \nVenue: Ciudad Deportiva José Luis Compañón\, Vitoria-Gasteiz\n\nFixtu
@@ -210,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ Athletic Club
 DTSTART:20260913T180000Z
 DTEND:20260913T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882523@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Athletic Club\nStatus: Sch
  eduled\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by Her
@@ -222,7 +222,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Atlético Madrid @ Barcelona
 DTSTART:20260913T180000Z
 DTEND:20260913T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882519@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Barcelona\nStatus:
   Scheduled\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtu
@@ -234,7 +234,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ Deportivo
 DTSTART:20260913T180000Z
 DTEND:20260913T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882522@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Deportivo\nStatus: Sche
  duled\nVenue: Dépor Training Center Campo Arsenio Iglesias\n\nFixtures by
@@ -246,7 +246,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Dux Logroño
 DTSTART:20260913T180000Z
 DTEND:20260913T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882521@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at Dux Logroño\nStatus: Sche
  duled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — Wom
@@ -258,7 +258,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Badalona @ Eibar
 DTSTART:20260913T180000Z
 DTEND:20260913T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882520@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Eibar\nStatus: Schedule
  d\nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sports
@@ -269,7 +269,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Madrid CFF
 DTSTART:20260913T180000Z
 DTEND:20260913T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882518@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Madrid CFF\nStatus: Schedul
  ed\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFixture
@@ -281,7 +281,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ CD Tenerife @ Real Sociedad
 DTSTART:20260913T180000Z
 DTEND:20260913T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882517@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Real Sociedad\nStatus: 
  Scheduled\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFixtures
@@ -293,7 +293,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Alavés
 DTSTART:20260920T180000Z
 DTEND:20260920T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882516@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Alavés\nStatus: Schedule
  d\nVenue: Ciudad Deportiva José Luis Compañón\, Vitoria-Gasteiz\n\nFixt
@@ -304,7 +304,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Atlético Madrid
 DTSTART:20260920T180000Z
 DTEND:20260920T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882515@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Atlético Madrid\nStat
  us: Scheduled\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de Hen
@@ -316,7 +316,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ CD Tenerife
 DTSTART:20260920T180000Z
 DTEND:20260920T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882514@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nSevilla at CD Tenerife\nStatus: Schedu
  led\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife\n
@@ -328,7 +328,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Eibar
 DTSTART:20260920T180000Z
 DTEND:20260920T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882513@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Eibar\nStatus: Schedu
  led\nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Spor
@@ -340,7 +340,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Madrid CFF @ Espanyol
 DTSTART:20260920T180000Z
 DTEND:20260920T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882512@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Espanyol\nStatus: Schedu
  led\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFix
@@ -352,7 +352,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Sociedad @ FC Badalona
 DTSTART:20260920T180000Z
 DTEND:20260920T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882510@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at FC Badalona\nStatus: 
  Scheduled\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFix
@@ -364,7 +364,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Granada
 DTSTART:20260920T180000Z
 DTEND:20260920T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882511@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Granada\nStatus: Schedule
  d\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by HerFixt
@@ -375,7 +375,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Real Madrid
 DTSTART:20260920T180000Z
 DTEND:20260920T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882509@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at Real Madrid\nStatus: Sched
  uled\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFixtur
@@ -387,7 +387,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Atlético Madrid @ Athletic Club
 DTSTART:20260927T180000Z
 DTEND:20260927T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882508@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Athletic Club\nSta
  tus: Scheduled\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixture
@@ -399,7 +399,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ Deportivo
 DTSTART:20260927T180000Z
 DTEND:20260927T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882507@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Deportivo\nStatus: Schedul
  ed\nVenue: Dépor Training Center Campo Arsenio Iglesias\n\nFixtures by He
@@ -411,7 +411,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Dux Logroño
 DTSTART:20260927T180000Z
 DTEND:20260927T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882506@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Dux Logroño\nStatus: Sch
  eduled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — Wo
@@ -423,7 +423,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Granada @ FC Badalona
 DTSTART:20260927T180000Z
 DTEND:20260927T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882504@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at FC Badalona\nStatus: Schedu
  led\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixtures.
@@ -435,7 +435,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Madrid CFF
 DTSTART:20260927T180000Z
 DTEND:20260927T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882505@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Madrid CFF\nStatus: Schedul
  ed\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFixture
@@ -446,7 +446,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ Real Sociedad
 DTSTART:20260927T180000Z
 DTEND:20260927T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882503@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Real Sociedad\nStatus: 
  Scheduled\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFixtures
@@ -458,7 +458,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ Sevilla
 DTSTART:20260927T180000Z
 DTEND:20260927T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882502@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Sevilla\nStatus: Scheduled\nV
  enue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.com — Wo
@@ -469,7 +469,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ CD Tenerife @ Valencia
 DTSTART:20260927T180000Z
 DTEND:20260927T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882501@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Valencia\nStatus: Sched
  uled\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtures
@@ -481,7 +481,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ Barcelona
 DTSTART:20261004T180000Z
 DTEND:20261004T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882497@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Barcelona\nStatus: Sche
  duled\nVenue: Spotify Camp Nou\, Barcelona\n\nFixtures by HerFixtures.com 
@@ -493,7 +493,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ CD Tenerife
 DTSTART:20261004T180000Z
 DTEND:20261004T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882500@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at CD Tenerife\nStatus: S
  cheduled\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tener
@@ -505,7 +505,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Atlético Madrid @ Deportivo
 DTSTART:20261004T180000Z
 DTEND:20261004T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882499@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Deportivo\nStatus:
   Scheduled\nVenue: Dépor Training Center Campo Arsenio Iglesias\n\nFixtur
@@ -517,7 +517,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Espanyol
 DTSTART:20261004T180000Z
 DTEND:20261004T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882498@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Espanyol\nStatus: Scheduled
  \nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFixtur
@@ -528,7 +528,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ Granada
 DTSTART:20261004T180000Z
 DTEND:20261004T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882496@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Granada\nStatus: Scheduled\nV
  enue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by HerFixtures
@@ -539,7 +539,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Madrid CFF
 DTSTART:20261004T180000Z
 DTEND:20261004T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882495@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Madrid CFF\nStatus: S
  cheduled\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerF
@@ -551,7 +551,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Badalona @ Sevilla
 DTSTART:20261004T180000Z
 DTEND:20261004T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882494@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Sevilla\nStatus: Schedu
  led\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.com 
@@ -563,7 +563,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Sociedad @ Valencia
 DTSTART:20261004T180000Z
 DTEND:20261004T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882493@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Valencia\nStatus: Sch
  eduled\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtur
@@ -575,7 +575,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Alavés
 DTSTART:20261018T180000Z
 DTEND:20261018T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882492@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Alavés\nStatus: Scheduled
  \nVenue: Ciudad Deportiva José Luis Compañón\, Vitoria-Gasteiz\n\nFixtu
@@ -586,7 +586,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Athletic Club
 DTSTART:20261018T180000Z
 DTEND:20261018T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882491@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at Athletic Club\nStatus: Sch
  eduled\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by Her
@@ -598,7 +598,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Madrid CFF @ Atlético Madrid
 DTSTART:20261018T180000Z
 DTEND:20261018T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882490@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Atlético Madrid\nStatus
  : Scheduled\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de Henar
@@ -610,7 +610,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Dux Logroño
 DTSTART:20261018T180000Z
 DTEND:20261018T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882489@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at Dux Logroño\nStatus: Sched
  uled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — Wome
@@ -622,7 +622,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Eibar
 DTSTART:20261018T180000Z
 DTEND:20261018T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882488@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Eibar\nStatus: Scheduled
  \nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sports 
@@ -633,7 +633,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ CD Tenerife @ FC Badalona
 DTSTART:20261018T180000Z
 DTEND:20261018T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882487@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at FC Badalona\nStatus: Sc
  heduled\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixtu
@@ -645,7 +645,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ Real Madrid
 DTSTART:20261018T180000Z
 DTEND:20261018T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882486@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Real Madrid\nStatus: Sched
  uled\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFixtur
@@ -657,7 +657,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Real Sociedad
 DTSTART:20261018T180000Z
 DTEND:20261018T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882485@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Real Sociedad\nStatus: Sc
  heduled\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFixtures b
@@ -669,7 +669,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Athletic Club
 DTSTART:20261025T180000Z
 DTEND:20261025T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882484@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Athletic Club\nStatus: Sche
  duled\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by HerF
@@ -681,7 +681,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Atlético Madrid
 DTSTART:20261025T180000Z
 DTEND:20261025T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882483@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at Atlético Madrid\nStatus: 
  Scheduled\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de Henares
@@ -693,7 +693,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Barcelona
 DTSTART:20261025T180000Z
 DTEND:20261025T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882479@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at Barcelona\nStatus: Schedule
  d\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures.com 
@@ -704,7 +704,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Deportivo
 DTSTART:20261025T180000Z
 DTEND:20261025T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882482@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Deportivo\nStatus: Schedule
  d\nVenue: Dépor Training Center Campo Arsenio Iglesias\n\nFixtures by Her
@@ -715,7 +715,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Badalona @ Dux Logroño
 DTSTART:20261025T180000Z
 DTEND:20261025T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882481@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Dux Logroño\nStatus: S
  cheduled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — 
@@ -727,7 +727,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Madrid CFF @ Eibar
 DTSTART:20261025T180000Z
 DTEND:20261025T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882480@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Eibar\nStatus: Scheduled
  \nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sports 
@@ -738,7 +738,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ CD Tenerife @ Real Madrid
 DTSTART:20261025T180000Z
 DTEND:20261025T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882478@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Real Madrid\nStatus: Sc
  heduled\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFix
@@ -750,7 +750,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ Real Sociedad
 DTSTART:20261025T180000Z
 DTEND:20261025T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882477@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Real Sociedad\nStatus: Sch
  eduled\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFixtures by
@@ -762,7 +762,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Sociedad @ Alavés
 DTSTART:20261101T200000Z
 DTEND:20261101T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882476@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Alavés\nStatus: Sche
  duled\nVenue: Ciudad Deportiva José Luis Compañón\, Vitoria-Gasteiz\n\n
@@ -774,7 +774,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ CD Tenerife
 DTSTART:20261101T200000Z
 DTEND:20261101T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882475@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at CD Tenerife\nStatus: 
  Scheduled\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tene
@@ -786,7 +786,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Espanyol
 DTSTART:20261101T200000Z
 DTEND:20261101T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882474@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Espanyol\nStatus: Sche
  duled\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerF
@@ -798,7 +798,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ FC Badalona
 DTSTART:20261101T200000Z
 DTEND:20261101T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882471@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at FC Badalona\nStatus: Sche
  duled\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixture
@@ -810,7 +810,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Atlético Madrid @ Granada
 DTSTART:20261101T200000Z
 DTEND:20261101T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882473@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Granada\nStatus: S
  cheduled\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by 
@@ -822,7 +822,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Madrid CFF
 DTSTART:20261101T200000Z
 DTEND:20261101T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882472@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Madrid CFF\nStatus: Sched
  uled\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFixtu
@@ -834,7 +834,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ Sevilla
 DTSTART:20261101T200000Z
 DTEND:20261101T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882470@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Sevilla\nStatus: Schedu
  led\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.com 
@@ -846,7 +846,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ Valencia
 DTSTART:20261101T200000Z
 DTEND:20261101T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882469@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Valencia\nStatus: Scheduled\n
  Venue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtures.com 
@@ -857,7 +857,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ Athletic Club
 DTSTART:20261108T200000Z
 DTEND:20261108T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882468@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Athletic Club\nStatus: 
  Scheduled\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by 
@@ -869,7 +869,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Badalona @ Atlético Madrid
 DTSTART:20261108T200000Z
 DTEND:20261108T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882467@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Atlético Madrid\nStatu
  s: Scheduled\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de Hena
@@ -881,7 +881,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Madrid CFF @ Barcelona
 DTSTART:20261108T200000Z
 DTEND:20261108T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882462@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Barcelona\nStatus: Sched
  uled\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures.co
@@ -893,7 +893,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ CD Tenerife
 DTSTART:20261108T200000Z
 DTEND:20261108T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882466@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAlavés at CD Tenerife\nStatus: Schedu
  led\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife\n
@@ -905,7 +905,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Deportivo
 DTSTART:20261108T200000Z
 DTEND:20261108T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882465@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at Deportivo\nStatus: Schedul
  ed\nVenue: Dépor Training Center Campo Arsenio Iglesias\n\nFixtures by He
@@ -917,7 +917,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Dux Logroño
 DTSTART:20261108T200000Z
 DTEND:20261108T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882464@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Dux Logroño\nStatus: Sched
  uled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — Wome
@@ -929,7 +929,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Sociedad @ Eibar
 DTSTART:20261108T200000Z
 DTEND:20261108T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882463@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Eibar\nStatus: Schedu
  led\nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Spor
@@ -941,7 +941,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ Granada
 DTSTART:20261108T200000Z
 DTEND:20261108T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882461@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Granada\nStatus: Scheduled
  \nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by HerFixtu
@@ -952,7 +952,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ Alavés
 DTSTART:20261115T200000Z
 DTEND:20261115T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882460@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Alavés\nStatus: Scheduled\nV
  enue: Ciudad Deportiva José Luis Compañón\, Vitoria-Gasteiz\n\nFixtures
@@ -963,7 +963,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Deportivo
 DTSTART:20261115T200000Z
 DTEND:20261115T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882459@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Deportivo\nStatus: Schedu
  led\nVenue: Dépor Training Center Campo Arsenio Iglesias\n\nFixtures by H
@@ -975,7 +975,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ CD Tenerife @ Espanyol
 DTSTART:20261115T200000Z
 DTEND:20261115T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882458@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Espanyol\nStatus: Sched
  uled\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFi
@@ -987,7 +987,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Madrid CFF
 DTSTART:20261115T200000Z
 DTEND:20261115T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882457@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Madrid CFF\nStatus: Sc
  heduled\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFi
@@ -999,7 +999,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Badalona @ Real Madrid
 DTSTART:20261115T200000Z
 DTEND:20261115T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882456@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Real Madrid\nStatus: Sc
  heduled\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFix
@@ -1011,7 +1011,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Real Sociedad
 DTSTART:20261115T200000Z
 DTEND:20261115T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882455@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Real Sociedad\nStatus
  : Scheduled\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFixtur
@@ -1023,7 +1023,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Atlético Madrid @ Sevilla
 DTSTART:20261115T200000Z
 DTEND:20261115T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882454@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Sevilla\nStatus: S
  cheduled\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures
@@ -1035,7 +1035,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Valencia
 DTSTART:20261115T200000Z
 DTEND:20261115T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882453@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at Valencia\nStatus: Scheduled
  \nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtures.com
@@ -1046,7 +1046,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Barcelona
 DTSTART:20261122T200000Z
 DTEND:20261122T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882448@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Barcelona\nStatus: Sc
  heduled\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures
@@ -1058,7 +1058,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Madrid CFF @ CD Tenerife
 DTSTART:20261122T200000Z
 DTEND:20261122T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882452@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at CD Tenerife\nStatus: Sch
  eduled\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerif
@@ -1070,7 +1070,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Dux Logroño
 DTSTART:20261122T200000Z
 DTEND:20261122T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882451@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Dux Logroño\nStatus: Sched
  uled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — Wome
@@ -1082,7 +1082,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Atlético Madrid @ Eibar
 DTSTART:20261122T200000Z
 DTEND:20261122T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882450@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Eibar\nStatus: Sch
  eduled\nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's S
@@ -1094,7 +1094,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Espanyol
 DTSTART:20261122T200000Z
 DTEND:20261122T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882449@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at Espanyol\nStatus: Schedule
  d\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFixtu
@@ -1105,7 +1105,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ FC Badalona
 DTSTART:20261122T200000Z
 DTEND:20261122T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882446@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at FC Badalona\nStatus: Sche
  duled\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixture
@@ -1117,7 +1117,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ Granada
 DTSTART:20261122T200000Z
 DTEND:20261122T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882447@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Granada\nStatus: Schedu
  led\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by HerFi
@@ -1129,7 +1129,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Real Sociedad
 DTSTART:20261122T200000Z
 DTEND:20261122T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882445@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Real Sociedad\nStatus: Sche
  duled\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFixtures by 
@@ -1141,7 +1141,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Athletic Club
 DTSTART:20261209T200000Z
 DTEND:20261209T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882444@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Athletic Club\nStatus: Sche
  duled\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by HerF
@@ -1153,7 +1153,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ CD Tenerife @ Atlético Madrid
 DTSTART:20261209T200000Z
 DTEND:20261209T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882443@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Atlético Madrid\nStatu
  s: Scheduled\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de Hena
@@ -1165,7 +1165,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ Barcelona
 DTSTART:20261209T200000Z
 DTEND:20261209T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882440@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Barcelona\nStatus: Schedul
  ed\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures.com 
@@ -1177,7 +1177,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Sociedad @ Deportivo
 DTSTART:20261209T200000Z
 DTEND:20261209T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882442@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Deportivo\nStatus: Sc
  heduled\nVenue: Dépor Training Center Campo Arsenio Iglesias\n\nFixtures 
@@ -1189,7 +1189,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Eibar
 DTSTART:20261209T200000Z
 DTEND:20261209T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882441@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Eibar\nStatus: Schedul
  ed\nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sport
@@ -1200,7 +1200,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ FC Badalona
 DTSTART:20261209T200000Z
 DTEND:20261209T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882439@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at FC Badalona\nStatus: Sched
  uled\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixtures
@@ -1212,7 +1212,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Madrid CFF @ Real Madrid
 DTSTART:20261209T200000Z
 DTEND:20261209T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882438@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Real Madrid\nStatus: Sch
  eduled\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFixt
@@ -1224,7 +1224,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Sevilla
 DTSTART:20261209T200000Z
 DTEND:20261209T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882437@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at Sevilla\nStatus: Scheduled
  \nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.com —
@@ -1235,7 +1235,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ Alavés
 DTSTART:20261213T200000Z
 DTEND:20261213T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882436@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Alavés\nStatus: Schedu
  led\nVenue: Ciudad Deportiva José Luis Compañón\, Vitoria-Gasteiz\n\nFi
@@ -1247,7 +1247,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ CD Tenerife
 DTSTART:20261213T200000Z
 DTEND:20261213T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882435@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at CD Tenerife\nStatus: Schedule
  d\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife\n\n
@@ -1258,7 +1258,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Dux Logroño
 DTSTART:20261213T200000Z
 DTEND:20261213T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882434@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Dux Logroño\nStatus: Sch
  eduled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — Wo
@@ -1270,7 +1270,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Espanyol
 DTSTART:20261213T200000Z
 DTEND:20261213T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882433@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Espanyol\nStatus: Scheduled
  \nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFixtur
@@ -1281,7 +1281,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Granada
 DTSTART:20261213T200000Z
 DTEND:20261213T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882432@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Granada\nStatus: Sche
  duled\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by Her
@@ -1293,7 +1293,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Badalona @ Madrid CFF
 DTSTART:20261213T200000Z
 DTEND:20261213T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882431@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Madrid CFF\nStatus: Sch
  eduled\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFix
@@ -1305,7 +1305,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Atlético Madrid @ Real Sociedad
 DTSTART:20261213T200000Z
 DTEND:20261213T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882430@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Real Sociedad\nSta
  tus: Scheduled\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFix
@@ -1317,7 +1317,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Valencia
 DTSTART:20261213T200000Z
 DTEND:20261213T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882429@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Valencia\nStatus: Schedul
  ed\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtures.c
@@ -1329,7 +1329,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Athletic Club
 DTSTART:20270110T200000Z
 DTEND:20270110T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882428@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Athletic Club\nStatus: Sc
  heduled\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by He
@@ -1341,7 +1341,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ Atlético Madrid
 DTSTART:20270110T200000Z
 DTEND:20270110T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882427@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Atlético Madrid\nStatus: 
  Scheduled\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de Henares
@@ -1353,7 +1353,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Eibar
 DTSTART:20270110T200000Z
 DTEND:20270110T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882426@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Eibar\nStatus: Scheduled
  \nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sports 
@@ -1364,7 +1364,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ FC Badalona
 DTSTART:20270110T200000Z
 DTEND:20270110T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882423@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAlavés at FC Badalona\nStatus: Schedu
  led\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixtures.
@@ -1376,7 +1376,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ CD Tenerife @ Granada
 DTSTART:20270110T200000Z
 DTEND:20270110T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882425@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Granada\nStatus: Schedu
  led\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by HerFi
@@ -1388,7 +1388,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Sociedad @ Madrid CFF
 DTSTART:20270110T200000Z
 DTEND:20270110T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882424@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Madrid CFF\nStatus: S
  cheduled\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerF
@@ -1400,7 +1400,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Real Madrid
 DTSTART:20270110T200000Z
 DTEND:20270110T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882422@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Real Madrid\nStatus: S
  cheduled\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFi
@@ -1412,7 +1412,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Sevilla
 DTSTART:20270110T200000Z
 DTEND:20270110T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882421@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at Sevilla\nStatus: Scheduled
  \nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.com —
@@ -1423,7 +1423,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Madrid CFF @ Alavés
 DTSTART:20270117T200000Z
 DTEND:20270117T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882420@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Alavés\nStatus: Schedul
  ed\nVenue: Ciudad Deportiva José Luis Compañón\, Vitoria-Gasteiz\n\nFix
@@ -1434,7 +1434,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Barcelona
 DTSTART:20270117T200000Z
 DTEND:20270117T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882415@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Barcelona\nStatus: Schedule
  d\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures.com 
@@ -1445,7 +1445,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Badalona @ CD Tenerife
 DTSTART:20270117T200000Z
 DTEND:20270117T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882419@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at CD Tenerife\nStatus: Sc
  heduled\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Teneri
@@ -1457,7 +1457,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ Deportivo
 DTSTART:20270117T200000Z
 DTEND:20270117T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882418@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Deportivo\nStatus: Scheduled
  \nVenue: Dépor Training Center Campo Arsenio Iglesias\n\nFixtures by HerF
@@ -1468,7 +1468,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Atlético Madrid @ Dux Logroño
 DTSTART:20270117T200000Z
 DTEND:20270117T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882417@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Dux Logroño\nStat
  us: Scheduled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com
@@ -1480,7 +1480,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Espanyol
 DTSTART:20270117T200000Z
 DTEND:20270117T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882416@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Espanyol\nStatus: Sch
  eduled\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by Her
@@ -1492,7 +1492,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Real Sociedad
 DTSTART:20270117T200000Z
 DTEND:20270117T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882414@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at Real Sociedad\nStatus: Sche
  duled\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFixtures by 
@@ -1504,7 +1504,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ Valencia
 DTSTART:20270117T200000Z
 DTEND:20270117T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882413@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Valencia\nStatus: Sched
  uled\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtures
@@ -1516,7 +1516,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ CD Tenerife @ Athletic Club
 DTSTART:20270124T200000Z
 DTEND:20270124T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882412@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Athletic Club\nStatus: 
  Scheduled\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by 
@@ -1528,7 +1528,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Atlético Madrid
 DTSTART:20270124T200000Z
 DTEND:20270124T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882411@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Atlético Madrid\nStatus:
   Scheduled\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de Henare
@@ -1540,7 +1540,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Eibar
 DTSTART:20270124T200000Z
 DTEND:20270124T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882410@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at Eibar\nStatus: Scheduled\n
  Venue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sports on
@@ -1551,7 +1551,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ FC Badalona
 DTSTART:20270124T200000Z
 DTEND:20270124T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882407@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at FC Badalona\nStatus: S
  cheduled\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixt
@@ -1563,7 +1563,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Granada
 DTSTART:20270124T200000Z
 DTEND:20270124T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882409@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Granada\nStatus: Scheduled
  \nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by HerFixtu
@@ -1574,7 +1574,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ Madrid CFF
 DTSTART:20270124T200000Z
 DTEND:20270124T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882408@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Madrid CFF\nStatus: Schedu
  led\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFixtur
@@ -1586,7 +1586,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Sociedad @ Real Madrid
 DTSTART:20270124T200000Z
 DTEND:20270124T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882406@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Real Madrid\nStatus: 
  Scheduled\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerF
@@ -1598,7 +1598,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Sevilla
 DTSTART:20270124T200000Z
 DTEND:20270124T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882405@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Sevilla\nStatus: Schedule
  d\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.com 
@@ -1609,7 +1609,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Atlético Madrid @ Alavés
 DTSTART:20270131T200000Z
 DTEND:20270131T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882404@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Alavés\nStatus: S
  cheduled\nVenue: Ciudad Deportiva José Luis Compañón\, Vitoria-Gasteiz
@@ -1621,7 +1621,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Badalona @ Barcelona
 DTSTART:20270131T200000Z
 DTEND:20270131T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882400@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Barcelona\nStatus: Sche
  duled\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures.c
@@ -1633,7 +1633,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ CD Tenerife
 DTSTART:20270131T200000Z
 DTEND:20270131T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882403@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at CD Tenerife\nStatus: Sc
  heduled\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Teneri
@@ -1645,7 +1645,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Madrid CFF @ Deportivo
 DTSTART:20270131T200000Z
 DTEND:20270131T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882402@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Deportivo\nStatus: Sched
  uled\nVenue: Dépor Training Center Campo Arsenio Iglesias\n\nFixtures by 
@@ -1657,7 +1657,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Espanyol
 DTSTART:20270131T200000Z
 DTEND:20270131T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882401@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at Espanyol\nStatus: Scheduled
  \nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFixtur
@@ -1668,7 +1668,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ Real Sociedad
 DTSTART:20270131T200000Z
 DTEND:20270131T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882399@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Real Sociedad\nStatus: Schedu
  led\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFixtures by He
@@ -1680,7 +1680,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Sevilla
 DTSTART:20270131T200000Z
 DTEND:20270131T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882398@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Sevilla\nStatus: Sched
  uled\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.com
@@ -1692,7 +1692,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Valencia
 DTSTART:20270131T200000Z
 DTEND:20270131T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882397@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Valencia\nStatus: Sch
  eduled\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtur
@@ -1704,7 +1704,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Atlético Madrid
 DTSTART:20270207T200000Z
 DTEND:20270207T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882396@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Atlético Madrid\nStatus:
   Scheduled\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de Henare
@@ -1716,7 +1716,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ CD Tenerife @ Dux Logroño
 DTSTART:20270207T200000Z
 DTEND:20270207T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882395@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Dux Logroño\nStatus: S
  cheduled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — 
@@ -1728,7 +1728,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Sociedad @ Espanyol
 DTSTART:20270207T200000Z
 DTEND:20270207T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882394@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Espanyol\nStatus: Sch
  eduled\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by Her
@@ -1740,7 +1740,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ FC Badalona
 DTSTART:20270207T200000Z
 DTEND:20270207T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882391@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nSevilla at FC Badalona\nStatus: Schedu
  led\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixtures.
@@ -1752,7 +1752,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Granada
 DTSTART:20270207T200000Z
 DTEND:20270207T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882393@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Granada\nStatus: Schedule
  d\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by HerFixt
@@ -1763,7 +1763,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ Madrid CFF
 DTSTART:20270207T200000Z
 DTEND:20270207T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882392@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Madrid CFF\nStatus: Scheduled
  \nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFixtures.
@@ -1774,7 +1774,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Real Madrid
 DTSTART:20270207T200000Z
 DTEND:20270207T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882390@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Real Madrid\nStatus: 
  Scheduled\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerF
@@ -1786,7 +1786,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Valencia
 DTSTART:20270207T200000Z
 DTEND:20270207T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882389@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Valencia\nStatus: Scheduled
  \nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtures.com
@@ -1797,7 +1797,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ Alavés
 DTSTART:20270214T200000Z
 DTEND:20270214T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882388@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Alavés\nStatus: Scheduled
  \nVenue: Ciudad Deportiva José Luis Compañón\, Vitoria-Gasteiz\n\nFixtu
@@ -1808,7 +1808,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Sociedad @ Athletic Club
 DTSTART:20270214T200000Z
 DTEND:20270214T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882387@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Athletic Club\nStatus
  : Scheduled\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures b
@@ -1820,7 +1820,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ Atlético Madrid
 DTSTART:20270214T200000Z
 DTEND:20270214T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882386@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Atlético Madrid\nStatu
  s: Scheduled\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de Hena
@@ -1832,7 +1832,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Barcelona
 DTSTART:20270214T200000Z
 DTEND:20270214T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882382@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Barcelona\nStatus: Sch
  eduled\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures.
@@ -1844,7 +1844,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ CD Tenerife
 DTSTART:20270214T200000Z
 DTEND:20270214T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882385@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at CD Tenerife\nStatus: Sched
  uled\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
@@ -1856,7 +1856,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Badalona @ Deportivo
 DTSTART:20270214T200000Z
 DTEND:20270214T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882384@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Deportivo\nStatus: Sche
  duled\nVenue: Dépor Training Center Campo Arsenio Iglesias\n\nFixtures by
@@ -1868,7 +1868,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Eibar
 DTSTART:20270214T200000Z
 DTEND:20270214T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882383@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at Eibar\nStatus: Scheduled\nV
  enue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sports on 
@@ -1879,7 +1879,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Madrid CFF @ Sevilla
 DTSTART:20270214T200000Z
 DTEND:20270214T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882381@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Sevilla\nStatus: Schedul
  ed\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.com 
@@ -1891,7 +1891,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ CD Tenerife @ Alavés
 DTSTART:20270221T200000Z
 DTEND:20270221T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882380@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Alavés\nStatus: Schedu
  led\nVenue: Ciudad Deportiva José Luis Compañón\, Vitoria-Gasteiz\n\nFi
@@ -1903,7 +1903,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ Dux Logroño
 DTSTART:20270221T200000Z
 DTEND:20270221T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882379@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Dux Logroño\nStatus: Schedul
  ed\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — Women'
@@ -1914,7 +1914,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ FC Badalona
 DTSTART:20270221T200000Z
 DTEND:20270221T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882376@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at FC Badalona\nStatus: 
  Scheduled\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFix
@@ -1926,7 +1926,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Granada
 DTSTART:20270221T200000Z
 DTEND:20270221T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882378@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Granada\nStatus: Scheduled
  \nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by HerFixtu
@@ -1937,7 +1937,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Atlético Madrid @ Madrid CFF
 DTSTART:20270221T200000Z
 DTEND:20270221T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882377@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Madrid CFF\nStatus
  : Scheduled\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by H
@@ -1949,7 +1949,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Real Madrid
 DTSTART:20270221T200000Z
 DTEND:20270221T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882375@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Real Madrid\nStatus: Sche
  duled\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFixtu
@@ -1961,7 +1961,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Real Sociedad
 DTSTART:20270221T200000Z
 DTEND:20270221T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882374@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Real Sociedad\nStatus: Sc
  heduled\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFixtures b
@@ -1973,7 +1973,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ Valencia
 DTSTART:20270221T200000Z
 DTEND:20270221T220000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882373@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Valencia\nStatus: Schedule
  d\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtures.co
@@ -1984,7 +1984,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Athletic Club
 DTSTART:20270314T180000Z
 DTEND:20270314T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882372@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Athletic Club\nStatus:
   Scheduled\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by
@@ -1996,7 +1996,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Sociedad @ Atlético Madrid
 DTSTART:20270314T180000Z
 DTEND:20270314T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882371@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Atlético Madrid\nSta
  tus: Scheduled\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de He
@@ -2008,7 +2008,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Barcelona
 DTSTART:20270314T180000Z
 DTEND:20270314T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882368@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Barcelona\nStatus: Schedule
  d\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures.com 
@@ -2019,7 +2019,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ Eibar
 DTSTART:20270314T180000Z
 DTEND:20270314T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882370@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Eibar\nStatus: Schedule
  d\nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sports
@@ -2030,7 +2030,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Espanyol
 DTSTART:20270314T180000Z
 DTEND:20270314T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882369@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Espanyol\nStatus: Schedul
  ed\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFixt
@@ -2042,7 +2042,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Badalona @ Granada
 DTSTART:20270314T180000Z
 DTEND:20270314T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882367@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Granada\nStatus: Schedu
  led\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by HerFi
@@ -2054,7 +2054,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Madrid CFF
 DTSTART:20270314T180000Z
 DTEND:20270314T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882366@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at Madrid CFF\nStatus: Schedu
  led\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFixtur
@@ -2066,7 +2066,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ CD Tenerife @ Sevilla
 DTSTART:20270314T180000Z
 DTEND:20270314T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882365@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Sevilla\nStatus: Schedu
  led\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.com 
@@ -2078,7 +2078,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Alavés
 DTSTART:20270321T180000Z
 DTEND:20270321T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882364@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Alavés\nStatus: Sched
  uled\nVenue: Ciudad Deportiva José Luis Compañón\, Vitoria-Gasteiz\n\nF
@@ -2090,7 +2090,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Athletic Club
 DTSTART:20270321T180000Z
 DTEND:20270321T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882363@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Athletic Club\nStatus: Sc
  heduled\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by He
@@ -2102,7 +2102,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Atlético Madrid @ CD Tenerife
 DTSTART:20270321T180000Z
 DTEND:20270321T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882362@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at CD Tenerife\nStatu
  s: Scheduled\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de T
@@ -2114,7 +2114,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Deportivo
 DTSTART:20270321T180000Z
 DTEND:20270321T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882361@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at Deportivo\nStatus: Schedule
  d\nVenue: Dépor Training Center Campo Arsenio Iglesias\n\nFixtures by Her
@@ -2125,7 +2125,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ Espanyol
 DTSTART:20270321T180000Z
 DTEND:20270321T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882360@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Espanyol\nStatus: Scheduled\n
  Venue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFixtures
@@ -2136,7 +2136,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ FC Badalona
 DTSTART:20270321T180000Z
 DTEND:20270321T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882359@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at FC Badalona\nStatus: Sc
  heduled\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixtu
@@ -2148,7 +2148,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Madrid CFF @ Real Sociedad
 DTSTART:20270321T180000Z
 DTEND:20270321T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882358@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Real Sociedad\nStatus: S
  cheduled\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFixtures 
@@ -2160,7 +2160,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Valencia
 DTSTART:20270321T180000Z
 DTEND:20270321T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882357@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Valencia\nStatus: Scheduled
  \nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtures.com
@@ -2171,7 +2171,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Atlético Madrid
 DTSTART:20270328T180000Z
 DTEND:20270328T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882356@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at Atlético Madrid\nStatus: S
  cheduled\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de Henares
@@ -2183,7 +2183,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Barcelona
 DTSTART:20270328T180000Z
 DTEND:20270328T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882352@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at Barcelona\nStatus: Schedul
  ed\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures.com 
@@ -2195,7 +2195,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Deportivo
 DTSTART:20270328T180000Z
 DTEND:20270328T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882355@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Deportivo\nStatus: Sc
  heduled\nVenue: Dépor Training Center Campo Arsenio Iglesias\n\nFixtures 
@@ -2207,7 +2207,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Sociedad @ Dux Logroño
 DTSTART:20270328T180000Z
 DTEND:20270328T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882354@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Dux Logroño\nStatus:
   Scheduled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com 
@@ -2219,7 +2219,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Eibar
 DTSTART:20270328T180000Z
 DTEND:20270328T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882353@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Eibar\nStatus: Scheduled\nV
  enue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sports on 
@@ -2230,7 +2230,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ FC Badalona
 DTSTART:20270328T180000Z
 DTEND:20270328T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882350@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at FC Badalona\nStatus: Sched
  uled\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixtures
@@ -2242,7 +2242,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ CD Tenerife @ Madrid CFF
 DTSTART:20270328T180000Z
 DTEND:20270328T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882351@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Madrid CFF\nStatus: Sch
  eduled\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFix
@@ -2254,7 +2254,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Real Madrid
 DTSTART:20270328T180000Z
 DTEND:20270328T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882349@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Real Madrid\nStatus: Schedu
  led\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFixture
@@ -2266,7 +2266,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Alavés
 DTSTART:20270404T180000Z
 DTEND:20270404T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882348@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Alavés\nStatus: Schedule
  d\nVenue: Ciudad Deportiva José Luis Compañón\, Vitoria-Gasteiz\n\nFixt
@@ -2277,7 +2277,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ Barcelona
 DTSTART:20270404T180000Z
 DTEND:20270404T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882344@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Barcelona\nStatus: Scheduled
  \nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures.com 
@@ -2288,7 +2288,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Sociedad @ CD Tenerife
 DTSTART:20270404T180000Z
 DTEND:20270404T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882347@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at CD Tenerife\nStatus: 
  Scheduled\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tene
@@ -2300,7 +2300,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ Dux Logroño
 DTSTART:20270404T180000Z
 DTEND:20270404T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882346@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Dux Logroño\nStatus: S
  cheduled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — 
@@ -2312,7 +2312,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Atlético Madrid @ Espanyol
 DTSTART:20270404T180000Z
 DTEND:20270404T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882345@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Espanyol\nStatus: 
  Scheduled\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by 
@@ -2324,7 +2324,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Madrid CFF @ Granada
 DTSTART:20270404T180000Z
 DTEND:20270404T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882343@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Granada\nStatus: Schedul
  ed\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by HerFix
@@ -2336,7 +2336,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Sevilla
 DTSTART:20270404T180000Z
 DTEND:20270404T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882342@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Sevilla\nStatus: Sche
  duled\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.co
@@ -2348,7 +2348,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Badalona @ Valencia
 DTSTART:20270404T180000Z
 DTEND:20270404T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882341@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Valencia\nStatus: Sched
  uled\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtures
@@ -2360,7 +2360,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Athletic Club
 DTSTART:20270411T180000Z
 DTEND:20270411T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882340@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at Athletic Club\nStatus: Sche
  duled\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by HerF
@@ -2372,7 +2372,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ Atlético Madrid
 DTSTART:20270411T180000Z
 DTEND:20270411T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882339@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Atlético Madrid\nStatus: Sch
  eduled\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de Henares\n
@@ -2384,7 +2384,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ CD Tenerife
 DTSTART:20270411T180000Z
 DTEND:20270411T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882338@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at CD Tenerife\nStatus: Sche
  duled\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
@@ -2396,7 +2396,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Madrid CFF @ FC Badalona
 DTSTART:20270411T180000Z
 DTEND:20270411T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882337@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at FC Badalona\nStatus: Sch
  eduled\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixtur
@@ -2408,7 +2408,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Real Madrid
 DTSTART:20270411T180000Z
 DTEND:20270411T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882336@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Real Madrid\nStatus: Sche
  duled\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFixtu
@@ -2420,7 +2420,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Real Sociedad
 DTSTART:20270411T180000Z
 DTEND:20270411T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882335@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Real Sociedad\nStatus: Sche
  duled\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFixtures by 
@@ -2432,7 +2432,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ Sevilla
 DTSTART:20270411T180000Z
 DTEND:20270411T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882334@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Sevilla\nStatus: Scheduled
  \nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.com —
@@ -2443,7 +2443,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Valencia
 DTSTART:20270411T180000Z
 DTEND:20270411T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882333@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Valencia\nStatus: Sche
  duled\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixture
@@ -2455,7 +2455,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Alavés
 DTSTART:20270502T180000Z
 DTEND:20270502T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882332@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Alavés\nStatus: Sche
  duled\nVenue: Ciudad Deportiva José Luis Compañón\, Vitoria-Gasteiz\n\n
@@ -2467,7 +2467,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Atlético Madrid
 DTSTART:20270502T180000Z
 DTEND:20270502T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882331@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Atlético Madrid\nStatus: S
  cheduled\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de Henares
@@ -2479,7 +2479,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Deportivo
 DTSTART:20270502T180000Z
 DTEND:20270502T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882330@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Deportivo\nStatus: Sch
  eduled\nVenue: Dépor Training Center Campo Arsenio Iglesias\n\nFixtures b
@@ -2491,7 +2491,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ CD Tenerife @ Eibar
 DTSTART:20270502T180000Z
 DTEND:20270502T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882329@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Eibar\nStatus: Schedule
  d\nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sports
@@ -2502,7 +2502,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Espanyol
 DTSTART:20270502T180000Z
 DTEND:20270502T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882328@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Espanyol\nStatus: Schedul
  ed\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFixt
@@ -2514,7 +2514,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Granada
 DTSTART:20270502T180000Z
 DTEND:20270502T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882327@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at Granada\nStatus: Scheduled
  \nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by HerFixtu
@@ -2525,7 +2525,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ Madrid CFF
 DTSTART:20270502T180000Z
 DTEND:20270502T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882326@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Madrid CFF\nStatus: Sch
  eduled\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFix
@@ -2537,7 +2537,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Badalona @ Real Sociedad
 DTSTART:20270502T180000Z
 DTEND:20270502T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882325@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Real Sociedad\nStatus: 
  Scheduled\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFixtures
@@ -2549,7 +2549,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ Athletic Club
 DTSTART:20270509T180000Z
 DTEND:20270509T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882324@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Athletic Club\nStatus: Schedu
  led\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by HerFix
@@ -2561,7 +2561,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Sociedad @ Barcelona
 DTSTART:20270509T180000Z
 DTEND:20270509T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882321@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Barcelona\nStatus: Sc
  heduled\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures
@@ -2573,7 +2573,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ CD Tenerife
 DTSTART:20270509T180000Z
 DTEND:20270509T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882323@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at CD Tenerife\nStatus: Sched
  uled\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
@@ -2585,7 +2585,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Madrid CFF @ Dux Logroño
 DTSTART:20270509T180000Z
 DTEND:20270509T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882322@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Dux Logroño\nStatus: Sc
  heduled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — W
@@ -2597,7 +2597,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Atlético Madrid @ FC Badalona
 DTSTART:20270509T180000Z
 DTEND:20270509T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882320@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at FC Badalona\nStatu
  s: Scheduled\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by Her
@@ -2609,7 +2609,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Real Madrid
 DTSTART:20270509T180000Z
 DTEND:20270509T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882319@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at Real Madrid\nStatus: Schedu
  led\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFixture
@@ -2621,7 +2621,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Sevilla
 DTSTART:20270509T180000Z
 DTEND:20270509T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882318@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Sevilla\nStatus: Scheduled
  \nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.com —
@@ -2632,7 +2632,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Valencia
 DTSTART:20270509T180000Z
 DTEND:20270509T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882317@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Valencia\nStatus: Schedul
  ed\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtures.c
@@ -2644,7 +2644,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Badalona @ Alavés
 DTSTART:20270519T180000Z
 DTEND:20270519T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882316@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Alavés\nStatus: Schedu
  led\nVenue: Ciudad Deportiva José Luis Compañón\, Vitoria-Gasteiz\n\nFi
@@ -2656,7 +2656,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Atlético Madrid
 DTSTART:20270519T180000Z
 DTEND:20270519T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882315@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Atlético Madrid\nSta
  tus: Scheduled\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de He
@@ -2668,7 +2668,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ CD Tenerife @ Deportivo
 DTSTART:20270519T180000Z
 DTEND:20270519T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882314@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Deportivo\nStatus: Sche
  duled\nVenue: Dépor Training Center Campo Arsenio Iglesias\n\nFixtures by
@@ -2680,7 +2680,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Eibar
 DTSTART:20270519T180000Z
 DTEND:20270519T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882313@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Eibar\nStatus: Scheduled\nV
  enue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sports on 
@@ -2691,7 +2691,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ Espanyol
 DTSTART:20270519T180000Z
 DTEND:20270519T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882312@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Espanyol\nStatus: Sched
  uled\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFi
@@ -2703,7 +2703,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Granada
 DTSTART:20270519T180000Z
 DTEND:20270519T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882311@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Granada\nStatus: Sched
  uled\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by HerF
@@ -2715,7 +2715,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Madrid CFF
 DTSTART:20270519T180000Z
 DTEND:20270519T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882310@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Madrid CFF\nStatus: Sched
  uled\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFixtu
@@ -2727,7 +2727,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Real Sociedad
 DTSTART:20270519T180000Z
 DTEND:20270519T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882309@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at Real Sociedad\nStatus: Sch
  eduled\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFixtures by
@@ -2739,7 +2739,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Madrid CFF @ Athletic Club
 DTSTART:20270523T180000Z
 DTEND:20270523T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882308@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Athletic Club\nStatus: S
  cheduled\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by H
@@ -2751,7 +2751,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Barcelona
 DTSTART:20270523T180000Z
 DTEND:20270523T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882305@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Barcelona\nStatus: Schedu
  led\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures.com
@@ -2763,7 +2763,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Granada @ CD Tenerife
 DTSTART:20270523T180000Z
 DTEND:20270523T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882307@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at CD Tenerife\nStatus: Schedu
  led\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife\n
@@ -2775,7 +2775,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ Dux Logroño
 DTSTART:20270523T180000Z
 DTEND:20270523T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882306@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Dux Logroño\nStatus: Sche
  duled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — Wom
@@ -2787,7 +2787,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ FC Badalona
 DTSTART:20270523T180000Z
 DTEND:20270523T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882304@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at FC Badalona\nStatus: Schedule
  d\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixtures.co
@@ -2798,7 +2798,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Real Madrid
 DTSTART:20270523T180000Z
 DTEND:20270523T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882303@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Real Madrid\nStatus: Schedu
  led\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFixture
@@ -2810,7 +2810,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Sociedad @ Sevilla
 DTSTART:20270523T180000Z
 DTEND:20270523T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882302@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Sevilla\nStatus: Sche
  duled\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.co
@@ -2822,7 +2822,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Atlético Madrid @ Valencia
 DTSTART:20270523T180000Z
 DTEND:20270523T200000Z
-DTSTAMP:20260830T114326Z
+DTSTAMP:20260830T205321Z
 UID:espn-liga-f-401882100@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Valencia\nStatus: 
  Scheduled\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFix
