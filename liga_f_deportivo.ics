@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Deportivo (1–0)
 DTSTART:20260829T100000Z
 DTEND:20260829T120000Z
-DTSTAMP:20260831T132148Z
+DTSTAMP:20260831T224304Z
 UID:espn-liga-f-401882538@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Deportivo\nStatus: Full Tim
  e\nVenue: Riazor\, La Coruña\n\nFixtures by HerFixtures.com — Women's S
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ CD Tenerife
 DTSTART:20260906T104500Z
 DTEND:20260906T124500Z
-DTSTAMP:20260831T132148Z
+DTSTAMP:20260831T224304Z
 UID:espn-liga-f-401882531@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at CD Tenerife\nStatus: Sche
  duled\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ Deportivo
 DTSTART:20260913T180000Z
 DTEND:20260913T200000Z
-DTSTAMP:20260831T132148Z
+DTSTAMP:20260831T224304Z
 UID:espn-liga-f-401882522@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Deportivo\nStatus: Sche
  duled\nVenue: Dépor Training Center Campo Arsenio Iglesias\n\nFixtures by
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Granada
 DTSTART:20260920T180000Z
 DTEND:20260920T200000Z
-DTSTAMP:20260831T132148Z
+DTSTAMP:20260831T224304Z
 UID:espn-liga-f-401882511@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Granada\nStatus: Schedule
  d\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by HerFixt
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ Deportivo
 DTSTART:20260927T180000Z
 DTEND:20260927T200000Z
-DTSTAMP:20260831T132148Z
+DTSTAMP:20260831T224304Z
 UID:espn-liga-f-401882507@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Deportivo\nStatus: Schedul
  ed\nVenue: Dépor Training Center Campo Arsenio Iglesias\n\nFixtures by He
@@ -71,7 +71,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Atlético Madrid @ Deportivo
 DTSTART:20261004T180000Z
 DTEND:20261004T200000Z
-DTSTAMP:20260831T132148Z
+DTSTAMP:20260831T224304Z
 UID:espn-liga-f-401882499@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Deportivo\nStatus:
   Scheduled\nVenue: Dépor Training Center Campo Arsenio Iglesias\n\nFixtur
@@ -83,7 +83,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Eibar
 DTSTART:20261018T180000Z
 DTEND:20261018T200000Z
-DTSTAMP:20260831T132148Z
+DTSTAMP:20260831T224304Z
 UID:espn-liga-f-401882488@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Eibar\nStatus: Scheduled
  \nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sports 
@@ -94,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Deportivo
 DTSTART:20261025T180000Z
 DTEND:20261025T200000Z
-DTSTAMP:20260831T132148Z
+DTSTAMP:20260831T224304Z
 UID:espn-liga-f-401882482@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Deportivo\nStatus: Schedule
  d\nVenue: Dépor Training Center Campo Arsenio Iglesias\n\nFixtures by Her
@@ -105,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Madrid CFF
 DTSTART:20261101T200000Z
 DTEND:20261101T220000Z
-DTSTAMP:20260831T132148Z
+DTSTAMP:20260831T224304Z
 UID:espn-liga-f-401882472@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Madrid CFF\nStatus: Sched
  uled\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFixtu
@@ -117,7 +117,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Deportivo
 DTSTART:20261108T200000Z
 DTEND:20261108T220000Z
-DTSTAMP:20260831T132148Z
+DTSTAMP:20260831T224304Z
 UID:espn-liga-f-401882465@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at Deportivo\nStatus: Schedul
  ed\nVenue: Dépor Training Center Campo Arsenio Iglesias\n\nFixtures by He
@@ -129,7 +129,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Deportivo
 DTSTART:20261115T200000Z
 DTEND:20261115T220000Z
-DTSTAMP:20260831T132148Z
+DTSTAMP:20260831T224304Z
 UID:espn-liga-f-401882459@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Deportivo\nStatus: Schedu
  led\nVenue: Dépor Training Center Campo Arsenio Iglesias\n\nFixtures by H
@@ -141,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ FC Badalona
 DTSTART:20261122T200000Z
 DTEND:20261122T220000Z
-DTSTAMP:20260831T132148Z
+DTSTAMP:20260831T224304Z
 UID:espn-liga-f-401882446@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at FC Badalona\nStatus: Sche
  duled\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixture
@@ -153,7 +153,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Sociedad @ Deportivo
 DTSTART:20261209T200000Z
 DTEND:20261209T220000Z
-DTSTAMP:20260831T132148Z
+DTSTAMP:20260831T224304Z
 UID:espn-liga-f-401882442@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Deportivo\nStatus: Sc
  heduled\nVenue: Dépor Training Center Campo Arsenio Iglesias\n\nFixtures 
@@ -165,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Dux Logroño
 DTSTART:20261213T200000Z
 DTEND:20261213T220000Z
-DTSTAMP:20260831T132148Z
+DTSTAMP:20260831T224304Z
 UID:espn-liga-f-401882434@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Dux Logroño\nStatus: Sch
  eduled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — Wo
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Athletic Club
 DTSTART:20270110T200000Z
 DTEND:20270110T220000Z
-DTSTAMP:20260831T132148Z
+DTSTAMP:20260831T224304Z
 UID:espn-liga-f-401882428@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Athletic Club\nStatus: Sc
  heduled\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by He
@@ -189,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ Deportivo
 DTSTART:20270117T200000Z
 DTEND:20270117T220000Z
-DTSTAMP:20260831T132148Z
+DTSTAMP:20260831T224304Z
 UID:espn-liga-f-401882418@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Deportivo\nStatus: Scheduled
  \nVenue: Dépor Training Center Campo Arsenio Iglesias\n\nFixtures by HerF
@@ -200,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Sevilla
 DTSTART:20270124T200000Z
 DTEND:20270124T220000Z
-DTSTAMP:20260831T132148Z
+DTSTAMP:20260831T224304Z
 UID:espn-liga-f-401882405@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Sevilla\nStatus: Schedule
  d\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.com 
@@ -211,7 +211,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Madrid CFF @ Deportivo
 DTSTART:20270131T200000Z
 DTEND:20270131T220000Z
-DTSTAMP:20260831T132148Z
+DTSTAMP:20260831T224304Z
 UID:espn-liga-f-401882402@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Deportivo\nStatus: Sched
  uled\nVenue: Dépor Training Center Campo Arsenio Iglesias\n\nFixtures by 
@@ -223,7 +223,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Atlético Madrid
 DTSTART:20270207T200000Z
 DTEND:20270207T220000Z
-DTSTAMP:20260831T132148Z
+DTSTAMP:20260831T224304Z
 UID:espn-liga-f-401882396@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Atlético Madrid\nStatus:
   Scheduled\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de Henare
@@ -235,7 +235,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Badalona @ Deportivo
 DTSTART:20270214T200000Z
 DTEND:20270214T220000Z
-DTSTAMP:20260831T132148Z
+DTSTAMP:20260831T224304Z
 UID:espn-liga-f-401882384@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Deportivo\nStatus: Sche
  duled\nVenue: Dépor Training Center Campo Arsenio Iglesias\n\nFixtures by
@@ -247,7 +247,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Real Sociedad
 DTSTART:20270221T200000Z
 DTEND:20270221T220000Z
-DTSTAMP:20260831T132148Z
+DTSTAMP:20260831T224304Z
 UID:espn-liga-f-401882374@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Real Sociedad\nStatus: Sc
  heduled\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFixtures b
@@ -259,7 +259,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Espanyol
 DTSTART:20270314T180000Z
 DTEND:20270314T200000Z
-DTSTAMP:20260831T132148Z
+DTSTAMP:20260831T224304Z
 UID:espn-liga-f-401882369@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Espanyol\nStatus: Schedul
  ed\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFixt
@@ -271,7 +271,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Deportivo
 DTSTART:20270321T180000Z
 DTEND:20270321T200000Z
-DTSTAMP:20260831T132148Z
+DTSTAMP:20260831T224304Z
 UID:espn-liga-f-401882361@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at Deportivo\nStatus: Schedule
  d\nVenue: Dépor Training Center Campo Arsenio Iglesias\n\nFixtures by Her
@@ -282,7 +282,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Deportivo
 DTSTART:20270328T180000Z
 DTEND:20270328T200000Z
-DTSTAMP:20260831T132148Z
+DTSTAMP:20260831T224304Z
 UID:espn-liga-f-401882355@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Deportivo\nStatus: Sc
  heduled\nVenue: Dépor Training Center Campo Arsenio Iglesias\n\nFixtures 
@@ -294,7 +294,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Alavés
 DTSTART:20270404T180000Z
 DTEND:20270404T200000Z
-DTSTAMP:20260831T132148Z
+DTSTAMP:20260831T224304Z
 UID:espn-liga-f-401882348@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Alavés\nStatus: Schedule
  d\nVenue: Ciudad Deportiva José Luis Compañón\, Vitoria-Gasteiz\n\nFixt
@@ -305,7 +305,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Real Madrid
 DTSTART:20270411T180000Z
 DTEND:20270411T200000Z
-DTSTAMP:20260831T132148Z
+DTSTAMP:20260831T224304Z
 UID:espn-liga-f-401882336@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Real Madrid\nStatus: Sche
  duled\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFixtu
@@ -317,7 +317,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Deportivo
 DTSTART:20270502T180000Z
 DTEND:20270502T200000Z
-DTSTAMP:20260831T132148Z
+DTSTAMP:20260831T224304Z
 UID:espn-liga-f-401882330@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Deportivo\nStatus: Sch
  eduled\nVenue: Dépor Training Center Campo Arsenio Iglesias\n\nFixtures b
@@ -329,7 +329,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Valencia
 DTSTART:20270509T180000Z
 DTEND:20270509T200000Z
-DTSTAMP:20260831T132148Z
+DTSTAMP:20260831T224304Z
 UID:espn-liga-f-401882317@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Valencia\nStatus: Schedul
  ed\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtures.c
@@ -341,7 +341,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ CD Tenerife @ Deportivo
 DTSTART:20270519T180000Z
 DTEND:20270519T200000Z
-DTSTAMP:20260831T132148Z
+DTSTAMP:20260831T224304Z
 UID:espn-liga-f-401882314@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Deportivo\nStatus: Sche
  duled\nVenue: Dépor Training Center Campo Arsenio Iglesias\n\nFixtures by
@@ -353,7 +353,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Barcelona
 DTSTART:20270523T180000Z
 DTEND:20270523T200000Z
-DTSTAMP:20260831T132148Z
+DTSTAMP:20260831T224304Z
 UID:espn-liga-f-401882305@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Barcelona\nStatus: Schedu
  led\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures.com
