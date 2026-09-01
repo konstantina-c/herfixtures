@@ -52,9 +52,13 @@ HOME_STADIUMS = {
 
 
 def fetch_all_matches():
-    r = requests.get(API_URL, headers=HEADERS, timeout=20)
-    r.raise_for_status()
-    return r.json()
+    try:
+        r = requests.get(API_URL, headers=HEADERS, timeout=20)
+        r.raise_for_status()
+        return r.json()
+    except requests.exceptions.RequestException as e:
+        print(f"  ⚠️  OpenLigaDB fetch error, skipping: {e}")
+        return []
 
 
 def get_venue(match):
@@ -159,8 +163,12 @@ def main():
     print("Fetching Frauen-Bundesliga 2026/27 fixtures from OpenLigaDB (single call)...")
     all_matches = fetch_all_matches()
     print(f"  → {len(all_matches)} total fixtures fetched")
-    print()
 
+    if not all_matches:
+        print("  ⚠️  No fixtures returned — skipping writes to preserve existing files")
+        return
+
+    print()
     success = 0
     for team_id, (display_name, slug) in FRAUEN_BL_TEAMS.items():
         team_matches = [

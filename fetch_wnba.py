@@ -32,8 +32,8 @@ def fetch_games():
         r.raise_for_status()
         for event in r.json().get("events", []):
             games[event["id"]] = event
-    except requests.exceptions.HTTPError as e:
-        print(f"  ⚠️  Future scoreboard HTTP error, skipping: {e}")
+    except requests.exceptions.RequestException as e:
+        print(f"  ⚠️  Future scoreboard error, skipping: {e}")
 
     # Past last: week by week from season start to yesterday — overwrites future
     # entries for any game that has since completed, ensuring scores are present
@@ -50,8 +50,8 @@ def fetch_games():
             r.raise_for_status()
             for event in r.json().get("events", []):
                 games[event["id"]] = event
-        except requests.exceptions.HTTPError as e:
-            print(f"  ⚠️  Scoreboard {current}–{week_end} HTTP error, skipping: {e}")
+        except requests.exceptions.RequestException as e:
+            print(f"  ⚠️  Scoreboard {current}–{week_end} error, skipping: {e}")
         current += timedelta(days=7)
 
     return list(games.values())
