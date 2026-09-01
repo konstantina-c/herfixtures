@@ -1,68 +1,11 @@
 {
-  "updated": "2026-08-31T22:43:08Z",
+  "updated": "2026-09-01T11:29:04Z",
   "competitions": {
     "wnba": {
       "name": "WNBA",
       "sport": "basketball",
       "slug": "wnba",
-      "postgame": [
-        {
-          "league": "WNBA",
-          "home": {
-            "name": "Lynx",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/8.png",
-            "score": 81
-          },
-          "away": {
-            "name": "Dream",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/20.png",
-            "score": 89
-          },
-          "winner": "away"
-        },
-        {
-          "league": "WNBA",
-          "home": {
-            "name": "Sparks",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/6.png",
-            "score": 90
-          },
-          "away": {
-            "name": "Storm",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/14.png",
-            "score": 74
-          },
-          "winner": "home"
-        },
-        {
-          "league": "WNBA",
-          "home": {
-            "name": "Valkyries",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/gs.png",
-            "score": 86
-          },
-          "away": {
-            "name": "Fire",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/por.png",
-            "score": 69
-          },
-          "winner": "home"
-        },
-        {
-          "league": "WNBA",
-          "home": {
-            "name": "Sun",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/18.png",
-            "score": 71
-          },
-          "away": {
-            "name": "Wings",
-            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/3.png",
-            "score": 97
-          },
-          "winner": "away"
-        }
-      ],
+      "postgame": [],
       "livegame": [],
       "pregame": []
     },
@@ -74,48 +17,20 @@
         {
           "league": "NWSL",
           "home": {
-            "name": "Bay",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22187.png",
-            "score": 0
-          },
-          "away": {
-            "name": "Washington",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15365.png",
-            "score": 1
-          },
-          "winner": "away"
-        },
-        {
-          "league": "NWSL",
-          "home": {
-            "name": "Houston",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17346.png",
-            "score": 0
-          },
-          "away": {
-            "name": "Seattle",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15363.png",
-            "score": 1
-          },
-          "winner": "away"
-        }
-      ],
-      "livegame": [],
-      "pregame": [
-        {
-          "league": "NWSL",
-          "home": {
             "name": "Angel City",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21422.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21422.png",
+            "score": 5
           },
           "away": {
             "name": "Boston",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131562.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131562.png",
+            "score": 2
           },
-          "kickoff": "2026-09-01T00:00:00Z",
-          "kickoff_label": "in 1h"
+          "winner": "home"
         }
-      ]
+      ],
+      "livegame": [],
+      "pregame": []
     },
     "icc-womens-t20": {
       "name": "ICC Women's T20 WC",
@@ -137,64 +52,7 @@
       "name": "Liga F",
       "sport": "football",
       "slug": "liga-f",
-      "postgame": [
-        {
-          "league": "Liga F",
-          "home": {
-            "name": "Badalona",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21149.png",
-            "score": 1
-          },
-          "away": {
-            "name": "Athletic ",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21372.png",
-            "score": 3
-          },
-          "winner": "away"
-        },
-        {
-          "league": "Liga F",
-          "home": {
-            "name": "Valencia",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21374.png",
-            "score": 0
-          },
-          "away": {
-            "name": "Alav\u00e9s",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21378.png",
-            "score": 2
-          },
-          "winner": "away"
-        },
-        {
-          "league": "Liga F",
-          "home": {
-            "name": "Tenerife",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131393.png",
-            "score": 0
-          },
-          "away": {
-            "name": "Barcelona",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20091.png",
-            "score": 5
-          },
-          "winner": "away"
-        },
-        {
-          "league": "Liga F",
-          "home": {
-            "name": "Atl\u00e9tico Madrid",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20093.png",
-            "score": 2
-          },
-          "away": {
-            "name": "Real Madrid",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21128.png",
-            "score": 3
-          },
-          "winner": "away"
-        }
-      ],
+      "postgame": [],
       "livegame": [],
       "pregame": []
     }
