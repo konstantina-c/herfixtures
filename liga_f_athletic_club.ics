@@ -1,0 +1,372 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//Liga F 2026-27 Athletic Club//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Athletic Club Liga F 2026/27 fixtures. Updated automatically 
+ by HerFixtures.com
+X-WR-CALNAME:Athletic Club — Liga F 2026/27 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ FC Badalona @ Athletic Club (1–3)
+DTSTART:20260830T100000Z
+DTEND:20260830T120000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882539@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Athletic Club\nStatus: 
+ Full Time\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by 
+ HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882539/fc-badalona-athle
+ tic-club
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Athletic Club @ Dux Logroño
+DTSTART:20260906T163000Z
+DTEND:20260906T183000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882530@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Dux Logroño\nStatus:
+  Scheduled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882530/athletic-club-dux
+ -logrono
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Espanyol @ Athletic Club
+DTSTART:20260912T100000Z
+DTEND:20260912T120000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882523@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Athletic Club\nStatus: Sch
+ eduled\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882523/espanyol-athletic
+ -club
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Athletic Club @ Eibar
+DTSTART:20260920T160000Z
+DTEND:20260920T180000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882513@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Eibar\nStatus: Schedu
+ led\nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Spor
+ ts on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882513/athletic-club-eib
+ ar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Atlético Madrid @ Athletic Club
+DTSTART:20260927T180000Z
+DTEND:20260927T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882508@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Athletic Club\nSta
+ tus: Scheduled\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixture
+ s by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882508/atletico-madrid-a
+ thletic-club
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Athletic Club @ Madrid CFF
+DTSTART:20261004T180000Z
+DTEND:20261004T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882495@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Madrid CFF\nStatus: S
+ cheduled\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882495/athletic-club-mad
+ rid-cff
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Valencia @ Athletic Club
+DTSTART:20261018T180000Z
+DTEND:20261018T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882491@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nValencia at Athletic Club\nStatus: Sch
+ eduled\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882491/valencia-athletic
+ -club
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sevilla @ Athletic Club
+DTSTART:20261025T180000Z
+DTEND:20261025T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882484@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Athletic Club\nStatus: Sche
+ duled\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882484/sevilla-athletic-
+ club
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Athletic Club @ CD Tenerife
+DTSTART:20261101T200000Z
+DTEND:20261101T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882475@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at CD Tenerife\nStatus: 
+ Scheduled\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tene
+ rife\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882475/athletic-club-cd-
+ tenerife
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Real Madrid @ Athletic Club
+DTSTART:20261108T200000Z
+DTEND:20261108T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882468@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Athletic Club\nStatus: 
+ Scheduled\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by 
+ HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882468/real-madrid-athle
+ tic-club
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Athletic Club @ Real Sociedad
+DTSTART:20261115T200000Z
+DTEND:20261115T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882455@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Real Sociedad\nStatus
+ : Scheduled\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFixtur
+ es by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882455/athletic-club-rea
+ l-sociedad
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Athletic Club @ Barcelona
+DTSTART:20261122T200000Z
+DTEND:20261122T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882448@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Barcelona\nStatus: Sc
+ heduled\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882448/athletic-club-bar
+ celona
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Alavés @ Athletic Club
+DTSTART:20261209T200000Z
+DTEND:20261209T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882444@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Athletic Club\nStatus: Sche
+ duled\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882444/alaves-athletic-c
+ lub
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Athletic Club @ Granada
+DTSTART:20261213T200000Z
+DTEND:20261213T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882432@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Granada\nStatus: Sche
+ duled\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882432/athletic-club-gra
+ nada
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Deportivo @ Athletic Club
+DTSTART:20270110T200000Z
+DTEND:20270110T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882428@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Athletic Club\nStatus: Sc
+ heduled\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by He
+ rFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882428/deportivo-athleti
+ c-club
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Athletic Club @ Espanyol
+DTSTART:20270117T200000Z
+DTEND:20270117T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882416@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Espanyol\nStatus: Sch
+ eduled\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882416/athletic-club-esp
+ anyol
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ CD Tenerife @ Athletic Club
+DTSTART:20270124T200000Z
+DTEND:20270124T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882412@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Athletic Club\nStatus: 
+ Scheduled\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by 
+ HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882412/cd-tenerife-athle
+ tic-club
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Athletic Club @ Valencia
+DTSTART:20270131T200000Z
+DTEND:20270131T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882397@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Valencia\nStatus: Sch
+ eduled\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882397/athletic-club-val
+ encia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Athletic Club @ Real Madrid
+DTSTART:20270207T200000Z
+DTEND:20270207T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882390@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Real Madrid\nStatus: 
+ Scheduled\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882390/athletic-club-rea
+ l-madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Real Sociedad @ Athletic Club
+DTSTART:20270214T200000Z
+DTEND:20270214T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882387@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Athletic Club\nStatus
+ : Scheduled\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures b
+ y HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882387/real-sociedad-ath
+ letic-club
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Athletic Club @ FC Badalona
+DTSTART:20270221T200000Z
+DTEND:20270221T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882376@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at FC Badalona\nStatus: 
+ Scheduled\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882376/athletic-club-fc-
+ badalona
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Dux Logroño @ Athletic Club
+DTSTART:20270314T180000Z
+DTEND:20270314T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882372@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Athletic Club\nStatus:
+  Scheduled\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by
+  HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882372/dux-logrono-athle
+ tic-club
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Barcelona @ Athletic Club
+DTSTART:20270321T180000Z
+DTEND:20270321T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882363@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Athletic Club\nStatus: Sc
+ heduled\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by He
+ rFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882363/barcelona-athleti
+ c-club
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Athletic Club @ Deportivo
+DTSTART:20270328T180000Z
+DTEND:20270328T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882355@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Deportivo\nStatus: Sc
+ heduled\nVenue: Dépor Training Center Campo Arsenio Iglesias\n\nFixtures 
+ by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882355/athletic-club-dep
+ ortivo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Athletic Club @ Sevilla
+DTSTART:20270404T180000Z
+DTEND:20270404T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882342@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Sevilla\nStatus: Sche
+ duled\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882342/athletic-club-sev
+ illa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Granada @ Athletic Club
+DTSTART:20270411T180000Z
+DTEND:20270411T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882340@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nGranada at Athletic Club\nStatus: Sche
+ duled\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882340/granada-athletic-
+ club
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Athletic Club @ Alavés
+DTSTART:20270502T180000Z
+DTEND:20270502T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882332@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Alavés\nStatus: Sche
+ duled\nVenue: Ciudad Deportiva José Luis Compañón\, Vitoria-Gasteiz\n\n
+ Fixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882332/athletic-club-ala
+ ves
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Eibar @ Athletic Club
+DTSTART:20270509T180000Z
+DTEND:20270509T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882324@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nEibar at Athletic Club\nStatus: Schedu
+ led\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882324/eibar-athletic-cl
+ ub
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Athletic Club @ Atlético Madrid
+DTSTART:20270519T180000Z
+DTEND:20270519T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882315@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Atlético Madrid\nSta
+ tus: Scheduled\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de He
+ nares\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882315/athletic-club-atl
+ etico-madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Madrid CFF @ Athletic Club
+DTSTART:20270523T180000Z
+DTEND:20270523T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882308@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Athletic Club\nStatus: S
+ cheduled\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by H
+ erFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882308/madrid-cff-athlet
+ ic-club
+END:VEVENT
+END:VCALENDAR

@@ -3,6 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script>(function(){var t=localStorage.getItem('theme');if(t==='dark'||t==='light')document.documentElement.setAttribute('data-theme',t);})();</script>
 <link rel="canonical" href="https://herfixtures.com/blog/frauen-bundesliga-2026-27-season-preview/">
 <title>Frauen-Bundesliga 2026/27 Preview: Teams, Fixtures, Players, Dates &amp; Where to Watch | HerFixtures</title>
 <meta name="description" content="The Frauen-Bundesliga returns on 21 August. Meet all 14 teams, discover the players and stories to follow, find where to watch and add every 2026/27 fixture to your calendar.">
@@ -664,6 +665,11 @@ body {
   gap: 8px;
   padding: 16px 24px;
   overflow-y: auto; flex: 1; min-height: 0;
+  /* Pack rows to the top at their natural height. Without this the grid
+     inherits align-content:normal (= stretch), so when the modal is scoped
+     to a single team that one row absorbs all the leftover height of the
+     fixed-height mobile sheet and the tile renders ~400px tall. */
+  align-content: start;
 }
 .wnba-tile {
   border: 1px solid var(--border2);
@@ -748,7 +754,7 @@ body {
   .wnba-overlay { align-items: flex-end; padding: 0; }
   .wnba-overlay.is-open .wnba-modal { animation: sheetIn 0.3s ease-out forwards !important; }
   .wnba-overlay.is-closing .wnba-modal { animation: sheetOut 0.3s ease-out forwards !important; }
-  .wnba-modal { border-radius: 20px 20px 0 0; max-width: 100%; width: 100%; height: 80vh; max-height: 80vh; display: flex; flex-direction: column; }
+  .wnba-modal { border-radius: 20px 20px 0 0; max-width: 100%; width: 100%; max-height: 80vh; display: flex; flex-direction: column; }
   .wnba-grid { grid-template-columns: repeat(2, 1fr); -webkit-overflow-scrolling: touch; }
   .wnba-modal-foot { flex-shrink: 0; border-top: 1px solid var(--border); padding: 12px 20px 24px; background: var(--card); }
   .wnba-foot-divider { display: none; }
@@ -1216,12 +1222,19 @@ body {
 function toggleTheme() {
   const h = document.documentElement;
   const isDark = h.getAttribute('data-theme') === 'dark';
-  h.setAttribute('data-theme', isDark ? 'light' : 'dark');
+  const next = isDark ? 'light' : 'dark';
+  h.setAttribute('data-theme', next);
+  localStorage.setItem('theme', next);
   document.getElementById('icon-moon').style.display = isDark ? '' : 'none';
   document.getElementById('icon-sun').style.display  = isDark ? 'none' : '';
 }
+(function(){
+  var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+  document.getElementById('icon-moon').style.display = isDark ? 'none' : '';
+  document.getElementById('icon-sun').style.display  = isDark ? '' : 'none';
+})();
 
-const BASE_URL  = 'herfixtures.vercel.app';
+const BASE_URL  = 'herfixtures.com';
 const CHECK_SVG = `<svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
 
 const FRAUEN_BL_CONFIG = {
@@ -1251,10 +1264,15 @@ function addTeamToCalendar(teamName, slug) {
   if (typeof gtag !== 'undefined') {
     gtag('event', 'add_to_calendar_team_click', { team_name: teamName });
   }
+  /* Reuse the club's entry from the league config so the scoped modal keeps its
+     crest, and leagueSlug stays the league — otherwise the tile is treated as
+     "all teams", which mislabels add_to_calendar and the subscribe button. */
+  var team = FRAUEN_BL_CONFIG.teams.filter(function (t) { return t.slug === slug; })[0]
+             || { name: teamName, slug: slug };
   FeedModal.open({
-    leagueSlug: slug,
-    gaLabel:    'Frauen-Bundesliga',
-    teams: [{ name: teamName, slug: slug, _preselect: true }]
+    leagueSlug: FRAUEN_BL_CONFIG.leagueSlug,
+    gaLabel:    FRAUEN_BL_CONFIG.gaLabel,
+    teams: [Object.assign({}, team, { _preselect: true })]
   });
 }
 

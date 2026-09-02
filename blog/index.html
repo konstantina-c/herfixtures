@@ -3,6 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script>(function(){var t=localStorage.getItem('theme');if(t==='dark'||t==='light')document.documentElement.setAttribute('data-theme',t);})();</script>
 <link rel="canonical" href="https://herfixtures.com/blog/">
 <title>Blog — HerFixtures</title>
 <meta name="description" content="Women's sports guides, fan resources, and fixture previews from HerFixtures. Follow the ICC Women's T20 World Cup, WNBA, NWSL, and more.">
@@ -353,6 +354,12 @@ body {
   </div>
 
   <div class="blog-list">
+    <a href="/blog/liga-f-2026-27-season-preview/" class="post-card">
+      <div class="post-meta">Football &middot; 29 August 2026</div>
+      <h2 class="post-title">Liga F 2026/27: The Full Season Preview</h2>
+      <p class="post-excerpt">Sixteen clubs, 240 matches, and Barcelona&rsquo;s first season in fourteen years without Alexia Putellas. Your complete guide to the 2026/27 campaign &mdash; the transfer window that reshaped the league, the dates to circle, where to watch, and a calendar for every team.</p>
+      <span class="post-cta">Read guide &rarr;</span>
+    </a>
     <a href="/blog/frauen-bundesliga-2026-27-season-preview/" class="post-card">
       <div class="post-meta">Football &middot; 14 August 2026</div>
       <h2 class="post-title">Frauen-Bundesliga 2026/27: The Full Season Preview</h2>
@@ -391,10 +398,22 @@ body {
 function toggleTheme() {
   const h = document.documentElement;
   const isDark = h.getAttribute('data-theme') === 'dark';
-  h.setAttribute('data-theme', isDark ? 'light' : 'dark');
+  const next = isDark ? 'light' : 'dark';
+  h.setAttribute('data-theme', next);
+  localStorage.setItem('theme', next);
   document.getElementById('icon-moon').style.display = isDark ? '' : 'none';
   document.getElementById('icon-sun').style.display  = isDark ? 'none' : '';
 }
+(function(){
+  var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+  document.getElementById('icon-moon').style.display = isDark ? 'none' : '';
+  document.getElementById('icon-sun').style.display  = isDark ? '' : 'none';
+})();
 </script>
+<script>
+    window.si = window.si || function () { (window.siq = window.siq || []).push(arguments); };
+</script>
+  <script defer src="/_vercel/speed-insights/script.js"></script>
+  
 </body>
 </html>

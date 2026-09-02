@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+PRODID:-//HerFixtures//FIBA Women's Basketball World Cup 2026 Germany//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Germany — FIBA WWC 2026 — HerFixtures
+X-WR-CALDESC:Germany FIBA Women's Basketball World Cup 2026 fixtures. Updat
+ ed automatically by HerFixtures.com.
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:fiba-wwc-2026-006@herfixtures.com
+DTSTAMP:20260902T110343Z
+SEQUENCE:0
+DTSTART:20260904T154500Z
+DTEND:20260904T174500Z
+SUMMARY:🏀 Spain vs Germany
+DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup A - Game 6\nSpain
+  vs Germany\nOfficial tickets for this session: https://www.eventim.de/en/
+ artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-ber
+ lin-arena-sessions-3961330/?affiliate=b1w\n\nFixtures by HerFixtures.com -
+  Women's Sports on Your Calendar
+LOCATION:Berlin Arena\, Berlin\, Germany
+URL:https://www.fiba.basketball/en/events/fiba-womens-basketball-world-cup-
+ 2026/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wwc-2026-011@herfixtures.com
+DTSTAMP:20260902T110343Z
+SEQUENCE:0
+DTSTART:20260905T160000Z
+DTEND:20260905T180000Z
+SUMMARY:🏀 Germany vs Japan
+DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup A - Game 11\nGerm
+ any vs Japan\nOfficial tickets for this session: https://www.eventim.de/en
+ /artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-ma
+ x-schmeling-halle-sessions-4006861/?affiliate=b1w\n\nFixtures by HerFixtur
+ es.com - Women's Sports on Your Calendar
+LOCATION:Max-Schmeling-Halle\, Berlin\, Germany
+URL:https://www.fiba.basketball/en/events/fiba-womens-basketball-world-cup-
+ 2026/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wwc-2026-021@herfixtures.com
+DTSTAMP:20260902T110343Z
+SEQUENCE:0
+DTSTART:20260907T155000Z
+DTEND:20260907T175000Z
+SUMMARY:🏀 Germany vs Mali
+DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup A - Game 21\nGerm
+ any vs Mali\nOfficial tickets for this session: https://www.eventim.de/en/
+ artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-ber
+ lin-arena-sessions-3961330/?affiliate=b1w\n\nFixtures by HerFixtures.com -
+  Women's Sports on Your Calendar
+LOCATION:Berlin Arena\, Berlin\, Germany
+URL:https://www.fiba.basketball/en/events/fiba-womens-basketball-world-cup-
+ 2026/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,370 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//Liga F 2026-27 FC Badalona//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:FC Badalona Liga F 2026/27 fixtures. Updated automatically by
+  HerFixtures.com
+X-WR-CALNAME:FC Badalona — Liga F 2026/27 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ FC Badalona @ Athletic Club (1–3)
+DTSTART:20260830T100000Z
+DTEND:20260830T120000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882539@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Athletic Club\nStatus: 
+ Full Time\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by 
+ HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882539/fc-badalona-athle
+ tic-club
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ FC Badalona @ Espanyol
+DTSTART:20260905T100000Z
+DTEND:20260905T120000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882529@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Espanyol\nStatus: Sched
+ uled\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFi
+ xtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882529/fc-badalona-espan
+ yol
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ FC Badalona @ Eibar
+DTSTART:20260913T173000Z
+DTEND:20260913T193000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882520@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Eibar\nStatus: Schedule
+ d\nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sports
+  on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882520/fc-badalona-eibar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Real Sociedad @ FC Badalona
+DTSTART:20260919T100000Z
+DTEND:20260919T120000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882510@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at FC Badalona\nStatus: 
+ Scheduled\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882510/real-sociedad-fc-
+ badalona
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Granada @ FC Badalona
+DTSTART:20260927T180000Z
+DTEND:20260927T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882504@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nGranada at FC Badalona\nStatus: Schedu
+ led\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixtures.
+ com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882504/granada-fc-badalo
+ na
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ FC Badalona @ Sevilla
+DTSTART:20261004T180000Z
+DTEND:20261004T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882494@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Sevilla\nStatus: Schedu
+ led\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882494/fc-badalona-sevil
+ la
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ CD Tenerife @ FC Badalona
+DTSTART:20261018T180000Z
+DTEND:20261018T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882487@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at FC Badalona\nStatus: Sc
+ heduled\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882487/cd-tenerife-fc-ba
+ dalona
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ FC Badalona @ Dux Logroño
+DTSTART:20261025T180000Z
+DTEND:20261025T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882481@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Dux Logroño\nStatus: S
+ cheduled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — 
+ Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882481/fc-badalona-dux-l
+ ogrono
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Barcelona @ FC Badalona
+DTSTART:20261101T200000Z
+DTEND:20261101T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882471@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at FC Badalona\nStatus: Sche
+ duled\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882471/barcelona-fc-bada
+ lona
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ FC Badalona @ Atlético Madrid
+DTSTART:20261108T200000Z
+DTEND:20261108T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882467@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Atlético Madrid\nStatu
+ s: Scheduled\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de Hena
+ res\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882467/fc-badalona-atlet
+ ico-madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ FC Badalona @ Real Madrid
+DTSTART:20261115T200000Z
+DTEND:20261115T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882456@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Real Madrid\nStatus: Sc
+ heduled\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882456/fc-badalona-real-
+ madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Deportivo @ FC Badalona
+DTSTART:20261122T200000Z
+DTEND:20261122T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882446@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at FC Badalona\nStatus: Sche
+ duled\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882446/deportivo-fc-bada
+ lona
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Valencia @ FC Badalona
+DTSTART:20261209T200000Z
+DTEND:20261209T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882439@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nValencia at FC Badalona\nStatus: Sched
+ uled\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882439/valencia-fc-badal
+ ona
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ FC Badalona @ Madrid CFF
+DTSTART:20261213T200000Z
+DTEND:20261213T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882431@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Madrid CFF\nStatus: Sch
+ eduled\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882431/fc-badalona-madri
+ d-cff
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Alavés @ FC Badalona
+DTSTART:20270110T200000Z
+DTEND:20270110T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882423@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAlavés at FC Badalona\nStatus: Schedu
+ led\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixtures.
+ com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882423/alaves-fc-badalon
+ a
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ FC Badalona @ CD Tenerife
+DTSTART:20270117T200000Z
+DTEND:20270117T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882419@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at CD Tenerife\nStatus: Sc
+ heduled\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Teneri
+ fe\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882419/fc-badalona-cd-te
+ nerife
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Dux Logroño @ FC Badalona
+DTSTART:20270124T200000Z
+DTEND:20270124T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882407@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at FC Badalona\nStatus: S
+ cheduled\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882407/dux-logrono-fc-ba
+ dalona
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ FC Badalona @ Barcelona
+DTSTART:20270131T200000Z
+DTEND:20270131T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882400@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Barcelona\nStatus: Sche
+ duled\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures.c
+ om — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882400/fc-badalona-barce
+ lona
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sevilla @ FC Badalona
+DTSTART:20270207T200000Z
+DTEND:20270207T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882391@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nSevilla at FC Badalona\nStatus: Schedu
+ led\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixtures.
+ com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882391/sevilla-fc-badalo
+ na
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ FC Badalona @ Deportivo
+DTSTART:20270214T200000Z
+DTEND:20270214T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882384@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Deportivo\nStatus: Sche
+ duled\nVenue: Dépor Training Center Campo Arsenio Iglesias\n\nFixtures by
+  HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882384/fc-badalona-depor
+ tivo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Athletic Club @ FC Badalona
+DTSTART:20270221T200000Z
+DTEND:20270221T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882376@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at FC Badalona\nStatus: 
+ Scheduled\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882376/athletic-club-fc-
+ badalona
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ FC Badalona @ Granada
+DTSTART:20270314T180000Z
+DTEND:20270314T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882367@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Granada\nStatus: Schedu
+ led\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by HerFi
+ xtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882367/fc-badalona-grana
+ da
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Real Madrid @ FC Badalona
+DTSTART:20270321T180000Z
+DTEND:20270321T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882359@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at FC Badalona\nStatus: Sc
+ heduled\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882359/real-madrid-fc-ba
+ dalona
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Espanyol @ FC Badalona
+DTSTART:20270328T180000Z
+DTEND:20270328T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882350@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at FC Badalona\nStatus: Sched
+ uled\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882350/espanyol-fc-badal
+ ona
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ FC Badalona @ Valencia
+DTSTART:20270404T180000Z
+DTEND:20270404T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882341@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Valencia\nStatus: Sched
+ uled\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882341/fc-badalona-valen
+ cia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Madrid CFF @ FC Badalona
+DTSTART:20270411T180000Z
+DTEND:20270411T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882337@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at FC Badalona\nStatus: Sch
+ eduled\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882337/madrid-cff-fc-bad
+ alona
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ FC Badalona @ Real Sociedad
+DTSTART:20270502T180000Z
+DTEND:20270502T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882325@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Real Sociedad\nStatus: 
+ Scheduled\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFixtures
+  by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882325/fc-badalona-real-
+ sociedad
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Atlético Madrid @ FC Badalona
+DTSTART:20270509T180000Z
+DTEND:20270509T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882320@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at FC Badalona\nStatu
+ s: Scheduled\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882320/atletico-madrid-f
+ c-badalona
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ FC Badalona @ Alavés
+DTSTART:20270519T180000Z
+DTEND:20270519T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882316@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Alavés\nStatus: Schedu
+ led\nVenue: Ciudad Deportiva José Luis Compañón\, Vitoria-Gasteiz\n\nFi
+ xtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882316/fc-badalona-alave
+ s
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Eibar @ FC Badalona
+DTSTART:20270523T180000Z
+DTEND:20270523T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882304@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nEibar at FC Badalona\nStatus: Schedule
+ d\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882304/eibar-fc-badalona
+END:VEVENT
+END:VCALENDAR

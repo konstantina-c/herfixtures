@@ -24,6 +24,7 @@ WNBA_URL     = "https://site.api.espn.com/apis/site/v2/sports/basketball/wnba"
 NWSL_URL     = "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.nwsl"
 ICC_URL      = "https://site.api.espn.com/apis/site/v2/sports/cricket/8634"
 UCL_URL      = "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.wchampions"
+LIGA_F_URL   = "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.w.1"
 HEADERS      = {}  # requests default (python-requests/<version>) passes ESPN WAF; Mozilla/5.0 does not
 TODAY        = datetime.now(timezone.utc).date()
 YESTERDAY    = TODAY - timedelta(days=1)
@@ -161,7 +162,7 @@ def process_league(base_url, label, home_first=False):
     home_first=True:            Home first — no swap. Used for cricket
                                 and other global conventions.
     """
-    sport_path = {"WNBA": "wnba", "NWSL": "soccer", "Women's UCL": "soccer"}.get(label, "cricket")
+    sport_path = {"WNBA": "wnba", "NWSL": "soccer", "Women's UCL": "soccer", "Liga F": "soccer"}.get(label, "cricket")
 
     if label == "WNBA":
         past_events   = fetch_scoreboard(base_url, YESTERDAY, TODAY)
@@ -233,11 +234,12 @@ def process_league(base_url, label, home_first=False):
 
 
 LEAGUE_CONFIGS = [
-    #  url        name                  sport         slug               home_first
-    (WNBA_URL, "WNBA",               "basketball", "wnba",           False),
-    (NWSL_URL, "NWSL",               "football",   "nwsl",           False),
-    (ICC_URL,  "ICC Women's T20 WC", "cricket",    "icc-womens-t20", True),
-    (UCL_URL,  "Women's UCL",        "football",   "ucl-women",      True),
+    #  url          name                  sport         slug               home_first
+    (WNBA_URL,   "WNBA",               "basketball", "wnba",           False),
+    (NWSL_URL,   "NWSL",               "football",   "nwsl",           False),
+    (ICC_URL,    "ICC Women's T20 WC", "cricket",    "icc-womens-t20", True),
+    (UCL_URL,    "Women's UCL",        "football",   "ucl-women",      True),
+    (LIGA_F_URL, "Liga F",             "football",   "liga-f",         False),
 ]
 
 

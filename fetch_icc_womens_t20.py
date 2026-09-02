@@ -35,8 +35,8 @@ def fetch_games():
             if not eid:
                 continue
             games[eid] = event
-    except requests.exceptions.HTTPError as e:
-        print(f"  ⚠️  Season scoreboard HTTP error, skipping: {e}")
+    except requests.exceptions.RequestException as e:
+        print(f"  ⚠️  Season scoreboard error, skipping: {e}")
 
     # Current matchday overwrites — ensures live/today scores are fresh
     try:
@@ -47,8 +47,8 @@ def fetch_games():
             if not eid:
                 continue
             games[eid] = event
-    except requests.exceptions.HTTPError as e:
-        print(f"  ⚠️  Current scoreboard HTTP error, skipping: {e}")
+    except requests.exceptions.RequestException as e:
+        print(f"  ⚠️  Current scoreboard error, skipping: {e}")
 
     return list(games.values())
 

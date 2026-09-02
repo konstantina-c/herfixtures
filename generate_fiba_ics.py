@@ -1,0 +1,138 @@
+#!/usr/bin/env python3
+"""Generate the HerFixtures FIBA WWC 2026 calendar from fixtures.json."""
+
+from __future__ import annotations
+
+import json
+from datetime import datetime, timedelta, timezone
+from pathlib import Path
+from zoneinfo import ZoneInfo
+
+ROOT = Path(__file__).resolve().parent
+DATA_FILE = ROOT / "feeds" / "fiba-wwc-2026" / "fixtures.json"
+OUTPUT_FILE = ROOT / "feeds" / "fiba-wwc-2026" / "all.ics"
+DTSTAMP = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+
+
+def escape(value: str) -> str:
+    return value.replace("\\", "\\\\").replace(";", "\\;").replace(",", "\\,").replace("\n", "\\n")
+
+
+def fold(line: str) -> list[str]:
+    """Fold an iCalendar content line at 75 UTF-8 octets (RFC 5545)."""
+    parts: list[str] = []
+    current = ""
+    limit = 75
+    for char in line:
+        if len((current + char).encode("utf-8")) > limit:
+            parts.append(current)
+            current = " " + char
+            limit = 75
+        else:
+            current += char
+    parts.append(current)
+    return parts
+
+
+def stage_label(fixture: dict) -> str:
+    stage = fixture["stage"]
+    if stage == "group":
+        return f"Group {fixture['group']}"
+    return {
+        "qualification": "Qualification to Quarter-Finals",
+        "quarter-final": "Quarter-Final",
+        "semi-final": "Semi-Final",
+        "third-place": "Third Place Game",
+        "final": "Final",
+    }[stage]
+
+
+def ticket_product_key(fixture: dict) -> str:
+    if fixture.get("ticket_product"):
+        return fixture["ticket_product"]
+    if fixture["stage"] == "group":
+        return f"{fixture['venue']}-sessions"
+    return "berlin-arena-final-phase"
+
+
+def validate(data: dict) -> None:
+    fixtures = data["fixtures"]
+    games = [f["game"] for f in fixtures]
+    if games != list(range(1, 37)):
+        raise ValueError("Fixtures must contain each game number 1-36 exactly once and in order")
+    for fixture in fixtures:
+        datetime.fromisoformat(fixture["date"])
+        if fixture["time"] is not None:
+            datetime.strptime(fixture["time"], "%H:%M")
+        if fixture["venue"] not in data["venues"]:
+            raise ValueError(f"Unknown venue in game {fixture['game']}")
+        key = ticket_product_key(fixture)
+        if key not in data["ticket_products"]:
+            raise ValueError(f"Unknown ticket product in game {fixture['game']}: {key}")
+
+
+def build(data: dict) -> tuple[str, list[int]]:
+    competition = data["competition"]
+    tz = ZoneInfo(competition["timezone"])
+    duration = timedelta(minutes=competition["default_duration_minutes"])
+    lines = [
+        "BEGIN:VCALENDAR",
+        "PRODID:-//HerFixtures//FIBA Women's Basketball World Cup 2026//EN",
+        "VERSION:2.0",
+        "CALSCALE:GREGORIAN",
+        "METHOD:PUBLISH",
+        "X-WR-CALNAME:FIBA Women's Basketball World Cup 2026 - HerFixtures",
+        "X-WR-CALDESC:Official FIBA WWC 2026 fixtures in Berlin. Maintained by HerFixtures.com.",
+        "X-WR-TIMEZONE:Europe/Berlin",
+        "REFRESH-INTERVAL;VALUE=DURATION:PT12H",
+        "X-PUBLISHED-TTL:PT12H",
+    ]
+    omitted: list[int] = []
+    for fixture in data["fixtures"]:
+        if fixture["time"] is None:
+            omitted.append(fixture["game"])
+            continue
+        start_local = datetime.fromisoformat(f"{fixture['date']}T{fixture['time']}:00").replace(tzinfo=tz)
+        end_local = start_local + duration
+        start = start_local.astimezone(timezone.utc)
+        end = end_local.astimezone(timezone.utc)
+        resolved = not any(token in fixture["home"] + fixture["away"] for token in ("Winner", "Loser", "Group"))
+        label = stage_label(fixture)
+        tickets = data["ticket_products"][ticket_product_key(fixture)]
+        summary = f"🏀 {fixture['home']} vs {fixture['away']}"
+        description = (
+            f"FIBA Women's Basketball World Cup 2026\\n{escape(label)} - Game {fixture['game']}\\n"
+            f"{escape(fixture['home'])} vs {escape(fixture['away'])}\\n"
+            f"{escape(tickets['label'])}: {escape(tickets['url'])}\\n\\n"
+            "Fixtures by HerFixtures.com - Women's Sports on Your Calendar"
+        )
+        event = [
+            "BEGIN:VEVENT",
+            f"UID:fiba-wwc-2026-{fixture['game']:03d}@herfixtures.com",
+            f"DTSTAMP:{DTSTAMP}",
+            f"SEQUENCE:{fixture.get('sequence', 0)}",
+            f"DTSTART:{start.strftime('%Y%m%dT%H%M%SZ')}",
+            f"DTEND:{end.strftime('%Y%m%dT%H%M%SZ')}",
+            f"SUMMARY:{escape(summary)}",
+            f"DESCRIPTION:{description}",
+            f"LOCATION:{escape(data['venues'][fixture['venue']])}",
+            f"URL:{competition['source_url']}",
+            f"STATUS:{'CONFIRMED' if resolved else 'TENTATIVE'}",
+            "TRANSP:OPAQUE",
+            "END:VEVENT",
+        ]
+        lines.extend(event)
+    lines.append("END:VCALENDAR")
+    return "\r\n".join(part for line in lines for part in fold(line)) + "\r\n", omitted
+
+
+def main() -> None:
+    data = json.loads(DATA_FILE.read_text(encoding="utf-8"))
+    validate(data)
+    calendar, omitted = build(data)
+    OUTPUT_FILE.write_text(calendar, encoding="utf-8", newline="")
+    print(f"Wrote {OUTPUT_FILE}: {36 - len(omitted)} events; time-TBC games omitted: {omitted}")
+
+
+if __name__ == "__main__":
+    main()

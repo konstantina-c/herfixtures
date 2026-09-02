@@ -1,0 +1,370 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//Liga F 2026-27 Real Madrid//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Real Madrid Liga F 2026/27 fixtures. Updated automatically by
+  HerFixtures.com
+X-WR-CALNAME:Real Madrid — Liga F 2026/27 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Atlético Madrid @ Real Madrid (2–3)
+DTSTART:20260830T190000Z
+DTEND:20260830T210000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882534@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Real Madrid\nStatu
+ s: Full Time\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by H
+ erFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882534/atletico-madrid-r
+ eal-madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Eibar @ Real Madrid
+DTSTART:20260906T183000Z
+DTEND:20260906T203000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882527@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nEibar at Real Madrid\nStatus: Schedule
+ d\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFixtures.
+ com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882527/eibar-real-madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Real Madrid @ Deportivo
+DTSTART:20260911T184500Z
+DTEND:20260911T204500Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882522@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Deportivo\nStatus: Sche
+ duled\nVenue: Riazor\, La Coruña\n\nFixtures by HerFixtures.com — Women
+ 's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882522/real-madrid-depor
+ tivo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Valencia @ Real Madrid
+DTSTART:20260919T183000Z
+DTEND:20260919T203000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882509@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nValencia at Real Madrid\nStatus: Sched
+ uled\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882509/valencia-real-mad
+ rid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Real Madrid @ Real Sociedad
+DTSTART:20260927T180000Z
+DTEND:20260927T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882503@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Real Sociedad\nStatus: 
+ Scheduled\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFixtures
+  by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882503/real-madrid-real-
+ sociedad
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Real Madrid @ Barcelona
+DTSTART:20261004T180000Z
+DTEND:20261004T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882497@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Barcelona\nStatus: Sche
+ duled\nVenue: Spotify Camp Nou\, Barcelona\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882497/real-madrid-barce
+ lona
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Espanyol @ Real Madrid
+DTSTART:20261018T180000Z
+DTEND:20261018T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882486@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Real Madrid\nStatus: Sched
+ uled\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882486/espanyol-real-mad
+ rid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ CD Tenerife @ Real Madrid
+DTSTART:20261025T180000Z
+DTEND:20261025T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882478@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Real Madrid\nStatus: Sc
+ heduled\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882478/cd-tenerife-real-
+ madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Real Madrid @ Sevilla
+DTSTART:20261101T200000Z
+DTEND:20261101T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882470@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Sevilla\nStatus: Schedu
+ led\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882470/real-madrid-sevil
+ la
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Real Madrid @ Athletic Club
+DTSTART:20261108T200000Z
+DTEND:20261108T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882468@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Athletic Club\nStatus: 
+ Scheduled\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by 
+ HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882468/real-madrid-athle
+ tic-club
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ FC Badalona @ Real Madrid
+DTSTART:20261115T200000Z
+DTEND:20261115T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882456@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Real Madrid\nStatus: Sc
+ heduled\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882456/fc-badalona-real-
+ madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Real Madrid @ Granada
+DTSTART:20261122T200000Z
+DTEND:20261122T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882447@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Granada\nStatus: Schedu
+ led\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by HerFi
+ xtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882447/real-madrid-grana
+ da
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Madrid CFF @ Real Madrid
+DTSTART:20261209T200000Z
+DTEND:20261209T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882438@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Real Madrid\nStatus: Sch
+ eduled\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882438/madrid-cff-real-m
+ adrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Real Madrid @ Alavés
+DTSTART:20261213T200000Z
+DTEND:20261213T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882436@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Alavés\nStatus: Schedu
+ led\nVenue: Ciudad Deportiva José Luis Compañón\, Vitoria-Gasteiz\n\nFi
+ xtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882436/real-madrid-alave
+ s
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Dux Logroño @ Real Madrid
+DTSTART:20270110T200000Z
+DTEND:20270110T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882422@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Real Madrid\nStatus: S
+ cheduled\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFi
+ xtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882422/dux-logrono-real-
+ madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Real Madrid @ Valencia
+DTSTART:20270117T200000Z
+DTEND:20270117T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882413@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Valencia\nStatus: Sched
+ uled\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882413/real-madrid-valen
+ cia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Real Sociedad @ Real Madrid
+DTSTART:20270124T200000Z
+DTEND:20270124T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882406@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Real Madrid\nStatus: 
+ Scheduled\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882406/real-sociedad-rea
+ l-madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Real Madrid @ CD Tenerife
+DTSTART:20270131T200000Z
+DTEND:20270131T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882403@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at CD Tenerife\nStatus: Sc
+ heduled\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Teneri
+ fe\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882403/real-madrid-cd-te
+ nerife
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Athletic Club @ Real Madrid
+DTSTART:20270207T200000Z
+DTEND:20270207T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882390@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Real Madrid\nStatus: 
+ Scheduled\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882390/athletic-club-rea
+ l-madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Real Madrid @ Atlético Madrid
+DTSTART:20270214T200000Z
+DTEND:20270214T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882386@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Atlético Madrid\nStatu
+ s: Scheduled\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de Hena
+ res\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882386/real-madrid-atlet
+ ico-madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Barcelona @ Real Madrid
+DTSTART:20270221T200000Z
+DTEND:20270221T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882375@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Real Madrid\nStatus: Sche
+ duled\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882375/barcelona-real-ma
+ drid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Real Madrid @ Eibar
+DTSTART:20270314T180000Z
+DTEND:20270314T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882370@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Eibar\nStatus: Schedule
+ d\nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sports
+  on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882370/real-madrid-eibar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Real Madrid @ FC Badalona
+DTSTART:20270321T180000Z
+DTEND:20270321T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882359@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at FC Badalona\nStatus: Sc
+ heduled\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882359/real-madrid-fc-ba
+ dalona
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sevilla @ Real Madrid
+DTSTART:20270328T180000Z
+DTEND:20270328T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882349@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Real Madrid\nStatus: Schedu
+ led\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882349/sevilla-real-madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Real Madrid @ Dux Logroño
+DTSTART:20270404T180000Z
+DTEND:20270404T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882346@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Dux Logroño\nStatus: S
+ cheduled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — 
+ Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882346/real-madrid-dux-l
+ ogrono
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Deportivo @ Real Madrid
+DTSTART:20270411T180000Z
+DTEND:20270411T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882336@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Real Madrid\nStatus: Sche
+ duled\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882336/deportivo-real-ma
+ drid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Real Madrid @ Madrid CFF
+DTSTART:20270502T180000Z
+DTEND:20270502T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882326@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Madrid CFF\nStatus: Sch
+ eduled\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882326/real-madrid-madri
+ d-cff
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Granada @ Real Madrid
+DTSTART:20270509T180000Z
+DTEND:20270509T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882319@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nGranada at Real Madrid\nStatus: Schedu
+ led\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882319/granada-real-madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Real Madrid @ Espanyol
+DTSTART:20270519T180000Z
+DTEND:20270519T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882312@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Espanyol\nStatus: Sched
+ uled\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFi
+ xtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882312/real-madrid-espan
+ yol
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Alavés @ Real Madrid
+DTSTART:20270523T180000Z
+DTEND:20270523T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882303@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Real Madrid\nStatus: Schedu
+ led\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882303/alaves-real-madri
+ d
+END:VEVENT
+END:VCALENDAR

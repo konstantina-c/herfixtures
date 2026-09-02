@@ -1,0 +1,370 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//Liga F 2026-27 CD Tenerife//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:CD Tenerife Liga F 2026/27 fixtures. Updated automatically by
+  HerFixtures.com
+X-WR-CALNAME:CD Tenerife — Liga F 2026/27 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ CD Tenerife @ Barcelona (0–5)
+DTSTART:20260830T170000Z
+DTEND:20260830T190000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882536@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Barcelona\nStatus: Full
+  Time\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures.c
+ om — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882536/cd-tenerife-barce
+ lona
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Deportivo @ CD Tenerife
+DTSTART:20260906T104500Z
+DTEND:20260906T124500Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882531@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at CD Tenerife\nStatus: Sche
+ duled\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882531/deportivo-cd-tene
+ rife
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ CD Tenerife @ Real Sociedad
+DTSTART:20260913T100000Z
+DTEND:20260913T120000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882517@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Real Sociedad\nStatus: 
+ Scheduled\nVenue: Instalaciones de Zubieta\, San Sebastian\n\nFixtures by 
+ HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882517/cd-tenerife-real-
+ sociedad
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sevilla @ CD Tenerife
+DTSTART:20260920T100000Z
+DTEND:20260920T120000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882514@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nSevilla at CD Tenerife\nStatus: Schedu
+ led\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife\n
+ \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882514/sevilla-cd-teneri
+ fe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ CD Tenerife @ Valencia
+DTSTART:20260927T180000Z
+DTEND:20260927T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882501@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Valencia\nStatus: Sched
+ uled\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882501/cd-tenerife-valen
+ cia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Dux Logroño @ CD Tenerife
+DTSTART:20261004T180000Z
+DTEND:20261004T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882500@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at CD Tenerife\nStatus: S
+ cheduled\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tener
+ ife\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882500/dux-logrono-cd-te
+ nerife
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ CD Tenerife @ FC Badalona
+DTSTART:20261018T180000Z
+DTEND:20261018T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882487@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at FC Badalona\nStatus: Sc
+ heduled\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882487/cd-tenerife-fc-ba
+ dalona
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ CD Tenerife @ Real Madrid
+DTSTART:20261025T180000Z
+DTEND:20261025T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882478@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Real Madrid\nStatus: Sc
+ heduled\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882478/cd-tenerife-real-
+ madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Athletic Club @ CD Tenerife
+DTSTART:20261101T200000Z
+DTEND:20261101T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882475@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at CD Tenerife\nStatus: 
+ Scheduled\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tene
+ rife\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882475/athletic-club-cd-
+ tenerife
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Alavés @ CD Tenerife
+DTSTART:20261108T200000Z
+DTEND:20261108T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882466@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAlavés at CD Tenerife\nStatus: Schedu
+ led\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife\n
+ \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882466/alaves-cd-tenerif
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ CD Tenerife @ Espanyol
+DTSTART:20261115T200000Z
+DTEND:20261115T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882458@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Espanyol\nStatus: Sched
+ uled\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFi
+ xtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882458/cd-tenerife-espan
+ yol
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Madrid CFF @ CD Tenerife
+DTSTART:20261122T200000Z
+DTEND:20261122T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882452@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at CD Tenerife\nStatus: Sch
+ eduled\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerif
+ e\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882452/madrid-cff-cd-ten
+ erife
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ CD Tenerife @ Atlético Madrid
+DTSTART:20261209T200000Z
+DTEND:20261209T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882443@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Atlético Madrid\nStatu
+ s: Scheduled\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de Hena
+ res\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882443/cd-tenerife-atlet
+ ico-madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Eibar @ CD Tenerife
+DTSTART:20261213T200000Z
+DTEND:20261213T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882435@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nEibar at CD Tenerife\nStatus: Schedule
+ d\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife\n\n
+ Fixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882435/eibar-cd-tenerife
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ CD Tenerife @ Granada
+DTSTART:20270110T200000Z
+DTEND:20270110T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882425@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Granada\nStatus: Schedu
+ led\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by HerFi
+ xtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882425/cd-tenerife-grana
+ da
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ FC Badalona @ CD Tenerife
+DTSTART:20270117T200000Z
+DTEND:20270117T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882419@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at CD Tenerife\nStatus: Sc
+ heduled\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Teneri
+ fe\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882419/fc-badalona-cd-te
+ nerife
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ CD Tenerife @ Athletic Club
+DTSTART:20270124T200000Z
+DTEND:20270124T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882412@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Athletic Club\nStatus: 
+ Scheduled\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by 
+ HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882412/cd-tenerife-athle
+ tic-club
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Real Madrid @ CD Tenerife
+DTSTART:20270131T200000Z
+DTEND:20270131T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882403@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at CD Tenerife\nStatus: Sc
+ heduled\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Teneri
+ fe\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882403/real-madrid-cd-te
+ nerife
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ CD Tenerife @ Dux Logroño
+DTSTART:20270207T200000Z
+DTEND:20270207T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882395@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Dux Logroño\nStatus: S
+ cheduled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — 
+ Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882395/cd-tenerife-dux-l
+ ogrono
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Valencia @ CD Tenerife
+DTSTART:20270214T200000Z
+DTEND:20270214T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882385@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nValencia at CD Tenerife\nStatus: Sched
+ uled\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882385/valencia-cd-tener
+ ife
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ CD Tenerife @ Alavés
+DTSTART:20270221T200000Z
+DTEND:20270221T220000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882380@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Alavés\nStatus: Schedu
+ led\nVenue: Ciudad Deportiva José Luis Compañón\, Vitoria-Gasteiz\n\nFi
+ xtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882380/cd-tenerife-alave
+ s
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ CD Tenerife @ Sevilla
+DTSTART:20270314T180000Z
+DTEND:20270314T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882365@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Sevilla\nStatus: Schedu
+ led\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882365/cd-tenerife-sevil
+ la
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Atlético Madrid @ CD Tenerife
+DTSTART:20270321T180000Z
+DTEND:20270321T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882362@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at CD Tenerife\nStatu
+ s: Scheduled\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de T
+ enerife\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882362/atletico-madrid-c
+ d-tenerife
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ CD Tenerife @ Madrid CFF
+DTSTART:20270328T180000Z
+DTEND:20270328T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882351@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Madrid CFF\nStatus: Sch
+ eduled\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882351/cd-tenerife-madri
+ d-cff
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Real Sociedad @ CD Tenerife
+DTSTART:20270404T180000Z
+DTEND:20270404T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882347@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at CD Tenerife\nStatus: 
+ Scheduled\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tene
+ rife\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882347/real-sociedad-cd-
+ tenerife
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Barcelona @ CD Tenerife
+DTSTART:20270411T180000Z
+DTEND:20270411T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882338@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at CD Tenerife\nStatus: Sche
+ duled\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882338/barcelona-cd-tene
+ rife
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ CD Tenerife @ Eibar
+DTSTART:20270502T180000Z
+DTEND:20270502T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882329@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Eibar\nStatus: Schedule
+ d\nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sports
+  on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882329/cd-tenerife-eibar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Espanyol @ CD Tenerife
+DTSTART:20270509T180000Z
+DTEND:20270509T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882323@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at CD Tenerife\nStatus: Sched
+ uled\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882323/espanyol-cd-tener
+ ife
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ CD Tenerife @ Deportivo
+DTSTART:20270519T180000Z
+DTEND:20270519T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882314@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Deportivo\nStatus: Sche
+ duled\nVenue: Dépor Training Center Campo Arsenio Iglesias\n\nFixtures by
+  HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882314/cd-tenerife-depor
+ tivo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Granada @ CD Tenerife
+DTSTART:20270523T180000Z
+DTEND:20270523T200000Z
+DTSTAMP:20260902T110341Z
+UID:espn-liga-f-401882307@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nGranada at CD Tenerife\nStatus: Schedu
+ led\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife\n
+ \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882307/granada-cd-teneri
+ fe
+END:VEVENT
+END:VCALENDAR

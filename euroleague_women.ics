@@ -61,7 +61,7 @@ DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
 LOCATION:EuroLeague Women
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Wadi Degla FC vs Petrojet
+SUMMARY:🏀 Wadi Degla FC vs Petrojet-Suez
 DTSTART:20251211T180000Z
 DTEND:20251211T200000Z
 UID:5055316@herfixtures.com
@@ -69,7 +69,7 @@ DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
 LOCATION:EuroLeague Women
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Al Ahly SC vs ENPPI
+SUMMARY:🏀 Al Ahly SC vs Al Sharkeyah-ENPPI
 DTSTART:20251212T180000Z
 DTEND:20251212T200000Z
 UID:5055292@herfixtures.com
@@ -93,7 +93,7 @@ DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
 LOCATION:EuroLeague Women
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Petrojet vs Ismaily SC
+SUMMARY:🏀 Petrojet-Suez vs Ismaily SC
 DTSTART:20251219T150000Z
 DTEND:20251219T170000Z
 UID:5055317@herfixtures.com
@@ -117,18 +117,18 @@ DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
 LOCATION:EuroLeague Women
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 El Gouna FC vs Pyramids FC
+SUMMARY:🏀 Al Sharkeyah-ENPPI vs Tala'ea El Gaish
 DTSTART:20251220T150000Z
 DTEND:20251220T170000Z
-UID:5055319@herfixtures.com
+UID:5055295@herfixtures.com
 DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
 LOCATION:EuroLeague Women
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 ENPPI vs Tala'ea El Gaish
+SUMMARY:🏀 El Gouna FC vs Pyramids FC
 DTSTART:20251220T150000Z
 DTEND:20251220T170000Z
-UID:5055295@herfixtures.com
+UID:5055319@herfixtures.com
 DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
 LOCATION:EuroLeague Women
 END:VEVENT
@@ -173,7 +173,7 @@ DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
 LOCATION:EuroLeague Women
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Pharco FC vs ENPPI
+SUMMARY:🏀 Pharco FC vs Al Sharkeyah-ENPPI
 DTSTART:20251224T150000Z
 DTEND:20251224T170000Z
 UID:5055297@herfixtures.com
@@ -253,7 +253,7 @@ DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
 LOCATION:EuroLeague Women
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Petrojet vs National Bank
+SUMMARY:🏀 Petrojet-Suez vs National Bank
 DTSTART:20251231T150000Z
 DTEND:20251231T170000Z
 UID:5055323@herfixtures.com
@@ -341,18 +341,18 @@ DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
 LOCATION:EuroLeague Women
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 El Gouna FC vs Petrojet
+SUMMARY:🏀 Al Sharkeyah-ENPPI vs Ceramica Cleopatra
 DTSTART:20260106T150000Z
 DTEND:20260106T170000Z
-UID:5055328@herfixtures.com
+UID:5055304@herfixtures.com
 DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
 LOCATION:EuroLeague Women
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 ENPPI vs Ceramica Cleopatra
+SUMMARY:🏀 El Gouna FC vs Petrojet-Suez
 DTSTART:20260106T150000Z
 DTEND:20260106T170000Z
-UID:5055304@herfixtures.com
+UID:5055328@herfixtures.com
 DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
 LOCATION:EuroLeague Women
 END:VEVENT
@@ -389,7 +389,7 @@ DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
 LOCATION:EuroLeague Women
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Petrojet vs Modern Sport FC
+SUMMARY:🏀 Petrojet-Suez vs Modern Sport FC
 DTSTART:20260111T150000Z
 DTEND:20260111T170000Z
 UID:5055330@herfixtures.com
@@ -413,7 +413,7 @@ DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
 LOCATION:EuroLeague Women
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 ENPPI vs Al Mokawloon Al Arab
+SUMMARY:🏀 Al Sharkeyah-ENPPI vs Al Mokawloon Al Arab
 DTSTART:20260112T150000Z
 DTEND:20260112T170000Z
 UID:5055306@herfixtures.com
@@ -445,7 +445,7 @@ DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
 LOCATION:EuroLeague Women
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Pyramids FC vs Petrojet
+SUMMARY:🏀 Pyramids FC vs Petrojet-Suez
 DTSTART:20260115T150000Z
 DTEND:20260115T170000Z
 UID:5055332@herfixtures.com
@@ -469,7 +469,7 @@ DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
 LOCATION:EuroLeague Women
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 ENPPI vs Ghazl Al Mahalla
+SUMMARY:🏀 Al Sharkeyah-ENPPI vs Ghazl Al Mahalla
 DTSTART:20260116T150000Z
 DTEND:20260116T170000Z
 UID:5055309@herfixtures.com
@@ -517,7 +517,7 @@ DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
 LOCATION:EuroLeague Women
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 ENPPI vs Petrojet
+SUMMARY:🏀 Al Sharkeyah-ENPPI vs Petrojet-Suez
 DTSTART:20260325T180000Z
 DTEND:20260325T200000Z
 UID:5197887@herfixtures.com
@@ -549,7 +549,7 @@ DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
 LOCATION:EuroLeague Women
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Petrojet vs ENPPI
+SUMMARY:🏀 Petrojet-Suez vs Al Sharkeyah-ENPPI
 DTSTART:20260329T180000Z
 DTEND:20260329T200000Z
 UID:5197891@herfixtures.com
@@ -573,7 +573,7 @@ DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
 LOCATION:EuroLeague Women
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 ENPPI vs Wadi Degla FC
+SUMMARY:🏀 Al Sharkeyah-ENPPI vs Wadi Degla FC
 DTSTART:20260525T140000Z
 DTEND:20260525T160000Z
 UID:5649999@herfixtures.com
@@ -597,7 +597,7 @@ DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
 LOCATION:EuroLeague Women
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Wadi Degla FC vs ENPPI
+SUMMARY:🏀 Wadi Degla FC vs Al Sharkeyah-ENPPI
 DTSTART:20260601T170000Z
 DTEND:20260601T190000Z
 UID:5650002@herfixtures.com
@@ -613,7 +613,7 @@ DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
 LOCATION:EuroLeague Women
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 ENPPI vs Al Masry SC
+SUMMARY:🏀 Al Sharkeyah-ENPPI vs Al Masry SC
 DTSTART:20260608T173000Z
 DTEND:20260608T193000Z
 UID:5737262@herfixtures.com

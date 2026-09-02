@@ -38,9 +38,13 @@ HOME_STADIUMS = {
 
 
 def fetch_matches():
-    r = requests.get(API_URL, headers=HEADERS, timeout=20)
-    r.raise_for_status()
-    return r.json()
+    try:
+        r = requests.get(API_URL, headers=HEADERS, timeout=20)
+        r.raise_for_status()
+        return r.json()
+    except requests.exceptions.RequestException as e:
+        print(f"  ⚠️  OpenLigaDB fetch error, skipping: {e}")
+        return []
 
 
 def get_venue(match):
