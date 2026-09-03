@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T20:54:04Z",
+  "updated": "2026-09-03T11:01:22Z",
   "competitions": {
     "wnba": {
       "name": "WNBA",
@@ -41,6 +41,19 @@
           },
           "kickoff": "2026-09-05T02:00:00Z",
           "kickoff_label": "Friday @ 2am"
+        },
+        {
+          "league": "NWSL",
+          "home": {
+            "name": "Angel City",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21422.png"
+          },
+          "away": {
+            "name": "Louisville",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20905.png"
+          },
+          "kickoff": "2026-09-05T22:30:00Z",
+          "kickoff_label": "Friday @ 10:30pm"
         }
       ]
     },
@@ -66,7 +79,47 @@
       "slug": "liga-f",
       "postgame": [],
       "livegame": [],
-      "pregame": []
+      "pregame": [
+        {
+          "league": "Liga F",
+          "home": {
+            "name": "Badalona",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21149.png"
+          },
+          "away": {
+            "name": "Espanyol",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21154.png"
+          },
+          "kickoff": "2026-09-05T10:00:00Z",
+          "kickoff_label": "Friday @ 10am"
+        },
+        {
+          "league": "Liga F",
+          "home": {
+            "name": "Madrid CFF",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21425.png"
+          },
+          "away": {
+            "name": "Valencia",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21374.png"
+          },
+          "kickoff": "2026-09-05T10:00:00Z",
+          "kickoff_label": "Friday @ 10am"
+        },
+        {
+          "league": "Liga F",
+          "home": {
+            "name": "Barcelona",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20091.png"
+          },
+          "away": {
+            "name": "Sevilla",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21424.png"
+          },
+          "kickoff": "2026-09-05T18:30:00Z",
+          "kickoff_label": "Friday @ 6:30pm"
+        }
+      ]
     }
   }
 }
