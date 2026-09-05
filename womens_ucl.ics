@@ -10,16 +10,61 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Barcelona vs OL Lyonnes (4–0)
-DTSTART:20260523T160000Z
-DTEND:20260523T180000Z
-DTSTAMP:20260905T102357Z
-UID:espn-ucl-women-401842609@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · final\nBarcelona vs OL Lyo
- nnes\nStatus: Full Time\nVenue: Ullevaal Stadion\, Oslo\nTV: ESPN Deportes
- \, Paramount+\n\nFixtures by HerFixtures.com — Women's Sports on Your Ca
- lendar
-URL:https://www.espn.com/soccer/match/_/gameId/401842609/ol-lyonnes-barcel
- ona
+SUMMARY:⚽ Bayern Munich vs Manchester City
+DTSTART:20260922T164500Z
+DTEND:20260922T184500Z
+DTSTAMP:20260905T201248Z
+UID:espn-ucl-women-401917018@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · league-phase\nBayern Munic
+ h vs Manchester City\nStatus: Scheduled\nTV: Paramount+\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401917018/manchester-city-b
+ ayern-munich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Internazionale vs BK Häcken
+DTSTART:20260922T164500Z
+DTEND:20260922T184500Z
+DTSTAMP:20260905T201248Z
+UID:espn-ucl-women-401917017@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · league-phase\nInternaziona
+ le vs BK Häcken\nStatus: Scheduled\nTV: Paramount+\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401917017/bk-hacken-interna
+ zionale
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Arsenal vs HB Køge
+DTSTART:20260922T190000Z
+DTEND:20260922T210000Z
+DTSTAMP:20260905T201248Z
+UID:espn-ucl-women-401917016@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · league-phase\nArsenal vs H
+ B Køge\nStatus: Scheduled\nTV: Paramount+\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401917016/hb-køge-arsenal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus vs Benfica
+DTSTART:20260922T190000Z
+DTEND:20260922T210000Z
+DTSTAMP:20260905T201248Z
+UID:espn-ucl-women-401917015@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · league-phase\nJuventus vs 
+ Benfica\nStatus: Scheduled\nTV: Paramount+\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401917015/benfica-juventus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Real Madrid vs Paris Saint-Germain
+DTSTART:20260922T190000Z
+DTEND:20260922T210000Z
+DTSTAMP:20260905T201248Z
+UID:espn-ucl-women-401917014@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · league-phase\nReal Madrid 
+ vs Paris Saint-Germain\nStatus: Scheduled\nTV: Paramount+\n\nFixtures by H
+ erFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401917014/paris-saint-germa
+ in-real-madrid
 END:VEVENT
 END:VCALENDAR
