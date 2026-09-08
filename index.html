@@ -3,7 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<script>(function(){var t=localStorage.getItem('theme');if(t==='dark'||t==='light')document.documentElement.setAttribute('data-theme',t);})();</script>
 <link rel="canonical" href="https://herfixtures.com/">
 <title>HerFixtures — Women's Sports on Your Calendar</title>
 <meta name="description" content="Women's sports fixtures, always in your calendar. Subscribe to live fixture feeds for WNBA, NWSL, ICC Women's T20 World Cup and more — straight to Google Calendar, Apple Calendar, or Outlook.">
@@ -92,31 +91,10 @@ body {
 #live-page {
   display: block;
   width: 100%;
-  position: relative;
-  isolation: isolate;
-  background-color: var(--bg);
+  background: var(--bg);
   color: var(--text);
   min-height: 100vh;
-  transition: background-color 0.4s, color 0.4s;
-}
-
-/* Hero gradient — rendered via ::before so a filter: blur can be applied to
-   soften the shape's edges (Figma layer-blur effect) without affecting any
-   children. z-index:-1 in an isolated parent keeps it behind all page content
-   while still sitting above #live-page's own background-color. */
-#live-page::before {
-  content: '';
-  position: absolute;
-  top: 178px;
-  left: 0;
-  right: 0;
-  height: 640px;
-  z-index: -1;
-  pointer-events: none;
-  background: radial-gradient(circle at 50% 45%, #028E53 0%, #2CCB88 30%, rgba(44,203,136,0) 70%);
-}
-[data-theme="dark"] #live-page::before {
-  background: radial-gradient(circle at 50% 45%, #04492C 0%, #09633D 30%, rgba(9,99,61,0) 70%);
+  transition: background 0.4s, color 0.4s;
 }
 
 /* Real topbar */
@@ -199,261 +177,78 @@ body {
 
   #live-page .real-topbar { padding: 16px 20px; }
 
-  /* ── Hero — competition announcement card ─────────────── */
-
-  #live-page .hero-slot {
-    max-width: 1280px;
-    margin: 0 auto;
-    padding: 16px 0 40px;
-    /* Clip the decorative field-line shapes (left:-38 / right:-30) that
-       would otherwise bleed past the viewport edge and cause a horizontal
-       scrollbar on small viewports. */
-    overflow-x: clip;
-  }
-
-  #live-page .hero-card {
+  /* Hero */
+  #live-page .hero {
+    padding: 48px 20px 56px;
     position: relative;
-    width: 100%;
-    min-height: 440px;
-  }
-
-  #live-page .hero-card--mobile {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 24px;
-    padding: 32px 0;
-  }
-
-  #live-page .hero-card--wide {
-    display: none;
-    align-items: center;
-    padding: 0;
-    gap: 48px;
-  }
-
-
-  #live-page .hero-card__noise {
-    position: absolute;
-    inset: 0;
-    width: 100%;
-    height: 100%;
-    opacity: 0.12;
-    mix-blend-mode: overlay;
-    pointer-events: none;
-    z-index: 1;
-  }
-
-  /* Field-line + circle blur shapes bleeding off the card */
-  #live-page .hero-card__field-line {
-    position: absolute;
-    top: 150px;
-    width: 101px;
-    height: 172px;
-    border-radius: 24px;
-    border: 2px solid rgba(255,255,255,0.4);
-    filter: blur(4px);
-    z-index: 1;
-  }
-  #live-page .hero-card__field-line--left  { left: -38px; }
-  #live-page .hero-card__field-line--right { right: -30px; }
-
-  #live-page .hero-card__field-circle {
-    position: absolute;
-    top: 150px;
-    left: 50%;
-    transform: translateX(-50%);
-    width: 137px;
-    height: 137px;
-    border-radius: 50%;
-    border: 2px solid rgba(255,255,255,0.4);
-    filter: blur(4px);
-    z-index: 1;
-  }
-
-  #live-page .hero-card--wide .hero-card__field-line {
-    top: 50%;
-    transform: translateY(-50%);
-    border-color: rgba(255,255,255,0.6);
-  }
-  #live-page .hero-card--wide .hero-card__field-line--left  { left: -30px; }
-  #live-page .hero-card--wide .hero-card__field-line--right { right: -30px; }
-  #live-page .hero-card--wide .hero-card__field-circle {
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
-
-  #live-page .hero-card__eyebrow {
-    position: relative;
-    z-index: 2;
-    font-family: 'DM Sans', sans-serif;
-    font-size: 16px;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.02em;
-    text-align: center;
-    color: #06060F;
-  }
-  [data-theme="dark"] #live-page .hero-card__eyebrow { color: #fff; }
-
-  #live-page .hero-card__crest-group {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    position: relative;
-    z-index: 2;
-  }
-
-  #live-page .hero-card__headline {
-    position: relative;
-    z-index: 2;
-    font-family: 'Zalando Sans Expanded', 'Arial Black', sans-serif;
-    font-weight: 900;
-    font-size: 73px;
-    line-height: 56px;
-    text-align: center;
-    width: 100%;
-    word-break: break-word;
-    margin: 0 0 -16px;
-    color: #06060F;
-  }
-  [data-theme="dark"] #live-page .hero-card__headline { color: #fff; }
-
-  #live-page .hero-card__subtext {
-    position: relative;
-    z-index: 2;
-    font-family: 'DM Sans', sans-serif;
-    font-size: 16px;
-    font-weight: 600;
-    text-transform: capitalize;
-    text-align: center;
-    color: #06060F;
-  }
-  [data-theme="dark"] #live-page .hero-card__subtext { color: #fff; }
-
-  #live-page .hero-card__badge-wrap {
-    position: relative;
-    z-index: 2;
-    width: 120px;
-    height: 120px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-shrink: 0;
-  }
-
-  #live-page .hero-card__badge {
-    width: 120px;
-    height: 120px;
-    border-radius: 50%;
-    background: #fff;
-    border: 4px solid #004941;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-shrink: 0;
-  }
-
-  #live-page .hero-card__badge-inner {
-    width: 94px;
-    height: 94px;
-    border-radius: 50%;
-    background: transparent;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 40px;
     overflow: hidden;
   }
-  #live-page .hero-card__badge-inner img {
-    width: 100%;
-    height: 100%;
-    object-fit: contain;
+
+  #live-page .hero::before {
+    content: '';
+    position: absolute; inset: 0;
+    background-image:
+      linear-gradient(var(--grid) 1px, transparent 1px),
+      linear-gradient(90deg, var(--grid) 1px, transparent 1px);
+    background-size: 32px 32px;
+    pointer-events: none; z-index: 0;
   }
 
-  #live-page .hero-card__buttons {
-    position: relative;
-    z-index: 2;
-    display: flex;
-    gap: 16px;
-  }
-  #live-page .hero-card--mobile .hero-card__buttons {
-    width: 100%;
-    padding: 0 16px;
-    flex-direction: column;
-  }
-  #live-page .hero-card--mobile .hero-card__btn {
-    width: 100%;
+  #live-page .hero-title {
+    font-family: 'Zalando Sans Expanded', sans-serif;
+    font-weight: 900;
+    font-size: 52px;
+    line-height: 0.94;
+    letter-spacing: -0.02em;
+    margin-bottom: 24px;
+    position: relative; z-index: 1;
+    max-width: 100%;
   }
 
-  #live-page .hero-card__btn {
-    height: 44px;
-    border-radius: 12px;
-    font-family: 'DM Sans', sans-serif;
+  #live-page .hero-title .w1,
+  #live-page .hero-title .w3,
+  #live-page .hero-title .w4 { display: block; color: var(--text); transition: color 0.4s; }
+
+  #live-page .hero-title .w2 {
+    display: inline-block; width: fit-content;
+    background: linear-gradient(to right, #073EE3 0%, #FF4D4D 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  #live-page .hero-sub {
+    font-size: 16px;
+    color: var(--text2);
+    line-height: 1.65;
+    margin-bottom: 32px;
+    max-width: 100%;
+    position: relative; z-index: 1;
+    transition: color 0.4s;
+  }
+
+  #live-page .hero-cta {
+    display: inline-flex; align-items: center; gap: 12px;
+    font-size: 14px; font-weight: 600; color: var(--muted);
+    cursor: pointer; transition: color 0.2s;
+    position: relative; z-index: 1;
+  }
+
+  #live-page .arrow-btn {
+    width: 40px; height: 40px; border-radius: 50%;
+    background: var(--brand-fg);
+    display: flex; align-items: center; justify-content: center;
+    color: white; font-size: 16px;
+    transition: transform 0.2s;
+    box-shadow: 0 4px 16px rgba(7,62,227,0.3);
+  }
+
+  #live-page .hero-social-proof {
     font-size: 13px;
-    font-weight: 600;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    gap: 6px;
-    cursor: pointer;
-    border: 1.5px solid transparent;
-    padding: 0 20px;
-    text-decoration: none;
-    line-height: 1;
-    box-sizing: border-box;
-    transition: opacity 0.2s;
-  }
-  #live-page .hero-card__btn:hover { opacity: 0.85; }
-
-  #live-page .hero-card__btn--outline {
-    background: transparent;
-    border-color: #06060F;
-    color: #06060F;
-  }
-  [data-theme="dark"] #live-page .hero-card__btn--outline {
-    border-color: #fff;
-    color: #fff;
-  }
-
-  #live-page .hero-card__btn--filled {
-    background: #073EE3;
-    color: #fff;
-  }
-  [data-theme="dark"] #live-page .hero-card__btn--filled {
-    background: #5E86FF;
-  }
-
-  /* Desktop text/visual columns */
-  #live-page .hero-card__text {
-    position: relative;
-    z-index: 2;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 20px;
-    flex: 1 1 auto;
-    min-width: 0;
-  }
-  #live-page .hero-card--wide .hero-card__eyebrow,
-  #live-page .hero-card--wide .hero-card__subtext { text-align: left; }
-  #live-page .hero-card--wide .hero-card__headline {
-    text-align: left;
-    font-size: 80px;
-    line-height: 61px;
-    margin-bottom: 0;
-    word-break: normal;
-  }
-  #live-page .hero-card__visual {
-    position: relative;
-    z-index: 2;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex: 0 0 auto;
-    padding-right: 24px;
+    color: var(--muted);
+    margin-top: 20px;
+    position: relative; z-index: 1;
+    transition: color 0.4s;
   }
 
   #live-page .email-social-proof {
@@ -805,20 +600,9 @@ body {
 @media (min-width: 768px) {
 
   #live-page .real-topbar { padding: 20px 48px; }
-  #live-page .hero-slot { padding: 24px 48px 56px; }
-  /* Desktop: linear-gradient rectangle with a strong layer blur to soften
-     all four edges — matches the Figma hero rectangle (node 300:823). */
-  #live-page::before {
-    top: 248px;
-    height: 440px;
-    background: linear-gradient(270deg, rgba(44,203,136,0.80) 0%, rgba(2,142,83,0.80) 49.52%, rgba(44,203,136,0.80) 100%);
-    filter: blur(60px);
-  }
-  [data-theme="dark"] #live-page::before {
-    background: linear-gradient(270deg, rgba(9,99,61,0.80) 0%, rgba(4,73,44,0.80) 49.52%, rgba(9,99,61,0.80) 100%);
-  }
-  #live-page .hero-card--mobile { display: none; }
-  #live-page .hero-card--wide   { display: flex; }
+  #live-page .hero { padding: 80px 48px 72px; }
+  #live-page .hero-title { font-size: 80px; max-width: 640px; }
+  #live-page .hero-sub { font-size: 18px; max-width: 520px; margin-bottom: 40px; }
   #live-page .divider { margin: 0 48px; }
   #live-page .section { padding: 56px 48px; }
   #live-page .section-title { font-size: 40px; }
@@ -841,11 +625,11 @@ body {
 
   #live-page .page-content { max-width: 1280px; }
 
-  #live-page .hero-slot { padding: 32px 80px 72px; }
-  #live-page .hero-card--wide .hero-card__headline {
-    font-size: 110px;
-    line-height: 85px;
-  }
+  #live-page .hero { padding: 100px 80px 88px; }
+
+  #live-page .hero-title { font-size: 110px; max-width: 860px; }
+
+  #live-page .hero-sub { font-size: 20px; max-width: 580px; margin-bottom: 48px; }
 
   #live-page .divider { margin: 0 80px; }
 
@@ -1088,7 +872,7 @@ body {
       <a href="/blog" class="nav-link">Blog</a>
     </nav>
     <div class="nav-divider"></div>
-    <button class="theme-icon-btn" id="theme-icon-btn" onclick="toggleTheme()" aria-label="Toggle dark mode">
+    <button class="theme-icon-btn" id="theme-icon-btn" onclick="toggleThemeReal()" aria-label="Toggle dark mode">
       <svg id="icon-moon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
         <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
       </svg>
@@ -1134,82 +918,22 @@ body {
 
   <div class="page-content">
 
-    <!-- Hero — competition announcement card (Frauen-Bundesliga) -->
-    <div class="hero-slot" id="live-hero">
-
-      <!-- Mobile stack (up to 767px) -->
-      <div class="hero-card hero-card--mobile" data-sport="football">
-        <svg class="hero-card__noise" aria-hidden="true">
-          <filter id="hero-noise-mobile">
-            <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/>
-            <feColorMatrix type="saturate" values="0"/>
-          </filter>
-          <rect width="100%" height="100%" filter="url(#hero-noise-mobile)"/>
-        </svg>
-
-        <div class="hero-card__field-line hero-card__field-line--left" aria-hidden="true"></div>
-        <div class="hero-card__field-line hero-card__field-line--right" aria-hidden="true"></div>
-        <div class="hero-card__field-circle" aria-hidden="true"></div>
-
-        <div class="hero-card__eyebrow">We Welcome</div>
-
-        <div class="hero-card__crest-group">
-          <h1 class="hero-card__headline">FRAUENBUNDESLIGA</h1>
-          <div class="hero-card__badge-wrap">
-            <div class="hero-card__badge">
-              <div class="hero-card__badge-inner">
-                <img src="/assets/DFB_logo.svg" alt="Frauen-Bundesliga crest">
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="hero-card__subtext">14 teams · 182 matches · Kick off August 21</div>
-
-        <div class="hero-card__buttons">
-          <a class="hero-card__btn hero-card__btn--outline" href="/blog/frauen-bundesliga-2026-27-season-preview/">Read the Season Preview</a>
-          <button type="button" class="hero-card__btn hero-card__btn--filled" onclick="openFrauenBLModal()" aria-haspopup="dialog">
-            <span aria-hidden="true">+</span> Add to Calendar
-          </button>
-        </div>
+    <!-- Hero -->
+    <div class="hero" id="live-hero">
+      <div class="hero-title">
+        <span class="w1">Women's</span>
+        <span class="w2">Sports</span>
+        <span class="w3">On Your</span>
+        <span class="w4">Calendar.</span>
       </div>
-
-      <!-- Wide layout (768px+) -->
-      <div class="hero-card hero-card--wide" data-sport="football">
-        <svg class="hero-card__noise" aria-hidden="true">
-          <filter id="hero-noise-wide">
-            <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/>
-            <feColorMatrix type="saturate" values="0"/>
-          </filter>
-          <rect width="100%" height="100%" filter="url(#hero-noise-wide)"/>
-        </svg>
-
-        <div class="hero-card__field-line hero-card__field-line--left" aria-hidden="true"></div>
-        <div class="hero-card__field-line hero-card__field-line--right" aria-hidden="true"></div>
-        <div class="hero-card__field-circle" aria-hidden="true"></div>
-
-        <div class="hero-card__text">
-          <div class="hero-card__eyebrow">We Welcome</div>
-          <h1 class="hero-card__headline">FRAUEN<br>BUNDES<br>LIGA</h1>
-          <div class="hero-card__subtext">14 teams · 182 matches · Kick off August 21</div>
-          <div class="hero-card__buttons">
-            <a class="hero-card__btn hero-card__btn--outline" href="/blog/frauen-bundesliga-2026-27-season-preview/">Read the Season Preview</a>
-            <button type="button" class="hero-card__btn hero-card__btn--filled" onclick="openFrauenBLModal()" aria-haspopup="dialog">
-              <span aria-hidden="true">+</span> Add to Calendar
-            </button>
-          </div>
-        </div>
-
-        <div class="hero-card__visual">
-          <div class="hero-card__badge-wrap">
-            <div class="hero-card__badge">
-              <div class="hero-card__badge-inner">
-                <img src="/assets/DFB_logo.svg" alt="Frauen-Bundesliga crest">
-              </div>
-            </div>
-          </div>
-        </div>
+      <p class="hero-sub">
+        The fixtures were always happening. Now they live where you'll actually see them — in your calendar. Just pick your competition and add it to Google Calendar or Apple Calendar.
+      </p>
+      <div class="hero-cta" onclick="document.getElementById('live-feeds').scrollIntoView({behavior:'smooth'})">
+        <div class="arrow-btn">↓</div>
+        See the feeds
       </div>
+      <p class="hero-social-proof">Already followed by fans in New York, Madrid, Paris, Amsterdam and more.</p>
     </div>
 
     <div class="divider"></div>
@@ -1245,43 +969,7 @@ body {
           </div>
         </div>
 
-        <!-- 2. Liga F — season starts 29 Aug 2026 -->
-        <div class="feed-card" data-sport="football">
-          <div class="feed-header">
-            <div class="feed-icon">⚽</div>
-            <div class="feed-info">
-              <div class="feed-badge badge-live">Starts 29 August 2026</div>
-              <div class="feed-name">Liga F</div>
-              <div class="feed-meta">Football · Spain · 2026/27 season</div>
-            </div>
-          </div>
-          <div class="feed-divider"></div>
-          <div class="feed-actions">
-            <button class="btn-cal btn-choose-team" onclick="openLigaFModal()" aria-haspopup="dialog">
-              Add to Calendar
-            </button>
-          </div>
-        </div>
-
-        <!-- 3. FIBA Women's Basketball World Cup 2026 — group phase starts 4 Sep -->
-        <div class="feed-card" data-sport="basketball">
-          <div class="feed-header">
-            <div class="feed-icon">🏀</div>
-            <div class="feed-info">
-              <div class="feed-badge badge-live">Starts 4 September 2026</div>
-              <div class="feed-name">FIBA Women's World Cup</div>
-              <div class="feed-meta">Basketball · Berlin · 4–13 September 2026</div>
-            </div>
-          </div>
-          <div class="feed-divider"></div>
-          <div class="feed-actions">
-            <button class="btn-cal btn-choose-team" onclick="openFIBAModal()" aria-haspopup="dialog">
-              Add to Calendar
-            </button>
-          </div>
-        </div>
-
-        <!-- 5. WNBA — active season -->
+        <!-- 2. WNBA — active season -->
         <div class="feed-card" data-sport="basketball">
           <div class="feed-header">
             <div class="feed-icon">🏀</div>
@@ -1299,7 +987,7 @@ body {
           </div>
         </div>
 
-        <!-- 6. NWSL — active season -->
+        <!-- 3. NWSL — active season -->
         <div class="feed-card" data-sport="football">
           <div class="feed-header">
             <div class="feed-icon">⚽</div>
@@ -1317,7 +1005,7 @@ body {
           </div>
         </div>
 
-        <!-- 7. UCL Women — state derived from scores.json (ucl-women) -->
+        <!-- 4. UCL Women — state derived from scores.json (ucl-women) -->
         <div class="feed-card" id="ucl-feed-card" data-sport="football">
           <div class="feed-header">
             <div class="feed-icon">⚽</div>
@@ -1334,7 +1022,7 @@ body {
           </div>
         </div>
 
-        <!-- 8. ICC Women's T20 World Cup — tournament complete -->
+        <!-- 5. ICC Women's T20 World Cup — tournament complete -->
         <div class="feed-card" id="icc" data-sport="cricket">
           <div class="feed-header">
             <div class="feed-icon">🏏</div>
@@ -1351,7 +1039,7 @@ body {
           </div>
         </div>
 
-        <!-- 9. EuroLeague Women — off-season -->
+        <!-- 6. EuroLeague Women — off-season -->
         <div class="feed-card" data-sport="basketball">
           <div class="feed-header">
             <div class="feed-icon">🏀</div>
@@ -1423,21 +1111,14 @@ body {
 </div><!-- /live-page -->
 
 <script>
-function toggleTheme() {
+/* Real page toggle */
+function toggleThemeReal() {
   const h = document.documentElement;
   const isDark = h.getAttribute('data-theme') === 'dark';
-  const next = isDark ? 'light' : 'dark';
-  h.setAttribute('data-theme', next);
-  localStorage.setItem('theme', next);
+  h.setAttribute('data-theme', isDark ? 'light' : 'dark');
   document.getElementById('icon-moon').style.display = isDark ? '' : 'none';
   document.getElementById('icon-sun').style.display  = isDark ? 'none' : '';
-  if (typeof positionLabels === 'function') requestAnimationFrame(positionLabels);
 }
-(function(){
-  var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
-  document.getElementById('icon-moon').style.display = isDark ? 'none' : '';
-  document.getElementById('icon-sun').style.display  = isDark ? '' : 'none';
-})();
 
 /* GA4 calendar tracking — fires event then navigates after 300ms */
 function handleCalendarClick(e, url, competition, calendar) {
@@ -1804,7 +1485,7 @@ async function subscribeHer(emailId, leagueId, btn) {
    No new HTML, no new CSS, no new JS logic needed.
    ═══════════════════════════════════════════════════════════════════════════ */
 
-const BASE_URL  = 'herfixtures.com';
+const BASE_URL  = 'herfixtures.vercel.app';
 const CHECK_SVG = `<svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
 
 /* ── Team data ────────────────────────────────────────────────────────────── */
@@ -1876,30 +1557,6 @@ const ICC_CONFIG = {
   ]
 };
 
-const LIGA_F_CONFIG = {
-  leagueSlug:  'liga_f',
-  gaLabel:     'Liga F',
-  teams: [
-    { name: "All teams",      slug: "liga_f",                  emoji: "🇪🇸" },
-    { name: "Alavés",         slug: "liga_f_alaves",           logo: "https://a.espncdn.com/i/teamlogos/soccer/500/21378.png" },
-    { name: "Athletic Club",  slug: "liga_f_athletic_club",    logo: "https://a.espncdn.com/i/teamlogos/soccer/500/21372.png" },
-    { name: "Atlético Madrid",slug: "liga_f_atletico_madrid",  logo: "https://a.espncdn.com/i/teamlogos/soccer/500/20093.png" },
-    { name: "Barcelona",      slug: "liga_f_barcelona",        logo: "https://a.espncdn.com/i/teamlogos/soccer/500/20091.png" },
-    { name: "CD Tenerife",    slug: "liga_f_tenerife",         logo: "https://a.espncdn.com/i/teamlogos/soccer/500/131393.png" },
-    { name: "Deportivo",      slug: "liga_f_deportivo",        logo: "https://a.espncdn.com/i/teamlogos/soccer/500/21145.png" },
-    { name: "Dux Logroño",    slug: "liga_f_dux_logrono",      logo: "https://a.espncdn.com/i/teamlogos/soccer/500/21175.png" },
-    { name: "Eibar",          slug: "liga_f_eibar",            logo: "https://a.espncdn.com/i/teamlogos/soccer/500/21376.png" },
-    { name: "Espanyol",       slug: "liga_f_espanyol",         logo: "https://a.espncdn.com/i/teamlogos/soccer/500/21154.png" },
-    { name: "FC Badalona",    slug: "liga_f_badalona",         logo: "https://a.espncdn.com/i/teamlogos/soccer/500/21149.png" },
-    { name: "Granada",        slug: "liga_f_granada",          logo: "https://a.espncdn.com/i/teamlogos/soccer/500/21140.png" },
-    { name: "Madrid CFF",     slug: "liga_f_madrid_cff",       logo: "https://a.espncdn.com/i/teamlogos/soccer/500/21425.png" },
-    { name: "Real Madrid",    slug: "liga_f_real_madrid",      logo: "https://a.espncdn.com/i/teamlogos/soccer/500/21128.png" },
-    { name: "Real Sociedad",  slug: "liga_f_real_sociedad",    logo: "https://a.espncdn.com/i/teamlogos/soccer/500/21428.png" },
-    { name: "Sevilla",        slug: "liga_f_sevilla",          logo: "https://a.espncdn.com/i/teamlogos/soccer/500/21424.png" },
-    { name: "Valencia",       slug: "liga_f_valencia",         logo: "https://a.espncdn.com/i/teamlogos/soccer/500/21374.png" },
-  ]
-};
-
 const FRAUEN_BL_CONFIG = {
   leagueSlug:  'frauen_bundesliga',
   gaLabel:     'Frauen-Bundesliga',
@@ -1919,30 +1576,6 @@ const FRAUEN_BL_CONFIG = {
     { name: "VfB Stuttgart",          slug: "frauen_bl_stuttgart",      logo: "https://i.imgur.com/v0tkpNx.png" },
     { name: "1. FC Nürnberg",         slug: "frauen_bl_nuernberg",      logo: "https://upload.wikimedia.org/wikipedia/commons/f/fa/1._FC_Nürnberg_logo.svg" },
     { name: "1. FSV Mainz 05",        slug: "frauen_bl_mainz",          logo: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_Mainz_05.svg" },
-  ]
-};
-
-const FIBA_CONFIG = {
-  leagueSlug:  'fiba_womens_world_cup_2026',
-  gaLabel:     'FIBA WWC 2026',
-  teams: [
-    { name: "All matches",  slug: "fiba_womens_world_cup_2026", emoji: "🏀" },
-    { name: "Japan",        slug: "fiba_wwc_japan",        logo: "https://flagcdn.com/w80/jp.png" },
-    { name: "Mali",         slug: "fiba_wwc_mali",         logo: "https://flagcdn.com/w80/ml.png" },
-    { name: "Spain",        slug: "fiba_wwc_spain",        logo: "https://flagcdn.com/w80/es.png" },
-    { name: "Germany",      slug: "fiba_wwc_germany",      logo: "https://flagcdn.com/w80/de.png" },
-    { name: "Korea",        slug: "fiba_wwc_korea",        logo: "https://flagcdn.com/w80/kr.png" },
-    { name: "Nigeria",      slug: "fiba_wwc_nigeria",      logo: "https://flagcdn.com/w80/ng.png" },
-    { name: "Hungary",      slug: "fiba_wwc_hungary",      logo: "https://flagcdn.com/w80/hu.png" },
-    { name: "France",       slug: "fiba_wwc_france",       logo: "https://flagcdn.com/w80/fr.png" },
-    { name: "Australia",    slug: "fiba_wwc_australia",    logo: "https://flagcdn.com/w80/au.png" },
-    { name: "Puerto Rico",  slug: "fiba_wwc_puerto_rico",  logo: "https://flagcdn.com/w80/pr.png" },
-    { name: "Belgium",      slug: "fiba_wwc_belgium",      logo: "https://flagcdn.com/w80/be.png" },
-    { name: "Türkiye",      slug: "fiba_wwc_turkiye",      logo: "https://flagcdn.com/w80/tr.png" },
-    { name: "USA",          slug: "fiba_wwc_usa",          logo: "https://flagcdn.com/w80/us.png" },
-    { name: "China",        slug: "fiba_wwc_china",        logo: "https://flagcdn.com/w80/cn.png" },
-    { name: "Czechia",      slug: "fiba_wwc_czechia",      logo: "https://flagcdn.com/w80/cz.png" },
-    { name: "Italy",        slug: "fiba_wwc_italy",        logo: "https://flagcdn.com/w80/it.png" },
   ]
 };
 
@@ -2081,9 +1714,7 @@ document.addEventListener('keydown', e => { if (e.key === 'Escape') FeedModal.cl
 function openWNBAModal()     { FeedModal.open(WNBA_CONFIG);      }
 function openNWSLModal()     { FeedModal.open(NWSL_CONFIG);      }
 function openICCModal()      { FeedModal.open(ICC_CONFIG);       }
-function openLigaFModal()    { FeedModal.open(LIGA_F_CONFIG);    }
 function openFrauenBLModal() { FeedModal.open(FRAUEN_BL_CONFIG); }
-function openFIBAModal()     { FeedModal.open(FIBA_CONFIG);      }
 
 /* ── Sport filter pills ──────────────────────────────────────────────────── */
 (function () {
@@ -2422,8 +2053,8 @@ function updateUCLCard(data) {
   badge.className   = 'feed-badge badge-live';
   badge.textContent = 'Season in progress';
   actions.innerHTML =
-    `<button class="btn-cal" onclick="handleCalendarClick(event,'https://calendar.google.com/calendar/r?cid=webcal://herfixtures.com/womens_ucl.ics','UCL Women','google')">Add to Google</button>` +
-    `<button class="btn-cal" onclick="handleCalendarClick(event,'webcal://herfixtures.com/womens_ucl.ics','UCL Women','apple')">Add to Apple</button>`;
+    `<button class="btn-cal" onclick="handleCalendarClick(event,'https://calendar.google.com/calendar/r?cid=webcal://herfixtures.vercel.app/womens_ucl.ics','UCL Women','google')">Add to Google</button>` +
+    `<button class="btn-cal" onclick="handleCalendarClick(event,'webcal://herfixtures.vercel.app/womens_ucl.ics','UCL Women','apple')">Add to Apple</button>`;
 }
 
 fetch('/scores.json')
@@ -2432,6 +2063,12 @@ fetch('/scores.json')
   .catch(() => render(DEMO));
 
 /* ── Controls ─────────────────────────────────────────── */
+function toggleTheme() {
+  document.documentElement.setAttribute('data-theme',
+    document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark');
+  requestAnimationFrame(positionLabels);
+}
+
 function addLiveGame() {
   const d = JSON.parse(JSON.stringify(DEMO));
   d.competitions.wnba.livegame = [
@@ -2442,29 +2079,5 @@ function addLiveGame() {
 
 </script>
 
-<a href="https://smollaunch.com" target="_blank" rel="noopener">
-  <img src="https://smollaunch.com/badges/featured.svg" 
-       alt="Featured on Smol Launch" 
-       loading="lazy" width="250" height="60"
-       class="smol-badge-light" />
-  <img src="https://smollaunch.com/badges/featured-dark.svg" 
-       alt="Featured on Smol Launch" 
-       loading="lazy" width="250" height="60"
-       class="smol-badge-dark" />
-</a>
-
-<style>
-  .smol-badge-light { display: none; }
-  .smol-badge-dark  { display: block; }
-
-  @media (prefers-color-scheme: light) {
-    .smol-badge-light { display: block; }
-    .smol-badge-dark  { display: none; }
-  }
-</style>
-<script>
-window.si = window.si || function () { (window.siq = window.siq || []).push(arguments); };
-</script>
-<script defer src="/_vercel/speed-insights/script.js"></script>
 </body>
 </html>
