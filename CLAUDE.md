@@ -60,3 +60,24 @@ The `api/subscribe.js` endpoint only works when deployed to Vercel (it uses `pro
 | `BEEHIIV_API_KEY` | `api/subscribe.js` — email subscriptions |
 
 All three must be set in GitHub Actions secrets and (for the API function) in Vercel environment variables.
+
+## FIBA WWC 2026 feed
+
+Fixture data lives at `feeds/fiba-wwc-2026/fixtures.json` — this is a manually maintained JSON file, not fetched by any cron. It is not part of the V1/V2 feed list. After editing it, always re-run both generators locally before committing:
+
+```bash
+python3 generate_fiba_ics.py        # writes feeds/fiba-wwc-2026/all.ics
+python3 generate_fiba_ics_teams.py  # writes all 16 fiba_wwc_*.ics files
+```
+
+There is no cron refresh for this feed — it only goes live on merge to main.
+
+### Knockout-stage partially-known matchups
+
+When a round is scheduled before the previous round's winner is known, **never use placeholder text** like "Winner of Game X" or "TBD". Instead:
+
+- If one team is confirmed and the other is one of two, show both real possibilities using a slash: `Puerto Rico/China vs France`.
+- In `fixtures.json`, store the display string in `home` (or `away`) and list the candidate team names in a parallel `home_options` (or `away_options`) array so team feeds pick up the event correctly.
+- `generate_fiba_ics.py` requires no code change — the slash string passes all existing checks and triggers STATUS:CONFIRMED automatically.
+- `generate_fiba_ics_teams.py` matches via the `home_options`/`away_options` arrays.
+- Once the previous round finishes, follow up to replace the slash string and options array with the single confirmed team name and bump SEQUENCE.

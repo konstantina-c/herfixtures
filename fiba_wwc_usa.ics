@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:fiba-wwc-2026-003@herfixtures.com
-DTSTAMP:20260909T110659Z
+DTSTAMP:20260909T133643Z
 SEQUENCE:0
 DTSTART:20260904T121500Z
 DTEND:20260904T141500Z
@@ -29,7 +29,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-016@herfixtures.com
-DTSTAMP:20260909T110659Z
+DTSTAMP:20260909T133643Z
 SEQUENCE:0
 DTSTART:20260906T184500Z
 DTEND:20260906T204500Z
@@ -47,7 +47,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-023@herfixtures.com
-DTSTAMP:20260909T110659Z
+DTSTAMP:20260909T133643Z
 SEQUENCE:0
 DTSTART:20260907T184500Z
 DTEND:20260907T204500Z
@@ -57,6 +57,24 @@ DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup D - Game 23\nUSA
  rtist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-berl
  in-arena-sessions-3961330/?affiliate=b1w\n\nFixtures by HerFixtures.com - 
  Women's Sports on Your Calendar
+LOCATION:Berlin Arena\, Berlin\, Germany
+URL:https://www.fiba.basketball/en/events/fiba-womens-basketball-world-cup-
+ 2026/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wwc-2026-032@herfixtures.com
+DTSTAMP:20260909T133643Z
+SEQUENCE:1
+DTSTART:20260910T093000Z
+DTEND:20260910T113000Z
+SUMMARY:🏀 USA vs Hungary
+DESCRIPTION:FIBA Women's Basketball World Cup 2026\nQuarter-Final - Game 32
+ \nUSA vs Hungary\nOfficial tickets for this game day: https://www.eventim.
+ de/en/artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-20
+ 26-berlin-arena-tageskarten-4085168/?affiliate=b1w\n\nFixtures by HerFixtu
+ res.com - Women's Sports on Your Calendar
 LOCATION:Berlin Arena\, Berlin\, Germany
 URL:https://www.fiba.basketball/en/events/fiba-womens-basketball-world-cup-
  2026/games

@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:fiba-wwc-2026-008@herfixtures.com
-DTSTAMP:20260909T110659Z
+DTSTAMP:20260909T133643Z
 SEQUENCE:0
 DTSTART:20260904T190000Z
 DTEND:20260904T210000Z
@@ -29,7 +29,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-012@herfixtures.com
-DTSTAMP:20260909T110659Z
+DTSTAMP:20260909T133643Z
 SEQUENCE:0
 DTSTART:20260905T184500Z
 DTEND:20260905T204500Z
@@ -47,7 +47,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-019@herfixtures.com
-DTSTAMP:20260909T110659Z
+DTSTAMP:20260909T133643Z
 SEQUENCE:0
 DTSTART:20260907T123000Z
 DTEND:20260907T143000Z
@@ -57,6 +57,24 @@ DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup B - Game 19\nNige
  n/artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-b
  erlin-arena-sessions-3961330/?affiliate=b1w\n\nFixtures by HerFixtures.com
   - Women's Sports on Your Calendar
+LOCATION:Berlin Arena\, Berlin\, Germany
+URL:https://www.fiba.basketball/en/events/fiba-womens-basketball-world-cup-
+ 2026/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wwc-2026-030@herfixtures.com
+DTSTAMP:20260909T133643Z
+SEQUENCE:1
+DTSTART:20260910T123000Z
+DTEND:20260910T143000Z
+SUMMARY:🏀 Puerto Rico/China vs France
+DESCRIPTION:FIBA Women's Basketball World Cup 2026\nQuarter-Final - Game 30
+ \nPuerto Rico/China vs France\nOfficial tickets for this game day: https:/
+ /www.eventim.de/en/artist/fiba-basketball-world-cup/fiba-womens-basketball
+ -world-cup-2026-berlin-arena-tageskarten-4085168/?affiliate=b1w\n\nFixture
+ s by HerFixtures.com - Women's Sports on Your Calendar
 LOCATION:Berlin Arena\, Berlin\, Germany
 URL:https://www.fiba.basketball/en/events/fiba-womens-basketball-world-cup-
  2026/games

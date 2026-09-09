@@ -95,7 +95,9 @@ def build_team(data: dict, team_name: str, slug: str) -> tuple[str, int]:
 
     count = 0
     for fixture in data["fixtures"]:
-        if team_name not in (fixture["home"], fixture["away"]):
+        home_names = fixture.get("home_options", [fixture["home"]])
+        away_names = fixture.get("away_options", [fixture["away"]])
+        if team_name not in home_names + away_names:
             continue
         if fixture["time"] is None:
             continue

@@ -12,7 +12,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:fiba-wwc-2026-002@herfixtures.com
-DTSTAMP:20260909T110659Z
+DTSTAMP:20260909T133643Z
 SEQUENCE:0
 DTSTART:20260904T093000Z
 DTEND:20260904T113000Z
@@ -30,7 +30,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-015@herfixtures.com
-DTSTAMP:20260909T110659Z
+DTSTAMP:20260909T133643Z
 SEQUENCE:0
 DTSTART:20260906T154500Z
 DTEND:20260906T174500Z
@@ -48,7 +48,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-018@herfixtures.com
-DTSTAMP:20260909T110659Z
+DTSTAMP:20260909T133643Z
 SEQUENCE:0
 DTSTART:20260907T093000Z
 DTEND:20260907T113000Z
@@ -66,7 +66,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-027@herfixtures.com
-DTSTAMP:20260909T110659Z
+DTSTAMP:20260909T133643Z
 SEQUENCE:1
 DTSTART:20260909T154500Z
 DTEND:20260909T174500Z
@@ -76,6 +76,24 @@ DESCRIPTION:FIBA Women's Basketball World Cup 2026\nQualification to Quarte
  ay: https://www.eventim.de/en/artist/fiba-basketball-world-cup/fiba-womens
  -basketball-world-cup-2026-berlin-arena-tageskarten-4085168/?affiliate=b1w
  \n\nFixtures by HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:Berlin Arena\, Berlin\, Germany
+URL:https://www.fiba.basketball/en/events/fiba-womens-basketball-world-cup-
+ 2026/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wwc-2026-030@herfixtures.com
+DTSTAMP:20260909T133643Z
+SEQUENCE:1
+DTSTART:20260910T123000Z
+DTEND:20260910T143000Z
+SUMMARY:🏀 Puerto Rico/China vs France
+DESCRIPTION:FIBA Women's Basketball World Cup 2026\nQuarter-Final - Game 30
+ \nPuerto Rico/China vs France\nOfficial tickets for this game day: https:/
+ /www.eventim.de/en/artist/fiba-basketball-world-cup/fiba-womens-basketball
+ -world-cup-2026-berlin-arena-tageskarten-4085168/?affiliate=b1w\n\nFixture
+ s by HerFixtures.com - Women's Sports on Your Calendar
 LOCATION:Berlin Arena\, Berlin\, Germany
 URL:https://www.fiba.basketball/en/events/fiba-womens-basketball-world-cup-
  2026/games
