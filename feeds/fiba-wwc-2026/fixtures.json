@@ -59,7 +59,7 @@
     {"game": 27, "date": "2026-09-09", "time": "17:45", "stage": "qualification", "home": "Puerto Rico", "away": "China", "venue": "berlin-arena", "sequence": 1},
     {"game": 28, "date": "2026-09-09", "time": "20:45", "stage": "qualification", "home": "Italy", "away": "Australia", "venue": "berlin-arena", "sequence": 1},
     {"game": 29, "date": "2026-09-10", "time": "20:45", "stage": "quarter-final", "home": "Italy/Australia", "home_options": ["Italy", "Australia"], "away": "Spain", "venue": "berlin-arena", "sequence": 1},
-    {"game": 30, "date": "2026-09-10", "time": "14:30", "stage": "quarter-final", "home": "Puerto Rico/China", "home_options": ["Puerto Rico", "China"], "away": "France", "venue": "berlin-arena", "sequence": 1},
+    {"game": 30, "date": "2026-09-10", "time": "14:30", "stage": "quarter-final", "home": "China", "away": "France", "venue": "berlin-arena", "sequence": 2},
     {"game": 31, "date": "2026-09-10", "time": "17:45", "stage": "quarter-final", "home": "Belgium", "away": "Germany", "venue": "berlin-arena", "sequence": 1},
     {"game": 32, "date": "2026-09-10", "time": "11:30", "stage": "quarter-final", "home": "USA", "away": "Hungary", "venue": "berlin-arena", "sequence": 1},
     {"game": 33, "date": "2026-09-12", "time": null, "time_options": ["16:30", "20:00"], "stage": "semi-final", "home": "Winner Game 29", "away": "Winner Game 32", "venue": "berlin-arena"},
