@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T19:24:14Z",
+  "updated": "2026-09-09T20:48:55Z",
   "competitions": {
     "wnba": {
       "name": "WNBA",
@@ -477,23 +477,23 @@
             "score": 75
           },
           "winner": "away"
-        }
-      ],
-      "livegame": [
+        },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "Italy",
             "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png",
-            "score": 28
+            "score": 80
           },
           "away": {
             "name": "Australia",
             "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png",
-            "score": 38
-          }
+            "score": 82
+          },
+          "winner": "away"
         }
       ],
+      "livegame": [],
       "pregame": [
         {
           "league": "FIBA WWC 2026",
@@ -506,7 +506,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-10T18:45:00Z",
-          "kickoff_label": "in 23h"
+          "kickoff_label": "in 22h"
         },
         {
           "league": "FIBA WWC 2026",
@@ -519,7 +519,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-10T12:30:00Z",
-          "kickoff_label": "in 17h"
+          "kickoff_label": "in 16h"
         },
         {
           "league": "FIBA WWC 2026",
@@ -532,7 +532,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-10T15:45:00Z",
-          "kickoff_label": "in 20h"
+          "kickoff_label": "in 19h"
         },
         {
           "league": "FIBA WWC 2026",
@@ -545,7 +545,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-10T09:30:00Z",
-          "kickoff_label": "in 14h"
+          "kickoff_label": "in 13h"
         },
         {
           "league": "FIBA WWC 2026",
