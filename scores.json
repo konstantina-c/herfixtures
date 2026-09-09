@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T21:00:29Z",
+  "updated": "2026-09-09T11:07:03Z",
   "competitions": {
     "wnba": {
       "name": "WNBA",
@@ -15,7 +15,47 @@
       "slug": "nwsl",
       "postgame": [],
       "livegame": [],
-      "pregame": []
+      "pregame": [
+        {
+          "league": "NWSL",
+          "home": {
+            "name": "Gotham",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15364.png"
+          },
+          "away": {
+            "name": "Louisville",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20905.png"
+          },
+          "kickoff": "2026-09-11T22:30:00Z",
+          "kickoff_label": "Thursday @ 10:30pm"
+        },
+        {
+          "league": "NWSL",
+          "home": {
+            "name": "Orlando",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18206.png"
+          },
+          "away": {
+            "name": "Kansas City",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20907.png"
+          },
+          "kickoff": "2026-09-12T00:00:00Z",
+          "kickoff_label": "Friday @ midnight"
+        },
+        {
+          "league": "NWSL",
+          "home": {
+            "name": "Denver",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131563.png"
+          },
+          "away": {
+            "name": "Angel City",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21422.png"
+          },
+          "kickoff": "2026-09-12T02:00:00Z",
+          "kickoff_label": "Friday @ 2am"
+        }
+      ]
     },
     "icc-womens-t20": {
       "name": "ICC Women's T20 WC",
@@ -37,24 +77,23 @@
       "name": "Liga F",
       "sport": "football",
       "slug": "liga-f",
-      "postgame": [
+      "postgame": [],
+      "livegame": [],
+      "pregame": [
         {
           "league": "Liga F",
           "home": {
-            "name": "Real Sociedad",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21428.png",
-            "score": 2
+            "name": "Real Madrid",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21128.png"
           },
           "away": {
-            "name": "Granada",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21140.png",
-            "score": 3
+            "name": "Deportivo",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21145.png"
           },
-          "winner": "away"
+          "kickoff": "2026-09-11T18:45:00Z",
+          "kickoff_label": "Thursday @ 6:45pm"
         }
-      ],
-      "livegame": [],
-      "pregame": []
+      ]
     }
   }
 }
