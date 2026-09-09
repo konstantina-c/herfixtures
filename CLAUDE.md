@@ -63,12 +63,13 @@ All three must be set in GitHub Actions secrets and (for the API function) in Ve
 
 ## FIBA WWC 2026 feed
 
-Fixture data lives at `feeds/fiba-wwc-2026/fixtures.json` — this is a manually maintained JSON file, not fetched by any cron. It is not part of the V1/V2 feed list. After editing it, always re-run both generators locally before committing:
+Fixture data lives at `feeds/fiba-wwc-2026/fixtures.json` — this is a manually maintained JSON file, not fetched by any cron. It is not part of the V1/V2 feed list. After editing it, always re-run the fetch script locally before committing:
 
 ```bash
-python3 generate_fiba_ics.py        # writes feeds/fiba-wwc-2026/all.ics
-python3 generate_fiba_ics_teams.py  # writes all 16 fiba_wwc_*.ics files
+python3 fetch_fiba_scores.py        # fetches ESPN scores + writes all.ics + 16 team feeds + patches scores.json
 ```
+
+`generate_fiba_ics.py` and `generate_fiba_ics_teams.py` still exist as dev tools (no ESPN call, no scores) but are no longer in the cron — `fetch_fiba_scores.py` replaced them in Stage 3 (PR #25).
 
 There is no cron refresh for this feed — it only goes live on merge to main.
 

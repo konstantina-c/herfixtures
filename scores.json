@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T15:10:44Z",
+  "updated": "2026-09-09T19:24:14Z",
   "competitions": {
     "wnba": {
       "name": "WNBA",
@@ -463,36 +463,38 @@
             "score": 56
           },
           "winner": "home"
-        }
-      ],
-      "livegame": [],
-      "pregame": [
+        },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "Puerto Rico",
-            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/pur.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/pur.png",
+            "score": 72
           },
           "away": {
             "name": "China",
-            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/chn.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/chn.png",
+            "score": 75
           },
-          "kickoff": "2026-09-09T15:45:00Z",
-          "kickoff_label": "in 34 min"
-        },
+          "winner": "away"
+        }
+      ],
+      "livegame": [
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "Italy",
-            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png",
+            "score": 28
           },
           "away": {
             "name": "Australia",
-            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png"
-          },
-          "kickoff": "2026-09-09T18:45:00Z",
-          "kickoff_label": "in 4h"
-        },
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png",
+            "score": 38
+          }
+        }
+      ],
+      "pregame": [
         {
           "league": "FIBA WWC 2026",
           "home": {
@@ -504,12 +506,12 @@
             "logo": ""
           },
           "kickoff": "2026-09-10T18:45:00Z",
-          "kickoff_label": "Tomorrow @ 6:45pm"
+          "kickoff_label": "in 23h"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
-            "name": "Puerto Rico/China",
+            "name": "China",
             "logo": ""
           },
           "away": {
@@ -517,7 +519,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-10T12:30:00Z",
-          "kickoff_label": "in 21h"
+          "kickoff_label": "in 17h"
         },
         {
           "league": "FIBA WWC 2026",
@@ -530,7 +532,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-10T15:45:00Z",
-          "kickoff_label": "Tomorrow @ 3:45pm"
+          "kickoff_label": "in 20h"
         },
         {
           "league": "FIBA WWC 2026",
@@ -543,7 +545,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-10T09:30:00Z",
-          "kickoff_label": "in 18h"
+          "kickoff_label": "in 14h"
         },
         {
           "league": "FIBA WWC 2026",
