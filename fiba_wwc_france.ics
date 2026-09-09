@@ -11,11 +11,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:fiba-wwc-2026-008@herfixtures.com
-DTSTAMP:20260909T133643Z
+DTSTAMP:20260909T151043Z
 SEQUENCE:0
 DTSTART:20260904T190000Z
 DTEND:20260904T210000Z
-SUMMARY:🏀 Hungary vs France
+SUMMARY:🏀 Hungary vs France (53–99)
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup B - Game 8\nHunga
  ry vs France\nOfficial tickets for this session: https://www.eventim.de/en
  /artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-be
@@ -29,11 +29,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-012@herfixtures.com
-DTSTAMP:20260909T133643Z
+DTSTAMP:20260909T151043Z
 SEQUENCE:0
 DTSTART:20260905T184500Z
 DTEND:20260905T204500Z
-SUMMARY:🏀 France vs Korea
+SUMMARY:🏀 France vs Korea (95–69)
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup B - Game 12\nFran
  ce vs Korea\nOfficial tickets for this session: https://www.eventim.de/en/
  artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-max
@@ -47,11 +47,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-019@herfixtures.com
-DTSTAMP:20260909T133643Z
+DTSTAMP:20260909T151043Z
 SEQUENCE:0
 DTSTART:20260907T123000Z
 DTEND:20260907T143000Z
-SUMMARY:🏀 Nigeria vs France
+SUMMARY:🏀 Nigeria vs France (56–111)
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup B - Game 19\nNige
  ria vs France\nOfficial tickets for this session: https://www.eventim.de/e
  n/artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-b
@@ -65,7 +65,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-030@herfixtures.com
-DTSTAMP:20260909T133643Z
+DTSTAMP:20260909T151043Z
 SEQUENCE:1
 DTSTART:20260910T123000Z
 DTEND:20260910T143000Z

@@ -11,11 +11,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:fiba-wwc-2026-007@herfixtures.com
-DTSTAMP:20260909T133643Z
+DTSTAMP:20260909T151043Z
 SEQUENCE:0
 DTSTART:20260904T181500Z
 DTEND:20260904T201500Z
-SUMMARY:🏀 Czechia vs Italy
+SUMMARY:🏀 Czechia vs Italy (54–63)
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup D - Game 7\nCzech
  ia vs Italy\nOfficial tickets for this session: https://www.eventim.de/en/
  artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-max
@@ -29,11 +29,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-016@herfixtures.com
-DTSTAMP:20260909T133643Z
+DTSTAMP:20260909T151043Z
 SEQUENCE:0
 DTSTART:20260906T184500Z
 DTEND:20260906T204500Z
-SUMMARY:🏀 Italy vs USA
+SUMMARY:🏀 Italy vs USA (52–55)
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup D - Game 16\nItal
  y vs USA\nOfficial tickets for this session: https://www.eventim.de/en/art
  ist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-berlin
@@ -47,11 +47,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-024@herfixtures.com
-DTSTAMP:20260909T133643Z
+DTSTAMP:20260909T151043Z
 SEQUENCE:0
 DTSTART:20260907T184500Z
 DTEND:20260907T204500Z
-SUMMARY:🏀 Italy vs China
+SUMMARY:🏀 Italy vs China (51–71)
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup D - Game 24\nItal
  y vs China\nOfficial tickets for this session: https://www.eventim.de/en/a
  rtist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-max-
@@ -65,7 +65,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-028@herfixtures.com
-DTSTAMP:20260909T133643Z
+DTSTAMP:20260909T151043Z
 SEQUENCE:1
 DTSTART:20260909T184500Z
 DTEND:20260909T204500Z
@@ -83,7 +83,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-029@herfixtures.com
-DTSTAMP:20260909T133643Z
+DTSTAMP:20260909T151043Z
 SEQUENCE:1
 DTSTART:20260910T184500Z
 DTEND:20260910T204500Z

@@ -11,11 +11,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:fiba-wwc-2026-001@herfixtures.com
-DTSTAMP:20260909T133643Z
+DTSTAMP:20260909T151043Z
 SEQUENCE:0
 DTSTART:20260904T093000Z
 DTEND:20260904T113000Z
-SUMMARY:🏀 Japan vs Mali
+SUMMARY:🏀 Japan vs Mali (102–97)
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup A - Game 1\nJapan
   vs Mali\nOfficial tickets for this session: https://www.eventim.de/en/art
  ist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-berlin
@@ -29,11 +29,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-009@herfixtures.com
-DTSTAMP:20260909T133643Z
+DTSTAMP:20260909T151043Z
 SEQUENCE:0
 DTSTART:20260905T093000Z
 DTEND:20260905T113000Z
-SUMMARY:🏀 Mali vs Spain
+SUMMARY:🏀 Mali vs Spain (82–73)
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup A - Game 9\nMali 
  vs Spain\nOfficial tickets for this session: https://www.eventim.de/en/art
  ist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-max-sc
@@ -47,11 +47,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-021@herfixtures.com
-DTSTAMP:20260909T133643Z
+DTSTAMP:20260909T151043Z
 SEQUENCE:0
 DTSTART:20260907T155000Z
 DTEND:20260907T175000Z
-SUMMARY:🏀 Germany vs Mali
+SUMMARY:🏀 Germany vs Mali (83–58)
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup A - Game 21\nGerm
  any vs Mali\nOfficial tickets for this session: https://www.eventim.de/en/
  artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-ber

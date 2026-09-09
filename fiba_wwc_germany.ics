@@ -11,11 +11,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:fiba-wwc-2026-006@herfixtures.com
-DTSTAMP:20260909T133643Z
+DTSTAMP:20260909T151043Z
 SEQUENCE:0
 DTSTART:20260904T154500Z
 DTEND:20260904T174500Z
-SUMMARY:🏀 Spain vs Germany
+SUMMARY:🏀 Spain vs Germany (83–53)
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup A - Game 6\nSpain
   vs Germany\nOfficial tickets for this session: https://www.eventim.de/en/
  artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-ber
@@ -29,11 +29,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-011@herfixtures.com
-DTSTAMP:20260909T133643Z
+DTSTAMP:20260909T151043Z
 SEQUENCE:0
 DTSTART:20260905T160000Z
 DTEND:20260905T180000Z
-SUMMARY:🏀 Germany vs Japan
+SUMMARY:🏀 Germany vs Japan (74–58)
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup A - Game 11\nGerm
  any vs Japan\nOfficial tickets for this session: https://www.eventim.de/en
  /artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-ma
@@ -47,11 +47,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-021@herfixtures.com
-DTSTAMP:20260909T133643Z
+DTSTAMP:20260909T151043Z
 SEQUENCE:0
 DTSTART:20260907T155000Z
 DTEND:20260907T175000Z
-SUMMARY:🏀 Germany vs Mali
+SUMMARY:🏀 Germany vs Mali (83–58)
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup A - Game 21\nGerm
  any vs Mali\nOfficial tickets for this session: https://www.eventim.de/en/
  artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-ber
@@ -65,11 +65,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-026@herfixtures.com
-DTSTAMP:20260909T133643Z
+DTSTAMP:20260909T151043Z
 SEQUENCE:1
 DTSTART:20260908T184500Z
 DTEND:20260908T204500Z
-SUMMARY:🏀 Germany vs Korea
+SUMMARY:🏀 Germany vs Korea (94–56)
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nQualification to Quarte
  r-Finals - Game 26\nGermany vs Korea\nOfficial tickets for this game day: 
  https://www.eventim.de/en/artist/fiba-basketball-world-cup/fiba-womens-bas
@@ -83,7 +83,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-031@herfixtures.com
-DTSTAMP:20260909T133643Z
+DTSTAMP:20260909T151043Z
 SEQUENCE:1
 DTSTART:20260910T154500Z
 DTEND:20260910T174500Z
