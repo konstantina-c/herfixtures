@@ -58,12 +58,10 @@ jobs:
         run: python fetch_frauen_bundesliga.py
       - name: Run Frauen-Bundesliga team feeds script
         run: python fetch_frauen_bundesliga_teams.py
-      - name: Generate FIBA Women's World Cup 2026 feed
-        run: python generate_fiba_ics.py
-      - name: Generate FIBA Women's World Cup 2026 team feeds
-        run: python generate_fiba_ics_teams.py
       - name: Generate scores.json for strip
         run: python fetch_scores_json.py
+      - name: Fetch FIBA WWC 2026 scores and regenerate feeds
+        run: python fetch_fiba_scores.py
       - name: Generate sitemap
         run: python generate_sitemap.py
       - name: Commit and push updated feeds
