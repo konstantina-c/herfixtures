@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:fiba-wwc-2026-006@herfixtures.com
-DTSTAMP:20260909T204855Z
+DTSTAMP:20260910T064705Z
 SEQUENCE:0
 DTSTART:20260904T154500Z
 DTEND:20260904T174500Z
@@ -29,7 +29,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-009@herfixtures.com
-DTSTAMP:20260909T204855Z
+DTSTAMP:20260910T064705Z
 SEQUENCE:0
 DTSTART:20260905T093000Z
 DTEND:20260905T113000Z
@@ -47,7 +47,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-022@herfixtures.com
-DTSTAMP:20260909T204855Z
+DTSTAMP:20260910T064705Z
 SEQUENCE:0
 DTSTART:20260907T155000Z
 DTEND:20260907T175000Z
@@ -65,16 +65,16 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-029@herfixtures.com
-DTSTAMP:20260909T204855Z
-SEQUENCE:1
+DTSTAMP:20260910T064705Z
+SEQUENCE:2
 DTSTART:20260910T184500Z
 DTEND:20260910T204500Z
-SUMMARY:🏀 Italy/Australia vs Spain
+SUMMARY:🏀 Australia vs Spain
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nQuarter-Final - Game 29
- \nItaly/Australia vs Spain\nOfficial tickets for this game day: https://ww
- w.eventim.de/en/artist/fiba-basketball-world-cup/fiba-womens-basketball-wo
- rld-cup-2026-berlin-arena-tageskarten-4085168/?affiliate=b1w\n\nFixtures b
- y HerFixtures.com - Women's Sports on Your Calendar
+ \nAustralia vs Spain\nOfficial tickets for this game day: https://www.even
+ tim.de/en/artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cu
+ p-2026-berlin-arena-tageskarten-4085168/?affiliate=b1w\n\nFixtures by HerF
+ ixtures.com - Women's Sports on Your Calendar
 LOCATION:Berlin Arena\, Berlin\, Germany
 URL:https://www.fiba.basketball/en/events/fiba-womens-basketball-world-cup-
  2026/games
