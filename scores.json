@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T20:48:55Z",
+  "updated": "2026-09-10T06:47:06Z",
   "competitions": {
     "wnba": {
       "name": "WNBA",
@@ -498,54 +498,54 @@
         {
           "league": "FIBA WWC 2026",
           "home": {
-            "name": "Italy/Australia",
-            "logo": ""
+            "name": "Australia",
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png"
           },
           "away": {
             "name": "Spain",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png"
           },
           "kickoff": "2026-09-10T18:45:00Z",
-          "kickoff_label": "in 22h"
+          "kickoff_label": "in 12h"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "China",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/chn.png"
           },
           "away": {
             "name": "France",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png"
           },
           "kickoff": "2026-09-10T12:30:00Z",
-          "kickoff_label": "in 16h"
+          "kickoff_label": "in 6h"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "Belgium",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png"
           },
           "away": {
             "name": "Germany",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png"
           },
           "kickoff": "2026-09-10T15:45:00Z",
-          "kickoff_label": "in 19h"
+          "kickoff_label": "in 9h"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "USA",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png"
           },
           "away": {
             "name": "Hungary",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png"
           },
           "kickoff": "2026-09-10T09:30:00Z",
-          "kickoff_label": "in 13h"
+          "kickoff_label": "in 3h"
         },
         {
           "league": "FIBA WWC 2026",
