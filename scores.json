@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T20:43:50Z",
+  "updated": "2026-09-11T07:24:33Z",
   "competitions": {
     "wnba": {
       "name": "WNBA",
@@ -629,6 +629,32 @@
       ],
       "livegame": [],
       "pregame": [
+        {
+          "league": "FIBA WWC 2026",
+          "home": {
+            "name": "USA",
+            "logo": ""
+          },
+          "away": {
+            "name": "Spain",
+            "logo": ""
+          },
+          "kickoff": "2026-09-12T18:00:00Z",
+          "kickoff_label": "Tomorrow @ 6pm"
+        },
+        {
+          "league": "FIBA WWC 2026",
+          "home": {
+            "name": "France",
+            "logo": ""
+          },
+          "away": {
+            "name": "Germany",
+            "logo": ""
+          },
+          "kickoff": "2026-09-12T14:30:00Z",
+          "kickoff_label": "Tomorrow @ 2:30pm"
+        },
         {
           "league": "FIBA WWC 2026",
           "home": {
