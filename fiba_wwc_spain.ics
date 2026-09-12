@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:fiba-wwc-2026-006@herfixtures.com
-DTSTAMP:20260912T202557Z
+DTSTAMP:20260912T221951Z
 SEQUENCE:0
 DTSTART:20260904T154500Z
 DTEND:20260904T174500Z
@@ -29,7 +29,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-009@herfixtures.com
-DTSTAMP:20260912T202557Z
+DTSTAMP:20260912T221951Z
 SEQUENCE:0
 DTSTART:20260905T093000Z
 DTEND:20260905T113000Z
@@ -47,7 +47,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-022@herfixtures.com
-DTSTAMP:20260912T202557Z
+DTSTAMP:20260912T221951Z
 SEQUENCE:0
 DTSTART:20260907T155000Z
 DTEND:20260907T175000Z
@@ -65,7 +65,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-029@herfixtures.com
-DTSTAMP:20260912T202557Z
+DTSTAMP:20260912T221951Z
 SEQUENCE:2
 DTSTART:20260910T184500Z
 DTEND:20260910T204500Z
@@ -83,7 +83,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-033@herfixtures.com
-DTSTAMP:20260912T202557Z
+DTSTAMP:20260912T221951Z
 SEQUENCE:1
 DTSTART:20260912T180000Z
 DTEND:20260912T200000Z
@@ -93,6 +93,24 @@ DESCRIPTION:FIBA Women's Basketball World Cup 2026\nSemi-Final - Game 33\nU
  /artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-be
  rlin-arena-tageskarten-4085168/?affiliate=b1w\n\nFixtures by HerFixtures.c
  om - Women's Sports on Your Calendar
+LOCATION:Berlin Arena\, Berlin\, Germany
+URL:https://www.fiba.basketball/en/events/fiba-womens-basketball-world-cup-
+ 2026/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wwc-2026-035@herfixtures.com
+DTSTAMP:20260912T221951Z
+SEQUENCE:1
+DTSTART:20260913T143000Z
+DTEND:20260913T163000Z
+SUMMARY:🏀 Spain vs Germany
+DESCRIPTION:FIBA Women's Basketball World Cup 2026\nThird Place Game - Game
+  35\nSpain vs Germany\nOfficial tickets for this game day: https://www.eve
+ ntim.de/en/artist/fiba-basketball-world-cup/fiba-womens-basketball-world-c
+ up-2026-berlin-arena-tageskarten-4085168/?affiliate=b1w\n\nFixtures by Her
+ Fixtures.com - Women's Sports on Your Calendar
 LOCATION:Berlin Arena\, Berlin\, Germany
 URL:https://www.fiba.basketball/en/events/fiba-womens-basketball-world-cup-
  2026/games

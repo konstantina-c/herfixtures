@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T20:25:57Z",
+  "updated": "2026-09-12T22:19:51Z",
   "competitions": {
     "wnba": {
       "name": "WNBA",
@@ -70,7 +70,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21423.png"
           },
           "kickoff": "2026-09-12T22:30:00Z",
-          "kickoff_label": "in 2h"
+          "kickoff_label": "in 10 min"
         },
         {
           "league": "NWSL",
@@ -83,7 +83,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15363.png"
           },
           "kickoff": "2026-09-13T00:00:00Z",
-          "kickoff_label": "in 4h"
+          "kickoff_label": "in 2h"
         },
         {
           "league": "NWSL",
@@ -96,7 +96,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17346.png"
           },
           "kickoff": "2026-09-13T00:45:00Z",
-          "kickoff_label": "in 4h"
+          "kickoff_label": "in 2h"
         },
         {
           "league": "NWSL",
@@ -109,7 +109,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15365.png"
           },
           "kickoff": "2026-09-13T17:00:00Z",
-          "kickoff_label": "in 21h"
+          "kickoff_label": "in 19h"
         },
         {
           "league": "NWSL",
@@ -217,7 +217,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21378.png"
           },
           "kickoff": "2026-09-13T10:00:00Z",
-          "kickoff_label": "in 14h"
+          "kickoff_label": "in 12h"
         },
         {
           "league": "Liga F",
@@ -230,7 +230,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21428.png"
           },
           "kickoff": "2026-09-13T10:00:00Z",
-          "kickoff_label": "in 14h"
+          "kickoff_label": "in 12h"
         },
         {
           "league": "Liga F",
@@ -243,7 +243,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21175.png"
           },
           "kickoff": "2026-09-13T15:00:00Z",
-          "kickoff_label": "in 19h"
+          "kickoff_label": "in 17h"
         },
         {
           "league": "Liga F",
@@ -256,7 +256,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21376.png"
           },
           "kickoff": "2026-09-13T17:30:00Z",
-          "kickoff_label": "in 21h"
+          "kickoff_label": "in 19h"
         }
       ]
     },
@@ -747,28 +747,28 @@
         {
           "league": "FIBA WWC 2026",
           "home": {
-            "name": "Loser Game 33",
+            "name": "Spain",
             "logo": ""
           },
           "away": {
-            "name": "Loser Game 34",
+            "name": "Germany",
             "logo": ""
           },
           "kickoff": "2026-09-13T14:30:00Z",
-          "kickoff_label": "in 18h"
+          "kickoff_label": "in 16h"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
-            "name": "Winner Game 33",
+            "name": "USA",
             "logo": ""
           },
           "away": {
-            "name": "Winner Game 34",
+            "name": "France",
             "logo": ""
           },
           "kickoff": "2026-09-13T18:00:00Z",
-          "kickoff_label": "in 22h"
+          "kickoff_label": "in 20h"
         }
       ]
     }
