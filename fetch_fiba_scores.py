@@ -55,7 +55,7 @@ FIBA_TEAMS = [
 # ---------------------------------------------------------------------------
 
 def escape(value: str) -> str:
-    return value.replace("\\\\", "\\\\\\\\").replace(";", "\\\\;").replace(",", "\\\\,").replace("\\n", "\\\\n")
+    return value.replace("\\", "\\\\").replace(";", "\\;").replace(",", "\\,").replace("\n", "\\n")
 
 
 def fold(line: str) -> list[str]:
@@ -259,7 +259,7 @@ def _build_event(fixture: dict, espn: dict, competition: dict, tz: ZoneInfo,
 
 
 def _ics_header(lines: list[str]) -> str:
-    return "\\r\\n".join(part for line in lines for part in fold(line)) + "\\r\\n"
+    return "\r\n".join(part for line in lines for part in fold(line)) + "\r\n"
 
 
 def build_all_ics(data: dict, espn: dict) -> tuple[str, list[int], int]:
