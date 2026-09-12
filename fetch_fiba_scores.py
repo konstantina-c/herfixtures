@@ -21,6 +21,7 @@ ALL_ICS_FILE    = ROOT / "feeds" / "fiba-wwc-2026" / "all.ics"
 SCORES_JSON     = ROOT / "scores.json"
 ESPN_BASE       = "https://site.api.espn.com/apis/site/v2/sports/basketball/fiba"
 TOURNAMENT_START = "20260904"
+BERLIN          = ZoneInfo("Europe/Berlin")
 DTSTAMP         = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
 
 # ESPN shortDisplayName → fixtures.json team name (only the two mismatches)
@@ -54,7 +55,7 @@ FIBA_TEAMS = [
 # ---------------------------------------------------------------------------
 
 def escape(value: str) -> str:
-    return value.replace("\\", "\\\\").replace(";", "\\;").replace(",", "\\,").replace("\n", "\\n")
+    return value.replace("\\\\", "\\\\\\\\").replace(";", "\\\\;").replace(",", "\\\\,").replace("\\n", "\\\\n")
 
 
 def fold(line: str) -> list[str]:
@@ -110,15 +111,18 @@ def is_placeholder(fixture: dict) -> bool:
 # ESPN data fetch
 # ---------------------------------------------------------------------------
 
-def fetch_espn() -> dict[frozenset, dict]:
+def fetch_espn() -> dict[frozenset, list[dict]]:
     """
-    Returns dict keyed by frozenset{fixture_name_a, fixture_name_b}:
+    Returns dict keyed by frozenset{fixture_name_a, fixture_name_b} → list of:
       {
         "date": "2026-09-04",
         "state": "post" | "in" | "pre",
         "completed": bool,
         "teams": {fixture_name: {"score": int, "logo": str}},
       }
+
+    A pair can meet more than once (a group-stage game and a knockout rematch),
+    so every meeting is kept and callers match on date via match_result().
     """
     today = datetime.now(timezone.utc).strftime("%Y%m%d")
     try:
@@ -133,7 +137,7 @@ def fetch_espn() -> dict[frozenset, dict]:
         print(f"  ⚠️  ESPN fetch failed — feeds will regenerate without scores: {e}")
         return {}
 
-    results: dict[frozenset, dict] = {}
+    results: dict[frozenset, list[dict]] = {}
     for event in events:
         comp   = event["competitions"][0]
         status = event["status"]["type"]
@@ -154,26 +158,53 @@ def fetch_espn() -> dict[frozenset, dict]:
             }
 
         key = frozenset(teams.keys())
-        results[key] = {
+        results.setdefault(key, []).append({
             "date":      event.get("date", "")[:10],
             "state":     state,
             "completed": status.get("completed", False),
             "teams":     teams,
-        }
+        })
 
     return results
 
 
-def lookup_score(fixture: dict, espn: dict) -> tuple[int, int] | None:
-    """Return (home_score, away_score) if the game is final, else None."""
+def fixture_utc_date(fixture: dict) -> str:
+    """The fixture's tip-off date in UTC, to compare against an ESPN event date."""
+    start_local = datetime.fromisoformat(
+        f"{fixture['date']}T{fixture['time']}:00"
+    ).replace(tzinfo=BERLIN)
+    return start_local.astimezone(timezone.utc).strftime("%Y-%m-%d")
+
+
+def match_result(fixture: dict, espn: dict) -> tuple[dict, str, str] | None:
+    """
+    Find the ESPN meeting that is *this* fixture, returning (result, home, away)
+    where home/away are the matched candidate names.
+
+    Two teams can meet twice (e.g. a group game and the third-place rematch), so
+    the meeting is identified by date as well as by the pair of teams — otherwise
+    a rematch would inherit the earlier meeting's score.
+    """
     home_cands = fixture.get("home_options", [fixture["home"]])
     away_cands = fixture.get("away_options", [fixture["away"]])
+    target = fixture_utc_date(fixture)
     for h in home_cands:
         for a in away_cands:
-            result = espn.get(frozenset({h, a}))
-            if result and result["state"] == "post" and result["completed"]:
-                t = result["teams"]
-                return t.get(h, {}).get("score", 0), t.get(a, {}).get("score", 0)
+            for result in espn.get(frozenset({h, a}), []):
+                if result["date"] == target:
+                    return result, h, a
+    return None
+
+
+def lookup_score(fixture: dict, espn: dict) -> tuple[int, int] | None:
+    """Return (home_score, away_score) if the game is final, else None."""
+    matched = match_result(fixture, espn)
+    if not matched:
+        return None
+    result, h, a = matched
+    if result["state"] == "post" and result["completed"]:
+        t = result["teams"]
+        return t.get(h, {}).get("score", 0), t.get(a, {}).get("score", 0)
     return None
 
 
@@ -228,7 +259,7 @@ def _build_event(fixture: dict, espn: dict, competition: dict, tz: ZoneInfo,
 
 
 def _ics_header(lines: list[str]) -> str:
-    return "\r\n".join(part for line in lines for part in fold(line)) + "\r\n"
+    return "\\r\\n".join(part for line in lines for part in fold(line)) + "\\r\\n"
 
 
 def build_all_ics(data: dict, espn: dict) -> tuple[str, list[int], int]:
@@ -347,16 +378,10 @@ def build_scores_entry(data: dict, espn: dict) -> dict:
         home_cands   = fixture.get("home_options", [fixture["home"]])
         away_cands   = fixture.get("away_options", [fixture["away"]])
 
-        # Locate ESPN result for this fixture
-        espn_result: dict | None = None
-        for h in home_cands:
-            for a in away_cands:
-                r = espn.get(frozenset({h, a}))
-                if r:
-                    espn_result = r
-                    break
-            if espn_result:
-                break
+        # Locate ESPN result for this fixture (date-matched, so a rematch of the
+        # same pair does not pick up the earlier meeting)
+        matched = match_result(fixture, espn)
+        espn_result: dict | None = matched[0] if matched else None
 
         start_local = datetime.fromisoformat(
             f"{fixture['date']}T{fixture['time']}:00"
@@ -435,9 +460,10 @@ def main() -> None:
 
     print("Fetching FIBA WWC 2026 scores from ESPN...")
     espn = fetch_espn()
-    n_post = sum(1 for v in espn.values() if v["state"] == "post")
-    n_live = sum(1 for v in espn.values() if v["state"] == "in")
-    n_pre  = sum(1 for v in espn.values() if v["state"] == "pre")
+    meetings = [r for results in espn.values() for r in results]
+    n_post = sum(1 for v in meetings if v["state"] == "post")
+    n_live = sum(1 for v in meetings if v["state"] == "in")
+    n_pre  = sum(1 for v in meetings if v["state"] == "pre")
     print(f"  ESPN: {n_post} completed, {n_live} live, {n_pre} upcoming")
 
     # Combined feed
