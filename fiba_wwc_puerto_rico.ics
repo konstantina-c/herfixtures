@@ -12,11 +12,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:fiba-wwc-2026-002@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:0
 DTSTART:20260904T093000Z
 DTEND:20260904T113000Z
-SUMMARY:🏀 Australia vs Puerto Rico (70–54)
+SUMMARY:🏀 Australia vs Puerto Rico
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup C - Game 2\nAustr
  alia vs Puerto Rico\nOfficial tickets for this session: https://www.eventi
  m.de/en/artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-
@@ -30,11 +30,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-015@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:0
 DTSTART:20260906T154500Z
 DTEND:20260906T174500Z
-SUMMARY:🏀 Puerto Rico vs Belgium (64–76)
+SUMMARY:🏀 Puerto Rico vs Belgium
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup C - Game 15\nPuer
  to Rico vs Belgium\nOfficial tickets for this session: https://www.eventim
  .de/en/artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2
@@ -48,11 +48,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-018@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:0
 DTSTART:20260907T093000Z
 DTEND:20260907T113000Z
-SUMMARY:🏀 Puerto Rico vs Türkiye (75–71)
+SUMMARY:🏀 Puerto Rico vs Türkiye
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup C - Game 18\nPuer
  to Rico vs Türkiye\nOfficial tickets for this session: https://www.eventi
  m.de/en/artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-
@@ -66,11 +66,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-027@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:1
 DTSTART:20260909T154500Z
 DTEND:20260909T174500Z
-SUMMARY:🏀 Puerto Rico vs China (72–75)
+SUMMARY:🏀 Puerto Rico vs China
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nQualification to Quarte
  r-Finals - Game 27\nPuerto Rico vs China\nOfficial tickets for this game d
  ay: https://www.eventim.de/en/artist/fiba-basketball-world-cup/fiba-womens

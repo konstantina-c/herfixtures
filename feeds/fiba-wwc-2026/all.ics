@@ -11,11 +11,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:fiba-wwc-2026-001@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:0
 DTSTART:20260904T093000Z
 DTEND:20260904T113000Z
-SUMMARY:🏀 Japan vs Mali (102–97)
+SUMMARY:🏀 Japan vs Mali
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup A - Game 1\nJapan
   vs Mali\nOfficial tickets for this session: https://www.eventim.de/en/art
  ist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-berlin
@@ -29,11 +29,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-002@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:0
 DTSTART:20260904T093000Z
 DTEND:20260904T113000Z
-SUMMARY:🏀 Australia vs Puerto Rico (70–54)
+SUMMARY:🏀 Australia vs Puerto Rico
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup C - Game 2\nAustr
  alia vs Puerto Rico\nOfficial tickets for this session: https://www.eventi
  m.de/en/artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-
@@ -47,11 +47,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-003@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:0
 DTSTART:20260904T121500Z
 DTEND:20260904T141500Z
-SUMMARY:🏀 USA vs China (94–61)
+SUMMARY:🏀 USA vs China
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup D - Game 3\nUSA v
  s China\nOfficial tickets for this session: https://www.eventim.de/en/arti
  st/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-max-sch
@@ -65,11 +65,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-004@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:0
 DTSTART:20260904T123000Z
 DTEND:20260904T143000Z
-SUMMARY:🏀 Korea vs Nigeria (99–81)
+SUMMARY:🏀 Korea vs Nigeria
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup B - Game 4\nKorea
   vs Nigeria\nOfficial tickets for this session: https://www.eventim.de/en/
  artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-ber
@@ -83,11 +83,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-005@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:0
 DTSTART:20260904T153000Z
 DTEND:20260904T173000Z
-SUMMARY:🏀 Belgium vs Türkiye (89–75)
+SUMMARY:🏀 Belgium vs Türkiye
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup C - Game 5\nBelgi
  um vs Türkiye\nOfficial tickets for this session: https://www.eventim.de/
  en/artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-
@@ -101,11 +101,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-006@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:0
 DTSTART:20260904T154500Z
 DTEND:20260904T174500Z
-SUMMARY:🏀 Spain vs Germany (83–53)
+SUMMARY:🏀 Spain vs Germany
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup A - Game 6\nSpain
   vs Germany\nOfficial tickets for this session: https://www.eventim.de/en/
  artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-ber
@@ -119,11 +119,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-007@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:0
 DTSTART:20260904T181500Z
 DTEND:20260904T201500Z
-SUMMARY:🏀 Czechia vs Italy (54–63)
+SUMMARY:🏀 Czechia vs Italy
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup D - Game 7\nCzech
  ia vs Italy\nOfficial tickets for this session: https://www.eventim.de/en/
  artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-max
@@ -137,11 +137,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-008@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:0
 DTSTART:20260904T190000Z
 DTEND:20260904T210000Z
-SUMMARY:🏀 Hungary vs France (53–99)
+SUMMARY:🏀 Hungary vs France
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup B - Game 8\nHunga
  ry vs France\nOfficial tickets for this session: https://www.eventim.de/en
  /artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-be
@@ -155,11 +155,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-009@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:0
 DTSTART:20260905T093000Z
 DTEND:20260905T113000Z
-SUMMARY:🏀 Mali vs Spain (82–73)
+SUMMARY:🏀 Mali vs Spain
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup A - Game 9\nMali 
  vs Spain\nOfficial tickets for this session: https://www.eventim.de/en/art
  ist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-max-sc
@@ -173,11 +173,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-010@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:0
 DTSTART:20260905T121500Z
 DTEND:20260905T141500Z
-SUMMARY:🏀 Nigeria vs Hungary (67–71)
+SUMMARY:🏀 Nigeria vs Hungary
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup B - Game 10\nNige
  ria vs Hungary\nOfficial tickets for this session: https://www.eventim.de/
  en/artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-
@@ -191,11 +191,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-011@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:0
 DTSTART:20260905T160000Z
 DTEND:20260905T180000Z
-SUMMARY:🏀 Germany vs Japan (74–58)
+SUMMARY:🏀 Germany vs Japan
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup A - Game 11\nGerm
  any vs Japan\nOfficial tickets for this session: https://www.eventim.de/en
  /artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-ma
@@ -209,11 +209,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-012@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:0
 DTSTART:20260905T184500Z
 DTEND:20260905T204500Z
-SUMMARY:🏀 France vs Korea (95–69)
+SUMMARY:🏀 France vs Korea
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup B - Game 12\nFran
  ce vs Korea\nOfficial tickets for this session: https://www.eventim.de/en/
  artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-max
@@ -227,11 +227,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-013@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:0
 DTSTART:20260906T093000Z
 DTEND:20260906T113000Z
-SUMMARY:🏀 Türkiye vs Australia (71–87)
+SUMMARY:🏀 Türkiye vs Australia
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup C - Game 13\nTür
  kiye vs Australia\nOfficial tickets for this session: https://www.eventim.
  de/en/artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-20
@@ -245,11 +245,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-014@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:0
 DTSTART:20260906T123000Z
 DTEND:20260906T143000Z
-SUMMARY:🏀 China vs Czechia (74–70)
+SUMMARY:🏀 China vs Czechia
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup D - Game 14\nChin
  a vs Czechia\nOfficial tickets for this session: https://www.eventim.de/en
  /artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-be
@@ -263,11 +263,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-015@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:0
 DTSTART:20260906T154500Z
 DTEND:20260906T174500Z
-SUMMARY:🏀 Puerto Rico vs Belgium (64–76)
+SUMMARY:🏀 Puerto Rico vs Belgium
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup C - Game 15\nPuer
  to Rico vs Belgium\nOfficial tickets for this session: https://www.eventim
  .de/en/artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2
@@ -281,11 +281,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-016@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:0
 DTSTART:20260906T184500Z
 DTEND:20260906T204500Z
-SUMMARY:🏀 Italy vs USA (52–55)
+SUMMARY:🏀 Italy vs USA
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup D - Game 16\nItal
  y vs USA\nOfficial tickets for this session: https://www.eventim.de/en/art
  ist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-berlin
@@ -299,11 +299,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-017@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:0
 DTSTART:20260907T093000Z
 DTEND:20260907T113000Z
-SUMMARY:🏀 Belgium vs Australia (80–68)
+SUMMARY:🏀 Belgium vs Australia
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup C - Game 17\nBelg
  ium vs Australia\nOfficial tickets for this session: https://www.eventim.d
  e/en/artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-202
@@ -317,11 +317,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-018@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:0
 DTSTART:20260907T093000Z
 DTEND:20260907T113000Z
-SUMMARY:🏀 Puerto Rico vs Türkiye (75–71)
+SUMMARY:🏀 Puerto Rico vs Türkiye
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup C - Game 18\nPuer
  to Rico vs Türkiye\nOfficial tickets for this session: https://www.eventi
  m.de/en/artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-
@@ -335,11 +335,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-019@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:0
 DTSTART:20260907T123000Z
 DTEND:20260907T143000Z
-SUMMARY:🏀 Nigeria vs France (56–111)
+SUMMARY:🏀 Nigeria vs France
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup B - Game 19\nNige
  ria vs France\nOfficial tickets for this session: https://www.eventim.de/e
  n/artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-b
@@ -353,11 +353,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-020@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:0
 DTSTART:20260907T123000Z
 DTEND:20260907T143000Z
-SUMMARY:🏀 Hungary vs Korea (82–73)
+SUMMARY:🏀 Hungary vs Korea
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup B - Game 20\nHung
  ary vs Korea\nOfficial tickets for this session: https://www.eventim.de/en
  /artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-ma
@@ -371,11 +371,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-021@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:0
 DTSTART:20260907T155000Z
 DTEND:20260907T175000Z
-SUMMARY:🏀 Germany vs Mali (83–58)
+SUMMARY:🏀 Germany vs Mali
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup A - Game 21\nGerm
  any vs Mali\nOfficial tickets for this session: https://www.eventim.de/en/
  artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-ber
@@ -389,11 +389,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-022@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:0
 DTSTART:20260907T155000Z
 DTEND:20260907T175000Z
-SUMMARY:🏀 Japan vs Spain (59–79)
+SUMMARY:🏀 Japan vs Spain
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup A - Game 22\nJapa
  n vs Spain\nOfficial tickets for this session: https://www.eventim.de/en/a
  rtist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-max-
@@ -407,11 +407,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-023@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:0
 DTSTART:20260907T184500Z
 DTEND:20260907T204500Z
-SUMMARY:🏀 USA vs Czechia (105–64)
+SUMMARY:🏀 USA vs Czechia
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup D - Game 23\nUSA 
  vs Czechia\nOfficial tickets for this session: https://www.eventim.de/en/a
  rtist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-berl
@@ -425,11 +425,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-024@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:0
 DTSTART:20260907T184500Z
 DTEND:20260907T204500Z
-SUMMARY:🏀 Italy vs China (51–71)
+SUMMARY:🏀 Italy vs China
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup D - Game 24\nItal
  y vs China\nOfficial tickets for this session: https://www.eventim.de/en/a
  rtist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-max-
@@ -443,11 +443,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-025@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:1
 DTSTART:20260908T154500Z
 DTEND:20260908T174500Z
-SUMMARY:🏀 Hungary vs Japan (84–63)
+SUMMARY:🏀 Hungary vs Japan
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nQualification to Quarte
  r-Finals - Game 25\nHungary vs Japan\nOfficial tickets for this game day: 
  https://www.eventim.de/en/artist/fiba-basketball-world-cup/fiba-womens-bas
@@ -461,11 +461,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-026@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:1
 DTSTART:20260908T184500Z
 DTEND:20260908T204500Z
-SUMMARY:🏀 Germany vs Korea (94–56)
+SUMMARY:🏀 Germany vs Korea
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nQualification to Quarte
  r-Finals - Game 26\nGermany vs Korea\nOfficial tickets for this game day: 
  https://www.eventim.de/en/artist/fiba-basketball-world-cup/fiba-womens-bas
@@ -479,11 +479,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-027@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:1
 DTSTART:20260909T154500Z
 DTEND:20260909T174500Z
-SUMMARY:🏀 Puerto Rico vs China (72–75)
+SUMMARY:🏀 Puerto Rico vs China
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nQualification to Quarte
  r-Finals - Game 27\nPuerto Rico vs China\nOfficial tickets for this game d
  ay: https://www.eventim.de/en/artist/fiba-basketball-world-cup/fiba-womens
@@ -497,11 +497,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-028@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:1
 DTSTART:20260909T184500Z
 DTEND:20260909T204500Z
-SUMMARY:🏀 Italy vs Australia (80–82)
+SUMMARY:🏀 Italy vs Australia
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nQualification to Quarte
  r-Finals - Game 28\nItaly vs Australia\nOfficial tickets for this game day
  : https://www.eventim.de/en/artist/fiba-basketball-world-cup/fiba-womens-b
@@ -515,11 +515,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-029@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:2
 DTSTART:20260910T184500Z
 DTEND:20260910T204500Z
-SUMMARY:🏀 Australia vs Spain (66–89)
+SUMMARY:🏀 Australia vs Spain
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nQuarter-Final - Game 29
  \nAustralia vs Spain\nOfficial tickets for this game day: https://www.even
  tim.de/en/artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cu
@@ -533,11 +533,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-030@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:2
 DTSTART:20260910T123000Z
 DTEND:20260910T143000Z
-SUMMARY:🏀 China vs France (61–90)
+SUMMARY:🏀 China vs France
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nQuarter-Final - Game 30
  \nChina vs France\nOfficial tickets for this game day: https://www.eventim
  .de/en/artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2
@@ -551,11 +551,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-031@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:1
 DTSTART:20260910T154500Z
 DTEND:20260910T174500Z
-SUMMARY:🏀 Belgium vs Germany (74–93)
+SUMMARY:🏀 Belgium vs Germany
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nQuarter-Final - Game 31
  \nBelgium vs Germany\nOfficial tickets for this game day: https://www.even
  tim.de/en/artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cu
@@ -569,11 +569,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-032@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:1
 DTSTART:20260910T093000Z
 DTEND:20260910T113000Z
-SUMMARY:🏀 USA vs Hungary (108–56)
+SUMMARY:🏀 USA vs Hungary
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nQuarter-Final - Game 32
  \nUSA vs Hungary\nOfficial tickets for this game day: https://www.eventim.
  de/en/artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-20
@@ -587,11 +587,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-033@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:1
 DTSTART:20260912T180000Z
 DTEND:20260912T200000Z
-SUMMARY:🏀 USA vs Spain (76–66)
+SUMMARY:🏀 USA vs Spain
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nSemi-Final - Game 33\nU
  SA vs Spain\nOfficial tickets for this game day: https://www.eventim.de/en
  /artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-be
@@ -605,11 +605,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-034@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:1
 DTSTART:20260912T143000Z
 DTEND:20260912T163000Z
-SUMMARY:🏀 France vs Germany (86–64)
+SUMMARY:🏀 France vs Germany
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nSemi-Final - Game 34\nF
  rance vs Germany\nOfficial tickets for this game day: https://www.eventim.
  de/en/artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-20
@@ -623,11 +623,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-035@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:1
 DTSTART:20260913T143000Z
 DTEND:20260913T163000Z
-SUMMARY:🏀 Spain vs Germany (81–58)
+SUMMARY:🏀 Spain vs Germany
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nThird Place Game - Game
   35\nSpain vs Germany\nOfficial tickets for this game day: https://www.eve
  ntim.de/en/artist/fiba-basketball-world-cup/fiba-womens-basketball-world-c
@@ -641,11 +641,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-036@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:1
 DTSTART:20260913T180000Z
 DTEND:20260913T200000Z
-SUMMARY:🏀 USA vs France (97–79)
+SUMMARY:🏀 USA vs France
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nFinal - Game 36\nUSA vs
   France\nOfficial tickets for this game day: https://www.eventim.de/en/art
  ist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-berlin

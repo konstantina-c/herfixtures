@@ -11,11 +11,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:fiba-wwc-2026-003@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:0
 DTSTART:20260904T121500Z
 DTEND:20260904T141500Z
-SUMMARY:🏀 USA vs China (94–61)
+SUMMARY:🏀 USA vs China
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup D - Game 3\nUSA v
  s China\nOfficial tickets for this session: https://www.eventim.de/en/arti
  st/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-max-sch
@@ -29,11 +29,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-014@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:0
 DTSTART:20260906T123000Z
 DTEND:20260906T143000Z
-SUMMARY:🏀 China vs Czechia (74–70)
+SUMMARY:🏀 China vs Czechia
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup D - Game 14\nChin
  a vs Czechia\nOfficial tickets for this session: https://www.eventim.de/en
  /artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-be
@@ -47,11 +47,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-024@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:0
 DTSTART:20260907T184500Z
 DTEND:20260907T204500Z
-SUMMARY:🏀 Italy vs China (51–71)
+SUMMARY:🏀 Italy vs China
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nGroup D - Game 24\nItal
  y vs China\nOfficial tickets for this session: https://www.eventim.de/en/a
  rtist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2026-max-
@@ -65,11 +65,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-027@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:1
 DTSTART:20260909T154500Z
 DTEND:20260909T174500Z
-SUMMARY:🏀 Puerto Rico vs China (72–75)
+SUMMARY:🏀 Puerto Rico vs China
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nQualification to Quarte
  r-Finals - Game 27\nPuerto Rico vs China\nOfficial tickets for this game d
  ay: https://www.eventim.de/en/artist/fiba-basketball-world-cup/fiba-womens
@@ -83,11 +83,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-wwc-2026-030@herfixtures.com
-DTSTAMP:20260915T113119Z
+DTSTAMP:20260915T210834Z
 SEQUENCE:2
 DTSTART:20260910T123000Z
 DTEND:20260910T143000Z
-SUMMARY:🏀 China vs France (61–90)
+SUMMARY:🏀 China vs France
 DESCRIPTION:FIBA Women's Basketball World Cup 2026\nQuarter-Final - Game 30
  \nChina vs France\nOfficial tickets for this game day: https://www.eventim
  .de/en/artist/fiba-basketball-world-cup/fiba-womens-basketball-world-cup-2
