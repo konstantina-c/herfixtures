@@ -10,36 +10,37 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Real Sociedad @ FC Badalona
+SUMMARY:⚽ Real Sociedad @ FC Badalona (0–0)
 DTSTART:20260919T100000Z
 DTEND:20260919T120000Z
-DTSTAMP:20260919T104307Z
+DTSTAMP:20260919T202537Z
 UID:espn-liga-f-401882510@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at FC Badalona\nStatus: 
- First Half\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFi
- xtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882510
+ Full Time\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882510/real-sociedad-fc-
+ badalona
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Madrid CFF @ Espanyol
+SUMMARY:⚽ Madrid CFF @ Espanyol (1–5)
 DTSTART:20260919T140000Z
 DTEND:20260919T160000Z
-DTSTAMP:20260919T104307Z
+DTSTAMP:20260919T202537Z
 UID:espn-liga-f-401882512@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Espanyol\nStatus: Schedu
- led\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFix
+DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Espanyol\nStatus: Full T
+ ime\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFix
  tures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882512/madrid-cff-espany
  ol
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Dux Logroño @ Atlético Madrid
+SUMMARY:⚽ Dux Logroño @ Atlético Madrid (0–1)
 DTSTART:20260919T160000Z
 DTEND:20260919T180000Z
-DTSTAMP:20260919T104307Z
+DTSTAMP:20260919T202537Z
 UID:espn-liga-f-401882515@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Atlético Madrid\nStat
- us: Scheduled\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de Hen
+ us: Full Time\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de Hen
  ares\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882515/dux-logrono-atlet
  ico-madrid
@@ -48,12 +49,11 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Real Madrid
 DTSTART:20260919T183000Z
 DTEND:20260919T203000Z
-DTSTAMP:20260919T104307Z
+DTSTAMP:20260919T202537Z
 UID:espn-liga-f-401882509@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nValencia at Real Madrid\nStatus: Sched
- uled\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFixtur
- es.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882509/valencia-real-mad
- rid
+DESCRIPTION:Spanish Liga F 2026/27\nValencia at Real Madrid\nStatus: Secon
+ d Half\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882509
 END:VEVENT
 END:VCALENDAR
