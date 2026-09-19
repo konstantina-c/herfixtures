@@ -9,4 +9,16 @@ X-WR-CALNAME:Valencia — Liga F 2026/27 — HerFixtures
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Valencia @ Real Madrid
+DTSTART:20260919T183000Z
+DTEND:20260919T203000Z
+DTSTAMP:20260919T104307Z
+UID:espn-liga-f-401882509@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nValencia at Real Madrid\nStatus: Sched
+ uled\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882509/valencia-real-mad
+ rid
+END:VEVENT
 END:VCALENDAR

@@ -10,14 +10,50 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Barcelona @ Alavés (6–0)
-DTSTART:20260918T180000Z
-DTEND:20260918T200000Z
-DTSTAMP:20260918T204508Z
-UID:espn-liga-f-401882516@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Alavés\nStatus: Full Tim
- e\nVenue: Mendizorrotza\, Vitoria-Gasteiz\n\nFixtures by HerFixtures.com 
- — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882516/barcelona-alaves
+SUMMARY:⚽ Real Sociedad @ FC Badalona
+DTSTART:20260919T100000Z
+DTEND:20260919T120000Z
+DTSTAMP:20260919T104307Z
+UID:espn-liga-f-401882510@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at FC Badalona\nStatus: 
+ First Half\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFi
+ xtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Madrid CFF @ Espanyol
+DTSTART:20260919T140000Z
+DTEND:20260919T160000Z
+DTSTAMP:20260919T104307Z
+UID:espn-liga-f-401882512@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Espanyol\nStatus: Schedu
+ led\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882512/madrid-cff-espany
+ ol
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Dux Logroño @ Atlético Madrid
+DTSTART:20260919T160000Z
+DTEND:20260919T180000Z
+DTSTAMP:20260919T104307Z
+UID:espn-liga-f-401882515@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Atlético Madrid\nStat
+ us: Scheduled\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de Hen
+ ares\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882515/dux-logrono-atlet
+ ico-madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Valencia @ Real Madrid
+DTSTART:20260919T183000Z
+DTEND:20260919T203000Z
+DTSTAMP:20260919T104307Z
+UID:espn-liga-f-401882509@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nValencia at Real Madrid\nStatus: Sched
+ uled\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882509/valencia-real-mad
+ rid
 END:VEVENT
 END:VCALENDAR

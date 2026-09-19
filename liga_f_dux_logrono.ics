@@ -9,4 +9,16 @@ X-WR-CALNAME:Dux Logroño — Liga F 2026/27 — HerFixtures
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Dux Logroño @ Atlético Madrid
+DTSTART:20260919T160000Z
+DTEND:20260919T180000Z
+DTSTAMP:20260919T104307Z
+UID:espn-liga-f-401882515@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Atlético Madrid\nStat
+ us: Scheduled\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de Hen
+ ares\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882515/dux-logrono-atlet
+ ico-madrid
+END:VEVENT
 END:VCALENDAR

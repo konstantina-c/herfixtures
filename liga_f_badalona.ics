@@ -9,4 +9,15 @@ X-WR-CALNAME:FC Badalona — Liga F 2026/27 — HerFixtures
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Real Sociedad @ FC Badalona
+DTSTART:20260919T100000Z
+DTEND:20260919T120000Z
+DTSTAMP:20260919T104307Z
+UID:espn-liga-f-401882510@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at FC Badalona\nStatus: 
+ First Half\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFi
+ xtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882510
+END:VEVENT
 END:VCALENDAR
