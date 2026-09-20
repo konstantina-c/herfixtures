@@ -9,4 +9,16 @@ X-WR-CALNAME:Athletic Club — Liga F 2026/27 — HerFixtures
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Athletic Club @ Eibar
+DTSTART:20260920T160000Z
+DTEND:20260920T180000Z
+DTSTAMP:20260920T110556Z
+UID:espn-liga-f-401882513@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Eibar\nStatus: Schedu
+ led\nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Spor
+ ts on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882513/athletic-club-eib
+ ar
+END:VEVENT
 END:VCALENDAR

@@ -9,16 +9,4 @@ X-WR-CALNAME:Madrid CFF — Liga F 2026/27 — HerFixtures
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
-BEGIN:VEVENT
-SUMMARY:⚽ Madrid CFF @ Espanyol (1–5)
-DTSTART:20260919T140000Z
-DTEND:20260919T160000Z
-DTSTAMP:20260919T202538Z
-UID:espn-liga-f-401882512@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Espanyol\nStatus: Full T
- ime\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFix
- tures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882512/madrid-cff-espany
- ol
-END:VEVENT
 END:VCALENDAR
