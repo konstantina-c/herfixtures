@@ -10,14 +10,15 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Sevilla @ CD Tenerife
+SUMMARY:⚽ Sevilla @ CD Tenerife (3–1)
 DTSTART:20260920T100000Z
 DTEND:20260920T120000Z
-DTSTAMP:20260920T110556Z
+DTSTAMP:20260920T203822Z
 UID:espn-liga-f-401882514@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nSevilla at CD Tenerife\nStatus: Halfti
- me\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife\n
+DESCRIPTION:Spanish Liga F 2026/27\nSevilla at CD Tenerife\nStatus: Full T
+ ime\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife\n
  \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882514
+URL:https://www.espn.com/soccer/match/_/gameId/401882514/sevilla-cd-teneri
+ fe
 END:VEVENT
 END:VCALENDAR
