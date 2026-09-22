@@ -13,11 +13,11 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Granada (3–0)
 DTSTART:20260920T100000Z
 DTEND:20260920T120000Z
-DTSTAMP:20260922T112218Z
+DTSTAMP:20260922T210906Z
 UID:espn-liga-f-401882511@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Granada\nStatus: Full Tim
  e\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by HerFixt
  ures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match?gameId=401882511/deportivo-granada
+URL:https://www.espn.com/soccer/match/_/gameId/401882511/deportivo-granada
 END:VEVENT
 END:VCALENDAR
