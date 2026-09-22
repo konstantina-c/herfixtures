@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T21:53:49Z",
+  "updated": "2026-09-22T11:22:28Z",
   "competitions": {
     "wnba": {
       "name": "WNBA",
@@ -13,64 +13,7 @@
       "name": "NWSL",
       "sport": "football",
       "slug": "nwsl",
-      "postgame": [
-        {
-          "league": "NWSL",
-          "home": {
-            "name": "Houston",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17346.png",
-            "score": 2
-          },
-          "away": {
-            "name": "Boston",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131562.png",
-            "score": 1
-          },
-          "winner": "home"
-        },
-        {
-          "league": "NWSL",
-          "home": {
-            "name": "Washington",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15365.png",
-            "score": 3
-          },
-          "away": {
-            "name": "Chicago",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15360.png",
-            "score": 0
-          },
-          "winner": "home"
-        },
-        {
-          "league": "NWSL",
-          "home": {
-            "name": "Louisville",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20905.png",
-            "score": 0
-          },
-          "away": {
-            "name": "Bay",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22187.png",
-            "score": 2
-          },
-          "winner": "away"
-        },
-        {
-          "league": "NWSL",
-          "home": {
-            "name": "Angel City",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21422.png",
-            "score": 3
-          },
-          "away": {
-            "name": "Utah",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19141.png",
-            "score": 0
-          },
-          "winner": "home"
-        }
-      ],
+      "postgame": [],
       "livegame": [],
       "pregame": []
     },
@@ -100,7 +43,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19257.png"
           },
           "kickoff": "2026-09-22T16:45:00Z",
-          "kickoff_label": "in 19h"
+          "kickoff_label": "in 5h"
         },
         {
           "league": "Women's UCL",
@@ -113,7 +56,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21124.png"
           },
           "kickoff": "2026-09-22T16:45:00Z",
-          "kickoff_label": "in 19h"
+          "kickoff_label": "in 5h"
         },
         {
           "league": "Women's UCL",
@@ -126,7 +69,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21127.png"
           },
           "kickoff": "2026-09-22T19:00:00Z",
-          "kickoff_label": "in 21h"
+          "kickoff_label": "in 8h"
         },
         {
           "league": "Women's UCL",
@@ -139,7 +82,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20830.png"
           },
           "kickoff": "2026-09-22T19:00:00Z",
-          "kickoff_label": "in 21h"
+          "kickoff_label": "in 8h"
         },
         {
           "league": "Women's UCL",
@@ -152,7 +95,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19258.png"
           },
           "kickoff": "2026-09-22T19:00:00Z",
-          "kickoff_label": "in 21h"
+          "kickoff_label": "in 8h"
         },
         {
           "league": "Women's UCL",
@@ -165,7 +108,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21685.png"
           },
           "kickoff": "2026-09-23T16:45:00Z",
-          "kickoff_label": "Tuesday @ 4:45pm"
+          "kickoff_label": "Tomorrow @ 4:45pm"
         },
         {
           "league": "Women's UCL",
@@ -178,7 +121,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19256.png"
           },
           "kickoff": "2026-09-23T16:45:00Z",
-          "kickoff_label": "Tuesday @ 4:45pm"
+          "kickoff_label": "Tomorrow @ 4:45pm"
         },
         {
           "league": "Women's UCL",
@@ -191,7 +134,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21640.png"
           },
           "kickoff": "2026-09-23T19:00:00Z",
-          "kickoff_label": "Tuesday @ 7pm"
+          "kickoff_label": "Tomorrow @ 7pm"
         },
         {
           "league": "Women's UCL",
@@ -204,7 +147,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131643.png"
           },
           "kickoff": "2026-09-23T19:00:00Z",
-          "kickoff_label": "Tuesday @ 7pm"
+          "kickoff_label": "Tomorrow @ 7pm"
         }
       ]
     },
@@ -212,50 +155,7 @@
       "name": "Liga F",
       "sport": "football",
       "slug": "liga-f",
-      "postgame": [
-        {
-          "league": "Liga F",
-          "home": {
-            "name": "Sevilla",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21424.png",
-            "score": 3
-          },
-          "away": {
-            "name": "Tenerife",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131393.png",
-            "score": 1
-          },
-          "winner": "home"
-        },
-        {
-          "league": "Liga F",
-          "home": {
-            "name": "Deportivo",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21145.png",
-            "score": 3
-          },
-          "away": {
-            "name": "Granada",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21140.png",
-            "score": 0
-          },
-          "winner": "home"
-        },
-        {
-          "league": "Liga F",
-          "home": {
-            "name": "Athletic ",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21372.png",
-            "score": 0
-          },
-          "away": {
-            "name": "Eibar",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21376.png",
-            "score": 1
-          },
-          "winner": "away"
-        }
-      ],
+      "postgame": [],
       "livegame": [],
       "pregame": []
     },
@@ -277,7 +177,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-04T09:30:00Z",
-          "kickoff_label": "in -25224 min"
+          "kickoff_label": "in -26032 min"
         },
         {
           "league": "FIBA WWC 2026",
@@ -290,7 +190,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-04T09:30:00Z",
-          "kickoff_label": "in -25224 min"
+          "kickoff_label": "in -26032 min"
         },
         {
           "league": "FIBA WWC 2026",
@@ -303,7 +203,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-04T12:15:00Z",
-          "kickoff_label": "in -25059 min"
+          "kickoff_label": "in -25867 min"
         },
         {
           "league": "FIBA WWC 2026",
@@ -316,7 +216,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-04T12:30:00Z",
-          "kickoff_label": "in -25044 min"
+          "kickoff_label": "in -25852 min"
         },
         {
           "league": "FIBA WWC 2026",
@@ -329,7 +229,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-04T15:30:00Z",
-          "kickoff_label": "in -24864 min"
+          "kickoff_label": "in -25672 min"
         },
         {
           "league": "FIBA WWC 2026",
@@ -342,7 +242,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-04T15:45:00Z",
-          "kickoff_label": "in -24849 min"
+          "kickoff_label": "in -25657 min"
         },
         {
           "league": "FIBA WWC 2026",
@@ -355,7 +255,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-04T18:15:00Z",
-          "kickoff_label": "in -24699 min"
+          "kickoff_label": "in -25507 min"
         },
         {
           "league": "FIBA WWC 2026",
@@ -368,7 +268,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-04T19:00:00Z",
-          "kickoff_label": "in -24654 min"
+          "kickoff_label": "in -25462 min"
         },
         {
           "league": "FIBA WWC 2026",
@@ -381,7 +281,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-05T09:30:00Z",
-          "kickoff_label": "in -23784 min"
+          "kickoff_label": "in -24592 min"
         },
         {
           "league": "FIBA WWC 2026",
@@ -394,7 +294,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-05T12:15:00Z",
-          "kickoff_label": "in -23619 min"
+          "kickoff_label": "in -24427 min"
         },
         {
           "league": "FIBA WWC 2026",
@@ -407,7 +307,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-05T16:00:00Z",
-          "kickoff_label": "in -23394 min"
+          "kickoff_label": "in -24202 min"
         },
         {
           "league": "FIBA WWC 2026",
@@ -420,7 +320,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-05T18:45:00Z",
-          "kickoff_label": "in -23229 min"
+          "kickoff_label": "in -24037 min"
         },
         {
           "league": "FIBA WWC 2026",
@@ -433,7 +333,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-06T09:30:00Z",
-          "kickoff_label": "in -22344 min"
+          "kickoff_label": "in -23152 min"
         },
         {
           "league": "FIBA WWC 2026",
@@ -446,7 +346,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-06T12:30:00Z",
-          "kickoff_label": "in -22164 min"
+          "kickoff_label": "in -22972 min"
         },
         {
           "league": "FIBA WWC 2026",
@@ -459,7 +359,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-06T15:45:00Z",
-          "kickoff_label": "in -21969 min"
+          "kickoff_label": "in -22777 min"
         },
         {
           "league": "FIBA WWC 2026",
@@ -472,7 +372,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-06T18:45:00Z",
-          "kickoff_label": "in -21789 min"
+          "kickoff_label": "in -22597 min"
         },
         {
           "league": "FIBA WWC 2026",
@@ -485,7 +385,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-07T09:30:00Z",
-          "kickoff_label": "in -20904 min"
+          "kickoff_label": "in -21712 min"
         },
         {
           "league": "FIBA WWC 2026",
@@ -498,7 +398,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-07T09:30:00Z",
-          "kickoff_label": "in -20904 min"
+          "kickoff_label": "in -21712 min"
         },
         {
           "league": "FIBA WWC 2026",
@@ -511,7 +411,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-07T12:30:00Z",
-          "kickoff_label": "in -20724 min"
+          "kickoff_label": "in -21532 min"
         },
         {
           "league": "FIBA WWC 2026",
@@ -524,7 +424,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-07T12:30:00Z",
-          "kickoff_label": "in -20724 min"
+          "kickoff_label": "in -21532 min"
         },
         {
           "league": "FIBA WWC 2026",
@@ -537,7 +437,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-07T15:50:00Z",
-          "kickoff_label": "in -20524 min"
+          "kickoff_label": "in -21332 min"
         },
         {
           "league": "FIBA WWC 2026",
@@ -550,7 +450,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-07T15:50:00Z",
-          "kickoff_label": "in -20524 min"
+          "kickoff_label": "in -21332 min"
         },
         {
           "league": "FIBA WWC 2026",
@@ -563,7 +463,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-07T18:45:00Z",
-          "kickoff_label": "in -20349 min"
+          "kickoff_label": "in -21157 min"
         },
         {
           "league": "FIBA WWC 2026",
@@ -576,7 +476,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-07T18:45:00Z",
-          "kickoff_label": "in -20349 min"
+          "kickoff_label": "in -21157 min"
         },
         {
           "league": "FIBA WWC 2026",
@@ -589,7 +489,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-08T15:45:00Z",
-          "kickoff_label": "in -19089 min"
+          "kickoff_label": "in -19897 min"
         },
         {
           "league": "FIBA WWC 2026",
@@ -602,7 +502,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-08T18:45:00Z",
-          "kickoff_label": "in -18909 min"
+          "kickoff_label": "in -19717 min"
         },
         {
           "league": "FIBA WWC 2026",
@@ -615,7 +515,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-09T15:45:00Z",
-          "kickoff_label": "in -17649 min"
+          "kickoff_label": "in -18457 min"
         },
         {
           "league": "FIBA WWC 2026",
@@ -628,7 +528,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-09T18:45:00Z",
-          "kickoff_label": "in -17469 min"
+          "kickoff_label": "in -18277 min"
         },
         {
           "league": "FIBA WWC 2026",
@@ -641,7 +541,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-10T18:45:00Z",
-          "kickoff_label": "in -16029 min"
+          "kickoff_label": "in -16837 min"
         },
         {
           "league": "FIBA WWC 2026",
@@ -654,7 +554,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-10T12:30:00Z",
-          "kickoff_label": "in -16404 min"
+          "kickoff_label": "in -17212 min"
         },
         {
           "league": "FIBA WWC 2026",
@@ -667,7 +567,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-10T15:45:00Z",
-          "kickoff_label": "in -16209 min"
+          "kickoff_label": "in -17017 min"
         },
         {
           "league": "FIBA WWC 2026",
@@ -680,7 +580,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-10T09:30:00Z",
-          "kickoff_label": "in -16584 min"
+          "kickoff_label": "in -17392 min"
         },
         {
           "league": "FIBA WWC 2026",
@@ -693,7 +593,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-12T18:00:00Z",
-          "kickoff_label": "in -13194 min"
+          "kickoff_label": "in -14002 min"
         },
         {
           "league": "FIBA WWC 2026",
@@ -706,7 +606,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-12T14:30:00Z",
-          "kickoff_label": "in -13404 min"
+          "kickoff_label": "in -14212 min"
         },
         {
           "league": "FIBA WWC 2026",
@@ -719,7 +619,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-13T14:30:00Z",
-          "kickoff_label": "in -11964 min"
+          "kickoff_label": "in -12772 min"
         },
         {
           "league": "FIBA WWC 2026",
@@ -732,7 +632,7 @@
             "logo": ""
           },
           "kickoff": "2026-09-13T18:00:00Z",
-          "kickoff_label": "in -11754 min"
+          "kickoff_label": "in -12562 min"
         }
       ]
     }
