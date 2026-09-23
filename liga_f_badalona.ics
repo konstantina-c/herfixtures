@@ -9,4 +9,16 @@ X-WR-CALNAME:FC Badalona — Liga F 2026/27 — HerFixtures
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Granada @ FC Badalona
+DTSTART:20260926T100000Z
+DTEND:20260926T120000Z
+DTSTAMP:20260923T111700Z
+UID:espn-liga-f-401882504@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nGranada at FC Badalona\nStatus: Schedu
+ led\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixtures.
+ com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882504/granada-fc-badalo
+ na
+END:VEVENT
 END:VCALENDAR
