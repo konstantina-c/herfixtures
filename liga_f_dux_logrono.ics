@@ -10,13 +10,13 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Barcelona @ Dux Logroño
+SUMMARY:⚽ Barcelona @ Dux Logroño (2–0)
 DTSTART:20260926T143000Z
 DTEND:20260926T163000Z
-DTSTAMP:20260926T111116Z
+DTSTAMP:20260926T205610Z
 UID:espn-liga-f-401882506@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Dux Logroño\nStatus: Sch
- eduled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — Wo
+DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Dux Logroño\nStatus: Ful
+ l Time\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — Wo
  men's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882506/barcelona-dux-log
  rono

@@ -10,13 +10,13 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Alavés @ Madrid CFF
+SUMMARY:⚽ Alavés @ Madrid CFF (0–1)
 DTSTART:20260926T163000Z
 DTEND:20260926T183000Z
-DTSTAMP:20260926T111116Z
+DTSTAMP:20260926T205610Z
 UID:espn-liga-f-401882505@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Madrid CFF\nStatus: Schedul
- ed\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFixture
+DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Madrid CFF\nStatus: Full Ti
+ me\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFixture
  s.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882505/alaves-madrid-cff
 END:VEVENT

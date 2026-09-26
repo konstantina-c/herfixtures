@@ -10,14 +10,15 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Real Madrid @ Real Sociedad
+SUMMARY:⚽ Real Madrid @ Real Sociedad (5–3)
 DTSTART:20260926T100000Z
 DTEND:20260926T120000Z
-DTSTAMP:20260926T111116Z
+DTSTAMP:20260926T205610Z
 UID:espn-liga-f-401882503@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Real Sociedad\nStatus: 
- In Progress\nVenue: Instalaciones de Zubieta\, San Sebastian\n\nFixtures b
- y HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882503
+ Full Time\nVenue: Instalaciones de Zubieta\, San Sebastian\n\nFixtures by 
+ HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882503/real-madrid-real-
+ sociedad
 END:VEVENT
 END:VCALENDAR
