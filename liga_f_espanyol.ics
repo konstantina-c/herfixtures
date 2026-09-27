@@ -9,4 +9,16 @@ X-WR-CALNAME:Espanyol — Liga F 2026/27 — HerFixtures
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Espanyol @ Deportivo
+DTSTART:20260927T160000Z
+DTEND:20260927T180000Z
+DTSTAMP:20260927T114946Z
+UID:espn-liga-f-401882507@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Deportivo\nStatus: Schedul
+ ed\nVenue: Riazor\, La Coruña\n\nFixtures by HerFixtures.com — Women's 
+ Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882507/espanyol-deportiv
+ o
+END:VEVENT
 END:VCALENDAR

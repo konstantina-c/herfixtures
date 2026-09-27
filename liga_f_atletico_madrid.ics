@@ -9,4 +9,15 @@ X-WR-CALNAME:Atlético Madrid — Liga F 2026/27 — HerFixtures
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Atlético Madrid @ Athletic Club
+DTSTART:20260927T100000Z
+DTEND:20260927T120000Z
+DTSTAMP:20260927T114946Z
+UID:espn-liga-f-401882508@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Athletic Club\nSta
+ tus: Second Half\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtu
+ res by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882508
+END:VEVENT
 END:VCALENDAR
