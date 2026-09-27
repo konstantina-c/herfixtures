@@ -10,46 +10,48 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Atlético Madrid @ Athletic Club
+SUMMARY:⚽ Atlético Madrid @ Athletic Club (2–3)
 DTSTART:20260927T100000Z
 DTEND:20260927T120000Z
-DTSTAMP:20260927T114946Z
+DTSTAMP:20260927T211258Z
 UID:espn-liga-f-401882508@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Athletic Club\nSta
- tus: Second Half\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtu
- res by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882508
+ tus: Full Time\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixture
+ s by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882508/atletico-madrid-a
+ thletic-club
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ CD Tenerife @ Valencia
+SUMMARY:⚽ CD Tenerife @ Valencia (2–1)
 DTSTART:20260927T100000Z
 DTEND:20260927T120000Z
-DTSTAMP:20260927T114946Z
+DTSTAMP:20260927T211258Z
 UID:espn-liga-f-401882501@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Valencia\nStatus: Secon
- d Half\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtur
- es.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882501
+DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Valencia\nStatus: Full 
+ Time\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882501/cd-tenerife-valen
+ cia
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Eibar @ Sevilla
+SUMMARY:⚽ Eibar @ Sevilla (1–0)
 DTSTART:20260927T140000Z
 DTEND:20260927T160000Z
-DTSTAMP:20260927T114946Z
+DTSTAMP:20260927T211258Z
 UID:espn-liga-f-401882502@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nEibar at Sevilla\nStatus: Scheduled\nV
+DESCRIPTION:Spanish Liga F 2026/27\nEibar at Sevilla\nStatus: Full Time\nV
  enue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.com — Wo
  men's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882502/eibar-sevilla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Espanyol @ Deportivo
+SUMMARY:⚽ Espanyol @ Deportivo (1–1)
 DTSTART:20260927T160000Z
 DTEND:20260927T180000Z
-DTSTAMP:20260927T114946Z
+DTSTAMP:20260927T211258Z
 UID:espn-liga-f-401882507@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Deportivo\nStatus: Schedul
- ed\nVenue: Riazor\, La Coruña\n\nFixtures by HerFixtures.com — Women's 
+DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Deportivo\nStatus: Full Ti
+ me\nVenue: Riazor\, La Coruña\n\nFixtures by HerFixtures.com — Women's 
  Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882507/espanyol-deportiv
  o

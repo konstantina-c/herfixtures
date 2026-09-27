@@ -10,14 +10,15 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ CD Tenerife @ Valencia
+SUMMARY:⚽ CD Tenerife @ Valencia (2–1)
 DTSTART:20260927T100000Z
 DTEND:20260927T120000Z
-DTSTAMP:20260927T114946Z
+DTSTAMP:20260927T211258Z
 UID:espn-liga-f-401882501@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Valencia\nStatus: Secon
- d Half\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtur
- es.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882501
+DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Valencia\nStatus: Full 
+ Time\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882501/cd-tenerife-valen
+ cia
 END:VEVENT
 END:VCALENDAR
