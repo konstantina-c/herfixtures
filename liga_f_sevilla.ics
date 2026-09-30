@@ -10,14 +10,15 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Eibar @ Sevilla (1–0)
-DTSTART:20260927T140000Z
-DTEND:20260927T160000Z
-DTSTAMP:20260929T220724Z
-UID:espn-liga-f-401882502@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nEibar at Sevilla\nStatus: Full Time\nV
- enue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.com — Wo
- men's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882502/eibar-sevilla
+SUMMARY:⚽ FC Badalona @ Sevilla
+DTSTART:20261003T100000Z
+DTEND:20261003T120000Z
+DTSTAMP:20260930T122024Z
+UID:espn-liga-f-401882494@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Sevilla\nStatus: Schedu
+ led\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882494/fc-badalona-sevil
+ la
 END:VEVENT
 END:VCALENDAR
