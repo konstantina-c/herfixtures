@@ -10,47 +10,48 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Alavés @ Espanyol
+SUMMARY:⚽ Alavés @ Espanyol (0–1)
 DTSTART:20261003T100000Z
 DTEND:20261003T120000Z
-DTSTAMP:20261003T112812Z
+DTSTAMP:20261003T205441Z
 UID:espn-liga-f-401882498@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Espanyol\nStatus: Second Ha
- lf\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFixt
- ures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882498
+DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Espanyol\nStatus: Full Time
+ \nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882498/alaves-espanyol
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ FC Badalona @ Sevilla
+SUMMARY:⚽ FC Badalona @ Sevilla (3–3)
 DTSTART:20261003T100000Z
 DTEND:20261003T120000Z
-DTSTAMP:20261003T112812Z
+DTSTAMP:20261003T205441Z
 UID:espn-liga-f-401882494@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Sevilla\nStatus: Second
-  Half\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.co
- m — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882494
+DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Sevilla\nStatus: Full T
+ ime\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882494/fc-badalona-sevil
+ la
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Atlético Madrid @ Deportivo
+SUMMARY:⚽ Atlético Madrid @ Deportivo (2–1)
 DTSTART:20261003T140000Z
 DTEND:20261003T160000Z
-DTSTAMP:20261003T112812Z
+DTSTAMP:20261003T205441Z
 UID:espn-liga-f-401882499@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Deportivo\nStatus:
-  Scheduled\nVenue: Riazor\, La Coruña\n\nFixtures by HerFixtures.com — 
+  Full Time\nVenue: Riazor\, La Coruña\n\nFixtures by HerFixtures.com — 
  Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882499/atletico-madrid-d
  eportivo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Athletic Club @ Madrid CFF
+SUMMARY:⚽ Athletic Club @ Madrid CFF (2–2)
 DTSTART:20261003T160000Z
 DTEND:20261003T180000Z
-DTSTAMP:20261003T112812Z
+DTSTAMP:20261003T205441Z
 UID:espn-liga-f-401882495@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Madrid CFF\nStatus: S
- cheduled\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerF
+DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Madrid CFF\nStatus: F
+ ull Time\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerF
  ixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882495/athletic-club-mad
  rid-cff

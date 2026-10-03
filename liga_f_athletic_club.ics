@@ -10,13 +10,13 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Athletic Club @ Madrid CFF
+SUMMARY:⚽ Athletic Club @ Madrid CFF (2–2)
 DTSTART:20261003T160000Z
 DTEND:20261003T180000Z
-DTSTAMP:20261003T112812Z
+DTSTAMP:20261003T205441Z
 UID:espn-liga-f-401882495@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Madrid CFF\nStatus: S
- cheduled\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerF
+DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Madrid CFF\nStatus: F
+ ull Time\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerF
  ixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882495/athletic-club-mad
  rid-cff
