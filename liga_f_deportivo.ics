@@ -9,16 +9,4 @@ X-WR-CALNAME:Deportivo — Liga F 2026/27 — HerFixtures
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
-BEGIN:VEVENT
-SUMMARY:⚽ Atlético Madrid @ Deportivo (2–1)
-DTSTART:20261003T140000Z
-DTEND:20261003T160000Z
-DTSTAMP:20261003T205441Z
-UID:espn-liga-f-401882499@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Deportivo\nStatus:
-  Full Time\nVenue: Riazor\, La Coruña\n\nFixtures by HerFixtures.com — 
- Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882499/atletico-madrid-d
- eportivo
-END:VEVENT
 END:VCALENDAR

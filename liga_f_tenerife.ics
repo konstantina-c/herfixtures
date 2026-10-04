@@ -9,4 +9,16 @@ X-WR-CALNAME:CD Tenerife — Liga F 2026/27 — HerFixtures
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Dux Logroño @ CD Tenerife (1–2)
+DTSTART:20261004T100000Z
+DTEND:20261004T120000Z
+DTSTAMP:20261004T120926Z
+UID:espn-liga-f-401882500@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at CD Tenerife\nStatus: F
+ ull Time\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tener
+ ife\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882500/dux-logrono-cd-te
+ nerife
+END:VEVENT
 END:VCALENDAR

@@ -9,4 +9,16 @@ X-WR-CALNAME:Valencia — Liga F 2026/27 — HerFixtures
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Real Sociedad @ Valencia
+DTSTART:20261004T173000Z
+DTEND:20261004T193000Z
+DTSTAMP:20261004T120926Z
+UID:espn-liga-f-401882493@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Valencia\nStatus: Sch
+ eduled\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882493/real-sociedad-val
+ encia
+END:VEVENT
 END:VCALENDAR

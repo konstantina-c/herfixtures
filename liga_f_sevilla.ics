@@ -9,16 +9,4 @@ X-WR-CALNAME:Sevilla — Liga F 2026/27 — HerFixtures
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
-BEGIN:VEVENT
-SUMMARY:⚽ FC Badalona @ Sevilla (3–3)
-DTSTART:20261003T100000Z
-DTEND:20261003T120000Z
-DTSTAMP:20261003T205441Z
-UID:espn-liga-f-401882494@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Sevilla\nStatus: Full T
- ime\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.com 
- — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882494/fc-badalona-sevil
- la
-END:VEVENT
 END:VCALENDAR

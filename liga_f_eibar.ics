@@ -9,4 +9,15 @@ X-WR-CALNAME:Eibar — Liga F 2026/27 — HerFixtures
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Eibar @ Granada (0–0)
+DTSTART:20261004T100000Z
+DTEND:20261004T120000Z
+DTSTAMP:20261004T120926Z
+UID:espn-liga-f-401882496@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nEibar at Granada\nStatus: Full Time\nV
+ enue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882496/eibar-granada
+END:VEVENT
 END:VCALENDAR

@@ -9,15 +9,4 @@ X-WR-CALNAME:Espanyol — Liga F 2026/27 — HerFixtures
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
-BEGIN:VEVENT
-SUMMARY:⚽ Alavés @ Espanyol (0–1)
-DTSTART:20261003T100000Z
-DTEND:20261003T120000Z
-DTSTAMP:20261003T205441Z
-UID:espn-liga-f-401882498@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Espanyol\nStatus: Full Time
- \nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFixtur
- es.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882498/alaves-espanyol
-END:VEVENT
 END:VCALENDAR
