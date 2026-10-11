@@ -9,4 +9,16 @@ X-WR-CALNAME:FC Badalona — Liga F 2026/27 — HerFixtures
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ CD Tenerife @ FC Badalona
+DTSTART:20261017T100000Z
+DTEND:20261017T120000Z
+DTSTAMP:20261011T123246Z
+UID:espn-liga-f-401882487@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at FC Badalona\nStatus: Sc
+ heduled\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882487/cd-tenerife-fc-ba
+ dalona
+END:VEVENT
 END:VCALENDAR

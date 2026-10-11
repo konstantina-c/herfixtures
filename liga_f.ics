@@ -10,50 +10,51 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Dux Logroño @ CD Tenerife (1–2)
-DTSTART:20261004T100000Z
-DTEND:20261004T120000Z
-DTSTAMP:20261010T212801Z
-UID:espn-liga-f-401882500@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at CD Tenerife\nStatus: F
- ull Time\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tener
- ife\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882500/dux-logrono-cd-te
- nerife
+SUMMARY:⚽ Granada @ Dux Logroño
+DTSTART:20261017T100000Z
+DTEND:20261017T120000Z
+DTSTAMP:20261011T123245Z
+UID:espn-liga-f-401882489@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nGranada at Dux Logroño\nStatus: Sched
+ uled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — Wome
+ n's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882489/granada-dux-logro
+ no
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Eibar @ Granada (0–0)
-DTSTART:20261004T100000Z
-DTEND:20261004T120000Z
-DTSTAMP:20261010T212801Z
-UID:espn-liga-f-401882496@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nEibar at Granada\nStatus: Full Time\nV
- enue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by HerFixtures
- .com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882496/eibar-granada
+SUMMARY:⚽ CD Tenerife @ FC Badalona
+DTSTART:20261017T100000Z
+DTEND:20261017T120000Z
+DTSTAMP:20261011T123245Z
+UID:espn-liga-f-401882487@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at FC Badalona\nStatus: Sc
+ heduled\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882487/cd-tenerife-fc-ba
+ dalona
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Real Madrid @ Barcelona (0–7)
-DTSTART:20261004T170000Z
-DTEND:20261004T190000Z
-DTSTAMP:20261010T212801Z
-UID:espn-liga-f-401882497@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Barcelona\nStatus: Full
-  Time\nVenue: Spotify Camp Nou\, Barcelona\n\nFixtures by HerFixtures.com 
- — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882497/real-madrid-barce
- lona
+SUMMARY:⚽ Valencia @ Athletic Club
+DTSTART:20261017T143000Z
+DTEND:20261017T163000Z
+DTSTAMP:20261011T123245Z
+UID:espn-liga-f-401882491@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nValencia at Athletic Club\nStatus: Sch
+ eduled\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882491/valencia-athletic
+ -club
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Real Sociedad @ Valencia (1–0)
-DTSTART:20261004T173000Z
-DTEND:20261004T193000Z
-DTSTAMP:20261010T212801Z
-UID:espn-liga-f-401882493@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Valencia\nStatus: Ful
- l Time\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtur
+SUMMARY:⚽ Espanyol @ Real Madrid
+DTSTART:20261017T183000Z
+DTEND:20261017T203000Z
+DTSTAMP:20261011T123245Z
+UID:espn-liga-f-401882486@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Real Madrid\nStatus: Sched
+ uled\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFixtur
  es.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882493/real-sociedad-val
- encia
+URL:https://www.espn.com/soccer/match/_/gameId/401882486/espanyol-real-mad
+ rid
 END:VEVENT
 END:VCALENDAR

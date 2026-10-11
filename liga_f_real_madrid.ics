@@ -10,15 +10,15 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Real Madrid @ Barcelona (0–7)
-DTSTART:20261004T170000Z
-DTEND:20261004T190000Z
-DTSTAMP:20261010T212801Z
-UID:espn-liga-f-401882497@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Barcelona\nStatus: Full
-  Time\nVenue: Spotify Camp Nou\, Barcelona\n\nFixtures by HerFixtures.com 
- — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882497/real-madrid-barce
- lona
+SUMMARY:⚽ Espanyol @ Real Madrid
+DTSTART:20261017T183000Z
+DTEND:20261017T203000Z
+DTSTAMP:20261011T123246Z
+UID:espn-liga-f-401882486@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Real Madrid\nStatus: Sched
+ uled\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882486/espanyol-real-mad
+ rid
 END:VEVENT
 END:VCALENDAR
