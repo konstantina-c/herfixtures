@@ -13,12 +13,11 @@ BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ Real Madrid
 DTSTART:20261017T183000Z
 DTEND:20261017T203000Z
-DTSTAMP:20261017T102814Z
+DTSTAMP:20261017T202508Z
 UID:espn-liga-f-401882486@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Real Madrid\nStatus: Sched
- uled\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFixtur
- es.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882486/espanyol-real-mad
- rid
+DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Real Madrid\nStatus: Secon
+ d Half\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882486
 END:VEVENT
 END:VCALENDAR

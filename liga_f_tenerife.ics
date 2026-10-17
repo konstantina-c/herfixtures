@@ -10,14 +10,15 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ CD Tenerife @ FC Badalona
+SUMMARY:⚽ CD Tenerife @ FC Badalona (4–0)
 DTSTART:20261017T100000Z
 DTEND:20261017T120000Z
-DTSTAMP:20261017T102814Z
+DTSTAMP:20261017T202508Z
 UID:espn-liga-f-401882487@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at FC Badalona\nStatus: Fi
- rst Half\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixt
- ures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882487
+DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at FC Badalona\nStatus: Fu
+ ll Time\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882487/cd-tenerife-fc-ba
+ dalona
 END:VEVENT
 END:VCALENDAR
