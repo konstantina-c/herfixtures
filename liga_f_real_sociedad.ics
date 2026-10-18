@@ -10,14 +10,15 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Barcelona @ Real Sociedad
+SUMMARY:⚽ Barcelona @ Real Sociedad (1–2)
 DTSTART:20261018T100000Z
 DTEND:20261018T120000Z
-DTSTAMP:20261018T104736Z
+DTSTAMP:20261018T202606Z
 UID:espn-liga-f-401882485@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Real Sociedad\nStatus: Fi
- rst Half\nVenue: Instalaciones de Zubieta\, San Sebastian\n\nFixtures by H
- erFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882485
+DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Real Sociedad\nStatus: Fu
+ ll Time\nVenue: Instalaciones de Zubieta\, San Sebastian\n\nFixtures by He
+ rFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882485/barcelona-real-so
+ ciedad
 END:VEVENT
 END:VCALENDAR

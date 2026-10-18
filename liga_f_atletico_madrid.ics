@@ -10,13 +10,13 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Madrid CFF @ Atlético Madrid
+SUMMARY:⚽ Madrid CFF @ Atlético Madrid (0–4)
 DTSTART:20261018T160000Z
 DTEND:20261018T180000Z
-DTSTAMP:20261018T104736Z
+DTSTAMP:20261018T202606Z
 UID:espn-liga-f-401882490@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Atlético Madrid\nStatus
- : Scheduled\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de Henar
+ : Full Time\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de Henar
  es\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882490/madrid-cff-atleti
  co-madrid

@@ -10,12 +10,12 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Deportivo @ Eibar
+SUMMARY:⚽ Deportivo @ Eibar (3–2)
 DTSTART:20261018T140000Z
 DTEND:20261018T160000Z
-DTSTAMP:20261018T104736Z
+DTSTAMP:20261018T202606Z
 UID:espn-liga-f-401882488@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Eibar\nStatus: Scheduled
+DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Eibar\nStatus: Full Time
  \nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sports 
  on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882488/deportivo-eibar
