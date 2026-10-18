@@ -9,16 +9,4 @@ X-WR-CALNAME:Granada — Liga F 2026/27 — HerFixtures
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
-BEGIN:VEVENT
-SUMMARY:⚽ Granada @ Dux Logroño (3–2)
-DTSTART:20261017T100000Z
-DTEND:20261017T120000Z
-DTSTAMP:20261017T202508Z
-UID:espn-liga-f-401882489@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nGranada at Dux Logroño\nStatus: Full 
- Time\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — Wome
- n's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882489/granada-dux-logro
- no
-END:VEVENT
 END:VCALENDAR

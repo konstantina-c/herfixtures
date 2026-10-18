@@ -10,50 +10,48 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Granada @ Dux Logroño (3–2)
-DTSTART:20261017T100000Z
-DTEND:20261017T120000Z
-DTSTAMP:20261017T202507Z
-UID:espn-liga-f-401882489@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nGranada at Dux Logroño\nStatus: Full 
- Time\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — Wome
- n's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882489/granada-dux-logro
- no
+SUMMARY:⚽ Sevilla @ Alavés
+DTSTART:20261018T100000Z
+DTEND:20261018T120000Z
+DTSTAMP:20261018T104735Z
+UID:espn-liga-f-401882492@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Alavés\nStatus: First Half
+ \nVenue: Mendizorrotza\, Vitoria-Gasteiz\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882492
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ CD Tenerife @ FC Badalona (4–0)
-DTSTART:20261017T100000Z
-DTEND:20261017T120000Z
-DTSTAMP:20261017T202507Z
-UID:espn-liga-f-401882487@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at FC Badalona\nStatus: Fu
- ll Time\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixtu
- res.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882487/cd-tenerife-fc-ba
- dalona
+SUMMARY:⚽ Barcelona @ Real Sociedad
+DTSTART:20261018T100000Z
+DTEND:20261018T120000Z
+DTSTAMP:20261018T104735Z
+UID:espn-liga-f-401882485@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Real Sociedad\nStatus: Fi
+ rst Half\nVenue: Instalaciones de Zubieta\, San Sebastian\n\nFixtures by H
+ erFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882485
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Valencia @ Athletic Club (0–1)
-DTSTART:20261017T143000Z
-DTEND:20261017T163000Z
-DTSTAMP:20261017T202507Z
-UID:espn-liga-f-401882491@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nValencia at Athletic Club\nStatus: Ful
- l Time\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by Her
- Fixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882491/valencia-athletic
- -club
+SUMMARY:⚽ Deportivo @ Eibar
+DTSTART:20261018T140000Z
+DTEND:20261018T160000Z
+DTSTAMP:20261018T104735Z
+UID:espn-liga-f-401882488@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Eibar\nStatus: Scheduled
+ \nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sports 
+ on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882488/deportivo-eibar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Espanyol @ Real Madrid
-DTSTART:20261017T183000Z
-DTEND:20261017T203000Z
-DTSTAMP:20261017T202507Z
-UID:espn-liga-f-401882486@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Real Madrid\nStatus: Secon
- d Half\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFixt
- ures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882486
+SUMMARY:⚽ Madrid CFF @ Atlético Madrid
+DTSTART:20261018T160000Z
+DTEND:20261018T180000Z
+DTSTAMP:20261018T104735Z
+UID:espn-liga-f-401882490@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Atlético Madrid\nStatus
+ : Scheduled\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de Henar
+ es\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882490/madrid-cff-atleti
+ co-madrid
 END:VEVENT
 END:VCALENDAR
