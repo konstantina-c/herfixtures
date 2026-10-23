@@ -10,13 +10,13 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Valencia @ Atlético Madrid
+SUMMARY:⚽ Valencia @ Atlético Madrid (0–4)
 DTSTART:20261023T173000Z
 DTEND:20261023T193000Z
-DTSTAMP:20261023T112309Z
+DTSTAMP:20261023T211624Z
 UID:espn-liga-f-401882483@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at Atlético Madrid\nStatus: 
- Scheduled\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de Henares
+ Full Time\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de Henares
  \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882483/valencia-atletico
  -madrid
