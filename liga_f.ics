@@ -10,15 +10,60 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Valencia @ Atlético Madrid (0–4)
-DTSTART:20261023T173000Z
-DTEND:20261023T193000Z
-DTSTAMP:20261023T211624Z
-UID:espn-liga-f-401882483@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nValencia at Atlético Madrid\nStatus: 
- Full Time\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de Henares
- \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882483/valencia-atletico
- -madrid
+SUMMARY:⚽ Sevilla @ Athletic Club
+DTSTART:20261024T100000Z
+DTEND:20261024T120000Z
+DTSTAMP:20261024T104217Z
+UID:espn-liga-f-401882484@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Athletic Club\nStatus: Firs
+ t Half\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882484
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Espanyol @ Real Sociedad
+DTSTART:20261024T100000Z
+DTEND:20261024T120000Z
+DTSTAMP:20261024T104217Z
+UID:espn-liga-f-401882477@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Real Sociedad\nStatus: Fir
+ st Half\nVenue: Instalaciones de Zubieta\, San Sebastian\n\nFixtures by He
+ rFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882477
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ CD Tenerife @ Real Madrid
+DTSTART:20261024T140000Z
+DTEND:20261024T160000Z
+DTSTAMP:20261024T104217Z
+UID:espn-liga-f-401882478@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Real Madrid\nStatus: Sc
+ heduled\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882478/cd-tenerife-real-
+ madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ FC Badalona @ Dux Logroño
+DTSTART:20261024T161500Z
+DTEND:20261024T181500Z
+DTSTAMP:20261024T104217Z
+UID:espn-liga-f-401882481@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Dux Logroño\nStatus: S
+ cheduled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — 
+ Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882481/fc-badalona-dux-l
+ ogrono
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Granada @ Barcelona
+DTSTART:20261024T183000Z
+DTEND:20261024T203000Z
+DTSTAMP:20261024T104217Z
+UID:espn-liga-f-401882479@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nGranada at Barcelona\nStatus: Schedule
+ d\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882479/granada-barcelona
 END:VEVENT
 END:VCALENDAR

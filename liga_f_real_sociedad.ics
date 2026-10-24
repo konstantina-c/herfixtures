@@ -9,4 +9,15 @@ X-WR-CALNAME:Real Sociedad — Liga F 2026/27 — HerFixtures
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Espanyol @ Real Sociedad
+DTSTART:20261024T100000Z
+DTEND:20261024T120000Z
+DTSTAMP:20261024T104217Z
+UID:espn-liga-f-401882477@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Real Sociedad\nStatus: Fir
+ st Half\nVenue: Instalaciones de Zubieta\, San Sebastian\n\nFixtures by He
+ rFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882477
+END:VEVENT
 END:VCALENDAR

@@ -9,4 +9,15 @@ X-WR-CALNAME:Granada — Liga F 2026/27 — HerFixtures
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Granada @ Barcelona
+DTSTART:20261024T183000Z
+DTEND:20261024T203000Z
+DTSTAMP:20261024T104217Z
+UID:espn-liga-f-401882479@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nGranada at Barcelona\nStatus: Schedule
+ d\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882479/granada-barcelona
+END:VEVENT
 END:VCALENDAR
