@@ -10,14 +10,15 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Sevilla @ Athletic Club
+SUMMARY:⚽ Sevilla @ Athletic Club (0–0)
 DTSTART:20261024T100000Z
 DTEND:20261024T120000Z
-DTSTAMP:20261024T104217Z
+DTSTAMP:20261024T203305Z
 UID:espn-liga-f-401882484@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Athletic Club\nStatus: Firs
- t Half\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by Her
- Fixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882484
+DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Athletic Club\nStatus: Full
+  Time\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882484/sevilla-athletic-
+ club
 END:VEVENT
 END:VCALENDAR
