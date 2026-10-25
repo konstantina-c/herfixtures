@@ -10,13 +10,13 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Alavés @ Deportivo
+SUMMARY:⚽ Alavés @ Deportivo (1–2)
 DTSTART:20261025T114500Z
 DTEND:20261025T134500Z
-DTSTAMP:20261025T110734Z
+DTSTAMP:20261025T204108Z
 UID:espn-liga-f-401882482@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Deportivo\nStatus: Schedule
- d\nVenue: Riazor\, La Coruña\n\nFixtures by HerFixtures.com — Women's S
+DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Deportivo\nStatus: Full Tim
+ e\nVenue: Riazor\, La Coruña\n\nFixtures by HerFixtures.com — Women's S
  ports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882482/alaves-deportivo
 END:VEVENT

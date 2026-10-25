@@ -10,12 +10,12 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Madrid CFF @ Eibar
+SUMMARY:⚽ Madrid CFF @ Eibar (2–2)
 DTSTART:20261025T160000Z
 DTEND:20261025T180000Z
-DTSTAMP:20261025T110734Z
+DTSTAMP:20261025T204108Z
 UID:espn-liga-f-401882480@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Eibar\nStatus: Scheduled
+DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Eibar\nStatus: Full Time
  \nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sports 
  on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882480/madrid-cff-eibar
