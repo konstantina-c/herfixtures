@@ -9,16 +9,4 @@ X-WR-CALNAME:FC Badalona — Liga F 2026/27 — HerFixtures
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
-BEGIN:VEVENT
-SUMMARY:⚽ FC Badalona @ Dux Logroño (0–1)
-DTSTART:20261024T161500Z
-DTEND:20261024T181500Z
-DTSTAMP:20261024T203305Z
-UID:espn-liga-f-401882481@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Dux Logroño\nStatus: F
- ull Time\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — 
- Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882481/fc-badalona-dux-l
- ogrono
-END:VEVENT
 END:VCALENDAR

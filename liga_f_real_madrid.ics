@@ -9,16 +9,4 @@ X-WR-CALNAME:Real Madrid — Liga F 2026/27 — HerFixtures
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
-BEGIN:VEVENT
-SUMMARY:⚽ CD Tenerife @ Real Madrid (2–3)
-DTSTART:20261024T140000Z
-DTEND:20261024T160000Z
-DTSTAMP:20261024T203305Z
-UID:espn-liga-f-401882478@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Real Madrid\nStatus: Fu
- ll Time\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFix
- tures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882478/cd-tenerife-real-
- madrid
-END:VEVENT
 END:VCALENDAR
