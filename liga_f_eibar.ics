@@ -10,14 +10,14 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Madrid CFF @ Eibar (2–2)
-DTSTART:20261025T160000Z
-DTEND:20261025T180000Z
-DTSTAMP:20261027T220158Z
-UID:espn-liga-f-401882480@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Eibar\nStatus: Full Time
- \nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sports 
- on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882480/madrid-cff-eibar
+SUMMARY:⚽ Eibar @ Valencia
+DTSTART:20261031T110000Z
+DTEND:20261031T130000Z
+DTSTAMP:20261028T123403Z
+UID:espn-liga-f-401882469@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nEibar at Valencia\nStatus: Scheduled\n
+ Venue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882469/eibar-valencia
 END:VEVENT
 END:VCALENDAR

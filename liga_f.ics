@@ -10,25 +10,50 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Alavés @ Deportivo (1–2)
-DTSTART:20261025T114500Z
-DTEND:20261025T134500Z
-DTSTAMP:20261027T220158Z
-UID:espn-liga-f-401882482@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Deportivo\nStatus: Full Tim
- e\nVenue: Riazor\, La Coruña\n\nFixtures by HerFixtures.com — Women's S
- ports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882482/alaves-deportivo
+SUMMARY:⚽ Atlético Madrid @ Granada
+DTSTART:20261031T110000Z
+DTEND:20261031T130000Z
+DTSTAMP:20261028T123403Z
+UID:espn-liga-f-401882473@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Granada\nStatus: S
+ cheduled\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by 
+ HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882473/atletico-madrid-g
+ ranada
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Madrid CFF @ Eibar (2–2)
-DTSTART:20261025T160000Z
-DTEND:20261025T180000Z
-DTSTAMP:20261027T220158Z
-UID:espn-liga-f-401882480@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Eibar\nStatus: Full Time
- \nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sports 
- on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882480/madrid-cff-eibar
+SUMMARY:⚽ Eibar @ Valencia
+DTSTART:20261031T110000Z
+DTEND:20261031T130000Z
+DTSTAMP:20261028T123403Z
+UID:espn-liga-f-401882469@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nEibar at Valencia\nStatus: Scheduled\n
+ Venue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882469/eibar-valencia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Dux Logroño @ Espanyol
+DTSTART:20261031T150000Z
+DTEND:20261031T170000Z
+DTSTAMP:20261028T123403Z
+UID:espn-liga-f-401882474@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Espanyol\nStatus: Sche
+ duled\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882474/dux-logrono-espan
+ yol
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Deportivo @ Madrid CFF
+DTSTART:20261031T170000Z
+DTEND:20261031T190000Z
+DTSTAMP:20261028T123403Z
+UID:espn-liga-f-401882472@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Madrid CFF\nStatus: Sched
+ uled\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882472/deportivo-madrid-
+ cff
 END:VEVENT
 END:VCALENDAR
