@@ -13,11 +13,11 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ Valencia
 DTSTART:20261031T110000Z
 DTEND:20261031T130000Z
-DTSTAMP:20261030T220919Z
+DTSTAMP:20261031T120211Z
 UID:espn-liga-f-401882469@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nEibar at Valencia\nStatus: Scheduled\n
- Venue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtures.com 
+DESCRIPTION:Spanish Liga F 2026/27\nEibar at Valencia\nStatus: Halftime\nV
+ enue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtures.com 
  — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882469/eibar-valencia
+URL:https://www.espn.com/soccer/match/_/gameId/401882469
 END:VEVENT
 END:VCALENDAR
