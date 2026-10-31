@@ -10,14 +10,15 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Atlético Madrid @ Granada
+SUMMARY:⚽ Atlético Madrid @ Granada (1–1)
 DTSTART:20261031T110000Z
 DTEND:20261031T130000Z
-DTSTAMP:20261031T120211Z
+DTSTAMP:20261031T211836Z
 UID:espn-liga-f-401882473@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Granada\nStatus: S
- econd Half\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures b
- y HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882473
+DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Granada\nStatus: F
+ ull Time\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by 
+ HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882473/atletico-madrid-g
+ ranada
 END:VEVENT
 END:VCALENDAR
