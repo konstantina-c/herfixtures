@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Sociedad @ Alavés (1–1)
 DTSTART:20261101T110000Z
 DTEND:20261101T130000Z
-DTSTAMP:20261101T130303Z
+DTSTAMP:20261101T215513Z
 UID:espn-liga-f-401882476@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Alavés\nStatus: Full
   Time\nVenue: Mendizorrotza\, Vitoria-Gasteiz\n\nFixtures by HerFixtures.c
@@ -22,24 +22,25 @@ URL:https://www.espn.com/soccer/match/_/gameId/401882476/real-sociedad-ala
  ves
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Barcelona @ FC Badalona
+SUMMARY:⚽ Barcelona @ FC Badalona (4–0)
 DTSTART:20261101T113000Z
 DTEND:20261101T133000Z
-DTSTAMP:20261101T130303Z
+DTSTAMP:20261101T215513Z
 UID:espn-liga-f-401882471@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at FC Badalona\nStatus: Seco
- nd Half\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixtu
- res.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882471
+DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at FC Badalona\nStatus: Full
+  Time\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882471/barcelona-fc-bada
+ lona
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Real Madrid @ Sevilla
+SUMMARY:⚽ Real Madrid @ Sevilla (3–1)
 DTSTART:20261101T180000Z
 DTEND:20261101T200000Z
-DTSTAMP:20261101T130303Z
+DTSTAMP:20261101T215513Z
 UID:espn-liga-f-401882470@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Sevilla\nStatus: Schedu
- led\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.com 
+DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Sevilla\nStatus: Full T
+ ime\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.com 
  — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882470/real-madrid-sevil
  la
