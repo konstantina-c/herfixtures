@@ -9,4 +9,15 @@ X-WR-CALNAME:Barcelona — Liga F 2026/27 — HerFixtures
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Barcelona @ FC Badalona
+DTSTART:20261101T113000Z
+DTEND:20261101T133000Z
+DTSTAMP:20261101T130303Z
+UID:espn-liga-f-401882471@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at FC Badalona\nStatus: Seco
+ nd Half\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882471
+END:VEVENT
 END:VCALENDAR

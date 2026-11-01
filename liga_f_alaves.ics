@@ -9,4 +9,16 @@ X-WR-CALNAME:Alavés — Liga F 2026/27 — HerFixtures
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Real Sociedad @ Alavés (1–1)
+DTSTART:20261101T110000Z
+DTEND:20261101T130000Z
+DTSTAMP:20261101T130303Z
+UID:espn-liga-f-401882476@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Alavés\nStatus: Full
+  Time\nVenue: Mendizorrotza\, Vitoria-Gasteiz\n\nFixtures by HerFixtures.c
+ om — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882476/real-sociedad-ala
+ ves
+END:VEVENT
 END:VCALENDAR
