@@ -9,16 +9,4 @@ X-WR-CALNAME:Real Madrid — Liga F 2026/27 — HerFixtures
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
-BEGIN:VEVENT
-SUMMARY:⚽ Real Madrid @ Sevilla (3–1)
-DTSTART:20261101T180000Z
-DTEND:20261101T200000Z
-DTSTAMP:20261101T215513Z
-UID:espn-liga-f-401882470@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Sevilla\nStatus: Full T
- ime\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.com 
- — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882470/real-madrid-sevil
- la
-END:VEVENT
 END:VCALENDAR
