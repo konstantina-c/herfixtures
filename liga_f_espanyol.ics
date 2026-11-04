@@ -9,4 +9,15 @@ X-WR-CALNAME:Espanyol — Liga F 2026/27 — HerFixtures
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Espanyol @ Granada
+DTSTART:20261107T110000Z
+DTEND:20261107T130000Z
+DTSTAMP:20261104T141300Z
+UID:espn-liga-f-401882461@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Granada\nStatus: Scheduled
+ \nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882461/espanyol-granada
+END:VEVENT
 END:VCALENDAR

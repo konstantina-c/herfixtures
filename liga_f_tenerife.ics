@@ -9,16 +9,4 @@ X-WR-CALNAME:CD Tenerife — Liga F 2026/27 — HerFixtures
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
-BEGIN:VEVENT
-SUMMARY:⚽ Athletic Club @ Tenerife (0–2)
-DTSTART:20261102T200000Z
-DTEND:20261102T220000Z
-DTSTAMP:20261103T230657Z
-UID:espn-liga-f-401882475@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Tenerife\nStatus: Ful
- l Time\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerif
- e\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882475/athletic-club-ten
- erife
-END:VEVENT
 END:VCALENDAR
