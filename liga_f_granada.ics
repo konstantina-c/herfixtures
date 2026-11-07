@@ -10,14 +10,14 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Espanyol @ Granada
+SUMMARY:⚽ Espanyol @ Granada (1–0)
 DTSTART:20261107T110000Z
 DTEND:20261107T130000Z
-DTSTAMP:20261107T124732Z
+DTSTAMP:20261107T214049Z
 UID:espn-liga-f-401882461@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Granada\nStatus: Second Ha
- lf\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by HerFix
- tures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882461
+DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Granada\nStatus: Full Time
+ \nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882461/espanyol-granada
 END:VEVENT
 END:VCALENDAR
