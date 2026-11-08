@@ -9,4 +9,15 @@ X-WR-CALNAME:CD Tenerife — Liga F 2026/27 — HerFixtures
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Alavés @ Tenerife (0–0)
+DTSTART:20261108T120000Z
+DTEND:20261108T140000Z
+DTSTAMP:20261108T130747Z
+UID:espn-liga-f-401882466@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Tenerife\nStatus: Postponed
+ \nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882466/alaves-tenerife
+END:VEVENT
 END:VCALENDAR
