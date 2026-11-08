@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Dux Logroño (2–2)
 DTSTART:20261108T110000Z
 DTEND:20261108T130000Z
-DTSTAMP:20261108T130747Z
+DTSTAMP:20261108T215436Z
 UID:espn-liga-f-401882464@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Dux Logroño\nStatus: Full 
  Time\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — Wome
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Tenerife (0–0)
 DTSTART:20261108T120000Z
 DTEND:20261108T140000Z
-DTSTAMP:20261108T130747Z
+DTSTAMP:20261108T215436Z
 UID:espn-liga-f-401882466@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Tenerife\nStatus: Postponed
  \nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife\n\nF
@@ -33,13 +33,13 @@ DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Tenerife\nStatus: Postponed
 URL:https://www.espn.com/soccer/match/_/gameId/401882466/alaves-tenerife
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Madrid CFF @ Barcelona
+SUMMARY:⚽ Madrid CFF @ Barcelona (1–5)
 DTSTART:20261108T150000Z
 DTEND:20261108T170000Z
-DTSTAMP:20261108T130747Z
+DTSTAMP:20261108T215436Z
 UID:espn-liga-f-401882462@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Barcelona\nStatus: Sched
- uled\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures.co
+DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Barcelona\nStatus: Full 
+ Time\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures.co
  m — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882462/madrid-cff-barcel
  ona
