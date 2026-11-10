@@ -10,25 +10,25 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ FC Badalona @ Atlético Madrid
+SUMMARY:⚽ FC Badalona @ Atlético Madrid (0–3)
 DTSTART:20261109T180000Z
 DTEND:20261109T200000Z
-DTSTAMP:20261109T155233Z
+DTSTAMP:20261110T012421Z
 UID:espn-liga-f-401882467@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Atlético Madrid\nStatu
- s: Scheduled\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de Hena
+ s: Full Time\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de Hena
  res\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882467/fc-badalona-atlet
  ico-madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Valencia @ Deportivo
+SUMMARY:⚽ Valencia @ Deportivo (2–0)
 DTSTART:20261109T200000Z
 DTEND:20261109T220000Z
-DTSTAMP:20261109T155233Z
+DTSTAMP:20261110T012421Z
 UID:espn-liga-f-401882465@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nValencia at Deportivo\nStatus: Schedul
- ed\nVenue: Riazor\, La Coruña\n\nFixtures by HerFixtures.com — Women's 
+DESCRIPTION:Spanish Liga F 2026/27\nValencia at Deportivo\nStatus: Full Ti
+ me\nVenue: Riazor\, La Coruña\n\nFixtures by HerFixtures.com — Women's 
  Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882465/valencia-deportiv
  o
