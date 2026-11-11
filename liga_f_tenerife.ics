@@ -9,4 +9,15 @@ X-WR-CALNAME:CD Tenerife — Liga F 2026/27 — HerFixtures
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Tenerife @ Espanyol
+DTSTART:20261114T110000Z
+DTEND:20261114T130000Z
+DTSTAMP:20261111T135645Z
+UID:espn-liga-f-401882458@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nTenerife at Espanyol\nStatus: Schedule
+ d\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882458/tenerife-espanyol
+END:VEVENT
 END:VCALENDAR

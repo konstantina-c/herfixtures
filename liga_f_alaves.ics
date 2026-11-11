@@ -9,4 +9,15 @@ X-WR-CALNAME:Alavés — Liga F 2026/27 — HerFixtures
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Eibar @ Alavés
+DTSTART:20261114T170000Z
+DTEND:20261114T190000Z
+DTSTAMP:20261111T135645Z
+UID:espn-liga-f-401882460@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nEibar at Alavés\nStatus: Scheduled\nV
+ enue: Mendizorrotza\, Vitoria-Gasteiz\n\nFixtures by HerFixtures.com — W
+ omen's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401882460/eibar-alaves
+END:VEVENT
 END:VCALENDAR
