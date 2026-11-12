@@ -1227,12 +1227,12 @@ body {
 
       <div class="feed-cards">
 
-        <!-- 1. Frauen-Bundesliga — pinned first; season starts 21 Aug 2026 -->
+        <!-- 1. Frauen-Bundesliga — pinned first; 2026/27 season in progress (21 Aug 2026 – May 2027) -->
         <div class="feed-card" data-sport="football">
           <div class="feed-header">
             <div class="feed-icon">⚽</div>
             <div class="feed-info">
-              <div class="feed-badge badge-live">Starts 21 August 2026</div>
+              <div class="feed-badge badge-live">Season in progress</div>
               <div class="feed-name">Frauen-Bundesliga</div>
               <div class="feed-meta">Football · Germany · 2026/27 season</div>
             </div>
@@ -1245,12 +1245,12 @@ body {
           </div>
         </div>
 
-        <!-- 2. Liga F — season starts 29 Aug 2026 -->
+        <!-- 2. Liga F — 2026/27 season in progress (started 29 Aug 2026) -->
         <div class="feed-card" data-sport="football">
           <div class="feed-header">
             <div class="feed-icon">⚽</div>
             <div class="feed-info">
-              <div class="feed-badge badge-live">Starts 29 August 2026</div>
+              <div class="feed-badge badge-live">Season in progress</div>
               <div class="feed-name">Liga F</div>
               <div class="feed-meta">Football · Spain · 2026/27 season</div>
             </div>
@@ -1263,30 +1263,28 @@ body {
           </div>
         </div>
 
-        <!-- 3. FIBA Women's Basketball World Cup 2026 — group phase starts 4 Sep -->
+        <!-- 3. FIBA Women's Basketball World Cup 2026 — tournament complete (final 13 Sep 2026) -->
         <div class="feed-card" data-sport="basketball">
           <div class="feed-header">
             <div class="feed-icon">🏀</div>
             <div class="feed-info">
-              <div class="feed-badge badge-live">Starts 4 September 2026</div>
+              <div class="feed-badge badge-offseason">Tournament complete</div>
               <div class="feed-name">FIBA Women's World Cup</div>
               <div class="feed-meta">Basketball · Berlin · 4–13 September 2026</div>
             </div>
           </div>
           <div class="feed-divider"></div>
           <div class="feed-actions">
-            <button class="btn-cal btn-choose-team" onclick="openFIBAModal()" aria-haspopup="dialog">
-              Add to Calendar
-            </button>
+            <span class="btn-cal-disabled">Add to Calendar</span>
           </div>
         </div>
 
-        <!-- 5. WNBA — active season -->
+        <!-- 5. WNBA — off-season (2026 Finals ended 31 Oct 2026); team feeds stay subscribable -->
         <div class="feed-card" data-sport="basketball">
           <div class="feed-header">
             <div class="feed-icon">🏀</div>
             <div class="feed-info">
-              <div class="feed-badge badge-live">Season in progress</div>
+              <div class="feed-badge badge-offseason">Off-season</div>
               <div class="feed-name">WNBA</div>
               <div class="feed-meta">Basketball · USA · 2026 Season</div>
             </div>
@@ -1299,12 +1297,12 @@ body {
           </div>
         </div>
 
-        <!-- 6. NWSL — active season -->
+        <!-- 6. NWSL — playoffs; Championship 21 Nov 2026 -->
         <div class="feed-card" data-sport="football">
           <div class="feed-header">
             <div class="feed-icon">⚽</div>
             <div class="feed-info">
-              <div class="feed-badge badge-live">Season in progress</div>
+              <div class="feed-badge badge-live">Playoffs · Final 21 Nov</div>
               <div class="feed-name">NWSL</div>
               <div class="feed-meta">Football · USA · 2026 Season</div>
             </div>
@@ -1317,20 +1315,21 @@ body {
           </div>
         </div>
 
-        <!-- 7. UCL Women — state derived from scores.json (ucl-women) -->
+        <!-- 7. UCL Women — 2026/27 league phase in progress (22 Sep – 16 Dec 2026) -->
         <div class="feed-card" id="ucl-feed-card" data-sport="football">
           <div class="feed-header">
             <div class="feed-icon">⚽</div>
             <div class="feed-info">
-              <div class="feed-badge badge-offseason" id="ucl-feed-badge">New season starts 22 July</div>
+              <div class="feed-badge badge-live" id="ucl-feed-badge">Season in progress</div>
               <div class="feed-name">Women's Champions League</div>
               <div class="feed-meta" id="ucl-feed-meta">UEFA · Europe · 2026/27 season</div>
             </div>
           </div>
           <div class="feed-divider"></div>
           <div class="feed-actions" id="ucl-feed-actions">
-            <span class="btn-cal-disabled">Add to Google</span>
-            <span class="btn-cal-disabled">Add to Apple</span>
+            <button class="btn-cal btn-choose-team" onclick="openUCLModal()" aria-haspopup="dialog">
+              Add to Calendar
+            </button>
           </div>
         </div>
 
@@ -1346,25 +1345,24 @@ body {
           </div>
           <div class="feed-divider"></div>
           <div class="feed-actions">
-            <span class="btn-cal-disabled">Add to Google</span>
-            <span class="btn-cal-disabled">Add to Apple</span>
+            <span class="btn-cal-disabled">Add to Calendar</span>
           </div>
         </div>
 
-        <!-- 9. EuroLeague Women — off-season -->
+        <!-- 9. EuroLeague Women — 2026/27 season in progress (from 14 Oct 2026).
+             Button stays disabled until euroleague_women.ics is fixed (currently serves wrong data). -->
         <div class="feed-card" data-sport="basketball">
           <div class="feed-header">
             <div class="feed-icon">🏀</div>
             <div class="feed-info">
-              <div class="feed-badge badge-offseason">Season resumes October 2026</div>
+              <div class="feed-badge badge-offseason">Feed coming soon</div>
               <div class="feed-name">EuroLeague Women</div>
-              <div class="feed-meta">Basketball · Europe · 2025/26 season complete</div>
+              <div class="feed-meta">Basketball · Europe · 2026/27 season</div>
             </div>
           </div>
           <div class="feed-divider"></div>
           <div class="feed-actions">
-            <span class="btn-cal-disabled">Add to Google</span>
-            <span class="btn-cal-disabled">Add to Apple</span>
+            <span class="btn-cal-disabled">Add to Calendar</span>
           </div>
         </div>
 
@@ -1763,7 +1761,7 @@ async function subscribeHer(emailId, leagueId, btn) {
     <div id="feedMain">
       <div class="wnba-modal-head">
         <div>
-          <div class="wnba-modal-title">Choose your team</div>
+          <div class="wnba-modal-title" id="feedTitle">Choose your team</div>
           <div class="wnba-modal-sub" id="feedSub">Select one or more — each adds a separate feed to your calendar.</div>
         </div>
         <button class="wnba-close" onclick="FeedModal.close()" aria-label="Close">✕</button>
@@ -1922,6 +1920,17 @@ const FRAUEN_BL_CONFIG = {
   ]
 };
 
+// UCL Women has no team feeds — one league-wide feed (womens_ucl.ics).
+const UCL_CONFIG = {
+  leagueSlug:  'womens_ucl',
+  gaLabel:     'UCL Women',
+  title:       "Women's Champions League",
+  sub:         'All 2026/27 matches in one calendar feed.',
+  teams: [
+    { name: "All matches", slug: "womens_ucl", emoji: "⚽" },
+  ],
+};
+
 const FIBA_CONFIG = {
   leagueSlug:  'fiba_womens_world_cup_2026',
   gaLabel:     'FIBA WWC 2026',
@@ -2000,7 +2009,7 @@ const FeedModal = (() => {
     const hasAll = selected.some(t => t.dataset.slug === leagueSlug);
     const teamOnly = selected.filter(t => t.dataset.slug !== leagueSlug).length;
     const suffix = platform === 'google' ? 'Google' : 'Apple';
-    if (count === 0)                      return `Add to ${suffix}`;
+    if (count === 0 || _config.teams.length === 1) return `Add to ${suffix}`;
     if (hasAll && teamOnly === 0)         return `Add all teams to ${suffix}`;
     if (!hasAll && count === 1)           return `Add ${selected[0].querySelector('.wnba-tile-name').textContent.trim()} to ${suffix}`;
     if (hasAll && teamOnly > 0)           return `Add selections to ${suffix}`;
@@ -2022,11 +2031,18 @@ const FeedModal = (() => {
     _config = null;
   }
 
+  const DEFAULT_TITLE = 'Choose your team';
+  const DEFAULT_SUB   = 'Select one or more — each adds a separate feed to your calendar.';
+
   return {
     open(config) {
       _config = config;
       grid().dataset.league = config.leagueSlug;
+      document.getElementById('feedTitle').textContent = config.title || DEFAULT_TITLE;
+      document.getElementById('feedSub').textContent   = config.sub   || DEFAULT_SUB;
       renderTiles(config.teams);
+      // Single-feed competitions: nothing to choose, so pre-select the only tile.
+      if (config.teams.length === 1) grid().querySelector('.wnba-tile').classList.add('is-selected');
       updateButtons();
       overlay().classList.remove('is-closing');
       overlay().classList.add('is-open');
@@ -2084,6 +2100,7 @@ function openICCModal()      { FeedModal.open(ICC_CONFIG);       }
 function openLigaFModal()    { FeedModal.open(LIGA_F_CONFIG);    }
 function openFrauenBLModal() { FeedModal.open(FRAUEN_BL_CONFIG); }
 function openFIBAModal()     { FeedModal.open(FIBA_CONFIG);      }
+function openUCLModal()      { FeedModal.open(UCL_CONFIG);       }
 
 /* ── Sport filter pills ──────────────────────────────────────────────────── */
 (function () {
@@ -2409,26 +2426,9 @@ const DEMO = {
   },
 };
 
-function updateUCLCard(data) {
-  const ucl = (data.competitions || {})['ucl-women'];
-  const hasData = ucl && (
-    (ucl.postgame || []).length > 0 ||
-    (ucl.livegame || []).length > 0 ||
-    (ucl.pregame  || []).length > 0
-  );
-  if (!hasData) return;
-  const badge   = document.getElementById('ucl-feed-badge');
-  const actions = document.getElementById('ucl-feed-actions');
-  badge.className   = 'feed-badge badge-live';
-  badge.textContent = 'Season in progress';
-  actions.innerHTML =
-    `<button class="btn-cal" onclick="handleCalendarClick(event,'https://calendar.google.com/calendar/r?cid=webcal://herfixtures.com/womens_ucl.ics','UCL Women','google')">Add to Google</button>` +
-    `<button class="btn-cal" onclick="handleCalendarClick(event,'webcal://herfixtures.com/womens_ucl.ics','UCL Women','apple')">Add to Apple</button>`;
-}
-
 fetch('/scores.json')
   .then(r => { if (!r.ok) throw 0; return r.json(); })
-  .then(data => { render(data); updateUCLCard(data); })
+  .then(data => { render(data); })
   .catch(() => render(DEMO));
 
 /* ── Controls ─────────────────────────────────────────── */
