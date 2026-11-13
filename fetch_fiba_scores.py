@@ -15,6 +15,8 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
+from espn_common import fetch_days, safe_write_ics  # shrink guard: never overwrite a feed with <50% of its events
+
 ROOT            = Path(__file__).resolve().parent
 FIXTURES_FILE   = ROOT / "feeds" / "fiba-wwc-2026" / "fixtures.json"
 ALL_ICS_FILE    = ROOT / "feeds" / "fiba-wwc-2026" / "all.ics"
@@ -124,16 +126,13 @@ def fetch_espn() -> dict[frozenset, list[dict]]:
     A pair can meet more than once (a group-stage game and a knockout rematch),
     so every meeting is kept and callers match on date via match_result().
     """
-    today = datetime.now(timezone.utc).strftime("%Y%m%d")
+    # ESPN rejects date ranges since 2026-09-15 (HTTP 400), which silently
+    # dropped every score from these feeds. Fetch one day at a time instead.
+    start = datetime.strptime(TOURNAMENT_START, "%Y%m%d").date()
+    end = min(datetime.now(timezone.utc).date(), start + timedelta(days=12))  # tournament: Sept 4–13
     try:
-        r = requests.get(
-            f"{ESPN_BASE}/scoreboard",
-            params={"dates": f"{TOURNAMENT_START}-{today}", "limit": 100},
-            timeout=10,
-        )
-        r.raise_for_status()
-        events = r.json().get("events", [])
-    except requests.exceptions.RequestException as e:
+        events = list(fetch_days(f"{ESPN_BASE}/scoreboard", start, end).values())
+    except RuntimeError as e:
         print(f"  ⚠️  ESPN fetch failed — feeds will regenerate without scores: {e}")
         return {}
 
@@ -468,17 +467,17 @@ def main() -> None:
 
     # Combined feed
     calendar, omitted, scored = build_all_ics(data, espn)
-    ALL_ICS_FILE.write_text(calendar, encoding="utf-8", newline="")
     total = 36 - len(omitted)
-    print(f"Wrote all.ics: {total} events ({scored} with final scores); omitted: {omitted}")
+    if safe_write_ics(ALL_ICS_FILE, calendar):
+        print(f"Wrote all.ics: {total} events ({scored} with final scores); omitted: {omitted}")
 
     # Per-team feeds
     print("Generating team feeds...")
     for team_name, slug in FIBA_TEAMS:
         out = ROOT / f"fiba_wwc_{slug}.ics"
         cal, count = build_team_ics(data, espn, team_name)
-        out.write_text(cal, encoding="utf-8", newline="")
-        print(f"  ✓ fiba_wwc_{slug}.ics ({count} events)")
+        if safe_write_ics(out, cal):
+            print(f"  ✓ fiba_wwc_{slug}.ics ({count} events)")
 
     # Patch scores.json — run after fetch_scores_json.py so we add, not replace
     try:

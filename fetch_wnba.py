@@ -4,57 +4,24 @@ HerFixtures — WNBA feed generator
 Uses ESPN public API (no key required) to fetch fixtures and write wnba.ics.
 """
 
-import requests
 from datetime import datetime, timezone, timedelta, date
 from icalendar import Calendar, Event
 
+from espn_common import fetch_days, is_placeholder, safe_write_ics
+
 OUTPUT_FILE = "wnba.ics"
 BASE_URL = "https://site.api.espn.com/apis/site/v2/sports/basketball/wnba"
-HEADERS = {}  # requests default (python-requests/<version>) passes ESPN WAF; Mozilla/5.0 does not
 
-TODAY = datetime.now(timezone.utc).date()
-SEASON_START = date(2026, 5, 16)
-DATE_TO = TODAY + timedelta(days=60)
+# 2026 season incl. playoffs/Finals (Game 7 was Oct 31). ESPN rejects date
+# ranges since 2026-09-15, so the season is fetched one day at a time
+# (cached per run, shared with fetch_wnba_teams.py).
+SEASON_START = date(2026, 5, 8)
+SEASON_END = date(2026, 11, 5)
 
 
 def fetch_games():
-    session = requests.Session()
-    session.headers.update(HEADERS)
-    games = {}
-
-    # Future first: one wide call from today to DATE_TO (may lack scores)
-    try:
-        r = session.get(
-            f"{BASE_URL}/scoreboard",
-            params={"dates": f"{TODAY.strftime('%Y%m%d')}-{DATE_TO.strftime('%Y%m%d')}", "limit": 200},
-            timeout=10,
-        )
-        r.raise_for_status()
-        for event in r.json().get("events", []):
-            games[event["id"]] = event
-    except requests.exceptions.RequestException as e:
-        print(f"  ⚠️  Future scoreboard error, skipping: {e}")
-
-    # Past last: week by week from season start to yesterday — overwrites future
-    # entries for any game that has since completed, ensuring scores are present
-    yesterday = TODAY - timedelta(days=1)
-    current = SEASON_START
-    while current <= yesterday:
-        week_end = min(current + timedelta(days=6), yesterday)
-        try:
-            r = session.get(
-                f"{BASE_URL}/scoreboard",
-                params={"dates": f"{current.strftime('%Y%m%d')}-{week_end.strftime('%Y%m%d')}", "limit": 50},
-                timeout=10,
-            )
-            r.raise_for_status()
-            for event in r.json().get("events", []):
-                games[event["id"]] = event
-        except requests.exceptions.RequestException as e:
-            print(f"  ⚠️  Scoreboard {current}–{week_end} error, skipping: {e}")
-        current += timedelta(days=7)
-
-    return list(games.values())
+    games = fetch_days(f"{BASE_URL}/scoreboard", SEASON_START, SEASON_END)
+    return [ev for ev in games.values() if not is_placeholder(ev)]
 
 
 def parse_event(event):
@@ -145,8 +112,12 @@ def build_calendar(events):
 
 
 def main():
-    print(f"Fetching WNBA 2026 games from {SEASON_START} to {DATE_TO}...")
-    events = fetch_games()
+    print(f"Fetching WNBA 2026 games from {SEASON_START} to {SEASON_END} (one request per day)...")
+    try:
+        events = fetch_games()
+    except RuntimeError as e:
+        print(f"  ⚠️  {e} — keeping existing {OUTPUT_FILE}")
+        return
     print(f"  → {len(events)} games fetched")
 
     if not events:
@@ -154,11 +125,8 @@ def main():
         return
 
     cal = build_calendar(events)
-
-    with open(OUTPUT_FILE, "wb") as f:
-        f.write(cal.to_ical())
-
-    print(f"  → {OUTPUT_FILE} written successfully")
+    if safe_write_ics(OUTPUT_FILE, cal.to_ical()):
+        print(f"  → {OUTPUT_FILE} written successfully")
 
 
 if __name__ == "__main__":

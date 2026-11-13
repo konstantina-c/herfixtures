@@ -12,6 +12,8 @@ import requests
 from datetime import datetime, timezone, timedelta
 from icalendar import Calendar, Event
 
+from espn_common import safe_write_ics  # shrink guard: never overwrite a feed with <50% of its events
+
 OUTPUT_FILE = "nwsl.ics"
 BASE_URL = "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.nwsl"
 HEADERS = {}  # requests default (python-requests/<version>) passes ESPN WAF; Mozilla/5.0 does not
@@ -162,10 +164,8 @@ def main():
 
     cal = build_calendar(events)
 
-    with open(OUTPUT_FILE, "wb") as f:
-        f.write(cal.to_ical())
-
-    print(f"  → {OUTPUT_FILE} written successfully")
+    if safe_write_ics(OUTPUT_FILE, cal.to_ical()):
+        print(f"  → {OUTPUT_FILE} written successfully")
 
 
 if __name__ == "__main__":

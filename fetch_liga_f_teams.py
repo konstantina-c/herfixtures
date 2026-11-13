@@ -3,19 +3,20 @@
 HerFixtures — Spanish Liga F individual team feed generator
 Uses ESPN public API (no key required) to generate per-team .ics feeds.
 
-Strategy: fetches the full season once via date range scoreboard, then filters
-events per team in Python. Avoids 16 individual API calls (team schedule
-endpoint returns no data for this league before fixtures are confirmed).
+Strategy: fetches the full season once, one day at a time via
+espn_common.fetch_days() (ESPN rejects date ranges since 2026-09-15; the
+day cache is shared with fetch_liga_f.py within a refresh run), then filters
+events per team in Python. Every team file goes through the shrink guard.
 """
 
-import requests
-from datetime import datetime, timezone, timedelta
+from datetime import date, datetime, timezone, timedelta
 from icalendar import Calendar, Event
 
+from espn_common import fetch_days, is_placeholder, safe_write_ics
+
 BASE_URL     = "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.w.1"
-HEADERS      = {}  # requests default (python-requests/<version>) passes ESPN WAF; Mozilla/5.0 does not
-SEASON_START = "20260801"
-SEASON_END   = "20270701"
+SEASON_START = date(2026, 8, 1)
+SEASON_END   = date(2027, 6, 30)
 
 # ESPN team ID → (display name, output slug)
 LIGA_F_TEAMS = {
@@ -39,35 +40,8 @@ LIGA_F_TEAMS = {
 
 
 def fetch_all_games():
-    games = {}
-    session = requests.Session()
-    session.headers.update(HEADERS)
-
-    try:
-        r = session.get(
-            f"{BASE_URL}/scoreboard",
-            params={"dates": f"{SEASON_START}-{SEASON_END}", "limit": 300},
-            timeout=15,
-        )
-        r.raise_for_status()
-        for event in r.json().get("events", []):
-            eid = event.get("id")
-            if eid:
-                games[eid] = event
-    except requests.exceptions.RequestException as e:
-        print(f"  ⚠️  Season range scoreboard error: {e}")
-
-    try:
-        r = session.get(f"{BASE_URL}/scoreboard", timeout=10)
-        r.raise_for_status()
-        for event in r.json().get("events", []):
-            eid = event.get("id")
-            if eid:
-                games[eid] = event
-    except requests.exceptions.RequestException as e:
-        print(f"  ⚠️  Default scoreboard error: {e}")
-
-    return list(games.values())
+    games = fetch_days(f"{BASE_URL}/scoreboard", SEASON_START, SEASON_END)
+    return [ev for ev in games.values() if not is_placeholder(ev)]
 
 
 def events_for_team(all_events, team_id):
@@ -182,9 +156,16 @@ def build_calendar(events, display_name):
 
 
 def main():
-    print("Fetching full Liga F 2026/27 season from ESPN...")
-    all_events = fetch_all_games()
+    print("Fetching full Liga F 2026/27 season from ESPN (one request per day)...")
+    try:
+        all_events = fetch_all_games()
+    except RuntimeError as e:
+        print(f"  ⚠️  {e} — keeping all existing team feeds")
+        return
     print(f"  → {len(all_events)} total events fetched")
+    if not all_events:
+        print("  ⚠️  No events returned — keeping all existing team feeds")
+        return
     print()
     print("Generating Liga F team feeds...")
 
@@ -194,10 +175,9 @@ def main():
             team_events = events_for_team(all_events, team_id)
             cal = build_calendar(team_events, display_name)
             output_file = f"liga_f_{output_slug}.ics"
-            with open(output_file, "wb") as f:
-                f.write(cal.to_ical())
-            print(f"  ✓ {output_file:45} ({len(team_events)} events)")
-            success += 1
+            if safe_write_ics(output_file, cal.to_ical()):
+                print(f"  ✓ {output_file:45} ({len(team_events)} events)")
+                success += 1
         except Exception as e:
             print(f"  ✗ {display_name}: {e}")
 

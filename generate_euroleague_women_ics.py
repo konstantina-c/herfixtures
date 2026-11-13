@@ -18,6 +18,8 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
+from espn_common import safe_write_ics  # shrink guard
+
 ROOT = Path(__file__).resolve().parent
 DATA_FILE = ROOT / "feeds" / "euroleague-women-2026-27" / "fixtures.json"
 OUTPUT_FILE = ROOT / "euroleague_women.ics"  # public URL kept for existing subscribers
@@ -127,8 +129,8 @@ def main() -> None:
     calendar, count = build(data)
     if count == 0:
         sys.exit("No fixtures - refusing to overwrite euroleague_women.ics")
-    OUTPUT_FILE.write_bytes(calendar.encode("utf-8"))
-    print(f"Wrote {OUTPUT_FILE.name}: {count} events")
+    if safe_write_ics(OUTPUT_FILE, calendar):
+        print(f"Wrote {OUTPUT_FILE.name}: {count} events")
 
 
 if __name__ == "__main__":

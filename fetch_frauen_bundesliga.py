@@ -14,6 +14,8 @@ import requests
 from datetime import datetime, timezone, timedelta
 from icalendar import Calendar, Event
 
+from espn_common import safe_write_ics  # shrink guard: never overwrite a feed with <50% of its events
+
 API_URL     = "https://api.openligadb.de/getmatchdata/ffb1/2026"
 OUTPUT_FILE = "frauen_bundesliga.ics"
 HEADERS     = {"User-Agent": "HerFixtures/1.0"}
@@ -161,10 +163,8 @@ def main():
         print("  ⚠️  No events — skipping write to preserve existing file")
         return
 
-    with open(OUTPUT_FILE, "wb") as f:
-        f.write(cal.to_ical())
-
-    print(f"  → {OUTPUT_FILE} written successfully")
+    if safe_write_ics(OUTPUT_FILE, cal.to_ical()):
+        print(f"  → {OUTPUT_FILE} written successfully")
 
 
 if __name__ == "__main__":

@@ -57,6 +57,33 @@ The `api/subscribe.js` endpoint only works when deployed to Vercel (it uses `pro
 
 The feed scripts need no secrets. RapidAPI was dropped in Nov 2026 — never hardcode an API key as a fallback in source.
 
+## Who reviews what (decided Nov 13, 2026)
+
+- **Konstantina reviews and merges** anything a visitor sees or experiences: `index.html`, any `.html`, `blog/`, `assets/`, CSS, images, copy, links, bottom sheets, add-to-calendar flows. She checks it on the Vercel Preview like a design review on staging.
+- **Claude owns everything technical** (fetch scripts, feeds, workflows, infra, tooling) end to end, from branch to merge to production check. It uses only:
+  - `bash scripts/push_branch.sh`: pushes the current feature branch; never main, never force.
+  - `bash scripts/merge_pr.sh <n>`: squash-merges a PR only if it's open, targets main, touches **no** visual/experience file, is mergeable, and all checks pass.
+  - `bash scripts/publish_feed_update.sh`: feed-data-only pushes to main (scheduled runs).
+  - `git push` and `gh pr merge` stay denied in `.claude/settings.json`.
+
+### Technical release checklist (every non-visual PR)
+
+1. Root cause confirmed from evidence (run logs, git history), not assumed.
+2. Branch from a fresh `git pull --ff-only` of main.
+3. `python3 -m py_compile` on every changed `.py`; run every changed fetch script locally.
+4. Event counts before → after for every touched feed; `python3 scripts/check_feed_health.py` all healthy (or only known, unrelated problems).
+5. Revert files that only changed by side effect (DTSTAMP-only `.ics` diffs, `scores.json`) to keep the PR focused.
+6. PR description: root cause, fix, before/after numbers, what was tested.
+7. Vercel Preview: fetch the changed `.ics` files from the Preview (Dia, via the Claude in Chrome extension; Previews need a Vercel login) and compare event counts.
+8. Merge with `scripts/merge_pr.sh`, then verify **production**: fetch the live `.ics` from herfixtures.com, compare counts, and trigger `gh workflow run refresh.yml`. Confirm the run succeeds and the next bot commit keeps the counts (the shrink guard will warn if not).
+9. Log it in Notion "Session Log — Sam".
+
+### ESPN API constraints (current)
+
+- **Since 2026-09-15 ESPN returns 400 for any multi-day `dates=A-B` range, in every sport.** Use `espn_common.fetch_days()` (one request per day, cached per run, refuses partial seasons). This bug silently emptied Liga F (240 → 1), froze WNBA, and stripped all FIBA scores until Nov 13.
+- Every feed write goes through `espn_common.safe_write_ics()` (shrink guard: refuses <50% of the existing event count; override for one run with `HERFIXTURES_ALLOW_SHRINK=<file>`).
+- Placeholder ("TBD") games are dropped via `espn_common.is_placeholder()`.
+
 ## Feed maintenance (autonomous, no review)
 
 Decided Nov 13, 2026: **feed-data updates go straight to main without Konstantina's review.** Anything visual or user-facing (`index.html`, badges, copy, design) still goes through a PR for her review.
