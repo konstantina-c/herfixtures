@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 HerFixtures — scores.json generator
-Fetches WNBA, NWSL, and ICC Women's T20 WC results + upcoming fixtures
+Fetches WNBA, NWSL, UCL Women and Liga F results + upcoming fixtures
 from ESPN public API and writes scores.json for the homepage scores strip.
 
 Output shape:
@@ -10,7 +10,6 @@ Output shape:
   "competitions": {
     "wnba":           { "name": ..., "sport": ..., "slug": ..., "postgame": [], ... },
     "nwsl":           { ... },
-    "icc-womens-t20": { ... }
   }
 }
 """
@@ -22,7 +21,6 @@ from datetime import datetime, timezone, timedelta, date
 OUTPUT_FILE  = "scores.json"
 WNBA_URL     = "https://site.api.espn.com/apis/site/v2/sports/basketball/wnba"
 NWSL_URL     = "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.nwsl"
-ICC_URL      = "https://site.api.espn.com/apis/site/v2/sports/cricket/8634"
 UCL_URL      = "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.wchampions"
 LIGA_F_URL   = "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.w.1"
 HEADERS      = {}  # requests default (python-requests/<version>) passes ESPN WAF; Mozilla/5.0 does not
@@ -237,7 +235,6 @@ LEAGUE_CONFIGS = [
     #  url          name                  sport         slug               home_first
     (WNBA_URL,   "WNBA",               "basketball", "wnba",           False),
     (NWSL_URL,   "NWSL",               "football",   "nwsl",           False),
-    (ICC_URL,    "ICC Women's T20 WC", "cricket",    "icc-womens-t20", True),
     (UCL_URL,    "Women's UCL",        "football",   "ucl-women",      True),
     (LIGA_F_URL, "Liga F",             "football",   "liga-f",         False),
 ]

@@ -7,11 +7,17 @@
       "ics": "euroleague_women.ics",
       "source": "manual",
       "update": "Scheduled Claude runs (Dec 3, Feb 3, Mar 11) read FIBA's schedule and pipe new games into scripts/update_euroleague_fixtures.py",
-      "season": {"start": "2026-09-23", "end": "2027-04-18"},
+      "season": {
+        "start": "2026-09-23",
+        "end": "2027-04-18"
+      },
       "breaks": [],
       "grace_days": 7,
       "min_events": 40,
-      "publish_paths": ["feeds/euroleague-women-2026-27/fixtures.json", "euroleague_women.ics"]
+      "publish_paths": [
+        "feeds/euroleague-women-2026-27/fixtures.json",
+        "euroleague_women.ics"
+      ]
     },
     {
       "id": "ucl-women",
@@ -19,8 +25,17 @@
       "ics": "womens_ucl.ics",
       "source": "auto",
       "update": "fetch_ucl.py (ESPN) in refresh.yml",
-      "season": {"start": "2026-09-22", "end": "2027-05-29"},
-      "breaks": [{"start": "2026-12-17", "end": "2027-02-02", "why": "between league phase and knockout play-offs"}],
+      "season": {
+        "start": "2026-09-22",
+        "end": "2027-05-29"
+      },
+      "breaks": [
+        {
+          "start": "2026-12-17",
+          "end": "2027-02-02",
+          "why": "between league phase and knockout play-offs"
+        }
+      ],
       "grace_days": 3,
       "min_events": 0
     },
@@ -30,7 +45,10 @@
       "ics": "frauen_bundesliga.ics",
       "source": "auto",
       "update": "fetch_frauen_bundesliga.py (OpenLigaDB) in refresh.yml",
-      "season": {"start": "2026-08-21", "end": "2027-05-23"},
+      "season": {
+        "start": "2026-08-21",
+        "end": "2027-05-23"
+      },
       "breaks": [],
       "grace_days": 3,
       "min_events": 150
@@ -41,7 +59,10 @@
       "ics": "liga_f.ics",
       "source": "auto",
       "update": "fetch_liga_f.py (ESPN) in refresh.yml",
-      "season": {"start": "2026-08-29", "end": "2027-05-31"},
+      "season": {
+        "start": "2026-08-29",
+        "end": "2027-05-31"
+      },
       "breaks": [],
       "grace_days": 3,
       "min_events": 200
@@ -52,7 +73,10 @@
       "ics": "nwsl.ics",
       "source": "auto",
       "update": "fetch_nwsl.py (ESPN) in refresh.yml",
-      "season": {"start": "2026-03-14", "end": "2026-11-21"},
+      "season": {
+        "start": "2026-03-14",
+        "end": "2026-11-21"
+      },
       "breaks": [],
       "grace_days": 3,
       "min_events": 150
@@ -63,21 +87,13 @@
       "ics": "wnba.ics",
       "source": "auto",
       "update": "fetch_wnba.py (ESPN) in refresh.yml",
-      "season": {"start": "2026-05-17", "end": "2026-10-31"},
+      "season": {
+        "start": "2026-05-17",
+        "end": "2026-10-31"
+      },
       "breaks": [],
       "grace_days": 3,
       "min_events": 200
-    },
-    {
-      "id": "icc-womens-t20",
-      "name": "ICC Women's T20 World Cup 2026",
-      "ics": "icc_womens_t20.ics",
-      "source": "auto",
-      "update": "fetch_icc_womens_t20.py (ESPN) in refresh.yml",
-      "season": {"start": "2026-06-12", "end": "2026-07-05"},
-      "breaks": [],
-      "grace_days": 3,
-      "min_events": 0
     },
     {
       "id": "fiba-wwc-2026",
@@ -85,7 +101,10 @@
       "ics": "feeds/fiba-wwc-2026/all.ics",
       "source": "manual",
       "update": "fixtures.json + fetch_fiba_scores.py",
-      "season": {"start": "2026-09-04", "end": "2026-09-13"},
+      "season": {
+        "start": "2026-09-04",
+        "end": "2026-09-13"
+      },
       "breaks": [],
       "grace_days": 3,
       "min_events": 0

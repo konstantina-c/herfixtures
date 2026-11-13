@@ -44,14 +44,6 @@
         }
       ]
     },
-    "icc-womens-t20": {
-      "name": "ICC Women's T20 WC",
-      "sport": "cricket",
-      "slug": "icc-womens-t20",
-      "postgame": [],
-      "livegame": [],
-      "pregame": []
-    },
     "ucl-women": {
       "name": "Women's UCL",
       "sport": "football",
