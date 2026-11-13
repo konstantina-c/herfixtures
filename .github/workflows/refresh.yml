@@ -41,10 +41,6 @@ jobs:
         run: python fetch_nwsl.py
       - name: Run NWSL team feeds script
         run: python fetch_nwsl_teams.py
-      - name: Run ICC Women's T20 fetch script
-        run: python fetch_icc_womens_t20.py
-      - name: Run ICC Women's T20 team feeds script
-        run: python fetch_icc_womens_t20_teams.py
       - name: Run UCL Women fetch script
         run: python fetch_ucl.py
       - name: Run Liga F fetch script
@@ -65,7 +61,7 @@ jobs:
         run: |
           git config user.name "HerFixtures Bot"
           git config user.email "bot@herfixtures.com"
-          git add womens_ucl.ics euroleague_women.ics wnba.ics wnba_*.ics nwsl.ics nwsl_*.ics icc_womens_t20.ics icc_womens_t20_*.ics liga_f.ics liga_f_*.ics frauen_bundesliga.ics frauen_bl_*.ics feeds/fiba-wwc-2026/all.ics fiba_wwc_*.ics scores.json sitemap.xml
+          git add womens_ucl.ics euroleague_women.ics wnba.ics wnba_*.ics nwsl.ics nwsl_*.ics liga_f.ics liga_f_*.ics frauen_bundesliga.ics frauen_bl_*.ics feeds/fiba-wwc-2026/all.ics fiba_wwc_*.ics scores.json sitemap.xml
           git diff --staged --quiet || git commit -m "Auto-refresh feeds"
           git push
       - name: Feed health check (opens/updates/closes the "Feed health alert" issue)
