@@ -13,23 +13,20 @@ There is **no build system**. The site is:
 - `index.html` — the entire frontend: vanilla HTML, CSS custom properties, and inline JavaScript. No framework, no bundler.
 - `api/subscribe.js` — a Vercel serverless function (Node.js) that handles email capture via the Beehiiv newsletter API.
 - `*.ics` files — the calendar feeds, committed directly to the repo and served statically.
-- `fetch_fixtures.py` — legacy RapidAPI (football-only) script; still runs in the cron but no longer writes `euroleague_women.ics`.
+- `fetch_ucl.py` — fetches Women's Champions League fixtures from ESPN's public API (no key) and writes `womens_ucl.ics`.
 - `generate_euroleague_women_ics.py` — builds `euroleague_women.ics` from the hand-maintained `feeds/euroleague-women-2026-27/fixtures.json` (copied from FIBA's official schedule; not in the cron — edit the JSON, re-run, open a PR). Add later rounds only once FIBA confirms both teams.
-- `fetch_wnba.py` — fetches WNBA fixtures from BallDontLie API and writes `wnba.ics`.
-- `.github/workflows/refresh.yml` — GitHub Actions cron (6am and 18pm UTC daily) that runs both Python scripts and commits the updated `.ics` files back to `main`.
+- `fetch_wnba.py` — fetches WNBA fixtures from ESPN's public API (no key) and writes `wnba.ics`.
+- `.github/workflows/refresh.yml` — GitHub Actions cron (6am and 18pm UTC daily) that runs the `fetch_*.py` scripts and commits the updated `.ics` files back to `main`.
 
 Deployment is on **Vercel**. `vercel.json` sets the `Content-Type: text/calendar` header and a 12-hour cache for all `.ics` routes.
 
 ## Running the feed scripts locally
 
-Both scripts require environment variables. Set them before running:
+The cron scripts use ESPN's public API and need no keys:
 
 ```bash
-# Football feeds (Women's UCL, EuroLeague Women)
-RAPIDAPI_KEY=<key> python fetch_fixtures.py
-
-# WNBA feed
-BALLDONTLIE_API_KEY=<key> python fetch_wnba.py
+python fetch_ucl.py     # womens_ucl.ics
+python fetch_wnba.py    # wnba.ics
 ```
 
 Python dependencies: `pip install requests icalendar pytz`
@@ -56,11 +53,9 @@ The `api/subscribe.js` endpoint only works when deployed to Vercel (it uses `pro
 
 | Secret | Used by |
 |---|---|
-| `RAPIDAPI_KEY` | `fetch_fixtures.py` — football data |
-| `BALLDONTLIE_API_KEY` | `fetch_wnba.py` — WNBA data |
-| `BEEHIIV_API_KEY` | `api/subscribe.js` — email subscriptions |
+| `BEEHIIV_API_KEY` | `api/subscribe.js` — email subscriptions (Vercel environment variable) |
 
-All three must be set in GitHub Actions secrets and (for the API function) in Vercel environment variables.
+The feed scripts need no secrets. RapidAPI was dropped in Nov 2026 — never hardcode an API key as a fallback in source.
 
 ## FIBA WWC 2026 feed
 

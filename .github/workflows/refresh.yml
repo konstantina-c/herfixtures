@@ -32,10 +32,6 @@ jobs:
           except Exception as e:
               print(f'ESPN probe: connection error — {e}')
           "
-      - name: Run fetch script
-        env:
-          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
-        run: python fetch_fixtures.py
       - name: Run WNBA fetch script
         run: python fetch_wnba.py
       - name: Run WNBA team feeds script
