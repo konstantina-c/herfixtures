@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Tenerife @ Barcelona (0–5)
 DTSTART:20260830T170000Z
 DTEND:20260830T190000Z
-DTSTAMP:20261113T224207Z
+DTSTAMP:20261113T232626Z
 UID:espn-liga-f-401882536@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nTenerife at Barcelona\nStatus: Full Ti
  me\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures.com 
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Tenerife (0–0)
 DTSTART:20260906T104500Z
 DTEND:20260906T124500Z
-DTSTAMP:20261113T224207Z
+DTSTAMP:20261113T232626Z
 UID:espn-liga-f-401882531@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Tenerife\nStatus: Full Ti
  me\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife\n
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Tenerife @ Real Sociedad (1–1)
 DTSTART:20260913T100000Z
 DTEND:20260913T120000Z
-DTSTAMP:20261113T224207Z
+DTSTAMP:20261113T232626Z
 UID:espn-liga-f-401882517@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nTenerife at Real Sociedad\nStatus: Ful
  l Time\nVenue: Instalaciones de Zubieta\, San Sebastian\n\nFixtures by Her
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Tenerife (3–1)
 DTSTART:20260920T100000Z
 DTEND:20260920T120000Z
-DTSTAMP:20261113T224207Z
+DTSTAMP:20261113T232626Z
 UID:espn-liga-f-401882514@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Tenerife\nStatus: Full Time
  \nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife\n\nF
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Tenerife @ Valencia (2–1)
 DTSTART:20260927T100000Z
 DTEND:20260927T120000Z
-DTSTAMP:20261113T224207Z
+DTSTAMP:20261113T232626Z
 UID:espn-liga-f-401882501@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nTenerife at Valencia\nStatus: Full Tim
  e\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtures.co
@@ -71,7 +71,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Tenerife (1–2)
 DTSTART:20261004T100000Z
 DTEND:20261004T120000Z
-DTSTAMP:20261113T224207Z
+DTSTAMP:20261113T232626Z
 UID:espn-liga-f-401882500@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Tenerife\nStatus: Full
   Time\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
@@ -83,7 +83,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Tenerife @ FC Badalona (4–0)
 DTSTART:20261017T100000Z
 DTEND:20261017T120000Z
-DTSTAMP:20261113T224207Z
+DTSTAMP:20261113T232626Z
 UID:espn-liga-f-401882487@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nTenerife at FC Badalona\nStatus: Full 
  Time\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixtures
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Tenerife @ Real Madrid (2–3)
 DTSTART:20261024T140000Z
 DTEND:20261024T160000Z
-DTSTAMP:20261113T224207Z
+DTSTAMP:20261113T232626Z
 UID:espn-liga-f-401882478@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nTenerife at Real Madrid\nStatus: Full 
  Time\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFixtur
@@ -107,7 +107,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Tenerife (0–2)
 DTSTART:20261102T200000Z
 DTEND:20261102T220000Z
-DTSTAMP:20261113T224207Z
+DTSTAMP:20261113T232626Z
 UID:espn-liga-f-401882475@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Tenerife\nStatus: Ful
  l Time\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerif
@@ -119,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Tenerife (0–0)
 DTSTART:20261108T120000Z
 DTEND:20261108T140000Z
-DTSTAMP:20261113T224207Z
+DTSTAMP:20261113T232626Z
 UID:espn-liga-f-401882466@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Tenerife\nStatus: Postponed
  \nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife\n\nF
@@ -130,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Tenerife @ Espanyol
 DTSTART:20261114T110000Z
 DTEND:20261114T130000Z
-DTSTAMP:20261113T224207Z
+DTSTAMP:20261113T232626Z
 UID:espn-liga-f-401882458@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nTenerife at Espanyol\nStatus: Schedule
  d\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFixtu
@@ -141,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Madrid CFF @ Tenerife
 DTSTART:20261122T160000Z
 DTEND:20261122T180000Z
-DTSTAMP:20261113T224207Z
+DTSTAMP:20261113T232626Z
 UID:espn-liga-f-401882452@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Tenerife\nStatus: Schedu
  led\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife\n
@@ -153,7 +153,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Tenerife @ Atlético Madrid
 DTSTART:20261208T150000Z
 DTEND:20261208T170000Z
-DTSTAMP:20261113T224207Z
+DTSTAMP:20261113T232626Z
 UID:espn-liga-f-401882443@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nTenerife at Atlético Madrid\nStatus: 
  Scheduled\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de Henares
@@ -165,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ Tenerife
 DTSTART:20261213T200000Z
 DTEND:20261213T220000Z
-DTSTAMP:20261113T224207Z
+DTSTAMP:20261113T232626Z
 UID:espn-liga-f-401882435@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Tenerife\nStatus: Scheduled\n
  Venue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife\n\nFix
@@ -176,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Tenerife @ Granada
 DTSTART:20270110T200000Z
 DTEND:20270110T220000Z
-DTSTAMP:20261113T224207Z
+DTSTAMP:20261113T232626Z
 UID:espn-liga-f-401882425@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nTenerife at Granada\nStatus: Scheduled
  \nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by HerFixtu
@@ -187,7 +187,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Badalona @ Tenerife
 DTSTART:20270117T200000Z
 DTEND:20270117T220000Z
-DTSTAMP:20261113T224207Z
+DTSTAMP:20261113T232626Z
 UID:espn-liga-f-401882419@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Tenerife\nStatus: Sched
  uled\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
@@ -199,7 +199,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Tenerife @ Athletic Club
 DTSTART:20270124T200000Z
 DTEND:20270124T220000Z
-DTSTAMP:20261113T224207Z
+DTSTAMP:20261113T232626Z
 UID:espn-liga-f-401882412@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nTenerife at Athletic Club\nStatus: Sch
  eduled\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by Her
@@ -211,7 +211,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ Tenerife
 DTSTART:20270131T200000Z
 DTEND:20270131T220000Z
-DTSTAMP:20261113T224207Z
+DTSTAMP:20261113T232626Z
 UID:espn-liga-f-401882403@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Tenerife\nStatus: Sched
  uled\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
@@ -223,7 +223,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Tenerife @ Dux Logroño
 DTSTART:20270207T200000Z
 DTEND:20270207T220000Z
-DTSTAMP:20261113T224207Z
+DTSTAMP:20261113T232626Z
 UID:espn-liga-f-401882395@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nTenerife at Dux Logroño\nStatus: Sche
  duled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — Wom
@@ -235,7 +235,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Tenerife
 DTSTART:20270214T200000Z
 DTEND:20270214T220000Z
-DTSTAMP:20261113T224207Z
+DTSTAMP:20261113T232626Z
 UID:espn-liga-f-401882385@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at Tenerife\nStatus: Schedule
  d\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife\n\n
@@ -246,7 +246,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Tenerife @ Alavés
 DTSTART:20270221T200000Z
 DTEND:20270221T220000Z
-DTSTAMP:20261113T224207Z
+DTSTAMP:20261113T232626Z
 UID:espn-liga-f-401882380@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nTenerife at Alavés\nStatus: Scheduled
  \nVenue: Ciudad Deportiva José Luis Compañón\, Vitoria-Gasteiz\n\nFixtu
@@ -257,7 +257,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Tenerife @ Sevilla
 DTSTART:20270314T180000Z
 DTEND:20270314T200000Z
-DTSTAMP:20261113T224207Z
+DTSTAMP:20261113T232626Z
 UID:espn-liga-f-401882365@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nTenerife at Sevilla\nStatus: Scheduled
  \nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.com —
@@ -268,7 +268,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Atlético Madrid @ Tenerife
 DTSTART:20270321T180000Z
 DTEND:20270321T200000Z
-DTSTAMP:20261113T224207Z
+DTSTAMP:20261113T232626Z
 UID:espn-liga-f-401882362@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Tenerife\nStatus: 
  Scheduled\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tene
@@ -280,7 +280,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Tenerife @ Madrid CFF
 DTSTART:20270328T180000Z
 DTEND:20270328T200000Z
-DTSTAMP:20261113T224207Z
+DTSTAMP:20261113T232626Z
 UID:espn-liga-f-401882351@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nTenerife at Madrid CFF\nStatus: Schedu
  led\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFixtur
@@ -292,7 +292,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Sociedad @ Tenerife
 DTSTART:20270404T180000Z
 DTEND:20270404T200000Z
-DTSTAMP:20261113T224207Z
+DTSTAMP:20261113T232626Z
 UID:espn-liga-f-401882347@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Tenerife\nStatus: Sch
  eduled\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerif
@@ -304,7 +304,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Tenerife
 DTSTART:20270411T180000Z
 DTEND:20270411T200000Z
-DTSTAMP:20261113T224207Z
+DTSTAMP:20261113T232626Z
 UID:espn-liga-f-401882338@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Tenerife\nStatus: Schedul
  ed\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife\n
@@ -316,7 +316,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Tenerife @ Eibar
 DTSTART:20270502T180000Z
 DTEND:20270502T200000Z
-DTSTAMP:20261113T224207Z
+DTSTAMP:20261113T232626Z
 UID:espn-liga-f-401882329@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nTenerife at Eibar\nStatus: Scheduled\n
  Venue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sports on
@@ -327,7 +327,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ Tenerife
 DTSTART:20270509T180000Z
 DTEND:20270509T200000Z
-DTSTAMP:20261113T224207Z
+DTSTAMP:20261113T232626Z
 UID:espn-liga-f-401882323@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Tenerife\nStatus: Schedule
  d\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife\n\n
@@ -338,7 +338,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Tenerife @ Deportivo
 DTSTART:20270519T180000Z
 DTEND:20270519T200000Z
-DTSTAMP:20261113T224207Z
+DTSTAMP:20261113T232626Z
 UID:espn-liga-f-401882314@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nTenerife at Deportivo\nStatus: Schedul
  ed\nVenue: Dépor Training Center Campo Arsenio Iglesias\, A Coruna\n\nFix
@@ -350,7 +350,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Tenerife
 DTSTART:20270523T180000Z
 DTEND:20270523T200000Z
-DTSTAMP:20261113T224207Z
+DTSTAMP:20261113T232626Z
 UID:espn-liga-f-401882307@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at Tenerife\nStatus: Scheduled
  \nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife\n\nF
