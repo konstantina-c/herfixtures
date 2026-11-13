@@ -1349,20 +1349,22 @@ body {
           </div>
         </div>
 
-        <!-- 9. EuroLeague Women — 2026/27 season in progress (from 14 Oct 2026).
-             Button stays disabled until euroleague_women.ics is fixed (currently serves wrong data). -->
+        <!-- 9. EuroLeague Women — 2026/27 season in progress (14 Oct 2026 – 18 Apr 2027).
+             Feed is hand-maintained from FIBA's schedule: generate_euroleague_women_ics.py -->
         <div class="feed-card" data-sport="basketball">
           <div class="feed-header">
             <div class="feed-icon">🏀</div>
             <div class="feed-info">
-              <div class="feed-badge badge-offseason">Feed coming soon</div>
+              <div class="feed-badge badge-live">Season in progress</div>
               <div class="feed-name">EuroLeague Women</div>
               <div class="feed-meta">Basketball · Europe · 2026/27 season</div>
             </div>
           </div>
           <div class="feed-divider"></div>
           <div class="feed-actions">
-            <span class="btn-cal-disabled">Add to Calendar</span>
+            <button class="btn-cal btn-choose-team" onclick="openEuroLeagueWModal()" aria-haspopup="dialog">
+              Add to Calendar
+            </button>
           </div>
         </div>
 
@@ -1931,6 +1933,17 @@ const UCL_CONFIG = {
   ],
 };
 
+// EuroLeague Women has no team feeds — one league-wide feed (euroleague_women.ics).
+const EUROLEAGUE_W_CONFIG = {
+  leagueSlug:  'euroleague_women',
+  gaLabel:     'EuroLeague Women',
+  title:       'EuroLeague Women',
+  sub:         'All 2026/27 games in one calendar feed.',
+  teams: [
+    { name: "All games", slug: "euroleague_women", emoji: "🏀" },
+  ],
+};
+
 const FIBA_CONFIG = {
   leagueSlug:  'fiba_womens_world_cup_2026',
   gaLabel:     'FIBA WWC 2026',
@@ -2101,6 +2114,7 @@ function openLigaFModal()    { FeedModal.open(LIGA_F_CONFIG);    }
 function openFrauenBLModal() { FeedModal.open(FRAUEN_BL_CONFIG); }
 function openFIBAModal()     { FeedModal.open(FIBA_CONFIG);      }
 function openUCLModal()      { FeedModal.open(UCL_CONFIG);       }
+function openEuroLeagueWModal() { FeedModal.open(EUROLEAGUE_W_CONFIG); }
 
 /* ── Sport filter pills ──────────────────────────────────────────────────── */
 (function () {
