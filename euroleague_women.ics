@@ -1,623 +1,879 @@
 BEGIN:VCALENDAR
+PRODID:-//HerFixtures//EuroLeague Women 2026-27//EN
 VERSION:2.0
-PRODID:-//HerFixtures//EuroLeague Women//EN
 CALSCALE:GREGORIAN
+METHOD:PUBLISH
 X-WR-CALNAME:EuroLeague Women 🏀
+X-WR-CALDESC:EuroLeague Women 2026/27 fixtures from FIBA's official schedul
+ e. Maintained by HerFixtures.com.
 X-WR-TIMEZONE:UTC
-BEGIN:VEVENT
-SUMMARY:🏀 Pharco FC vs Al Mokawloon Al Arab
-DTSTART:20251209T150000Z
-DTEND:20251209T170000Z
-UID:5055290@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Kahrbaa Ismailia vs Zamalek SC
-DTSTART:20251209T180000Z
-DTEND:20251209T200000Z
-UID:5055335@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Pyramids FC vs National Bank
-DTSTART:20251209T180000Z
-DTEND:20251209T200000Z
-UID:5055314@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Tala'ea El Gaish vs Ceramica Cleopatra
-DTSTART:20251210T150000Z
-DTEND:20251210T170000Z
-UID:5055291@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Ismaily SC vs El Gouna FC
-DTSTART:20251210T180000Z
-DTEND:20251210T200000Z
-UID:5055315@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 ZED FC vs Smouha SC
-DTSTART:20251210T180000Z
-DTEND:20251210T200000Z
-UID:5055336@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Al Ittihad Alexandria vs Al Masry SC
-DTSTART:20251211T150000Z
-DTEND:20251211T170000Z
-UID:5055337@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Wadi Degla FC vs Petrojet-Suez
-DTSTART:20251211T180000Z
-DTEND:20251211T200000Z
-UID:5055316@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Al Ahly SC vs Al Sharkeyah-ENPPI
-DTSTART:20251212T180000Z
-DTEND:20251212T200000Z
-UID:5055292@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 National Bank vs Modern Sport FC
-DTSTART:20251218T150000Z
-DTEND:20251218T170000Z
-UID:5055318@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Ghazl Al Mahalla vs Pharco FC
-DTSTART:20251219T150000Z
-DTEND:20251219T170000Z
-UID:5055293@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Petrojet-Suez vs Ismaily SC
-DTSTART:20251219T150000Z
-DTEND:20251219T170000Z
-UID:5055317@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Al Masry SC vs ZED FC
-DTSTART:20251219T180000Z
-DTEND:20251219T200000Z
-UID:5055338@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Ceramica Cleopatra vs Al Ahly SC
-DTSTART:20251219T180000Z
-DTEND:20251219T200000Z
-UID:5055294@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Al Sharkeyah-ENPPI vs Tala'ea El Gaish
-DTSTART:20251220T150000Z
-DTEND:20251220T170000Z
-UID:5055295@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 El Gouna FC vs Pyramids FC
-DTSTART:20251220T150000Z
-DTEND:20251220T170000Z
-UID:5055319@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Smouha SC vs Al Ittihad Alexandria
-DTSTART:20251220T180000Z
-DTEND:20251220T200000Z
-UID:5055339@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Zamalek SC vs Haras El Hodoud
-DTSTART:20251220T180000Z
-DTEND:20251220T200000Z
-UID:5055340@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Ghazl Al Mahalla vs Al Ahly SC
-DTSTART:20251223T150000Z
-DTEND:20251223T170000Z
-UID:5055296@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Modern Sport FC vs Wadi Degla FC
-DTSTART:20251223T150000Z
-DTEND:20251223T170000Z
-UID:5055320@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Kahrbaa Ismailia vs Al Ittihad Alexandria
-DTSTART:20251224T150000Z
-DTEND:20251224T170000Z
-UID:5055341@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Pharco FC vs Al Sharkeyah-ENPPI
-DTSTART:20251224T150000Z
-DTEND:20251224T170000Z
-UID:5055297@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Al Mokawloon Al Arab vs Tala'ea El Gaish
-DTSTART:20251224T180000Z
-DTEND:20251224T200000Z
-UID:5055298@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Al Masry SC vs Haras El Hodoud
-DTSTART:20251225T150000Z
-DTEND:20251225T170000Z
-UID:5055343@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 El Gouna FC vs National Bank
-DTSTART:20251225T150000Z
-DTEND:20251225T170000Z
-UID:5055321@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Pyramids FC vs Ismaily SC
-DTSTART:20251225T180000Z
-DTEND:20251225T200000Z
-UID:5055322@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Zamalek SC vs Smouha SC
-DTSTART:20251225T180000Z
-DTEND:20251225T200000Z
-UID:5055342@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Al Ahly SC vs Al Mokawloon Al Arab
-DTSTART:20251230T150000Z
-DTEND:20251230T170000Z
-UID:5055300@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Tala'ea El Gaish vs Ghazl Al Mahalla
-DTSTART:20251230T150000Z
-DTEND:20251230T170000Z
-UID:5055299@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Smouha SC vs Kahrbaa Ismailia
-DTSTART:20251230T180000Z
-DTEND:20251230T200000Z
-UID:5055344@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Ceramica Cleopatra vs Pharco FC
-DTSTART:20251231T150000Z
-DTEND:20251231T170000Z
-UID:5055301@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Petrojet-Suez vs National Bank
-DTSTART:20251231T150000Z
-DTEND:20251231T170000Z
-UID:5055323@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 ZED FC vs Haras El Hodoud
-DTSTART:20251231T180000Z
-DTEND:20251231T200000Z
-UID:5055345@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Al Ittihad Alexandria vs Zamalek SC
-DTSTART:20260101T150000Z
-DTEND:20260101T170000Z
-UID:5055346@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Wadi Degla FC vs El Gouna FC
-DTSTART:20260101T150000Z
-DTEND:20260101T170000Z
-UID:5055325@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Ismaily SC vs Modern Sport FC
-DTSTART:20260101T180000Z
-DTEND:20260101T200000Z
-UID:5055324@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Kahrbaa Ismailia vs Haras El Hodoud
-DTSTART:20260104T150000Z
-DTEND:20260104T170000Z
-UID:5055347@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Tala'ea El Gaish vs Pharco FC
-DTSTART:20260104T150000Z
-DTEND:20260104T170000Z
-UID:5055302@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Modern Sport FC vs Pyramids FC
-DTSTART:20260104T180000Z
-DTEND:20260104T200000Z
-UID:5055326@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Al Masry SC vs Smouha SC
-DTSTART:20260105T140000Z
-DTEND:20260105T160000Z
-UID:5055348@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Al Mokawloon Al Arab vs Ghazl Al Mahalla
-DTSTART:20260105T140000Z
-DTEND:20260105T160000Z
-UID:5055303@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 National Bank vs Wadi Degla FC
-DTSTART:20260105T180000Z
-DTEND:20260105T200000Z
-UID:5055327@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Al Sharkeyah-ENPPI vs Ceramica Cleopatra
-DTSTART:20260106T150000Z
-DTEND:20260106T170000Z
-UID:5055304@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 El Gouna FC vs Petrojet-Suez
-DTSTART:20260106T150000Z
-DTEND:20260106T170000Z
-UID:5055328@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Al Ittihad Alexandria vs ZED FC
-DTSTART:20260106T180000Z
-DTEND:20260106T200000Z
-UID:5055349@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Pharco FC vs Al Ahly SC
-DTSTART:20260110T140000Z
-DTEND:20260110T160000Z
-UID:5055305@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Wadi Degla FC vs Pyramids FC
-DTSTART:20260110T140000Z
-DTEND:20260110T160000Z
-UID:5055329@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Kahrbaa Ismailia vs Al Masry SC
-DTSTART:20260110T170000Z
-DTEND:20260110T190000Z
-UID:5055350@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Petrojet-Suez vs Modern Sport FC
-DTSTART:20260111T150000Z
-DTEND:20260111T170000Z
-UID:5055330@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Zamalek SC vs ZED FC
-DTSTART:20260111T150000Z
-DTEND:20260111T170000Z
-UID:5055352@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Smouha SC vs Haras El Hodoud
-DTSTART:20260111T180000Z
-DTEND:20260111T200000Z
-UID:5055351@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Al Sharkeyah-ENPPI vs Al Mokawloon Al Arab
-DTSTART:20260112T150000Z
-DTEND:20260112T170000Z
-UID:5055306@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Ghazl Al Mahalla vs Ceramica Cleopatra
-DTSTART:20260112T150000Z
-DTEND:20260112T170000Z
-UID:5055307@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 National Bank vs Ismaily SC
-DTSTART:20260112T180000Z
-DTEND:20260112T200000Z
-UID:5055331@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Al Ahly SC vs Tala'ea El Gaish
-DTSTART:20260115T150000Z
-DTEND:20260115T170000Z
-UID:5055308@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Pyramids FC vs Petrojet-Suez
-DTSTART:20260115T150000Z
-DTEND:20260115T170000Z
-UID:5055332@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Al Masry SC vs Zamalek SC
-DTSTART:20260115T180000Z
-DTEND:20260115T200000Z
-UID:5055353@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Al Mokawloon Al Arab vs Ceramica Cleopatra
-DTSTART:20260115T180000Z
-DTEND:20260115T200000Z
-UID:5055310@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Al Sharkeyah-ENPPI vs Ghazl Al Mahalla
-DTSTART:20260116T150000Z
-DTEND:20260116T170000Z
-UID:5055309@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Haras El Hodoud vs Al Ittihad Alexandria
-DTSTART:20260117T140000Z
-DTEND:20260117T160000Z
-UID:5055354@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 ZED FC vs Kahrbaa Ismailia
-DTSTART:20260117T140000Z
-DTEND:20260117T160000Z
-UID:5055355@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Ismaily SC vs Wadi Degla FC
-DTSTART:20260117T180000Z
-DTEND:20260117T200000Z
-UID:5055334@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Modern Sport FC vs El Gouna FC
-DTSTART:20260117T180000Z
-DTEND:20260117T200000Z
-UID:5055333@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Wadi Degla FC vs Tala'ea El Gaish
-DTSTART:20260325T150000Z
-DTEND:20260325T170000Z
-UID:5197886@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Al Sharkeyah-ENPPI vs Petrojet-Suez
-DTSTART:20260325T180000Z
-DTEND:20260325T200000Z
-UID:5197887@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 El Gouna FC vs Al Masry SC
-DTSTART:20260326T150000Z
-DTEND:20260326T170000Z
-UID:5197888@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 ZED FC vs Al Mokawloon Al Arab
-DTSTART:20260326T180000Z
-DTEND:20260326T200000Z
-UID:5197889@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Tala'ea El Gaish vs Wadi Degla FC
-DTSTART:20260329T150000Z
-DTEND:20260329T170000Z
-UID:5197890@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Petrojet-Suez vs Al Sharkeyah-ENPPI
-DTSTART:20260329T180000Z
-DTEND:20260329T200000Z
-UID:5197891@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Al Masry SC vs El Gouna FC
-DTSTART:20260330T150000Z
-DTEND:20260330T170000Z
-UID:5197892@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Al Mokawloon Al Arab vs ZED FC
-DTSTART:20260330T180000Z
-DTEND:20260330T200000Z
-UID:5197893@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Al Sharkeyah-ENPPI vs Wadi Degla FC
-DTSTART:20260525T140000Z
-DTEND:20260525T160000Z
-UID:5649999@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 ZED FC vs Al Masry SC
-DTSTART:20260525T170000Z
-DTEND:20260525T190000Z
-UID:5650000@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Al Masry SC vs ZED FC
-DTSTART:20260601T140000Z
-DTEND:20260601T160000Z
-UID:5650001@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Wadi Degla FC vs Al Sharkeyah-ENPPI
-DTSTART:20260601T170000Z
-DTEND:20260601T190000Z
-UID:5650002@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 ZED FC vs Wadi Degla FC
-DTSTART:20260608T140000Z
-DTEND:20260608T160000Z
-UID:5737261@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Al Sharkeyah-ENPPI vs Al Masry SC
-DTSTART:20260608T173000Z
-DTEND:20260608T193000Z
-UID:5737262@herfixtures.com
-DESCRIPTION:EuroLeague Women\nCalendar by HerFixtures.com
-LOCATION:EuroLeague Women
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:elw-2026-27-136146@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20260923T160000Z
+DTEND:20260923T180000Z
+SUMMARY:🏀 Kibirkstis-TOKS Vilnius vs ENEA AZS Politechnika Poznan
+DESCRIPTION:EuroLeague Women 2026/27\nQualifiers - Semi-Final\nKibirkstis-T
+ OKS Vilnius vs ENEA AZS Politechnika Poznan\n\nSchedule source: FIBA (fiba
+ .basketball)\nFixtures by HerFixtures.com - Women's Sports on Your Calenda
+ r
+LOCATION:Active Vilnius Arena\, Vilnius\, Lithuania
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-136148@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20260923T160000Z
+DTEND:20260923T180000Z
+SUMMARY:🏀 Zabiny Brno vs KKZ Crvena Zvezda
+DESCRIPTION:EuroLeague Women 2026/27\nQualifiers - Semi-Final\nZabiny Brno 
+ vs KKZ Crvena Zvezda\n\nSchedule source: FIBA (fiba.basketball)\nFixtures 
+ by HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:Starez Arena Vodova\, Brno\, Czechia
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-136152@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20260923T170000Z
+DTEND:20260923T190000Z
+SUMMARY:🏀 Flammes Carolo Basket Ardennes vs KP Brno
+DESCRIPTION:EuroLeague Women 2026/27\nQualifiers - Semi-Final\nFlammes Caro
+ lo Basket Ardennes vs KP Brno\n\nSchedule source: FIBA (fiba.basketball)\n
+ Fixtures by HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:Guinguette Arena\, Charleville-Mézières\, France
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-136150@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20260923T183000Z
+DTEND:20260923T203000Z
+SUMMARY:🏀 Panathinaikos vs Emlak Konut
+DESCRIPTION:EuroLeague Women 2026/27\nQualifiers - Semi-Final\nPanathinaiko
+ s vs Emlak Konut\n\nSchedule source: FIBA (fiba.basketball)\nFixtures by H
+ erFixtures.com - Women's Sports on Your Calendar
+LOCATION:Cholargos Sports Hall\, Athens\, Greece
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-136147@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:🏀 Sopron Basket vs Kibirkstis-TOKS Vilnius
+DESCRIPTION:EuroLeague Women 2026/27\nQualifiers - Final\nSopron Basket vs 
+ Kibirkstis-TOKS Vilnius\n\nSchedule source: FIBA (fiba.basketball)\nFixtur
+ es by HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:Arena Sopron\, Sopron\, Hungary
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-136149@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:🏀 DVTK HUNTHERM vs KKZ Crvena Zvezda
+DESCRIPTION:EuroLeague Women 2026/27\nQualifiers - Final\nDVTK HUNTHERM vs 
+ KKZ Crvena Zvezda\n\nSchedule source: FIBA (fiba.basketball)\nFixtures by 
+ HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:DVTK Arena\, Miskolc\, Hungary
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-136153@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20260930T173000Z
+DTEND:20260930T193000Z
+SUMMARY:🏀 Umana Reyer Venice vs Flammes Carolo Basket Ardennes
+DESCRIPTION:EuroLeague Women 2026/27\nQualifiers - Final\nUmana Reyer Venic
+ e vs Flammes Carolo Basket Ardennes\n\nSchedule source: FIBA (fiba.basketb
+ all)\nFixtures by HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:Palasport Taliercio\, Venice\, Italy
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-136151@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20260930T181500Z
+DTEND:20260930T201500Z
+SUMMARY:🏀 Spar Girona vs Emlak Konut
+DESCRIPTION:EuroLeague Women 2026/27\nQualifiers - Final\nSpar Girona vs Em
+ lak Konut\n\nSchedule source: FIBA (fiba.basketball)\nFixtures by HerFixtu
+ res.com - Women's Sports on Your Calendar
+LOCATION:Pavello Fontajau\, Girona\, Spain
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135151@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261014T160000Z
+DTEND:20261014T180000Z
+SUMMARY:🏀 Kibirkstis-TOKS Vilnius vs Athinaikos Qualco
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  A\nKibirkstis-TOKS Vilnius vs Athinaikos Qualco\n\nSchedule source: FIBA 
+ (fiba.basketball)\nFixtures by HerFixtures.com - Women's Sports on Your Ca
+ lendar
+LOCATION:Active Vilnius Arena\, Vilnius\, Lithuania
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135163@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261014T160000Z
+DTEND:20261014T180000Z
+SUMMARY:🏀 KKZ Crvena Zvezda vs Kangoeroes Basket Mechelen
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  B\nKKZ Crvena Zvezda vs Kangoeroes Basket Mechelen\n\nSchedule source: FI
+ BA (fiba.basketball)\nFixtures by HerFixtures.com - Women's Sports on Your
+  Calendar
+LOCATION:Ranko Zeravica Sports Hall\, Belgrade\, Serbia
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135175@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261014T160000Z
+DTEND:20261014T180000Z
+SUMMARY:🏀 Emlak Konut vs AZS UMCS Lublin
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  D\nEmlak Konut vs AZS UMCS Lublin\n\nSchedule source: FIBA (fiba.basketba
+ ll)\nFixtures by HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:Basaksehir Genclik ve Spor Tesisleri\, Istanbul\, Türkiye
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135150@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261014T170000Z
+DTEND:20261014T190000Z
+SUMMARY:🏀 Casademont Zaragoza vs Basket Landes
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  A\nCasademont Zaragoza vs Basket Landes\n\nSchedule source: FIBA (fiba.ba
+ sketball)\nFixtures by HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:Pabellon Principe Felipe\, Zaragoza\, Spain
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135174@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261014T170000Z
+DTEND:20261014T190000Z
+SUMMARY:🏀 ZVVZ USK Praha vs Tango Bourges Basket
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  D\nZVVZ USK Praha vs Tango Bourges Basket\n\nSchedule source: FIBA (fiba.
+ basketball)\nFixtures by HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:Kralovka Arena\, Prague\, Czechia
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135187@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261014T170000Z
+DTEND:20261014T190000Z
+SUMMARY:🏀 Flammes Carolo Basket Ardennes vs CS Rapid Bucuresti
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  C\nFlammes Carolo Basket Ardennes vs CS Rapid Bucuresti\n\nSchedule sourc
+ e: FIBA (fiba.basketball)\nFixtures by HerFixtures.com - Women's Sports on
+  Your Calendar
+LOCATION:Guinguette Arena\, Charleville-Mézières\, France
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135186@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261014T180000Z
+DTEND:20261014T200000Z
+SUMMARY:🏀 Valencia Basket Club vs Fenerbahçe
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  C\nValencia Basket Club vs Fenerbahçe\n\nSchedule source: FIBA (fiba.bas
+ ketball)\nFixtures by HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:Roig Arena\, Valencia\, Spain
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135162@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261015T170000Z
+DTEND:20261015T190000Z
+SUMMARY:🏀 Galatasaray vs Beretta Famila Schio
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  B\nGalatasaray vs Beretta Famila Schio\n\nSchedule source: FIBA (fiba.bas
+ ketball)\nFixtures by HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:Sinan Erdem Dome\, Istanbul\, Türkiye
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135176@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261021T160000Z
+DTEND:20261021T180000Z
+SUMMARY:🏀 AZS UMCS Lublin vs ZVVZ USK Praha
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  D\nAZS UMCS Lublin vs ZVVZ USK Praha\n\nSchedule source: FIBA (fiba.baske
+ tball)\nFixtures by HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:Hala Mosir\, Lublin\, Poland
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135188@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261021T163000Z
+DTEND:20261021T183000Z
+SUMMARY:🏀 CS Rapid Bucuresti vs Fenerbahçe
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  C\nCS Rapid Bucuresti vs Fenerbahçe\n\nSchedule source: FIBA (fiba.baske
+ tball)\nFixtures by HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:Rapid Polyvalent Hall\, Bucharest\, Romania
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135152@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261021T173000Z
+DTEND:20261021T193000Z
+SUMMARY:🏀 Athinaikos Qualco vs Casademont Zaragoza
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  A\nAthinaikos Qualco vs Casademont Zaragoza\n\nSchedule source: FIBA (fib
+ a.basketball)\nFixtures by HerFixtures.com - Women's Sports on Your Calend
+ ar
+LOCATION:Glyfada Hall\, Glyfada\, Greece
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135153@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261021T173000Z
+DTEND:20261021T193000Z
+SUMMARY:🏀 Basket Landes vs Kibirkstis-TOKS Vilnius
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  A\nBasket Landes vs Kibirkstis-TOKS Vilnius\n\nSchedule source: FIBA (fib
+ a.basketball)\nFixtures by HerFixtures.com - Women's Sports on Your Calend
+ ar
+LOCATION:Espace Francois Mitterrand\, Mont de Marsan\, France
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135177@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261021T180000Z
+DTEND:20261021T200000Z
+SUMMARY:🏀 Tango Bourges Basket vs Emlak Konut
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  D\nTango Bourges Basket vs Emlak Konut\n\nSchedule source: FIBA (fiba.bas
+ ketball)\nFixtures by HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:Caisse d'Epargne Loire Centre - le Prado\, Bourges\, France
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135189@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261021T180000Z
+DTEND:20261021T200000Z
+SUMMARY:🏀 Valencia Basket Club vs Flammes Carolo Basket Ardennes
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  C\nValencia Basket Club vs Flammes Carolo Basket Ardennes\n\nSchedule sou
+ rce: FIBA (fiba.basketball)\nFixtures by HerFixtures.com - Women's Sports 
+ on Your Calendar
+LOCATION:Roig Arena\, Valencia\, Spain
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135165@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261022T180000Z
+DTEND:20261022T200000Z
+SUMMARY:🏀 Beretta Famila Schio vs KKZ Crvena Zvezda
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  B\nBeretta Famila Schio vs KKZ Crvena Zvezda\n\nSchedule source: FIBA (fi
+ ba.basketball)\nFixtures by HerFixtures.com - Women's Sports on Your Calen
+ dar
+LOCATION:Palaromare\, Schio\, Italy
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135164@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261022T183000Z
+DTEND:20261022T203000Z
+SUMMARY:🏀 Kangoeroes Basket Mechelen vs Galatasaray
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  B\nKangoeroes Basket Mechelen vs Galatasaray\n\nSchedule source: FIBA (fi
+ ba.basketball)\nFixtures by HerFixtures.com - Women's Sports on Your Calen
+ dar
+LOCATION:Sport- & Recreatiedomein De Nekker\, Mechelen\, Belgium
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135155@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261028T170000Z
+DTEND:20261028T190000Z
+SUMMARY:🏀 Athinaikos Qualco vs Basket Landes
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  A\nAthinaikos Qualco vs Basket Landes\n\nSchedule source: FIBA (fiba.bask
+ etball)\nFixtures by HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:Glyfada Hall\, Glyfada\, Greece
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135179@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261028T170000Z
+DTEND:20261028T190000Z
+SUMMARY:🏀 AZS UMCS Lublin vs Tango Bourges Basket
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  D\nAZS UMCS Lublin vs Tango Bourges Basket\n\nSchedule source: FIBA (fiba
+ .basketball)\nFixtures by HerFixtures.com - Women's Sports on Your Calenda
+ r
+LOCATION:Hala Mosir\, Lublin\, Poland
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135190@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261028T170000Z
+DTEND:20261028T190000Z
+SUMMARY:🏀 Fenerbahçe vs Flammes Carolo Basket Ardennes
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  C\nFenerbahçe vs Flammes Carolo Basket Ardennes\n\nSchedule source: FIBA
+  (fiba.basketball)\nFixtures by HerFixtures.com - Women's Sports on Your C
+ alendar
+LOCATION:Ülker Sports and Event Hall\, Istanbul\, Türkiye
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135178@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261028T180000Z
+DTEND:20261028T200000Z
+SUMMARY:🏀 ZVVZ USK Praha vs Emlak Konut
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  D\nZVVZ USK Praha vs Emlak Konut\n\nSchedule source: FIBA (fiba.basketbal
+ l)\nFixtures by HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:Kralovka Arena\, Prague\, Czechia
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135191@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261028T190000Z
+DTEND:20261028T210000Z
+SUMMARY:🏀 Valencia Basket Club vs CS Rapid Bucuresti
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  C\nValencia Basket Club vs CS Rapid Bucuresti\n\nSchedule source: FIBA (f
+ iba.basketball)\nFixtures by HerFixtures.com - Women's Sports on Your Cale
+ ndar
+LOCATION:Roig Arena\, Valencia\, Spain
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135166@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261029T170000Z
+DTEND:20261029T190000Z
+SUMMARY:🏀 Galatasaray vs KKZ Crvena Zvezda
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  B\nGalatasaray vs KKZ Crvena Zvezda\n\nSchedule source: FIBA (fiba.basket
+ ball)\nFixtures by HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:Sinan Erdem Dome\, Istanbul\, Türkiye
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135154@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261029T190000Z
+DTEND:20261029T210000Z
+SUMMARY:🏀 Casademont Zaragoza vs Kibirkstis-TOKS Vilnius
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  A\nCasademont Zaragoza vs Kibirkstis-TOKS Vilnius\n\nSchedule source: FIB
+ A (fiba.basketball)\nFixtures by HerFixtures.com - Women's Sports on Your 
+ Calendar
+LOCATION:Pabellon Principe Felipe\, Zaragoza\, Spain
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135167@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261029T193000Z
+DTEND:20261029T213000Z
+SUMMARY:🏀 Kangoeroes Basket Mechelen vs Beretta Famila Schio
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  B\nKangoeroes Basket Mechelen vs Beretta Famila Schio\n\nSchedule source:
+  FIBA (fiba.basketball)\nFixtures by HerFixtures.com - Women's Sports on Y
+ our Calendar
+LOCATION:Sport- & Recreatiedomein De Nekker\, Mechelen\, Belgium
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135180@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261103T170000Z
+DTEND:20261103T190000Z
+SUMMARY:🏀 AZS UMCS Lublin vs Emlak Konut
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  D\nAZS UMCS Lublin vs Emlak Konut\n\nSchedule source: FIBA (fiba.basketba
+ ll)\nFixtures by HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:Hala Mosir\, Lublin\, Poland
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135192@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261103T170000Z
+DTEND:20261103T190000Z
+SUMMARY:🏀 Fenerbahçe vs Valencia Basket Club
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  C\nFenerbahçe vs Valencia Basket Club\n\nSchedule source: FIBA (fiba.bas
+ ketball)\nFixtures by HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:Ülker Sports and Event Hall\, Istanbul\, Türkiye
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135193@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261103T173000Z
+DTEND:20261103T193000Z
+SUMMARY:🏀 CS Rapid Bucuresti vs Flammes Carolo Basket Ardennes
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  C\nCS Rapid Bucuresti vs Flammes Carolo Basket Ardennes\n\nSchedule sourc
+ e: FIBA (fiba.basketball)\nFixtures by HerFixtures.com - Women's Sports on
+  Your Calendar
+LOCATION:Rapid Polyvalent Hall\, Bucharest\, Romania
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135156@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261103T183000Z
+DTEND:20261103T203000Z
+SUMMARY:🏀 Athinaikos Qualco vs Kibirkstis-TOKS Vilnius
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  A\nAthinaikos Qualco vs Kibirkstis-TOKS Vilnius\n\nSchedule source: FIBA 
+ (fiba.basketball)\nFixtures by HerFixtures.com - Women's Sports on Your Ca
+ lendar
+LOCATION:Glyfada Hall\, Glyfada\, Greece
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135157@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261103T183000Z
+DTEND:20261103T203000Z
+SUMMARY:🏀 Basket Landes vs Casademont Zaragoza
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  A\nBasket Landes vs Casademont Zaragoza\n\nSchedule source: FIBA (fiba.ba
+ sketball)\nFixtures by HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:Espace Francois Mitterrand\, Mont de Marsan\, France
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135181@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261103T190000Z
+DTEND:20261103T210000Z
+SUMMARY:🏀 Tango Bourges Basket vs ZVVZ USK Praha
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  D\nTango Bourges Basket vs ZVVZ USK Praha\n\nSchedule source: FIBA (fiba.
+ basketball)\nFixtures by HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:Caisse d'Epargne Loire Centre - le Prado\, Bourges\, France
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135169@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261104T190000Z
+DTEND:20261104T210000Z
+SUMMARY:🏀 Beretta Famila Schio vs Galatasaray
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  B\nBeretta Famila Schio vs Galatasaray\n\nSchedule source: FIBA (fiba.bas
+ ketball)\nFixtures by HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:Palaromare\, Schio\, Italy
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135168@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261104T193000Z
+DTEND:20261104T213000Z
+SUMMARY:🏀 Kangoeroes Basket Mechelen vs KKZ Crvena Zvezda
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  B\nKangoeroes Basket Mechelen vs KKZ Crvena Zvezda\n\nSchedule source: FI
+ BA (fiba.basketball)\nFixtures by HerFixtures.com - Women's Sports on Your
+  Calendar
+LOCATION:Sport- & Recreatiedomein De Nekker\, Mechelen\, Belgium
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135183@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261125T160000Z
+DTEND:20261125T180000Z
+SUMMARY:🏀 Emlak Konut vs Tango Bourges Basket
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  D\nEmlak Konut vs Tango Bourges Basket\n\nSchedule source: FIBA (fiba.bas
+ ketball)\nFixtures by HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:Basaksehir Genclik ve Spor Tesisleri\, Istanbul\, Türkiye
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135159@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261125T170000Z
+DTEND:20261125T190000Z
+SUMMARY:🏀 Kibirkstis-TOKS Vilnius vs Basket Landes
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  A\nKibirkstis-TOKS Vilnius vs Basket Landes\n\nSchedule source: FIBA (fib
+ a.basketball)\nFixtures by HerFixtures.com - Women's Sports on Your Calend
+ ar
+LOCATION:Active Vilnius Arena\, Vilnius\, Lithuania
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135170@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261125T170000Z
+DTEND:20261125T190000Z
+SUMMARY:🏀 Galatasaray vs Kangoeroes Basket Mechelen
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  B\nGalatasaray vs Kangoeroes Basket Mechelen\n\nSchedule source: FIBA (fi
+ ba.basketball)\nFixtures by HerFixtures.com - Women's Sports on Your Calen
+ dar
+LOCATION:Sinan Erdem Dome\, Istanbul\, Türkiye
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135171@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261125T170000Z
+DTEND:20261125T190000Z
+SUMMARY:🏀 KKZ Crvena Zvezda vs Beretta Famila Schio
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  B\nKKZ Crvena Zvezda vs Beretta Famila Schio\n\nSchedule source: FIBA (fi
+ ba.basketball)\nFixtures by HerFixtures.com - Women's Sports on Your Calen
+ dar
+LOCATION:Ranko Zeravica Sports Hall\, Belgrade\, Serbia
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135194@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261125T170000Z
+DTEND:20261125T190000Z
+SUMMARY:🏀 Fenerbahçe vs CS Rapid Bucuresti
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  C\nFenerbahçe vs CS Rapid Bucuresti\n\nSchedule source: FIBA (fiba.baske
+ tball)\nFixtures by HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:Ülker Sports and Event Hall\, Istanbul\, Türkiye
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135182@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261125T180000Z
+DTEND:20261125T200000Z
+SUMMARY:🏀 ZVVZ USK Praha vs AZS UMCS Lublin
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  D\nZVVZ USK Praha vs AZS UMCS Lublin\n\nSchedule source: FIBA (fiba.baske
+ tball)\nFixtures by HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:Kralovka Arena\, Prague\, Czechia
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135195@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261125T180000Z
+DTEND:20261125T200000Z
+SUMMARY:🏀 Flammes Carolo Basket Ardennes vs Valencia Basket Club
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  C\nFlammes Carolo Basket Ardennes vs Valencia Basket Club\n\nSchedule sou
+ rce: FIBA (fiba.basketball)\nFixtures by HerFixtures.com - Women's Sports 
+ on Your Calendar
+LOCATION:Guinguette Arena\, Charleville-Mézières\, France
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135158@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261125T190000Z
+DTEND:20261125T210000Z
+SUMMARY:🏀 Casademont Zaragoza vs Athinaikos Qualco
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  A\nCasademont Zaragoza vs Athinaikos Qualco\n\nSchedule source: FIBA (fib
+ a.basketball)\nFixtures by HerFixtures.com - Women's Sports on Your Calend
+ ar
+LOCATION:Pabellon Principe Felipe\, Zaragoza\, Spain
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135184@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261202T160000Z
+DTEND:20261202T180000Z
+SUMMARY:🏀 Emlak Konut vs ZVVZ USK Praha
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  D\nEmlak Konut vs ZVVZ USK Praha\n\nSchedule source: FIBA (fiba.basketbal
+ l)\nFixtures by HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:Basaksehir Genclik ve Spor Tesisleri\, Istanbul\, Türkiye
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135160@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261202T170000Z
+DTEND:20261202T190000Z
+SUMMARY:🏀 Kibirkstis-TOKS Vilnius vs Casademont Zaragoza
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  A\nKibirkstis-TOKS Vilnius vs Casademont Zaragoza\n\nSchedule source: FIB
+ A (fiba.basketball)\nFixtures by HerFixtures.com - Women's Sports on Your 
+ Calendar
+LOCATION:Active Vilnius Arena\, Vilnius\, Lithuania
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135172@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261202T170000Z
+DTEND:20261202T190000Z
+SUMMARY:🏀 KKZ Crvena Zvezda vs Galatasaray
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  B\nKKZ Crvena Zvezda vs Galatasaray\n\nSchedule source: FIBA (fiba.basket
+ ball)\nFixtures by HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:Ranko Zeravica Sports Hall\, Belgrade\, Serbia
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-136819@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261202T173000Z
+DTEND:20261202T193000Z
+SUMMARY:🏀 CS Rapid Bucuresti vs Valencia Basket Club
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  C\nCS Rapid Bucuresti vs Valencia Basket Club\n\nSchedule source: FIBA (f
+ iba.basketball)\nFixtures by HerFixtures.com - Women's Sports on Your Cale
+ ndar
+LOCATION:Rapid Polyvalent Hall\, Bucharest\, Romania
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135196@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261202T180000Z
+DTEND:20261202T200000Z
+SUMMARY:🏀 Flammes Carolo Basket Ardennes vs Fenerbahçe
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  C\nFlammes Carolo Basket Ardennes vs Fenerbahçe\n\nSchedule source: FIBA
+  (fiba.basketball)\nFixtures by HerFixtures.com - Women's Sports on Your C
+ alendar
+LOCATION:Guinguette Arena\, Charleville-Mézières\, France
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135161@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261202T183000Z
+DTEND:20261202T203000Z
+SUMMARY:🏀 Basket Landes vs Athinaikos Qualco
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  A\nBasket Landes vs Athinaikos Qualco\n\nSchedule source: FIBA (fiba.bask
+ etball)\nFixtures by HerFixtures.com - Women's Sports on Your Calendar
+LOCATION:Espace Francois Mitterrand\, Mont de Marsan\, France
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135173@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261202T190000Z
+DTEND:20261202T210000Z
+SUMMARY:🏀 Beretta Famila Schio vs Kangoeroes Basket Mechelen
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  B\nBeretta Famila Schio vs Kangoeroes Basket Mechelen\n\nSchedule source:
+  FIBA (fiba.basketball)\nFixtures by HerFixtures.com - Women's Sports on Y
+ our Calendar
+LOCATION:Palaromare\, Schio\, Italy
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:elw-2026-27-135185@herfixtures.com
+DTSTAMP:20261113T204645Z
+SEQUENCE:0
+DTSTART:20261202T190000Z
+DTEND:20261202T210000Z
+SUMMARY:🏀 Tango Bourges Basket vs AZS UMCS Lublin
+DESCRIPTION:EuroLeague Women 2026/27\nRegular Season - First Round · Group
+  D\nTango Bourges Basket vs AZS UMCS Lublin\n\nSchedule source: FIBA (fiba
+ .basketball)\nFixtures by HerFixtures.com - Women's Sports on Your Calenda
+ r
+LOCATION:Caisse d'Epargne Loire Centre - le Prado\, Bourges\, France
+URL:https://www.fiba.basketball/en/events/euroleague-women-26-27/games
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR

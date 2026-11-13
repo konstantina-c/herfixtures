@@ -17,13 +17,9 @@ COMPETITIONS = [
         "filename": "womens_ucl.ics",
         "cal_name": "UEFA Women's Champions League 🏆"
     },
-    {
-        "id": "10270",
-        "name": "EuroLeague Women",
-        "emoji": "🏀",
-        "filename": "euroleague_women.ics",
-        "cal_name": "EuroLeague Women 🏀"
-    },
+    # EuroLeague Women removed Nov 2026: this API is football-only, and league
+    # 10270 is the Egyptian Premier League. euroleague_women.ics is now built by
+    # generate_euroleague_women_ics.py from FIBA's official schedule.
     {
         "id": "10269",
         "name": "WNBA",

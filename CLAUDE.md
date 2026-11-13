@@ -13,7 +13,8 @@ There is **no build system**. The site is:
 - `index.html` — the entire frontend: vanilla HTML, CSS custom properties, and inline JavaScript. No framework, no bundler.
 - `api/subscribe.js` — a Vercel serverless function (Node.js) that handles email capture via the Beehiiv newsletter API.
 - `*.ics` files — the calendar feeds, committed directly to the repo and served statically.
-- `fetch_fixtures.py` — fetches football fixtures from RapidAPI and writes `womens_ucl.ics` and `euroleague_women.ics`.
+- `fetch_fixtures.py` — legacy RapidAPI (football-only) script; still runs in the cron but no longer writes `euroleague_women.ics`.
+- `generate_euroleague_women_ics.py` — builds `euroleague_women.ics` from the hand-maintained `feeds/euroleague-women-2026-27/fixtures.json` (copied from FIBA's official schedule; not in the cron — edit the JSON, re-run, open a PR). Add later rounds only once FIBA confirms both teams.
 - `fetch_wnba.py` — fetches WNBA fixtures from BallDontLie API and writes `wnba.ics`.
 - `.github/workflows/refresh.yml` — GitHub Actions cron (6am and 18pm UTC daily) that runs both Python scripts and commits the updated `.ics` files back to `main`.
 
