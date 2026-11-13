@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T22:08:59Z",
+  "updated": "2026-11-13T22:32:47Z",
   "competitions": {
     "wnba": {
       "name": "WNBA",
@@ -27,7 +27,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15365.png"
           },
           "kickoff": "2026-11-14T17:00:00Z",
-          "kickoff_label": "in 19h"
+          "kickoff_label": "in 18h"
         },
         {
           "league": "NWSL",
@@ -107,7 +107,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21154.png"
           },
           "kickoff": "2026-11-14T11:00:00Z",
-          "kickoff_label": "in 13h"
+          "kickoff_label": "in 12h"
         },
         {
           "league": "Liga F",
@@ -120,7 +120,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21378.png"
           },
           "kickoff": "2026-11-14T17:00:00Z",
-          "kickoff_label": "in 19h"
+          "kickoff_label": "in 18h"
         },
         {
           "league": "Liga F",
@@ -206,478 +206,514 @@
       "name": "FIBA WWC 2026",
       "sport": "basketball",
       "slug": "fiba-wwc-2026",
-      "postgame": [],
-      "livegame": [],
-      "pregame": [
+      "postgame": [
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "Japan",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/jpn.png",
+            "score": 102
           },
           "away": {
             "name": "Mali",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mli.png",
+            "score": 97
           },
-          "kickoff": "2026-09-04T09:30:00Z",
-          "kickoff_label": "in -101559 min"
+          "winner": "home"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "Australia",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png",
+            "score": 70
           },
           "away": {
             "name": "Puerto Rico",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/pur.png",
+            "score": 54
           },
-          "kickoff": "2026-09-04T09:30:00Z",
-          "kickoff_label": "in -101559 min"
+          "winner": "home"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "USA",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+            "score": 94
           },
           "away": {
             "name": "China",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/chn.png",
+            "score": 61
           },
-          "kickoff": "2026-09-04T12:15:00Z",
-          "kickoff_label": "in -101394 min"
+          "winner": "home"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "Korea",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/kor.png",
+            "score": 99
           },
           "away": {
             "name": "Nigeria",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ngr.png",
+            "score": 81
           },
-          "kickoff": "2026-09-04T12:30:00Z",
-          "kickoff_label": "in -101379 min"
+          "winner": "home"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "Belgium",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
+            "score": 89
           },
           "away": {
             "name": "T\u00fcrkiye",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tur.png",
+            "score": 75
           },
-          "kickoff": "2026-09-04T15:30:00Z",
-          "kickoff_label": "in -101199 min"
+          "winner": "home"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "Spain",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+            "score": 83
           },
           "away": {
             "name": "Germany",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
+            "score": 53
           },
-          "kickoff": "2026-09-04T15:45:00Z",
-          "kickoff_label": "in -101184 min"
+          "winner": "home"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "Czechia",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cze.png",
+            "score": 54
           },
           "away": {
             "name": "Italy",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png",
+            "score": 63
           },
-          "kickoff": "2026-09-04T18:15:00Z",
-          "kickoff_label": "in -101034 min"
+          "winner": "away"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "Hungary",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png",
+            "score": 53
           },
           "away": {
             "name": "France",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+            "score": 99
           },
-          "kickoff": "2026-09-04T19:00:00Z",
-          "kickoff_label": "in -100989 min"
+          "winner": "away"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "Mali",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mli.png",
+            "score": 82
           },
           "away": {
             "name": "Spain",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+            "score": 73
           },
-          "kickoff": "2026-09-05T09:30:00Z",
-          "kickoff_label": "in -100119 min"
+          "winner": "home"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "Nigeria",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ngr.png",
+            "score": 67
           },
           "away": {
             "name": "Hungary",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png",
+            "score": 71
           },
-          "kickoff": "2026-09-05T12:15:00Z",
-          "kickoff_label": "in -99954 min"
+          "winner": "away"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "Germany",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
+            "score": 74
           },
           "away": {
             "name": "Japan",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/jpn.png",
+            "score": 58
           },
-          "kickoff": "2026-09-05T16:00:00Z",
-          "kickoff_label": "in -99729 min"
+          "winner": "home"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "France",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+            "score": 95
           },
           "away": {
             "name": "Korea",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/kor.png",
+            "score": 69
           },
-          "kickoff": "2026-09-05T18:45:00Z",
-          "kickoff_label": "in -99564 min"
+          "winner": "home"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "T\u00fcrkiye",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tur.png",
+            "score": 71
           },
           "away": {
             "name": "Australia",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png",
+            "score": 87
           },
-          "kickoff": "2026-09-06T09:30:00Z",
-          "kickoff_label": "in -98679 min"
+          "winner": "away"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "China",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/chn.png",
+            "score": 74
           },
           "away": {
             "name": "Czechia",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cze.png",
+            "score": 70
           },
-          "kickoff": "2026-09-06T12:30:00Z",
-          "kickoff_label": "in -98499 min"
+          "winner": "home"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "Puerto Rico",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/pur.png",
+            "score": 64
           },
           "away": {
             "name": "Belgium",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
+            "score": 76
           },
-          "kickoff": "2026-09-06T15:45:00Z",
-          "kickoff_label": "in -98304 min"
+          "winner": "away"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "Italy",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png",
+            "score": 52
           },
           "away": {
             "name": "USA",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+            "score": 55
           },
-          "kickoff": "2026-09-06T18:45:00Z",
-          "kickoff_label": "in -98124 min"
+          "winner": "away"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "Belgium",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
+            "score": 80
           },
           "away": {
             "name": "Australia",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png",
+            "score": 68
           },
-          "kickoff": "2026-09-07T09:30:00Z",
-          "kickoff_label": "in -97239 min"
+          "winner": "home"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "Puerto Rico",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/pur.png",
+            "score": 75
           },
           "away": {
             "name": "T\u00fcrkiye",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tur.png",
+            "score": 71
           },
-          "kickoff": "2026-09-07T09:30:00Z",
-          "kickoff_label": "in -97239 min"
+          "winner": "home"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "Nigeria",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ngr.png",
+            "score": 56
           },
           "away": {
             "name": "France",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+            "score": 111
           },
-          "kickoff": "2026-09-07T12:30:00Z",
-          "kickoff_label": "in -97059 min"
+          "winner": "away"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "Hungary",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png",
+            "score": 82
           },
           "away": {
             "name": "Korea",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/kor.png",
+            "score": 73
           },
-          "kickoff": "2026-09-07T12:30:00Z",
-          "kickoff_label": "in -97059 min"
+          "winner": "home"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "Germany",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
+            "score": 83
           },
           "away": {
             "name": "Mali",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mli.png",
+            "score": 58
           },
-          "kickoff": "2026-09-07T15:50:00Z",
-          "kickoff_label": "in -96859 min"
+          "winner": "home"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "Japan",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/jpn.png",
+            "score": 59
           },
           "away": {
             "name": "Spain",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+            "score": 79
           },
-          "kickoff": "2026-09-07T15:50:00Z",
-          "kickoff_label": "in -96859 min"
+          "winner": "away"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "USA",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+            "score": 105
           },
           "away": {
             "name": "Czechia",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cze.png",
+            "score": 64
           },
-          "kickoff": "2026-09-07T18:45:00Z",
-          "kickoff_label": "in -96684 min"
+          "winner": "home"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "Italy",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png",
+            "score": 51
           },
           "away": {
             "name": "China",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/chn.png",
+            "score": 71
           },
-          "kickoff": "2026-09-07T18:45:00Z",
-          "kickoff_label": "in -96684 min"
+          "winner": "away"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "Hungary",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png",
+            "score": 84
           },
           "away": {
             "name": "Japan",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/jpn.png",
+            "score": 63
           },
-          "kickoff": "2026-09-08T15:45:00Z",
-          "kickoff_label": "in -95424 min"
+          "winner": "home"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "Germany",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
+            "score": 94
           },
           "away": {
             "name": "Korea",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/kor.png",
+            "score": 56
           },
-          "kickoff": "2026-09-08T18:45:00Z",
-          "kickoff_label": "in -95244 min"
+          "winner": "home"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "Puerto Rico",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/pur.png",
+            "score": 72
           },
           "away": {
             "name": "China",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/chn.png",
+            "score": 75
           },
-          "kickoff": "2026-09-09T15:45:00Z",
-          "kickoff_label": "in -93984 min"
+          "winner": "away"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "Italy",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png",
+            "score": 80
           },
           "away": {
             "name": "Australia",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png",
+            "score": 82
           },
-          "kickoff": "2026-09-09T18:45:00Z",
-          "kickoff_label": "in -93804 min"
+          "winner": "away"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "Australia",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png",
+            "score": 66
           },
           "away": {
             "name": "Spain",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+            "score": 89
           },
-          "kickoff": "2026-09-10T18:45:00Z",
-          "kickoff_label": "in -92364 min"
+          "winner": "away"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "China",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/chn.png",
+            "score": 61
           },
           "away": {
             "name": "France",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+            "score": 90
           },
-          "kickoff": "2026-09-10T12:30:00Z",
-          "kickoff_label": "in -92739 min"
+          "winner": "away"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "Belgium",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
+            "score": 74
           },
           "away": {
             "name": "Germany",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
+            "score": 93
           },
-          "kickoff": "2026-09-10T15:45:00Z",
-          "kickoff_label": "in -92544 min"
+          "winner": "away"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "USA",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+            "score": 108
           },
           "away": {
             "name": "Hungary",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png",
+            "score": 56
           },
-          "kickoff": "2026-09-10T09:30:00Z",
-          "kickoff_label": "in -92919 min"
+          "winner": "home"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "USA",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+            "score": 76
           },
           "away": {
             "name": "Spain",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+            "score": 66
           },
-          "kickoff": "2026-09-12T18:00:00Z",
-          "kickoff_label": "in -89529 min"
+          "winner": "home"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "France",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+            "score": 86
           },
           "away": {
             "name": "Germany",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
+            "score": 64
           },
-          "kickoff": "2026-09-12T14:30:00Z",
-          "kickoff_label": "in -89739 min"
+          "winner": "home"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "Spain",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+            "score": 81
           },
           "away": {
             "name": "Germany",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
+            "score": 58
           },
-          "kickoff": "2026-09-13T14:30:00Z",
-          "kickoff_label": "in -88299 min"
+          "winner": "home"
         },
         {
           "league": "FIBA WWC 2026",
           "home": {
             "name": "USA",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+            "score": 97
           },
           "away": {
             "name": "France",
-            "logo": ""
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+            "score": 79
           },
-          "kickoff": "2026-09-13T18:00:00Z",
-          "kickoff_label": "in -88089 min"
+          "winner": "home"
         }
-      ]
+      ],
+      "livegame": [],
+      "pregame": []
     }
   }
 }
