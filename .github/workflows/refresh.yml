@@ -5,6 +5,7 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+  issues: write   # feed health alert issue
 jobs:
   refresh:
     runs-on: ubuntu-latest
@@ -67,3 +68,9 @@ jobs:
           git add womens_ucl.ics euroleague_women.ics wnba.ics wnba_*.ics nwsl.ics nwsl_*.ics icc_womens_t20.ics icc_womens_t20_*.ics liga_f.ics liga_f_*.ics frauen_bundesliga.ics frauen_bl_*.ics feeds/fiba-wwc-2026/all.ics fiba_wwc_*.ics scores.json sitemap.xml
           git diff --staged --quiet || git commit -m "Auto-refresh feeds"
           git push
+      - name: Feed health check (opens/updates/closes the "Feed health alert" issue)
+        if: always()
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/check_feed_health.py --github-issue

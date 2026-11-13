@@ -57,6 +57,16 @@ The `api/subscribe.js` endpoint only works when deployed to Vercel (it uses `pro
 
 The feed scripts need no secrets. RapidAPI was dropped in Nov 2026 — never hardcode an API key as a fallback in source.
 
+## Feed maintenance (autonomous, no review)
+
+Decided Nov 13, 2026: **feed-data updates go straight to main without Konstantina's review.** Anything visual or user-facing (`index.html`, badges, copy, design) still goes through a PR for her review.
+
+- `feeds/manifest.json` — one entry per competition: season dates, breaks, expected event count, how it is updated, and `publish_paths` (the only files an automatic update may push). **Add every new feed here.**
+- `scripts/check_feed_health.py` — runs at the end of every `refresh.yml` run. Opens one GitHub issue "🚨 Feed health alert" (Konstantina gets the email) when an in-season feed has no upcoming events, is far below its expected size, or contains TBD placeholders. Updates it when the problems change and closes it automatically when all feeds are healthy.
+- `scripts/update_euroleague_fixtures.py` — the only way to change EuroLeague Women data: pipe new games as JSON on stdin. Adds or corrects future games only, never deletes, refuses on any failed check (unknown team/round, unrealistic tip-off, team playing twice within 20h, game outside the season). Use `--dry-run` first.
+- `scripts/publish_feed_update.sh <feed-id> "<summary>"` — the only way Claude may push. Refuses unless on main, in sync with origin, every changed file is in that feed's `publish_paths`, and the health check passes. Commits as HerFixtures Bot.
+- EuroLeague Women updates run as scheduled Claude tasks on Konstantina's Mac (Dec 3 2026, Feb 3 2027, Mar 11 2027; they retry daily for up to 7 days). FIBA's site blocks scripts, so the runs read it through her Dia browser (Claude in Chrome extension).
+
 ## FIBA WWC 2026 feed
 
 Fixture data lives at `feeds/fiba-wwc-2026/fixtures.json` — this is a manually maintained JSON file, not fetched by any cron. It is not part of the V1/V2 feed list. After editing it, always re-run the fetch script locally before committing:
