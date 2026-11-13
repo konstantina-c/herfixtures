@@ -14,7 +14,16 @@ import requests
 from datetime import datetime, timezone, timedelta
 from icalendar import Calendar, Event
 
-from espn_common import safe_write_ics  # shrink guard: never overwrite a feed with <50% of its events
+from datetime import date
+
+from espn_common import fetch_days, is_placeholder, safe_write_ics  # shrink guard: never overwrite a feed with <50% of its events
+
+# Team schedules only list games already PLAYED and the default scoreboard only
+# shows the current matchday, so future matchdays were never fetched (feed had
+# 0 upcoming games after each matchday). The season is now also fetched one day
+# at a time (ESPN rejects date ranges since 2026-09-15). Final: 29 May 2027.
+SEASON_START = date(2026, 9, 1)
+SEASON_END   = date(2027, 5, 31)
 
 OUTPUT_FILE = "womens_ucl.ics"
 BASE_URL    = "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.wchampions"
@@ -78,7 +87,13 @@ def fetch_games():
         except requests.exceptions.RequestException as e:
             print(f"  ⚠️  Team {team_id} schedule error, skipping: {e}")
 
-    return list(games.values())
+    # Every scheduled matchday, past and future, one request per day
+    try:
+        games.update(fetch_days(f"{BASE_URL}/scoreboard", SEASON_START, SEASON_END))
+    except RuntimeError as e:
+        print(f"  ⚠️  Daily scoreboard incomplete ({e}) — using team schedules only")
+
+    return [ev for ev in games.values() if not is_placeholder(ev)]
 
 
 def _score_str(competitor):
