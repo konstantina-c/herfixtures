@@ -12,6 +12,8 @@ import requests
 from datetime import datetime, timezone, timedelta
 from icalendar import Calendar, Event
 
+from espn_common import safe_write_ics  # shrink guard: never overwrite a feed with <50% of its events
+
 API_URL = "https://api.openligadb.de/getmatchdata/ffb1/2026"
 HEADERS = {"User-Agent": "HerFixtures/1.0"}
 
@@ -178,8 +180,8 @@ def main():
         ]
         cal = build_team_calendar(team_matches, display_name, slug)
         output_file = f"{slug}.ics"
-        with open(output_file, "wb") as f:
-            f.write(cal.to_ical())
+        if not safe_write_ics(output_file, cal.to_ical()):
+            continue
         written = sum(1 for _ in cal.walk("VEVENT"))
         print(f"  ✓ {output_file:<45} ({written} fixtures)")
         success += 1

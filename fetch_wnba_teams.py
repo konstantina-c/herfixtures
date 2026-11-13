@@ -6,16 +6,17 @@ No API key required.
 Runs alongside fetch_wnba.py — does not replace it.
 """
 
-import requests
-from datetime import datetime, timezone, timedelta
+from datetime import date, datetime, timezone, timedelta
 from icalendar import Calendar, Event
 import uuid
 import os
 
+from espn_common import fetch_days, is_placeholder, safe_write_ics
+
 # ── Config ────────────────────────────────────────────────────────────────────
 SEASON = 2026
-SEASON_START = "20260508"
-SEASON_END   = "20261031"
+SEASON_START = date(2026, 5, 8)
+SEASON_END   = date(2026, 11, 5)  # incl. Finals (Game 7 Oct 31)
 
 ESPN_SCOREBOARD = "https://site.api.espn.com/apis/site/v2/sports/basketball/wnba/scoreboard"
 ESPN_HEADERS    = {}  # requests default (python-requests/<version>) passes ESPN WAF; Mozilla/5.0 does not
@@ -41,52 +42,17 @@ TEAMS = {
 
 # ── Fetch all season games (reuse same strategy as fetch_wnba.py) ─────────────
 def fetch_all_games():
+    # ESPN rejects date ranges since 2026-09-15: one request per day, cached per
+    # run and shared with fetch_wnba.py. Placeholder ("TBD") games are dropped.
+    events = fetch_days(ESPN_SCOREBOARD, SEASON_START, SEASON_END)
     games = []
-    today = datetime.now(timezone.utc).date()
-    season_start = datetime.strptime(SEASON_START, "%Y%m%d").date()
-    season_end   = datetime.strptime(SEASON_END,   "%Y%m%d").date()
-
-    # Past games: week by week for scores + broadcaster info
-    if today > season_start:
-        past_end = min(today, season_end)
-        cursor = season_start
-        while cursor < past_end:
-            chunk_end = min(cursor + timedelta(days=6), past_end)
-            params = {"dates": f"{cursor.strftime('%Y%m%d')}-{chunk_end.strftime('%Y%m%d')}", "limit": 50}
-            try:
-                r = requests.get(ESPN_SCOREBOARD, headers=ESPN_HEADERS, params=params, timeout=30)
-                r.raise_for_status()
-                for event in r.json().get("events", []):
-                    game = parse_event(event)
-                    if game:
-                        games.append(game)
-            except Exception as e:
-                print(f"  ⚠ Week {cursor} failed: {e}")
-            cursor = chunk_end + timedelta(days=1)
-
-    # Future games: single wide call
-    future_start = max(today, season_start)
-    if future_start <= season_end:
-        params = {"dates": f"{future_start.strftime('%Y%m%d')}-{season_end.strftime('%Y%m%d')}", "limit": 500}
-        try:
-            r = requests.get(ESPN_SCOREBOARD, headers=ESPN_HEADERS, params=params, timeout=30)
-            r.raise_for_status()
-            for event in r.json().get("events", []):
-                game = parse_event(event)
-                if game:
-                    games.append(game)
-        except Exception as e:
-            print(f"  ⚠ Future fetch failed: {e}")
-
-    # Deduplicate — past games (with scores) win
-    seen = set()
-    unique = []
-    for g in games:
-        if g["event_id"] not in seen:
-            seen.add(g["event_id"])
-            unique.append(g)
-
-    return unique
+    for event in events.values():
+        if is_placeholder(event):
+            continue
+        game = parse_event(event)
+        if game:
+            games.append(game)
+    return games
 
 
 def parse_event(event):
@@ -214,7 +180,11 @@ def build_team_calendar(team_id, team_name, games):
 # ── Main ──────────────────────────────────────────────────────────────────────
 def main():
     print(f"Fetching WNBA {SEASON} full season (ESPN API)...")
-    all_games = fetch_all_games()
+    try:
+        all_games = fetch_all_games()
+    except RuntimeError as e:
+        print(f"  ⚠️  {e} — keeping all existing team feeds")
+        return
     print(f"  → {len(all_games)} total games fetched")
     print()
 
@@ -225,9 +195,8 @@ def main():
     for team_id, (team_name, slug) in TEAMS.items():
         output_file = f"wnba_{slug}.ics"
         cal, count = build_team_calendar(team_id, team_name, all_games)
-        with open(output_file, "wb") as f:
-            f.write(cal.to_ical())
-        print(f"  ✓ {output_file:45} ({count} games)")
+        if safe_write_ics(output_file, cal.to_ical()):
+            print(f"  ✓ {output_file:45} ({count} games)")
 
     print()
     print(f"Done — {len(TEAMS)} team feeds written.")

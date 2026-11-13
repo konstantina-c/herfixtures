@@ -140,7 +140,8 @@ def main() -> None:
     data["fixtures"].sort(key=lambda f: (f["local"], f["fiba_game_id"]))
     gen.DATA_FILE.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     calendar, count = gen.build(data)
-    gen.OUTPUT_FILE.write_bytes(calendar.encode("utf-8"))
+    if not gen.safe_write_ics(gen.OUTPUT_FILE, calendar):
+        sys.exit("REFUSED: shrink guard blocked the .ics write (see message above).")
     print(f"Wrote fixtures.json and {gen.OUTPUT_FILE.name} ({count} events).")
 
 
