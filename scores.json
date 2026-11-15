@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T15:11:33Z",
+  "updated": "2026-11-15T15:35:12Z",
   "competitions": {
     "wnba": {
       "name": "WNBA",
@@ -42,7 +42,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15364.png"
           },
           "kickoff": "2026-11-15T20:00:00Z",
-          "kickoff_label": "in 5h"
+          "kickoff_label": "in 4h"
         }
       ]
     },
@@ -136,7 +136,7 @@
           "home": {
             "name": "Atl\u00e9tico Madrid",
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20093.png",
-            "score": 0
+            "score": 1
           },
           "away": {
             "name": "Sevilla",
@@ -157,7 +157,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21145.png"
           },
           "kickoff": "2026-11-15T17:00:00Z",
-          "kickoff_label": "in 2h"
+          "kickoff_label": "in 1h"
         },
         {
           "league": "Liga F",
