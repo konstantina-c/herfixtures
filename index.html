@@ -1351,6 +1351,24 @@ body {
           </div>
         </div>
 
+        <!-- 4b. NCAA Women's Basketball (Top 25 + programmes) — badge from feed_status.json (feed id "ncaa-wbb") -->
+        <div class="feed-card" data-sport="basketball">
+          <div class="feed-header">
+            <div class="feed-icon">🏀</div>
+            <div class="feed-info">
+              <div class="feed-badge badge-live" data-feed="ncaa-wbb">Season in progress</div>
+              <div class="feed-name">NCAA Women's Basketball</div>
+              <div class="feed-meta">Basketball · USA · Top 25 + 16 programmes</div>
+            </div>
+          </div>
+          <div class="feed-divider"></div>
+          <div class="feed-actions">
+            <button class="btn-cal btn-choose-team" onclick="openNCAAWBBModal()" aria-haspopup="dialog">
+              Add to Calendar
+            </button>
+          </div>
+        </div>
+
         <!-- 5. WNBA — off-season (2026 Finals ended 31 Oct 2026); team feeds stay subscribable -->
         <div class="feed-card" data-sport="basketball">
           <div class="feed-header">
@@ -2018,6 +2036,32 @@ const LIGA_MX_FEMENIL_CONFIG = {
   ],
 };
 
+const NCAA_WBB_CONFIG = {
+  leagueSlug:  'ncaa_wbb',
+  gaLabel:     'NCAA WBB',
+  title:       "NCAA Women's Basketball",
+  sub:         'Pick the Top 25 feed, your programmes, or both — each adds a separate feed to your calendar.',
+  teams: [
+    { name: "Top 25 games",      slug: "ncaa_wbb",                  emoji: "🏀" },
+    { name: "South Carolina",    slug: "ncaa_wbb_south_carolina",    logo: "https://a.espncdn.com/i/teamlogos/ncaa/500/2579.png" },
+    { name: "UConn",             slug: "ncaa_wbb_uconn",             logo: "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png" },
+    { name: "UCLA",              slug: "ncaa_wbb_ucla",              logo: "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png" },
+    { name: "USC",               slug: "ncaa_wbb_usc",               logo: "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png" },
+    { name: "LSU",               slug: "ncaa_wbb_lsu",               logo: "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png" },
+    { name: "Iowa",              slug: "ncaa_wbb_iowa",              logo: "https://a.espncdn.com/i/teamlogos/ncaa/500/2294.png" },
+    { name: "Texas",             slug: "ncaa_wbb_texas",             logo: "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png" },
+    { name: "Notre Dame",        slug: "ncaa_wbb_notre_dame",        logo: "https://a.espncdn.com/i/teamlogos/ncaa/500/87.png" },
+    { name: "Duke",              slug: "ncaa_wbb_duke",              logo: "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png" },
+    { name: "Michigan",          slug: "ncaa_wbb_michigan",          logo: "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png" },
+    { name: "Tennessee",         slug: "ncaa_wbb_tennessee",         logo: "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png" },
+    { name: "Stanford",          slug: "ncaa_wbb_stanford",          logo: "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png" },
+    { name: "Ohio State",        slug: "ncaa_wbb_ohio_state",        logo: "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png" },
+    { name: "Oklahoma",          slug: "ncaa_wbb_oklahoma",          logo: "https://a.espncdn.com/i/teamlogos/ncaa/500/201.png" },
+    { name: "Louisville",        slug: "ncaa_wbb_louisville",        logo: "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png" },
+    { name: "Vanderbilt",        slug: "ncaa_wbb_vanderbilt",        logo: "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png" },
+  ],
+};
+
 const FRAUEN_BL_CONFIG = {
   leagueSlug:  'frauen_bundesliga',
   gaLabel:     'Frauen-Bundesliga',
@@ -2232,6 +2276,7 @@ function openWSLModal()      { FeedModal.open(WSL_CONFIG);       }
 function openPremiereLigueModal() { FeedModal.open(PREMIERE_LIGUE_CONFIG); }
 function openALeagueWomenModal()  { FeedModal.open(A_LEAGUE_WOMEN_CONFIG); }
 function openLigaMXFemenilModal() { FeedModal.open(LIGA_MX_FEMENIL_CONFIG); }
+function openNCAAWBBModal()       { FeedModal.open(NCAA_WBB_CONFIG); }
 function openFrauenBLModal() { FeedModal.open(FRAUEN_BL_CONFIG); }
 function openFIBAModal()     { FeedModal.open(FIBA_CONFIG);      }
 function openUCLModal()      { FeedModal.open(UCL_CONFIG);       }
