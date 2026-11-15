@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//A-League Women 2026-27 Central Coast Mariners//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Central Coast Mariners A-League Women 2026/27 fixtures. Updat
+ ed automatically by HerFixtures.com
+X-WR-CALNAME:Central Coast Mariners — A-League Women 2026/27 — HerFixt
+ ures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Brisbane Roar vs Central Coast Mariners (2–4)
+DTSTART:20261017T060000Z
+DTEND:20261017T080000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913252@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nBrisbane Roar vs Central Coast Mariner
+ s\nStatus: Full Time\nVenue: Spencer Park\, Brisbane\nTV: ESPN+\n\nFixture
+ s by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913252/central-coast-mar
+ iners-brisbane-roar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Central Coast Mariners vs Canberra United (5–1)
+DTSTART:20261024T040000Z
+DTEND:20261024T060000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913248@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nCentral Coast Mariners vs Canberra Uni
+ ted\nStatus: Full Time\nVenue: Central Coast Stadium\, New South Wales\nTV
+ : ESPN+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913248/canberra-united-c
+ entral-coast-mariners
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Central Coast Mariners vs Adelaide United (2–0)
+DTSTART:20261031T060000Z
+DTEND:20261031T080000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913243@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nCentral Coast Mariners vs Adelaide Uni
+ ted\nStatus: Full Time\nVenue: Central Coast Stadium\, New South Wales\nTV
+ : ESPN+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913243/adelaide-united-c
+ entral-coast-mariners
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Central Coast Mariners vs Newcastle Jets (1–1)
+DTSTART:20261107T040000Z
+DTEND:20261107T060000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913181@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nCentral Coast Mariners vs Newcastle Je
+ ts\nStatus: Full Time\nVenue: Central Coast Stadium\, New South Wales\nTV:
+  ESPN+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913181/newcastle-jets-ce
+ ntral-coast-mariners
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Central Coast Mariners vs Perth Glory (0–1)
+DTSTART:20261114T060000Z
+DTEND:20261114T080000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913233@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nCentral Coast Mariners vs Perth Glory\
+ nStatus: Full Time\nVenue: Central Coast Stadium\, New South Wales\nTV: ES
+ PN+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913233/perth-glory-centr
+ al-coast-mariners
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Central Coast Mariners vs Brisbane Roar
+DTSTART:20261213T060000Z
+DTEND:20261213T080000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913221@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nCentral Coast Mariners vs Brisbane Roa
+ r\nStatus: Scheduled\nVenue: Central Coast Stadium\, New South Wales\n\nFi
+ xtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913221/brisbane-roar-cen
+ tral-coast-mariners
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sydney FC vs Central Coast Mariners
+DTSTART:20261220T060000Z
+DTEND:20261220T080000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913216@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nSydney FC vs Central Coast Mariners\nS
+ tatus: Scheduled\nVenue: WIN Stadium\, Wollongong\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913216/central-coast-mar
+ iners-sydney-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Adelaide United vs Central Coast Mariners
+DTSTART:20261227T055000Z
+DTEND:20261227T075000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913214@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nAdelaide United vs Central Coast Marin
+ ers\nStatus: Scheduled\nVenue: Hindmarsh Stadium\, Adelaide\n\nFixtures by
+  HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913214/central-coast-mar
+ iners-adelaide-united
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Central Coast Mariners vs Melbourne City
+DTSTART:20261231T055000Z
+DTEND:20261231T075000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913210@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nCentral Coast Mariners vs Melbourne Ci
+ ty\nStatus: Scheduled\nVenue: Central Coast Stadium\, New South Wales\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913210/melbourne-city-ce
+ ntral-coast-mariners
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Wellington Phoenix vs Central Coast Mariners
+DTSTART:20270109T040000Z
+DTEND:20270109T060000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913204@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nWellington Phoenix vs Central Coast Ma
+ riners\nStatus: Scheduled\nVenue: Porirua Park\, Porirua\n\nFixtures by He
+ rFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913204/central-coast-mar
+ iners-wellington-phoenix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Melbourne Victory vs Central Coast Mariners
+DTSTART:20270115T055000Z
+DTEND:20270115T075000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913199@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nMelbourne Victory vs Central Coast Mar
+ iners\nStatus: Scheduled\nVenue: Melbourne Rectangular Stadium\, Melbourne
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913199/central-coast-mar
+ iners-melbourne-victory
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Central Coast Mariners vs Western Sydney
+DTSTART:20270123T060000Z
+DTEND:20270123T080000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913194@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nCentral Coast Mariners vs Western Sydn
+ ey\nStatus: Scheduled\nVenue: Central Coast Stadium\, New South Wales\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913194/western-sydney-ce
+ ntral-coast-mariners
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Canberra United vs Central Coast Mariners
+DTSTART:20270131T060000Z
+DTEND:20270131T080000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913185@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nCanberra United vs Central Coast Marin
+ ers\nStatus: Scheduled\nVenue: McKellar Park\, Canberra\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913185/central-coast-mar
+ iners-canberra-united
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Newcastle Jets vs Central Coast Mariners
+DTSTART:20270207T060000Z
+DTEND:20270207T080000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913238@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nNewcastle Jets vs Central Coast Marine
+ rs\nStatus: Scheduled\nVenue: Hunter City Motor Group Stadium\, Weston\n\n
+ Fixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913238/central-coast-mar
+ iners-newcastle-jets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Perth Glory vs Central Coast Mariners
+DTSTART:20270221T090000Z
+DTEND:20270221T110000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913170@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nPerth Glory vs Central Coast Mariners\
+ nStatus: Scheduled\nVenue: Sam Kerr Football Centre\, Perth\n\nFixtures by
+  HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913170/central-coast-mar
+ iners-perth-glory
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Central Coast Mariners vs Sydney FC
+DTSTART:20270312T080000Z
+DTEND:20270312T100000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913169@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nCentral Coast Mariners vs Sydney FC\nS
+ tatus: Scheduled\nVenue: Central Coast Stadium\, New South Wales\n\nFixtur
+ es by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913169/sydney-fc-central
+ -coast-mariners
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Melbourne City vs Central Coast Mariners
+DTSTART:20270321T064500Z
+DTEND:20270321T084500Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913160@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nMelbourne City vs Central Coast Marine
+ rs\nStatus: Scheduled\nVenue: Melbourne Rectangular Stadium\, Melbourne\n\
+ nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913160/central-coast-mar
+ iners-melbourne-city
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Central Coast Mariners vs Melbourne Victory
+DTSTART:20270327T040000Z
+DTEND:20270327T060000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913159@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nCentral Coast Mariners vs Melbourne Vi
+ ctory\nStatus: Scheduled\nVenue: Central Coast Stadium\, New South Wales\n
+ \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913159/melbourne-victory
+ -central-coast-mariners
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Central Coast Mariners vs Wellington Phoenix
+DTSTART:20270403T060000Z
+DTEND:20270403T080000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913152@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nCentral Coast Mariners vs Wellington P
+ hoenix\nStatus: Scheduled\nVenue: Central Coast Stadium\, New South Wales\
+ n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913152/wellington-phoeni
+ x-central-coast-mariners
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Western Sydney vs Central Coast Mariners
+DTSTART:20270411T021500Z
+DTEND:20270411T041500Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913146@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nWestern Sydney vs Central Coast Marine
+ rs\nStatus: Scheduled\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913146/central-coast-mar
+ iners-western-sydney
+END:VEVENT
+END:VCALENDAR

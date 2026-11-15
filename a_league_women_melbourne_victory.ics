@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//A-League Women 2026-27 Melbourne Victory//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Melbourne Victory A-League Women 2026/27 fixtures. Updated au
+ tomatically by HerFixtures.com
+X-WR-CALNAME:Melbourne Victory — A-League Women 2026/27 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Western Sydney vs Melbourne Victory (0–1)
+DTSTART:20261017T040000Z
+DTEND:20261017T060000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913253@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nWestern Sydney vs Melbourne Victory\nS
+ tatus: Full Time\nVenue: Western Sydney Wanderers Academy\, Sydney\nTV: ES
+ PN+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913253/melbourne-victory
+ -western-sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Wellington Phoenix vs Melbourne Victory (1–1)
+DTSTART:20261024T231500Z
+DTEND:20261025T011500Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913246@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nWellington Phoenix vs Melbourne Victor
+ y\nStatus: Full Time\nVenue: Sky Stadium\, Wellington\nTV: ESPN+\n\nFixtur
+ es by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913246/melbourne-victory
+ -wellington-phoenix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Melbourne Victory vs Newcastle Jets (1–0)
+DTSTART:20261101T054500Z
+DTEND:20261101T074500Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913241@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nMelbourne Victory vs Newcastle Jets\nS
+ tatus: Full Time\nVenue: Melbourne Rectangular Stadium\, Melbourne\nTV: ES
+ PN+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913241/newcastle-jets-me
+ lbourne-victory
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Brisbane Roar vs Melbourne Victory (2–0)
+DTSTART:20261107T060000Z
+DTEND:20261107T080000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913237@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nBrisbane Roar vs Melbourne Victory\nSt
+ atus: Full Time\nVenue: Spencer Park\, Brisbane\nTV: ESPN+\n\nFixtures by 
+ HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913237/melbourne-victory
+ -brisbane-roar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Melbourne Victory vs Adelaide United (1–1)
+DTSTART:20261114T040000Z
+DTEND:20261114T060000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913234@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nMelbourne Victory vs Adelaide United\n
+ Status: Full Time\nVenue: Lakeside Stadium\, Melbourne\nTV: ESPN+\n\nFixtu
+ res by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913234/adelaide-united-m
+ elbourne-victory
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Melbourne Victory vs Perth Glory
+DTSTART:20261122T040000Z
+DTEND:20261122T060000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913226@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nMelbourne Victory vs Perth Glory\nStat
+ us: Scheduled\nVenue: Lakeside Stadium\, Melbourne\nTV: ESPN+\n\nFixtures 
+ by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913226/perth-glory-melbo
+ urne-victory
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Melbourne City vs Melbourne Victory
+DTSTART:20261219T060000Z
+DTEND:20261219T080000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913220@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nMelbourne City vs Melbourne Victory\nS
+ tatus: Scheduled\nVenue: Melbourne Rectangular Stadium\, Melbourne\n\nFixt
+ ures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913220/melbourne-victory
+ -melbourne-city
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Melbourne Victory vs Wellington Phoenix
+DTSTART:20261229T055000Z
+DTEND:20261229T075000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913212@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nMelbourne Victory vs Wellington Phoeni
+ x\nStatus: Scheduled\nVenue: Melbourne Rectangular Stadium\, Melbourne\n\n
+ Fixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913212/wellington-phoeni
+ x-melbourne-victory
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Canberra United vs Melbourne Victory
+DTSTART:20270102T060000Z
+DTEND:20270102T080000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913207@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nCanberra United vs Melbourne Victory\n
+ Status: Scheduled\nVenue: McKellar Park\, Canberra\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913207/melbourne-victory
+ -canberra-united
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Melbourne Victory vs Western Sydney
+DTSTART:20270109T060000Z
+DTEND:20270109T080000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913202@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nMelbourne Victory vs Western Sydney\nS
+ tatus: Scheduled\nVenue: The Home of the Matildas\, Melbourne\n\nFixtures 
+ by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913202/western-sydney-me
+ lbourne-victory
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Melbourne Victory vs Central Coast Mariners
+DTSTART:20270115T055000Z
+DTEND:20270115T075000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913199@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nMelbourne Victory vs Central Coast Mar
+ iners\nStatus: Scheduled\nVenue: Melbourne Rectangular Stadium\, Melbourne
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913199/central-coast-mar
+ iners-melbourne-victory
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sydney FC vs Melbourne Victory
+DTSTART:20270123T070000Z
+DTEND:20270123T090000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913193@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nSydney FC vs Melbourne Victory\nStatus
+ : Scheduled\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
+ ndar
+URL:https://www.espn.com/soccer/match/_/gameId/401913193/melbourne-victory
+ -sydney-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Melbourne Victory vs Brisbane Roar
+DTSTART:20270130T060000Z
+DTEND:20270130T080000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913187@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nMelbourne Victory vs Brisbane Roar\nSt
+ atus: Scheduled\nVenue: The Home of the Matildas\, Melbourne\n\nFixtures b
+ y HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913187/brisbane-roar-mel
+ bourne-victory
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Adelaide United vs Melbourne Victory
+DTSTART:20270206T055000Z
+DTEND:20270206T075000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913183@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nAdelaide United vs Melbourne Victory\n
+ Status: Scheduled\nVenue: Hindmarsh Stadium\, Adelaide\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913183/melbourne-victory
+ -adelaide-united
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Newcastle Jets vs Melbourne Victory
+DTSTART:20270214T060000Z
+DTEND:20270214T080000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913175@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nNewcastle Jets vs Melbourne Victory\nS
+ tatus: Scheduled\nVenue: Hunter City Motor Group Stadium\, Weston\n\nFixtu
+ res by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913175/melbourne-victory
+ -newcastle-jets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Melbourne Victory vs Melbourne City
+DTSTART:20270221T060000Z
+DTEND:20270221T080000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913171@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nMelbourne Victory vs Melbourne City\nS
+ tatus: Scheduled\nVenue: The Home of the Matildas\, Melbourne\n\nFixtures 
+ by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913171/melbourne-city-me
+ lbourne-victory
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Melbourne Victory vs Canberra United
+DTSTART:20270314T040000Z
+DTEND:20270314T060000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913165@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nMelbourne Victory vs Canberra United\n
+ Status: Scheduled\nVenue: The Home of the Matildas\, Melbourne\n\nFixtures
+  by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913165/canberra-united-m
+ elbourne-victory
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Central Coast Mariners vs Melbourne Victory
+DTSTART:20270327T040000Z
+DTEND:20270327T060000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913159@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nCentral Coast Mariners vs Melbourne Vi
+ ctory\nStatus: Scheduled\nVenue: Central Coast Stadium\, New South Wales\n
+ \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913159/melbourne-victory
+ -central-coast-mariners
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Perth Glory vs Melbourne Victory
+DTSTART:20270404T090000Z
+DTEND:20270404T110000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913150@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nPerth Glory vs Melbourne Victory\nStat
+ us: Scheduled\nVenue: Sam Kerr Football Centre\, Perth\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913150/melbourne-victory
+ -perth-glory
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Melbourne Victory vs Sydney FC
+DTSTART:20270410T070000Z
+DTEND:20270410T090000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913148@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nMelbourne Victory vs Sydney FC\nStatus
+ : Scheduled\nVenue: Melbourne Rectangular Stadium\, Melbourne\n\nFixtures 
+ by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913148/sydney-fc-melbour
+ ne-victory
+END:VEVENT
+END:VCALENDAR

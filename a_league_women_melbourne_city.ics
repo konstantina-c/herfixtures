@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//A-League Women 2026-27 Melbourne City//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Melbourne City A-League Women 2026/27 fixtures. Updated autom
+ atically by HerFixtures.com
+X-WR-CALNAME:Melbourne City — A-League Women 2026/27 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Wellington Phoenix vs Melbourne City (1–2)
+DTSTART:20261017T231500Z
+DTEND:20261018T011500Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913251@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nWellington Phoenix vs Melbourne City\n
+ Status: Full Time\nVenue: Sky Stadium\, Wellington\nTV: ESPN+\n\nFixtures 
+ by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913251/melbourne-city-we
+ llington-phoenix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sydney FC vs Melbourne City (0–5)
+DTSTART:20261025T064500Z
+DTEND:20261025T084500Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913245@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nSydney FC vs Melbourne City\nStatus: F
+ ull Time\nVenue: Allianz Stadium\, Sydney\nTV: ESPN+\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913245/melbourne-city-sy
+ dney-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Melbourne City vs Newcastle Jets (1–1)
+DTSTART:20261114T040000Z
+DTEND:20261114T060000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913235@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nMelbourne City vs Newcastle Jets\nStat
+ us: Full Time\nVenue: Melbourne City Football Academy\, Melbourne\nTV: ESP
+ N+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913235/newcastle-jets-me
+ lbourne-city
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Brisbane Roar vs Melbourne City
+DTSTART:20261121T055000Z
+DTEND:20261121T075000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913228@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nBrisbane Roar vs Melbourne City\nStatu
+ s: Scheduled\nVenue: Dolphin Stadium\, Queensland\nTV: ESPN+\n\nFixtures b
+ y HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913228/melbourne-city-br
+ isbane-roar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Perth Glory vs Melbourne City
+DTSTART:20261212T090000Z
+DTEND:20261212T110000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913222@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nPerth Glory vs Melbourne City\nStatus:
+  Scheduled\nVenue: Sam Kerr Football Centre\, Perth\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913222/melbourne-city-pe
+ rth-glory
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Melbourne City vs Melbourne Victory
+DTSTART:20261219T060000Z
+DTEND:20261219T080000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913220@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nMelbourne City vs Melbourne Victory\nS
+ tatus: Scheduled\nVenue: Melbourne Rectangular Stadium\, Melbourne\n\nFixt
+ ures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913220/melbourne-victory
+ -melbourne-city
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Melbourne City vs Sydney FC
+DTSTART:20261227T041500Z
+DTEND:20261227T061500Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913215@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nMelbourne City vs Sydney FC\nStatus: S
+ cheduled\nVenue: Melbourne Rectangular Stadium\, Melbourne\n\nFixtures by 
+ HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913215/sydney-fc-melbour
+ ne-city
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Central Coast Mariners vs Melbourne City
+DTSTART:20261231T055000Z
+DTEND:20261231T075000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913210@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nCentral Coast Mariners vs Melbourne Ci
+ ty\nStatus: Scheduled\nVenue: Central Coast Stadium\, New South Wales\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913210/melbourne-city-ce
+ ntral-coast-mariners
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Melbourne City vs Western Sydney
+DTSTART:20270106T063000Z
+DTEND:20270106T083000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913205@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nMelbourne City vs Western Sydney\nStat
+ us: Scheduled\nVenue: Melbourne City Football Academy\, Melbourne\n\nFixtu
+ res by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913205/western-sydney-me
+ lbourne-city
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Newcastle Jets vs Melbourne City
+DTSTART:20270110T060000Z
+DTEND:20270110T080000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913201@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nNewcastle Jets vs Melbourne City\nStat
+ us: Scheduled\nVenue: Maitland No.1 Sportsground\, Maitland\n\nFixtures by
+  HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913201/melbourne-city-ne
+ wcastle-jets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Melbourne City vs Canberra United
+DTSTART:20270116T084500Z
+DTEND:20270116T104500Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913196@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nMelbourne City vs Canberra United\nSta
+ tus: Scheduled\nVenue: Melbourne Rectangular Stadium\, Melbourne\n\nFixtur
+ es by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913196/canberra-united-m
+ elbourne-city
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Melbourne City vs Wellington Phoenix
+DTSTART:20270124T060000Z
+DTEND:20270124T080000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913191@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nMelbourne City vs Wellington Phoenix\n
+ Status: Scheduled\nVenue: Melbourne City Football Academy\, Melbourne\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913191/wellington-phoeni
+ x-melbourne-city
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Adelaide United vs Melbourne City
+DTSTART:20270129T055000Z
+DTEND:20270129T075000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913189@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nAdelaide United vs Melbourne City\nSta
+ tus: Scheduled\nVenue: Hindmarsh Stadium\, Adelaide\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913189/melbourne-city-ad
+ elaide-united
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Melbourne City vs Perth Glory
+DTSTART:20270207T060000Z
+DTEND:20270207T080000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913180@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nMelbourne City vs Perth Glory\nStatus:
+  Scheduled\nVenue: Melbourne City Football Academy\, Melbourne\n\nFixtures
+  by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913180/perth-glory-melbo
+ urne-city
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Western Sydney vs Melbourne City
+DTSTART:20270213T070000Z
+DTEND:20270213T090000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913178@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nWestern Sydney vs Melbourne City\nStat
+ us: Scheduled\nVenue: Western Sydney Wanderers Academy\, Sydney\n\nFixture
+ s by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913178/melbourne-city-we
+ stern-sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Melbourne Victory vs Melbourne City
+DTSTART:20270221T060000Z
+DTEND:20270221T080000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913171@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nMelbourne Victory vs Melbourne City\nS
+ tatus: Scheduled\nVenue: The Home of the Matildas\, Melbourne\n\nFixtures 
+ by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913171/melbourne-city-me
+ lbourne-victory
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Melbourne City vs Brisbane Roar
+DTSTART:20270313T040000Z
+DTEND:20270313T060000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913168@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nMelbourne City vs Brisbane Roar\nStatu
+ s: Scheduled\nVenue: Melbourne City Football Academy\, Melbourne\n\nFixtur
+ es by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913168/brisbane-roar-mel
+ bourne-city
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Melbourne City vs Central Coast Mariners
+DTSTART:20270321T064500Z
+DTEND:20270321T084500Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913160@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nMelbourne City vs Central Coast Marine
+ rs\nStatus: Scheduled\nVenue: Melbourne Rectangular Stadium\, Melbourne\n\
+ nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913160/central-coast-mar
+ iners-melbourne-city
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Canberra United vs Melbourne City
+DTSTART:20270403T040000Z
+DTEND:20270403T060000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913153@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nCanberra United vs Melbourne City\nSta
+ tus: Scheduled\nVenue: McKellar Park\, Canberra\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913153/melbourne-city-ca
+ nberra-united
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Melbourne City vs Adelaide United
+DTSTART:20270411T050000Z
+DTEND:20270411T070000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913145@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nMelbourne City vs Adelaide United\nSta
+ tus: Scheduled\nVenue: Melbourne City Football Academy\, Melbourne\n\nFixt
+ ures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913145/adelaide-united-m
+ elbourne-city
+END:VEVENT
+END:VCALENDAR

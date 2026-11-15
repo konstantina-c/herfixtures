@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//A-League Women 2026-27 Wellington Phoenix//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Wellington Phoenix A-League Women 2026/27 fixtures. Updated a
+ utomatically by HerFixtures.com
+X-WR-CALNAME:Wellington Phoenix — A-League Women 2026/27 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Wellington Phoenix vs Melbourne City (1–2)
+DTSTART:20261017T231500Z
+DTEND:20261018T011500Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913251@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nWellington Phoenix vs Melbourne City\n
+ Status: Full Time\nVenue: Sky Stadium\, Wellington\nTV: ESPN+\n\nFixtures 
+ by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913251/melbourne-city-we
+ llington-phoenix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Wellington Phoenix vs Melbourne Victory (1–1)
+DTSTART:20261024T231500Z
+DTEND:20261025T011500Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913246@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nWellington Phoenix vs Melbourne Victor
+ y\nStatus: Full Time\nVenue: Sky Stadium\, Wellington\nTV: ESPN+\n\nFixtur
+ es by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913246/melbourne-victory
+ -wellington-phoenix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Perth Glory vs Wellington Phoenix (2–0)
+DTSTART:20261101T104500Z
+DTEND:20261101T124500Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913240@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nPerth Glory vs Wellington Phoenix\nSta
+ tus: Full Time\nVenue: HBF Park\, Perth\nTV: ESPN+\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913240/wellington-phoeni
+ x-perth-glory
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Adelaide United vs Wellington Phoenix (0–2)
+DTSTART:20261106T080000Z
+DTEND:20261106T100000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913239@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nAdelaide United vs Wellington Phoenix\
+ nStatus: Full Time\nVenue: ServiceFM Stadium\, Adelaide\nTV: ESPN+\n\nFixt
+ ures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913239/wellington-phoeni
+ x-adelaide-united
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Wellington Phoenix vs Sydney FC (3–1)
+DTSTART:20261115T010000Z
+DTEND:20261115T030000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913232@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nWellington Phoenix vs Sydney FC\nStatu
+ s: Full Time\nVenue: Porirua Park\, Porirua\nTV: ESPN+\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913232/sydney-fc-welling
+ ton-phoenix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Western Sydney vs Wellington Phoenix
+DTSTART:20261120T055000Z
+DTEND:20261120T075000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913230@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nWestern Sydney vs Wellington Phoenix\n
+ Status: Scheduled\nVenue: CommBank Stadium\, Sydney\nTV: ESPN+\n\nFixtures
+  by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913230/wellington-phoeni
+ x-western-sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Canberra United vs Wellington Phoenix
+DTSTART:20261212T060000Z
+DTEND:20261212T080000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913223@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nCanberra United vs Wellington Phoenix\
+ nStatus: Scheduled\nVenue: McKellar Park\, Canberra\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913223/wellington-phoeni
+ x-canberra-united
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Wellington Phoenix vs Brisbane Roar
+DTSTART:20261220T020000Z
+DTEND:20261220T040000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913217@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nWellington Phoenix vs Brisbane Roar\nS
+ tatus: Scheduled\nVenue: Porirua Park\, Porirua\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913217/brisbane-roar-wel
+ lington-phoenix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Melbourne Victory vs Wellington Phoenix
+DTSTART:20261229T055000Z
+DTEND:20261229T075000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913212@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nMelbourne Victory vs Wellington Phoeni
+ x\nStatus: Scheduled\nVenue: Melbourne Rectangular Stadium\, Melbourne\n\n
+ Fixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913212/wellington-phoeni
+ x-melbourne-victory
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Newcastle Jets vs Wellington Phoenix
+DTSTART:20270101T060000Z
+DTEND:20270101T080000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913209@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nNewcastle Jets vs Wellington Phoenix\n
+ Status: Scheduled\nVenue: Maitland No.1 Sportsground\, Maitland\n\nFixture
+ s by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913209/wellington-phoeni
+ x-newcastle-jets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Wellington Phoenix vs Central Coast Mariners
+DTSTART:20270109T040000Z
+DTEND:20270109T060000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913204@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nWellington Phoenix vs Central Coast Ma
+ riners\nStatus: Scheduled\nVenue: Porirua Park\, Porirua\n\nFixtures by He
+ rFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913204/central-coast-mar
+ iners-wellington-phoenix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Wellington Phoenix vs Perth Glory
+DTSTART:20270116T040000Z
+DTEND:20270116T060000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913198@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nWellington Phoenix vs Perth Glory\nSta
+ tus: Scheduled\nVenue: Porirua Park\, Porirua\n\nFixtures by HerFixtures.c
+ om — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913198/perth-glory-welli
+ ngton-phoenix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Melbourne City vs Wellington Phoenix
+DTSTART:20270124T060000Z
+DTEND:20270124T080000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913191@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nMelbourne City vs Wellington Phoenix\n
+ Status: Scheduled\nVenue: Melbourne City Football Academy\, Melbourne\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913191/wellington-phoeni
+ x-melbourne-city
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Wellington Phoenix vs Western Sydney
+DTSTART:20270206T011500Z
+DTEND:20270206T031500Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913184@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nWellington Phoenix vs Western Sydney\n
+ Status: Scheduled\nVenue: One New Zealand Stadium\, Christchurch\n\nFixtur
+ es by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913184/western-sydney-we
+ llington-phoenix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Wellington Phoenix vs Adelaide United
+DTSTART:20270214T020000Z
+DTEND:20270214T040000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913176@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nWellington Phoenix vs Adelaide United\
+ nStatus: Scheduled\nVenue: Porirua Park\, Porirua\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913176/adelaide-united-w
+ ellington-phoenix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sydney FC vs Wellington Phoenix
+DTSTART:20270220T060000Z
+DTEND:20270220T080000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913173@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nSydney FC vs Wellington Phoenix\nStatu
+ s: Scheduled\nVenue: WIN Stadium\, Wollongong\n\nFixtures by HerFixtures.c
+ om — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913173/wellington-phoeni
+ x-sydney-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Wellington Phoenix vs Newcastle Jets
+DTSTART:20270314T020000Z
+DTEND:20270314T040000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913166@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nWellington Phoenix vs Newcastle Jets\n
+ Status: Scheduled\nVenue: Porirua Park\, Porirua\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913166/newcastle-jets-we
+ llington-phoenix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Brisbane Roar vs Wellington Phoenix
+DTSTART:20270319T080000Z
+DTEND:20270319T100000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913164@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nBrisbane Roar vs Wellington Phoenix\nS
+ tatus: Scheduled\nVenue: Spencer Park\, Brisbane\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913164/wellington-phoeni
+ x-brisbane-roar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Wellington Phoenix vs Canberra United
+DTSTART:20270328T020000Z
+DTEND:20270328T040000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913156@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nWellington Phoenix vs Canberra United\
+ nStatus: Scheduled\nVenue: Porirua Park\, Porirua\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913156/canberra-united-w
+ ellington-phoenix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Central Coast Mariners vs Wellington Phoenix
+DTSTART:20270403T060000Z
+DTEND:20270403T080000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913152@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nCentral Coast Mariners vs Wellington P
+ hoenix\nStatus: Scheduled\nVenue: Central Coast Stadium\, New South Wales\
+ n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913152/wellington-phoeni
+ x-central-coast-mariners
+END:VEVENT
+END:VCALENDAR
