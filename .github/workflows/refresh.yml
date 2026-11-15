@@ -55,13 +55,15 @@ jobs:
         run: python fetch_scores_json.py
       - name: Fetch FIBA WWC 2026 scores and regenerate feeds
         run: python fetch_fiba_scores.py
+      - name: Build homepage badges from feed dates (feed_status.json)
+        run: python scripts/build_feed_status.py
       - name: Generate sitemap
         run: python generate_sitemap.py
       - name: Commit and push updated feeds
         run: |
           git config user.name "HerFixtures Bot"
           git config user.email "bot@herfixtures.com"
-          git add womens_ucl.ics euroleague_women.ics wnba.ics wnba_*.ics nwsl.ics nwsl_*.ics liga_f.ics liga_f_*.ics frauen_bundesliga.ics frauen_bl_*.ics feeds/fiba-wwc-2026/all.ics fiba_wwc_*.ics scores.json sitemap.xml
+          git add womens_ucl.ics euroleague_women.ics wnba.ics wnba_*.ics nwsl.ics nwsl_*.ics liga_f.ics liga_f_*.ics frauen_bundesliga.ics frauen_bl_*.ics feeds/fiba-wwc-2026/all.ics fiba_wwc_*.ics scores.json feed_status.json sitemap.xml
           git diff --staged --quiet || git commit -m "Auto-refresh feeds"
           git push
       - name: Feed health check (opens/updates/closes the "Feed health alert" issue)

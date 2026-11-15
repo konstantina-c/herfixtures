@@ -1,5 +1,5 @@
 {
-  "_about": "One entry per competition feed. Read by scripts/check_feed_health.py (runs in refresh.yml and opens a GitHub issue when a feed looks wrong) and scripts/publish_feed_update.sh (only paths listed in publish_paths may be auto-pushed). Update season dates when a new season is announced. Dates are inclusive, YYYY-MM-DD.",
+  "_about": "One entry per competition feed. Read by scripts/check_feed_health.py (runs in refresh.yml and opens a GitHub issue when a feed looks wrong) and scripts/publish_feed_update.sh (only paths listed in publish_paths may be auto-pushed). Update season dates when a new season is announced. Dates are inclusive, YYYY-MM-DD. Homepage badges come from here too (scripts/build_feed_status.py -> feed_status.json): 'kind' is 'league' (after the season: 'Off-season') or 'tournament' ('Tournament complete'); optional 'highlights' are time-boxed badge texts [{from, until, text, style: live|offseason}] that win over the computed status.",
   "feeds": [
     {
       "id": "euroleague-women",
@@ -17,7 +17,8 @@
       "publish_paths": [
         "feeds/euroleague-women-2026-27/fixtures.json",
         "euroleague_women.ics"
-      ]
+      ],
+      "kind": "league"
     },
     {
       "id": "ucl-women",
@@ -37,7 +38,8 @@
         }
       ],
       "grace_days": 3,
-      "min_events": 0
+      "min_events": 0,
+      "kind": "league"
     },
     {
       "id": "frauen-bundesliga",
@@ -51,7 +53,8 @@
       },
       "breaks": [],
       "grace_days": 3,
-      "min_events": 150
+      "min_events": 150,
+      "kind": "league"
     },
     {
       "id": "liga-f",
@@ -65,7 +68,8 @@
       },
       "breaks": [],
       "grace_days": 3,
-      "min_events": 200
+      "min_events": 200,
+      "kind": "league"
     },
     {
       "id": "nwsl",
@@ -79,7 +83,16 @@
       },
       "breaks": [],
       "grace_days": 3,
-      "min_events": 150
+      "min_events": 150,
+      "kind": "league",
+      "highlights": [
+        {
+          "from": "2026-11-06",
+          "until": "2026-11-21",
+          "text": "Playoffs · Final 21 Nov",
+          "style": "live"
+        }
+      ]
     },
     {
       "id": "wnba",
@@ -93,7 +106,8 @@
       },
       "breaks": [],
       "grace_days": 3,
-      "min_events": 200
+      "min_events": 200,
+      "kind": "league"
     },
     {
       "id": "fiba-wwc-2026",
@@ -107,7 +121,8 @@
       },
       "breaks": [],
       "grace_days": 3,
-      "min_events": 0
+      "min_events": 0,
+      "kind": "tournament"
     }
   ]
 }
