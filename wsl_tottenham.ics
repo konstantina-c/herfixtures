@@ -1,0 +1,332 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//WSL 2026-27 Tottenham Hotspur//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Tottenham Hotspur Women's Super League 2026/27 fixtures. Upda
+ ted automatically by HerFixtures.com
+X-WR-CALNAME:Tottenham Hotspur — WSL 2026/27 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Tottenham Hotspur vs West Ham United (3–1)
+DTSTART:20260906T110000Z
+DTEND:20260906T130000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902925@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nTottenham Hotspur vs West Ham Un
+ ited\nStatus: Full Time\nVenue: Gaughan Group Stadium\, London\nTV: Paramo
+ unt+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902925/west-ham-united-t
+ ottenham-hotspur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Liverpool vs Tottenham Hotspur (1–1)
+DTSTART:20260913T130000Z
+DTEND:20260913T150000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902918@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nLiverpool vs Tottenham Hotspur\n
+ Status: Full Time\nVenue: St Helens Stadium\, St Helens\nTV: Paramount+\n\
+ nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902918/tottenham-hotspur
+ -liverpool
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Crystal Palace vs Tottenham Hotspur (0–7)
+DTSTART:20260920T130000Z
+DTEND:20260920T150000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902909@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nCrystal Palace vs Tottenham Hots
+ pur\nStatus: Full Time\nVenue: Selhurst Park\, London\nTV: Paramount+\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902909/tottenham-hotspur
+ -crystal-palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Tottenham Hotspur vs Aston Villa (4–0)
+DTSTART:20260927T130000Z
+DTEND:20260927T150000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902902@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nTottenham Hotspur vs Aston Villa
+ \nStatus: Full Time\nVenue: Gaughan Group Stadium\, London\nTV: Paramount+
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902902/aston-villa-totte
+ nham-hotspur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Tottenham Hotspur vs London City Lionesses (1–6)
+DTSTART:20261004T130000Z
+DTEND:20261004T150000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902900@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nTottenham Hotspur vs London City
+  Lionesses\nStatus: Full Time\nVenue: Gaughan Group Stadium\, London\nTV: 
+ Paramount+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
+ dar
+URL:https://www.espn.com/soccer/match/_/gameId/401902900/london-city-lione
+ sses-tottenham-hotspur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Chelsea vs Tottenham Hotspur (6–2)
+DTSTART:20261018T110000Z
+DTEND:20261018T130000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902890@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nChelsea vs Tottenham Hotspur\nSt
+ atus: Full Time\nVenue: Stamford Bridge\, London\nTV: Paramount+\n\nFixtur
+ es by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902890/tottenham-hotspur
+ -chelsea
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Tottenham Hotspur vs Arsenal (1–2)
+DTSTART:20261024T114500Z
+DTEND:20261024T134500Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902880@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nTottenham Hotspur vs Arsenal\nSt
+ atus: Full Time\nVenue: Tottenham Hotspur Stadium\, London\nTV: Paramount+
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902880/arsenal-tottenham
+ -hotspur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Birmingham City vs Tottenham Hotspur (1–4)
+DTSTART:20261101T140000Z
+DTEND:20261101T160000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902877@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nBirmingham City vs Tottenham Hot
+ spur\nStatus: Full Time\nVenue: St. Andrew's Stadium\, Birmingham\nTV: Par
+ amount+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902877/tottenham-hotspur
+ -birmingham-city
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Tottenham Hotspur vs Brighton & Hove Albion (2–1)
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902866@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nTottenham Hotspur vs Brighton & 
+ Hove Albion\nStatus: Full Time\nVenue: Gaughan Group Stadium\, London\nTV:
+  Paramount+\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
+ ndar
+URL:https://www.espn.com/soccer/match/_/gameId/401902866/brighton-hove-alb
+ ion-tottenham-hotspur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Tottenham Hotspur vs Everton (0–0)
+DTSTART:20261114T150000Z
+DTEND:20261114T170000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902861@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nTottenham Hotspur vs Everton\nSt
+ atus: Full Time\nVenue: Gaughan Group Stadium\, London\nTV: Paramount+\n\n
+ Fixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902861/everton-tottenham
+ -hotspur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Manchester City vs Tottenham Hotspur
+DTSTART:20261122T120000Z
+DTEND:20261122T140000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902852@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nManchester City vs Tottenham Hot
+ spur\nStatus: Scheduled\nVenue: Joie Stadium\, Manchester\nTV: Paramount+\
+ n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902852/tottenham-hotspur
+ -manchester-city
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Tottenham Hotspur vs Charlton Athletic
+DTSTART:20261211T190000Z
+DTEND:20261211T210000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902846@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nTottenham Hotspur vs Charlton At
+ hletic\nStatus: Scheduled\nVenue: Gaughan Group Stadium\, London\nTV: Para
+ mount+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902846/charlton-athletic
+ -tottenham-hotspur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Manchester United vs Tottenham Hotspur
+DTSTART:20261220T143000Z
+DTEND:20261220T163000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902842@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nManchester United vs Tottenham H
+ otspur\nStatus: Scheduled\nVenue: Leigh Sports Village\, Manchester\nTV: P
+ aramount+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calend
+ ar
+URL:https://www.espn.com/soccer/match/_/gameId/401902842/tottenham-hotspur
+ -manchester-united
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Tottenham Hotspur vs Liverpool
+DTSTART:20270110T140000Z
+DTEND:20270110T160000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902831@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nTottenham Hotspur vs Liverpool\n
+ Status: Scheduled\nVenue: Gaughan Group Stadium\, London\nTV: Paramount+\n
+ \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902831/liverpool-tottenh
+ am-hotspur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Brighton & Hove Albion vs Tottenham Hotspur
+DTSTART:20270120T194500Z
+DTEND:20270120T214500Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902825@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nBrighton & Hove Albion vs Totten
+ ham Hotspur\nStatus: Scheduled\nVenue: Broadfield Stadium\, Crawley\nTV: P
+ aramount+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calend
+ ar
+URL:https://www.espn.com/soccer/match/_/gameId/401902825/tottenham-hotspur
+ -brighton-hove-albion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Aston Villa vs Tottenham Hotspur
+DTSTART:20270124T140000Z
+DTEND:20270124T160000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902822@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nAston Villa vs Tottenham Hotspur
+ \nStatus: Scheduled\nVenue: Villa Park\, Birmingham\nTV: Paramount+\n\nFix
+ tures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902822/tottenham-hotspur
+ -aston-villa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Tottenham Hotspur vs Chelsea
+DTSTART:20270131T140000Z
+DTEND:20270131T160000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902810@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nTottenham Hotspur vs Chelsea\nSt
+ atus: Scheduled\nVenue: Gaughan Group Stadium\, London\nTV: Paramount+\n\n
+ Fixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902810/chelsea-tottenham
+ -hotspur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Tottenham Hotspur vs Manchester United
+DTSTART:20270207T140000Z
+DTEND:20270207T160000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902804@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nTottenham Hotspur vs Manchester 
+ United\nStatus: Scheduled\nVenue: Tottenham Hotspur Stadium\, London\nTV: 
+ Paramount+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
+ dar
+URL:https://www.espn.com/soccer/match/_/gameId/401902804/manchester-united
+ -tottenham-hotspur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Everton vs Tottenham Hotspur
+DTSTART:20270214T140000Z
+DTEND:20270214T160000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902799@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nEverton vs Tottenham Hotspur\nSt
+ atus: Scheduled\nVenue: Goodison Park\, Liverpool\nTV: Paramount+\n\nFixtu
+ res by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902799/tottenham-hotspur
+ -everton
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Arsenal vs Tottenham Hotspur
+DTSTART:20270313T173000Z
+DTEND:20270313T193000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902794@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nArsenal vs Tottenham Hotspur\nSt
+ atus: Scheduled\nVenue: Emirates Stadium\, London\nTV: Paramount+\n\nFixtu
+ res by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902794/tottenham-hotspur
+ -arsenal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Tottenham Hotspur vs Manchester City
+DTSTART:20270317T193000Z
+DTEND:20270317T213000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902784@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nTottenham Hotspur vs Manchester 
+ City\nStatus: Scheduled\nVenue: Gaughan Group Stadium\, London\nTV: Paramo
+ unt+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902784/manchester-city-t
+ ottenham-hotspur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ West Ham United vs Tottenham Hotspur
+DTSTART:20270328T130000Z
+DTEND:20270328T150000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902775@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nWest Ham United vs Tottenham Hot
+ spur\nStatus: Scheduled\nVenue: Victoria Road\, Dagenham\nTV: Paramount+\n
+ \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902775/tottenham-hotspur
+ -west-ham-united
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Tottenham Hotspur vs Crystal Palace
+DTSTART:20270404T130000Z
+DTEND:20270404T150000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902768@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nTottenham Hotspur vs Crystal Pal
+ ace\nStatus: Scheduled\nVenue: Tottenham Hotspur Stadium\, London\nTV: Par
+ amount+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902768/crystal-palace-to
+ ttenham-hotspur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ London City Lionesses vs Tottenham Hotspur
+DTSTART:20270502T130000Z
+DTEND:20270502T150000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902764@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nLondon City Lionesses vs Tottenh
+ am Hotspur\nStatus: Scheduled\nVenue: RELOC8 EM Community Stadium\, Bromle
+ y\nTV: Paramount+\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902764/tottenham-hotspur
+ -london-city-lionesses
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Charlton Athletic vs Tottenham Hotspur
+DTSTART:20270509T130000Z
+DTEND:20270509T150000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902757@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nCharlton Athletic vs Tottenham H
+ otspur\nStatus: Scheduled\nVenue: The Valley\, London\nTV: Paramount+\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902757/tottenham-hotspur
+ -charlton-athletic
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Tottenham Hotspur vs Birmingham City (time TBC)
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902748@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nTottenham Hotspur vs Birmingham 
+ City\nStatus: Scheduled\nKick-off time not confirmed yet. Your calendar up
+ dates automatically once it is.\nVenue: Gaughan Group Stadium\, London\nTV
+ : Paramount+\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+URL:https://www.espn.com/soccer/match/_/gameId/401902748/birmingham-city-t
+ ottenham-hotspur
+END:VEVENT
+END:VCALENDAR

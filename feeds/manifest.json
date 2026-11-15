@@ -72,6 +72,21 @@
       "kind": "league"
     },
     {
+      "id": "wsl",
+      "name": "Women's Super League (WSL)",
+      "ics": "wsl.ics",
+      "source": "auto",
+      "update": "fetch_espn_feeds.py (shared ESPN engine, config in feeds/espn_leagues.json) in refresh.yml",
+      "season": {
+        "start": "2026-09-04",
+        "end": "2027-05-23"
+      },
+      "breaks": [],
+      "grace_days": 3,
+      "min_events": 150,
+      "kind": "league"
+    },
+    {
       "id": "nwsl",
       "name": "NWSL",
       "ics": "nwsl.ics",
