@@ -1,0 +1,16 @@
+name: Repo check
+on:
+  pull_request:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  repo-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+      - name: Consistency check (refresh paths, feed configs, Python compiles)
+        run: python scripts/check_repo.py
