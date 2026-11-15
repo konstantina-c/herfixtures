@@ -1281,6 +1281,42 @@ body {
           </div>
         </div>
 
+        <!-- 2c. Première Ligue (France) — badge from feed_status.json (feed id "premiere-ligue") -->
+        <div class="feed-card" data-sport="football">
+          <div class="feed-header">
+            <div class="feed-icon">⚽</div>
+            <div class="feed-info">
+              <div class="feed-badge badge-live" data-feed="premiere-ligue">Season in progress</div>
+              <div class="feed-name">Première Ligue</div>
+              <div class="feed-meta">Football · France · 2026/27 season</div>
+            </div>
+          </div>
+          <div class="feed-divider"></div>
+          <div class="feed-actions">
+            <button class="btn-cal btn-choose-team" onclick="openPremiereLigueModal()" aria-haspopup="dialog">
+              Add to Calendar
+            </button>
+          </div>
+        </div>
+
+        <!-- 2d. A-League Women (Australia & New Zealand) — badge from feed_status.json (feed id "a-league-women") -->
+        <div class="feed-card" data-sport="football">
+          <div class="feed-header">
+            <div class="feed-icon">⚽</div>
+            <div class="feed-info">
+              <div class="feed-badge badge-live" data-feed="a-league-women">Season in progress</div>
+              <div class="feed-name">A-League Women</div>
+              <div class="feed-meta">Football · Australia &amp; NZ · 2026/27 season</div>
+            </div>
+          </div>
+          <div class="feed-divider"></div>
+          <div class="feed-actions">
+            <button class="btn-cal btn-choose-team" onclick="openALeagueWomenModal()" aria-haspopup="dialog">
+              Add to Calendar
+            </button>
+          </div>
+        </div>
+
         <!-- 3. FIBA Women's Basketball World Cup 2026 — tournament complete (final 13 Sep 2026) -->
         <div class="feed-card" data-sport="basketball">
           <div class="feed-header">
@@ -1899,6 +1935,45 @@ const WSL_CONFIG = {
   ],
 };
 
+const PREMIERE_LIGUE_CONFIG = {
+  leagueSlug:  'premiere_ligue',
+  gaLabel:     'Premiere Ligue',
+  teams: [
+    { name: "All teams",                 slug: "premiere_ligue",                               emoji: "⚽" },
+    { name: "FC Fleury 91",              slug: "premiere_ligue_fleury",                      logo: "https://a.espncdn.com/i/teamlogos/soccer/500/21637.png" },
+    { name: "Le Havre",                  slug: "premiere_ligue_le_havre",                    logo: "https://a.espncdn.com/i/teamlogos/soccer/500/21635.png" },
+    { name: "Lens",                      slug: "premiere_ligue_lens",                        logo: "https://a.espncdn.com/i/teamlogos/soccer/500/175.png" },
+    { name: "Marseille",                 slug: "premiere_ligue_marseille",                   logo: "https://a.espncdn.com/i/teamlogos/soccer/500/176.png" },
+    { name: "Montpellier",               slug: "premiere_ligue_montpellier",                 logo: "https://a.espncdn.com/i/teamlogos/soccer/500/21638.png" },
+    { name: "Nantes",                    slug: "premiere_ligue_nantes",                      logo: "https://a.espncdn.com/i/teamlogos/soccer/500/165.png" },
+    { name: "OL Lyonnes",                slug: "premiere_ligue_ol_lyonnes",                  logo: "https://a.espncdn.com/i/teamlogos/soccer/500/19256.png" },
+    { name: "Paris FC",                  slug: "premiere_ligue_paris_fc",                    logo: "https://a.espncdn.com/i/teamlogos/soccer/500/21640.png" },
+    { name: "Paris Saint-Germain",       slug: "premiere_ligue_psg",                         logo: "https://a.espncdn.com/i/teamlogos/soccer/500/19258.png" },
+    { name: "Saint-Malo",                slug: "premiere_ligue_saint_malo",                  emoji: "⚽" },
+    { name: "Strasbourg",                slug: "premiere_ligue_strasbourg",                  logo: "https://a.espncdn.com/i/teamlogos/soccer/500/180.png" },
+    { name: "Toulouse",                  slug: "premiere_ligue_toulouse",                    logo: "https://a.espncdn.com/i/teamlogos/soccer/500/179.png" },
+  ],
+};
+
+const A_LEAGUE_WOMEN_CONFIG = {
+  leagueSlug:  'a_league_women',
+  gaLabel:     'A-League Women',
+  teams: [
+    { name: "All teams",                 slug: "a_league_women",                               emoji: "⚽" },
+    { name: "Adelaide United",           slug: "a_league_women_adelaide_united",             logo: "https://a.espncdn.com/i/teamlogos/soccer/500/20286.png" },
+    { name: "Brisbane Roar",             slug: "a_league_women_brisbane_roar",               logo: "https://a.espncdn.com/i/teamlogos/soccer/500/20281.png" },
+    { name: "Canberra United",           slug: "a_league_women_canberra_united",             logo: "https://a.espncdn.com/i/teamlogos/soccer/500/20288.png" },
+    { name: "Central Coast Mariners",    slug: "a_league_women_central_coast_mariners",      logo: "https://a.espncdn.com/i/teamlogos/soccer/500/5325.png" },
+    { name: "Melbourne City",            slug: "a_league_women_melbourne_city",              logo: "https://a.espncdn.com/i/teamlogos/soccer/500/20280.png" },
+    { name: "Melbourne Victory",         slug: "a_league_women_melbourne_victory",           logo: "https://a.espncdn.com/i/teamlogos/soccer/500/20284.png" },
+    { name: "Newcastle Jets",            slug: "a_league_women_newcastle_jets",              logo: "https://a.espncdn.com/i/teamlogos/soccer/500/20287.png" },
+    { name: "Perth Glory",               slug: "a_league_women_perth_glory",                 logo: "https://a.espncdn.com/i/teamlogos/soccer/500/20282.png" },
+    { name: "Sydney FC",                 slug: "a_league_women_sydney_fc",                   logo: "https://a.espncdn.com/i/teamlogos/soccer/500/20285.png" },
+    { name: "Wellington Phoenix",        slug: "a_league_women_wellington_phoenix",          logo: "https://a.espncdn.com/i/teamlogos/soccer/500/21133.png" },
+    { name: "Western Sydney Wanderers",  slug: "a_league_women_western_sydney_wanderers",    logo: "https://a.espncdn.com/i/teamlogos/soccer/500/20283.png" },
+  ],
+};
+
 const FRAUEN_BL_CONFIG = {
   leagueSlug:  'frauen_bundesliga',
   gaLabel:     'Frauen-Bundesliga',
@@ -2110,6 +2185,8 @@ function openWNBAModal()     { FeedModal.open(WNBA_CONFIG);      }
 function openNWSLModal()     { FeedModal.open(NWSL_CONFIG);      }
 function openLigaFModal()    { FeedModal.open(LIGA_F_CONFIG);    }
 function openWSLModal()      { FeedModal.open(WSL_CONFIG);       }
+function openPremiereLigueModal() { FeedModal.open(PREMIERE_LIGUE_CONFIG); }
+function openALeagueWomenModal()  { FeedModal.open(A_LEAGUE_WOMEN_CONFIG); }
 function openFrauenBLModal() { FeedModal.open(FRAUEN_BL_CONFIG); }
 function openFIBAModal()     { FeedModal.open(FIBA_CONFIG);      }
 function openUCLModal()      { FeedModal.open(UCL_CONFIG);       }
