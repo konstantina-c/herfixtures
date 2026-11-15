@@ -1,0 +1,173 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//Liga MX Femenil 2026-27 Puebla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Puebla Liga MX Femenil 2026/27 fixtures. Updated automaticall
+ y by HerFixtures.com
+X-WR-CALNAME:Puebla — Liga MX Femenil 2026/27 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Tigres UANL vs Puebla (8–0)
+DTSTART:20260802T010600Z
+DTEND:20260802T030600Z
+DTSTAMP:20261115T150824Z
+UID:espn-liga-mx-femenil-401926886@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nTigre
+ s UANL vs Puebla\nStatus: Full Time\nVenue: Estadio Universitario\, San Ni
+ colás de los Garza\n\nFixtures by HerFixtures.com — Women's Sports on Y
+ our Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401926886/puebla-tigres-uan
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Puebla vs Guadalajara (1–4)
+DTSTART:20260809T180000Z
+DTEND:20260809T200000Z
+DTSTAMP:20261115T150824Z
+UID:espn-liga-mx-femenil-401926856@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPuebl
+ a vs Guadalajara\nStatus: Full Time\nVenue: Estadio Cuauhtémoc\, Puebla\n
+ \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401926856/guadalajara-puebl
+ a
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ América vs Puebla (5–1)
+DTSTART:20260815T214500Z
+DTEND:20260815T234500Z
+DTSTAMP:20261115T150824Z
+UID:espn-liga-mx-femenil-401926894@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAmér
+ ica vs Puebla\nStatus: Full Time\nVenue: Instalaciones Club América Coapa
+ \, Mexico City\n\nFixtures by HerFixtures.com — Women's Sports on Your C
+ alendar
+URL:https://www.espn.com/soccer/match/_/gameId/401926894/puebla-america
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Puebla vs Atlético de San Luis (2–5)
+DTSTART:20260823T180000Z
+DTEND:20260823T200000Z
+DTSTAMP:20261115T150824Z
+UID:espn-liga-mx-femenil-401926904@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPuebl
+ a vs Atlético de San Luis\nStatus: Full Time\nVenue: Estadio Cuauhtémoc\
+ , Puebla\n\nFixtures by HerFixtures.com — Women's Sports on Your Calenda
+ r
+URL:https://www.espn.com/soccer/match/_/gameId/401926904/atletico-de-san-l
+ uis-puebla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Puebla vs Necaxa (4–1)
+DTSTART:20260830T180000Z
+DTEND:20260830T200000Z
+DTSTAMP:20261115T150824Z
+UID:espn-liga-mx-femenil-401926908@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPuebl
+ a vs Necaxa\nStatus: Full Time\nVenue: Estadio Cuauhtémoc\, Puebla\n\nFix
+ tures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401926908/necaxa-puebla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ León vs Puebla (5–2)
+DTSTART:20260908T010600Z
+DTEND:20260908T030600Z
+DTSTAMP:20261115T150824Z
+UID:espn-liga-mx-femenil-401926915@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nLeón
+  vs Puebla\nStatus: Full Time\nVenue: Estadio León\, León de los Aldamas
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401926915/puebla-leon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Puebla vs Querétaro (2–6)
+DTSTART:20260913T180000Z
+DTEND:20260913T200000Z
+DTSTAMP:20261115T150824Z
+UID:espn-liga-mx-femenil-401926935@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPuebl
+ a vs Querétaro\nStatus: Full Time\nVenue: Estadio Cuauhtémoc\, Puebla\n\
+ nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401926935/queretaro-puebla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Pumas UNAM vs Puebla (2–0)
+DTSTART:20260920T180000Z
+DTEND:20260920T200000Z
+DTSTAMP:20261115T150824Z
+UID:espn-liga-mx-femenil-401926919@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPumas
+  UNAM vs Puebla\nStatus: Full Time\nVenue: Estadio Olímpico Universitario
+ \, Mexico City\n\nFixtures by HerFixtures.com — Women's Sports on Your C
+ alendar
+URL:https://www.espn.com/soccer/match/_/gameId/401926919/puebla-pumas-unam
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Puebla vs Monterrey (1–2)
+DTSTART:20260927T180000Z
+DTEND:20260927T200000Z
+DTSTAMP:20261115T150824Z
+UID:espn-liga-mx-femenil-401924365@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPuebl
+ a vs Monterrey\nStatus: Full Time\nVenue: Estadio Cuauhtémoc\, Puebla\n\n
+ Fixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401924365/monterrey-puebla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Santos vs Puebla (1–0)
+DTSTART:20261002T230000Z
+DTEND:20261003T010000Z
+DTSTAMP:20261115T150824Z
+UID:espn-liga-mx-femenil-401924388@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nSanto
+ s vs Puebla\nStatus: Full Time\nVenue: Estadio Corona\, Torreón\n\nFixtur
+ es by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401924388/puebla-santos
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Puebla vs Tijuana (1–1)
+DTSTART:20261017T180000Z
+DTEND:20261017T200000Z
+DTSTAMP:20261115T150824Z
+UID:espn-liga-mx-femenil-401924347@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPuebl
+ a vs Tijuana\nStatus: Full Time\nVenue: Estadio Cuauhtémoc\, Puebla\n\nFi
+ xtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401924347/tijuana-puebla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Atlas vs Puebla (2–1)
+DTSTART:20261026T230000Z
+DTEND:20261027T010000Z
+DTSTAMP:20261115T150824Z
+UID:espn-liga-mx-femenil-401924400@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAtlas
+  vs Puebla\nStatus: Full Time\nVenue: Estadio Jalisco\, Guadalajara\n\nFix
+ tures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401924400/puebla-atlas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Puebla vs FC Juárez (1–2)
+DTSTART:20261101T180000Z
+DTEND:20261101T200000Z
+DTSTAMP:20261115T150824Z
+UID:espn-liga-mx-femenil-401924359@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPuebl
+ a vs FC Juárez\nStatus: Full Time\nVenue: Estadio Cuauhtémoc\, Puebla\n\
+ nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401924359/fc-juarez-puebla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Pachuca vs Puebla (4–3)
+DTSTART:20261106T230000Z
+DTEND:20261107T010000Z
+DTSTAMP:20261115T150824Z
+UID:espn-liga-mx-femenil-401924377@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPachu
+ ca vs Puebla\nStatus: Full Time\nVenue: Estadio Hidalgo\, Pachuca\n\nFixtu
+ res by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401924377/puebla-pachuca
+END:VEVENT
+END:VCALENDAR
