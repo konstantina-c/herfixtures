@@ -61,8 +61,9 @@ def parse(event: dict, league: dict) -> dict | None:
         away = next((c for c in comp["competitors"] if c["homeAway"] == "away"), None)
         if not home or not away:
             return None
-        h_name = home["team"].get("displayName") or home["team"].get("name", "")
-        a_name = away["team"].get("displayName") or away["team"].get("name", "")
+        # ESPN sometimes pads names ("Western Sydney "), so trim and collapse spaces
+        h_name = " ".join((home["team"].get("displayName") or home["team"].get("name", "")).split())
+        a_name = " ".join((away["team"].get("displayName") or away["team"].get("name", "")).split())
         start = datetime.fromisoformat(event["date"].replace("Z", "+00:00"))
         status = comp["status"]["type"]
         done = status.get("state") == "post"

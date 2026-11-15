@@ -166,6 +166,144 @@
           "west_ham"
         ]
       }
+    },
+    "premiere-ligue": {
+      "name": "Première Ligue",
+      "espn": "soccer/fra.w.1",
+      "season": {
+        "start": "2026-08-15",
+        "end": "2027-06-10"
+      },
+      "emoji": "⚽",
+      "order": "home_vs_away",
+      "match_minutes": 120,
+      "output": "premiere_ligue.ics",
+      "uid_prefix": "espn-premiere-ligue",
+      "title": "Première Ligue 2026/27",
+      "prodid": "-//HerFixtures//Premiere Ligue 2026-27//EN",
+      "cal_name": "Première Ligue 2026/27 — HerFixtures",
+      "cal_desc": "Première Ligue 2026/27 fixtures. Updated automatically by HerFixtures.com",
+      "team_prefix": "premiere_ligue_",
+      "team_prodid": "-//HerFixtures//Premiere Ligue 2026-27 {team}//EN",
+      "team_cal_name": "{team} — Première Ligue 2026/27 — HerFixtures",
+      "team_cal_desc": "{team} Première Ligue 2026/27 fixtures. Updated automatically by HerFixtures.com",
+      "teams": {
+        "21637": [
+          "FC Fleury 91",
+          "fleury"
+        ],
+        "21635": [
+          "Le Havre",
+          "le_havre"
+        ],
+        "131297": [
+          "Lens",
+          "lens"
+        ],
+        "131298": [
+          "Marseille",
+          "marseille"
+        ],
+        "21638": [
+          "Montpellier",
+          "montpellier"
+        ],
+        "22328": [
+          "Nantes",
+          "nantes"
+        ],
+        "19256": [
+          "OL Lyonnes",
+          "ol_lyonnes"
+        ],
+        "21640": [
+          "Paris FC",
+          "paris_fc"
+        ],
+        "19258": [
+          "Paris Saint-Germain",
+          "psg"
+        ],
+        "131875": [
+          "Saint-Malo",
+          "saint_malo"
+        ],
+        "22329": [
+          "Strasbourg",
+          "strasbourg"
+        ],
+        "131876": [
+          "Toulouse",
+          "toulouse"
+        ]
+      }
+    },
+    "a-league-women": {
+      "name": "A-League Women",
+      "espn": "soccer/aus.w.1",
+      "season": {
+        "start": "2026-10-01",
+        "end": "2027-05-31"
+      },
+      "emoji": "⚽",
+      "order": "home_vs_away",
+      "match_minutes": 120,
+      "output": "a_league_women.ics",
+      "uid_prefix": "espn-a-league-women",
+      "title": "A-League Women 2026/27",
+      "prodid": "-//HerFixtures//A-League Women 2026-27//EN",
+      "cal_name": "A-League Women 2026/27 — HerFixtures",
+      "cal_desc": "A-League Women 2026/27 fixtures. Updated automatically by HerFixtures.com",
+      "team_prefix": "a_league_women_",
+      "team_prodid": "-//HerFixtures//A-League Women 2026-27 {team}//EN",
+      "team_cal_name": "{team} — A-League Women 2026/27 — HerFixtures",
+      "team_cal_desc": "{team} A-League Women 2026/27 fixtures. Updated automatically by HerFixtures.com",
+      "teams": {
+        "20286": [
+          "Adelaide United",
+          "adelaide_united"
+        ],
+        "20281": [
+          "Brisbane Roar",
+          "brisbane_roar"
+        ],
+        "20288": [
+          "Canberra United",
+          "canberra_united"
+        ],
+        "21991": [
+          "Central Coast Mariners",
+          "central_coast_mariners"
+        ],
+        "20280": [
+          "Melbourne City",
+          "melbourne_city"
+        ],
+        "20284": [
+          "Melbourne Victory",
+          "melbourne_victory"
+        ],
+        "20287": [
+          "Newcastle Jets",
+          "newcastle_jets"
+        ],
+        "20282": [
+          "Perth Glory",
+          "perth_glory"
+        ],
+        "20285": [
+          "Sydney FC",
+          "sydney_fc"
+        ],
+        "21133": [
+          "Wellington Phoenix",
+          "wellington_phoenix"
+        ],
+        "20283": [
+          "Western Sydney Wanderers",
+          "western_sydney_wanderers"
+        ]
+      }
     }
   }
 }

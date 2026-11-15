@@ -1,0 +1,267 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//Premiere Ligue 2026-27 Nantes//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Nantes Première Ligue 2026/27 fixtures. Updated automaticall
+ y by HerFixtures.com
+X-WR-CALNAME:Nantes — Première Ligue 2026/27 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Paris FC vs Nantes (2–0)
+DTSTART:20260906T130000Z
+DTEND:20260906T150000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885670@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nParis FC vs Nantes\nStatus: Full Time
+ \nVenue: Stade Jean Bouin\, Paris\n\nFixtures by HerFixtures.com — Women
+ 's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885670/nantes-paris-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Nantes vs FC Fleury 91 (1–1)
+DTSTART:20260912T160000Z
+DTEND:20260912T180000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885669@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nNantes vs FC Fleury 91\nStatus: Full 
+ Time\nVenue: Stade Marcel-Saupin\, Nantes\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885669/fc-fleury-91-nant
+ es
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Paris Saint-Germain vs Nantes (1–0)
+DTSTART:20260918T190000Z
+DTEND:20260918T210000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885664@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nParis Saint-Germain vs Nantes\nStatus
+ : Full Time\nVenue: Training Center Paris Saint Germain Terrain 5\, Poissy
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885664/nantes-paris-sain
+ t-germain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Nantes vs Montpellier (1–1)
+DTSTART:20261003T163000Z
+DTEND:20261003T183000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885661@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nNantes vs Montpellier\nStatus: Full T
+ ime\nVenue: Stade de la Beaujoire\, Nantes\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885661/montpellier-nante
+ s
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Saint-Malo vs Nantes (0–2)
+DTSTART:20261017T160000Z
+DTEND:20261017T180000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885701@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Nantes\nStatus: Full Ti
+ me\nVenue: Stade de Marville\, Saint-Malo\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885701/nantes-saint-malo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Nantes vs Strasbourg (3–2)
+DTSTART:20261024T160000Z
+DTEND:20261024T180000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885654@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nNantes vs Strasbourg\nStatus: Full Ti
+ me\nVenue: Stade Marcel-Saupin\, Nantes\n\nFixtures by HerFixtures.com —
+  Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885654/strasbourg-nantes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Marseille vs Nantes (1–0)
+DTSTART:20261030T200000Z
+DTEND:20261030T220000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885651@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nMarseille vs Nantes\nStatus: Full Tim
+ e\nVenue: Stade Francis-Turcan\, Martigues\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885651/nantes-marseille
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Nantes vs Toulouse (1–1)
+DTSTART:20261106T180000Z
+DTEND:20261106T200000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885697@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nNantes vs Toulouse\nStatus: Full Time
+ \nVenue: Stade Marcel-Saupin\, Nantes\n\nFixtures by HerFixtures.com — W
+ omen's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885697/toulouse-nantes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Nantes vs Lens (2–0)
+DTSTART:20261113T180000Z
+DTEND:20261113T200000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401888026@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nNantes vs Lens\nStatus: Full Time\nVe
+ nue: Stade Marcel-Saupin\, Nantes\n\nFixtures by HerFixtures.com — Women
+ 's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401888026/lens-nantes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Le Havre AC vs Nantes
+DTSTART:20261121T170000Z
+DTEND:20261121T190000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885642@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nLe Havre AC vs Nantes\nStatus: Schedu
+ led\nVenue: Stade Océane\, Le Havre\n\nFixtures by HerFixtures.com — Wo
+ men's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885642/nantes-le-havre-a
+ c
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Nantes vs OL Lyonnes
+DTSTART:20261212T160000Z
+DTEND:20261212T180000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885599@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nNantes vs OL Lyonnes\nStatus: Schedul
+ ed\nVenue: Stade Marcel-Saupin\, Nantes\n\nFixtures by HerFixtures.com —
+  Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885599/ol-lyonnes-nantes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Nantes vs Saint-Malo
+DTSTART:20261219T160000Z
+DTEND:20261219T180000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885689@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nNantes vs Saint-Malo\nStatus: Schedul
+ ed\nVenue: Stade Marcel-Saupin\, Nantes\n\nFixtures by HerFixtures.com —
+  Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885689/saint-malo-nantes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Strasbourg vs Nantes
+DTSTART:20270116T160000Z
+DTEND:20270116T180000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885591@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs Nantes\nStatus: Schedul
+ ed\nVenue: Stade de la Meinau\, Strasbourg\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885591/nantes-strasbourg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Nantes vs Paris Saint-Germain
+DTSTART:20270123T160000Z
+DTEND:20270123T180000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885588@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nNantes vs Paris Saint-Germain\nStatus
+ : Scheduled\nVenue: Stade Marcel-Saupin\, Nantes\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885588/paris-saint-germa
+ in-nantes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lens vs Nantes (time TBC)
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401888020@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nLens vs Nantes\nStatus: Scheduled\nKi
+ ck-off time not confirmed yet. Your calendar updates automatically once it
+  is.\nVenue: Stade François-Blin\, Lens\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401888020/nantes-lens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Nantes vs Marseille
+DTSTART:20270220T160000Z
+DTEND:20270220T180000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885581@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nNantes vs Marseille\nStatus: Schedule
+ d\nVenue: Stade Marcel-Saupin\, Nantes\n\nFixtures by HerFixtures.com — 
+ Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885581/marseille-nantes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Montpellier vs Nantes (time TBC)
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885579@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nMontpellier vs Nantes\nStatus: Schedu
+ led\nKick-off time not confirmed yet. Your calendar updates automatically 
+ once it is.\nVenue: Stade Bernard Gasset No. 7\, Montpellier\n\nFixtures b
+ y HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885579/nantes-montpellie
+ r
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Nantes vs Paris FC
+DTSTART:20270320T160000Z
+DTEND:20270320T180000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885574@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nNantes vs Paris FC\nStatus: Scheduled
+ \nVenue: Stade Marcel-Saupin\, Nantes\n\nFixtures by HerFixtures.com — W
+ omen's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885574/paris-fc-nantes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ OL Lyonnes vs Nantes (time TBC)
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885572@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nOL Lyonnes vs Nantes\nStatus: Schedul
+ ed\nKick-off time not confirmed yet. Your calendar updates automatically o
+ nce it is.\nVenue: Groupama Stadium\, Lyon\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885572/nantes-ol-lyonnes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Toulouse vs Nantes (time TBC)
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885677@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nToulouse vs Nantes\nStatus: Scheduled
+ \nKick-off time not confirmed yet. Your calendar updates automatically onc
+ e it is.\nVenue: Parc des Sports Stadium A1\, Toulouse\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885677/nantes-toulouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Nantes vs Le Havre AC
+DTSTART:20270501T150000Z
+DTEND:20270501T170000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885565@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nNantes vs Le Havre AC\nStatus: Schedu
+ led\nVenue: Stade Marcel-Saupin\, Nantes\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885565/le-havre-ac-nante
+ s
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ FC Fleury 91 vs Nantes (time TBC)
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885563@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nFC Fleury 91 vs Nantes\nStatus: Sched
+ uled\nKick-off time not confirmed yet. Your calendar updates automatically
+  once it is.\nVenue: Stade Robert Bobin\, Bondoufle\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885563/nantes-fc-fleury-
+ 91
+END:VEVENT
+END:VCALENDAR

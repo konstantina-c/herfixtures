@@ -1,0 +1,259 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//Premiere Ligue 2026-27 Lens//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Lens Première Ligue 2026/27 fixtures. Updated automatically 
+ by HerFixtures.com
+X-WR-CALNAME:Lens — Première Ligue 2026/27 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Lens vs Paris Saint-Germain (0–2)
+DTSTART:20260905T180000Z
+DTEND:20260905T200000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401888034@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nLens vs Paris Saint-Germain\nStatus: 
+ Full Time\nVenue: Stade François-Blin\, Lens\n\nFixtures by HerFixtures.c
+ om — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401888034/paris-saint-germa
+ in-lens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Marseille vs Lens (2–1)
+DTSTART:20260912T160000Z
+DTEND:20260912T180000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401888033@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nMarseille vs Lens\nStatus: Full Time\
+ nVenue: Stade Francis-Turcan\, Martigues\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401888033/lens-marseille
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lens vs Toulouse (2–2)
+DTSTART:20260919T160000Z
+DTEND:20260919T180000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401888032@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nLens vs Toulouse\nStatus: Full Time\n
+ Venue: Stade François-Blin\, Lens\n\nFixtures by HerFixtures.com — Wome
+ n's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401888032/toulouse-lens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Paris FC vs Lens (4–1)
+DTSTART:20261003T190000Z
+DTEND:20261003T210000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401888031@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nParis FC vs Lens\nStatus: Full Time\n
+ Venue: Stade Sébastien Charléty\, Paris\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401888031/lens-paris-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lens vs Strasbourg (1–3)
+DTSTART:20261017T160000Z
+DTEND:20261017T180000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401888030@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nLens vs Strasbourg\nStatus: Full Time
+ \nVenue: Stade François-Blin\, Lens\n\nFixtures by HerFixtures.com — Wo
+ men's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401888030/strasbourg-lens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Le Havre AC vs Lens (0–0)
+DTSTART:20261024T160000Z
+DTEND:20261024T180000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401888029@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nLe Havre AC vs Lens\nStatus: Full Tim
+ e\nVenue: Stade Océane\, Le Havre\n\nFixtures by HerFixtures.com — Wome
+ n's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401888029/lens-le-havre-ac
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lens vs FC Fleury 91 (1–1)
+DTSTART:20261031T170000Z
+DTEND:20261031T190000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401888028@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nLens vs FC Fleury 91\nStatus: Full Ti
+ me\nVenue: Stade François-Blin\, Lens\n\nFixtures by HerFixtures.com — 
+ Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401888028/fc-fleury-91-lens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lens vs OL Lyonnes (1–7)
+DTSTART:20261107T170000Z
+DTEND:20261107T190000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401888027@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nLens vs OL Lyonnes\nStatus: Full Time
+ \nVenue: Stade François-Blin\, Lens\n\nFixtures by HerFixtures.com — Wo
+ men's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401888027/ol-lyonnes-lens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Nantes vs Lens (2–0)
+DTSTART:20261113T180000Z
+DTEND:20261113T200000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401888026@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nNantes vs Lens\nStatus: Full Time\nVe
+ nue: Stade Marcel-Saupin\, Nantes\n\nFixtures by HerFixtures.com — Women
+ 's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401888026/lens-nantes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lens vs Montpellier
+DTSTART:20261121T150000Z
+DTEND:20261121T170000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401888025@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nLens vs Montpellier\nStatus: Schedule
+ d\nVenue: Stade François-Blin\, Lens\n\nFixtures by HerFixtures.com — W
+ omen's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401888025/montpellier-lens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Saint-Malo vs Lens
+DTSTART:20261212T160000Z
+DTEND:20261212T180000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401888024@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Lens\nStatus: Scheduled
+ \nVenue: Stade de Marville\, Saint-Malo\n\nFixtures by HerFixtures.com —
+  Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401888024/lens-saint-malo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lens vs Paris FC
+DTSTART:20261219T160000Z
+DTEND:20261219T180000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401888023@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nLens vs Paris FC\nStatus: Scheduled\n
+ Venue: Stade François-Blin\, Lens\n\nFixtures by HerFixtures.com — Wome
+ n's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401888023/paris-fc-lens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Paris Saint-Germain vs Lens
+DTSTART:20270116T160000Z
+DTEND:20270116T180000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401888022@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nParis Saint-Germain vs Lens\nStatus: 
+ Scheduled\nVenue: Training Center Paris Saint Germain Terrain 5\, Poissy\n
+ \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401888022/lens-paris-saint-
+ germain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ FC Fleury 91 vs Lens
+DTSTART:20270123T160000Z
+DTEND:20270123T180000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401888021@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nFC Fleury 91 vs Lens\nStatus: Schedul
+ ed\nVenue: Stade Robert Bobin\, Bondoufle\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401888021/lens-fc-fleury-91
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lens vs Nantes (time TBC)
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401888020@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nLens vs Nantes\nStatus: Scheduled\nKi
+ ck-off time not confirmed yet. Your calendar updates automatically once it
+  is.\nVenue: Stade François-Blin\, Lens\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401888020/nantes-lens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Strasbourg vs Lens
+DTSTART:20270220T160000Z
+DTEND:20270220T180000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401888019@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs Lens\nStatus: Scheduled
+ \nVenue: Stade de la Meinau\, Strasbourg\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401888019/lens-strasbourg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lens vs Le Havre AC (time TBC)
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401887998@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nLens vs Le Havre AC\nStatus: Schedule
+ d\nKick-off time not confirmed yet. Your calendar updates automatically on
+ ce it is.\nVenue: Stade François-Blin\, Lens\n\nFixtures by HerFixtures.c
+ om — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401887998/le-havre-ac-lens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Toulouse vs Lens
+DTSTART:20270320T160000Z
+DTEND:20270320T180000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401887997@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nToulouse vs Lens\nStatus: Scheduled\n
+ Venue: Parc des Sports Stadium A1\, Toulouse\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401887997/lens-toulouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lens vs Saint-Malo
+DTSTART:20270327T160000Z
+DTEND:20270327T180000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401887996@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nLens vs Saint-Malo\nStatus: Scheduled
+ \nVenue: Stade François-Blin\, Lens\n\nFixtures by HerFixtures.com — Wo
+ men's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401887996/saint-malo-lens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ OL Lyonnes vs Lens
+DTSTART:20270407T150000Z
+DTEND:20270407T170000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401887995@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nOL Lyonnes vs Lens\nStatus: Scheduled
+ \nVenue: Groupama Stadium\, Lyon\n\nFixtures by HerFixtures.com — Women'
+ s Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401887995/lens-ol-lyonnes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Montpellier vs Lens
+DTSTART:20270501T150000Z
+DTEND:20270501T170000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401887994@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nMontpellier vs Lens\nStatus: Schedule
+ d\nVenue: Stade Bernard Gasset No. 7\, Montpellier\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401887994/lens-montpellier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lens vs Marseille (time TBC)
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401888002@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nLens vs Marseille\nStatus: Scheduled\
+ nKick-off time not confirmed yet. Your calendar updates automatically once
+  it is.\nVenue: Stade François-Blin\, Lens\n\nFixtures by HerFixtures.com
+  — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401888002/marseille-lens
+END:VEVENT
+END:VCALENDAR

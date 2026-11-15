@@ -1,0 +1,272 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//Premiere Ligue 2026-27 Strasbourg//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Strasbourg Première Ligue 2026/27 fixtures. Updated automati
+ cally by HerFixtures.com
+X-WR-CALNAME:Strasbourg — Première Ligue 2026/27 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Strasbourg vs Saint-Malo (3–2)
+DTSTART:20260905T160000Z
+DTEND:20260905T180000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885708@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs Saint-Malo\nStatus: Ful
+ l Time\nVenue: Parc des Sports Molsheim\, Molsheim\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885708/saint-malo-strasb
+ ourg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Paris Saint-Germain vs Strasbourg (2–0)
+DTSTART:20260911T190000Z
+DTEND:20260911T210000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885667@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nParis Saint-Germain vs Strasbourg\nSt
+ atus: Full Time\nVenue: Training Center Paris Saint Germain Terrain 5\, Po
+ issy\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885667/strasbourg-paris-
+ saint-germain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Strasbourg vs Paris FC (0–2)
+DTSTART:20260918T170000Z
+DTEND:20260918T190000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885663@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs Paris FC\nStatus: Full 
+ Time\nVenue: Stade de la Meinau\, Strasbourg\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885663/paris-fc-strasbou
+ rg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Strasbourg vs Marseille (3–3)
+DTSTART:20261003T163000Z
+DTEND:20261003T183000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885660@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs Marseille\nStatus: Full
+  Time\nVenue: Stade de la Meinau\, Strasbourg\n\nFixtures by HerFixtures.c
+ om — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885660/marseille-strasbo
+ urg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lens vs Strasbourg (1–3)
+DTSTART:20261017T160000Z
+DTEND:20261017T180000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401888030@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nLens vs Strasbourg\nStatus: Full Time
+ \nVenue: Stade François-Blin\, Lens\n\nFixtures by HerFixtures.com — Wo
+ men's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401888030/strasbourg-lens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Nantes vs Strasbourg (3–2)
+DTSTART:20261024T160000Z
+DTEND:20261024T180000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885654@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nNantes vs Strasbourg\nStatus: Full Ti
+ me\nVenue: Stade Marcel-Saupin\, Nantes\n\nFixtures by HerFixtures.com —
+  Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885654/strasbourg-nantes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Strasbourg vs Le Havre AC (0–0)
+DTSTART:20261031T170000Z
+DTEND:20261031T190000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885653@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs Le Havre AC\nStatus: Fu
+ ll Time\nVenue: Parc des Sports Molsheim\, Molsheim\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885653/le-havre-ac-stras
+ bourg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ FC Fleury 91 vs Strasbourg (2–1)
+DTSTART:20261107T170000Z
+DTEND:20261107T190000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885649@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nFC Fleury 91 vs Strasbourg\nStatus: F
+ ull Time\nVenue: Stade Robert Bobin\, Bondoufle\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885649/strasbourg-fc-fle
+ ury-91
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Strasbourg vs Toulouse (3–1)
+DTSTART:20261114T170000Z
+DTEND:20261114T190000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885695@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs Toulouse\nStatus: Full 
+ Time\nVenue: Stade de la Meinau\, Strasbourg\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885695/toulouse-strasbou
+ rg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ OL Lyonnes vs Strasbourg
+DTSTART:20261122T140000Z
+DTEND:20261122T160000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885641@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nOL Lyonnes vs Strasbourg\nStatus: Sch
+ eduled\nVenue: Groupama Stadium\, Lyon\n\nFixtures by HerFixtures.com — 
+ Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885641/strasbourg-ol-lyo
+ nnes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Montpellier vs Strasbourg
+DTSTART:20261212T160000Z
+DTEND:20261212T180000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885598@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nMontpellier vs Strasbourg\nStatus: Sc
+ heduled\nVenue: Stade Bernard Gasset No. 7\, Montpellier\n\nFixtures by He
+ rFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885598/strasbourg-montpe
+ llier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Strasbourg vs Paris Saint-Germain
+DTSTART:20261219T160000Z
+DTEND:20261219T180000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885594@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs Paris Saint-Germain\nSt
+ atus: Scheduled\nVenue: Stade de la Meinau\, Strasbourg\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885594/paris-saint-germa
+ in-strasbourg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Strasbourg vs Nantes
+DTSTART:20270116T160000Z
+DTEND:20270116T180000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885591@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs Nantes\nStatus: Schedul
+ ed\nVenue: Stade de la Meinau\, Strasbourg\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885591/nantes-strasbourg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Marseille vs Strasbourg
+DTSTART:20270123T160000Z
+DTEND:20270123T180000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885587@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nMarseille vs Strasbourg\nStatus: Sche
+ duled\nVenue: Stade Francis-Turcan\, Martigues\n\nFixtures by HerFixtures.
+ com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885587/strasbourg-marsei
+ lle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Le Havre AC vs Strasbourg
+DTSTART:20270206T160000Z
+DTEND:20270206T180000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885586@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nLe Havre AC vs Strasbourg\nStatus: Sc
+ heduled\nVenue: Stade Océane\, Le Havre\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885586/strasbourg-le-hav
+ re-ac
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Strasbourg vs Lens
+DTSTART:20270220T160000Z
+DTEND:20270220T180000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401888019@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs Lens\nStatus: Scheduled
+ \nVenue: Stade de la Meinau\, Strasbourg\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401888019/lens-strasbourg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Saint-Malo vs Strasbourg
+DTSTART:20270313T160000Z
+DTEND:20270313T180000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885680@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Strasbourg\nStatus: Sch
+ eduled\nVenue: Stade de Marville\, Saint-Malo\n\nFixtures by HerFixtures.c
+ om — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885680/strasbourg-saint-
+ malo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Strasbourg vs OL Lyonnes
+DTSTART:20270320T160000Z
+DTEND:20270320T180000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885575@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs OL Lyonnes\nStatus: Sch
+ eduled\nVenue: Stade de la Meinau\, Strasbourg\n\nFixtures by HerFixtures.
+ com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885575/ol-lyonnes-strasb
+ ourg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Paris FC vs Strasbourg
+DTSTART:20270327T160000Z
+DTEND:20270327T180000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885570@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nParis FC vs Strasbourg\nStatus: Sched
+ uled\nVenue: Stade Sébastien Charléty\, Paris\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885570/strasbourg-paris-
+ fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Strasbourg vs Montpellier
+DTSTART:20270407T150000Z
+DTEND:20270407T170000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885567@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs Montpellier\nStatus: Sc
+ heduled\nVenue: Stade de la Meinau\, Strasbourg\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885567/montpellier-stras
+ bourg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Strasbourg vs FC Fleury 91
+DTSTART:20270501T150000Z
+DTEND:20270501T170000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885566@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs FC Fleury 91\nStatus: S
+ cheduled\nVenue: Stade de la Meinau\, Strasbourg\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885566/fc-fleury-91-stra
+ sbourg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Toulouse vs Strasbourg
+DTSTART:20270504T150000Z
+DTEND:20270504T170000Z
+DTSTAMP:20261115T134814Z
+UID:espn-premiere-ligue-401885673@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nToulouse vs Strasbourg\nStatus: Sched
+ uled\nVenue: Parc des Sports Stadium A1\, Toulouse\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885673/strasbourg-toulou
+ se
+END:VEVENT
+END:VCALENDAR

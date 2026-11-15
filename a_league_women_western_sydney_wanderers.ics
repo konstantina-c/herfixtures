@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//A-League Women 2026-27 Western Sydney Wanderers//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Western Sydney Wanderers A-League Women 2026/27 fixtures. Upd
+ ated automatically by HerFixtures.com
+X-WR-CALNAME:Western Sydney Wanderers — A-League Women 2026/27 — HerFi
+ xtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Western Sydney vs Melbourne Victory (0–1)
+DTSTART:20261017T040000Z
+DTEND:20261017T060000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913253@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nWestern Sydney vs Melbourne Victory\nS
+ tatus: Full Time\nVenue: Western Sydney Wanderers Academy\, Sydney\nTV: ES
+ PN+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913253/melbourne-victory
+ -western-sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Western Sydney vs Brisbane Roar (3–1)
+DTSTART:20261024T031500Z
+DTEND:20261024T051500Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913249@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nWestern Sydney vs Brisbane Roar\nStatu
+ s: Full Time\nVenue: CommBank Stadium\, Sydney\nTV: ESPN+\n\nFixtures by H
+ erFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913249/brisbane-roar-wes
+ tern-sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Canberra United vs Western Sydney (0–2)
+DTSTART:20261101T040000Z
+DTEND:20261101T060000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913242@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nCanberra United vs Western Sydney\nSta
+ tus: Full Time\nVenue: McKellar Park\, Canberra\nTV: ESPN+\n\nFixtures by 
+ HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913242/western-sydney-ca
+ nberra-united
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Western Sydney vs Wellington Phoenix
+DTSTART:20261120T055000Z
+DTEND:20261120T075000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913230@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nWestern Sydney vs Wellington Phoenix\n
+ Status: Scheduled\nVenue: CommBank Stadium\, Sydney\nTV: ESPN+\n\nFixtures
+  by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913230/wellington-phoeni
+ x-western-sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Western Sydney vs Newcastle Jets
+DTSTART:20261211T080000Z
+DTEND:20261211T100000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913224@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nWestern Sydney vs Newcastle Jets\nStat
+ us: Scheduled\nVenue: Western Sydney Wanderers Academy\, Sydney\n\nFixture
+ s by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913224/newcastle-jets-we
+ stern-sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Perth Glory vs Western Sydney
+DTSTART:20261219T090000Z
+DTEND:20261219T110000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913218@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nPerth Glory vs Western Sydney\nStatus:
+  Scheduled\nVenue: Sam Kerr Football Centre\, Perth\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913218/western-sydney-pe
+ rth-glory
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Western Sydney vs Canberra United
+DTSTART:20261228T060000Z
+DTEND:20261228T080000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913213@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nWestern Sydney vs Canberra United\nSta
+ tus: Scheduled\nVenue: Western Sydney Wanderers Academy\, Sydney\n\nFixtur
+ es by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913213/canberra-united-w
+ estern-sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Western Sydney vs Adelaide United
+DTSTART:20270102T070000Z
+DTEND:20270102T090000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913206@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nWestern Sydney vs Adelaide United\nSta
+ tus: Scheduled\nVenue: Western Sydney Wanderers Academy\, Sydney\n\nFixtur
+ es by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913206/adelaide-united-w
+ estern-sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Melbourne City vs Western Sydney
+DTSTART:20270106T063000Z
+DTEND:20270106T083000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913205@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nMelbourne City vs Western Sydney\nStat
+ us: Scheduled\nVenue: Melbourne City Football Academy\, Melbourne\n\nFixtu
+ res by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913205/western-sydney-me
+ lbourne-city
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Melbourne Victory vs Western Sydney
+DTSTART:20270109T060000Z
+DTEND:20270109T080000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913202@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nMelbourne Victory vs Western Sydney\nS
+ tatus: Scheduled\nVenue: The Home of the Matildas\, Melbourne\n\nFixtures 
+ by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913202/western-sydney-me
+ lbourne-victory
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Central Coast Mariners vs Western Sydney
+DTSTART:20270123T060000Z
+DTEND:20270123T080000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913194@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nCentral Coast Mariners vs Western Sydn
+ ey\nStatus: Scheduled\nVenue: Central Coast Stadium\, New South Wales\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913194/western-sydney-ce
+ ntral-coast-mariners
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Western Sydney vs Sydney FC
+DTSTART:20270130T055000Z
+DTEND:20270130T075000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913188@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nWestern Sydney vs Sydney FC\nStatus: S
+ cheduled\nVenue: CommBank Stadium\, Sydney\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913188/sydney-fc-western
+ -sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Wellington Phoenix vs Western Sydney
+DTSTART:20270206T011500Z
+DTEND:20270206T031500Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913184@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nWellington Phoenix vs Western Sydney\n
+ Status: Scheduled\nVenue: One New Zealand Stadium\, Christchurch\n\nFixtur
+ es by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913184/western-sydney-we
+ llington-phoenix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Western Sydney vs Melbourne City
+DTSTART:20270213T070000Z
+DTEND:20270213T090000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913178@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nWestern Sydney vs Melbourne City\nStat
+ us: Scheduled\nVenue: Western Sydney Wanderers Academy\, Sydney\n\nFixture
+ s by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913178/melbourne-city-we
+ stern-sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Brisbane Roar vs Western Sydney
+DTSTART:20270220T070000Z
+DTEND:20270220T090000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913172@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nBrisbane Roar vs Western Sydney\nStatu
+ s: Scheduled\nVenue: Spencer Park\, Brisbane\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913172/western-sydney-br
+ isbane-roar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Adelaide United vs Western Sydney
+DTSTART:20270313T060000Z
+DTEND:20270313T080000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913167@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nAdelaide United vs Western Sydney\nSta
+ tus: Scheduled\nVenue: Hindmarsh Stadium\, Adelaide\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913167/western-sydney-ad
+ elaide-united
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Western Sydney vs Perth Glory
+DTSTART:20270320T031500Z
+DTEND:20270320T051500Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913163@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nWestern Sydney vs Perth Glory\nStatus:
+  Scheduled\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
+ dar
+URL:https://www.espn.com/soccer/match/_/gameId/401913163/perth-glory-weste
+ rn-sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Newcastle Jets vs Western Sydney
+DTSTART:20270328T040000Z
+DTEND:20270328T060000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913155@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nNewcastle Jets vs Western Sydney\nStat
+ us: Scheduled\nVenue: Hunter City Motor Group Stadium\, Weston\n\nFixtures
+  by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913155/western-sydney-ne
+ wcastle-jets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sydney FC vs Western Sydney
+DTSTART:20270404T050000Z
+DTEND:20270404T070000Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913151@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nSydney FC vs Western Sydney\nStatus: S
+ cheduled\nVenue: WIN Stadium\, Wollongong\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913151/western-sydney-sy
+ dney-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Western Sydney vs Central Coast Mariners
+DTSTART:20270411T021500Z
+DTEND:20270411T041500Z
+DTSTAMP:20261115T134814Z
+UID:espn-a-league-women-401913146@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nWestern Sydney vs Central Coast Marine
+ rs\nStatus: Scheduled\n\nFixtures by HerFixtures.com — Women's Sports on
+  Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401913146/central-coast-mar
+ iners-western-sydney
+END:VEVENT
+END:VCALENDAR
