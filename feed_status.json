@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-15T14:12:40+00:00",
+  "generated": "2026-11-15T15:11:33+00:00",
   "for_date": "2026-11-15",
   "feeds": {
     "euroleague-women": {
@@ -47,6 +47,13 @@
     "a-league-women": {
       "next_game": "2026-11-15",
       "upcoming_games": 88,
+      "text": "Season in progress",
+      "style": "live",
+      "rule": "in-season"
+    },
+    "liga-mx-femenil": {
+      "next_game": "2026-11-15",
+      "upcoming_games": 3,
       "text": "Season in progress",
       "style": "live",
       "rule": "in-season"

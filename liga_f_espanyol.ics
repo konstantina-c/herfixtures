@@ -130,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Tenerife @ Espanyol (3–1)
 DTSTART:20261114T110000Z
 DTEND:20261114T130000Z
-DTSTAMP:20261115T141132Z
+DTSTAMP:20261115T151017Z
 UID:espn-liga-f-401882458@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nTenerife at Espanyol\nStatus: Full Tim
  e\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFixtu
@@ -141,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Espanyol
 DTSTART:20261123T190000Z
 DTEND:20261123T210000Z
-DTSTAMP:20261115T141132Z
+DTSTAMP:20261115T151017Z
 UID:espn-liga-f-401882449@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at Espanyol\nStatus: Schedule
  d\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFixtu
@@ -152,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ Barcelona
 DTSTART:20261208T160000Z
 DTEND:20261208T180000Z
-DTSTAMP:20261115T141132Z
+DTSTAMP:20261115T151017Z
 UID:espn-liga-f-401882440@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Barcelona\nStatus: Schedul
  ed\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures.com 
@@ -164,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Espanyol (time TBC)
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261115T141132Z
+DTSTAMP:20261115T151017Z
 UID:espn-liga-f-401882433@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Espanyol\nStatus: Scheduled
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -176,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ Atlético Madrid (time TBC)
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
-DTSTAMP:20261115T141132Z
+DTSTAMP:20261115T151017Z
 UID:espn-liga-f-401882427@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Atlético Madrid\nStatus: 
  Scheduled\nKick-off time not confirmed yet. Your calendar updates automati
@@ -190,7 +190,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Espanyol (time TBC)
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
-DTSTAMP:20261115T141132Z
+DTSTAMP:20261115T151017Z
 UID:espn-liga-f-401882416@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Espanyol\nStatus: Sch
  eduled\nKick-off time not confirmed yet. Your calendar updates automatical
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ Madrid CFF (time TBC)
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
-DTSTAMP:20261115T141132Z
+DTSTAMP:20261115T151017Z
 UID:espn-liga-f-401882408@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Madrid CFF\nStatus: Schedu
  led\nKick-off time not confirmed yet. Your calendar updates automatically 
@@ -216,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Espanyol (time TBC)
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
-DTSTAMP:20261115T141132Z
+DTSTAMP:20261115T151017Z
 UID:espn-liga-f-401882401@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at Espanyol\nStatus: Scheduled
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -228,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Sociedad @ Espanyol (time TBC)
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
-DTSTAMP:20261115T141132Z
+DTSTAMP:20261115T151017Z
 UID:espn-liga-f-401882394@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Espanyol\nStatus: Sch
  eduled\nKick-off time not confirmed yet. Your calendar updates automatical
@@ -241,7 +241,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ Alavés (time TBC)
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
-DTSTAMP:20261115T141132Z
+DTSTAMP:20261115T151017Z
 UID:espn-liga-f-401882388@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Alavés\nStatus: Scheduled
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -253,7 +253,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ Valencia (time TBC)
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
-DTSTAMP:20261115T141132Z
+DTSTAMP:20261115T151017Z
 UID:espn-liga-f-401882373@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Valencia\nStatus: Schedule
  d\nKick-off time not confirmed yet. Your calendar updates automatically on
@@ -265,7 +265,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Espanyol (time TBC)
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
-DTSTAMP:20261115T141132Z
+DTSTAMP:20261115T151017Z
 UID:espn-liga-f-401882369@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Espanyol\nStatus: Schedul
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -278,7 +278,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ Espanyol (time TBC)
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
-DTSTAMP:20261115T141132Z
+DTSTAMP:20261115T151017Z
 UID:espn-liga-f-401882360@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Espanyol\nStatus: Scheduled\n
  Kick-off time not confirmed yet. Your calendar updates automatically once 
@@ -290,7 +290,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ FC Badalona (time TBC)
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
-DTSTAMP:20261115T141132Z
+DTSTAMP:20261115T151017Z
 UID:espn-liga-f-401882350@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at FC Badalona\nStatus: Sched
  uled\nKick-off time not confirmed yet. Your calendar updates automatically
@@ -303,7 +303,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Atlético Madrid @ Espanyol (time TBC)
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
-DTSTAMP:20261115T141132Z
+DTSTAMP:20261115T151017Z
 UID:espn-liga-f-401882345@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Espanyol\nStatus: 
  Scheduled\nKick-off time not confirmed yet. Your calendar updates automati
@@ -316,7 +316,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ Sevilla (time TBC)
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
-DTSTAMP:20261115T141132Z
+DTSTAMP:20261115T151017Z
 UID:espn-liga-f-401882334@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Sevilla\nStatus: Scheduled
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -328,7 +328,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Espanyol (time TBC)
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
-DTSTAMP:20261115T141132Z
+DTSTAMP:20261115T151017Z
 UID:espn-liga-f-401882328@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Espanyol\nStatus: Schedul
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -341,7 +341,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ Tenerife (time TBC)
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
-DTSTAMP:20261115T141132Z
+DTSTAMP:20261115T151017Z
 UID:espn-liga-f-401882323@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Tenerife\nStatus: Schedule
  d\nKick-off time not confirmed yet. Your calendar updates automatically on
@@ -353,7 +353,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ Espanyol (time TBC)
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
-DTSTAMP:20261115T141132Z
+DTSTAMP:20261115T151017Z
 UID:espn-liga-f-401882312@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Espanyol\nStatus: Sched
  uled\nKick-off time not confirmed yet. Your calendar updates automatically
@@ -366,7 +366,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ Dux Logroño (time TBC)
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
-DTSTAMP:20261115T141132Z
+DTSTAMP:20261115T151017Z
 UID:espn-liga-f-401882306@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Dux Logroño\nStatus: Sche
  duled\nKick-off time not confirmed yet. Your calendar updates automaticall
