@@ -304,6 +304,101 @@
           "western_sydney_wanderers"
         ]
       }
+    },
+    "liga-mx-femenil": {
+      "name": "Liga MX Femenil",
+      "espn": "soccer/mex.w.1",
+      "season": {
+        "start": "2026-07-25",
+        "end": "2027-05-31"
+      },
+      "emoji": "⚽",
+      "order": "home_vs_away",
+      "match_minutes": 120,
+      "output": "liga_mx_femenil.ics",
+      "uid_prefix": "espn-liga-mx-femenil",
+      "title": "Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)",
+      "prodid": "-//HerFixtures//Liga MX Femenil 2026-27//EN",
+      "cal_name": "Liga MX Femenil 2026/27 — HerFixtures",
+      "cal_desc": "Liga MX Femenil Apertura 2026 and Clausura 2027 fixtures. Updated automatically by HerFixtures.com",
+      "team_prefix": "liga_mx_femenil_",
+      "team_prodid": "-//HerFixtures//Liga MX Femenil 2026-27 {team}//EN",
+      "team_cal_name": "{team} — Liga MX Femenil 2026/27 — HerFixtures",
+      "team_cal_desc": "{team} Liga MX Femenil 2026/27 fixtures. Updated automatically by HerFixtures.com",
+      "teams": {
+        "22415": [
+          "América",
+          "america"
+        ],
+        "133989": [
+          "Atlante",
+          "atlante"
+        ],
+        "133990": [
+          "Atlas",
+          "atlas"
+        ],
+        "133992": [
+          "Atlético de San Luis",
+          "san_luis"
+        ],
+        "133982": [
+          "Cruz Azul",
+          "cruz_azul"
+        ],
+        "133984": [
+          "FC Juárez",
+          "juarez"
+        ],
+        "22416": [
+          "Guadalajara",
+          "guadalajara"
+        ],
+        "133986": [
+          "León",
+          "leon"
+        ],
+        "21537": [
+          "Monterrey",
+          "monterrey"
+        ],
+        "133983": [
+          "Necaxa",
+          "necaxa"
+        ],
+        "22414": [
+          "Pachuca",
+          "pachuca"
+        ],
+        "133991": [
+          "Puebla",
+          "puebla"
+        ],
+        "133981": [
+          "Pumas UNAM",
+          "pumas"
+        ],
+        "133987": [
+          "Querétaro",
+          "queretaro"
+        ],
+        "133985": [
+          "Santos",
+          "santos"
+        ],
+        "22413": [
+          "Tigres UANL",
+          "tigres"
+        ],
+        "22417": [
+          "Tijuana",
+          "tijuana"
+        ],
+        "133988": [
+          "Toluca",
+          "toluca"
+        ]
+      }
     }
   }
 }

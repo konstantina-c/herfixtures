@@ -117,6 +117,46 @@
       "kind": "league"
     },
     {
+      "id": "liga-mx-femenil",
+      "name": "Liga MX Femenil (Mexico)",
+      "ics": "liga_mx_femenil.ics",
+      "source": "auto",
+      "update": "fetch_espn_feeds.py (shared ESPN engine, config in feeds/espn_leagues.json) in refresh.yml",
+      "season": {
+        "start": "2026-07-31",
+        "end": "2027-05-31"
+      },
+      "breaks": [
+        {
+          "start": "2026-11-17",
+          "end": "2026-12-08",
+          "why": "Liguilla pause (FIFA window / Concacaf W) between quarter-finals and semi-finals"
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2027-01-10",
+          "why": "between Apertura 2026 and Clausura 2027 (Clausura dates not published as of Nov 15)"
+        }
+      ],
+      "highlights": [
+        {
+          "from": "2026-11-17",
+          "until": "2026-12-08",
+          "text": "Semi-finals from 9 Dec",
+          "style": "live"
+        },
+        {
+          "from": "2026-12-09",
+          "until": "2026-12-20",
+          "text": "Final 16–20 Dec",
+          "style": "live"
+        }
+      ],
+      "grace_days": 3,
+      "min_events": 120,
+      "kind": "league"
+    },
+    {
       "id": "nwsl",
       "name": "NWSL",
       "ics": "nwsl.ics",

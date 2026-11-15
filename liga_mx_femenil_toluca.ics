@@ -1,0 +1,193 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//Liga MX Femenil 2026-27 Toluca//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Toluca Liga MX Femenil 2026/27 fixtures. Updated automaticall
+ y by HerFixtures.com
+X-WR-CALNAME:Toluca — Liga MX Femenil 2026/27 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Atlético de San Luis vs Toluca (1–4)
+DTSTART:20260803T160000Z
+DTEND:20260803T180000Z
+DTSTAMP:20261115T150824Z
+UID:espn-liga-mx-femenil-401926854@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAtlé
+ tico de San Luis vs Toluca\nStatus: Full Time\nVenue: Estadio Libertad Fin
+ anciera\, San Luis Potosi\n\nFixtures by HerFixtures.com — Women's Sport
+ s on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401926854/toluca-atletico-d
+ e-san-luis
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Toluca vs FC Juárez (2–0)
+DTSTART:20260811T000000Z
+DTEND:20260811T020000Z
+DTSTAMP:20261115T150824Z
+UID:espn-liga-mx-femenil-401926893@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nToluc
+ a vs FC Juárez\nStatus: Full Time\nVenue: Estadio Nemesio Díez Riega\, T
+ oluca\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401926893/fc-juarez-toluca
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Toluca vs Atlas (1–1)
+DTSTART:20260818T000000Z
+DTEND:20260818T020000Z
+DTSTAMP:20261115T150824Z
+UID:espn-liga-mx-femenil-401926899@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nToluc
+ a vs Atlas\nStatus: Full Time\nVenue: Estadio Nemesio Díez Riega\, Toluca
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401926899/atlas-toluca
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Atlante vs Toluca (1–2)
+DTSTART:20260824T214500Z
+DTEND:20260824T234500Z
+DTSTAMP:20261115T150824Z
+UID:espn-liga-mx-femenil-401926907@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAtlan
+ te vs Toluca\nStatus: Full Time\nVenue: CAR Atlante Cancha 1\, Mexico City
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401926907/toluca-atlante
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Toluca vs León (1–0)
+DTSTART:20260829T000000Z
+DTEND:20260829T020000Z
+DTSTAMP:20261115T150824Z
+UID:espn-liga-mx-femenil-401926923@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nToluc
+ a vs León\nStatus: Full Time\nVenue: Estadio Nemesio Díez Riega\, Toluca
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401926923/leon-toluca
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Monterrey vs Toluca (5–1)
+DTSTART:20260906T010000Z
+DTEND:20260906T030000Z
+DTSTAMP:20261115T150824Z
+UID:espn-liga-mx-femenil-401926929@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nMonte
+ rrey vs Toluca\nStatus: Full Time\nVenue: Estadio BBVA\, Guadalupe\n\nFixt
+ ures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401926929/toluca-monterrey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Toluca vs Tijuana (6–0)
+DTSTART:20260915T000000Z
+DTEND:20260915T020000Z
+DTSTAMP:20261115T150824Z
+UID:espn-liga-mx-femenil-401926937@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nToluc
+ a vs Tijuana\nStatus: Full Time\nVenue: Estadio Nemesio Díez Riega\, Tolu
+ ca\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401926937/tijuana-toluca
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Toluca vs Tigres UANL (2–7)
+DTSTART:20260922T000000Z
+DTEND:20260922T020000Z
+DTSTAMP:20261115T150824Z
+UID:espn-liga-mx-femenil-401926944@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nToluc
+ a vs Tigres UANL\nStatus: Full Time\nVenue: Estadio Nemesio Díez Riega\, 
+ Toluca\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401926944/tigres-uanl-toluc
+ a
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Necaxa vs Toluca (0–4)
+DTSTART:20260929T010600Z
+DTEND:20260929T030600Z
+DTSTAMP:20261115T150824Z
+UID:espn-liga-mx-femenil-401924351@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nNecax
+ a vs Toluca\nStatus: Full Time\nVenue: Estadio Victoria\, Aguascalientes\n
+ \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401924351/toluca-necaxa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Pachuca vs Toluca (1–2)
+DTSTART:20261005T010600Z
+DTEND:20261005T030600Z
+DTSTAMP:20261115T150824Z
+UID:espn-liga-mx-femenil-401924398@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPachu
+ ca vs Toluca\nStatus: Full Time\nVenue: Estadio Hidalgo\, Pachuca\n\nFixtu
+ res by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401924398/toluca-pachuca
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Toluca vs Santos (0–0)
+DTSTART:20261020T000000Z
+DTEND:20261020T020000Z
+DTSTAMP:20261115T150824Z
+UID:espn-liga-mx-femenil-401924383@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nToluc
+ a vs Santos\nStatus: Full Time\nVenue: Estadio Nemesio Díez Riega\, Toluc
+ a\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401924383/santos-toluca
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cruz Azul vs Toluca (1–2)
+DTSTART:20261025T001000Z
+DTEND:20261025T021000Z
+DTSTAMP:20261115T150824Z
+UID:espn-liga-mx-femenil-401924395@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nCruz 
+ Azul vs Toluca\nStatus: Full Time\nVenue: Estadio Centenario\, Montevideo\
+ n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401924395/toluca-cruz-azul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Toluca vs Guadalajara (2–3)
+DTSTART:20261031T000000Z
+DTEND:20261031T020000Z
+DTSTAMP:20261115T150824Z
+UID:espn-liga-mx-femenil-401924358@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nToluc
+ a vs Guadalajara\nStatus: Full Time\nVenue: Estadio Nemesio Díez Riega\, 
+ Toluca\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401924358/guadalajara-toluc
+ a
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Querétaro vs Toluca (1–1)
+DTSTART:20261106T010600Z
+DTEND:20261106T030600Z
+DTSTAMP:20261115T150824Z
+UID:espn-liga-mx-femenil-401924360@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nQuer
+ étaro vs Toluca\nStatus: Full Time\nVenue: Estadio Corregidora\, Santiago
+  de Querétaro\n\nFixtures by HerFixtures.com — Women's Sports on Your C
+ alendar
+URL:https://www.espn.com/soccer/match/_/gameId/401924360/toluca-queretaro
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ América vs Toluca (3–0)
+DTSTART:20261112T010000Z
+DTEND:20261112T030000Z
+DTSTAMP:20261115T150824Z
+UID:espn-liga-mx-femenil-401932063@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAmér
+ ica vs Toluca\nStatus: Full Time\nVenue: Estadio Banorte\, Mexico City\n\n
+ Fixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401932063/toluca-america
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Toluca vs América
+DTSTART:20261116T031000Z
+DTEND:20261116T051000Z
+DTSTAMP:20261115T150824Z
+UID:espn-liga-mx-femenil-401932065@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nToluc
+ a vs América\nStatus: Scheduled\nVenue: Estadio Nemesio Díez Riega\, Tol
+ uca\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401932065/america-toluca
+END:VEVENT
+END:VCALENDAR

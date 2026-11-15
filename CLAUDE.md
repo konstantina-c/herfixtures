@@ -66,6 +66,10 @@ The feed scripts need no secrets. RapidAPI was dropped in Nov 2026 — never har
   - `bash scripts/publish_feed_update.sh`: feed-data-only pushes to main (scheduled runs).
   - `git push` and `gh pr merge` stay denied in `.claude/settings.json`.
 
+### Editing gotcha: trailing spaces
+
+The Edit tool drops a trailing space at the end of a replacement string, so an edit that ends in a space glues two words together. This broke the refresh `git add` line on Nov 15, 2026 and nearly did again. Anchor edits on the next word instead of a space, and always run `python3 scripts/check_repo.py` before a PR (the "Repo check" CI enforces it).
+
 ### Technical release checklist (every non-visual PR)
 
 1. Root cause confirmed from evidence (run logs, git history), not assumed.
