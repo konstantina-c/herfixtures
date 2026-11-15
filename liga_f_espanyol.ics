@@ -130,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Tenerife @ Espanyol (3–1)
 DTSTART:20261114T110000Z
 DTEND:20261114T130000Z
-DTSTAMP:20261115T092440Z
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882458@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nTenerife at Espanyol\nStatus: Full Tim
  e\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFixtu
@@ -141,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Espanyol
 DTSTART:20261123T190000Z
 DTEND:20261123T210000Z
-DTSTAMP:20261115T092440Z
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882449@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at Espanyol\nStatus: Schedule
  d\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFixtu
@@ -152,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ Barcelona
 DTSTART:20261208T160000Z
 DTEND:20261208T180000Z
-DTSTAMP:20261115T092440Z
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882440@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Barcelona\nStatus: Schedul
  ed\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures.com 
@@ -161,199 +161,217 @@ URL:https://www.espn.com/soccer/match/_/gameId/401882440/espanyol-barcelon
  a
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Sevilla @ Espanyol
-DTSTART:20261213T200000Z
-DTEND:20261213T220000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Sevilla @ Espanyol (time TBC)
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882433@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Espanyol\nStatus: Scheduled
- \nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFixtur
- es.com — Women's Sports on Your Calendar
+ \nKick-off time not confirmed yet. Your calendar updates automatically onc
+ e it is.\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by H
+ erFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882433/sevilla-espanyol
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Espanyol @ Atlético Madrid
-DTSTART:20270110T200000Z
-DTEND:20270110T220000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Espanyol @ Atlético Madrid (time TBC)
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882427@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Atlético Madrid\nStatus: 
- Scheduled\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de Henares
- \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+ Scheduled\nKick-off time not confirmed yet. Your calendar updates automati
+ cally once it is.\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de
+  Henares\n\nFixtures by HerFixtures.com — Women's Sports on Your Calenda
+ r
 URL:https://www.espn.com/soccer/match/_/gameId/401882427/espanyol-atletico
  -madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Athletic Club @ Espanyol
-DTSTART:20270117T200000Z
-DTEND:20270117T220000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Athletic Club @ Espanyol (time TBC)
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882416@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Espanyol\nStatus: Sch
- eduled\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by Her
- Fixtures.com — Women's Sports on Your Calendar
+ eduled\nKick-off time not confirmed yet. Your calendar updates automatical
+ ly once it is.\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixture
+ s by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882416/athletic-club-esp
  anyol
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Espanyol @ Madrid CFF
-DTSTART:20270124T200000Z
-DTEND:20270124T220000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Espanyol @ Madrid CFF (time TBC)
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882408@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Madrid CFF\nStatus: Schedu
- led\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFixtur
- es.com — Women's Sports on Your Calendar
+ led\nKick-off time not confirmed yet. Your calendar updates automatically 
+ once it is.\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by H
+ erFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882408/espanyol-madrid-c
  ff
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Granada @ Espanyol
-DTSTART:20270131T200000Z
-DTEND:20270131T220000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Granada @ Espanyol (time TBC)
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882401@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at Espanyol\nStatus: Scheduled
- \nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFixtur
- es.com — Women's Sports on Your Calendar
+ \nKick-off time not confirmed yet. Your calendar updates automatically onc
+ e it is.\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by H
+ erFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882401/granada-espanyol
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Real Sociedad @ Espanyol
-DTSTART:20270207T200000Z
-DTEND:20270207T220000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Real Sociedad @ Espanyol (time TBC)
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882394@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Espanyol\nStatus: Sch
- eduled\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by Her
- Fixtures.com — Women's Sports on Your Calendar
+ eduled\nKick-off time not confirmed yet. Your calendar updates automatical
+ ly once it is.\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixture
+ s by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882394/real-sociedad-esp
  anyol
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Espanyol @ Alavés
-DTSTART:20270214T200000Z
-DTEND:20270214T220000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Espanyol @ Alavés (time TBC)
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882388@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Alavés\nStatus: Scheduled
- \nVenue: Ciudad Deportiva José Luis Compañón\, Vitoria-Gasteiz\n\nFixtu
- res by HerFixtures.com — Women's Sports on Your Calendar
+ \nKick-off time not confirmed yet. Your calendar updates automatically onc
+ e it is.\nVenue: Ciudad Deportiva José Luis Compañón\, Vitoria-Gasteiz\
+ n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882388/espanyol-alaves
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Espanyol @ Valencia
-DTSTART:20270221T200000Z
-DTEND:20270221T220000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Espanyol @ Valencia (time TBC)
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882373@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Valencia\nStatus: Schedule
- d\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtures.co
- m — Women's Sports on Your Calendar
+ d\nKick-off time not confirmed yet. Your calendar updates automatically on
+ ce it is.\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882373/espanyol-valencia
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Deportivo @ Espanyol
-DTSTART:20270314T180000Z
-DTEND:20270314T200000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Deportivo @ Espanyol (time TBC)
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882369@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Espanyol\nStatus: Schedul
- ed\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFixt
- ures.com — Women's Sports on Your Calendar
+ ed\nKick-off time not confirmed yet. Your calendar updates automatically o
+ nce it is.\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by
+  HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882369/deportivo-espanyo
  l
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Eibar @ Espanyol
-DTSTART:20270321T180000Z
-DTEND:20270321T200000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Eibar @ Espanyol (time TBC)
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882360@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Espanyol\nStatus: Scheduled\n
- Venue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFixtures
- .com — Women's Sports on Your Calendar
+ Kick-off time not confirmed yet. Your calendar updates automatically once 
+ it is.\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882360/eibar-espanyol
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Espanyol @ FC Badalona
-DTSTART:20270328T180000Z
-DTEND:20270328T200000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Espanyol @ FC Badalona (time TBC)
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882350@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at FC Badalona\nStatus: Sched
- uled\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixtures
- .com — Women's Sports on Your Calendar
+ uled\nKick-off time not confirmed yet. Your calendar updates automatically
+  once it is.\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882350/espanyol-fc-badal
  ona
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Atlético Madrid @ Espanyol
-DTSTART:20270404T180000Z
-DTEND:20270404T200000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Atlético Madrid @ Espanyol (time TBC)
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882345@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Espanyol\nStatus: 
- Scheduled\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by 
- HerFixtures.com — Women's Sports on Your Calendar
+ Scheduled\nKick-off time not confirmed yet. Your calendar updates automati
+ cally once it is.\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixt
+ ures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882345/atletico-madrid-e
  spanyol
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Espanyol @ Sevilla
-DTSTART:20270411T180000Z
-DTEND:20270411T200000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Espanyol @ Sevilla (time TBC)
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882334@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Sevilla\nStatus: Scheduled
- \nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.com —
-  Women's Sports on Your Calendar
+ \nKick-off time not confirmed yet. Your calendar updates automatically onc
+ e it is.\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882334/espanyol-sevilla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Barcelona @ Espanyol
-DTSTART:20270502T180000Z
-DTEND:20270502T200000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Barcelona @ Espanyol (time TBC)
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882328@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Espanyol\nStatus: Schedul
- ed\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFixt
- ures.com — Women's Sports on Your Calendar
+ ed\nKick-off time not confirmed yet. Your calendar updates automatically o
+ nce it is.\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by
+  HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882328/barcelona-espanyo
  l
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Espanyol @ Tenerife
-DTSTART:20270509T180000Z
-DTEND:20270509T200000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Espanyol @ Tenerife (time TBC)
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882323@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Tenerife\nStatus: Schedule
- d\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife\n\n
- Fixtures by HerFixtures.com — Women's Sports on Your Calendar
+ d\nKick-off time not confirmed yet. Your calendar updates automatically on
+ ce it is.\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tene
+ rife\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882323/espanyol-tenerife
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Real Madrid @ Espanyol
-DTSTART:20270519T180000Z
-DTEND:20270519T200000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Real Madrid @ Espanyol (time TBC)
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882312@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Espanyol\nStatus: Sched
- uled\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFi
- xtures.com — Women's Sports on Your Calendar
+ uled\nKick-off time not confirmed yet. Your calendar updates automatically
+  once it is.\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures 
+ by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882312/real-madrid-espan
  yol
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Espanyol @ Dux Logroño
-DTSTART:20270523T180000Z
-DTEND:20270523T200000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Espanyol @ Dux Logroño (time TBC)
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882306@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Dux Logroño\nStatus: Sche
- duled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — Wom
- en's Sports on Your Calendar
+ duled\nKick-off time not confirmed yet. Your calendar updates automaticall
+ y once it is.\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com
+  — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882306/espanyol-dux-logr
  ono
 END:VEVENT

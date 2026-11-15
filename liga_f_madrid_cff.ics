@@ -119,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Madrid CFF @ Barcelona (1–5)
 DTSTART:20261108T150000Z
 DTEND:20261108T170000Z
-DTSTAMP:20261115T092440Z
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882462@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Barcelona\nStatus: Full 
  Time\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures.co
@@ -131,7 +131,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Madrid CFF
 DTSTART:20261115T110000Z
 DTEND:20261115T130000Z
-DTSTAMP:20261115T092440Z
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882457@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Madrid CFF\nStatus: Sc
  heduled\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFi
@@ -143,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Madrid CFF @ Tenerife
 DTSTART:20261122T160000Z
 DTEND:20261122T180000Z
-DTSTAMP:20261115T092440Z
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882452@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Tenerife\nStatus: Schedu
  led\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife\n
@@ -155,7 +155,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Madrid CFF @ Real Madrid
 DTSTART:20261208T180000Z
 DTEND:20261208T200000Z
-DTSTAMP:20261115T092440Z
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882438@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Real Madrid\nStatus: Sch
  eduled\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFixt
@@ -164,204 +164,221 @@ URL:https://www.espn.com/soccer/match/_/gameId/401882438/madrid-cff-real-m
  adrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ FC Badalona @ Madrid CFF
-DTSTART:20261213T200000Z
-DTEND:20261213T220000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ FC Badalona @ Madrid CFF (time TBC)
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882431@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Madrid CFF\nStatus: Sch
- eduled\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFix
- tures.com — Women's Sports on Your Calendar
+ eduled\nKick-off time not confirmed yet. Your calendar updates automatical
+ ly once it is.\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures b
+ y HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882431/fc-badalona-madri
  d-cff
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Real Sociedad @ Madrid CFF
-DTSTART:20270110T200000Z
-DTEND:20270110T220000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Real Sociedad @ Madrid CFF (time TBC)
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882424@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Madrid CFF\nStatus: S
- cheduled\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerF
- ixtures.com — Women's Sports on Your Calendar
+ cheduled\nKick-off time not confirmed yet. Your calendar updates automatic
+ ally once it is.\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures
+  by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882424/real-sociedad-mad
  rid-cff
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Madrid CFF @ Alavés
-DTSTART:20270117T200000Z
-DTEND:20270117T220000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Madrid CFF @ Alavés (time TBC)
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882420@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Alavés\nStatus: Schedul
- ed\nVenue: Ciudad Deportiva José Luis Compañón\, Vitoria-Gasteiz\n\nFix
- tures by HerFixtures.com — Women's Sports on Your Calendar
+ ed\nKick-off time not confirmed yet. Your calendar updates automatically o
+ nce it is.\nVenue: Ciudad Deportiva José Luis Compañón\, Vitoria-Gastei
+ z\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882420/madrid-cff-alaves
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Espanyol @ Madrid CFF
-DTSTART:20270124T200000Z
-DTEND:20270124T220000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Espanyol @ Madrid CFF (time TBC)
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882408@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Madrid CFF\nStatus: Schedu
- led\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFixtur
- es.com — Women's Sports on Your Calendar
+ led\nKick-off time not confirmed yet. Your calendar updates automatically 
+ once it is.\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by H
+ erFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882408/espanyol-madrid-c
  ff
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Madrid CFF @ Deportivo
-DTSTART:20270131T200000Z
-DTEND:20270131T220000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Madrid CFF @ Deportivo (time TBC)
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882402@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Deportivo\nStatus: Sched
- uled\nVenue: Dépor Training Center Campo Arsenio Iglesias\, A Coruna\n\nF
- ixtures by HerFixtures.com — Women's Sports on Your Calendar
+ uled\nKick-off time not confirmed yet. Your calendar updates automatically
+  once it is.\nVenue: Dépor Training Center Campo Arsenio Iglesias\, A Cor
+ una\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882402/madrid-cff-deport
  ivo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Eibar @ Madrid CFF
-DTSTART:20270207T200000Z
-DTEND:20270207T220000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Eibar @ Madrid CFF (time TBC)
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882392@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Madrid CFF\nStatus: Scheduled
- \nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFixtures.
- com — Women's Sports on Your Calendar
+ \nKick-off time not confirmed yet. Your calendar updates automatically onc
+ e it is.\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882392/eibar-madrid-cff
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Madrid CFF @ Sevilla
-DTSTART:20270214T200000Z
-DTEND:20270214T220000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Madrid CFF @ Sevilla (time TBC)
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882381@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Sevilla\nStatus: Schedul
- ed\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.com 
- — Women's Sports on Your Calendar
+ ed\nKick-off time not confirmed yet. Your calendar updates automatically o
+ nce it is.\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882381/madrid-cff-sevill
  a
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Atlético Madrid @ Madrid CFF
-DTSTART:20270221T200000Z
-DTEND:20270221T220000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Atlético Madrid @ Madrid CFF (time TBC)
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882377@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Madrid CFF\nStatus
- : Scheduled\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by H
- erFixtures.com — Women's Sports on Your Calendar
+ : Scheduled\nKick-off time not confirmed yet. Your calendar updates automa
+ tically once it is.\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtu
+ res by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882377/atletico-madrid-m
  adrid-cff
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Valencia @ Madrid CFF
-DTSTART:20270314T180000Z
-DTEND:20270314T200000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Valencia @ Madrid CFF (time TBC)
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882366@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at Madrid CFF\nStatus: Schedu
- led\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFixtur
- es.com — Women's Sports on Your Calendar
+ led\nKick-off time not confirmed yet. Your calendar updates automatically 
+ once it is.\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by H
+ erFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882366/valencia-madrid-c
  ff
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Madrid CFF @ Real Sociedad
-DTSTART:20270321T180000Z
-DTEND:20270321T200000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Madrid CFF @ Real Sociedad (time TBC)
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882358@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Real Sociedad\nStatus: S
- cheduled\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFixtures 
- by HerFixtures.com — Women's Sports on Your Calendar
+ cheduled\nKick-off time not confirmed yet. Your calendar updates automatic
+ ally once it is.\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882358/madrid-cff-real-s
  ociedad
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Tenerife @ Madrid CFF
-DTSTART:20270328T180000Z
-DTEND:20270328T200000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Tenerife @ Madrid CFF (time TBC)
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882351@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nTenerife at Madrid CFF\nStatus: Schedu
- led\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFixtur
- es.com — Women's Sports on Your Calendar
+ led\nKick-off time not confirmed yet. Your calendar updates automatically 
+ once it is.\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by H
+ erFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882351/tenerife-madrid-c
  ff
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Madrid CFF @ Granada
-DTSTART:20270404T180000Z
-DTEND:20270404T200000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Madrid CFF @ Granada (time TBC)
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882343@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Granada\nStatus: Schedul
- ed\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by HerFix
- tures.com — Women's Sports on Your Calendar
+ ed\nKick-off time not confirmed yet. Your calendar updates automatically o
+ nce it is.\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures b
+ y HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882343/madrid-cff-granad
  a
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Madrid CFF @ FC Badalona
-DTSTART:20270411T180000Z
-DTEND:20270411T200000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Madrid CFF @ FC Badalona (time TBC)
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882337@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at FC Badalona\nStatus: Sch
- eduled\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixtur
- es.com — Women's Sports on Your Calendar
+ eduled\nKick-off time not confirmed yet. Your calendar updates automatical
+ ly once it is.\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by H
+ erFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882337/madrid-cff-fc-bad
  alona
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Real Madrid @ Madrid CFF
-DTSTART:20270502T180000Z
-DTEND:20270502T200000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Real Madrid @ Madrid CFF (time TBC)
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882326@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Madrid CFF\nStatus: Sch
- eduled\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFix
- tures.com — Women's Sports on Your Calendar
+ eduled\nKick-off time not confirmed yet. Your calendar updates automatical
+ ly once it is.\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures b
+ y HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882326/real-madrid-madri
  d-cff
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Madrid CFF @ Dux Logroño
-DTSTART:20270509T180000Z
-DTEND:20270509T200000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Madrid CFF @ Dux Logroño (time TBC)
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882322@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Dux Logroño\nStatus: Sc
- heduled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — W
- omen's Sports on Your Calendar
+ heduled\nKick-off time not confirmed yet. Your calendar updates automatica
+ lly once it is.\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.c
+ om — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882322/madrid-cff-dux-lo
  grono
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Barcelona @ Madrid CFF
-DTSTART:20270519T180000Z
-DTEND:20270519T200000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Barcelona @ Madrid CFF (time TBC)
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882310@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Madrid CFF\nStatus: Sched
- uled\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFixtu
- res.com — Women's Sports on Your Calendar
+ uled\nKick-off time not confirmed yet. Your calendar updates automatically
+  once it is.\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by 
+ HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882310/barcelona-madrid-
  cff
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Madrid CFF @ Athletic Club
-DTSTART:20270523T180000Z
-DTEND:20270523T200000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Madrid CFF @ Athletic Club (time TBC)
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882308@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Athletic Club\nStatus: S
- cheduled\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by H
- erFixtures.com — Women's Sports on Your Calendar
+ cheduled\nKick-off time not confirmed yet. Your calendar updates automatic
+ ally once it is.\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtu
+ res by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882308/madrid-cff-athlet
  ic-club
 END:VEVENT

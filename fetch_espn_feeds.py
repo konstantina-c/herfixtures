@@ -1,0 +1,232 @@
+#!/usr/bin/env python3
+"""HerFixtures shared feed engine for ESPN-sourced competitions.
+
+Every league is a config entry in feeds/espn_leagues.json, so adding a
+competition is configuration, not another copy of a fetch script. For each
+league this writes the competition feed and one feed per configured team.
+
+Safeguards (all leagues get them automatically):
+  - Polite fetching: leagues run one after another, 2 parallel requests max,
+    one request per day (ESPN rejects date ranges). Games older than
+    PAST_REFETCH_DAYS are kept from the existing file instead of re-fetched,
+    so a mid-season run touches only the last week + the rest of the season.
+    Set HERFIXTURES_FULL_REFETCH=1 (or delete the file) to rebuild everything.
+  - Time TBC: ESPN marks unconfirmed kick-offs with timeValid=false and a
+    placeholder time (18:00/20:00 UTC). Those become all-day events titled
+    "(time TBC)"; they turn into timed events once ESPN confirms the time
+    (same UID, so calendar apps update in place).
+  - Placeholder ("TBD") games dropped; shrink guard on every write;
+    a partial fetch never produces a feed (fetch_days refuses).
+
+Usage:
+  python3 fetch_espn_feeds.py                 # all leagues
+  python3 fetch_espn_feeds.py liga-f          # one league
+  python3 fetch_espn_feeds.py --out-dir /tmp/x liga-f   # write elsewhere (testing)
+"""
+
+from __future__ import annotations
+
+import argparse
+import json
+import os
+import sys
+from datetime import date, datetime, timedelta, timezone
+from pathlib import Path
+
+from icalendar import Calendar, Event
+
+from espn_common import fetch_days, is_placeholder, safe_write_ics
+
+ROOT = Path(__file__).resolve().parent
+CONFIG = ROOT / "feeds" / "espn_leagues.json"
+ESPN = "https://site.api.espn.com/apis/site/v2/sports"
+PAST_REFETCH_DAYS = 7
+FOOTER = "\nFixtures by HerFixtures.com — Women's Sports on Your Calendar"
+
+
+# ── Parsing ───────────────────────────────────────────────────────────────────
+
+def _score(c: dict) -> str | None:
+    s = c.get("score")
+    if s in (None, ""):
+        return None
+    return s.get("displayValue") if isinstance(s, dict) else str(s)
+
+
+def parse(event: dict, league: dict) -> dict | None:
+    """ESPN event -> plain dict used to build calendar events."""
+    try:
+        comp = event["competitions"][0]
+        home = next((c for c in comp["competitors"] if c["homeAway"] == "home"), None)
+        away = next((c for c in comp["competitors"] if c["homeAway"] == "away"), None)
+        if not home or not away:
+            return None
+        h_name = home["team"].get("displayName") or home["team"].get("name", "")
+        a_name = away["team"].get("displayName") or away["team"].get("name", "")
+        start = datetime.fromisoformat(event["date"].replace("Z", "+00:00"))
+        status = comp["status"]["type"]
+        done = status.get("state") == "post"
+        time_tbc = comp.get("timeValid") is False and not done
+
+        if league["order"] == "home_vs_away":
+            score = f" ({_score(home) or '?'}–{_score(away) or '?'})" if done else ""
+            title = f"{h_name} vs {a_name}"
+            line2 = f"{h_name} vs {a_name}"
+        else:
+            score = f" ({_score(away) or '?'}–{_score(home) or '?'})" if done else ""
+            title = f"{a_name} @ {h_name}"
+            line2 = f"{a_name} at {h_name}"
+        summary = f"{league['emoji']} {title}{score}" + (" (time TBC)" if time_tbc else "")
+
+        desc = [league["title"], line2, f"Status: {status.get('description', '')}"]
+        if time_tbc:
+            desc.append("Kick-off time not confirmed yet. Your calendar updates automatically once it is.")
+        venue = comp.get("venue", {}) or {}
+        if venue.get("fullName"):
+            city = (venue.get("address") or {}).get("city", "")
+            desc.append(f"Venue: {venue['fullName']}{', ' + city if city else ''}")
+        tv = [n for b in comp.get("broadcasts", []) for n in b.get("names", [])]
+        if tv:
+            desc.append(f"TV: {', '.join(tv)}")
+        desc.append(FOOTER)
+
+        links = event.get("links", [])
+        return {
+            "uid": f"{league['uid_prefix']}-{event['id']}@herfixtures.com",
+            "summary": summary,
+            "description": "\n".join(desc),
+            "start": start,
+            "minutes": league.get("match_minutes", 120),
+            "time_tbc": time_tbc,
+            "url": links[0].get("href", "https://herfixtures.com") if links else "https://herfixtures.com",
+            "team_ids": {str(home["team"].get("id", "")), str(away["team"].get("id", ""))},
+        }
+    except (KeyError, IndexError, TypeError, ValueError) as e:
+        print(f"  ⚠️  Skipping malformed event {event.get('id', '?')}: {e}")
+        return None
+
+
+# ── Calendar building ─────────────────────────────────────────────────────────
+
+def to_vevent(g: dict, now: datetime) -> Event:
+    ev = Event()
+    ev.add("uid", g["uid"])
+    ev.add("summary", g["summary"])
+    ev.add("description", g["description"])
+    if g["time_tbc"]:
+        day = g["start"].date()
+        ev.add("dtstart", day)
+        ev.add("dtend", day + timedelta(days=1))
+    else:
+        ev.add("dtstart", g["start"])
+        ev.add("dtend", g["start"] + timedelta(minutes=g["minutes"]))
+    ev.add("dtstamp", now)
+    ev.add("url", g["url"])
+    return ev
+
+
+def _event_day(component) -> date | None:
+    v = component.get("dtstart")
+    if v is None:
+        return None
+    v = v.dt
+    return v.date() if isinstance(v, datetime) else v
+
+
+def kept_past_events(path: Path, cutoff: date) -> list:
+    """Events older than cutoff from the existing file (not re-fetched)."""
+    if not path.exists():
+        return []
+    try:
+        cal = Calendar.from_ical(path.read_bytes())
+    except ValueError:
+        return []
+    return [c for c in cal.walk("VEVENT") if (_event_day(c) or cutoff) < cutoff]
+
+
+def build_calendar(prodid: str, name: str, desc: str, kept: list, games: list[dict], now: datetime) -> Calendar:
+    cal = Calendar()
+    cal.add("prodid", prodid)
+    cal.add("version", "2.0")
+    cal.add("calscale", "GREGORIAN")
+    cal.add("method", "PUBLISH")
+    cal.add("x-wr-calname", name)
+    cal.add("x-wr-caldesc", desc)
+    cal.add("x-wr-timezone", "UTC")
+    cal.add("refresh-interval;value=duration", "PT12H")
+    cal.add("x-published-ttl", "PT12H")
+    by_uid = {str(c.get("uid")): c for c in kept}
+    for g in games:
+        by_uid[g["uid"]] = to_vevent(g, now)  # fresh data wins over kept
+    for comp in sorted(by_uid.values(), key=lambda c: (str(_event_day(c)), str(c.get("uid")))):
+        cal.add_component(comp)
+    return cal
+
+
+# ── One league ────────────────────────────────────────────────────────────────
+
+def run_league(lid: str, league: dict, out_dir: Path, today: date) -> bool:
+    season_start = date.fromisoformat(league["season"]["start"])
+    season_end = date.fromisoformat(league["season"]["end"])
+    main_file = out_dir / league["output"]
+    full = os.environ.get("HERFIXTURES_FULL_REFETCH") == "1" or not main_file.exists()
+    cutoff = season_start if full else max(season_start, today - timedelta(days=PAST_REFETCH_DAYS))
+    fetch_from = cutoff
+    fetch_to = season_end
+
+    print(f"{league['name']}: fetching {fetch_from} → {fetch_to} ({'full rebuild' if full else f'older games kept from {main_file.name}'})")
+    if fetch_from > fetch_to:
+        print("  season over and fully stored — nothing to fetch")
+        return True
+    try:
+        raw = fetch_days(f"{ESPN}/{league['espn']}/scoreboard", fetch_from, fetch_to, workers=2)
+    except RuntimeError as e:
+        print(f"  ⚠️  {e} — keeping existing {league['name']} feeds")
+        return False
+    games = [g for g in (parse(e, league) for e in raw.values() if not is_placeholder(e)) if g]
+    tbc = sum(g["time_tbc"] for g in games)
+    now = datetime.now(timezone.utc)
+
+    kept = [] if full else kept_past_events(main_file, cutoff)
+    cal = build_calendar(league["prodid"], league["cal_name"], league["cal_desc"], kept, games, now)
+    total = len(cal.walk("VEVENT"))
+    print(f"  → {len(games)} fetched ({tbc} time TBC) + {len(kept)} kept = {total} events")
+    if total == 0:
+        print("  ⚠️  No events — keeping existing file")
+        return False
+    ok = safe_write_ics(main_file, cal.to_ical())
+
+    for team_id, (team, slug) in league.get("teams", {}).items():
+        path = out_dir / f"{league['team_prefix']}{slug}.ics"
+        t_games = [g for g in games if team_id in g["team_ids"]]
+        t_kept = [] if full else kept_past_events(path, cutoff)
+        fmt = lambda s: s.format(team=team)
+        t_cal = build_calendar(fmt(league["team_prodid"]), fmt(league["team_cal_name"]), fmt(league["team_cal_desc"]), t_kept, t_games, now)
+        safe_write_ics(path, t_cal.to_ical())
+    if league.get("teams"):
+        print(f"  → {len(league['teams'])} team feeds")
+    return ok
+
+
+def main() -> None:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("leagues", nargs="*", help="league ids from feeds/espn_leagues.json (default: all)")
+    ap.add_argument("--out-dir", default=str(ROOT), help="where to write (testing)")
+    ap.add_argument("--today", help="pretend today is YYYY-MM-DD (testing)")
+    args = ap.parse_args()
+
+    config = json.loads(CONFIG.read_text(encoding="utf-8"))["leagues"]
+    wanted = args.leagues or list(config)
+    unknown = [x for x in wanted if x not in config]
+    if unknown:
+        sys.exit(f"Unknown league(s): {unknown}. Known: {list(config)}")
+    today = date.fromisoformat(args.today) if args.today else datetime.now(timezone.utc).date()
+    out_dir = Path(args.out_dir)
+
+    failed = [lid for lid in wanted if not run_league(lid, config[lid], out_dir, today)]
+    if failed:
+        print(f"⚠️  Not updated: {failed} (existing files kept)")
+
+
+if __name__ == "__main__":
+    main()
