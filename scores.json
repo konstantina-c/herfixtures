@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T22:13:03Z",
+  "updated": "2026-11-15T09:24:45Z",
   "competitions": {
     "wnba": {
       "name": "WNBA",
@@ -42,7 +42,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15364.png"
           },
           "kickoff": "2026-11-15T20:00:00Z",
-          "kickoff_label": "in 22h"
+          "kickoff_label": "in 11h"
         }
       ]
     },
@@ -115,7 +115,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21425.png"
           },
           "kickoff": "2026-11-15T11:00:00Z",
-          "kickoff_label": "in 13h"
+          "kickoff_label": "in 2h"
         },
         {
           "league": "Liga F",
@@ -128,7 +128,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21428.png"
           },
           "kickoff": "2026-11-15T11:00:00Z",
-          "kickoff_label": "in 13h"
+          "kickoff_label": "in 2h"
         },
         {
           "league": "Liga F",
@@ -141,7 +141,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21424.png"
           },
           "kickoff": "2026-11-15T15:00:00Z",
-          "kickoff_label": "in 17h"
+          "kickoff_label": "in 6h"
         },
         {
           "league": "Liga F",
@@ -154,7 +154,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21145.png"
           },
           "kickoff": "2026-11-15T17:00:00Z",
-          "kickoff_label": "in 19h"
+          "kickoff_label": "in 8h"
         },
         {
           "league": "Liga F",
@@ -167,7 +167,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21374.png"
           },
           "kickoff": "2026-11-15T17:15:00Z",
-          "kickoff_label": "in 19h"
+          "kickoff_label": "in 8h"
         }
       ]
     },
