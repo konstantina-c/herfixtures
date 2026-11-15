@@ -1,5 +1,5 @@
 {
-  "_about": "One entry per ESPN-sourced competition, read by fetch_espn_feeds.py (the shared feed engine). Adding a league = adding an entry here (+ an entry in feeds/manifest.json for the health check and badge). Keep 'output', 'team_prefix', team slugs and 'uid_prefix' stable once live: they are subscribers' URLs and calendar event ids. 'order': 'away_at_home' (Away @ Home) or 'home_vs_away' (Home vs Away). Text fields may use {team}.",
+  "_about": "One entry per ESPN-sourced competition, read by fetch_espn_feeds.py (the shared feed engine). Adding a league = adding an entry here (+ an entry in feeds/manifest.json for the health check and badge). Keep 'output', 'team_prefix', team slugs and 'uid_prefix' stable once live: they are subscribers' URLs and calendar event ids. 'order': 'away_at_home' (Away @ Home) or 'home_vs_away' (Home vs Away). Text fields may use {team}. Optional per league: 'rank_filter': N (only games involving a team ranked 1..N), 'show_rank': true (\"#5 Duke\"), 'team_name': 'location' (\"Duke\" not \"Duke Blue Devils\"), 'team_source': 'schedule' (team feeds from each team's ESPN schedule instead of the league scoreboard; use when the league feed is a subset, e.g. NCAA Top 25).",
   "leagues": {
     "liga-f": {
       "name": "Liga F",
@@ -397,6 +397,97 @@
         "133988": [
           "Toluca",
           "toluca"
+        ]
+      }
+    },
+    "ncaa-wbb": {
+      "name": "NCAA Women's Basketball",
+      "espn": "basketball/womens-college-basketball",
+      "season": {
+        "start": "2026-11-01",
+        "end": "2027-04-10"
+      },
+      "emoji": "🏀",
+      "order": "away_at_home",
+      "match_minutes": 120,
+      "rank_filter": 25,
+      "show_rank": true,
+      "team_name": "location",
+      "team_source": "schedule",
+      "output": "ncaa_wbb.ics",
+      "uid_prefix": "espn-ncaa-wbb",
+      "title": "NCAA Women's Basketball 2026/27 — Top 25 games",
+      "prodid": "-//HerFixtures//NCAA Women's Basketball 2026-27//EN",
+      "cal_name": "NCAA Women's Basketball Top 25 2026/27 — HerFixtures",
+      "cal_desc": "Every NCAA women's basketball game involving an AP Top 25 team, 2026/27. Updated automatically by HerFixtures.com",
+      "team_prefix": "ncaa_wbb_",
+      "team_prodid": "-//HerFixtures//NCAA Women's Basketball 2026-27 {team}//EN",
+      "team_cal_name": "{team} Women's Basketball 2026/27 — HerFixtures",
+      "team_cal_desc": "{team} women's basketball 2026/27: every game, incl. conference and NCAA tournament once scheduled. Updated automatically by HerFixtures.com",
+      "teams": {
+        "2579": [
+          "South Carolina",
+          "south_carolina"
+        ],
+        "41": [
+          "UConn",
+          "uconn"
+        ],
+        "26": [
+          "UCLA",
+          "ucla"
+        ],
+        "30": [
+          "USC",
+          "usc"
+        ],
+        "99": [
+          "LSU",
+          "lsu"
+        ],
+        "2294": [
+          "Iowa",
+          "iowa"
+        ],
+        "251": [
+          "Texas",
+          "texas"
+        ],
+        "87": [
+          "Notre Dame",
+          "notre_dame"
+        ],
+        "150": [
+          "Duke",
+          "duke"
+        ],
+        "130": [
+          "Michigan",
+          "michigan"
+        ],
+        "2633": [
+          "Tennessee",
+          "tennessee"
+        ],
+        "24": [
+          "Stanford",
+          "stanford"
+        ],
+        "194": [
+          "Ohio State",
+          "ohio_state"
+        ],
+        "201": [
+          "Oklahoma",
+          "oklahoma"
+        ],
+        "97": [
+          "Louisville",
+          "louisville"
+        ],
+        "238": [
+          "Vanderbilt",
+          "vanderbilt"
         ]
       }
     }

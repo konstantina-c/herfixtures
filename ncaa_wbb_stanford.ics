@@ -1,0 +1,397 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//NCAA Women's Basketball 2026-27 Stanford//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Stanford women's basketball 2026/27: every game\, incl. confe
+ rence and NCAA tournament once scheduled. Updated automatically by HerFixt
+ ures.com
+X-WR-CALNAME:Stanford Women's Basketball 2026/27 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🏀 Arizona @ Stanford (84–69)
+DTSTART:20261102T183000Z
+DTEND:20261102T203000Z
+DTSTAMP:20261115T152640Z
+UID:espn-ncaa-wbb-401913054@herfixtures.com
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nArizona at S
+ tanford\nStatus: Final\nVenue: T-Mobile Arena\, Las Vegas\n\nFixtures by H
+ erFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401913054
+ /arizona-stanford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Saint Mary's @ Stanford (54–87)
+DTSTART:20261105T030000Z
+DTEND:20261105T050000Z
+DTSTAMP:20261115T152640Z
+UID:espn-ncaa-wbb-401915978@herfixtures.com
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nSaint Mary's
+  at Stanford\nStatus: Final\nVenue: Maples Pavilion\, Stanford\n\nFixtures
+  by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401915978
+ /saint-marys-stanford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 UC Davis @ Stanford (60–67)
+DTSTART:20261108T220000Z
+DTEND:20261109T000000Z
+DTSTAMP:20261115T152640Z
+UID:espn-ncaa-wbb-401915979@herfixtures.com
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nUC Davis at 
+ Stanford\nStatus: Final\nVenue: Maples Pavilion\, Stanford\n\nFixtures by 
+ HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401915979
+ /uc-davis-stanford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Stanford @ Santa Clara (66–55)
+DTSTART:20261114T030000Z
+DTEND:20261114T050000Z
+DTSTAMP:20261115T152640Z
+UID:espn-ncaa-wbb-401915980@herfixtures.com
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nStanford at 
+ Santa Clara\nStatus: Final\nVenue: Leavey Center\, Santa Clara\n\nFixtures
+  by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401915980
+ /stanford-santa-clara
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Gonzaga @ Stanford
+DTSTART:20261115T220000Z
+DTEND:20261116T000000Z
+DTSTAMP:20261115T152640Z
+UID:espn-ncaa-wbb-401915981@herfixtures.com
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nGonzaga at S
+ tanford\nStatus: Scheduled\nVenue: Maples Pavilion\, Stanford\n\nFixtures 
+ by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401915981
+ /gonzaga-stanford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Stanford @ #16 Washington
+DTSTART:20261121T030000Z
+DTEND:20261121T050000Z
+DTSTAMP:20261115T152640Z
+UID:espn-ncaa-wbb-401915982@herfixtures.com
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nStanford at 
+ #16 Washington\nStatus: Scheduled\nVenue: Alaska Airlines Arena\, Seattle\
+ n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401915982
+ /stanford-washington
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Stanford @ Portland
+DTSTART:20261122T220000Z
+DTEND:20261123T000000Z
+DTSTAMP:20261115T152640Z
+UID:espn-ncaa-wbb-401915983@herfixtures.com
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nStanford at 
+ Portland\nStatus: Scheduled\nVenue: Chiles Center\, Portland\n\nFixtures b
+ y HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401915983
+ /stanford-portland
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Columbia @ Stanford
+DTSTART:20261128T003000Z
+DTEND:20261128T023000Z
+DTSTAMP:20261115T152640Z
+UID:espn-ncaa-wbb-401915984@herfixtures.com
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nColumbia at 
+ Stanford\nStatus: Scheduled\nVenue: Stan Sheriff Center\, Honolulu\n\nFixt
+ ures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401915984
+ /columbia-stanford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 San Diego State @ Stanford
+DTSTART:20261129T003000Z
+DTEND:20261129T023000Z
+DTSTAMP:20261115T152640Z
+UID:espn-ncaa-wbb-401915985@herfixtures.com
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nSan Diego St
+ ate at Stanford\nStatus: Scheduled\nVenue: Stan Sheriff Center\, Honolulu\
+ n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401915985
+ /san-diego-st-stanford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Stanford @ Hawai'i
+DTSTART:20261129T210000Z
+DTEND:20261129T230000Z
+DTSTAMP:20261115T152640Z
+UID:espn-ncaa-wbb-401915986@herfixtures.com
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nStanford at 
+ Hawai'i\nStatus: Scheduled\nVenue: Stan Sheriff Center\, Honolulu\n\nFixtu
+ res by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401915986
+ /stanford-hawaii
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Stanford @ Auburn
+DTSTART:20261203T001500Z
+DTEND:20261203T021500Z
+DTSTAMP:20261115T152640Z
+UID:espn-ncaa-wbb-401915987@herfixtures.com
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nStanford at 
+ Auburn\nStatus: Scheduled\nVenue: Neville Arena\, Auburn\n\nFixtures by He
+ rFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401915987
+ /stanford-auburn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Stanford @ California
+DTSTART:20261213T210000Z
+DTEND:20261213T230000Z
+DTSTAMP:20261115T152640Z
+UID:espn-ncaa-wbb-401918263@herfixtures.com
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nStanford at 
+ California\nStatus: Scheduled\nVenue: Haas Pavilion\, Berkeley\n\nFixtures
+  by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401918263
+ /stanford-california
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Arizona State @ Stanford
+DTSTART:20261218T030000Z
+DTEND:20261218T050000Z
+DTSTAMP:20261115T152640Z
+UID:espn-ncaa-wbb-401915988@herfixtures.com
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nArizona Stat
+ e at Stanford\nStatus: Scheduled\nVenue: Maples Pavilion\, Stanford\n\nFix
+ tures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401915988
+ /arizona-st-stanford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Stanford @ #17 Ohio State
+DTSTART:20261221T013000Z
+DTEND:20261221T033000Z
+DTSTAMP:20261115T152640Z
+UID:espn-ncaa-wbb-401915989@herfixtures.com
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nStanford at 
+ #17 Ohio State\nStatus: Scheduled\nVenue: Chase Center\, San Francisco\n\n
+ Fixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401915989
+ /stanford-ohio-state
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Cal Poly @ Stanford
+DTSTART:20261228T220000Z
+DTEND:20261229T000000Z
+DTSTAMP:20261115T152640Z
+UID:espn-ncaa-wbb-401915990@herfixtures.com
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nCal Poly at 
+ Stanford\nStatus: Scheduled\nVenue: Maples Pavilion\, Stanford\n\nFixtures
+  by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401915990
+ /cal-poly-stanford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Stanford @ Clemson
+DTSTART:20270101T000000Z
+DTEND:20270101T020000Z
+DTSTAMP:20261115T152640Z
+UID:espn-ncaa-wbb-401918276@herfixtures.com
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nStanford at 
+ Clemson\nStatus: Scheduled\nVenue: Littlejohn Coliseum\, Clemson\n\nFixtur
+ es by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401918276
+ /stanford-clemson
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Stanford @ SMU
+DTSTART:20270103T200000Z
+DTEND:20270103T220000Z
+DTSTAMP:20261115T152640Z
+UID:espn-ncaa-wbb-401918284@herfixtures.com
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nStanford at 
+ SMU\nStatus: Scheduled\nVenue: Moody Coliseum (Dallas)\, Dallas\n\nFixture
+ s by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401918284
+ /stanford-smu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Miami @ Stanford
+DTSTART:20270108T030000Z
+DTEND:20270108T050000Z
+DTSTAMP:20261115T152640Z
+UID:espn-ncaa-wbb-401918288@herfixtures.com
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nMiami at Sta
+ nford\nStatus: Scheduled\nVenue: Maples Pavilion\, Stanford\n\nFixtures by
+  HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401918288
+ /miami-stanford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 NC State @ Stanford
+DTSTART:20270110T190000Z
+DTEND:20270110T210000Z
+DTSTAMP:20261115T152640Z
+UID:espn-ncaa-wbb-401918316@herfixtures.com
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nNC State at 
+ Stanford\nStatus: Scheduled\nVenue: Maples Pavilion\, Stanford\n\nFixtures
+  by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401918316
+ /nc-state-stanford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Stanford @ Wake Forest
+DTSTART:20270114T230000Z
+DTEND:20270115T010000Z
+DTSTAMP:20261115T152640Z
+UID:espn-ncaa-wbb-401918325@herfixtures.com
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nStanford at 
+ Wake Forest\nStatus: Scheduled\nVenue: LJVM Coliseum\, Winston-Salem\n\nFi
+ xtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401918325
+ /stanford-wake-forest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Stanford @ #5 Duke
+DTSTART:20270117T170000Z
+DTEND:20270117T190000Z
+DTSTAMP:20261115T152640Z
+UID:espn-ncaa-wbb-401918332@herfixtures.com
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nStanford at 
+ #5 Duke\nStatus: Scheduled\nVenue: Cameron Indoor Stadium\, Durham\n\nFixt
+ ures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401918332
+ /stanford-duke
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Syracuse @ Stanford
+DTSTART:20270122T030000Z
+DTEND:20270122T050000Z
+DTSTAMP:20261115T152640Z
+UID:espn-ncaa-wbb-401918340@herfixtures.com
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nSyracuse at 
+ Stanford\nStatus: Scheduled\nVenue: Maples Pavilion\, Stanford\n\nFixtures
+  by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401918340
+ /syracuse-stanford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 #23 North Carolina @ Stanford
+DTSTART:20270124T190000Z
+DTEND:20270124T210000Z
+DTSTAMP:20261115T152640Z
+UID:espn-ncaa-wbb-401918345@herfixtures.com
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#23 North Ca
+ rolina at Stanford\nStatus: Scheduled\nVenue: Maples Pavilion\, Stanford\n
+ \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401918345
+ /north-carolina-stanford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Stanford @ #7 Louisville
+DTSTART:20270129T000000Z
+DTEND:20270129T020000Z
+DTSTAMP:20261115T152640Z
+UID:espn-ncaa-wbb-401918355@herfixtures.com
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nStanford at 
+ #7 Louisville\nStatus: Scheduled\nVenue: KFC Yum! Center\, Louisville\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401918355
+ /stanford-louisville
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Stanford @ #13 Notre Dame
+DTSTART:20270131T180000Z
+DTEND:20270131T200000Z
+DTSTAMP:20261115T152640Z
+UID:espn-ncaa-wbb-401918359@herfixtures.com
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nStanford at 
+ #13 Notre Dame\nStatus: Scheduled\nVenue: Purcell Pavilion\, South Bend\n\
+ nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401918359
+ /stanford-notre-dame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Georgia Tech @ Stanford
+DTSTART:20270205T030000Z
+DTEND:20270205T050000Z
+DTSTAMP:20261115T152640Z
+UID:espn-ncaa-wbb-401918364@herfixtures.com
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nGeorgia Tech
+  at Stanford\nStatus: Scheduled\nVenue: Maples Pavilion\, Stanford\n\nFixt
+ ures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401918364
+ /georgia-tech-stanford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Florida State @ Stanford
+DTSTART:20270207T210000Z
+DTEND:20270207T230000Z
+DTSTAMP:20261115T152640Z
+UID:espn-ncaa-wbb-401918370@herfixtures.com
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nFlorida Stat
+ e at Stanford\nStatus: Scheduled\nVenue: Maples Pavilion\, Stanford\n\nFix
+ tures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401918370
+ /florida-st-stanford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 California @ Stanford
+DTSTART:20270212T030000Z
+DTEND:20270212T050000Z
+DTSTAMP:20261115T152640Z
+UID:espn-ncaa-wbb-401918378@herfixtures.com
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nCalifornia a
+ t Stanford\nStatus: Scheduled\nVenue: Maples Pavilion\, Stanford\n\nFixtur
+ es by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401918378
+ /california-stanford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Stanford @ Virginia Tech
+DTSTART:20270218T230000Z
+DTEND:20270219T010000Z
+DTSTAMP:20261115T152640Z
+UID:espn-ncaa-wbb-401918396@herfixtures.com
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nStanford at 
+ Virginia Tech\nStatus: Scheduled\nVenue: Cassell Coliseum\, Blacksburg\n\n
+ Fixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401918396
+ /stanford-virginia-tech
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Stanford @ Virginia
+DTSTART:20270221T190000Z
+DTEND:20270221T210000Z
+DTSTAMP:20261115T152640Z
+UID:espn-ncaa-wbb-401918402@herfixtures.com
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nStanford at 
+ Virginia\nStatus: Scheduled\nVenue: John Paul Jones Arena\, Charlottesvill
+ e\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401918402
+ /stanford-virginia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Pittsburgh @ Stanford
+DTSTART:20270226T030000Z
+DTEND:20270226T050000Z
+DTSTAMP:20261115T152640Z
+UID:espn-ncaa-wbb-401918408@herfixtures.com
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nPittsburgh a
+ t Stanford\nStatus: Scheduled\nVenue: Maples Pavilion\, Stanford\n\nFixtur
+ es by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401918408
+ /pitt-stanford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Boston College @ Stanford
+DTSTART:20270228T220000Z
+DTEND:20270301T000000Z
+DTSTAMP:20261115T152640Z
+UID:espn-ncaa-wbb-401918072@herfixtures.com
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nBoston Colle
+ ge at Stanford\nStatus: Scheduled\nVenue: Maples Pavilion\, Stanford\n\nFi
+ xtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401918072
+ /boston-college-stanford
+END:VEVENT
+END:VCALENDAR

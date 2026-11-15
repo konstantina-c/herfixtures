@@ -88,6 +88,7 @@ New ESPN leagues are **config, not code**: add an entry to `feeds/espn_leagues.j
 - **Time TBC:** ESPN's `timeValid=false` kick-offs (placeholder 18:00/20:00 UTC) become all-day "(time TBC)" events. They turn timed automatically when confirmed (same UID).
 - **Polite fetching:** leagues run sequentially with 2 parallel requests. Games older than 7 days are kept from the existing file, not re-fetched. `HERFIXTURES_FULL_REFETCH=1` rebuilds everything.
 - Placeholder games dropped, shrink guard on every write, partial fetches refused.
+- Optional per-league settings: `rank_filter` (only games involving a team ranked 1..N), `show_rank` ("#5 Duke"), `team_name: "location"`, `team_source: "schedule"` (team feeds from each team's ESPN schedule; needed when the league feed is a subset, e.g. NCAA Top 25). All off by default.
 - **Formatting changes to the engine** (summary, description, names) only reach games older than 7 days after a full rebuild: run `HERFIXTURES_FULL_REFETCH=1 python3 fetch_espn_feeds.py <league>` and commit the result.
 - Team logos for the homepage picker: ESPN `teamlogos/soccer/500/<id>.png`. Some women's teams have none; use the club's men's-team crest id (e.g. Lens 175) and fall back to an emoji tile only if the club has none on ESPN.
 - Migrated so far: Liga F (Nov 15, output proven identical apart from time-TBC). UCL, NWSL and WNBA still use their own scripts; migrate them when next touched.

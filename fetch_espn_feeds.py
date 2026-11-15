@@ -30,9 +30,11 @@ import argparse
 import json
 import os
 import sys
+import time
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
+import requests
 from icalendar import Calendar, Event
 
 from espn_common import fetch_days, is_placeholder, safe_write_ics
@@ -61,9 +63,16 @@ def parse(event: dict, league: dict) -> dict | None:
         away = next((c for c in comp["competitors"] if c["homeAway"] == "away"), None)
         if not home or not away:
             return None
-        # ESPN sometimes pads names ("Western Sydney "), so trim and collapse spaces
-        h_name = " ".join((home["team"].get("displayName") or home["team"].get("name", "")).split())
-        a_name = " ".join((away["team"].get("displayName") or away["team"].get("name", "")).split())
+        # ESPN sometimes pads names ("Western Sydney "), so trim and collapse spaces.
+        # Optional per league: team_name "location" ("Duke" instead of "Duke Blue Devils"),
+        # show_rank (prefix "#5" for teams ranked 1-25 at game time).
+        def name_of(c: dict) -> str:
+            t = c["team"]
+            raw = (t.get("location") if league.get("team_name") == "location" else None) or t.get("displayName") or t.get("name", "")
+            n = " ".join(raw.split())
+            rank = (c.get("curatedRank") or {}).get("current", 99)
+            return f"#{rank} {n}" if league.get("show_rank") and rank <= 25 else n
+        h_name, a_name = name_of(home), name_of(away)
         start = datetime.fromisoformat(event["date"].replace("Z", "+00:00"))
         status = comp["status"]["type"]
         done = status.get("state") == "post"
@@ -164,6 +173,20 @@ def build_calendar(prodid: str, name: str, desc: str, kept: list, games: list[di
     return cal
 
 
+def team_schedule(league: dict, team_id: str) -> list | None:
+    """All games of one team from ESPN's team schedule endpoint (past + scheduled)."""
+    url = f"{ESPN}/{league['espn']}/teams/{team_id}/schedule"
+    for attempt in range(3):
+        try:
+            r = requests.get(url, timeout=20)
+            if r.status_code == 200:
+                return r.json().get("events", [])
+        except requests.exceptions.RequestException:
+            pass
+        time.sleep(1.5 * (attempt + 1))
+    return None
+
+
 # ── One league ────────────────────────────────────────────────────────────────
 
 def run_league(lid: str, league: dict, out_dir: Path, today: date) -> bool:
@@ -184,7 +207,12 @@ def run_league(lid: str, league: dict, out_dir: Path, today: date) -> bool:
     except RuntimeError as e:
         print(f"  ⚠️  {e} — keeping existing {league['name']} feeds")
         return False
-    games = [g for g in (parse(e, league) for e in raw.values() if not is_placeholder(e)) if g]
+    events = [e for e in raw.values() if not is_placeholder(e)]
+    if league.get("rank_filter"):  # e.g. NCAA: only games involving a team ranked 1..N at game time
+        limit = league["rank_filter"]
+        events = [e for e in events if any((c.get("curatedRank") or {}).get("current", 99) <= limit
+                                           for c in e["competitions"][0]["competitors"])]
+    games = [g for g in (parse(e, league) for e in events) if g]
     tbc = sum(g["time_tbc"] for g in games)
     now = datetime.now(timezone.utc)
 
@@ -199,7 +227,15 @@ def run_league(lid: str, league: dict, out_dir: Path, today: date) -> bool:
 
     for team_id, (team, slug) in league.get("teams", {}).items():
         path = out_dir / f"{league['team_prefix']}{slug}.ics"
-        t_games = [g for g in games if team_id in g["team_ids"]]
+        if league.get("team_source") == "schedule":
+            # Team feed from the team's own schedule (all its games, ranked opponent or not).
+            t_raw = team_schedule(league, team_id)
+            if t_raw is None:
+                print(f"  ⚠️  {team}: schedule fetch failed — keeping existing {path.name}")
+                continue
+            t_games = [g for g in (parse(e, league) for e in t_raw if not is_placeholder(e)) if g]
+        else:
+            t_games = [g for g in games if team_id in g["team_ids"]]
         t_kept = [] if full else kept_past_events(path, cutoff)
         fmt = lambda s: s.format(team=team)
         t_cal = build_calendar(fmt(league["team_prodid"]), fmt(league["team_cal_name"]), fmt(league["team_cal_desc"]), t_kept, t_games, now)
