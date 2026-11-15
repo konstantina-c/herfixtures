@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-15T13:48:24+00:00",
+  "generated": "2026-11-15T14:12:40+00:00",
   "for_date": "2026-11-15",
   "feeds": {
     "euroleague-women": {
@@ -33,6 +33,20 @@
     "wsl": {
       "next_game": "2026-11-15",
       "upcoming_games": 115,
+      "text": "Season in progress",
+      "style": "live",
+      "rule": "in-season"
+    },
+    "premiere-ligue": {
+      "next_game": "2026-11-20",
+      "upcoming_games": 79,
+      "text": "Season in progress",
+      "style": "live",
+      "rule": "in-season"
+    },
+    "a-league-women": {
+      "next_game": "2026-11-15",
+      "upcoming_games": 88,
       "text": "Season in progress",
       "style": "live",
       "rule": "in-season"
