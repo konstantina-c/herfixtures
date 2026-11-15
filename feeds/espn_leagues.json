@@ -4,7 +4,10 @@
     "liga-f": {
       "name": "Liga F",
       "espn": "soccer/esp.w.1",
-      "season": {"start": "2026-08-01", "end": "2027-06-30"},
+      "season": {
+        "start": "2026-08-01",
+        "end": "2027-06-30"
+      },
       "emoji": "⚽",
       "order": "away_at_home",
       "match_minutes": 120,
@@ -19,22 +22,149 @@
       "team_cal_name": "{team} — Liga F 2026/27 — HerFixtures",
       "team_cal_desc": "{team} Liga F 2026/27 fixtures. Updated automatically by HerFixtures.com",
       "teams": {
-        "21378":  ["Alavés",          "alaves"],
-        "21372":  ["Athletic Club",   "athletic_club"],
-        "20093":  ["Atlético Madrid", "atletico_madrid"],
-        "20091":  ["Barcelona",       "barcelona"],
-        "131393": ["CD Tenerife",     "tenerife"],
-        "21145":  ["Deportivo",       "deportivo"],
-        "21175":  ["Dux Logroño",     "dux_logrono"],
-        "21376":  ["Eibar",           "eibar"],
-        "21154":  ["Espanyol",        "espanyol"],
-        "21149":  ["FC Badalona",     "badalona"],
-        "21140":  ["Granada",         "granada"],
-        "21425":  ["Madrid CFF",      "madrid_cff"],
-        "21128":  ["Real Madrid",     "real_madrid"],
-        "21428":  ["Real Sociedad",   "real_sociedad"],
-        "21424":  ["Sevilla",         "sevilla"],
-        "21374":  ["Valencia",        "valencia"]
+        "21378": [
+          "Alavés",
+          "alaves"
+        ],
+        "21372": [
+          "Athletic Club",
+          "athletic_club"
+        ],
+        "20093": [
+          "Atlético Madrid",
+          "atletico_madrid"
+        ],
+        "20091": [
+          "Barcelona",
+          "barcelona"
+        ],
+        "131393": [
+          "CD Tenerife",
+          "tenerife"
+        ],
+        "21145": [
+          "Deportivo",
+          "deportivo"
+        ],
+        "21175": [
+          "Dux Logroño",
+          "dux_logrono"
+        ],
+        "21376": [
+          "Eibar",
+          "eibar"
+        ],
+        "21154": [
+          "Espanyol",
+          "espanyol"
+        ],
+        "21149": [
+          "FC Badalona",
+          "badalona"
+        ],
+        "21140": [
+          "Granada",
+          "granada"
+        ],
+        "21425": [
+          "Madrid CFF",
+          "madrid_cff"
+        ],
+        "21128": [
+          "Real Madrid",
+          "real_madrid"
+        ],
+        "21428": [
+          "Real Sociedad",
+          "real_sociedad"
+        ],
+        "21424": [
+          "Sevilla",
+          "sevilla"
+        ],
+        "21374": [
+          "Valencia",
+          "valencia"
+        ]
+      }
+    },
+    "wsl": {
+      "name": "WSL",
+      "espn": "soccer/eng.w.1",
+      "season": {
+        "start": "2026-08-15",
+        "end": "2027-06-10"
+      },
+      "emoji": "⚽",
+      "order": "home_vs_away",
+      "match_minutes": 120,
+      "output": "wsl.ics",
+      "uid_prefix": "espn-wsl",
+      "title": "Women's Super League 2026/27",
+      "prodid": "-//HerFixtures//WSL 2026-27//EN",
+      "cal_name": "Women's Super League 2026/27 — HerFixtures",
+      "cal_desc": "Women's Super League (WSL) 2026/27 fixtures. Updated automatically by HerFixtures.com",
+      "team_prefix": "wsl_",
+      "team_prodid": "-//HerFixtures//WSL 2026-27 {team}//EN",
+      "team_cal_name": "{team} — WSL 2026/27 — HerFixtures",
+      "team_cal_desc": "{team} Women's Super League 2026/27 fixtures. Updated automatically by HerFixtures.com",
+      "teams": {
+        "19973": [
+          "Arsenal",
+          "arsenal"
+        ],
+        "20707": [
+          "Aston Villa",
+          "aston_villa"
+        ],
+        "19968": [
+          "Birmingham City",
+          "birmingham_city"
+        ],
+        "19976": [
+          "Brighton",
+          "brighton"
+        ],
+        "21035": [
+          "Charlton Athletic",
+          "charlton"
+        ],
+        "19970": [
+          "Chelsea",
+          "chelsea"
+        ],
+        "21037": [
+          "Crystal Palace",
+          "crystal_palace"
+        ],
+        "19972": [
+          "Everton",
+          "everton"
+        ],
+        "19971": [
+          "Liverpool",
+          "liverpool"
+        ],
+        "21053": [
+          "London City Lionesses",
+          "london_city_lionesses"
+        ],
+        "19257": [
+          "Manchester City",
+          "man_city"
+        ],
+        "20061": [
+          "Manchester United",
+          "man_united"
+        ],
+        "20062": [
+          "Tottenham Hotspur",
+          "tottenham"
+        ],
+        "19975": [
+          "West Ham United",
+          "west_ham"
+        ]
       }
     }
   }

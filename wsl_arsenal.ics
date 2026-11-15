@@ -1,0 +1,319 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//WSL 2026-27 Arsenal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Arsenal Women's Super League 2026/27 fixtures. Updated automa
+ tically by HerFixtures.com
+X-WR-CALNAME:Arsenal — WSL 2026/27 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Brighton & Hove Albion vs Arsenal (0–1)
+DTSTART:20260906T110000Z
+DTEND:20260906T130000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902926@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nBrighton & Hove Albion vs Arsena
+ l\nStatus: Full Time\nVenue: Broadfield Stadium\, Crawley\nTV: CBSSN\, Par
+ amount+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902926/arsenal-brighton-
+ hove-albion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Arsenal vs Crystal Palace (0–0)
+DTSTART:20260913T134500Z
+DTEND:20260913T154500Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902916@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nArsenal vs Crystal Palace\nStatu
+ s: Full Time\nVenue: Emirates Stadium\, London\nTV: Paramount+\n\nFixtures
+  by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902916/crystal-palace-ar
+ senal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Arsenal vs Manchester United (1–1)
+DTSTART:20260919T163000Z
+DTEND:20260919T183000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902911@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nArsenal vs Manchester United\nSt
+ atus: Full Time\nVenue: Emirates Stadium\, London\nTV: Paramount+\n\nFixtu
+ res by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902911/manchester-united
+ -arsenal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Chelsea vs Arsenal (1–0)
+DTSTART:20260927T153000Z
+DTEND:20260927T173000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902901@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nChelsea vs Arsenal\nStatus: Full
+  Time\nVenue: Stamford Bridge\, London\nTV: Paramount+\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902901/arsenal-chelsea
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Manchester City vs Arsenal (4–2)
+DTSTART:20261004T153000Z
+DTEND:20261004T173000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902894@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nManchester City vs Arsenal\nStat
+ us: Full Time\nVenue: Etihad Stadium\, Manchester\nTV: Paramount+\n\nFixtu
+ res by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902894/arsenal-mancheste
+ r-city
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Arsenal vs Birmingham City (1–1)
+DTSTART:20261017T114500Z
+DTEND:20261017T134500Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902892@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nArsenal vs Birmingham City\nStat
+ us: Full Time\nVenue: Emirates Stadium\, London\nTV: Paramount+\n\nFixture
+ s by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902892/birmingham-city-a
+ rsenal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Tottenham Hotspur vs Arsenal (1–2)
+DTSTART:20261024T114500Z
+DTEND:20261024T134500Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902880@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nTottenham Hotspur vs Arsenal\nSt
+ atus: Full Time\nVenue: Tottenham Hotspur Stadium\, London\nTV: Paramount+
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902880/arsenal-tottenham
+ -hotspur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Arsenal vs Aston Villa (1–1)
+DTSTART:20261101T120000Z
+DTEND:20261101T140000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902878@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nArsenal vs Aston Villa\nStatus: 
+ Full Time\nVenue: Emirates Stadium\, London\nTV: Paramount+\n\nFixtures by
+  HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902878/aston-villa-arsen
+ al
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Liverpool vs Arsenal (1–2)
+DTSTART:20261108T120000Z
+DTEND:20261108T140000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902871@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nLiverpool vs Arsenal\nStatus: Fu
+ ll Time\nVenue: Anfield\, Liverpool\nTV: CBSSN\, Paramount+\n\nFixtures by
+  HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902871/arsenal-liverpool
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Arsenal vs London City Lionesses
+DTSTART:20261115T163000Z
+DTEND:20261115T183000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902864@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nArsenal vs London City Lionesses
+ \nStatus: Scheduled\nVenue: Emirates Stadium\, London\nTV: Paramount+\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902864/london-city-lione
+ sses-arsenal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Arsenal vs West Ham United
+DTSTART:20261122T143000Z
+DTEND:20261122T163000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902858@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nArsenal vs West Ham United\nStat
+ us: Scheduled\nVenue: Emirates Stadium\, London\nTV: Paramount+\n\nFixture
+ s by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902858/west-ham-united-a
+ rsenal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Everton vs Arsenal
+DTSTART:20261211T190000Z
+DTEND:20261211T210000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902851@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nEverton vs Arsenal\nStatus: Sche
+ duled\nVenue: Goodison Park\, Liverpool\nTV: Paramount+\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902851/arsenal-everton
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Charlton Athletic vs Arsenal
+DTSTART:20261220T120000Z
+DTEND:20261220T140000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902843@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nCharlton Athletic vs Arsenal\nSt
+ atus: Scheduled\nVenue: The Valley\, London\nTV: Paramount+\n\nFixtures by
+  HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902843/arsenal-charlton-
+ athletic
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Arsenal vs Brighton & Hove Albion
+DTSTART:20270110T123000Z
+DTEND:20270110T143000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902837@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nArsenal vs Brighton & Hove Albio
+ n\nStatus: Scheduled\nVenue: Emirates Stadium\, London\nTV: Paramount+\n\n
+ Fixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902837/brighton-hove-alb
+ ion-arsenal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Arsenal vs Liverpool
+DTSTART:20270121T190000Z
+DTEND:20270121T210000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902824@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nArsenal vs Liverpool\nStatus: Sc
+ heduled\nVenue: Emirates Stadium\, London\nTV: Paramount+\n\nFixtures by H
+ erFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902824/liverpool-arsenal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ London City Lionesses vs Arsenal
+DTSTART:20270124T140000Z
+DTEND:20270124T160000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902819@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nLondon City Lionesses vs Arsenal
+ \nStatus: Scheduled\nVenue: RELOC8 EM Community Stadium\, Bromley\nTV: Par
+ amount+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902819/arsenal-london-ci
+ ty-lionesses
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Arsenal vs Manchester City
+DTSTART:20270130T173000Z
+DTEND:20270130T193000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902816@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nArsenal vs Manchester City\nStat
+ us: Scheduled\nVenue: Emirates Stadium\, London\nTV: Paramount+\n\nFixture
+ s by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902816/manchester-city-a
+ rsenal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Birmingham City vs Arsenal
+DTSTART:20270207T140000Z
+DTEND:20270207T160000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902808@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nBirmingham City vs Arsenal\nStat
+ us: Scheduled\nVenue: St. Andrew's Stadium\, Birmingham\nTV: Paramount+\n\
+ nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902808/arsenal-birmingha
+ m-city
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Crystal Palace vs Arsenal
+DTSTART:20270214T140000Z
+DTEND:20270214T160000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902800@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nCrystal Palace vs Arsenal\nStatu
+ s: Scheduled\nVenue: VBS Community Stadium\, Sutton Coldfield\nTV: Paramou
+ nt+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902800/arsenal-crystal-p
+ alace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Arsenal vs Tottenham Hotspur
+DTSTART:20270313T173000Z
+DTEND:20270313T193000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902794@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nArsenal vs Tottenham Hotspur\nSt
+ atus: Scheduled\nVenue: Emirates Stadium\, London\nTV: Paramount+\n\nFixtu
+ res by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902794/tottenham-hotspur
+ -arsenal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Aston Villa vs Arsenal
+DTSTART:20270317T193000Z
+DTEND:20270317T213000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902785@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nAston Villa vs Arsenal\nStatus: 
+ Scheduled\nVenue: Villa Park\, Birmingham\nTV: Paramount+\n\nFixtures by H
+ erFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902785/arsenal-aston-vil
+ la
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Arsenal vs Chelsea
+DTSTART:20270328T130000Z
+DTEND:20270328T150000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902779@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nArsenal vs Chelsea\nStatus: Sche
+ duled\nVenue: Emirates Stadium\, London\nTV: Paramount+\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902779/chelsea-arsenal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Arsenal vs Everton
+DTSTART:20270404T130000Z
+DTEND:20270404T150000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902774@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nArsenal vs Everton\nStatus: Sche
+ duled\nVenue: Emirates Stadium\, London\nTV: Paramount+\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902774/everton-arsenal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ West Ham United vs Arsenal
+DTSTART:20270502T130000Z
+DTEND:20270502T150000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902762@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nWest Ham United vs Arsenal\nStat
+ us: Scheduled\nVenue: Victoria Road\, Dagenham\nTV: Paramount+\n\nFixtures
+  by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902762/arsenal-west-ham-
+ united
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Manchester United vs Arsenal
+DTSTART:20270509T120000Z
+DTEND:20270509T140000Z
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902760@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nManchester United vs Arsenal\nSt
+ atus: Scheduled\nVenue: Old Trafford\, Manchester\nTV: Paramount+\n\nFixtu
+ res by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902760/arsenal-mancheste
+ r-united
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Arsenal vs Charlton Athletic (time TBC)
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+DTSTAMP:20261115T121118Z
+UID:espn-wsl-401902753@herfixtures.com
+DESCRIPTION:Women's Super League 2026/27\nArsenal vs Charlton Athletic\nSt
+ atus: Scheduled\nKick-off time not confirmed yet. Your calendar updates au
+ tomatically once it is.\nVenue: Emirates Stadium\, London\nTV: Paramount+\
+ n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401902753/charlton-athletic
+ -arsenal
+END:VEVENT
+END:VCALENDAR
