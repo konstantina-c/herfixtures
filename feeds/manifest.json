@@ -180,6 +180,29 @@
       ]
     },
     {
+      "id": "ncaa-wbb",
+      "name": "NCAA Women's Basketball (Top 25)",
+      "ics": "ncaa_wbb.ics",
+      "source": "auto",
+      "update": "fetch_espn_feeds.py (shared ESPN engine, config in feeds/espn_leagues.json) in refresh.yml",
+      "season": {
+        "start": "2026-11-02",
+        "end": "2027-04-04"
+      },
+      "breaks": [],
+      "highlights": [
+        {
+          "from": "2027-03-18",
+          "until": "2027-04-04",
+          "text": "March Madness",
+          "style": "live"
+        }
+      ],
+      "grace_days": 3,
+      "min_events": 150,
+      "kind": "league"
+    },
+    {
       "id": "wnba",
       "name": "WNBA",
       "ics": "wnba.ics",
