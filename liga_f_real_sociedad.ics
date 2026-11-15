@@ -133,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Real Sociedad
 DTSTART:20261115T110000Z
 DTEND:20261115T130000Z
-DTSTAMP:20261115T092440Z
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882455@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Real Sociedad\nStatus
  : Scheduled\nVenue: Reale Arena\, San Sebastian\n\nFixtures by HerFixtures
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Real Sociedad
 DTSTART:20261122T110000Z
 DTEND:20261122T130000Z
-DTSTAMP:20261115T092440Z
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882445@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Real Sociedad\nStatus: Sche
  duled\nVenue: Instalaciones de Zubieta\, San Sebastian\n\nFixtures by HerF
@@ -157,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Sociedad @ Deportivo
 DTSTART:20261209T170000Z
 DTEND:20261209T190000Z
-DTSTAMP:20261115T092440Z
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882442@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Deportivo\nStatus: Sc
  heduled\nVenue: Riazor\, La Coruña\n\nFixtures by HerFixtures.com — Wom
@@ -166,206 +166,225 @@ URL:https://www.espn.com/soccer/match/_/gameId/401882442/real-sociedad-dep
  ortivo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Atlético Madrid @ Real Sociedad
-DTSTART:20261213T200000Z
-DTEND:20261213T220000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Atlético Madrid @ Real Sociedad (time TBC)
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882430@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Real Sociedad\nSta
- tus: Scheduled\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFix
- tures by HerFixtures.com — Women's Sports on Your Calendar
+ tus: Scheduled\nKick-off time not confirmed yet. Your calendar updates aut
+ omatically once it is.\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastia
+ n\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882430/atletico-madrid-r
  eal-sociedad
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Real Sociedad @ Madrid CFF
-DTSTART:20270110T200000Z
-DTEND:20270110T220000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Real Sociedad @ Madrid CFF (time TBC)
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882424@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Madrid CFF\nStatus: S
- cheduled\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerF
- ixtures.com — Women's Sports on Your Calendar
+ cheduled\nKick-off time not confirmed yet. Your calendar updates automatic
+ ally once it is.\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures
+  by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882424/real-sociedad-mad
  rid-cff
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Granada @ Real Sociedad
-DTSTART:20270117T200000Z
-DTEND:20270117T220000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Granada @ Real Sociedad (time TBC)
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882414@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at Real Sociedad\nStatus: Sche
- duled\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFixtures by 
- HerFixtures.com — Women's Sports on Your Calendar
+ duled\nKick-off time not confirmed yet. Your calendar updates automaticall
+ y once it is.\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFixt
+ ures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882414/granada-real-soci
  edad
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Real Sociedad @ Real Madrid
-DTSTART:20270124T200000Z
-DTEND:20270124T220000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Real Sociedad @ Real Madrid (time TBC)
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882406@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Real Madrid\nStatus: 
- Scheduled\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerF
- ixtures.com — Women's Sports on Your Calendar
+ Scheduled\nKick-off time not confirmed yet. Your calendar updates automati
+ cally once it is.\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures
+  by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882406/real-sociedad-rea
  l-madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Eibar @ Real Sociedad
-DTSTART:20270131T200000Z
-DTEND:20270131T220000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Eibar @ Real Sociedad (time TBC)
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882399@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Real Sociedad\nStatus: Schedu
- led\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFixtures by He
- rFixtures.com — Women's Sports on Your Calendar
+ led\nKick-off time not confirmed yet. Your calendar updates automatically 
+ once it is.\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFixtur
+ es by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882399/eibar-real-socied
  ad
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Real Sociedad @ Espanyol
-DTSTART:20270207T200000Z
-DTEND:20270207T220000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Real Sociedad @ Espanyol (time TBC)
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882394@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Espanyol\nStatus: Sch
- eduled\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by Her
- Fixtures.com — Women's Sports on Your Calendar
+ eduled\nKick-off time not confirmed yet. Your calendar updates automatical
+ ly once it is.\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixture
+ s by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882394/real-sociedad-esp
  anyol
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Real Sociedad @ Athletic Club
-DTSTART:20270214T200000Z
-DTEND:20270214T220000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Real Sociedad @ Athletic Club (time TBC)
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882387@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Athletic Club\nStatus
- : Scheduled\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures b
- y HerFixtures.com — Women's Sports on Your Calendar
+ : Scheduled\nKick-off time not confirmed yet. Your calendar updates automa
+ tically once it is.\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFi
+ xtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882387/real-sociedad-ath
  letic-club
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Deportivo @ Real Sociedad
-DTSTART:20270221T200000Z
-DTEND:20270221T220000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Deportivo @ Real Sociedad (time TBC)
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882374@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Real Sociedad\nStatus: Sc
- heduled\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFixtures b
- y HerFixtures.com — Women's Sports on Your Calendar
+ heduled\nKick-off time not confirmed yet. Your calendar updates automatica
+ lly once it is.\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFi
+ xtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882374/deportivo-real-so
  ciedad
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Real Sociedad @ Atlético Madrid
-DTSTART:20270314T180000Z
-DTEND:20270314T200000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Real Sociedad @ Atlético Madrid (time TBC)
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882371@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Atlético Madrid\nSta
- tus: Scheduled\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de He
- nares\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+ tus: Scheduled\nKick-off time not confirmed yet. Your calendar updates aut
+ omatically once it is.\nVenue: Centro Deportivo Alcalá de Henares\, Alcal
+ á de Henares\n\nFixtures by HerFixtures.com — Women's Sports on Your Ca
+ lendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882371/real-sociedad-atl
  etico-madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Madrid CFF @ Real Sociedad
-DTSTART:20270321T180000Z
-DTEND:20270321T200000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Madrid CFF @ Real Sociedad (time TBC)
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882358@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Real Sociedad\nStatus: S
- cheduled\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFixtures 
- by HerFixtures.com — Women's Sports on Your Calendar
+ cheduled\nKick-off time not confirmed yet. Your calendar updates automatic
+ ally once it is.\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882358/madrid-cff-real-s
  ociedad
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Real Sociedad @ Dux Logroño
-DTSTART:20270328T180000Z
-DTEND:20270328T200000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Real Sociedad @ Dux Logroño (time TBC)
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882354@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Dux Logroño\nStatus:
-  Scheduled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com 
- — Women's Sports on Your Calendar
+  Scheduled\nKick-off time not confirmed yet. Your calendar updates automat
+ ically once it is.\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882354/real-sociedad-dux
  -logrono
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Real Sociedad @ Tenerife
-DTSTART:20270404T180000Z
-DTEND:20270404T200000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Real Sociedad @ Tenerife (time TBC)
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882347@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Tenerife\nStatus: Sch
- eduled\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerif
- e\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+ eduled\nKick-off time not confirmed yet. Your calendar updates automatical
+ ly once it is.\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de
+  Tenerife\n\nFixtures by HerFixtures.com — Women's Sports on Your Calend
+ ar
 URL:https://www.espn.com/soccer/match/_/gameId/401882347/real-sociedad-ten
  erife
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Alavés @ Real Sociedad
-DTSTART:20270411T180000Z
-DTEND:20270411T200000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Alavés @ Real Sociedad (time TBC)
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882335@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Real Sociedad\nStatus: Sche
- duled\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFixtures by 
- HerFixtures.com — Women's Sports on Your Calendar
+ duled\nKick-off time not confirmed yet. Your calendar updates automaticall
+ y once it is.\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFixt
+ ures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882335/alaves-real-socie
  dad
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ FC Badalona @ Real Sociedad
-DTSTART:20270502T180000Z
-DTEND:20270502T200000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ FC Badalona @ Real Sociedad (time TBC)
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882325@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Real Sociedad\nStatus: 
- Scheduled\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFixtures
-  by HerFixtures.com — Women's Sports on Your Calendar
+ Scheduled\nKick-off time not confirmed yet. Your calendar updates automati
+ cally once it is.\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\n
+ Fixtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882325/fc-badalona-real-
  sociedad
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Real Sociedad @ Barcelona
-DTSTART:20270509T180000Z
-DTEND:20270509T200000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Real Sociedad @ Barcelona (time TBC)
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882321@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Barcelona\nStatus: Sc
- heduled\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures
- .com — Women's Sports on Your Calendar
+ heduled\nKick-off time not confirmed yet. Your calendar updates automatica
+ lly once it is.\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882321/real-sociedad-bar
  celona
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Valencia @ Real Sociedad
-DTSTART:20270519T180000Z
-DTEND:20270519T200000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Valencia @ Real Sociedad (time TBC)
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882309@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at Real Sociedad\nStatus: Sch
- eduled\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFixtures by
-  HerFixtures.com — Women's Sports on Your Calendar
+ eduled\nKick-off time not confirmed yet. Your calendar updates automatical
+ ly once it is.\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFix
+ tures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882309/valencia-real-soc
  iedad
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Real Sociedad @ Sevilla
-DTSTART:20270523T180000Z
-DTEND:20270523T200000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Real Sociedad @ Sevilla (time TBC)
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882302@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Sevilla\nStatus: Sche
- duled\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.co
- m — Women's Sports on Your Calendar
+ duled\nKick-off time not confirmed yet. Your calendar updates automaticall
+ y once it is.\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882302/real-sociedad-sev
  illa
 END:VEVENT

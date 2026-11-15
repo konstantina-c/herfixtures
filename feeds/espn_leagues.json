@@ -1,0 +1,41 @@
+{
+  "_about": "One entry per ESPN-sourced competition, read by fetch_espn_feeds.py (the shared feed engine). Adding a league = adding an entry here (+ an entry in feeds/manifest.json for the health check and badge). Keep 'output', 'team_prefix', team slugs and 'uid_prefix' stable once live: they are subscribers' URLs and calendar event ids. 'order': 'away_at_home' (Away @ Home) or 'home_vs_away' (Home vs Away). Text fields may use {team}.",
+  "leagues": {
+    "liga-f": {
+      "name": "Liga F",
+      "espn": "soccer/esp.w.1",
+      "season": {"start": "2026-08-01", "end": "2027-06-30"},
+      "emoji": "⚽",
+      "order": "away_at_home",
+      "match_minutes": 120,
+      "output": "liga_f.ics",
+      "uid_prefix": "espn-liga-f",
+      "title": "Spanish Liga F 2026/27",
+      "prodid": "-//HerFixtures//Liga F 2026-27//EN",
+      "cal_name": "Spanish Liga F 2026/27 — HerFixtures",
+      "cal_desc": "Spanish Liga F 2026/27 fixtures. Updated automatically by HerFixtures.com",
+      "team_prefix": "liga_f_",
+      "team_prodid": "-//HerFixtures//Liga F 2026-27 {team}//EN",
+      "team_cal_name": "{team} — Liga F 2026/27 — HerFixtures",
+      "team_cal_desc": "{team} Liga F 2026/27 fixtures. Updated automatically by HerFixtures.com",
+      "teams": {
+        "21378":  ["Alavés",          "alaves"],
+        "21372":  ["Athletic Club",   "athletic_club"],
+        "20093":  ["Atlético Madrid", "atletico_madrid"],
+        "20091":  ["Barcelona",       "barcelona"],
+        "131393": ["CD Tenerife",     "tenerife"],
+        "21145":  ["Deportivo",       "deportivo"],
+        "21175":  ["Dux Logroño",     "dux_logrono"],
+        "21376":  ["Eibar",           "eibar"],
+        "21154":  ["Espanyol",        "espanyol"],
+        "21149":  ["FC Badalona",     "badalona"],
+        "21140":  ["Granada",         "granada"],
+        "21425":  ["Madrid CFF",      "madrid_cff"],
+        "21128":  ["Real Madrid",     "real_madrid"],
+        "21428":  ["Real Sociedad",   "real_sociedad"],
+        "21424":  ["Sevilla",         "sevilla"],
+        "21374":  ["Valencia",        "valencia"]
+      }
+    }
+  }
+}

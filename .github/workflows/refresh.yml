@@ -43,10 +43,8 @@ jobs:
         run: python fetch_nwsl_teams.py
       - name: Run UCL Women fetch script
         run: python fetch_ucl.py
-      - name: Run Liga F fetch script
-        run: python fetch_liga_f.py
-      - name: Run Liga F team feeds script
-        run: python fetch_liga_f_teams.py
+      - name: Run ESPN feed engine (leagues in feeds/espn_leagues.json)
+        run: python fetch_espn_feeds.py
       - name: Run Frauen-Bundesliga fetch script
         run: python fetch_frauen_bundesliga.py
       - name: Run Frauen-Bundesliga team feeds script

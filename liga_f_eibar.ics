@@ -82,9 +82,9 @@ DTSTART:20261018T140000Z
 DTEND:20261018T160000Z
 DTSTAMP:20261115T092440Z
 UID:espn-liga-f-401882488@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Eibar\nStatus: Full Time
- \nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sports 
- on Your Calendar
+DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Eibar\nStatus: Full Time\
+ nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sports o
+ n Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882488/deportivo-eibar
 END:VEVENT
 BEGIN:VEVENT
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ Alavés (1–2)
 DTSTART:20261114T170000Z
 DTEND:20261114T190000Z
-DTSTAMP:20261115T092440Z
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882460@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Alavés\nStatus: Full Time\nV
  enue: Mendizorrotza\, Vitoria-Gasteiz\n\nFixtures by HerFixtures.com — W
@@ -136,7 +136,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Atlético Madrid @ Eibar
 DTSTART:20261121T160000Z
 DTEND:20261121T180000Z
-DTSTAMP:20261115T092440Z
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882450@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Eibar\nStatus: Sch
  eduled\nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's S
@@ -148,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Eibar
 DTSTART:20261209T180000Z
 DTEND:20261209T200000Z
-DTSTAMP:20261115T092440Z
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882441@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Eibar\nStatus: Schedul
  ed\nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sport
@@ -156,193 +156,210 @@ DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Eibar\nStatus: Schedul
 URL:https://www.espn.com/soccer/match/_/gameId/401882441/dux-logrono-eibar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Eibar @ Tenerife
-DTSTART:20261213T200000Z
-DTEND:20261213T220000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Eibar @ Tenerife (time TBC)
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882435@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Tenerife\nStatus: Scheduled\n
- Venue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife\n\nFix
- tures by HerFixtures.com — Women's Sports on Your Calendar
+ Kick-off time not confirmed yet. Your calendar updates automatically once 
+ it is.\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerif
+ e\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882435/eibar-tenerife
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Barcelona @ Eibar
-DTSTART:20270110T200000Z
-DTEND:20270110T220000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Barcelona @ Eibar (time TBC)
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882426@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Eibar\nStatus: Scheduled
- \nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sports 
- on Your Calendar
+DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Eibar\nStatus: Scheduled\
+ nKick-off time not confirmed yet. Your calendar updates automatically once
+  it is.\nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's 
+ Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882426/barcelona-eibar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Eibar @ Deportivo
-DTSTART:20270117T200000Z
-DTEND:20270117T220000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Eibar @ Deportivo (time TBC)
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882418@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nEibar at Deportivo\nStatus: Scheduled
- \nVenue: Dépor Training Center Campo Arsenio Iglesias\, A Coruna\n\nFixtu
- res by HerFixtures.com — Women's Sports on Your Calendar
+DESCRIPTION:Spanish Liga F 2026/27\nEibar at Deportivo\nStatus: Scheduled\
+ nKick-off time not confirmed yet. Your calendar updates automatically once
+  it is.\nVenue: Dépor Training Center Campo Arsenio Iglesias\, A Coruna\n
+ \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882418/eibar-deportivo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Valencia @ Eibar
-DTSTART:20270124T200000Z
-DTEND:20270124T220000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Valencia @ Eibar (time TBC)
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882410@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at Eibar\nStatus: Scheduled\n
- Venue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sports on
-  Your Calendar
+ Kick-off time not confirmed yet. Your calendar updates automatically once 
+ it is.\nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's S
+ ports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882410/valencia-eibar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Eibar @ Real Sociedad
-DTSTART:20270131T200000Z
-DTEND:20270131T220000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Eibar @ Real Sociedad (time TBC)
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882399@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Real Sociedad\nStatus: Schedu
- led\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFixtures by He
- rFixtures.com — Women's Sports on Your Calendar
+ led\nKick-off time not confirmed yet. Your calendar updates automatically 
+ once it is.\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFixtur
+ es by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882399/eibar-real-socied
  ad
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Eibar @ Madrid CFF
-DTSTART:20270207T200000Z
-DTEND:20270207T220000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Eibar @ Madrid CFF (time TBC)
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882392@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Madrid CFF\nStatus: Scheduled
- \nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFixtures.
- com — Women's Sports on Your Calendar
+ \nKick-off time not confirmed yet. Your calendar updates automatically onc
+ e it is.\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882392/eibar-madrid-cff
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Granada @ Eibar
-DTSTART:20270214T200000Z
-DTEND:20270214T220000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Granada @ Eibar (time TBC)
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882383@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nGranada at Eibar\nStatus: Scheduled\nV
- enue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sports on 
- Your Calendar
+DESCRIPTION:Spanish Liga F 2026/27\nGranada at Eibar\nStatus: Scheduled\nK
+ ick-off time not confirmed yet. Your calendar updates automatically once i
+ t is.\nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sp
+ orts on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882383/granada-eibar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Eibar @ Dux Logroño
-DTSTART:20270221T200000Z
-DTEND:20270221T220000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Eibar @ Dux Logroño (time TBC)
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882379@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Dux Logroño\nStatus: Schedul
- ed\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — Women'
- s Sports on Your Calendar
+ ed\nKick-off time not confirmed yet. Your calendar updates automatically o
+ nce it is.\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882379/eibar-dux-logrono
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Real Madrid @ Eibar
-DTSTART:20270314T180000Z
-DTEND:20270314T200000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Real Madrid @ Eibar (time TBC)
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882370@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Eibar\nStatus: Schedule
- d\nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sports
-  on Your Calendar
+ d\nKick-off time not confirmed yet. Your calendar updates automatically on
+ ce it is.\nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women'
+ s Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882370/real-madrid-eibar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Eibar @ Espanyol
-DTSTART:20270321T180000Z
-DTEND:20270321T200000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Eibar @ Espanyol (time TBC)
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882360@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Espanyol\nStatus: Scheduled\n
- Venue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFixtures
- .com — Women's Sports on Your Calendar
+ Kick-off time not confirmed yet. Your calendar updates automatically once 
+ it is.\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882360/eibar-espanyol
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Alavés @ Eibar
-DTSTART:20270328T180000Z
-DTEND:20270328T200000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Alavés @ Eibar (time TBC)
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882353@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Eibar\nStatus: Scheduled\nV
- enue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sports on 
- Your Calendar
+DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Eibar\nStatus: Scheduled\nK
+ ick-off time not confirmed yet. Your calendar updates automatically once i
+ t is.\nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sp
+ orts on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882353/alaves-eibar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Eibar @ Barcelona
-DTSTART:20270404T180000Z
-DTEND:20270404T200000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Eibar @ Barcelona (time TBC)
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882344@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nEibar at Barcelona\nStatus: Scheduled
- \nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures.com 
- — Women's Sports on Your Calendar
+DESCRIPTION:Spanish Liga F 2026/27\nEibar at Barcelona\nStatus: Scheduled\
+ nKick-off time not confirmed yet. Your calendar updates automatically once
+  it is.\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882344/eibar-barcelona
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Eibar @ Atlético Madrid
-DTSTART:20270411T180000Z
-DTEND:20270411T200000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Eibar @ Atlético Madrid (time TBC)
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882339@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Atlético Madrid\nStatus: Sch
- eduled\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de Henares\n
- \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+ eduled\nKick-off time not confirmed yet. Your calendar updates automatical
+ ly once it is.\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de He
+ nares\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882339/eibar-atletico-ma
  drid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Tenerife @ Eibar
-DTSTART:20270502T180000Z
-DTEND:20270502T200000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Tenerife @ Eibar (time TBC)
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882329@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nTenerife at Eibar\nStatus: Scheduled\n
- Venue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sports on
-  Your Calendar
+ Kick-off time not confirmed yet. Your calendar updates automatically once 
+ it is.\nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's S
+ ports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882329/tenerife-eibar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Eibar @ Athletic Club
-DTSTART:20270509T180000Z
-DTEND:20270509T200000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Eibar @ Athletic Club (time TBC)
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882324@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Athletic Club\nStatus: Schedu
- led\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by HerFix
- tures.com — Women's Sports on Your Calendar
+ led\nKick-off time not confirmed yet. Your calendar updates automatically 
+ once it is.\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures b
+ y HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882324/eibar-athletic-cl
  ub
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Sevilla @ Eibar
-DTSTART:20270519T180000Z
-DTEND:20270519T200000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Sevilla @ Eibar (time TBC)
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882313@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Eibar\nStatus: Scheduled\nV
- enue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sports on 
- Your Calendar
+DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Eibar\nStatus: Scheduled\nK
+ ick-off time not confirmed yet. Your calendar updates automatically once i
+ t is.\nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sp
+ orts on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882313/sevilla-eibar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Eibar @ FC Badalona
-DTSTART:20270523T180000Z
-DTEND:20270523T200000Z
-DTSTAMP:20261115T092440Z
+SUMMARY:⚽ Eibar @ FC Badalona (time TBC)
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+DTSTAMP:20261115T094641Z
 UID:espn-liga-f-401882304@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at FC Badalona\nStatus: Schedule
- d\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixtures.co
- m — Women's Sports on Your Calendar
+ d\nKick-off time not confirmed yet. Your calendar updates automatically on
+ ce it is.\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882304/eibar-fc-badalona
 END:VEVENT
 END:VCALENDAR

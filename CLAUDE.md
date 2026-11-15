@@ -78,6 +78,14 @@ The feed scripts need no secrets. RapidAPI was dropped in Nov 2026 — never har
 8. Merge with `scripts/merge_pr.sh`, then verify **production**: fetch the live `.ics` from herfixtures.com, compare counts, and trigger `gh workflow run refresh.yml`. Confirm the run succeeds and the next bot commit keeps the counts (the shrink guard will warn if not).
 9. Log it in Notion "Session Log — Sam".
 
+### Adding a competition from ESPN (shared feed engine)
+
+New ESPN leagues are **config, not code**: add an entry to `feeds/espn_leagues.json`. Required fields: ESPN slug, season dates, calendar names, `order` (`away_at_home` / `home_vs_away`), team list with stable slugs. Then add it to `feeds/manifest.json` (health check + homepage badge). `fetch_espn_feeds.py` (one refresh step) builds the competition feed and every team feed. Test with `python3 fetch_espn_feeds.py --out-dir <scratch> <league-id>` before writing into the repo. Built in:
+- **Time TBC:** ESPN's `timeValid=false` kick-offs (placeholder 18:00/20:00 UTC) become all-day "(time TBC)" events. They turn timed automatically when confirmed (same UID).
+- **Polite fetching:** leagues run sequentially with 2 parallel requests. Games older than 7 days are kept from the existing file, not re-fetched. `HERFIXTURES_FULL_REFETCH=1` rebuilds everything.
+- Placeholder games dropped, shrink guard on every write, partial fetches refused.
+- Migrated so far: Liga F (Nov 15, output proven identical apart from time-TBC). UCL, NWSL and WNBA still use their own scripts; migrate them when next touched.
+
 ### ESPN API constraints (current)
 
 - **Since 2026-09-15 ESPN returns 400 for any multi-day `dates=A-B` range, in every sport.** Use `espn_common.fetch_days()` (one request per day, cached per run, refuses partial seasons). This bug silently emptied Liga F (240 → 1), froze WNBA, and stripped all FIBA scores until Nov 13.
