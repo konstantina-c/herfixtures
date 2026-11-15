@@ -1317,6 +1317,24 @@ body {
           </div>
         </div>
 
+        <!-- 2e. Liga MX Femenil (Mexico) — badge from feed_status.json (feed id "liga-mx-femenil") -->
+        <div class="feed-card" data-sport="football">
+          <div class="feed-header">
+            <div class="feed-icon">⚽</div>
+            <div class="feed-info">
+              <div class="feed-badge badge-live" data-feed="liga-mx-femenil">Season in progress</div>
+              <div class="feed-name">Liga MX Femenil</div>
+              <div class="feed-meta">Football · Mexico · Apertura 2026 / Clausura 2027</div>
+            </div>
+          </div>
+          <div class="feed-divider"></div>
+          <div class="feed-actions">
+            <button class="btn-cal btn-choose-team" onclick="openLigaMXFemenilModal()" aria-haspopup="dialog">
+              Add to Calendar
+            </button>
+          </div>
+        </div>
+
         <!-- 3. FIBA Women's Basketball World Cup 2026 — tournament complete (final 13 Sep 2026) -->
         <div class="feed-card" data-sport="basketball">
           <div class="feed-header">
@@ -1974,6 +1992,32 @@ const A_LEAGUE_WOMEN_CONFIG = {
   ],
 };
 
+const LIGA_MX_FEMENIL_CONFIG = {
+  leagueSlug:  'liga_mx_femenil',
+  gaLabel:     'Liga MX Femenil',
+  teams: [
+    { name: "All teams",               slug: "liga_mx_femenil",               emoji: "⚽" },
+    { name: "América",                 slug: "liga_mx_femenil_america",       logo: "https://a.espncdn.com/i/teamlogos/soccer/500/22415.png" },
+    { name: "Atlante",                 slug: "liga_mx_femenil_atlante",       logo: "https://a.espncdn.com/i/teamlogos/soccer/500/133989.png" },
+    { name: "Atlas",                   slug: "liga_mx_femenil_atlas",         logo: "https://a.espncdn.com/i/teamlogos/soccer/500/216.png" },
+    { name: "Atlético de San Luis",    slug: "liga_mx_femenil_san_luis",      logo: "https://a.espncdn.com/i/teamlogos/soccer/500/15720.png" },
+    { name: "Cruz Azul",               slug: "liga_mx_femenil_cruz_azul",     logo: "https://a.espncdn.com/i/teamlogos/soccer/500/133982.png" },
+    { name: "FC Juárez",               slug: "liga_mx_femenil_juarez",        logo: "https://a.espncdn.com/i/teamlogos/soccer/500/133984.png" },
+    { name: "Guadalajara",             slug: "liga_mx_femenil_guadalajara",   logo: "https://a.espncdn.com/i/teamlogos/soccer/500/22416.png" },
+    { name: "León",                    slug: "liga_mx_femenil_leon",          logo: "https://a.espncdn.com/i/teamlogos/soccer/500/133986.png" },
+    { name: "Monterrey",               slug: "liga_mx_femenil_monterrey",     logo: "https://a.espncdn.com/i/teamlogos/soccer/500/21537.png" },
+    { name: "Necaxa",                  slug: "liga_mx_femenil_necaxa",        logo: "https://a.espncdn.com/i/teamlogos/soccer/500/229.png" },
+    { name: "Pachuca",                 slug: "liga_mx_femenil_pachuca",       logo: "https://a.espncdn.com/i/teamlogos/soccer/500/22414.png" },
+    { name: "Puebla",                  slug: "liga_mx_femenil_puebla",        logo: "https://a.espncdn.com/i/teamlogos/soccer/500/133991.png" },
+    { name: "Pumas UNAM",              slug: "liga_mx_femenil_pumas",         logo: "https://a.espncdn.com/i/teamlogos/soccer/500/133981.png" },
+    { name: "Querétaro",               slug: "liga_mx_femenil_queretaro",     logo: "https://a.espncdn.com/i/teamlogos/soccer/500/133987.png" },
+    { name: "Santos",                  slug: "liga_mx_femenil_santos",        logo: "https://a.espncdn.com/i/teamlogos/soccer/500/133985.png" },
+    { name: "Tigres UANL",             slug: "liga_mx_femenil_tigres",        logo: "https://a.espncdn.com/i/teamlogos/soccer/500/22413.png" },
+    { name: "Tijuana",                 slug: "liga_mx_femenil_tijuana",       logo: "https://a.espncdn.com/i/teamlogos/soccer/500/22417.png" },
+    { name: "Toluca",                  slug: "liga_mx_femenil_toluca",        logo: "https://a.espncdn.com/i/teamlogos/soccer/500/133988.png" },
+  ],
+};
+
 const FRAUEN_BL_CONFIG = {
   leagueSlug:  'frauen_bundesliga',
   gaLabel:     'Frauen-Bundesliga',
@@ -2187,6 +2231,7 @@ function openLigaFModal()    { FeedModal.open(LIGA_F_CONFIG);    }
 function openWSLModal()      { FeedModal.open(WSL_CONFIG);       }
 function openPremiereLigueModal() { FeedModal.open(PREMIERE_LIGUE_CONFIG); }
 function openALeagueWomenModal()  { FeedModal.open(A_LEAGUE_WOMEN_CONFIG); }
+function openLigaMXFemenilModal() { FeedModal.open(LIGA_MX_FEMENIL_CONFIG); }
 function openFrauenBLModal() { FeedModal.open(FRAUEN_BL_CONFIG); }
 function openFIBAModal()     { FeedModal.open(FIBA_CONFIG);      }
 function openUCLModal()      { FeedModal.open(UCL_CONFIG);       }
