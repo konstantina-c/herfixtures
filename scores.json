@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T09:48:57Z",
+  "updated": "2026-11-15T12:16:07Z",
   "competitions": {
     "wnba": {
       "name": "WNBA",
@@ -42,7 +42,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15364.png"
           },
           "kickoff": "2026-11-15T20:00:00Z",
-          "kickoff_label": "in 10h"
+          "kickoff_label": "in 8h"
         }
       ]
     },
@@ -102,34 +102,35 @@
           "winner": "away"
         }
       ],
-      "livegame": [],
-      "pregame": [
+      "livegame": [
         {
           "league": "Liga F",
           "home": {
             "name": " Dux Logro\u00f1o",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21175.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21175.png",
+            "score": 2
           },
           "away": {
             "name": "Madrid CFF",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21425.png"
-          },
-          "kickoff": "2026-11-15T11:00:00Z",
-          "kickoff_label": "in 1h"
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21425.png",
+            "score": 1
+          }
         },
         {
           "league": "Liga F",
           "home": {
             "name": "Athletic ",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21372.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21372.png",
+            "score": 3
           },
           "away": {
             "name": "Real Sociedad",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21428.png"
-          },
-          "kickoff": "2026-11-15T11:00:00Z",
-          "kickoff_label": "in 1h"
-        },
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21428.png",
+            "score": 1
+          }
+        }
+      ],
+      "pregame": [
         {
           "league": "Liga F",
           "home": {
@@ -141,7 +142,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21424.png"
           },
           "kickoff": "2026-11-15T15:00:00Z",
-          "kickoff_label": "in 5h"
+          "kickoff_label": "in 3h"
         },
         {
           "league": "Liga F",
@@ -154,7 +155,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21145.png"
           },
           "kickoff": "2026-11-15T17:00:00Z",
-          "kickoff_label": "in 7h"
+          "kickoff_label": "in 5h"
         },
         {
           "league": "Liga F",
@@ -167,7 +168,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21374.png"
           },
           "kickoff": "2026-11-15T17:15:00Z",
-          "kickoff_label": "in 7h"
+          "kickoff_label": "in 5h"
         }
       ]
     },

@@ -114,7 +114,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Tottenham Hotspur vs Brighton & Hove Albion (2–1)
 DTSTART:20261108T140000Z
 DTEND:20261108T160000Z
-DTSTAMP:20261115T121118Z
+DTSTAMP:20261115T121603Z
 UID:espn-wsl-401902866@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nTottenham Hotspur vs Brighton & 
  Hove Albion\nStatus: Full Time\nVenue: Gaughan Group Stadium\, London\nTV:
@@ -127,7 +127,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Brighton & Hove Albion vs Liverpool (0–3)
 DTSTART:20261114T171500Z
 DTEND:20261114T191500Z
-DTSTAMP:20261115T121118Z
+DTSTAMP:20261115T121603Z
 UID:espn-wsl-401902862@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBrighton & Hove Albion vs Liverp
  ool\nStatus: Full Time\nVenue: American Express Stadium\, Falmer\nTV: Para
@@ -139,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Everton vs Brighton & Hove Albion
 DTSTART:20261122T140000Z
 DTEND:20261122T160000Z
-DTSTAMP:20261115T121118Z
+DTSTAMP:20261115T121603Z
 UID:espn-wsl-401902855@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nEverton vs Brighton & Hove Albio
  n\nStatus: Scheduled\nVenue: Goodison Park\, Liverpool\nTV: Paramount+\n\n
@@ -151,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Manchester United vs Brighton & Hove Albion
 DTSTART:20261213T120000Z
 DTEND:20261213T140000Z
-DTSTAMP:20261115T121118Z
+DTSTAMP:20261115T121603Z
 UID:espn-wsl-401902850@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nManchester United vs Brighton & 
  Hove Albion\nStatus: Scheduled\nVenue: Leigh Sports Village\, Manchester\n
@@ -164,11 +164,11 @@ BEGIN:VEVENT
 SUMMARY:⚽ Brighton & Hove Albion vs Chelsea
 DTSTART:20261219T124500Z
 DTEND:20261219T144500Z
-DTSTAMP:20261115T121118Z
+DTSTAMP:20261115T121603Z
 UID:espn-wsl-401902844@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBrighton & Hove Albion vs Chelse
- a\nStatus: Scheduled\nVenue: Broadfield Stadium\, Crawley\nTV: Paramount+\
- n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+ a\nStatus: Scheduled\nVenue: Broadfield Stadium\, Crawley\nTV: Paramount+
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401902844/chelsea-brighton-
  hove-albion
 END:VEVENT
@@ -176,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Arsenal vs Brighton & Hove Albion
 DTSTART:20270110T123000Z
 DTEND:20270110T143000Z
-DTSTAMP:20261115T121118Z
+DTSTAMP:20261115T121603Z
 UID:espn-wsl-401902837@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nArsenal vs Brighton & Hove Albio
  n\nStatus: Scheduled\nVenue: Emirates Stadium\, London\nTV: Paramount+\n\n
@@ -188,7 +188,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Brighton & Hove Albion vs Tottenham Hotspur
 DTSTART:20270120T194500Z
 DTEND:20270120T214500Z
-DTSTAMP:20261115T121118Z
+DTSTAMP:20261115T121603Z
 UID:espn-wsl-401902825@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBrighton & Hove Albion vs Totten
  ham Hotspur\nStatus: Scheduled\nVenue: Broadfield Stadium\, Crawley\nTV: P
@@ -201,7 +201,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Brighton & Hove Albion vs Birmingham City
 DTSTART:20270124T140000Z
 DTEND:20270124T160000Z
-DTSTAMP:20261115T121118Z
+DTSTAMP:20261115T121603Z
 UID:espn-wsl-401902821@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBrighton & Hove Albion vs Birmin
  gham City\nStatus: Scheduled\nVenue: Broadfield Stadium\, Crawley\nTV: Par
@@ -213,7 +213,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Liverpool vs Brighton & Hove Albion
 DTSTART:20270131T140000Z
 DTEND:20270131T160000Z
-DTSTAMP:20261115T121118Z
+DTSTAMP:20261115T121603Z
 UID:espn-wsl-401902811@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nLiverpool vs Brighton & Hove Alb
  ion\nStatus: Scheduled\nVenue: St Helens Stadium\, St Helens\nTV: Paramoun
@@ -225,11 +225,11 @@ BEGIN:VEVENT
 SUMMARY:⚽ Brighton & Hove Albion vs Everton
 DTSTART:20270207T140000Z
 DTEND:20270207T160000Z
-DTSTAMP:20261115T121118Z
+DTSTAMP:20261115T121603Z
 UID:espn-wsl-401902807@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBrighton & Hove Albion vs Everto
- n\nStatus: Scheduled\nVenue: Broadfield Stadium\, Crawley\nTV: Paramount+\
- n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+ n\nStatus: Scheduled\nVenue: Broadfield Stadium\, Crawley\nTV: Paramount+
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401902807/everton-brighton-
  hove-albion
 END:VEVENT
@@ -237,7 +237,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Aston Villa vs Brighton & Hove Albion
 DTSTART:20270214T140000Z
 DTEND:20270214T160000Z
-DTSTAMP:20261115T121118Z
+DTSTAMP:20261115T121603Z
 UID:espn-wsl-401902802@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nAston Villa vs Brighton & Hove A
  lbion\nStatus: Scheduled\nVenue: Villa Park\, Birmingham\nTV: Paramount+\n
@@ -249,7 +249,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ West Ham United vs Brighton & Hove Albion
 DTSTART:20270314T140000Z
 DTEND:20270314T160000Z
-DTSTAMP:20261115T121118Z
+DTSTAMP:20261115T121603Z
 UID:espn-wsl-401902789@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nWest Ham United vs Brighton & Ho
  ve Albion\nStatus: Scheduled\nVenue: Victoria Road\, Dagenham\nTV: Paramou
@@ -261,7 +261,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Brighton & Hove Albion vs London City Lionesses
 DTSTART:20270317T194500Z
 DTEND:20270317T214500Z
-DTSTAMP:20261115T121118Z
+DTSTAMP:20261115T121603Z
 UID:espn-wsl-401902783@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBrighton & Hove Albion vs London
   City Lionesses\nStatus: Scheduled\nVenue: Broadfield Stadium\, Crawley\nT
@@ -274,7 +274,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Charlton Athletic vs Brighton & Hove Albion
 DTSTART:20270328T130000Z
 DTEND:20270328T150000Z
-DTSTAMP:20261115T121118Z
+DTSTAMP:20261115T121603Z
 UID:espn-wsl-401902777@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nCharlton Athletic vs Brighton & 
  Hove Albion\nStatus: Scheduled\nVenue: The Valley\, London\nTV: Paramount+
@@ -286,7 +286,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Brighton & Hove Albion vs Manchester City
 DTSTART:20270404T130000Z
 DTEND:20270404T150000Z
-DTSTAMP:20261115T121118Z
+DTSTAMP:20261115T121603Z
 UID:espn-wsl-401902772@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBrighton & Hove Albion vs Manche
  ster City\nStatus: Scheduled\nVenue: Broadfield Stadium\, Crawley\nTV: Par
@@ -298,7 +298,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Crystal Palace vs Brighton & Hove Albion
 DTSTART:20270502T130000Z
 DTEND:20270502T150000Z
-DTSTAMP:20261115T121118Z
+DTSTAMP:20261115T121603Z
 UID:espn-wsl-401902765@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nCrystal Palace vs Brighton & Hov
  e Albion\nStatus: Scheduled\nVenue: VBS Community Stadium\, Sutton Coldfie
@@ -311,7 +311,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Chelsea vs Brighton & Hove Albion
 DTSTART:20270509T130000Z
 DTEND:20270509T150000Z
-DTSTAMP:20261115T121118Z
+DTSTAMP:20261115T121603Z
 UID:espn-wsl-401902756@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nChelsea vs Brighton & Hove Albio
  n\nStatus: Scheduled\nVenue: Stamford Bridge\, London\nTV: Paramount+\n\nF
@@ -323,7 +323,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Brighton & Hove Albion vs Manchester United (time TBC)
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270523
-DTSTAMP:20261115T121118Z
+DTSTAMP:20261115T121603Z
 UID:espn-wsl-401902752@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBrighton & Hove Albion vs Manche
  ster United\nStatus: Scheduled\nKick-off time not confirmed yet. Your cale
