@@ -25,7 +25,7 @@
       "name": "UEFA Women's Champions League",
       "ics": "womens_ucl.ics",
       "source": "auto",
-      "update": "fetch_ucl.py (ESPN) in refresh.yml",
+      "update": "fetch_espn_feeds.py (shared ESPN engine, config in feeds/espn_leagues.json) in refresh.yml",
       "season": {
         "start": "2026-09-22",
         "end": "2027-05-29"
@@ -161,7 +161,7 @@
       "name": "NWSL",
       "ics": "nwsl.ics",
       "source": "auto",
-      "update": "fetch_nwsl.py (ESPN) in refresh.yml",
+      "update": "fetch_espn_feeds.py (shared ESPN engine, config in feeds/espn_leagues.json) in refresh.yml",
       "season": {
         "start": "2026-03-14",
         "end": "2026-11-21"
@@ -206,8 +206,8 @@
       "id": "wnba",
       "name": "WNBA",
       "ics": "wnba.ics",
-      "source": "auto",
-      "update": "fetch_wnba.py (ESPN) in refresh.yml",
+      "source": "frozen",
+      "update": "Frozen Nov 16, 2026: 2026 season complete (Finals Oct 31). Files kept unchanged for subscribers. When the 2027 schedule is published (usually January), add WNBA to feeds/espn_leagues.json (standard engine team format, new season = new games) and set source back to auto with 2027 season dates.",
       "season": {
         "start": "2026-05-17",
         "end": "2026-10-31"

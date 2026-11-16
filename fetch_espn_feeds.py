@@ -55,8 +55,13 @@ def _score(c: dict) -> str | None:
     return s.get("displayValue") if isinstance(s, dict) else str(s)
 
 
-def parse(event: dict, league: dict) -> dict | None:
-    """ESPN event -> plain dict used to build calendar events."""
+def parse(event: dict, league: dict, first_line: str | None = None) -> dict | None:
+    """ESPN event -> plain dict used to build calendar events.
+
+    first_line: description line 1 (default league["title"]; team feeds may pass
+    league["team_title"] with {team} filled). Optional league["title_round"]
+    appends ESPN's stage slug, e.g. "Women's Champions League 2026/27 · league-phase".
+    """
     try:
         comp = event["competitions"][0]
         home = next((c for c in comp["competitors"] if c["homeAway"] == "home"), None)
@@ -88,7 +93,11 @@ def parse(event: dict, league: dict) -> dict | None:
             line2 = f"{a_name} at {h_name}"
         summary = f"{league['emoji']} {title}{score}" + (" (time TBC)" if time_tbc else "")
 
-        desc = [league["title"], line2, f"Status: {status.get('description', '')}"]
+        line1 = first_line or league["title"]
+        stage = (event.get("season") or {}).get("slug", "")
+        if league.get("title_round") and stage:
+            line1 += f" · {stage}"
+        desc = [line1, line2, f"Status: {status.get('description', '')}"]
         if time_tbc:
             desc.append("Kick-off time not confirmed yet. Your calendar updates automatically once it is.")
         venue = comp.get("venue", {}) or {}
@@ -227,13 +236,18 @@ def run_league(lid: str, league: dict, out_dir: Path, today: date) -> bool:
 
     for team_id, (team, slug) in league.get("teams", {}).items():
         path = out_dir / f"{league['team_prefix']}{slug}.ics"
+        # Optional league["team_title"]: team-specific description line 1, e.g. "NWSL 2026 · {team}"
+        t_line = league["team_title"].format(team=team) if league.get("team_title") else None
         if league.get("team_source") == "schedule":
             # Team feed from the team's own schedule (all its games, ranked opponent or not).
             t_raw = team_schedule(league, team_id)
             if t_raw is None:
                 print(f"  ⚠️  {team}: schedule fetch failed — keeping existing {path.name}")
                 continue
-            t_games = [g for g in (parse(e, league) for e in t_raw if not is_placeholder(e)) if g]
+            t_games = [g for g in (parse(e, league, t_line) for e in t_raw if not is_placeholder(e)) if g]
+        elif t_line:
+            t_events = [e for e in events if team_id in {str(c["team"].get("id", "")) for c in e["competitions"][0]["competitors"]}]
+            t_games = [g for g in (parse(e, league, t_line) for e in t_events) if g]
         else:
             t_games = [g for g in games if team_id in g["team_ids"]]
         t_kept = [] if full else kept_past_events(path, cutoff)
