@@ -4,29 +4,31 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this is
 
-HerFixtures (herfixtures.com) is a women's sports calendar subscription service. It serves live `.ics` calendar feeds for women's football and basketball competitions (Women's UCL, EuroLeague Women, WNBA) that users can add directly to Google Calendar or Apple Calendar with one click.
+HerFixtures (herfixtures.com) is a women's sports calendar subscription service: 12 competitions (football + basketball), each with a competition calendar and team calendars, added to Google/Apple/Outlook with one click.
 
-## Architecture
+**Full architecture (plain-language + reference): Notion → HerFixtures HQ → Knowledge Base → "HerFixtures Architecture".** Keep it in sync: any change to how feeds are built, published or checked must update that page in the same session.
 
-There is **no build system**. The site is:
+## Architecture (summary)
 
-- `index.html` — the entire frontend: vanilla HTML, CSS custom properties, and inline JavaScript. No framework, no bundler.
-- `api/subscribe.js` — a Vercel serverless function (Node.js) that handles email capture via the Beehiiv newsletter API.
-- `*.ics` files — the calendar feeds, committed directly to the repo and served statically.
-- `fetch_ucl.py` — fetches Women's Champions League fixtures from ESPN's public API (no key) and writes `womens_ucl.ics`.
-- `generate_euroleague_women_ics.py` — builds `euroleague_women.ics` from the hand-maintained `feeds/euroleague-women-2026-27/fixtures.json` (copied from FIBA's official schedule; not in the cron — edit the JSON, re-run, open a PR). Add later rounds only once FIBA confirms both teams.
-- `fetch_wnba.py` — fetches WNBA fixtures from ESPN's public API (no key) and writes `wnba.ics`.
-- `.github/workflows/refresh.yml` — GitHub Actions cron (6am and 18pm UTC daily) that runs the `fetch_*.py` scripts and commits the updated `.ics` files back to `main`.
+There is **no build system**. Deployment is on **Vercel** (`vercel.json`: `text/calendar` + 12h cache for `.ics`).
 
-Deployment is on **Vercel**. `vercel.json` sets the `Content-Type: text/calendar` header and a 12-hour cache for all `.ics` routes.
+- `index.html`: the entire frontend (vanilla HTML/CSS/JS): competition cards, team pickers (`*_CONFIG` objects + `FeedModal`), the **Scores Strip** (reads `scores.json`), badges (read `feed_status.json`).
+- `api/subscribe.js`: Vercel function for email capture (Beehiiv).
+- `*.ics`: the feeds, committed to the repo, served statically.
+- **`fetch_espn_feeds.py` + `feeds/espn_leagues.json`: the shared feed engine.** 8 ESPN competitions are config entries: Liga F, WSL, Première Ligue, A-League Women, Liga MX Femenil, NCAA WBB, UCL Women, NWSL.
+- Other sources: `fetch_frauen_bundesliga.py` (+ `_teams`, OpenLigaDB); `generate_euroleague_women_ics.py` + `scripts/update_euroleague_fixtures.py` (hand-maintained from FIBA's site, scheduled Claude runs).
+- **Frozen** (files kept for subscribers, not refreshed): WNBA 2026 (re-add to the engine with the 2027 schedule), FIBA WWC 2026, ICC T20 2026.
+- `feeds/manifest.json`: every competition's season dates/status. It drives the health check, badges, and auto-publish paths.
+- `.github/workflows/refresh.yml`: runs 06:00 + 18:00 UTC: engine → Frauen-BL → Scores Strip → badges → sitemap → commit → health check. `.github/workflows/pr-checks.yml`: Repo check on every PR.
 
 ## Running the feed scripts locally
 
-The cron scripts use ESPN's public API and need no keys:
+No keys needed (ESPN, OpenLigaDB are public):
 
 ```bash
-python fetch_ucl.py     # womens_ucl.ics
-python fetch_wnba.py    # wnba.ics
+python3 fetch_espn_feeds.py                          # all engine leagues
+python3 fetch_espn_feeds.py --out-dir /tmp/x wsl     # one league into a scratch folder (testing)
+python3 scripts/check_repo.py && python3 scripts/check_feed_health.py
 ```
 
 Python dependencies: `pip install requests icalendar pytz`
@@ -91,7 +93,7 @@ New ESPN leagues are **config, not code**: add an entry to `feeds/espn_leagues.j
 - Optional per-league settings: `rank_filter` (only games involving a team ranked 1..N), `show_rank` ("#5 Duke"), `team_name: "location"`, `team_source: "schedule"` (team feeds from each team's ESPN schedule; needed when the league feed is a subset, e.g. NCAA Top 25). All off by default.
 - **Formatting changes to the engine** (summary, description, names) only reach games older than 7 days after a full rebuild: run `HERFIXTURES_FULL_REFETCH=1 python3 fetch_espn_feeds.py <league>` and commit the result.
 - Team logos for the homepage picker: ESPN `teamlogos/soccer/500/<id>.png`. Some women's teams have none; use the club's men's-team crest id (e.g. Lens 175) and fall back to an emoji tile only if the club has none on ESPN.
-- Migrated so far: Liga F (Nov 15, output proven identical apart from time-TBC). UCL, NWSL and WNBA still use their own scripts; migrate them when next touched.
+- Migrated: Liga F (Nov 15), UCL Women + NWSL (Nov 16, proven identical apart from added TV lines). WNBA frozen until the 2027 schedule, then add it here.
 
 ### ESPN API constraints (current)
 

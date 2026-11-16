@@ -10,364 +10,374 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Orlando Pride @ Seattle Reign FC (0–1)
-DTSTART:20261101T220000Z
-DTEND:20261102T000000Z
-DTSTAMP:20261116T073543Z
-UID:espn-nwsl-401854037@herfixtures.com
-DESCRIPTION:NWSL 2026 · Orlando Pride\nOrlando Pride at Seattle Reign FC
- \nStatus: Full Time\nVenue: Lumen Field\, Seattle\, Washington\n\nFixtures
-  by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401854037/orlando-pride-sea
- ttle-reign-fc
+SUMMARY:⚽ Seattle Reign FC @ Orlando Pride (2–1)
+DTSTART:20260315T200000Z
+DTEND:20260315T220000Z
+DTSTAMP:20261116T092210Z
+UID:espn-nwsl-401853861@herfixtures.com
+DESCRIPTION:NWSL 2026 · Orlando Pride\nSeattle Reign FC at Orlando Pride\
+ nStatus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\nTV: Victo
+ ry+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853861/seattle-reign-fc-
+ orlando-pride
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Gotham FC @ Orlando Pride (2–1)
-DTSTART:20261025T190000Z
-DTEND:20261025T210000Z
-DTSTAMP:20261116T073543Z
-UID:espn-nwsl-401854031@herfixtures.com
-DESCRIPTION:NWSL 2026 · Orlando Pride\nGotham FC at Orlando Pride\nStatus
- : Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\n\nFixtures by He
- rFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401854031/gotham-fc-orlando
- -pride
+SUMMARY:⚽ Denver Summit FC @ Orlando Pride (1–1)
+DTSTART:20260321T000000Z
+DTEND:20260321T020000Z
+DTSTAMP:20261116T092210Z
+UID:espn-nwsl-401854041@herfixtures.com
+DESCRIPTION:NWSL 2026 · Orlando Pride\nDenver Summit FC at Orlando Pride\
+ nStatus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\nTV: Victo
+ ry+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401854041/denver-summit-fc-
+ orlando-pride
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Orlando Pride @ Houston Dash (2–1)
-DTSTART:20261018T170000Z
-DTEND:20261018T190000Z
-DTSTAMP:20261116T073543Z
-UID:espn-nwsl-401854024@herfixtures.com
-DESCRIPTION:NWSL 2026 · Orlando Pride\nOrlando Pride at Houston Dash\nSta
- tus: Full Time\nVenue: Shell Energy Stadium\, Houston\, Texas\n\nFixtures 
- by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401854024/orlando-pride-hou
- ston-dash
+SUMMARY:⚽ Orlando Pride @ Chicago Stars FC (3–0)
+DTSTART:20260326T000000Z
+DTEND:20260326T020000Z
+DTSTAMP:20261116T092210Z
+UID:espn-nwsl-401853870@herfixtures.com
+DESCRIPTION:NWSL 2026 · Orlando Pride\nOrlando Pride at Chicago Stars FC\
+ nStatus: Full Time\nVenue: Northwestern Medicine Field at Martin Stadium\,
+  Evanston\nTV: Victory+\n\nFixtures by HerFixtures.com — Women's Sports 
+ on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853870/orlando-pride-chi
+ cago-stars-fc
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ San Diego Wave FC @ Orlando Pride (2–1)
-DTSTART:20261003T000000Z
-DTEND:20261003T020000Z
-DTSTAMP:20261116T073543Z
-UID:espn-nwsl-401854015@herfixtures.com
-DESCRIPTION:NWSL 2026 · Orlando Pride\nSan Diego Wave FC at Orlando Pride
- \nStatus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\n\nFixtur
- es by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401854015/san-diego-wave-fc
+SUMMARY:⚽ Orlando Pride @ Gotham FC (0–0)
+DTSTART:20260329T230000Z
+DTEND:20260330T010000Z
+DTSTAMP:20261116T092210Z
+UID:espn-nwsl-401853878@herfixtures.com
+DESCRIPTION:NWSL 2026 · Orlando Pride\nOrlando Pride at Gotham FC\nStatus
+ : Full Time\nVenue: Sports Illustrated Stadium\, Harrison\, New Jersey\nTV
+ : Victory+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
+ dar
+URL:https://www.espn.com/soccer/match/_/gameId/401853878/orlando-pride-got
+ ham-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Angel City FC @ Orlando Pride (1–2)
+DTSTART:20260404T000000Z
+DTEND:20260404T020000Z
+DTSTAMP:20261116T092210Z
+UID:espn-nwsl-401853879@herfixtures.com
+DESCRIPTION:NWSL 2026 · Orlando Pride\nAngel City FC at Orlando Pride\nSt
+ atus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\nTV: Prime Vi
+ deo\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853879/angel-city-fc-orl
+ ando-pride
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Orlando Pride @ Racing Louisville FC (2–3)
+DTSTART:20260424T213000Z
+DTEND:20260424T233000Z
+DTSTAMP:20261116T092210Z
+UID:espn-nwsl-401853885@herfixtures.com
+DESCRIPTION:NWSL 2026 · Orlando Pride\nOrlando Pride at Racing Louisville
+  FC\nStatus: Full Time\nVenue: Lynn Family Stadium\, Louisville\, Kentucky
+ \nTV: Victory+\n\nFixtures by HerFixtures.com — Women's Sports on Your C
+ alendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853885/orlando-pride-rac
+ ing-louisville-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Washington Spirit @ Orlando Pride (4–2)
+DTSTART:20260502T200000Z
+DTEND:20260502T220000Z
+DTSTAMP:20261116T092210Z
+UID:espn-nwsl-401853895@herfixtures.com
+DESCRIPTION:NWSL 2026 · Orlando Pride\nWashington Spirit at Orlando Pride
+ \nStatus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\nTV: ION\
+ n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853895/washington-spirit
  -orlando-pride
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Orlando Pride @ Bay FC (3–1)
-DTSTART:20260927T210000Z
-DTEND:20260927T230000Z
-DTSTAMP:20261116T073543Z
-UID:espn-nwsl-401854013@herfixtures.com
-DESCRIPTION:NWSL 2026 · Orlando Pride\nOrlando Pride at Bay FC\nStatus: F
- ull Time\nVenue: PayPal Park\, San Jose\, California\n\nFixtures by HerFix
- tures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401854013/orlando-pride-bay
- -fc
+SUMMARY:⚽ North Carolina Courage @ Orlando Pride (0–1)
+DTSTART:20260509T000000Z
+DTEND:20260509T020000Z
+DTSTAMP:20261116T092210Z
+UID:espn-nwsl-401853903@herfixtures.com
+DESCRIPTION:NWSL 2026 · Orlando Pride\nNorth Carolina Courage at Orlando 
+ Pride\nStatus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\nTV:
+  Prime Video\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+URL:https://www.espn.com/soccer/match/_/gameId/401853903/north-carolina-co
+ urage-orlando-pride
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Portland Thorns FC @ Orlando Pride (4–1)
-DTSTART:20260919T200000Z
-DTEND:20260919T220000Z
-DTSTAMP:20261116T073543Z
-UID:espn-nwsl-401854004@herfixtures.com
-DESCRIPTION:NWSL 2026 · Orlando Pride\nPortland Thorns FC at Orlando Prid
- e\nStatus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\n\nFixtu
- res by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401854004/portland-thorns-f
- c-orlando-pride
+SUMMARY:⚽ Orlando Pride @ Boston Legacy FC (1–2)
+DTSTART:20260512T230000Z
+DTEND:20260513T010000Z
+DTSTAMP:20261116T092210Z
+UID:espn-nwsl-401854054@herfixtures.com
+DESCRIPTION:NWSL 2026 · Orlando Pride\nOrlando Pride at Boston Legacy FC\
+ nStatus: Full Time\nVenue: Gillette Stadium\, Foxborough\, Massachusetts\n
+ TV: Victory+\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+URL:https://www.espn.com/soccer/match/_/gameId/401854054/orlando-pride-bos
+ ton-legacy-fc
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Orlando Pride @ Kansas City Current (2–2)
-DTSTART:20260912T000000Z
-DTEND:20260912T020000Z
-DTSTAMP:20261116T073543Z
-UID:espn-nwsl-401853997@herfixtures.com
-DESCRIPTION:NWSL 2026 · Orlando Pride\nOrlando Pride at Kansas City Curre
- nt\nStatus: Full Time\nVenue: CPKC Stadium\, Kansas City\, Missouri\n\nFix
- tures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853997/orlando-pride-kan
- sas-city-current
+SUMMARY:⚽ Orlando Pride @ Denver Summit FC (1–3)
+DTSTART:20260517T004500Z
+DTEND:20260517T024500Z
+DTSTAMP:20261116T092210Z
+UID:espn-nwsl-401854056@herfixtures.com
+DESCRIPTION:NWSL 2026 · Orlando Pride\nOrlando Pride at Denver Summit FC\
+ nStatus: Full Time\nVenue: Dick's Sporting Goods Park\, Commerce City\, Co
+ lorado\nTV: ION\n\nFixtures by HerFixtures.com — Women's Sports on Your 
+ Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401854056/orlando-pride-den
+ ver-summit-fc
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Houston Dash @ Orlando Pride (1–3)
-DTSTART:20260907T003000Z
-DTEND:20260907T023000Z
-DTSTAMP:20261116T073543Z
-UID:espn-nwsl-401853994@herfixtures.com
-DESCRIPTION:NWSL 2026 · Orlando Pride\nHouston Dash at Orlando Pride\nSta
- tus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\n\nFixtures by
-  HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853994/houston-dash-orla
- ndo-pride
+SUMMARY:⚽ Orlando Pride @ San Diego Wave FC (1–0)
+DTSTART:20260524T230000Z
+DTEND:20260525T010000Z
+DTSTAMP:20261116T092210Z
+UID:espn-nwsl-401853921@herfixtures.com
+DESCRIPTION:NWSL 2026 · Orlando Pride\nOrlando Pride at San Diego Wave FC
+ \nStatus: Full Time\nVenue: Snapdragon Stadium\, San Diego\, California\nT
+ V: Victory+\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
+ ndar
+URL:https://www.espn.com/soccer/match/_/gameId/401853921/orlando-pride-san
+ -diego-wave-fc
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Utah Royals @ Orlando Pride (2–1)
-DTSTART:20260830T000000Z
-DTEND:20260830T020000Z
-DTSTAMP:20261116T073543Z
-UID:espn-nwsl-401853987@herfixtures.com
-DESCRIPTION:NWSL 2026 · Orlando Pride\nUtah Royals at Orlando Pride\nStat
- us: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\n\nFixtures by 
- HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853987/utah-royals-orlan
- do-pride
+SUMMARY:⚽ Bay FC @ Orlando Pride (1–3)
+DTSTART:20260529T230000Z
+DTEND:20260530T010000Z
+DTSTAMP:20261116T092210Z
+UID:espn-nwsl-401853922@herfixtures.com
+DESCRIPTION:NWSL 2026 · Orlando Pride\nBay FC at Orlando Pride\nStatus: F
+ ull Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\nTV: NWSL+\n\nFixtur
+ es by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853922/bay-fc-orlando-pr
+ ide
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Orlando Pride @ Washington Spirit (1–0)
-DTSTART:20260823T200000Z
-DTEND:20260823T220000Z
-DTSTAMP:20261116T073543Z
-UID:espn-nwsl-401853980@herfixtures.com
-DESCRIPTION:NWSL 2026 · Orlando Pride\nOrlando Pride at Washington Spirit
- \nStatus: Full Time\nVenue: Audi Field\, Washington\, District of Columbia
+SUMMARY:⚽ Orlando Pride @ Angel City FC (0–2)
+DTSTART:20260704T020000Z
+DTEND:20260704T040000Z
+DTSTAMP:20261116T092210Z
+UID:espn-nwsl-401853929@herfixtures.com
+DESCRIPTION:NWSL 2026 · Orlando Pride\nOrlando Pride at Angel City FC\nSt
+ atus: Full Time\nVenue: BMO Stadium\, Los Angeles\, California\nTV: Prime 
+ Video\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853929/orlando-pride-ang
+ el-city-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Kansas City Current @ Orlando Pride (0–3)
+DTSTART:20260711T010300Z
+DTEND:20260711T030300Z
+DTSTAMP:20261116T092210Z
+UID:espn-nwsl-401853934@herfixtures.com
+DESCRIPTION:NWSL 2026 · Orlando Pride\nKansas City Current at Orlando Pri
+ de\nStatus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\nTV: Pr
+ ime Video\n\nFixtures by HerFixtures.com — Women's Sports on Your Calend
+ ar
+URL:https://www.espn.com/soccer/match/_/gameId/401853934/kansas-city-curre
+ nt-orlando-pride
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Boston Legacy FC @ Orlando Pride (1–0)
+DTSTART:20260715T230000Z
+DTEND:20260716T010000Z
+DTSTAMP:20261116T092210Z
+UID:espn-nwsl-401854065@herfixtures.com
+DESCRIPTION:NWSL 2026 · Orlando Pride\nBoston Legacy FC at Orlando Pride\
+ nStatus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\nTV: NWSL+
  \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853980/orlando-pride-was
- hington-spirit
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Orlando Pride @ Portland Thorns FC (1–2)
-DTSTART:20260816T004500Z
-DTEND:20260816T024500Z
-DTSTAMP:20261116T073543Z
-UID:espn-nwsl-401853972@herfixtures.com
-DESCRIPTION:NWSL 2026 · Orlando Pride\nOrlando Pride at Portland Thorns F
- C\nStatus: Full Time\nVenue: Providence Park\, Portland\, Oregon\n\nFixtur
- es by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853972/orlando-pride-por
- tland-thorns-fc
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Racing Louisville FC @ Orlando Pride (3–1)
-DTSTART:20260807T230000Z
-DTEND:20260808T010000Z
-DTSTAMP:20261116T073543Z
-UID:espn-nwsl-401853965@herfixtures.com
-DESCRIPTION:NWSL 2026 · Orlando Pride\nRacing Louisville FC at Orlando Pr
- ide\nStatus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\n\nFix
- tures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853965/racing-louisville
- -fc-orlando-pride
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Orlando Pride @ North Carolina Courage (0–5)
-DTSTART:20260801T000000Z
-DTEND:20260801T020000Z
-DTSTAMP:20261116T073543Z
-UID:espn-nwsl-401853956@herfixtures.com
-DESCRIPTION:NWSL 2026 · Orlando Pride\nOrlando Pride at North Carolina Co
- urage\nStatus: Full Time\nVenue: WakeMed Soccer Park\, Cary\, North Caroli
- na\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853956/orlando-pride-nor
- th-carolina-courage
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Chicago Stars FC @ Orlando Pride (0–1)
-DTSTART:20260725T000000Z
-DTEND:20260725T020000Z
-DTSTAMP:20261116T073543Z
-UID:espn-nwsl-401853947@herfixtures.com
-DESCRIPTION:NWSL 2026 · Orlando Pride\nChicago Stars FC at Orlando Pride
- \nStatus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\n\nFixtur
- es by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853947/chicago-stars-fc-
+URL:https://www.espn.com/soccer/match/_/gameId/401854065/boston-legacy-fc-
  orlando-pride
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Orlando Pride @ Utah Royals (0–1)
 DTSTART:20260719T004500Z
 DTEND:20260719T024500Z
-DTSTAMP:20261116T073543Z
+DTSTAMP:20261116T092210Z
 UID:espn-nwsl-401853946@herfixtures.com
 DESCRIPTION:NWSL 2026 · Orlando Pride\nOrlando Pride at Utah Royals\nStat
- us: Full Time\nVenue: America First Field\, Sandy\, Utah\n\nFixtures by He
- rFixtures.com — Women's Sports on Your Calendar
+ us: Full Time\nVenue: America First Field\, Sandy\, Utah\nTV: ION\n\nFixtu
+ res by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401853946/orlando-pride-uta
  h-royals
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Boston Legacy FC @ Orlando Pride (1–0)
-DTSTART:20260715T230000Z
-DTEND:20260716T010000Z
-DTSTAMP:20261116T073543Z
-UID:espn-nwsl-401854065@herfixtures.com
-DESCRIPTION:NWSL 2026 · Orlando Pride\nBoston Legacy FC at Orlando Pride
- \nStatus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\n\nFixtur
- es by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401854065/boston-legacy-fc-
+SUMMARY:⚽ Chicago Stars FC @ Orlando Pride (0–1)
+DTSTART:20260725T000000Z
+DTEND:20260725T020000Z
+DTSTAMP:20261116T092210Z
+UID:espn-nwsl-401853947@herfixtures.com
+DESCRIPTION:NWSL 2026 · Orlando Pride\nChicago Stars FC at Orlando Pride\
+ nStatus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\nTV: Victo
+ ry+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853947/chicago-stars-fc-
  orlando-pride
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Kansas City Current @ Orlando Pride (0–3)
-DTSTART:20260711T010300Z
-DTEND:20260711T030300Z
-DTSTAMP:20261116T073543Z
-UID:espn-nwsl-401853934@herfixtures.com
-DESCRIPTION:NWSL 2026 · Orlando Pride\nKansas City Current at Orlando Pri
- de\nStatus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\n\nFixt
- ures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853934/kansas-city-curre
- nt-orlando-pride
+SUMMARY:⚽ Orlando Pride @ North Carolina Courage (0–5)
+DTSTART:20260801T000000Z
+DTEND:20260801T020000Z
+DTSTAMP:20261116T092210Z
+UID:espn-nwsl-401853956@herfixtures.com
+DESCRIPTION:NWSL 2026 · Orlando Pride\nOrlando Pride at North Carolina Co
+ urage\nStatus: Full Time\nVenue: WakeMed Soccer Park\, Cary\, North Caroli
+ na\nTV: Prime Video\n\nFixtures by HerFixtures.com — Women's Sports on Y
+ our Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853956/orlando-pride-nor
+ th-carolina-courage
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Orlando Pride @ Angel City FC (0–2)
-DTSTART:20260704T020000Z
-DTEND:20260704T040000Z
-DTSTAMP:20261116T073543Z
-UID:espn-nwsl-401853929@herfixtures.com
-DESCRIPTION:NWSL 2026 · Orlando Pride\nOrlando Pride at Angel City FC\nSt
- atus: Full Time\nVenue: BMO Stadium\, Los Angeles\, California\n\nFixtures
-  by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853929/orlando-pride-ang
- el-city-fc
+SUMMARY:⚽ Racing Louisville FC @ Orlando Pride (3–1)
+DTSTART:20260807T230000Z
+DTEND:20260808T010000Z
+DTSTAMP:20261116T092210Z
+UID:espn-nwsl-401853965@herfixtures.com
+DESCRIPTION:NWSL 2026 · Orlando Pride\nRacing Louisville FC at Orlando Pr
+ ide\nStatus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\nTV: N
+ WSL+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853965/racing-louisville
+ -fc-orlando-pride
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Bay FC @ Orlando Pride (1–3)
-DTSTART:20260529T230000Z
-DTEND:20260530T010000Z
-DTSTAMP:20261116T073543Z
-UID:espn-nwsl-401853922@herfixtures.com
-DESCRIPTION:NWSL 2026 · Orlando Pride\nBay FC at Orlando Pride\nStatus: F
- ull Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\n\nFixtures by HerFi
- xtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853922/bay-fc-orlando-pr
- ide
+SUMMARY:⚽ Orlando Pride @ Portland Thorns FC (1–2)
+DTSTART:20260816T004500Z
+DTEND:20260816T024500Z
+DTSTAMP:20261116T092210Z
+UID:espn-nwsl-401853972@herfixtures.com
+DESCRIPTION:NWSL 2026 · Orlando Pride\nOrlando Pride at Portland Thorns F
+ C\nStatus: Full Time\nVenue: Providence Park\, Portland\, Oregon\nTV: ION\
+ n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853972/orlando-pride-por
+ tland-thorns-fc
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Orlando Pride @ San Diego Wave FC (1–0)
-DTSTART:20260524T230000Z
-DTEND:20260525T010000Z
-DTSTAMP:20261116T073543Z
-UID:espn-nwsl-401853921@herfixtures.com
-DESCRIPTION:NWSL 2026 · Orlando Pride\nOrlando Pride at San Diego Wave FC
- \nStatus: Full Time\nVenue: Snapdragon Stadium\, San Diego\, California\n
- \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853921/orlando-pride-san
- -diego-wave-fc
+SUMMARY:⚽ Orlando Pride @ Washington Spirit (1–0)
+DTSTART:20260823T200000Z
+DTEND:20260823T220000Z
+DTSTAMP:20261116T092210Z
+UID:espn-nwsl-401853980@herfixtures.com
+DESCRIPTION:NWSL 2026 · Orlando Pride\nOrlando Pride at Washington Spirit
+ \nStatus: Full Time\nVenue: Audi Field\, Washington\, District of Columbia
+ \nTV: ESPN2\, ESPN Unlmtd\n\nFixtures by HerFixtures.com — Women's Sport
+ s on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853980/orlando-pride-was
+ hington-spirit
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Orlando Pride @ Denver Summit FC (1–3)
-DTSTART:20260517T004500Z
-DTEND:20260517T024500Z
-DTSTAMP:20261116T073543Z
-UID:espn-nwsl-401854056@herfixtures.com
-DESCRIPTION:NWSL 2026 · Orlando Pride\nOrlando Pride at Denver Summit FC
- \nStatus: Full Time\nVenue: Dick's Sporting Goods Park\, Commerce City\, C
- olorado\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401854056/orlando-pride-den
- ver-summit-fc
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Orlando Pride @ Boston Legacy FC (1–2)
-DTSTART:20260512T230000Z
-DTEND:20260513T010000Z
-DTSTAMP:20261116T073543Z
-UID:espn-nwsl-401854054@herfixtures.com
-DESCRIPTION:NWSL 2026 · Orlando Pride\nOrlando Pride at Boston Legacy FC
- \nStatus: Full Time\nVenue: Gillette Stadium\, Foxborough\, Massachusetts
- \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401854054/orlando-pride-bos
- ton-legacy-fc
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ North Carolina Courage @ Orlando Pride (0–1)
-DTSTART:20260509T000000Z
-DTEND:20260509T020000Z
-DTSTAMP:20261116T073543Z
-UID:espn-nwsl-401853903@herfixtures.com
-DESCRIPTION:NWSL 2026 · Orlando Pride\nNorth Carolina Courage at Orlando 
- Pride\nStatus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\n\nF
+SUMMARY:⚽ Utah Royals @ Orlando Pride (2–1)
+DTSTART:20260830T000000Z
+DTEND:20260830T020000Z
+DTSTAMP:20261116T092210Z
+UID:espn-nwsl-401853987@herfixtures.com
+DESCRIPTION:NWSL 2026 · Orlando Pride\nUtah Royals at Orlando Pride\nStat
+ us: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\nTV: NWSL+\n\nF
  ixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853903/north-carolina-co
- urage-orlando-pride
+URL:https://www.espn.com/soccer/match/_/gameId/401853987/utah-royals-orlan
+ do-pride
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Washington Spirit @ Orlando Pride (4–2)
-DTSTART:20260502T200000Z
-DTEND:20260502T220000Z
-DTSTAMP:20261116T073543Z
-UID:espn-nwsl-401853895@herfixtures.com
-DESCRIPTION:NWSL 2026 · Orlando Pride\nWashington Spirit at Orlando Pride
- \nStatus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\n\nFixtur
- es by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853895/washington-spirit
+SUMMARY:⚽ Houston Dash @ Orlando Pride (1–3)
+DTSTART:20260907T003000Z
+DTEND:20260907T023000Z
+DTSTAMP:20261116T092210Z
+UID:espn-nwsl-401853994@herfixtures.com
+DESCRIPTION:NWSL 2026 · Orlando Pride\nHouston Dash at Orlando Pride\nSta
+ tus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\nTV: Roku\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401853994/houston-dash-orla
+ ndo-pride
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Orlando Pride @ Kansas City Current (2–2)
+DTSTART:20260912T000000Z
+DTEND:20260912T020000Z
+DTSTAMP:20261116T092210Z
+UID:espn-nwsl-401853997@herfixtures.com
+DESCRIPTION:NWSL 2026 · Orlando Pride\nOrlando Pride at Kansas City Curre
+ nt\nStatus: Full Time\nVenue: CPKC Stadium\, Kansas City\, Missouri\nTV: P
+ rime Video\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
+ dar
+URL:https://www.espn.com/soccer/match/_/gameId/401853997/orlando-pride-kan
+ sas-city-current
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Portland Thorns FC @ Orlando Pride (4–1)
+DTSTART:20260919T200000Z
+DTEND:20260919T220000Z
+DTSTAMP:20261116T092210Z
+UID:espn-nwsl-401854004@herfixtures.com
+DESCRIPTION:NWSL 2026 · Orlando Pride\nPortland Thorns FC at Orlando Prid
+ e\nStatus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\nTV: ION
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401854004/portland-thorns-f
+ c-orlando-pride
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Orlando Pride @ Bay FC (3–1)
+DTSTART:20260927T210000Z
+DTEND:20260927T230000Z
+DTSTAMP:20261116T092210Z
+UID:espn-nwsl-401854013@herfixtures.com
+DESCRIPTION:NWSL 2026 · Orlando Pride\nOrlando Pride at Bay FC\nStatus: F
+ ull Time\nVenue: PayPal Park\, San Jose\, California\nTV: ESPN\, ESPN Depo
+ rtes\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401854013/orlando-pride-bay
+ -fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ San Diego Wave FC @ Orlando Pride (2–1)
+DTSTART:20261003T000000Z
+DTEND:20261003T020000Z
+DTSTAMP:20261116T092210Z
+UID:espn-nwsl-401854015@herfixtures.com
+DESCRIPTION:NWSL 2026 · Orlando Pride\nSan Diego Wave FC at Orlando Pride
+ \nStatus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\nTV: Prim
+ e Video\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401854015/san-diego-wave-fc
  -orlando-pride
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Orlando Pride @ Racing Louisville FC (2–3)
-DTSTART:20260424T213000Z
-DTEND:20260424T233000Z
-DTSTAMP:20261116T073543Z
-UID:espn-nwsl-401853885@herfixtures.com
-DESCRIPTION:NWSL 2026 · Orlando Pride\nOrlando Pride at Racing Louisville
-  FC\nStatus: Full Time\nVenue: Lynn Family Stadium\, Louisville\, Kentucky
- \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853885/orlando-pride-rac
- ing-louisville-fc
+SUMMARY:⚽ Orlando Pride @ Houston Dash (2–1)
+DTSTART:20261018T170000Z
+DTEND:20261018T190000Z
+DTSTAMP:20261116T092210Z
+UID:espn-nwsl-401854024@herfixtures.com
+DESCRIPTION:NWSL 2026 · Orlando Pride\nOrlando Pride at Houston Dash\nSta
+ tus: Full Time\nVenue: Shell Energy Stadium\, Houston\, Texas\nTV: CBSSN\n
+ \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401854024/orlando-pride-hou
+ ston-dash
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Angel City FC @ Orlando Pride (1–2)
-DTSTART:20260404T000000Z
-DTEND:20260404T020000Z
-DTSTAMP:20261116T073543Z
-UID:espn-nwsl-401853879@herfixtures.com
-DESCRIPTION:NWSL 2026 · Orlando Pride\nAngel City FC at Orlando Pride\nSt
- atus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\n\nFixtures b
- y HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853879/angel-city-fc-orl
- ando-pride
+SUMMARY:⚽ Gotham FC @ Orlando Pride (2–1)
+DTSTART:20261025T190000Z
+DTEND:20261025T210000Z
+DTSTAMP:20261116T092210Z
+UID:espn-nwsl-401854031@herfixtures.com
+DESCRIPTION:NWSL 2026 · Orlando Pride\nGotham FC at Orlando Pride\nStatus
+ : Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\nTV: CBSSN\n\nFix
+ tures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401854031/gotham-fc-orlando
+ -pride
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Orlando Pride @ Gotham FC (0–0)
-DTSTART:20260329T230000Z
-DTEND:20260330T010000Z
-DTSTAMP:20261116T073543Z
-UID:espn-nwsl-401853878@herfixtures.com
-DESCRIPTION:NWSL 2026 · Orlando Pride\nOrlando Pride at Gotham FC\nStatus
- : Full Time\nVenue: Sports Illustrated Stadium\, Harrison\, New Jersey\n\n
- Fixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853878/orlando-pride-got
- ham-fc
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Orlando Pride @ Chicago Stars FC (3–0)
-DTSTART:20260326T000000Z
-DTEND:20260326T020000Z
-DTSTAMP:20261116T073543Z
-UID:espn-nwsl-401853870@herfixtures.com
-DESCRIPTION:NWSL 2026 · Orlando Pride\nOrlando Pride at Chicago Stars FC
- \nStatus: Full Time\nVenue: Northwestern Medicine Field at Martin Stadium
- \, Evanston\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
- ndar
-URL:https://www.espn.com/soccer/match/_/gameId/401853870/orlando-pride-chi
- cago-stars-fc
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Denver Summit FC @ Orlando Pride (1–1)
-DTSTART:20260321T000000Z
-DTEND:20260321T020000Z
-DTSTAMP:20261116T073543Z
-UID:espn-nwsl-401854041@herfixtures.com
-DESCRIPTION:NWSL 2026 · Orlando Pride\nDenver Summit FC at Orlando Pride
- \nStatus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\n\nFixtur
- es by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401854041/denver-summit-fc-
- orlando-pride
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Seattle Reign FC @ Orlando Pride (2–1)
-DTSTART:20260315T200000Z
-DTEND:20260315T220000Z
-DTSTAMP:20261116T073543Z
-UID:espn-nwsl-401853861@herfixtures.com
-DESCRIPTION:NWSL 2026 · Orlando Pride\nSeattle Reign FC at Orlando Pride
- \nStatus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\n\nFixtur
- es by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853861/seattle-reign-fc-
- orlando-pride
+SUMMARY:⚽ Orlando Pride @ Seattle Reign FC (0–1)
+DTSTART:20261101T220000Z
+DTEND:20261102T000000Z
+DTSTAMP:20261116T092210Z
+UID:espn-nwsl-401854037@herfixtures.com
+DESCRIPTION:NWSL 2026 · Orlando Pride\nOrlando Pride at Seattle Reign FC\
+ nStatus: Full Time\nVenue: Lumen Field\, Seattle\, Washington\nTV: ESPN+\n
+ \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401854037/orlando-pride-sea
+ ttle-reign-fc
 END:VEVENT
 END:VCALENDAR

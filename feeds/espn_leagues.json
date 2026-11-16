@@ -1,5 +1,5 @@
 {
-  "_about": "One entry per ESPN-sourced competition, read by fetch_espn_feeds.py (the shared feed engine). Adding a league = adding an entry here (+ an entry in feeds/manifest.json for the health check and badge). Keep 'output', 'team_prefix', team slugs and 'uid_prefix' stable once live: they are subscribers' URLs and calendar event ids. 'order': 'away_at_home' (Away @ Home) or 'home_vs_away' (Home vs Away). Text fields may use {team}. Optional per league: 'rank_filter': N (only games involving a team ranked 1..N), 'show_rank': true (\"#5 Duke\"), 'team_name': 'location' (\"Duke\" not \"Duke Blue Devils\"), 'team_source': 'schedule' (team feeds from each team's ESPN schedule instead of the league scoreboard; use when the league feed is a subset, e.g. NCAA Top 25).",
+  "_about": "One entry per ESPN-sourced competition, read by fetch_espn_feeds.py (the shared feed engine). Adding a league = adding an entry here (+ an entry in feeds/manifest.json for the health check and badge). Keep 'output', 'team_prefix', team slugs and 'uid_prefix' stable once live: they are subscribers' URLs and calendar event ids. 'order': 'away_at_home' (Away @ Home) or 'home_vs_away' (Home vs Away). Text fields may use {team}. Optional per league: 'rank_filter': N (only games involving a team ranked 1..N), 'show_rank': true (\"#5 Duke\"), 'team_name': 'location' (\"Duke\" not \"Duke Blue Devils\"), 'team_source': 'schedule' (team feeds from each team's ESPN schedule instead of the league scoreboard; use when the league feed is a subset, e.g. NCAA Top 25). 'title_round': true appends ESPN's stage slug to description line 1; 'team_title' sets a team-specific description line 1 (with {team}).",
   "leagues": {
     "liga-f": {
       "name": "Liga F",
@@ -488,6 +488,114 @@
         "238": [
           "Vanderbilt",
           "vanderbilt"
+        ]
+      }
+    },
+    "ucl-women": {
+      "name": "UEFA Women's Champions League",
+      "espn": "soccer/uefa.wchampions",
+      "season": {
+        "start": "2026-09-01",
+        "end": "2027-05-31"
+      },
+      "emoji": "⚽",
+      "order": "home_vs_away",
+      "match_minutes": 120,
+      "title_round": true,
+      "output": "womens_ucl.ics",
+      "uid_prefix": "espn-ucl-women",
+      "title": "Women's Champions League 2026/27",
+      "prodid": "-//HerFixtures//UCL Women 2026-27//EN",
+      "cal_name": "Women's Champions League 2026/27 — HerFixtures",
+      "cal_desc": "UEFA Women's Champions League 2026/27 fixtures. Updated automatically by HerFixtures.com",
+      "team_prefix": "womens_ucl_",
+      "teams": {}
+    },
+    "nwsl": {
+      "name": "NWSL",
+      "espn": "soccer/usa.nwsl",
+      "season": {
+        "start": "2026-03-01",
+        "end": "2026-11-30"
+      },
+      "emoji": "⚽",
+      "order": "away_at_home",
+      "match_minutes": 120,
+      "output": "nwsl.ics",
+      "uid_prefix": "espn-nwsl",
+      "title": "NWSL 2026 · Season Game",
+      "team_title": "NWSL 2026 · {team}",
+      "prodid": "-//HerFixtures//NWSL 2026//EN",
+      "cal_name": "NWSL 2026 — HerFixtures",
+      "cal_desc": "NWSL 2026 fixtures. Updated automatically by HerFixtures.com",
+      "team_prefix": "nwsl_",
+      "team_prodid": "-//HerFixtures//NWSL 2026 {team}//EN",
+      "team_cal_name": "{team} 2026 — HerFixtures",
+      "team_cal_desc": "{team} 2026 fixtures. Updated automatically by HerFixtures.com",
+      "teams": {
+        "21422": [
+          "Angel City FC",
+          "angel_city"
+        ],
+        "22187": [
+          "Bay FC",
+          "bay_fc"
+        ],
+        "131562": [
+          "Boston Legacy FC",
+          "boston_legacy"
+        ],
+        "15360": [
+          "Chicago Stars FC",
+          "chicago_red_stars"
+        ],
+        "131563": [
+          "Denver Summit FC",
+          "denver_summit"
+        ],
+        "15364": [
+          "Gotham FC",
+          "gotham_fc"
+        ],
+        "17346": [
+          "Houston Dash",
+          "houston_dash"
+        ],
+        "20907": [
+          "Kansas City Current",
+          "kansas_city"
+        ],
+        "15366": [
+          "NC Courage",
+          "north_carolina_courage"
+        ],
+        "18206": [
+          "Orlando Pride",
+          "orlando_pride"
+        ],
+        "15362": [
+          "Portland Thorns",
+          "portland_thorns"
+        ],
+        "20905": [
+          "Racing Louisville",
+          "racing_louisville"
+        ],
+        "21423": [
+          "San Diego Wave",
+          "san_diego_wave"
+        ],
+        "15363": [
+          "Seattle Reign",
+          "seattle_reign"
+        ],
+        "19141": [
+          "Utah Royals",
+          "utah_royals"
+        ],
+        "15365": [
+          "Washington Spirit",
+          "washington_spirit"
         ]
       }
     }
