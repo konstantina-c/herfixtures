@@ -117,7 +117,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Deportivo (2–0)
 DTSTART:20261109T200000Z
 DTEND:20261109T220000Z
-DTSTAMP:20261116T073555Z
+DTSTAMP:20261116T092354Z
 UID:espn-liga-f-401882465@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at Deportivo\nStatus: Full Ti
  me\nVenue: Riazor\, La Coruña\n\nFixtures by HerFixtures.com — Women's 
@@ -129,7 +129,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Deportivo (1–1)
 DTSTART:20261115T170000Z
 DTEND:20261115T190000Z
-DTSTAMP:20261116T073555Z
+DTSTAMP:20261116T092354Z
 UID:espn-liga-f-401882459@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Deportivo\nStatus: Full T
  ime\nVenue: Riazor\, La Coruña\n\nFixtures by HerFixtures.com — Women's
@@ -141,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ FC Badalona
 DTSTART:20261121T110000Z
 DTEND:20261121T130000Z
-DTSTAMP:20261116T073555Z
+DTSTAMP:20261116T092354Z
 UID:espn-liga-f-401882446@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at FC Badalona\nStatus: Sche
  duled\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixture
@@ -153,7 +153,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Sociedad @ Deportivo
 DTSTART:20261209T170000Z
 DTEND:20261209T190000Z
-DTSTAMP:20261116T073555Z
+DTSTAMP:20261116T092354Z
 UID:espn-liga-f-401882442@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Deportivo\nStatus: Sc
  heduled\nVenue: Riazor\, La Coruña\n\nFixtures by HerFixtures.com — Wom
@@ -165,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Dux Logroño (time TBC)
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261116T073555Z
+DTSTAMP:20261116T092354Z
 UID:espn-liga-f-401882434@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Dux Logroño\nStatus: Sch
  eduled\nKick-off time not confirmed yet. Your calendar updates automatical
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Athletic Club (time TBC)
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
-DTSTAMP:20261116T073555Z
+DTSTAMP:20261116T092354Z
 UID:espn-liga-f-401882428@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Athletic Club\nStatus: Sc
  heduled\nKick-off time not confirmed yet. Your calendar updates automatica
@@ -191,7 +191,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ Deportivo (time TBC)
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
-DTSTAMP:20261116T073555Z
+DTSTAMP:20261116T092354Z
 UID:espn-liga-f-401882418@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Deportivo\nStatus: Scheduled
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Sevilla (time TBC)
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
-DTSTAMP:20261116T073555Z
+DTSTAMP:20261116T092354Z
 UID:espn-liga-f-401882405@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Sevilla\nStatus: Schedule
  d\nKick-off time not confirmed yet. Your calendar updates automatically on
@@ -215,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Madrid CFF @ Deportivo (time TBC)
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
-DTSTAMP:20261116T073555Z
+DTSTAMP:20261116T092354Z
 UID:espn-liga-f-401882402@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Deportivo\nStatus: Sched
  uled\nKick-off time not confirmed yet. Your calendar updates automatically
@@ -228,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Atlético Madrid (time TBC)
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
-DTSTAMP:20261116T073555Z
+DTSTAMP:20261116T092354Z
 UID:espn-liga-f-401882396@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Atlético Madrid\nStatus:
   Scheduled\nKick-off time not confirmed yet. Your calendar updates automat
@@ -242,7 +242,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Badalona @ Deportivo (time TBC)
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
-DTSTAMP:20261116T073555Z
+DTSTAMP:20261116T092354Z
 UID:espn-liga-f-401882384@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Deportivo\nStatus: Sche
  duled\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -255,7 +255,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Real Sociedad (time TBC)
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
-DTSTAMP:20261116T073555Z
+DTSTAMP:20261116T092354Z
 UID:espn-liga-f-401882374@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Real Sociedad\nStatus: Sc
  heduled\nKick-off time not confirmed yet. Your calendar updates automatica
@@ -268,7 +268,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Espanyol (time TBC)
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
-DTSTAMP:20261116T073555Z
+DTSTAMP:20261116T092354Z
 UID:espn-liga-f-401882369@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Espanyol\nStatus: Schedul
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -281,7 +281,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Deportivo (time TBC)
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
-DTSTAMP:20261116T073555Z
+DTSTAMP:20261116T092354Z
 UID:espn-liga-f-401882361@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at Deportivo\nStatus: Schedule
  d\nKick-off time not confirmed yet. Your calendar updates automatically on
@@ -293,7 +293,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Deportivo (time TBC)
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
-DTSTAMP:20261116T073555Z
+DTSTAMP:20261116T092354Z
 UID:espn-liga-f-401882355@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Deportivo\nStatus: Sc
  heduled\nKick-off time not confirmed yet. Your calendar updates automatica
@@ -306,7 +306,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Alavés (time TBC)
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
-DTSTAMP:20261116T073555Z
+DTSTAMP:20261116T092354Z
 UID:espn-liga-f-401882348@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Alavés\nStatus: Schedule
  d\nKick-off time not confirmed yet. Your calendar updates automatically on
@@ -318,7 +318,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Real Madrid (time TBC)
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
-DTSTAMP:20261116T073555Z
+DTSTAMP:20261116T092354Z
 UID:espn-liga-f-401882336@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Real Madrid\nStatus: Sche
  duled\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -331,7 +331,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Deportivo (time TBC)
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
-DTSTAMP:20261116T073555Z
+DTSTAMP:20261116T092354Z
 UID:espn-liga-f-401882330@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Deportivo\nStatus: Sch
  eduled\nKick-off time not confirmed yet. Your calendar updates automatical
@@ -344,7 +344,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Valencia (time TBC)
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
-DTSTAMP:20261116T073555Z
+DTSTAMP:20261116T092354Z
 UID:espn-liga-f-401882317@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Valencia\nStatus: Schedul
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -357,7 +357,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Tenerife @ Deportivo (time TBC)
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
-DTSTAMP:20261116T073555Z
+DTSTAMP:20261116T092354Z
 UID:espn-liga-f-401882314@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nTenerife at Deportivo\nStatus: Schedul
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -370,7 +370,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Barcelona (time TBC)
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
-DTSTAMP:20261116T073555Z
+DTSTAMP:20261116T092354Z
 UID:espn-liga-f-401882305@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Barcelona\nStatus: Schedu
  led\nKick-off time not confirmed yet. Your calendar updates automatically 

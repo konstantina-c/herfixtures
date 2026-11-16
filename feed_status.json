@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16T07:36:35+00:00",
+  "generated": "2026-11-16T09:25:23+00:00",
   "for_date": "2026-11-16",
   "feeds": {
     "euroleague-women": {
@@ -59,8 +59,8 @@
       "rule": "in-season"
     },
     "nwsl": {
-      "next_game": null,
-      "upcoming_games": 0,
+      "next_game": "2026-11-22",
+      "upcoming_games": 1,
       "text": "Playoffs · Final 21 Nov",
       "style": "live",
       "rule": "highlight"

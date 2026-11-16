@@ -78,8 +78,8 @@ DTEND:20260427T020000Z
 DTSTAMP:20261116T092210Z
 UID:espn-nwsl-401853890@herfixtures.com
 DESCRIPTION:NWSL 2026 · Utah Royals\nUtah Royals at Seattle Reign FC\nSta
- tus: Full Time\nVenue: Lumen Field\, Seattle\, Washington\nTV: Victory+\n\
- nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+ tus: Full Time\nVenue: Lumen Field\, Seattle\, Washington\nTV: Victory+\n
+ \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401853890/utah-royals-seatt
  le-reign-fc
 END:VEVENT
@@ -125,9 +125,9 @@ DTSTART:20260518T000000Z
 DTEND:20260518T020000Z
 DTSTAMP:20261116T092210Z
 UID:espn-nwsl-401853913@herfixtures.com
-DESCRIPTION:NWSL 2026 · Utah Royals\nRacing Louisville FC at Utah Royals\
- nStatus: Full Time\nVenue: America First Field\, Sandy\, Utah\nTV: Victory
- +\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+DESCRIPTION:NWSL 2026 · Utah Royals\nRacing Louisville FC at Utah Royals
+ \nStatus: Full Time\nVenue: America First Field\, Sandy\, Utah\nTV: Victor
+ y+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401853913/racing-louisville
  -fc-utah-royals
 END:VEVENT
@@ -320,8 +320,8 @@ DTEND:20260928T010000Z
 DTSTAMP:20261116T092210Z
 UID:espn-nwsl-401854014@herfixtures.com
 DESCRIPTION:NWSL 2026 · Utah Royals\nNorth Carolina Courage at Utah Royal
- s\nStatus: Full Time\nVenue: America First Field\, Sandy\, Utah\nTV: Roku\
- n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+ s\nStatus: Full Time\nVenue: America First Field\, Sandy\, Utah\nTV: Roku
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401854014/north-carolina-co
  urage-utah-royals
 END:VEVENT
@@ -331,9 +331,9 @@ DTSTART:20261003T200000Z
 DTEND:20261003T220000Z
 DTSTAMP:20261116T092210Z
 UID:espn-nwsl-401854017@herfixtures.com
-DESCRIPTION:NWSL 2026 · Utah Royals\nUtah Royals at Racing Louisville FC\
- nStatus: Full Time\nVenue: Lynn Family Stadium\, Louisville\, Kentucky\nTV
- : ION\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+DESCRIPTION:NWSL 2026 · Utah Royals\nUtah Royals at Racing Louisville FC
+ \nStatus: Full Time\nVenue: Lynn Family Stadium\, Louisville\, Kentucky\nT
+ V: ION\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401854017/utah-royals-racin
  g-louisville-fc
 END:VEVENT
@@ -390,7 +390,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Utah Royals @ Washington Spirit (1–2)
 DTSTART:20261114T170000Z
 DTEND:20261114T190000Z
-DTSTAMP:20261116T092210Z
+DTSTAMP:20261116T092520Z
 UID:espn-nwsl-401933734@herfixtures.com
 DESCRIPTION:NWSL 2026 · Utah Royals\nUtah Royals at Washington Spirit\nSt
  atus: Full Time\nVenue: Audi Field\, Washington\, District of Columbia\nTV

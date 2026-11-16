@@ -104,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Nantes vs Lens (2–0)
 DTSTART:20261113T180000Z
 DTEND:20261113T200000Z
-DTSTAMP:20261116T073610Z
+DTSTAMP:20261116T092424Z
 UID:espn-premiere-ligue-401888026@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nNantes vs Lens\nStatus: Full Time\nVe
  nue: Stade Marcel-Saupin\, Nantes\n\nFixtures by HerFixtures.com — Women
@@ -115,7 +115,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Le Havre AC vs Nantes
 DTSTART:20261121T170000Z
 DTEND:20261121T190000Z
-DTSTAMP:20261116T073610Z
+DTSTAMP:20261116T092424Z
 UID:espn-premiere-ligue-401885642@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLe Havre AC vs Nantes\nStatus: Schedu
  led\nVenue: Stade Océane\, Le Havre\n\nFixtures by HerFixtures.com — Wo
@@ -127,7 +127,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Nantes vs OL Lyonnes
 DTSTART:20261212T160000Z
 DTEND:20261212T180000Z
-DTSTAMP:20261116T073610Z
+DTSTAMP:20261116T092424Z
 UID:espn-premiere-ligue-401885599@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nNantes vs OL Lyonnes\nStatus: Schedul
  ed\nVenue: Stade Marcel-Saupin\, Nantes\n\nFixtures by HerFixtures.com —
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Nantes vs Saint-Malo
 DTSTART:20261219T160000Z
 DTEND:20261219T180000Z
-DTSTAMP:20261116T073610Z
+DTSTAMP:20261116T092424Z
 UID:espn-premiere-ligue-401885689@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nNantes vs Saint-Malo\nStatus: Schedul
  ed\nVenue: Stade Marcel-Saupin\, Nantes\n\nFixtures by HerFixtures.com —
@@ -149,7 +149,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Strasbourg vs Nantes
 DTSTART:20270116T160000Z
 DTEND:20270116T180000Z
-DTSTAMP:20261116T073610Z
+DTSTAMP:20261116T092424Z
 UID:espn-premiere-ligue-401885591@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs Nantes\nStatus: Schedul
  ed\nVenue: Stade de la Meinau\, Strasbourg\n\nFixtures by HerFixtures.com 
@@ -160,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Nantes vs Paris Saint-Germain
 DTSTART:20270123T160000Z
 DTEND:20270123T180000Z
-DTSTAMP:20261116T073610Z
+DTSTAMP:20261116T092424Z
 UID:espn-premiere-ligue-401885588@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nNantes vs Paris Saint-Germain\nStatus
  : Scheduled\nVenue: Stade Marcel-Saupin\, Nantes\n\nFixtures by HerFixture
@@ -172,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Lens vs Nantes (time TBC)
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-DTSTAMP:20261116T073610Z
+DTSTAMP:20261116T092424Z
 UID:espn-premiere-ligue-401888020@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLens vs Nantes\nStatus: Scheduled\nKi
  ck-off time not confirmed yet. Your calendar updates automatically once it
@@ -184,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Nantes vs Marseille
 DTSTART:20270220T160000Z
 DTEND:20270220T180000Z
-DTSTAMP:20261116T073610Z
+DTSTAMP:20261116T092424Z
 UID:espn-premiere-ligue-401885581@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nNantes vs Marseille\nStatus: Schedule
  d\nVenue: Stade Marcel-Saupin\, Nantes\n\nFixtures by HerFixtures.com — 
@@ -195,7 +195,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Montpellier vs Nantes (time TBC)
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-DTSTAMP:20261116T073610Z
+DTSTAMP:20261116T092424Z
 UID:espn-premiere-ligue-401885579@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMontpellier vs Nantes\nStatus: Schedu
  led\nKick-off time not confirmed yet. Your calendar updates automatically 
@@ -208,7 +208,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Nantes vs Paris FC
 DTSTART:20270320T160000Z
 DTEND:20270320T180000Z
-DTSTAMP:20261116T073610Z
+DTSTAMP:20261116T092424Z
 UID:espn-premiere-ligue-401885574@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nNantes vs Paris FC\nStatus: Scheduled
  \nVenue: Stade Marcel-Saupin\, Nantes\n\nFixtures by HerFixtures.com — W
@@ -219,7 +219,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ OL Lyonnes vs Nantes (time TBC)
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
-DTSTAMP:20261116T073610Z
+DTSTAMP:20261116T092424Z
 UID:espn-premiere-ligue-401885572@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nOL Lyonnes vs Nantes\nStatus: Schedul
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -231,7 +231,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Toulouse vs Nantes (time TBC)
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
-DTSTAMP:20261116T073610Z
+DTSTAMP:20261116T092424Z
 UID:espn-premiere-ligue-401885677@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nToulouse vs Nantes\nStatus: Scheduled
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -243,7 +243,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Nantes vs Le Havre AC
 DTSTART:20270501T150000Z
 DTEND:20270501T170000Z
-DTSTAMP:20261116T073610Z
+DTSTAMP:20261116T092424Z
 UID:espn-premiere-ligue-401885565@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nNantes vs Le Havre AC\nStatus: Schedu
  led\nVenue: Stade Marcel-Saupin\, Nantes\n\nFixtures by HerFixtures.com 
@@ -255,7 +255,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Fleury 91 vs Nantes (time TBC)
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270505
-DTSTAMP:20261116T073610Z
+DTSTAMP:20261116T092424Z
 UID:espn-premiere-ligue-401885563@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nFC Fleury 91 vs Nantes\nStatus: Sched
  uled\nKick-off time not confirmed yet. Your calendar updates automatically

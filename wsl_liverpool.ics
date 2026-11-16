@@ -119,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Brighton & Hove Albion vs Liverpool (0–3)
 DTSTART:20261114T171500Z
 DTEND:20261114T191500Z
-DTSTAMP:20261116T073602Z
+DTSTAMP:20261116T092409Z
 UID:espn-wsl-401902862@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBrighton & Hove Albion vs Liverp
  ool\nStatus: Full Time\nVenue: American Express Stadium\, Falmer\nTV: Para
@@ -131,7 +131,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Liverpool vs Chelsea
 DTSTART:20261121T124500Z
 DTEND:20261121T144500Z
-DTSTAMP:20261116T073602Z
+DTSTAMP:20261116T092409Z
 UID:espn-wsl-401902853@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nLiverpool vs Chelsea\nStatus: Sc
  heduled\nVenue: St Helens Stadium\, St Helens\nTV: Paramount+\n\nFixtures 
@@ -142,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Birmingham City vs Liverpool
 DTSTART:20261213T140000Z
 DTEND:20261213T160000Z
-DTSTAMP:20261116T073602Z
+DTSTAMP:20261116T092409Z
 UID:espn-wsl-401902849@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBirmingham City vs Liverpool\nSt
  atus: Scheduled\nVenue: St. Andrew's Stadium\, Birmingham\nTV: Paramount+
@@ -154,7 +154,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Liverpool vs Crystal Palace
 DTSTART:20261220T140000Z
 DTEND:20261220T160000Z
-DTSTAMP:20261116T073602Z
+DTSTAMP:20261116T092409Z
 UID:espn-wsl-401902840@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nLiverpool vs Crystal Palace\nSta
  tus: Scheduled\nVenue: St Helens Stadium\, St Helens\nTV: Paramount+\n\nFi
@@ -166,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Tottenham Hotspur vs Liverpool
 DTSTART:20270110T140000Z
 DTEND:20270110T160000Z
-DTSTAMP:20261116T073602Z
+DTSTAMP:20261116T092409Z
 UID:espn-wsl-401902831@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nTottenham Hotspur vs Liverpool\n
  Status: Scheduled\nVenue: Gaughan Group Stadium\, London\nTV: Paramount+\n
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Arsenal vs Liverpool
 DTSTART:20270121T190000Z
 DTEND:20270121T210000Z
-DTSTAMP:20261116T073602Z
+DTSTAMP:20261116T092409Z
 UID:espn-wsl-401902824@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nArsenal vs Liverpool\nStatus: Sc
  heduled\nVenue: Emirates Stadium\, London\nTV: Paramount+\n\nFixtures by H
@@ -189,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Liverpool vs West Ham United
 DTSTART:20270124T140000Z
 DTEND:20270124T160000Z
-DTSTAMP:20261116T073602Z
+DTSTAMP:20261116T092409Z
 UID:espn-wsl-401902818@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nLiverpool vs West Ham United\nSt
  atus: Scheduled\nVenue: St Helens Stadium\, St Helens\nTV: Paramount+\n\nF
@@ -201,7 +201,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Liverpool vs Brighton & Hove Albion
 DTSTART:20270131T140000Z
 DTEND:20270131T160000Z
-DTSTAMP:20261116T073602Z
+DTSTAMP:20261116T092409Z
 UID:espn-wsl-401902811@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nLiverpool vs Brighton & Hove Alb
  ion\nStatus: Scheduled\nVenue: St Helens Stadium\, St Helens\nTV: Paramoun
@@ -213,7 +213,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Chelsea vs Liverpool
 DTSTART:20270207T140000Z
 DTEND:20270207T160000Z
-DTSTAMP:20261116T073602Z
+DTSTAMP:20261116T092409Z
 UID:espn-wsl-401902806@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nChelsea vs Liverpool\nStatus: Sc
  heduled\nVenue: Stamford Bridge\, London\nTV: Paramount+\n\nFixtures by He
@@ -224,7 +224,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Liverpool vs Birmingham City
 DTSTART:20270214T140000Z
 DTEND:20270214T160000Z
-DTSTAMP:20261116T073602Z
+DTSTAMP:20261116T092409Z
 UID:espn-wsl-401902797@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nLiverpool vs Birmingham City\nSt
  atus: Scheduled\nVenue: St Helens Stadium\, St Helens\nTV: Paramount+\n\nF
@@ -236,7 +236,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ London City Lionesses vs Liverpool
 DTSTART:20270314T140000Z
 DTEND:20270314T160000Z
-DTSTAMP:20261116T073602Z
+DTSTAMP:20261116T092409Z
 UID:espn-wsl-401902791@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nLondon City Lionesses vs Liverpo
  ol\nStatus: Scheduled\nVenue: RELOC8 EM Community Stadium\, Bromley\nTV: P
@@ -249,7 +249,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Liverpool vs Manchester United
 DTSTART:20270317T190000Z
 DTEND:20270317T210000Z
-DTSTAMP:20261116T073602Z
+DTSTAMP:20261116T092409Z
 UID:espn-wsl-401902786@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nLiverpool vs Manchester United\n
  Status: Scheduled\nVenue: St Helens Stadium\, St Helens\nTV: Paramount+\n
@@ -261,7 +261,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Everton vs Liverpool
 DTSTART:20270328T130000Z
 DTEND:20270328T150000Z
-DTSTAMP:20261116T073602Z
+DTSTAMP:20261116T092409Z
 UID:espn-wsl-401902776@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nEverton vs Liverpool\nStatus: Sc
  heduled\nVenue: Goodison Park\, Liverpool\nTV: Paramount+\n\nFixtures by H
@@ -272,7 +272,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Liverpool vs Aston Villa
 DTSTART:20270404T130000Z
 DTEND:20270404T150000Z
-DTSTAMP:20261116T073602Z
+DTSTAMP:20261116T092409Z
 UID:espn-wsl-401902769@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nLiverpool vs Aston Villa\nStatus
  : Scheduled\nVenue: Anfield\, Liverpool\nTV: Paramount+\n\nFixtures by Her
@@ -284,7 +284,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Liverpool vs Charlton Athletic
 DTSTART:20270502T130000Z
 DTEND:20270502T150000Z
-DTSTAMP:20261116T073602Z
+DTSTAMP:20261116T092409Z
 UID:espn-wsl-401902763@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nLiverpool vs Charlton Athletic\n
  Status: Scheduled\nVenue: St Helens Stadium\, St Helens\nTV: Paramount+\n
@@ -296,7 +296,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Crystal Palace vs Liverpool
 DTSTART:20270509T130000Z
 DTEND:20270509T150000Z
-DTSTAMP:20261116T073602Z
+DTSTAMP:20261116T092409Z
 UID:espn-wsl-401902755@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nCrystal Palace vs Liverpool\nSta
  tus: Scheduled\nVenue: VBS Community Stadium\, Sutton Coldfield\nTV: Param
@@ -308,7 +308,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Liverpool vs Manchester City (time TBC)
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270523
-DTSTAMP:20261116T073602Z
+DTSTAMP:20261116T092409Z
 UID:espn-wsl-401902749@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nLiverpool vs Manchester City\nSt
  atus: Scheduled\nKick-off time not confirmed yet. Your calendar updates au
