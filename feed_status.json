@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-15T22:43:15+00:00",
-  "for_date": "2026-11-15",
+  "generated": "2026-11-16T07:36:35+00:00",
+  "for_date": "2026-11-16",
   "feeds": {
     "euroleague-women": {
       "next_game": "2026-11-25",
@@ -17,22 +17,22 @@
       "rule": "in-season"
     },
     "frauen-bundesliga": {
-      "next_game": "2026-11-15",
-      "upcoming_games": 115,
+      "next_game": "2026-11-16",
+      "upcoming_games": 113,
       "text": "Season in progress",
       "style": "live",
       "rule": "in-season"
     },
     "liga-f": {
-      "next_game": "2026-11-15",
-      "upcoming_games": 157,
+      "next_game": "2026-11-21",
+      "upcoming_games": 152,
       "text": "Season in progress",
       "style": "live",
       "rule": "in-season"
     },
     "wsl": {
-      "next_game": "2026-11-15",
-      "upcoming_games": 115,
+      "next_game": "2026-11-21",
+      "upcoming_games": 112,
       "text": "Season in progress",
       "style": "live",
       "rule": "in-season"
@@ -45,29 +45,29 @@
       "rule": "in-season"
     },
     "a-league-women": {
-      "next_game": "2026-11-15",
-      "upcoming_games": 88,
+      "next_game": "2026-11-20",
+      "upcoming_games": 86,
       "text": "Season in progress",
       "style": "live",
       "rule": "in-season"
     },
     "liga-mx-femenil": {
-      "next_game": "2026-11-15",
-      "upcoming_games": 3,
+      "next_game": "2026-11-16",
+      "upcoming_games": 2,
       "text": "Season in progress",
       "style": "live",
       "rule": "in-season"
     },
     "nwsl": {
-      "next_game": "2026-11-15",
-      "upcoming_games": 1,
+      "next_game": null,
+      "upcoming_games": 0,
       "text": "Playoffs · Final 21 Nov",
       "style": "live",
       "rule": "highlight"
     },
     "ncaa-wbb": {
-      "next_game": "2026-11-15",
-      "upcoming_games": 565,
+      "next_game": "2026-11-17",
+      "upcoming_games": 553,
       "text": "Season in progress",
       "style": "live",
       "rule": "in-season"

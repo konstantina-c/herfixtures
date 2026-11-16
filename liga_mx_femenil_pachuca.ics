@@ -175,7 +175,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Pachuca vs Monterrey (0–1)
 DTSTART:20261112T030000Z
 DTEND:20261112T050000Z
-DTSTAMP:20261115T224256Z
+DTSTAMP:20261116T073625Z
 UID:espn-liga-mx-femenil-401932066@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPachu
  ca vs Monterrey\nStatus: Full Time\nVenue: Estadio Hidalgo\, Pachuca\n\nFi
@@ -183,13 +183,13 @@ DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPachu
 URL:https://www.espn.com/soccer/match/_/gameId/401932066/monterrey-pachuca
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Monterrey vs Pachuca
+SUMMARY:⚽ Monterrey vs Pachuca (3–2)
 DTSTART:20261116T010000Z
 DTEND:20261116T030000Z
-DTSTAMP:20261115T224256Z
+DTSTAMP:20261116T073625Z
 UID:espn-liga-mx-femenil-401932064@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nMonte
- rrey vs Pachuca\nStatus: Scheduled\nVenue: Estadio BBVA\, Guadalupe\n\nFix
+ rrey vs Pachuca\nStatus: Full Time\nVenue: Estadio BBVA\, Guadalupe\n\nFix
  tures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401932064/pachuca-monterrey
 END:VEVENT
