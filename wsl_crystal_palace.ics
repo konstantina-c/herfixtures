@@ -123,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Manchester United vs Crystal Palace (2–0)
 DTSTART:20261114T124500Z
 DTEND:20261114T144500Z
-DTSTAMP:20261116T092409Z
+DTSTAMP:20261116T152832Z
 UID:espn-wsl-401902863@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nManchester United vs Crystal Pal
  ace\nStatus: Full Time\nVenue: Leigh Sports Village\, Manchester\nTV: Para
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ London City Lionesses vs Crystal Palace
 DTSTART:20261121T171500Z
 DTEND:20261121T191500Z
-DTSTAMP:20261116T092409Z
+DTSTAMP:20261116T152832Z
 UID:espn-wsl-401902854@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nLondon City Lionesses vs Crystal
   Palace\nStatus: Scheduled\nVenue: RELOC8 EM Community Stadium\, Bromley\n
@@ -148,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Crystal Palace vs Manchester City
 DTSTART:20261213T120000Z
 DTEND:20261213T140000Z
-DTSTAMP:20261116T092409Z
+DTSTAMP:20261116T152832Z
 UID:espn-wsl-401902847@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nCrystal Palace vs Manchester Cit
  y\nStatus: Scheduled\nVenue: VBS Community Stadium\, Sutton Coldfield\nTV:
@@ -161,7 +161,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Liverpool vs Crystal Palace
 DTSTART:20261220T140000Z
 DTEND:20261220T160000Z
-DTSTAMP:20261116T092409Z
+DTSTAMP:20261116T152832Z
 UID:espn-wsl-401902840@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nLiverpool vs Crystal Palace\nSta
  tus: Scheduled\nVenue: St Helens Stadium\, St Helens\nTV: Paramount+\n\nFi
@@ -173,7 +173,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Crystal Palace vs Manchester United
 DTSTART:20270110T140000Z
 DTEND:20270110T160000Z
-DTSTAMP:20261116T092409Z
+DTSTAMP:20261116T152832Z
 UID:espn-wsl-401902834@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nCrystal Palace vs Manchester Uni
  ted\nStatus: Scheduled\nVenue: VBS Community Stadium\, Sutton Coldfield\nT
@@ -186,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Crystal Palace vs Aston Villa
 DTSTART:20270120T190000Z
 DTEND:20270120T210000Z
-DTSTAMP:20261116T092409Z
+DTSTAMP:20261116T152832Z
 UID:espn-wsl-401902828@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nCrystal Palace vs Aston Villa\nS
  tatus: Scheduled\nVenue: VBS Community Stadium\, Sutton Coldfield\nTV: Par
@@ -198,7 +198,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Chelsea vs Crystal Palace
 DTSTART:20270124T140000Z
 DTEND:20270124T160000Z
-DTSTAMP:20261116T092409Z
+DTSTAMP:20261116T152832Z
 UID:espn-wsl-401902820@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nChelsea vs Crystal Palace\nStatu
  s: Scheduled\nVenue: Stamford Bridge\, London\nTV: Paramount+\n\nFixtures 
@@ -210,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Charlton Athletic vs Crystal Palace
 DTSTART:20270131T140000Z
 DTEND:20270131T160000Z
-DTSTAMP:20261116T092409Z
+DTSTAMP:20261116T152832Z
 UID:espn-wsl-401902813@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nCharlton Athletic vs Crystal Pal
  ace\nStatus: Scheduled\nVenue: The Valley\, London\nTV: Paramount+\n\nFixt
@@ -222,7 +222,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Crystal Palace vs London City Lionesses
 DTSTART:20270207T140000Z
 DTEND:20270207T160000Z
-DTSTAMP:20261116T092409Z
+DTSTAMP:20261116T152832Z
 UID:espn-wsl-401902805@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nCrystal Palace vs London City Li
  onesses\nStatus: Scheduled\nVenue: VBS Community Stadium\, Sutton Coldfiel
@@ -235,7 +235,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Crystal Palace vs Arsenal
 DTSTART:20270214T140000Z
 DTEND:20270214T160000Z
-DTSTAMP:20261116T092409Z
+DTSTAMP:20261116T152832Z
 UID:espn-wsl-401902800@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nCrystal Palace vs Arsenal\nStatu
  s: Scheduled\nVenue: VBS Community Stadium\, Sutton Coldfield\nTV: Paramou
@@ -247,7 +247,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Everton vs Crystal Palace
 DTSTART:20270314T140000Z
 DTEND:20270314T160000Z
-DTSTAMP:20261116T092409Z
+DTSTAMP:20261116T152832Z
 UID:espn-wsl-401902792@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nEverton vs Crystal Palace\nStatu
  s: Scheduled\nVenue: Goodison Park\, Liverpool\nTV: Paramount+\n\nFixtures
@@ -259,7 +259,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Crystal Palace vs Birmingham City
 DTSTART:20270317T200000Z
 DTEND:20270317T220000Z
-DTSTAMP:20261116T092409Z
+DTSTAMP:20261116T152832Z
 UID:espn-wsl-401902782@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nCrystal Palace vs Birmingham Cit
  y\nStatus: Scheduled\nVenue: VBS Community Stadium\, Sutton Coldfield\nTV:
@@ -272,7 +272,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Manchester City vs Crystal Palace
 DTSTART:20270327T140000Z
 DTEND:20270327T160000Z
-DTSTAMP:20261116T092409Z
+DTSTAMP:20261116T152832Z
 UID:espn-wsl-401902781@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nManchester City vs Crystal Palac
  e\nStatus: Scheduled\nVenue: Joie Stadium\, Manchester\nTV: Paramount+\n\n
@@ -284,7 +284,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Tottenham Hotspur vs Crystal Palace
 DTSTART:20270404T130000Z
 DTEND:20270404T150000Z
-DTSTAMP:20261116T092409Z
+DTSTAMP:20261116T152832Z
 UID:espn-wsl-401902768@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nTottenham Hotspur vs Crystal Pal
  ace\nStatus: Scheduled\nVenue: Tottenham Hotspur Stadium\, London\nTV: Par
@@ -296,7 +296,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Crystal Palace vs Brighton & Hove Albion
 DTSTART:20270502T130000Z
 DTEND:20270502T150000Z
-DTSTAMP:20261116T092409Z
+DTSTAMP:20261116T152832Z
 UID:espn-wsl-401902765@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nCrystal Palace vs Brighton & Hov
  e Albion\nStatus: Scheduled\nVenue: VBS Community Stadium\, Sutton Coldfie
@@ -309,7 +309,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Crystal Palace vs Liverpool
 DTSTART:20270509T130000Z
 DTEND:20270509T150000Z
-DTSTAMP:20261116T092409Z
+DTSTAMP:20261116T152832Z
 UID:espn-wsl-401902755@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nCrystal Palace vs Liverpool\nSta
  tus: Scheduled\nVenue: VBS Community Stadium\, Sutton Coldfield\nTV: Param
@@ -321,7 +321,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ West Ham United vs Crystal Palace (time TBC)
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270523
-DTSTAMP:20261116T092409Z
+DTSTAMP:20261116T152832Z
 UID:espn-wsl-401902747@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nWest Ham United vs Crystal Palac
  e\nStatus: Scheduled\nKick-off time not confirmed yet. Your calendar updat
