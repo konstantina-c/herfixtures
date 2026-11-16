@@ -221,8 +221,8 @@
       "id": "fiba-wwc-2026",
       "name": "FIBA Women's World Cup 2026",
       "ics": "feeds/fiba-wwc-2026/all.ics",
-      "source": "manual",
-      "update": "fixtures.json + fetch_fiba_scores.py",
+      "source": "frozen",
+      "update": "Frozen Nov 16, 2026: tournament complete (final Sept 13). Files kept unchanged for existing subscribers; not in refresh.yml, not in the Scores Strip. fetch_fiba_scores.py kept for reference only.",
       "season": {
         "start": "2026-09-04",
         "end": "2026-09-13"
