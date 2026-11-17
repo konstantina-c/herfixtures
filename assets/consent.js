@@ -11,6 +11,7 @@
  * is discarded when consent is given, so it is never sent.
  *
  * Footer link: any element with [data-cookie-settings] reopens the banner.
+ * It is styled by each page's own footer CSS (same as the @Konstantina__C link).
  */
 (function () {
   'use strict';
@@ -112,9 +113,6 @@
     '.hf-consent__btn:hover{background:var(--border,rgba(255,255,255,.08));border-color:var(--text,#EFEFFA)}',
     '.hf-consent__btn:focus-visible{outline:3px solid var(--brand-fg,#5E86FF);outline-offset:2px}',
     '.hf-consent__title:focus{outline:none}',
-    '[data-cookie-settings]{appearance:none;background:none;border:0;padding:0;margin:0;font:inherit;',
-    'color:var(--text2,#9898BB);text-decoration:underline;text-underline-offset:2px;cursor:pointer}',
-    '[data-cookie-settings]:hover{color:var(--text,#EFEFFA)}',
     '[data-cookie-settings]:focus-visible{outline:2px solid var(--brand-fg,#5E86FF);outline-offset:2px;border-radius:2px}',
     '@media (max-width:600px){.hf-consent{left:0;right:0;bottom:0;width:auto;max-width:none;',
     'border-radius:16px 16px 0 0;border-bottom:0;box-shadow:0 -8px 30px rgba(0,0,0,.25)}',
@@ -188,6 +186,12 @@
       open(true);
     });
     document.addEventListener('keydown', function (e) {
+      // the footer link has role="button", so Space activates it too
+      if (e.key === ' ' && e.target.closest && e.target.closest('[data-cookie-settings]')) {
+        e.preventDefault();
+        e.target.click();
+        return;
+      }
       if (e.key === 'Escape' && banner && !banner.hidden && returnFocusTo) close();
     });
     var choice = readChoice();
