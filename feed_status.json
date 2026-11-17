@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-16T15:30:01+00:00",
-  "for_date": "2026-11-16",
+  "generated": "2026-11-17T01:50:07+00:00",
+  "for_date": "2026-11-17",
   "feeds": {
     "euroleague-women": {
       "next_game": "2026-11-25",
@@ -17,8 +17,8 @@
       "rule": "in-season"
     },
     "frauen-bundesliga": {
-      "next_game": "2026-11-16",
-      "upcoming_games": 113,
+      "next_game": "2026-11-20",
+      "upcoming_games": 112,
       "text": "Season in progress",
       "style": "live",
       "rule": "in-season"
@@ -52,11 +52,11 @@
       "rule": "in-season"
     },
     "liga-mx-femenil": {
-      "next_game": "2026-11-16",
-      "upcoming_games": 2,
-      "text": "Season in progress",
+      "next_game": "2026-12-09",
+      "upcoming_games": 4,
+      "text": "Semi-finals from 9 Dec",
       "style": "live",
-      "rule": "in-season"
+      "rule": "highlight"
     },
     "nwsl": {
       "next_game": "2026-11-22",
