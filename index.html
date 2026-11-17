@@ -1673,6 +1673,13 @@ async function subscribeHer(emailId, leagueId, btn) {
   width: 36px; height: 36px; object-fit: contain;
   border-radius: 50%;
 }
+/* Dark mode: a mid-grey disc behind every crest so black logos (Iowa, Saint-Malo)
+   stay readable. #5A5A74 = 3.15:1 against black (WCAG non-text minimum is 3:1). */
+[data-theme="dark"] .wnba-tile-logo {
+  background: #5A5A74;
+  padding: 4px;
+  box-sizing: border-box;
+}
 .wnba-tile-emoji {
   font-size: 28px; line-height: 1;
   width: 36px; height: 36px;
@@ -1985,7 +1992,7 @@ const PREMIERE_LIGUE_CONFIG = {
     { name: "OL Lyonnes",                slug: "premiere_ligue_ol_lyonnes",                  logo: "https://a.espncdn.com/i/teamlogos/soccer/500/19256.png" },
     { name: "Paris FC",                  slug: "premiere_ligue_paris_fc",                    logo: "https://a.espncdn.com/i/teamlogos/soccer/500/21640.png" },
     { name: "Paris Saint-Germain",       slug: "premiere_ligue_psg",                         logo: "https://a.espncdn.com/i/teamlogos/soccer/500/19258.png" },
-    { name: "Saint-Malo",                slug: "premiere_ligue_saint_malo",                  emoji: "⚽" },
+    { name: "Saint-Malo",                slug: "premiere_ligue_saint_malo",                  logo: "/assets/team-logos/saint-malo.png" },
     { name: "Strasbourg",                slug: "premiere_ligue_strasbourg",                  logo: "https://a.espncdn.com/i/teamlogos/soccer/500/180.png" },
     { name: "Toulouse",                  slug: "premiere_ligue_toulouse",                    logo: "https://a.espncdn.com/i/teamlogos/soccer/500/179.png" },
   ],
@@ -2067,20 +2074,20 @@ const FRAUEN_BL_CONFIG = {
   gaLabel:     'Frauen-Bundesliga',
   teams: [
     { name: "All teams",              slug: "frauen_bundesliga",        emoji: "🇩🇪" },
-    { name: "Bayern München",         slug: "frauen_bl_bayern",         logo: "https://i.imgur.com/jJEsJrj.png" },
-    { name: "VfL Wolfsburg",          slug: "frauen_bl_wolfsburg",      logo: "https://i.imgur.com/ucqKV4B.png" },
-    { name: "Eintracht Frankfurt",    slug: "frauen_bl_frankfurt",      logo: "https://i.imgur.com/X8NFkOb.png" },
-    { name: "SC Freiburg",            slug: "frauen_bl_freiburg",       logo: "https://i.imgur.com/r3mvi0h.png" },
-    { name: "TSG Hoffenheim",         slug: "frauen_bl_hoffenheim",     logo: "https://i.imgur.com/gF0PfEl.png" },
-    { name: "Bayer Leverkusen",       slug: "frauen_bl_leverkusen",     logo: "https://upload.wikimedia.org/wikipedia/en/5/59/Bayer_04_Leverkusen_logo.svg" },
-    { name: "RB Leipzig",             slug: "frauen_bl_leipzig",        logo: "https://i.imgur.com/Rpwsjz1.png" },
-    { name: "1. FC Köln",             slug: "frauen_bl_koeln",          logo: "https://upload.wikimedia.org/wikipedia/commons/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg" },
-    { name: "Union Berlin",           slug: "frauen_bl_union_berlin",   logo: "https://upload.wikimedia.org/wikipedia/commons/4/44/1._FC_Union_Berlin_Logo.svg" },
-    { name: "SV Werder Bremen",       slug: "frauen_bl_bremen",         logo: "https://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg" },
-    { name: "Hamburger SV",           slug: "frauen_bl_hsv",            logo: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg" },
-    { name: "VfB Stuttgart",          slug: "frauen_bl_stuttgart",      logo: "https://i.imgur.com/v0tkpNx.png" },
-    { name: "1. FC Nürnberg",         slug: "frauen_bl_nuernberg",      logo: "https://upload.wikimedia.org/wikipedia/commons/f/fa/1._FC_Nürnberg_logo.svg" },
-    { name: "1. FSV Mainz 05",        slug: "frauen_bl_mainz",          logo: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_Mainz_05.svg" },
+    { name: "Bayern München",         slug: "frauen_bl_bayern",         logo: "https://a.espncdn.com/i/teamlogos/soccer/500/132.png" },
+    { name: "VfL Wolfsburg",          slug: "frauen_bl_wolfsburg",      logo: "https://a.espncdn.com/i/teamlogos/soccer/500/138.png" },
+    { name: "Eintracht Frankfurt",    slug: "frauen_bl_frankfurt",      logo: "https://a.espncdn.com/i/teamlogos/soccer/500/125.png" },
+    { name: "SC Freiburg",            slug: "frauen_bl_freiburg",       logo: "https://a.espncdn.com/i/teamlogos/soccer/500/126.png" },
+    { name: "TSG Hoffenheim",         slug: "frauen_bl_hoffenheim",     logo: "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png" },
+    { name: "Bayer Leverkusen",       slug: "frauen_bl_leverkusen",     logo: "https://a.espncdn.com/i/teamlogos/soccer/500/131.png" },
+    { name: "RB Leipzig",             slug: "frauen_bl_leipzig",        logo: "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png" },
+    { name: "1. FC Köln",             slug: "frauen_bl_koeln",          logo: "https://a.espncdn.com/i/teamlogos/soccer/500/122.png" },
+    { name: "Union Berlin",           slug: "frauen_bl_union_berlin",   logo: "https://a.espncdn.com/i/teamlogos/soccer/500/598.png" },
+    { name: "SV Werder Bremen",       slug: "frauen_bl_bremen",         logo: "https://a.espncdn.com/i/teamlogos/soccer/500/137.png" },
+    { name: "Hamburger SV",           slug: "frauen_bl_hsv",            logo: "https://a.espncdn.com/i/teamlogos/soccer/500/127.png" },
+    { name: "VfB Stuttgart",          slug: "frauen_bl_stuttgart",      logo: "https://a.espncdn.com/i/teamlogos/soccer/500/134.png" },
+    { name: "1. FC Nürnberg",         slug: "frauen_bl_nuernberg",      logo: "https://a.espncdn.com/i/teamlogos/soccer/500/269.png" },
+    { name: "1. FSV Mainz 05",        slug: "frauen_bl_mainz",          logo: "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png" },
   ]
 };
 
