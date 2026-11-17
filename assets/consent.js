@@ -105,21 +105,22 @@
     '.hf-consent__text a{color:var(--brand-fg,#5E86FF)}',
     '.hf-consent__actions{display:grid;grid-template-columns:1fr 1fr;gap:10px}',
     /* Both buttons share one class: identical size, style and contrast. */
-    ".hf-consent__btn{appearance:none;margin:0;min-height:44px;padding:10px 12px;border-radius:12px;",
-    "border:1px solid var(--text,#EFEFFA);background:var(--text,#EFEFFA);color:var(--bg,#0C0C18);",
-    "font-family:'DM Sans',sans-serif;font-size:14px;font-weight:600;line-height:1.2;cursor:pointer}",
-    '.hf-consent__btn:hover{opacity:.88}',
+    ".hf-consent__btn{appearance:none;margin:0;min-height:38px;padding:8px 12px;border-radius:10px;",
+    "border:1px solid var(--text2,#9898BB);background:transparent;color:var(--text,#EFEFFA);",
+    "font-family:'DM Sans',sans-serif;font-size:13px;font-weight:600;line-height:1.2;cursor:pointer;",
+    "transition:background-color .15s ease,border-color .15s ease}",
+    '.hf-consent__btn:hover{background:var(--border,rgba(255,255,255,.08));border-color:var(--text,#EFEFFA)}',
     '.hf-consent__btn:focus-visible{outline:3px solid var(--brand-fg,#5E86FF);outline-offset:2px}',
     '.hf-consent__title:focus{outline:none}',
     '[data-cookie-settings]{appearance:none;background:none;border:0;padding:0;margin:0;font:inherit;',
-    'color:inherit;text-decoration:underline;text-underline-offset:2px;cursor:pointer}',
+    'color:var(--text2,#9898BB);text-decoration:underline;text-underline-offset:2px;cursor:pointer}',
     '[data-cookie-settings]:hover{color:var(--text,#EFEFFA)}',
     '[data-cookie-settings]:focus-visible{outline:2px solid var(--brand-fg,#5E86FF);outline-offset:2px;border-radius:2px}',
     '@media (max-width:600px){.hf-consent{left:0;right:0;bottom:0;width:auto;max-width:none;',
     'border-radius:16px 16px 0 0;border-bottom:0;box-shadow:0 -8px 30px rgba(0,0,0,.25)}',
     '.hf-consent__body{padding:14px 16px calc(14px + env(safe-area-inset-bottom))}',
-    '.hf-consent__text{font-size:13px;margin-bottom:12px}}',
-    '@media (prefers-reduced-motion:reduce){.hf-consent{transition:none;transform:none}}'
+    '.hf-consent__text{font-size:13px;margin-bottom:12px}.hf-consent__btn{min-height:44px}}',
+    '@media (prefers-reduced-motion:reduce){.hf-consent,.hf-consent__btn{transition:none}.hf-consent{transform:none}}'
   ].join('');
 
   function build() {
