@@ -130,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Valencia (0–0)
 DTSTART:20261115T171500Z
 DTEND:20261115T191500Z
-DTSTAMP:20261117T014820Z
+DTSTAMP:20261117T154926Z
 UID:espn-liga-f-401882453@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at Valencia\nStatus: Full Time
  \nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtures.com
@@ -141,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Espanyol
 DTSTART:20261123T190000Z
 DTEND:20261123T210000Z
-DTSTAMP:20261117T014820Z
+DTSTAMP:20261117T154926Z
 UID:espn-liga-f-401882449@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at Espanyol\nStatus: Schedule
  d\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFixtu
@@ -152,10 +152,11 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ FC Badalona
 DTSTART:20261208T120000Z
 DTEND:20261208T140000Z
-DTSTAMP:20261117T014820Z
+DTSTAMP:20261117T154926Z
 UID:espn-liga-f-401882439@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at FC Badalona\nStatus: Sched
- uled\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+ uled\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401882439/valencia-fc-badal
  ona
 END:VEVENT
@@ -163,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Valencia (time TBC)
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261117T014820Z
+DTSTAMP:20261117T154926Z
 UID:espn-liga-f-401882429@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Valencia\nStatus: Schedul
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -176,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Sevilla (time TBC)
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
-DTSTAMP:20261117T014820Z
+DTSTAMP:20261117T154926Z
 UID:espn-liga-f-401882421@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at Sevilla\nStatus: Scheduled
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -188,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ Valencia (time TBC)
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
-DTSTAMP:20261117T014820Z
+DTSTAMP:20261117T154926Z
 UID:espn-liga-f-401882413@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Valencia\nStatus: Sched
  uled\nKick-off time not confirmed yet. Your calendar updates automatically
@@ -201,7 +202,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Eibar (time TBC)
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
-DTSTAMP:20261117T014820Z
+DTSTAMP:20261117T154926Z
 UID:espn-liga-f-401882410@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at Eibar\nStatus: Scheduled\n
  Kick-off time not confirmed yet. Your calendar updates automatically once 
@@ -213,7 +214,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Valencia (time TBC)
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
-DTSTAMP:20261117T014820Z
+DTSTAMP:20261117T154926Z
 UID:espn-liga-f-401882397@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Valencia\nStatus: Sch
  eduled\nKick-off time not confirmed yet. Your calendar updates automatical
@@ -226,7 +227,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Valencia (time TBC)
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
-DTSTAMP:20261117T014820Z
+DTSTAMP:20261117T154926Z
 UID:espn-liga-f-401882389@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Valencia\nStatus: Scheduled
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -238,7 +239,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Tenerife (time TBC)
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
-DTSTAMP:20261117T014820Z
+DTSTAMP:20261117T154926Z
 UID:espn-liga-f-401882385@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at Tenerife\nStatus: Schedule
  d\nKick-off time not confirmed yet. Your calendar updates automatically on
@@ -250,7 +251,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ Valencia (time TBC)
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
-DTSTAMP:20261117T014820Z
+DTSTAMP:20261117T154926Z
 UID:espn-liga-f-401882373@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Valencia\nStatus: Schedule
  d\nKick-off time not confirmed yet. Your calendar updates automatically on
@@ -262,7 +263,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Madrid CFF (time TBC)
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
-DTSTAMP:20261117T014820Z
+DTSTAMP:20261117T154926Z
 UID:espn-liga-f-401882366@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at Madrid CFF\nStatus: Schedu
  led\nKick-off time not confirmed yet. Your calendar updates automatically 
@@ -275,7 +276,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Valencia (time TBC)
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
-DTSTAMP:20261117T014820Z
+DTSTAMP:20261117T154926Z
 UID:espn-liga-f-401882357@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Valencia\nStatus: Scheduled
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -287,7 +288,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Barcelona (time TBC)
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
-DTSTAMP:20261117T014820Z
+DTSTAMP:20261117T154926Z
 UID:espn-liga-f-401882352@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at Barcelona\nStatus: Schedul
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -300,7 +301,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Badalona @ Valencia (time TBC)
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
-DTSTAMP:20261117T014820Z
+DTSTAMP:20261117T154926Z
 UID:espn-liga-f-401882341@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Valencia\nStatus: Sched
  uled\nKick-off time not confirmed yet. Your calendar updates automatically
@@ -313,7 +314,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Valencia (time TBC)
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
-DTSTAMP:20261117T014820Z
+DTSTAMP:20261117T154926Z
 UID:espn-liga-f-401882333@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Valencia\nStatus: Sche
  duled\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -326,7 +327,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Granada (time TBC)
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
-DTSTAMP:20261117T014820Z
+DTSTAMP:20261117T154926Z
 UID:espn-liga-f-401882327@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at Granada\nStatus: Scheduled
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -338,7 +339,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Valencia (time TBC)
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
-DTSTAMP:20261117T014820Z
+DTSTAMP:20261117T154926Z
 UID:espn-liga-f-401882317@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Valencia\nStatus: Schedul
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -351,7 +352,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Real Sociedad (time TBC)
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
-DTSTAMP:20261117T014820Z
+DTSTAMP:20261117T154926Z
 UID:espn-liga-f-401882309@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at Real Sociedad\nStatus: Sch
  eduled\nKick-off time not confirmed yet. Your calendar updates automatical
@@ -364,7 +365,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Atlético Madrid @ Valencia (time TBC)
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
-DTSTAMP:20261117T014820Z
+DTSTAMP:20261117T154926Z
 UID:espn-liga-f-401882100@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Valencia\nStatus: 
  Scheduled\nKick-off time not confirmed yet. Your calendar updates automati

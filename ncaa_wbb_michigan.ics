@@ -14,7 +14,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #2 UConn @ #5 Michigan (66–77)
 DTSTART:20261105T233000Z
 DTEND:20261106T013000Z
-DTSTAMP:20261117T014941Z
+DTSTAMP:20261117T155050Z
 UID:espn-ncaa-wbb-401911737@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#2 UConn at 
  #5 Michigan\nStatus: Final\nVenue: Crisler Center\, Ann Arbor\n\nFixtures 
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Wright State @ #5 Michigan (52–109)
 DTSTART:20261108T190000Z
 DTEND:20261108T210000Z
-DTSTAMP:20261117T014941Z
+DTSTAMP:20261117T155050Z
 UID:espn-ncaa-wbb-401927068@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nWright State
   at #5 Michigan\nStatus: Final\nVenue: Crisler Center\, Ann Arbor\n\nFixtu
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #2 Michigan @ Columbia (81–58)
 DTSTART:20261113T000000Z
 DTEND:20261113T020000Z
-DTSTAMP:20261117T014941Z
+DTSTAMP:20261117T155050Z
 UID:espn-ncaa-wbb-401919324@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#2 Michigan 
  at Columbia\nStatus: Final\nVenue: Levien Gymnasium\, New York\n\nFixtures
@@ -47,21 +47,22 @@ URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401919324
  /michigan-columbia
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 #2 Michigan @ Central Michigan
+SUMMARY:🏀 #2 Michigan @ Central Michigan (101–30)
 DTSTART:20261117T010000Z
 DTEND:20261117T030000Z
-DTSTAMP:20261117T014941Z
+DTSTAMP:20261117T155050Z
 UID:espn-ncaa-wbb-401927069@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#2 Michigan 
- at Central Michigan\nStatus: In Progress\nVenue: McGuirk Arena\, Mount Ple
- asant\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/womens-college-basketball/game?gameId=401927069
+ at Central Michigan\nStatus: Final\nVenue: McGuirk Arena\, Mount Pleasant
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401927069
+ /michigan-c-michigan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏀 Niagara @ #2 Michigan
 DTSTART:20261119T000000Z
 DTEND:20261119T020000Z
-DTSTAMP:20261117T014941Z
+DTSTAMP:20261117T155050Z
 UID:espn-ncaa-wbb-401916196@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nNiagara at #
  2 Michigan\nStatus: Scheduled\nVenue: Crisler Center\, Ann Arbor\n\nFixtur
@@ -73,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #2 Michigan @ Miami
 DTSTART:20261123T210000Z
 DTEND:20261123T230000Z
-DTSTAMP:20261117T014941Z
+DTSTAMP:20261117T155050Z
 UID:espn-ncaa-wbb-401913729@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#2 Michigan 
  at Miami\nStatus: Scheduled\nVenue: Baha Mar Convention Center\, Nassau\n
@@ -85,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toledo @ #2 Michigan
 DTSTART:20261125T183000Z
 DTEND:20261125T203000Z
-DTSTAMP:20261117T014941Z
+DTSTAMP:20261117T155050Z
 UID:espn-ncaa-wbb-401927070@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nToledo at #2
   Michigan\nStatus: Scheduled\nVenue: Baha Mar Convention Center\, Nassau\n
@@ -97,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Southern Indiana @ #2 Michigan
 DTSTART:20261201T000000Z
 DTEND:20261201T020000Z
-DTSTAMP:20261117T014941Z
+DTSTAMP:20261117T155050Z
 UID:espn-ncaa-wbb-401927071@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nSouthern Ind
  iana at #2 Michigan\nStatus: Scheduled\nVenue: Crisler Center\, Ann Arbor
@@ -109,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #2 Michigan @ #14 Oklahoma
 DTSTART:20261205T070000Z
 DTEND:20261205T090000Z
-DTSTAMP:20261117T014941Z
+DTSTAMP:20261117T155050Z
 UID:espn-ncaa-wbb-401927072@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#2 Michigan 
  at #14 Oklahoma\nStatus: Scheduled\nVenue: Barclaycard Center\, Madrid\n\n
@@ -121,7 +122,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Kent State @ #2 Michigan
 DTSTART:20261208T000000Z
 DTEND:20261208T020000Z
-DTSTAMP:20261117T014941Z
+DTSTAMP:20261117T155050Z
 UID:espn-ncaa-wbb-401927073@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nKent State a
  t #2 Michigan\nStatus: Scheduled\nVenue: Crisler Center\, Ann Arbor\n\nFix
@@ -133,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #2 Michigan @ #18 Maryland
 DTSTART:20261212T000000Z
 DTEND:20261212T020000Z
-DTSTAMP:20261117T014941Z
+DTSTAMP:20261117T155050Z
 UID:espn-ncaa-wbb-401921855@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#2 Michigan 
  at #18 Maryland\nStatus: Scheduled\nVenue: XFINITY Center\, College Park\n
@@ -145,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Detroit Mercy @ #2 Michigan
 DTSTART:20261221T170000Z
 DTEND:20261221T190000Z
-DTSTAMP:20261117T014941Z
+DTSTAMP:20261117T155050Z
 UID:espn-ncaa-wbb-401927074@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nDetroit Merc
  y at #2 Michigan\nStatus: Scheduled\nVenue: Crisler Center\, Ann Arbor\n\n
@@ -157,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Michigan State @ #2 Michigan
 DTSTART:20261229T230000Z
 DTEND:20261230T010000Z
-DTSTAMP:20261117T014941Z
+DTSTAMP:20261117T155050Z
 UID:espn-ncaa-wbb-401921857@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nMichigan Sta
  te at #2 Michigan\nStatus: Scheduled\nVenue: Crisler Center\, Ann Arbor\n
@@ -169,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #2 Michigan @ Purdue
 DTSTART:20270101T170000Z
 DTEND:20270101T190000Z
-DTSTAMP:20261117T014941Z
+DTSTAMP:20261117T155050Z
 UID:espn-ncaa-wbb-401922067@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#2 Michigan 
  at Purdue\nStatus: Scheduled\nVenue: Mackey Arena\, West Lafayette\n\nFixt
@@ -181,7 +182,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #19 Ohio State @ #2 Michigan
 DTSTART:20270108T000000Z
 DTEND:20270108T020000Z
-DTSTAMP:20261117T014941Z
+DTSTAMP:20261117T155050Z
 UID:espn-ncaa-wbb-401922082@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#19 Ohio Sta
  te at #2 Michigan\nStatus: Scheduled\nVenue: Crisler Center\, Ann Arbor\n
@@ -193,7 +194,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Oregon @ #2 Michigan
 DTSTART:20270110T170000Z
 DTEND:20270110T190000Z
-DTSTAMP:20261117T014941Z
+DTSTAMP:20261117T155050Z
 UID:espn-ncaa-wbb-401922089@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nOregon at #2
   Michigan\nStatus: Scheduled\nVenue: Crisler Center\, Ann Arbor\n\nFixture
@@ -205,7 +206,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #2 Michigan @ #23 Nebraska
 DTSTART:20270114T000000Z
 DTEND:20270114T020000Z
-DTSTAMP:20261117T014941Z
+DTSTAMP:20261117T155050Z
 UID:espn-ncaa-wbb-401922097@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#2 Michigan 
  at #23 Nebraska\nStatus: Scheduled\nVenue: Pinnacle Bank Arena\, Lincoln\n
@@ -217,7 +218,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Rutgers @ #2 Michigan
 DTSTART:20270117T210000Z
 DTEND:20270117T230000Z
-DTSTAMP:20261117T014941Z
+DTSTAMP:20261117T155050Z
 UID:espn-ncaa-wbb-401922110@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nRutgers at #
  2 Michigan\nStatus: Scheduled\nVenue: Crisler Center\, Ann Arbor\n\nFixtur
@@ -229,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #2 Michigan @ #21 Illinois
 DTSTART:20270121T010000Z
 DTEND:20270121T030000Z
-DTSTAMP:20261117T014941Z
+DTSTAMP:20261117T155050Z
 UID:espn-ncaa-wbb-401922112@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#2 Michigan 
  at #21 Illinois\nStatus: Scheduled\nVenue: State Farm Center\, Champaign\n
@@ -241,7 +242,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #16 Washington @ #2 Michigan
 DTSTART:20270123T220000Z
 DTEND:20270124T000000Z
-DTSTAMP:20261117T014941Z
+DTSTAMP:20261117T155050Z
 UID:espn-ncaa-wbb-401922120@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#16 Washingt
  on at #2 Michigan\nStatus: Scheduled\nVenue: Crisler Center\, Ann Arbor\n
@@ -253,7 +254,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Penn State @ #2 Michigan
 DTSTART:20270127T230000Z
 DTEND:20270128T010000Z
-DTSTAMP:20261117T014941Z
+DTSTAMP:20261117T155050Z
 UID:espn-ncaa-wbb-401922129@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nPenn State a
  t #2 Michigan\nStatus: Scheduled\nVenue: Crisler Center\, Ann Arbor\n\nFix
@@ -265,7 +266,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #2 Michigan @ #4 USC
 DTSTART:20270130T223000Z
 DTEND:20270131T003000Z
-DTSTAMP:20261117T014941Z
+DTSTAMP:20261117T155050Z
 UID:espn-ncaa-wbb-401922136@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#2 Michigan 
  at #4 USC\nStatus: Scheduled\nVenue: Galen Center\, Los Angeles\n\nFixture
@@ -277,7 +278,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #2 Michigan @ #10 UCLA
 DTSTART:20270203T030000Z
 DTEND:20270203T050000Z
-DTSTAMP:20261117T014941Z
+DTSTAMP:20261117T155050Z
 UID:espn-ncaa-wbb-401922144@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#2 Michigan 
  at #10 UCLA\nStatus: Scheduled\nVenue: Pauley Pavilion\, Los Angeles\n\nFi
@@ -289,7 +290,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #8 Iowa @ #2 Michigan
 DTSTART:20270207T170000Z
 DTEND:20270207T190000Z
-DTSTAMP:20261117T014941Z
+DTSTAMP:20261117T155050Z
 UID:espn-ncaa-wbb-401922152@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#8 Iowa at #
  2 Michigan\nStatus: Scheduled\nVenue: Crisler Center\, Ann Arbor\n\nFixtur
@@ -301,7 +302,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Northwestern @ #2 Michigan
 DTSTART:20270213T000000Z
 DTEND:20270213T020000Z
-DTSTAMP:20261117T014941Z
+DTSTAMP:20261117T155050Z
 UID:espn-ncaa-wbb-401922166@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nNorthwestern
   at #2 Michigan\nStatus: Scheduled\nVenue: Crisler Center\, Ann Arbor\n\nF
@@ -313,7 +314,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #2 Michigan @ #17 Minnesota
 DTSTART:20270218T010000Z
 DTEND:20270218T030000Z
-DTSTAMP:20261117T014941Z
+DTSTAMP:20261117T155050Z
 UID:espn-ncaa-wbb-401922177@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#2 Michigan 
  at #17 Minnesota\nStatus: Scheduled\nVenue: The Barn by Blue Cross and Blu
@@ -326,7 +327,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #2 Michigan @ Wisconsin
 DTSTART:20270220T180000Z
 DTEND:20270220T200000Z
-DTSTAMP:20261117T014941Z
+DTSTAMP:20261117T155050Z
 UID:espn-ncaa-wbb-401922183@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#2 Michigan 
  at Wisconsin\nStatus: Scheduled\nVenue: Kohl Center\, Madison\n\nFixtures 
@@ -338,7 +339,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Indiana @ #2 Michigan
 DTSTART:20270224T233000Z
 DTEND:20270225T013000Z
-DTSTAMP:20261117T014941Z
+DTSTAMP:20261117T155050Z
 UID:espn-ncaa-wbb-401922192@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nIndiana at #
  2 Michigan\nStatus: Scheduled\nVenue: Crisler Center\, Ann Arbor\n\nFixtur
@@ -350,7 +351,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #2 Michigan @ Michigan State
 DTSTART:20270228T180000Z
 DTEND:20270228T200000Z
-DTSTAMP:20261117T014941Z
+DTSTAMP:20261117T155050Z
 UID:espn-ncaa-wbb-401922204@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#2 Michigan 
  at Michigan State\nStatus: Scheduled\nVenue: Breslin Center\, East Lansing
