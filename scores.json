@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T00:52:09Z",
+  "updated": "2026-11-18T15:29:19Z",
   "competitions": {
     "wnba": {
       "name": "WNBA",
@@ -35,7 +35,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19257.png"
           },
           "kickoff": "2026-11-18T17:45:00Z",
-          "kickoff_label": "in 17h"
+          "kickoff_label": "in 2h"
         },
         {
           "league": "Women's UCL",
@@ -48,7 +48,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131635.png"
           },
           "kickoff": "2026-11-18T17:45:00Z",
-          "kickoff_label": "in 17h"
+          "kickoff_label": "in 2h"
         },
         {
           "league": "Women's UCL",
@@ -61,7 +61,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19258.png"
           },
           "kickoff": "2026-11-18T20:00:00Z",
-          "kickoff_label": "in 19h"
+          "kickoff_label": "in 5h"
         },
         {
           "league": "Women's UCL",
@@ -74,7 +74,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131423.png"
           },
           "kickoff": "2026-11-18T20:00:00Z",
-          "kickoff_label": "in 19h"
+          "kickoff_label": "in 5h"
         },
         {
           "league": "Women's UCL",

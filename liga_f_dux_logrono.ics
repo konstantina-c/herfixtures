@@ -133,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Madrid CFF (3–2)
 DTSTART:20261115T110000Z
 DTEND:20261115T130000Z
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882457@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Madrid CFF\nStatus: Fu
  ll Time\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFi
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Dux Logroño
 DTSTART:20261121T180000Z
 DTEND:20261121T200000Z
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882451@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Dux Logroño\nStatus: Sched
  uled\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — Wome
@@ -157,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Eibar
 DTSTART:20261209T180000Z
 DTEND:20261209T200000Z
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882441@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Eibar\nStatus: Schedul
  ed\nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sport
@@ -168,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Dux Logroño (time TBC)
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882434@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Dux Logroño\nStatus: Sch
  eduled\nKick-off time not confirmed yet. Your calendar updates automatical
@@ -181,7 +181,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Real Madrid (time TBC)
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882422@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Real Madrid\nStatus: S
  cheduled\nKick-off time not confirmed yet. Your calendar updates automatic
@@ -194,7 +194,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Atlético Madrid @ Dux Logroño (time TBC)
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882417@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Dux Logroño\nStat
  us: Scheduled\nKick-off time not confirmed yet. Your calendar updates auto
@@ -207,7 +207,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ FC Badalona (time TBC)
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882407@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at FC Badalona\nStatus: S
  cheduled\nKick-off time not confirmed yet. Your calendar updates automatic
@@ -220,7 +220,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Sevilla (time TBC)
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882398@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Sevilla\nStatus: Sched
  uled\nKick-off time not confirmed yet. Your calendar updates automatically
@@ -233,7 +233,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Tenerife @ Dux Logroño (time TBC)
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882395@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nTenerife at Dux Logroño\nStatus: Sche
  duled\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -246,7 +246,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Barcelona (time TBC)
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882382@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Barcelona\nStatus: Sch
  eduled\nKick-off time not confirmed yet. Your calendar updates automatical
@@ -259,7 +259,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ Dux Logroño (time TBC)
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882379@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Dux Logroño\nStatus: Schedul
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -271,7 +271,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Athletic Club (time TBC)
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882372@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Athletic Club\nStatus:
   Scheduled\nKick-off time not confirmed yet. Your calendar updates automat
@@ -284,7 +284,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Alavés (time TBC)
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882364@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Alavés\nStatus: Sched
  uled\nKick-off time not confirmed yet. Your calendar updates automatically
@@ -297,7 +297,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Sociedad @ Dux Logroño (time TBC)
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882354@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Dux Logroño\nStatus:
   Scheduled\nKick-off time not confirmed yet. Your calendar updates automat
@@ -310,7 +310,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ Dux Logroño (time TBC)
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882346@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Dux Logroño\nStatus: S
  cheduled\nKick-off time not confirmed yet. Your calendar updates automatic
@@ -323,7 +323,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Valencia (time TBC)
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882333@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Valencia\nStatus: Sche
  duled\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -336,7 +336,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Deportivo (time TBC)
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882330@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Deportivo\nStatus: Sch
  eduled\nKick-off time not confirmed yet. Your calendar updates automatical
@@ -349,7 +349,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Madrid CFF @ Dux Logroño (time TBC)
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882322@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Dux Logroño\nStatus: Sc
  heduled\nKick-off time not confirmed yet. Your calendar updates automatica
@@ -362,7 +362,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Granada (time TBC)
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882311@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Granada\nStatus: Sched
  uled\nKick-off time not confirmed yet. Your calendar updates automatically
@@ -375,7 +375,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ Dux Logroño (time TBC)
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882306@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Dux Logroño\nStatus: Sche
  duled\nKick-off time not confirmed yet. Your calendar updates automaticall

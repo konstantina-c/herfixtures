@@ -128,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Valencia (0–0)
 DTSTART:20261115T171500Z
 DTEND:20261115T191500Z
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882453@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at Valencia\nStatus: Full Time
  \nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtures.com
@@ -139,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ Granada
 DTSTART:20261122T110000Z
 DTEND:20261122T130000Z
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882447@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Granada\nStatus: Schedu
  led\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by HerFi
@@ -151,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Sevilla
 DTSTART:20261209T190000Z
 DTEND:20261209T210000Z
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882437@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at Sevilla\nStatus: Scheduled
  \nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.com —
@@ -162,7 +162,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Granada (time TBC)
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882432@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Granada\nStatus: Sche
  duled\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -175,7 +175,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Tenerife @ Granada (time TBC)
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882425@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nTenerife at Granada\nStatus: Scheduled
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -187,7 +187,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Real Sociedad (time TBC)
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882414@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at Real Sociedad\nStatus: Sche
  duled\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -200,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Granada (time TBC)
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882409@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Granada\nStatus: Scheduled
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -212,7 +212,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Espanyol (time TBC)
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882401@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at Espanyol\nStatus: Scheduled
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -224,7 +224,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Granada (time TBC)
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882393@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Granada\nStatus: Schedule
  d\nKick-off time not confirmed yet. Your calendar updates automatically on
@@ -236,7 +236,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Eibar (time TBC)
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882383@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at Eibar\nStatus: Scheduled\nK
  ick-off time not confirmed yet. Your calendar updates automatically once i
@@ -248,7 +248,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Granada (time TBC)
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882378@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Granada\nStatus: Scheduled
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -260,7 +260,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Badalona @ Granada (time TBC)
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882367@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Granada\nStatus: Schedu
  led\nKick-off time not confirmed yet. Your calendar updates automatically 
@@ -273,7 +273,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Deportivo (time TBC)
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882361@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at Deportivo\nStatus: Schedule
  d\nKick-off time not confirmed yet. Your calendar updates automatically on
@@ -285,7 +285,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Atlético Madrid (time TBC)
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882356@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at Atlético Madrid\nStatus: S
  cheduled\nKick-off time not confirmed yet. Your calendar updates automatic
@@ -298,7 +298,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Madrid CFF @ Granada (time TBC)
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882343@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Granada\nStatus: Schedul
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -311,7 +311,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Athletic Club (time TBC)
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882340@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at Athletic Club\nStatus: Sche
  duled\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -324,7 +324,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Granada (time TBC)
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882327@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at Granada\nStatus: Scheduled
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -336,7 +336,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Real Madrid (time TBC)
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882319@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at Real Madrid\nStatus: Schedu
  led\nKick-off time not confirmed yet. Your calendar updates automatically 
@@ -349,7 +349,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Granada (time TBC)
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882311@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Granada\nStatus: Sched
  uled\nKick-off time not confirmed yet. Your calendar updates automatically
@@ -362,7 +362,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Tenerife (time TBC)
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
-DTSTAMP:20261118T005039Z
+DTSTAMP:20261118T152814Z
 UID:espn-liga-f-401882307@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at Tenerife\nStatus: Scheduled
  \nKick-off time not confirmed yet. Your calendar updates automatically onc

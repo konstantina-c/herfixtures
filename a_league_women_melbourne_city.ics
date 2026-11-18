@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Melbourne City vs Newcastle Jets (1–1)
 DTSTART:20261114T040000Z
 DTEND:20261114T060000Z
-DTSTAMP:20261118T005123Z
+DTSTAMP:20261118T152844Z
 UID:espn-a-league-women-401913235@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nMelbourne City vs Newcastle Jets\nStat
  us: Full Time\nVenue: Melbourne City Football Academy\, Melbourne\nTV: ESP
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Brisbane Roar vs Melbourne City
 DTSTART:20261121T055000Z
 DTEND:20261121T075000Z
-DTSTAMP:20261118T005123Z
+DTSTAMP:20261118T152844Z
 UID:espn-a-league-women-401913228@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nBrisbane Roar vs Melbourne City\nStatu
  s: Scheduled\nVenue: Dolphin Stadium\, Queensland\nTV: ESPN+\n\nFixtures b
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Perth Glory vs Melbourne City
 DTSTART:20261212T090000Z
 DTEND:20261212T110000Z
-DTSTAMP:20261118T005123Z
+DTSTAMP:20261118T152844Z
 UID:espn-a-league-women-401913222@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nPerth Glory vs Melbourne City\nStatus:
   Scheduled\nVenue: Sam Kerr Football Centre\, Perth\n\nFixtures by HerFixt
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Melbourne City vs Melbourne Victory
 DTSTART:20261219T060000Z
 DTEND:20261219T080000Z
-DTSTAMP:20261118T005123Z
+DTSTAMP:20261118T152844Z
 UID:espn-a-league-women-401913220@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nMelbourne City vs Melbourne Victory\nS
  tatus: Scheduled\nVenue: Melbourne Rectangular Stadium\, Melbourne\n\nFixt
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Melbourne City vs Sydney FC
 DTSTART:20261227T041500Z
 DTEND:20261227T061500Z
-DTSTAMP:20261118T005123Z
+DTSTAMP:20261118T152844Z
 UID:espn-a-league-women-401913215@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nMelbourne City vs Sydney FC\nStatus: S
  cheduled\nVenue: Melbourne Rectangular Stadium\, Melbourne\n\nFixtures by 
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Central Coast Mariners vs Melbourne City
 DTSTART:20261231T055000Z
 DTEND:20261231T075000Z
-DTSTAMP:20261118T005123Z
+DTSTAMP:20261118T152844Z
 UID:espn-a-league-women-401913210@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nCentral Coast Mariners vs Melbourne Ci
  ty\nStatus: Scheduled\nVenue: Central Coast Stadium\, New South Wales\n\nF
@@ -109,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Melbourne City vs Western Sydney
 DTSTART:20270106T063000Z
 DTEND:20270106T083000Z
-DTSTAMP:20261118T005123Z
+DTSTAMP:20261118T152844Z
 UID:espn-a-league-women-401913205@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nMelbourne City vs Western Sydney\nStat
  us: Scheduled\nVenue: Melbourne City Football Academy\, Melbourne\n\nFixtu
@@ -121,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Newcastle Jets vs Melbourne City
 DTSTART:20270110T060000Z
 DTEND:20270110T080000Z
-DTSTAMP:20261118T005123Z
+DTSTAMP:20261118T152844Z
 UID:espn-a-league-women-401913201@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nNewcastle Jets vs Melbourne City\nStat
  us: Scheduled\nVenue: Maitland No.1 Sportsground\, Maitland\n\nFixtures by
@@ -133,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Melbourne City vs Canberra United
 DTSTART:20270116T084500Z
 DTEND:20270116T104500Z
-DTSTAMP:20261118T005123Z
+DTSTAMP:20261118T152844Z
 UID:espn-a-league-women-401913196@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nMelbourne City vs Canberra United\nSta
  tus: Scheduled\nVenue: Melbourne Rectangular Stadium\, Melbourne\n\nFixtur
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Melbourne City vs Wellington Phoenix
 DTSTART:20270124T060000Z
 DTEND:20270124T080000Z
-DTSTAMP:20261118T005123Z
+DTSTAMP:20261118T152844Z
 UID:espn-a-league-women-401913191@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nMelbourne City vs Wellington Phoenix\n
  Status: Scheduled\nVenue: Melbourne City Football Academy\, Melbourne\n\nF
@@ -157,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Adelaide United vs Melbourne City
 DTSTART:20270129T055000Z
 DTEND:20270129T075000Z
-DTSTAMP:20261118T005123Z
+DTSTAMP:20261118T152844Z
 UID:espn-a-league-women-401913189@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nAdelaide United vs Melbourne City\nSta
  tus: Scheduled\nVenue: Hindmarsh Stadium\, Adelaide\n\nFixtures by HerFixt
@@ -169,7 +169,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Melbourne City vs Perth Glory
 DTSTART:20270207T060000Z
 DTEND:20270207T080000Z
-DTSTAMP:20261118T005123Z
+DTSTAMP:20261118T152844Z
 UID:espn-a-league-women-401913180@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nMelbourne City vs Perth Glory\nStatus:
   Scheduled\nVenue: Melbourne City Football Academy\, Melbourne\n\nFixtures
@@ -181,7 +181,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Western Sydney vs Melbourne City
 DTSTART:20270213T070000Z
 DTEND:20270213T090000Z
-DTSTAMP:20261118T005123Z
+DTSTAMP:20261118T152844Z
 UID:espn-a-league-women-401913178@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nWestern Sydney vs Melbourne City\nStat
  us: Scheduled\nVenue: Western Sydney Wanderers Academy\, Sydney\n\nFixture
@@ -193,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Melbourne Victory vs Melbourne City
 DTSTART:20270221T060000Z
 DTEND:20270221T080000Z
-DTSTAMP:20261118T005123Z
+DTSTAMP:20261118T152844Z
 UID:espn-a-league-women-401913171@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nMelbourne Victory vs Melbourne City\nS
  tatus: Scheduled\nVenue: The Home of the Matildas\, Melbourne\n\nFixtures 
@@ -205,7 +205,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Melbourne City vs Brisbane Roar
 DTSTART:20270313T040000Z
 DTEND:20270313T060000Z
-DTSTAMP:20261118T005123Z
+DTSTAMP:20261118T152844Z
 UID:espn-a-league-women-401913168@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nMelbourne City vs Brisbane Roar\nStatu
  s: Scheduled\nVenue: Melbourne City Football Academy\, Melbourne\n\nFixtur
@@ -217,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Melbourne City vs Central Coast Mariners
 DTSTART:20270321T064500Z
 DTEND:20270321T084500Z
-DTSTAMP:20261118T005123Z
+DTSTAMP:20261118T152844Z
 UID:espn-a-league-women-401913160@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nMelbourne City vs Central Coast Marine
  rs\nStatus: Scheduled\nVenue: Melbourne Rectangular Stadium\, Melbourne\n
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Canberra United vs Melbourne City
 DTSTART:20270403T040000Z
 DTEND:20270403T060000Z
-DTSTAMP:20261118T005123Z
+DTSTAMP:20261118T152844Z
 UID:espn-a-league-women-401913153@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nCanberra United vs Melbourne City\nSta
  tus: Scheduled\nVenue: McKellar Park\, Canberra\n\nFixtures by HerFixtures
@@ -241,7 +241,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Melbourne City vs Adelaide United
 DTSTART:20270411T050000Z
 DTEND:20270411T070000Z
-DTSTAMP:20261118T005123Z
+DTSTAMP:20261118T152844Z
 UID:espn-a-league-women-401913145@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nMelbourne City vs Adelaide United\nSta
  tus: Scheduled\nVenue: Melbourne City Football Academy\, Melbourne\n\nFixt
