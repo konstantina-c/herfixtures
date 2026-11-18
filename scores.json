@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T15:51:15Z",
+  "updated": "2026-11-18T00:52:09Z",
   "competitions": {
     "wnba": {
       "name": "WNBA",
@@ -35,7 +35,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19257.png"
           },
           "kickoff": "2026-11-18T17:45:00Z",
-          "kickoff_label": "Tomorrow @ 5:45pm"
+          "kickoff_label": "in 17h"
         },
         {
           "league": "Women's UCL",
@@ -48,7 +48,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131635.png"
           },
           "kickoff": "2026-11-18T17:45:00Z",
-          "kickoff_label": "Tomorrow @ 5:45pm"
+          "kickoff_label": "in 17h"
         },
         {
           "league": "Women's UCL",
@@ -61,7 +61,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19258.png"
           },
           "kickoff": "2026-11-18T20:00:00Z",
-          "kickoff_label": "Tomorrow @ 8pm"
+          "kickoff_label": "in 19h"
         },
         {
           "league": "Women's UCL",
@@ -74,7 +74,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131423.png"
           },
           "kickoff": "2026-11-18T20:00:00Z",
-          "kickoff_label": "Tomorrow @ 8pm"
+          "kickoff_label": "in 19h"
         },
         {
           "league": "Women's UCL",
@@ -87,7 +87,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20103.png"
           },
           "kickoff": "2026-11-19T17:45:00Z",
-          "kickoff_label": "Wednesday @ 5:45pm"
+          "kickoff_label": "Tomorrow @ 5:45pm"
         },
         {
           "league": "Women's UCL",
@@ -100,7 +100,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21127.png"
           },
           "kickoff": "2026-11-19T17:45:00Z",
-          "kickoff_label": "Wednesday @ 5:45pm"
+          "kickoff_label": "Tomorrow @ 5:45pm"
         },
         {
           "league": "Women's UCL",
@@ -113,7 +113,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19256.png"
           },
           "kickoff": "2026-11-19T20:00:00Z",
-          "kickoff_label": "Wednesday @ 8pm"
+          "kickoff_label": "Tomorrow @ 8pm"
         },
         {
           "league": "Women's UCL",
@@ -126,7 +126,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20835.png"
           },
           "kickoff": "2026-11-19T20:00:00Z",
-          "kickoff_label": "Wednesday @ 8pm"
+          "kickoff_label": "Tomorrow @ 8pm"
         },
         {
           "league": "Women's UCL",
@@ -139,7 +139,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21685.png"
           },
           "kickoff": "2026-11-19T20:00:00Z",
-          "kickoff_label": "Wednesday @ 8pm"
+          "kickoff_label": "Tomorrow @ 8pm"
         }
       ]
     },

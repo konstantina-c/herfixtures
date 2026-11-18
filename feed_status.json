@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-17T15:51:15+00:00",
-  "for_date": "2026-11-17",
+  "generated": "2026-11-18T00:52:09+00:00",
+  "for_date": "2026-11-18",
   "feeds": {
     "euroleague-women": {
       "next_game": "2026-11-25",
@@ -66,8 +66,8 @@
       "rule": "highlight"
     },
     "ncaa-wbb": {
-      "next_game": "2026-11-17",
-      "upcoming_games": 553,
+      "next_game": "2026-11-18",
+      "upcoming_games": 549,
       "text": "Season in progress",
       "style": "live",
       "rule": "in-season"
