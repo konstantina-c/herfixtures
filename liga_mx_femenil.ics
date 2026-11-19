@@ -1489,32 +1489,10 @@ DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nCruz
 URL:https://www.espn.com/soccer/match/_/gameId/401924401/leon-cruz-azul
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ América vs Toluca (3–0)
-DTSTART:20261112T010000Z
-DTEND:20261112T030000Z
-DTSTAMP:20261118T152855Z
-UID:espn-liga-mx-femenil-401932063@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAmér
- ica vs Toluca\nStatus: Full Time\nVenue: Estadio Banorte\, Mexico City\n\n
- Fixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401932063/toluca-america
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Pachuca vs Monterrey (0–1)
-DTSTART:20261112T030000Z
-DTEND:20261112T050000Z
-DTSTAMP:20261118T152855Z
-UID:espn-liga-mx-femenil-401932066@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPachu
- ca vs Monterrey\nStatus: Full Time\nVenue: Estadio Hidalgo\, Pachuca\n\nFi
- xtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401932066/monterrey-pachuca
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⚽ Tigres UANL vs Pumas UNAM (0–5)
 DTSTART:20261114T230000Z
 DTEND:20261115T010000Z
-DTSTAMP:20261118T152855Z
+DTSTAMP:20261119T000947Z
 UID:espn-liga-mx-femenil-401932077@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nTigre
  s UANL vs Pumas UNAM\nStatus: Full Time\nVenue: Estadio Universitario\, Sa
@@ -1527,7 +1505,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Guadalajara vs FC Juárez (1–1)
 DTSTART:20261115T030600Z
 DTEND:20261115T050600Z
-DTSTAMP:20261118T152855Z
+DTSTAMP:20261119T000947Z
 UID:espn-liga-mx-femenil-401932062@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nGuada
  lajara vs FC Juárez\nStatus: Full Time\nVenue: Estadio Akron\, Guadalajar
@@ -1539,7 +1517,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Monterrey vs Pachuca (3–2)
 DTSTART:20261116T010000Z
 DTEND:20261116T030000Z
-DTSTAMP:20261118T152855Z
+DTSTAMP:20261119T000947Z
 UID:espn-liga-mx-femenil-401932064@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nMonte
  rrey vs Pachuca\nStatus: Full Time\nVenue: Estadio BBVA\, Guadalupe\n\nFix
@@ -1550,7 +1528,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Toluca vs América (0–3)
 DTSTART:20261116T031000Z
 DTEND:20261116T051000Z
-DTSTAMP:20261118T152855Z
+DTSTAMP:20261119T000947Z
 UID:espn-liga-mx-femenil-401932065@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nToluc
  a vs América\nStatus: Full Time\nVenue: Estadio Nemesio Díez Riega\, Tol
@@ -1561,7 +1539,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Guadalajara vs Monterrey (time TBC)
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261118T152855Z
+DTSTAMP:20261119T000947Z
 UID:espn-liga-mx-femenil-401932061@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nGuada
  lajara vs Monterrey\nStatus: Scheduled\nKick-off time not confirmed yet. Y
@@ -1574,7 +1552,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Pumas UNAM vs América (time TBC)
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261118T152855Z
+DTSTAMP:20261119T000947Z
 UID:espn-liga-mx-femenil-401932076@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPumas
   UNAM vs América\nStatus: Scheduled\nKick-off time not confirmed yet. You
@@ -1587,7 +1565,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Monterrey vs Guadalajara (time TBC)
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261118T152855Z
+DTSTAMP:20261119T000947Z
 UID:espn-liga-mx-femenil-401932060@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nMonte
  rrey vs Guadalajara\nStatus: Scheduled\nKick-off time not confirmed yet. Y
@@ -1600,7 +1578,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ América vs Pumas UNAM (time TBC)
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261118T152855Z
+DTSTAMP:20261119T000947Z
 UID:espn-liga-mx-femenil-401932075@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAmér
  ica vs Pumas UNAM\nStatus: Scheduled\nKick-off time not confirmed yet. You

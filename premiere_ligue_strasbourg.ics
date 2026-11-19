@@ -107,7 +107,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Strasbourg vs Toulouse (3–1)
 DTSTART:20261114T170000Z
 DTEND:20261114T190000Z
-DTSTAMP:20261118T152835Z
+DTSTAMP:20261119T000920Z
 UID:espn-premiere-ligue-401885695@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs Toulouse\nStatus: Full 
  Time\nVenue: Stade de la Meinau\, Strasbourg\n\nFixtures by HerFixtures.co
@@ -119,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ OL Lyonnes vs Strasbourg
 DTSTART:20261122T140000Z
 DTEND:20261122T160000Z
-DTSTAMP:20261118T152835Z
+DTSTAMP:20261119T000920Z
 UID:espn-premiere-ligue-401885641@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nOL Lyonnes vs Strasbourg\nStatus: Sch
  eduled\nVenue: Groupama Stadium\, Lyon\n\nFixtures by HerFixtures.com — 
@@ -131,7 +131,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Montpellier vs Strasbourg
 DTSTART:20261212T160000Z
 DTEND:20261212T180000Z
-DTSTAMP:20261118T152835Z
+DTSTAMP:20261119T000920Z
 UID:espn-premiere-ligue-401885598@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMontpellier vs Strasbourg\nStatus: Sc
  heduled\nVenue: Stade Bernard Gasset No. 7\, Montpellier\n\nFixtures by He
@@ -143,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Strasbourg vs Paris Saint-Germain
 DTSTART:20261219T160000Z
 DTEND:20261219T180000Z
-DTSTAMP:20261118T152835Z
+DTSTAMP:20261119T000920Z
 UID:espn-premiere-ligue-401885594@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs Paris Saint-Germain\nSt
  atus: Scheduled\nVenue: Stade de la Meinau\, Strasbourg\n\nFixtures by Her
@@ -155,7 +155,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Strasbourg vs Nantes
 DTSTART:20270116T160000Z
 DTEND:20270116T180000Z
-DTSTAMP:20261118T152835Z
+DTSTAMP:20261119T000920Z
 UID:espn-premiere-ligue-401885591@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs Nantes\nStatus: Schedul
  ed\nVenue: Stade de la Meinau\, Strasbourg\n\nFixtures by HerFixtures.com 
@@ -166,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Marseille vs Strasbourg
 DTSTART:20270123T160000Z
 DTEND:20270123T180000Z
-DTSTAMP:20261118T152835Z
+DTSTAMP:20261119T000920Z
 UID:espn-premiere-ligue-401885587@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMarseille vs Strasbourg\nStatus: Sche
  duled\nVenue: Stade Francis-Turcan\, Martigues\n\nFixtures by HerFixtures.
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Le Havre AC vs Strasbourg
 DTSTART:20270206T160000Z
 DTEND:20270206T180000Z
-DTSTAMP:20261118T152835Z
+DTSTAMP:20261119T000920Z
 UID:espn-premiere-ligue-401885586@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLe Havre AC vs Strasbourg\nStatus: Sc
  heduled\nVenue: Stade Océane\, Le Havre\n\nFixtures by HerFixtures.com 
@@ -190,7 +190,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Strasbourg vs Lens
 DTSTART:20270220T160000Z
 DTEND:20270220T180000Z
-DTSTAMP:20261118T152835Z
+DTSTAMP:20261119T000920Z
 UID:espn-premiere-ligue-401888019@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs Lens\nStatus: Scheduled
  \nVenue: Stade de la Meinau\, Strasbourg\n\nFixtures by HerFixtures.com 
@@ -201,7 +201,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Saint-Malo vs Strasbourg
 DTSTART:20270313T160000Z
 DTEND:20270313T180000Z
-DTSTAMP:20261118T152835Z
+DTSTAMP:20261119T000920Z
 UID:espn-premiere-ligue-401885680@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Strasbourg\nStatus: Sch
  eduled\nVenue: Stade de Marville\, Saint-Malo\n\nFixtures by HerFixtures.c
@@ -213,7 +213,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Strasbourg vs OL Lyonnes
 DTSTART:20270320T160000Z
 DTEND:20270320T180000Z
-DTSTAMP:20261118T152835Z
+DTSTAMP:20261119T000920Z
 UID:espn-premiere-ligue-401885575@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs OL Lyonnes\nStatus: Sch
  eduled\nVenue: Stade de la Meinau\, Strasbourg\n\nFixtures by HerFixtures.
@@ -225,7 +225,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris FC vs Strasbourg
 DTSTART:20270327T160000Z
 DTEND:20270327T180000Z
-DTSTAMP:20261118T152835Z
+DTSTAMP:20261119T000920Z
 UID:espn-premiere-ligue-401885570@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis FC vs Strasbourg\nStatus: Sched
  uled\nVenue: Stade Sébastien Charléty\, Paris\n\nFixtures by HerFixtures
@@ -237,7 +237,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Strasbourg vs Montpellier
 DTSTART:20270407T150000Z
 DTEND:20270407T170000Z
-DTSTAMP:20261118T152835Z
+DTSTAMP:20261119T000920Z
 UID:espn-premiere-ligue-401885567@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs Montpellier\nStatus: Sc
  heduled\nVenue: Stade de la Meinau\, Strasbourg\n\nFixtures by HerFixtures
@@ -249,7 +249,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Strasbourg vs FC Fleury 91
 DTSTART:20270501T150000Z
 DTEND:20270501T170000Z
-DTSTAMP:20261118T152835Z
+DTSTAMP:20261119T000920Z
 UID:espn-premiere-ligue-401885566@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs FC Fleury 91\nStatus: S
  cheduled\nVenue: Stade de la Meinau\, Strasbourg\n\nFixtures by HerFixture
@@ -261,7 +261,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Toulouse vs Strasbourg
 DTSTART:20270504T150000Z
 DTEND:20270504T170000Z
-DTSTAMP:20261118T152835Z
+DTSTAMP:20261119T000920Z
 UID:espn-premiere-ligue-401885673@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nToulouse vs Strasbourg\nStatus: Sched
  uled\nVenue: Parc des Sports Stadium A1\, Toulouse\n\nFixtures by HerFixtu
