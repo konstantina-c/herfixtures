@@ -122,7 +122,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Aston Villa vs Birmingham City (1–0)
 DTSTART:20261115T140000Z
 DTEND:20261115T160000Z
-DTSTAMP:20261119T000905Z
+DTSTAMP:20261119T153505Z
 UID:espn-wsl-401902859@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nAston Villa vs Birmingham City\n
  Status: Full Time\nVenue: Villa Park\, Birmingham\nTV: Paramount+\n\nFixtu
@@ -134,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Charlton Athletic vs Aston Villa
 DTSTART:20261122T140000Z
 DTEND:20261122T160000Z
-DTSTAMP:20261119T000905Z
+DTSTAMP:20261119T153505Z
 UID:espn-wsl-401902856@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nCharlton Athletic vs Aston Villa
  \nStatus: Scheduled\nVenue: The Valley\, London\nTV: Paramount+\n\nFixture
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ West Ham United vs Aston Villa
 DTSTART:20261213T140000Z
 DTEND:20261213T160000Z
-DTSTAMP:20261119T000905Z
+DTSTAMP:20261119T153505Z
 UID:espn-wsl-401902845@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nWest Ham United vs Aston Villa\n
  Status: Scheduled\nVenue: Victoria Road\, Dagenham\nTV: Paramount+\n\nFixt
@@ -158,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Aston Villa vs London City Lionesses
 DTSTART:20261219T124500Z
 DTEND:20261219T144500Z
-DTSTAMP:20261119T000905Z
+DTSTAMP:20261119T153505Z
 UID:espn-wsl-401902841@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nAston Villa vs London City Lione
  sses\nStatus: Scheduled\nVenue: Villa Park\, Birmingham\nTV: Paramount+\n
@@ -170,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Aston Villa vs Everton
 DTSTART:20270110T140000Z
 DTEND:20270110T160000Z
-DTSTAMP:20261119T000905Z
+DTSTAMP:20261119T153505Z
 UID:espn-wsl-401902836@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nAston Villa vs Everton\nStatus: 
  Scheduled\nVenue: Villa Park\, Birmingham\nTV: Paramount+\n\nFixtures by H
@@ -182,7 +182,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Crystal Palace vs Aston Villa
 DTSTART:20270120T190000Z
 DTEND:20270120T210000Z
-DTSTAMP:20261119T000905Z
+DTSTAMP:20261119T153505Z
 UID:espn-wsl-401902828@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nCrystal Palace vs Aston Villa\nS
  tatus: Scheduled\nVenue: VBS Community Stadium\, Sutton Coldfield\nTV: Par
@@ -194,7 +194,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Aston Villa vs Tottenham Hotspur
 DTSTART:20270124T140000Z
 DTEND:20270124T160000Z
-DTSTAMP:20261119T000905Z
+DTSTAMP:20261119T153505Z
 UID:espn-wsl-401902822@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nAston Villa vs Tottenham Hotspur
  \nStatus: Scheduled\nVenue: Villa Park\, Birmingham\nTV: Paramount+\n\nFix
@@ -206,7 +206,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Birmingham City vs Aston Villa
 DTSTART:20270131T140000Z
 DTEND:20270131T160000Z
-DTSTAMP:20261119T000905Z
+DTSTAMP:20261119T153505Z
 UID:espn-wsl-401902814@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBirmingham City vs Aston Villa\n
  Status: Scheduled\nVenue: St. Andrew's Stadium\, Birmingham\nTV: Paramount
@@ -218,7 +218,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Aston Villa vs Charlton Athletic
 DTSTART:20270207T140000Z
 DTEND:20270207T160000Z
-DTSTAMP:20261119T000905Z
+DTSTAMP:20261119T153505Z
 UID:espn-wsl-401902809@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nAston Villa vs Charlton Athletic
  \nStatus: Scheduled\nVenue: Villa Park\, Birmingham\nTV: Paramount+\n\nFix
@@ -230,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Aston Villa vs Brighton & Hove Albion
 DTSTART:20270214T140000Z
 DTEND:20270214T160000Z
-DTSTAMP:20261119T000905Z
+DTSTAMP:20261119T153505Z
 UID:espn-wsl-401902802@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nAston Villa vs Brighton & Hove A
  lbion\nStatus: Scheduled\nVenue: Villa Park\, Birmingham\nTV: Paramount+\n
@@ -242,7 +242,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Manchester City vs Aston Villa
 DTSTART:20270314T140000Z
 DTEND:20270314T160000Z
-DTSTAMP:20261119T000905Z
+DTSTAMP:20261119T153505Z
 UID:espn-wsl-401902790@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nManchester City vs Aston Villa\n
  Status: Scheduled\nVenue: Joie Stadium\, Manchester\nTV: Paramount+\n\nFix
@@ -254,7 +254,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Aston Villa vs Arsenal
 DTSTART:20270317T193000Z
 DTEND:20270317T213000Z
-DTSTAMP:20261119T000905Z
+DTSTAMP:20261119T153505Z
 UID:espn-wsl-401902785@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nAston Villa vs Arsenal\nStatus: 
  Scheduled\nVenue: Villa Park\, Birmingham\nTV: Paramount+\n\nFixtures by H
@@ -266,7 +266,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Manchester United vs Aston Villa
 DTSTART:20270328T120000Z
 DTEND:20270328T140000Z
-DTSTAMP:20261119T000905Z
+DTSTAMP:20261119T153505Z
 UID:espn-wsl-401902780@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nManchester United vs Aston Villa
  \nStatus: Scheduled\nVenue: Leigh Sports Village\, Manchester\nTV: Paramou
@@ -278,7 +278,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Liverpool vs Aston Villa
 DTSTART:20270404T130000Z
 DTEND:20270404T150000Z
-DTSTAMP:20261119T000905Z
+DTSTAMP:20261119T153505Z
 UID:espn-wsl-401902769@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nLiverpool vs Aston Villa\nStatus
  : Scheduled\nVenue: Anfield\, Liverpool\nTV: Paramount+\n\nFixtures by Her
@@ -290,7 +290,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Aston Villa vs Chelsea
 DTSTART:20270502T170000Z
 DTEND:20270502T190000Z
-DTSTAMP:20261119T000905Z
+DTSTAMP:20261119T153505Z
 UID:espn-wsl-401902761@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nAston Villa vs Chelsea\nStatus: 
  Scheduled\nVenue: Villa Park\, Birmingham\nTV: Paramount+\n\nFixtures by H
@@ -302,7 +302,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Aston Villa vs West Ham United
 DTSTART:20270509T130000Z
 DTEND:20270509T150000Z
-DTSTAMP:20261119T000905Z
+DTSTAMP:20261119T153505Z
 UID:espn-wsl-401902759@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nAston Villa vs West Ham United\n
  Status: Scheduled\nVenue: Villa Park\, Birmingham\nTV: Paramount+\n\nFixtu
@@ -314,7 +314,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ London City Lionesses vs Aston Villa (time TBC)
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270523
-DTSTAMP:20261119T000905Z
+DTSTAMP:20261119T153505Z
 UID:espn-wsl-401902750@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nLondon City Lionesses vs Aston V
  illa\nStatus: Scheduled\nKick-off time not confirmed yet. Your calendar up

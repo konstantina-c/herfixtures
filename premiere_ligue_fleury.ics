@@ -108,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Montpellier vs FC Fleury 91 (0–1)
 DTSTART:20261114T173000Z
 DTEND:20261114T193000Z
-DTSTAMP:20261119T000920Z
+DTSTAMP:20261119T153520Z
 UID:espn-premiere-ligue-401885646@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMontpellier vs FC Fleury 91\nStatus: 
  Full Time\nVenue: Stade Bernard Gasset No. 7\, Montpellier\n\nFixtures by 
@@ -120,7 +120,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris FC vs FC Fleury 91
 DTSTART:20261122T140000Z
 DTEND:20261122T160000Z
-DTSTAMP:20261119T000920Z
+DTSTAMP:20261119T153520Z
 UID:espn-premiere-ligue-401885643@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis FC vs FC Fleury 91\nStatus: Sch
  eduled\nVenue: Stade Sébastien Charléty\, Paris\n\nFixtures by HerFixtur
@@ -132,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Fleury 91 vs Le Havre AC
 DTSTART:20261212T160000Z
 DTEND:20261212T180000Z
-DTSTAMP:20261119T000920Z
+DTSTAMP:20261119T153520Z
 UID:espn-premiere-ligue-401885640@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nFC Fleury 91 vs Le Havre AC\nStatus: 
  Scheduled\nVenue: Stade Robert Bobin\, Bondoufle\n\nFixtures by HerFixture
@@ -144,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ OL Lyonnes vs FC Fleury 91
 DTSTART:20261219T160000Z
 DTEND:20261219T180000Z
-DTSTAMP:20261119T000920Z
+DTSTAMP:20261119T153520Z
 UID:espn-premiere-ligue-401885596@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nOL Lyonnes vs FC Fleury 91\nStatus: S
  cheduled\nVenue: Groupama Stadium\, Lyon\n\nFixtures by HerFixtures.com 
@@ -156,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Fleury 91 vs Saint-Malo
 DTSTART:20270116T160000Z
 DTEND:20270116T180000Z
-DTSTAMP:20261119T000920Z
+DTSTAMP:20261119T153520Z
 UID:espn-premiere-ligue-401885688@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nFC Fleury 91 vs Saint-Malo\nStatus: S
  cheduled\nVenue: Stade Robert Bobin\, Bondoufle\n\nFixtures by HerFixtures
@@ -168,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Fleury 91 vs Lens
 DTSTART:20270123T160000Z
 DTEND:20270123T180000Z
-DTSTAMP:20261119T000920Z
+DTSTAMP:20261119T153520Z
 UID:espn-premiere-ligue-401888021@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nFC Fleury 91 vs Lens\nStatus: Schedul
  ed\nVenue: Stade Robert Bobin\, Bondoufle\n\nFixtures by HerFixtures.com 
@@ -179,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Toulouse vs FC Fleury 91
 DTSTART:20270206T160000Z
 DTEND:20270206T180000Z
-DTSTAMP:20261119T000920Z
+DTSTAMP:20261119T153520Z
 UID:espn-premiere-ligue-401885685@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nToulouse vs FC Fleury 91\nStatus: Sch
  eduled\nVenue: Parc des Sports Stadium A1\, Toulouse\n\nFixtures by HerFix
@@ -191,7 +191,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Fleury 91 vs Montpellier
 DTSTART:20270220T160000Z
 DTEND:20270220T180000Z
-DTSTAMP:20261119T000920Z
+DTSTAMP:20261119T153520Z
 UID:espn-premiere-ligue-401885583@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nFC Fleury 91 vs Montpellier\nStatus: 
  Scheduled\nVenue: Stade Robert Bobin\, Bondoufle\n\nFixtures by HerFixture
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Fleury 91 vs Paris FC
 DTSTART:20270313T160000Z
 DTEND:20270313T180000Z
-DTSTAMP:20261119T000920Z
+DTSTAMP:20261119T153520Z
 UID:espn-premiere-ligue-401885580@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nFC Fleury 91 vs Paris FC\nStatus: Sch
  eduled\nVenue: Stade Robert Bobin\, Bondoufle\n\nFixtures by HerFixtures.c
@@ -215,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris Saint-Germain vs FC Fleury 91
 DTSTART:20270320T160000Z
 DTEND:20270320T180000Z
-DTSTAMP:20261119T000920Z
+DTSTAMP:20261119T153520Z
 UID:espn-premiere-ligue-401885577@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis Saint-Germain vs FC Fleury 91\n
  Status: Scheduled\nVenue: Training Center Paris Saint Germain Terrain 5\, 
@@ -227,7 +227,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Le Havre AC vs FC Fleury 91
 DTSTART:20270327T160000Z
 DTEND:20270327T180000Z
-DTSTAMP:20261119T000920Z
+DTSTAMP:20261119T153520Z
 UID:espn-premiere-ligue-401885573@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLe Havre AC vs FC Fleury 91\nStatus: 
  Scheduled\nVenue: Stade Océane\, Le Havre\n\nFixtures by HerFixtures.com 
@@ -239,7 +239,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Fleury 91 vs Marseille (time TBC)
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
-DTSTAMP:20261119T000920Z
+DTSTAMP:20261119T153520Z
 UID:espn-premiere-ligue-401885569@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nFC Fleury 91 vs Marseille\nStatus: Sc
  heduled\nKick-off time not confirmed yet. Your calendar updates automatica
@@ -252,7 +252,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Strasbourg vs FC Fleury 91
 DTSTART:20270501T150000Z
 DTEND:20270501T170000Z
-DTSTAMP:20261119T000920Z
+DTSTAMP:20261119T153520Z
 UID:espn-premiere-ligue-401885566@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs FC Fleury 91\nStatus: S
  cheduled\nVenue: Stade de la Meinau\, Strasbourg\n\nFixtures by HerFixture
@@ -264,7 +264,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Fleury 91 vs Nantes (time TBC)
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270505
-DTSTAMP:20261119T000920Z
+DTSTAMP:20261119T153520Z
 UID:espn-premiere-ligue-401885563@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nFC Fleury 91 vs Nantes\nStatus: Sched
  uled\nKick-off time not confirmed yet. Your calendar updates automatically
