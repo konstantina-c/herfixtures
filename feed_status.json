@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-19T15:36:27+00:00",
-  "for_date": "2026-11-19",
+  "generated": "2026-11-20T00:31:53+00:00",
+  "for_date": "2026-11-20",
   "feeds": {
     "euroleague-women": {
       "next_game": "2026-11-25",
@@ -10,8 +10,8 @@
       "rule": "in-season"
     },
     "ucl-women": {
-      "next_game": "2026-11-19",
-      "upcoming_games": 14,
+      "next_game": "2026-12-16",
+      "upcoming_games": 9,
       "text": "Season in progress",
       "style": "live",
       "rule": "in-season"
@@ -66,8 +66,8 @@
       "rule": "highlight"
     },
     "ncaa-wbb": {
-      "next_game": "2026-11-19",
-      "upcoming_games": 543,
+      "next_game": "2026-11-20",
+      "upcoming_games": 533,
       "text": "Season in progress",
       "style": "live",
       "rule": "in-season"
