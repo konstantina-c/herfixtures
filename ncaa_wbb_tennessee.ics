@@ -14,7 +14,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Duquesne @ Tennessee (62–109)
 DTSTART:20261102T233000Z
 DTEND:20261103T013000Z
-DTSTAMP:20261120T003137Z
+DTSTAMP:20261120T151431Z
 UID:espn-ncaa-wbb-401912952@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nDuquesne at 
  Tennessee\nStatus: Final\nVenue: Food City Center\, Knoxville\n\nFixtures 
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Tennessee @ Coppin State (98–60)
 DTSTART:20261106T000000Z
 DTEND:20261106T020000Z
-DTSTAMP:20261120T003137Z
+DTSTAMP:20261120T151431Z
 UID:espn-ncaa-wbb-401912953@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nTennessee at
   Coppin State\nStatus: Final\nVenue: Physical Education Complex\, Baltimor
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 New Haven @ Tennessee (40–83)
 DTSTART:20261110T233000Z
 DTEND:20261111T013000Z
-DTSTAMP:20261120T003137Z
+DTSTAMP:20261120T151431Z
 UID:espn-ncaa-wbb-401912954@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nNew Haven at
   Tennessee\nStatus: Final\nVenue: Food City Center\, Knoxville\n\nFixtures
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Middle Tennessee @ Tennessee (64–110)
 DTSTART:20261112T233000Z
 DTEND:20261113T013000Z
-DTSTAMP:20261120T003137Z
+DTSTAMP:20261120T151431Z
 UID:espn-ncaa-wbb-401912955@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nMiddle Tenne
  ssee at Tennessee\nStatus: Final\nVenue: Food City Center\, Knoxville\n\nF
@@ -62,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Tennessee @ Belmont (87–65)
 DTSTART:20261118T003000Z
 DTEND:20261118T023000Z
-DTSTAMP:20261120T003137Z
+DTSTAMP:20261120T151431Z
 UID:espn-ncaa-wbb-401912956@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nTennessee at
   Belmont\nStatus: Final\nVenue: Curb Event Center Arena\, Nashville\n\nFix
@@ -71,21 +71,22 @@ URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401912956
  /tennessee-belmont
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Radford @ Tennessee
+SUMMARY:🏀 Radford @ Tennessee (48–102)
 DTSTART:20261120T000000Z
 DTEND:20261120T020000Z
-DTSTAMP:20261120T003137Z
+DTSTAMP:20261120T151431Z
 UID:espn-ncaa-wbb-401911508@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nRadford at T
- ennessee\nStatus: In Progress\nVenue: Food City Center\, Knoxville\n\nFixt
- ures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/womens-college-basketball/game?gameId=401911508
+ ennessee\nStatus: Final\nVenue: Food City Center\, Knoxville\n\nFixtures b
+ y HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401911508
+ /radford-tennessee
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏀 #10 UCLA @ Tennessee
 DTSTART:20261122T223000Z
 DTEND:20261123T003000Z
-DTSTAMP:20261120T003137Z
+DTSTAMP:20261120T151431Z
 UID:espn-ncaa-wbb-401912957@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#10 UCLA at 
  Tennessee\nStatus: Scheduled\nVenue: Food City Center\, Knoxville\n\nFixtu
@@ -97,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Tennessee @ Florida Gulf Coast
 DTSTART:20261127T233000Z
 DTEND:20261128T013000Z
-DTSTAMP:20261120T003137Z
+DTSTAMP:20261120T151431Z
 UID:espn-ncaa-wbb-401927024@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nTennessee at
   Florida Gulf Coast\nStatus: Scheduled\nVenue: Alico Arena\, Fort Myers\n
@@ -109,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Tennessee @ Virginia Tech
 DTSTART:20261204T020000Z
 DTEND:20261204T040000Z
-DTSTAMP:20261120T003137Z
+DTSTAMP:20261120T151431Z
 UID:espn-ncaa-wbb-401912958@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nTennessee at
   Virginia Tech\nStatus: Scheduled\nVenue: Cassell Coliseum\, Blacksburg\n
@@ -121,7 +122,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Georgia State @ Tennessee
 DTSTART:20261206T190000Z
 DTEND:20261206T210000Z
-DTSTAMP:20261120T003137Z
+DTSTAMP:20261120T151431Z
 UID:espn-ncaa-wbb-401912959@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nGeorgia Stat
  e at Tennessee\nStatus: Scheduled\nVenue: Food City Center\, Knoxville\n\n
@@ -133,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 North Carolina Central @ Tennessee
 DTSTART:20261209T000000Z
 DTEND:20261209T020000Z
-DTSTAMP:20261120T003137Z
+DTSTAMP:20261120T151431Z
 UID:espn-ncaa-wbb-401912960@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nNorth Caroli
  na Central at Tennessee\nStatus: Scheduled\nVenue: Food City Center\, Knox
@@ -145,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Tennessee @ #7 UConn
 DTSTART:20261212T193000Z
 DTEND:20261212T213000Z
-DTSTAMP:20261120T003137Z
+DTSTAMP:20261120T151431Z
 UID:espn-ncaa-wbb-401911745@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nTennessee at
   #7 UConn\nStatus: Scheduled\nVenue: PeoplesBank Arena\, Hartford\n\nFixtu
@@ -157,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Alabama A&M @ Tennessee
 DTSTART:20261216T000000Z
 DTEND:20261216T020000Z
-DTSTAMP:20261120T003137Z
+DTSTAMP:20261120T151431Z
 UID:espn-ncaa-wbb-401912961@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nAlabama A&M 
  at Tennessee\nStatus: Scheduled\nVenue: Food City Center\, Knoxville\n\nFi
@@ -169,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Baylor @ Tennessee
 DTSTART:20261218T230000Z
 DTEND:20261219T010000Z
-DTSTAMP:20261120T003137Z
+DTSTAMP:20261120T151431Z
 UID:espn-ncaa-wbb-401912962@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nBaylor at Te
  nnessee\nStatus: Scheduled\nVenue: Bridgestone Arena\, Nashville\n\nFixtur
@@ -181,7 +182,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Morehead State @ Tennessee
 DTSTART:20261221T190000Z
 DTEND:20261221T210000Z
-DTSTAMP:20261120T003137Z
+DTSTAMP:20261120T151431Z
 UID:espn-ncaa-wbb-401912963@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nMorehead Sta
  te at Tennessee\nStatus: Scheduled\nVenue: Food City Center\, Knoxville\n
@@ -193,7 +194,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Tennessee @ Texas A&M
 DTSTART:20261231T200000Z
 DTEND:20261231T220000Z
-DTSTAMP:20261120T003137Z
+DTSTAMP:20261120T151431Z
 UID:espn-ncaa-wbb-401912826@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nTennessee at
   Texas A&M\nStatus: Scheduled\nVenue: Reed Arena\, College Station\n\nFixt
@@ -205,7 +206,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #19 Ole Miss @ Tennessee
 DTSTART:20270103T220000Z
 DTEND:20270104T000000Z
-DTSTAMP:20261120T003137Z
+DTSTAMP:20261120T151431Z
 UID:espn-ncaa-wbb-401912838@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#19 Ole Miss
   at Tennessee\nStatus: Scheduled\nVenue: Food City Center\, Knoxville\n\nF
@@ -217,7 +218,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Tennessee @ #6 Texas
 DTSTART:20270108T000000Z
 DTEND:20270108T020000Z
-DTSTAMP:20261120T003137Z
+DTSTAMP:20261120T151431Z
 UID:espn-ncaa-wbb-401912847@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nTennessee at
   #6 Texas\nStatus: Scheduled\nVenue: Moody Center\, Austin\n\nFixtures by 
@@ -229,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #14 Oklahoma @ Tennessee
 DTSTART:20270110T220000Z
 DTEND:20270111T000000Z
-DTSTAMP:20261120T003137Z
+DTSTAMP:20261120T151431Z
 UID:espn-ncaa-wbb-401912853@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#14 Oklahoma
   at Tennessee\nStatus: Scheduled\nVenue: Food City Center\, Knoxville\n\nF
@@ -241,7 +242,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Georgia @ Tennessee
 DTSTART:20270114T233000Z
 DTEND:20270115T013000Z
-DTSTAMP:20261120T003137Z
+DTSTAMP:20261120T151431Z
 UID:espn-ncaa-wbb-401912861@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nGeorgia at T
  ennessee\nStatus: Scheduled\nVenue: Food City Center\, Knoxville\n\nFixtur
@@ -253,7 +254,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Tennessee @ Florida
 DTSTART:20270119T000000Z
 DTEND:20270119T020000Z
-DTSTAMP:20261120T003137Z
+DTSTAMP:20261120T151431Z
 UID:espn-ncaa-wbb-401912867@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nTennessee at
   Florida\nStatus: Scheduled\nVenue: Tower Hill Arena\, Gainesville\n\nFixt
@@ -265,7 +266,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Tennessee @ #12 Kentucky
 DTSTART:20270122T010000Z
 DTEND:20270122T030000Z
-DTSTAMP:20261120T003137Z
+DTSTAMP:20261120T151431Z
 UID:espn-ncaa-wbb-401912874@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nTennessee at
   #12 Kentucky\nStatus: Scheduled\nVenue: Memorial Coliseum (KY)\, Lexingto
@@ -277,7 +278,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Alabama @ Tennessee
 DTSTART:20270124T180000Z
 DTEND:20270124T200000Z
-DTSTAMP:20261120T003137Z
+DTSTAMP:20261120T151431Z
 UID:espn-ncaa-wbb-401912880@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nAlabama at T
  ennessee\nStatus: Scheduled\nVenue: Food City Center\, Knoxville\n\nFixtur
@@ -289,7 +290,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #1 South Carolina @ Tennessee
 DTSTART:20270128T233000Z
 DTEND:20270129T013000Z
-DTSTAMP:20261120T003137Z
+DTSTAMP:20261120T151431Z
 UID:espn-ncaa-wbb-401912888@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#1 South Car
  olina at Tennessee\nStatus: Scheduled\nVenue: Food City Center\, Knoxville
@@ -301,7 +302,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Tennessee @ Mississippi State
 DTSTART:20270205T003000Z
 DTEND:20270205T023000Z
-DTSTAMP:20261120T003137Z
+DTSTAMP:20261120T151431Z
 UID:espn-ncaa-wbb-401912899@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nTennessee at
   Mississippi State\nStatus: Scheduled\nVenue: Humphrey Coliseum\, Starkvil
@@ -313,7 +314,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Tennessee @ #11 Vanderbilt (time TBC)
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
-DTSTAMP:20261120T003137Z
+DTSTAMP:20261120T151431Z
 UID:espn-ncaa-wbb-401912909@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nTennessee at
   #11 Vanderbilt\nStatus: Scheduled\nKick-off time not confirmed yet. Your 
@@ -327,7 +328,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Auburn @ Tennessee
 DTSTART:20270211T233000Z
 DTEND:20270212T013000Z
-DTSTAMP:20261120T003137Z
+DTSTAMP:20261120T151431Z
 UID:espn-ncaa-wbb-401912919@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nAuburn at Te
  nnessee\nStatus: Scheduled\nVenue: Food City Center\, Knoxville\n\nFixture
@@ -339,7 +340,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Tennessee @ Missouri
 DTSTART:20270214T190000Z
 DTEND:20270214T210000Z
-DTSTAMP:20261120T003137Z
+DTSTAMP:20261120T151431Z
 UID:espn-ncaa-wbb-401912922@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nTennessee at
   Missouri\nStatus: Scheduled\nVenue: Mizzou Arena\, Columbia\n\nFixtures b
@@ -351,7 +352,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #12 Kentucky @ Tennessee
 DTSTART:20270221T180000Z
 DTEND:20270221T200000Z
-DTSTAMP:20261120T003137Z
+DTSTAMP:20261120T151431Z
 UID:espn-ncaa-wbb-401912932@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#12 Kentucky
   at Tennessee\nStatus: Scheduled\nVenue: Food City Center\, Knoxville\n\nF
@@ -363,7 +364,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #9 LSU @ Tennessee
 DTSTART:20270225T230000Z
 DTEND:20270226T010000Z
-DTSTAMP:20261120T003137Z
+DTSTAMP:20261120T151431Z
 UID:espn-ncaa-wbb-401912942@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#9 LSU at Te
  nnessee\nStatus: Scheduled\nVenue: Food City Center\, Knoxville\n\nFixture
@@ -375,7 +376,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Tennessee @ Arkansas
 DTSTART:20270228T200000Z
 DTEND:20270228T220000Z
-DTSTAMP:20261120T003137Z
+DTSTAMP:20261120T151431Z
 UID:espn-ncaa-wbb-401912945@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nTennessee at
   Arkansas\nStatus: Scheduled\nVenue: Bud Walton Arena\, Fayetteville\n\nFi
