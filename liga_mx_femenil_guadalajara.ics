@@ -181,7 +181,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Guadalajara vs FC Juárez (1–1)
 DTSTART:20261115T030600Z
 DTEND:20261115T050600Z
-DTSTAMP:20261121T142942Z
+DTSTAMP:20261121T225940Z
 UID:espn-liga-mx-femenil-401932062@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nGuada
  lajara vs FC Juárez\nStatus: Full Time\nVenue: Estadio Akron\, Guadalajar
@@ -193,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Guadalajara vs Monterrey (time TBC)
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261121T142942Z
+DTSTAMP:20261121T225940Z
 UID:espn-liga-mx-femenil-401932061@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nGuada
  lajara vs Monterrey\nStatus: Scheduled\nKick-off time not confirmed yet. Y
@@ -206,7 +206,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Monterrey vs Guadalajara (time TBC)
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261121T142942Z
+DTSTAMP:20261121T225940Z
 UID:espn-liga-mx-femenil-401932060@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nMonte
  rrey vs Guadalajara\nStatus: Scheduled\nKick-off time not confirmed yet. Y
