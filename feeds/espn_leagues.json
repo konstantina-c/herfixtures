@@ -598,6 +598,74 @@
           "washington_spirit"
         ]
       }
+    },
+    "eredivisie-women": {
+      "name": "Eredivisie Women",
+      "source": "api-football",
+      "api_football": {
+        "league": 91,
+        "uniform_min": 0,
+        "season": 2026
+      },
+      "season": {
+        "start": "2026-08-14",
+        "end": "2027-05-31"
+      },
+      "emoji": "⚽",
+      "order": "home_vs_away",
+      "match_minutes": 120,
+      "output": "eredivisie_women.ics",
+      "uid_prefix": "af-eredivisie-women",
+      "title": "Eredivisie Women 2026/27",
+      "prodid": "-//HerFixtures//Eredivisie Women 2026-27//EN",
+      "cal_name": "Eredivisie Women 2026/27 — HerFixtures",
+      "cal_desc": "Dutch Eredivisie Women 2026/27 fixtures. Updated automatically by HerFixtures.com",
+      "team_prefix": "eredivisie_women_",
+      "team_prodid": "-//HerFixtures//Eredivisie Women 2026-27 {team}//EN",
+      "team_cal_name": "{team} — Eredivisie Women 2026/27 — HerFixtures",
+      "team_cal_desc": "{team} Eredivisie Women 2026/27 fixtures. Updated automatically by HerFixtures.com",
+      "teams": {
+        "1894": [
+          "ADO Den Haag",
+          "ado_den_haag"
+        ],
+        "1895": [
+          "PSV",
+          "psv"
+        ],
+        "1897": [
+          "Heerenveen",
+          "heerenveen"
+        ],
+        "1898": [
+          "Ajax",
+          "ajax"
+        ],
+        "1899": [
+          "FC Twente",
+          "twente"
+        ],
+        "1900": [
+          "PEC Zwolle",
+          "pec_zwolle"
+        ],
+        "16853": [
+          "Feyenoord",
+          "feyenoord"
+        ],
+        "21939": [
+          "AZ",
+          "az"
+        ],
+        "21940": [
+          "FC Utrecht",
+          "utrecht"
+        ],
+        "27907": [
+          "De Graafschap",
+          "de_graafschap"
+        ]
+      }
     }
   }
 }

@@ -15,7 +15,7 @@ There is **no build system**. Deployment is on **Vercel** (`vercel.json`: `text/
 - `index.html`: the entire frontend (vanilla HTML/CSS/JS): competition cards, team pickers (`*_CONFIG` objects + `FeedModal`), the **Scores Strip** (reads `scores.json`), badges (read `feed_status.json`).
 - `api/subscribe.js`: Vercel function for email capture (Beehiiv).
 - `*.ics`: the feeds, committed to the repo, served statically.
-- **`fetch_espn_feeds.py` + `feeds/espn_leagues.json`: the shared feed engine.** 8 ESPN competitions are config entries: Liga F, WSL, Première Ligue, A-League Women, Liga MX Femenil, NCAA WBB, UCL Women, NWSL.
+- **`fetch_espn_feeds.py` + `feeds/espn_leagues.json`: the shared feed engine.** 8 ESPN competitions are config entries: Liga F, WSL, Première Ligue, A-League Women, Liga MX Femenil, NCAA WBB, UCL Women, NWSL. Plus Eredivisie Women from **API-Football** (`"source": "api-football"`, adapter `apifootball.py`, licensed paid plan on Konstantina's account): one request per league per run, same calendar building and shrink guard.
 - Other sources: `fetch_frauen_bundesliga.py` (+ `_teams`, OpenLigaDB; it has no TBC flag, so unfinished games at its Sunday 15:30 Berlin placeholder become all-day "(time TBC)" events); `generate_euroleague_women_ics.py` + `scripts/update_euroleague_fixtures.py` (hand-maintained from FIBA's site, scheduled Claude runs).
 - **Frozen** (files kept for subscribers, not refreshed): WNBA 2026 (re-add to the engine with the 2027 schedule), FIBA WWC 2026, ICC T20 2026.
 - `feeds/manifest.json`: every competition's season dates/status. It drives the health check, badges, and auto-publish paths.
@@ -56,8 +56,13 @@ The `api/subscribe.js` endpoint only works when deployed to Vercel (it uses `pro
 | Secret | Used by |
 |---|---|
 | `BEEHIIV_API_KEY` | `api/subscribe.js` — email subscriptions (Vercel environment variable) |
+| `APIFOOTBALL_KEY` | `fetch_espn_feeds.py` for `"source": "api-football"` leagues (GitHub Actions secret; locally `~/.config/herfixtures/apifootball_key`, which Konstantina runs herself — Claude's permissions block reading it) |
 
-The feed scripts need no secrets. RapidAPI was dropped in Nov 2026 — never hardcode an API key as a fallback in source.
+The ESPN, OpenLigaDB and FIBA paths need no secrets. RapidAPI was dropped in Nov 2026 — never hardcode an API key as a fallback in source. Never use RapidAPI resellers of FotMob/Sofascore/Flashscore data.
+
+### API-Football leagues (time TBC)
+
+API-Football has no reliable "time not confirmed" flag: unconfirmed games get a placeholder kick-off. `apifootball.py` marks status `TBD`, plus (rule 2) any future round where ≥ `api_football.uniform_min` games (default 4) share one kick-off > 7 days out. **Check each new league against a second source before enabling it:** Eredivisie Women really plays 4 games at Sunday 16:45, so it has `uniform_min: 0`. Serie A Women / Portugal / WE League use real placeholders (rule on). Test locally with `--out-dir`: Konstantina runs `APIFOOTBALL_KEY="$(cat ~/.config/herfixtures/apifootball_key)" python3 fetch_espn_feeds.py --out-dir _af_test <league>`.
 
 ## Who reviews what (decided Nov 13, 2026)
 

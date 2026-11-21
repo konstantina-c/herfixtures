@@ -17,6 +17,9 @@ Safeguards (all leagues get them automatically):
     (same UID, so calendar apps update in place).
   - Placeholder ("TBD") games dropped; shrink guard on every write;
     a partial fetch never produces a feed (fetch_days refuses).
+  - Second source: a league with "source": "api-football" is fetched from
+    API-Football (licensed, key in APIFOOTBALL_KEY) via apifootball.py, with the
+    same calendar building, team feeds and shrink guard.
 
 Usage:
   python3 fetch_espn_feeds.py                 # all leagues
@@ -37,6 +40,7 @@ from pathlib import Path
 import requests
 from icalendar import Calendar, Event
 
+import apifootball
 from espn_common import fetch_days, is_placeholder, safe_write_ics
 
 ROOT = Path(__file__).resolve().parent
@@ -211,6 +215,8 @@ def run_league(lid: str, league: dict, out_dir: Path, today: date) -> bool:
     if fetch_from > fetch_to:
         print("  season over and fully stored — nothing to fetch")
         return True
+    if league.get("source") == "api-football":
+        return run_api_football(league, out_dir, main_file, full, cutoff)
     try:
         raw = fetch_days(f"{ESPN}/{league['espn']}/scoreboard", fetch_from, fetch_to, workers=2)
     except RuntimeError as e:
@@ -250,6 +256,38 @@ def run_league(lid: str, league: dict, out_dir: Path, today: date) -> bool:
             t_games = [g for g in (parse(e, league, t_line) for e in t_events) if g]
         else:
             t_games = [g for g in games if team_id in g["team_ids"]]
+        t_kept = [] if full else kept_past_events(path, cutoff)
+        fmt = lambda s: s.format(team=team)
+        t_cal = build_calendar(fmt(league["team_prodid"]), fmt(league["team_cal_name"]), fmt(league["team_cal_desc"]), t_kept, t_games, now)
+        safe_write_ics(path, t_cal.to_ical())
+    if league.get("teams"):
+        print(f"  → {len(league['teams'])} team feeds")
+    return ok
+
+
+def run_api_football(league: dict, out_dir: Path, main_file: Path, full: bool, cutoff: date) -> bool:
+    """Same output as the ESPN path, from API-Football (see apifootball.py)."""
+    af = league["api_football"]
+    try:
+        fixtures = apifootball.fetch_fixtures(af["league"], af["season"])
+    except apifootball.SourceError as e:
+        print(f"  ⚠️  {e} — keeping existing {league['name']} feeds")
+        return False
+    now = datetime.now(timezone.utc)
+    fixtures = [fx for fx in fixtures if datetime.fromisoformat(fx["fixture"]["date"]).date() >= cutoff]
+    placeholders = apifootball.placeholder_ids(fixtures, now, af.get("uniform_min", 4))
+    games = [g for g in (apifootball.parse(fx, league, placeholders) for fx in fixtures) if g]
+    kept = [] if full else kept_past_events(main_file, cutoff)
+    cal = build_calendar(league["prodid"], league["cal_name"], league["cal_desc"], kept, games, now)
+    total = len(cal.walk("VEVENT"))
+    print(f"  → {len(games)} fetched ({sum(g['time_tbc'] for g in games)} time TBC) + {len(kept)} kept = {total} events")
+    if total == 0:
+        print("  ⚠️  No events — keeping existing file")
+        return False
+    ok = safe_write_ics(main_file, cal.to_ical())
+    for team_id, (team, slug) in league.get("teams", {}).items():
+        path = out_dir / f"{league['team_prefix']}{slug}.ics"
+        t_games = [g for g in games if team_id in g["team_ids"]]
         t_kept = [] if full else kept_past_events(path, cutoff)
         fmt = lambda s: s.format(team=team)
         t_cal = build_calendar(fmt(league["team_prodid"]), fmt(league["team_cal_name"]), fmt(league["team_cal_desc"]), t_kept, t_games, now)

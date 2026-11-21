@@ -157,6 +157,21 @@
       "kind": "league"
     },
     {
+      "id": "eredivisie-women",
+      "name": "Eredivisie Women",
+      "ics": "eredivisie_women.ics",
+      "source": "auto",
+      "update": "fetch_espn_feeds.py (shared engine, source api-football, config in feeds/espn_leagues.json) in refresh.yml",
+      "season": {
+        "start": "2026-08-14",
+        "end": "2027-05-31"
+      },
+      "breaks": [],
+      "grace_days": 3,
+      "min_events": 80,
+      "kind": "league"
+    },
+    {
       "id": "nwsl",
       "name": "NWSL",
       "ics": "nwsl.ics",

@@ -1,0 +1,210 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//Eredivisie Women 2026-27 ADO Den Haag//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:ADO Den Haag Eredivisie Women 2026/27 fixtures. Updated autom
+ atically by HerFixtures.com
+X-WR-CALNAME:ADO Den Haag — Eredivisie Women 2026/27 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ AZ vs ADO Den Haag (2–1)
+DTSTART:20260816T144500Z
+DTEND:20260816T164500Z
+DTSTAMP:20261121T075458Z
+UID:af-eredivisie-women-1575051@herfixtures.com
+DESCRIPTION:Eredivisie Women 2026/27\nAZ vs ADO Den Haag\nStatus: Match Fi
+ nished\nVenue: AFAS Trainingscomplex\, Wijdewormer\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ ADO Den Haag vs FC Twente (1–7)
+DTSTART:20260823T144500Z
+DTEND:20260823T164500Z
+DTSTAMP:20261121T075458Z
+UID:af-eredivisie-women-1575059@herfixtures.com
+DESCRIPTION:Eredivisie Women 2026/27\nADO Den Haag vs FC Twente\nStatus: M
+ atch Finished\nVenue: WerkTalent Stadion\, Den Haag\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ PEC Zwolle vs ADO Den Haag (2–4)
+DTSTART:20260906T144500Z
+DTEND:20260906T164500Z
+DTSTAMP:20261121T075458Z
+UID:af-eredivisie-women-1575063@herfixtures.com
+DESCRIPTION:Eredivisie Women 2026/27\nPEC Zwolle vs ADO Den Haag\nStatus: 
+ Match Finished\nVenue: Sportpark Ceintuurbaan\, Zwolle\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ De Graafschap vs ADO Den Haag (2–3)
+DTSTART:20260913T144500Z
+DTEND:20260913T164500Z
+DTSTAMP:20261121T075458Z
+UID:af-eredivisie-women-1575067@herfixtures.com
+DESCRIPTION:Eredivisie Women 2026/27\nDe Graafschap vs ADO Den Haag\nStatu
+ s: Match Finished\nVenue: De Vijverberg\, Doetinchem\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ ADO Den Haag vs Heerenveen (2–2)
+DTSTART:20260920T144500Z
+DTEND:20260920T164500Z
+DTSTAMP:20261121T075458Z
+UID:af-eredivisie-women-1575074@herfixtures.com
+DESCRIPTION:Eredivisie Women 2026/27\nADO Den Haag vs Heerenveen\nStatus: 
+ Match Finished\nVenue: WerkTalent Stadion\, Den Haag\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ajax vs ADO Den Haag (7–1)
+DTSTART:20260926T143000Z
+DTEND:20260926T163000Z
+DTSTAMP:20261121T075458Z
+UID:af-eredivisie-women-1575076@herfixtures.com
+DESCRIPTION:Eredivisie Women 2026/27\nAjax vs ADO Den Haag\nStatus: Match 
+ Finished\nVenue: Sportcomplex De Toekomst\, Ouder-Amstel\n\nFixtures by He
+ rFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ ADO Den Haag vs PSV (0–3)
+DTSTART:20261004T144500Z
+DTEND:20261004T164500Z
+DTSTAMP:20261121T075458Z
+UID:af-eredivisie-women-1575081@herfixtures.com
+DESCRIPTION:Eredivisie Women 2026/27\nADO Den Haag vs PSV\nStatus: Match F
+ inished\nVenue: WerkTalent Stadion\, Den Haag\n\nFixtures by HerFixtures.c
+ om — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ FC Utrecht vs ADO Den Haag (1–0)
+DTSTART:20261025T154500Z
+DTEND:20261025T174500Z
+DTSTAMP:20261121T075458Z
+UID:af-eredivisie-women-1575089@herfixtures.com
+DESCRIPTION:Eredivisie Women 2026/27\nFC Utrecht vs ADO Den Haag\nStatus: 
+ Match Finished\nVenue: Sportcomplex Zoudenbalch\, Utrecht\n\nFixtures by H
+ erFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ ADO Den Haag vs Feyenoord (0–1)
+DTSTART:20261101T154500Z
+DTEND:20261101T174500Z
+DTSTAMP:20261121T075458Z
+UID:af-eredivisie-women-1575092@herfixtures.com
+DESCRIPTION:Eredivisie Women 2026/27\nADO Den Haag vs Feyenoord\nStatus: M
+ atch Finished\nVenue: WerkTalent Stadion\, Den Haag\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ ADO Den Haag vs De Graafschap (0–2)
+DTSTART:20261115T111500Z
+DTEND:20261115T131500Z
+DTSTAMP:20261121T080314Z
+UID:af-eredivisie-women-1575097@herfixtures.com
+DESCRIPTION:Eredivisie Women 2026/27\nADO Den Haag vs De Graafschap\nStatu
+ s: Match Finished\nVenue: WerkTalent Stadion\, Den Haag\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Heerenveen vs ADO Den Haag
+DTSTART:20261122T111500Z
+DTEND:20261122T131500Z
+DTSTAMP:20261121T080314Z
+UID:af-eredivisie-women-1575100@herfixtures.com
+DESCRIPTION:Eredivisie Women 2026/27\nHeerenveen vs ADO Den Haag\nStatus: 
+ Not Started\nVenue: Sportpark Skoatterwald\, Heerenveen\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ ADO Den Haag vs PEC Zwolle
+DTSTART:20261220T154500Z
+DTEND:20261220T174500Z
+DTSTAMP:20261121T080314Z
+UID:af-eredivisie-women-1575107@herfixtures.com
+DESCRIPTION:Eredivisie Women 2026/27\nADO Den Haag vs PEC Zwolle\nStatus: 
+ Not Started\nVenue: WerkTalent Stadion\, Den Haag\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ FC Twente vs ADO Den Haag
+DTSTART:20270117T154500Z
+DTEND:20270117T174500Z
+DTSTAMP:20261121T080314Z
+UID:af-eredivisie-women-1575114@herfixtures.com
+DESCRIPTION:Eredivisie Women 2026/27\nFC Twente vs ADO Den Haag\nStatus: N
+ ot Started\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
+ dar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ ADO Den Haag vs AZ
+DTSTART:20270124T154500Z
+DTEND:20270124T174500Z
+DTSTAMP:20261121T080314Z
+UID:af-eredivisie-women-1575116@herfixtures.com
+DESCRIPTION:Eredivisie Women 2026/27\nADO Den Haag vs AZ\nStatus: Not Star
+ ted\nVenue: WerkTalent Stadion\, Den Haag\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ PSV vs ADO Den Haag
+DTSTART:20270131T154500Z
+DTEND:20270131T174500Z
+DTSTAMP:20261121T080314Z
+UID:af-eredivisie-women-1575124@herfixtures.com
+DESCRIPTION:Eredivisie Women 2026/27\nPSV vs ADO Den Haag\nStatus: Not Sta
+ rted\nVenue: De Herdgang\, Eindhoven\n\nFixtures by HerFixtures.com — Wo
+ men's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ ADO Den Haag vs FC Utrecht
+DTSTART:20270207T111500Z
+DTEND:20270207T131500Z
+DTSTAMP:20261121T080314Z
+UID:af-eredivisie-women-1575125@herfixtures.com
+DESCRIPTION:Eredivisie Women 2026/27\nADO Den Haag vs FC Utrecht\nStatus: 
+ Not Started\nVenue: WerkTalent Stadion\, Den Haag\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Feyenoord vs ADO Den Haag
+DTSTART:20270214T111500Z
+DTEND:20270214T131500Z
+DTSTAMP:20261121T080314Z
+UID:af-eredivisie-women-1575130@herfixtures.com
+DESCRIPTION:Eredivisie Women 2026/27\nFeyenoord vs ADO Den Haag\nStatus: N
+ ot Started\nVenue: Sportcomplex Varkenoord 1\, Rotterdam\n\nFixtures by He
+ rFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ ADO Den Haag vs Ajax
+DTSTART:20270221T154500Z
+DTEND:20270221T174500Z
+DTSTAMP:20261121T080314Z
+UID:af-eredivisie-women-1575137@herfixtures.com
+DESCRIPTION:Eredivisie Women 2026/27\nADO Den Haag vs Ajax\nStatus: Not St
+ arted\nVenue: WerkTalent Stadion\, Den Haag\n\nFixtures by HerFixtures.com
+  — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+END:VCALENDAR
