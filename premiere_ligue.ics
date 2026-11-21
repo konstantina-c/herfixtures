@@ -575,7 +575,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Marseille vs Paris Saint-Germain (0–2)
 DTSTART:20261114T200000Z
 DTEND:20261114T220000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885644@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMarseille vs Paris Saint-Germain\nSta
  tus: Full Time\nVenue: Stade Francis-Turcan\, Martigues\n\nFixtures by Her
@@ -587,7 +587,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Le Havre AC vs Paris FC (1–2)
 DTSTART:20261114T140000Z
 DTEND:20261114T160000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885645@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLe Havre AC vs Paris FC\nStatus: Full
   Time\nVenue: Stade Océane\, Le Havre\n\nFixtures by HerFixtures.com — 
@@ -599,7 +599,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Montpellier vs FC Fleury 91 (0–1)
 DTSTART:20261114T173000Z
 DTEND:20261114T193000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885646@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMontpellier vs FC Fleury 91\nStatus: 
  Full Time\nVenue: Stade Bernard Gasset No. 7\, Montpellier\n\nFixtures by 
@@ -611,7 +611,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ OL Lyonnes vs Saint-Malo (1–0)
 DTSTART:20261114T170000Z
 DTEND:20261114T190000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885694@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nOL Lyonnes vs Saint-Malo\nStatus: Ful
  l Time\nVenue: Terrain d'honneur Gérard Houllier\, Décines-Charpieu\n\nF
@@ -623,7 +623,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Strasbourg vs Toulouse (3–1)
 DTSTART:20261114T170000Z
 DTEND:20261114T190000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885695@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs Toulouse\nStatus: Full 
  Time\nVenue: Stade de la Meinau\, Strasbourg\n\nFixtures by HerFixtures.co
@@ -635,7 +635,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Toulouse vs Marseille (1–1)
 DTSTART:20261120T200000Z
 DTEND:20261120T220000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885693@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nToulouse vs Marseille\nStatus: Full T
  ime\nVenue: Stadium Municipal de Toulouse\, Toulouse\n\nFixtures by HerFix
@@ -647,7 +647,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Le Havre AC vs Nantes
 DTSTART:20261121T170000Z
 DTEND:20261121T190000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885642@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLe Havre AC vs Nantes\nStatus: Schedu
  led\nVenue: Stade Océane\, Le Havre\n\nFixtures by HerFixtures.com — Wo
@@ -659,7 +659,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris Saint-Germain vs Saint-Malo
 DTSTART:20261121T200000Z
 DTEND:20261121T220000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885692@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis Saint-Germain vs Saint-Malo\nSt
  atus: Scheduled\nVenue: Training Center Paris Saint Germain Terrain 5\, Po
@@ -671,7 +671,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Lens vs Montpellier
 DTSTART:20261121T150000Z
 DTEND:20261121T170000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401888025@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLens vs Montpellier\nStatus: Schedule
  d\nVenue: Stade François-Blin\, Lens\n\nFixtures by HerFixtures.com — W
@@ -682,7 +682,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ OL Lyonnes vs Strasbourg
 DTSTART:20261122T140000Z
 DTEND:20261122T160000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885641@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nOL Lyonnes vs Strasbourg\nStatus: Sch
  eduled\nVenue: Groupama Stadium\, Lyon\n\nFixtures by HerFixtures.com — 
@@ -694,7 +694,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris FC vs FC Fleury 91
 DTSTART:20261122T140000Z
 DTEND:20261122T160000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885643@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis FC vs FC Fleury 91\nStatus: Sch
  eduled\nVenue: Stade Sébastien Charléty\, Paris\n\nFixtures by HerFixtur
@@ -706,7 +706,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris FC vs Marseille
 DTSTART:20261212T160000Z
 DTEND:20261212T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885597@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis FC vs Marseille\nStatus: Schedu
  led\nVenue: Stade Sébastien Charléty\, Paris\n\nFixtures by HerFixtures.
@@ -718,7 +718,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Montpellier vs Strasbourg
 DTSTART:20261212T160000Z
 DTEND:20261212T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885598@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMontpellier vs Strasbourg\nStatus: Sc
  heduled\nVenue: Stade Bernard Gasset No. 7\, Montpellier\n\nFixtures by He
@@ -730,7 +730,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Nantes vs OL Lyonnes
 DTSTART:20261212T160000Z
 DTEND:20261212T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885599@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nNantes vs OL Lyonnes\nStatus: Schedul
  ed\nVenue: Stade Marcel-Saupin\, Nantes\n\nFixtures by HerFixtures.com —
@@ -741,7 +741,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Fleury 91 vs Le Havre AC
 DTSTART:20261212T160000Z
 DTEND:20261212T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885640@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nFC Fleury 91 vs Le Havre AC\nStatus: 
  Scheduled\nVenue: Stade Robert Bobin\, Bondoufle\n\nFixtures by HerFixture
@@ -753,7 +753,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Toulouse vs Paris Saint-Germain
 DTSTART:20261212T160000Z
 DTEND:20261212T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885691@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nToulouse vs Paris Saint-Germain\nStat
  us: Scheduled\nVenue: Stadium Municipal de Toulouse\, Toulouse\n\nFixtures
@@ -765,7 +765,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Saint-Malo vs Lens
 DTSTART:20261212T160000Z
 DTEND:20261212T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401888024@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Lens\nStatus: Scheduled
  \nVenue: Stade de Marville\, Saint-Malo\n\nFixtures by HerFixtures.com —
@@ -776,7 +776,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Strasbourg vs Paris Saint-Germain
 DTSTART:20261219T160000Z
 DTEND:20261219T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885594@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs Paris Saint-Germain\nSt
  atus: Scheduled\nVenue: Stade de la Meinau\, Strasbourg\n\nFixtures by Her
@@ -788,7 +788,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Marseille vs Montpellier
 DTSTART:20261219T160000Z
 DTEND:20261219T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885595@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMarseille vs Montpellier\nStatus: Sch
  eduled\nVenue: Stade Francis-Turcan\, Martigues\n\nFixtures by HerFixtures
@@ -800,7 +800,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ OL Lyonnes vs FC Fleury 91
 DTSTART:20261219T160000Z
 DTEND:20261219T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885596@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nOL Lyonnes vs FC Fleury 91\nStatus: S
  cheduled\nVenue: Groupama Stadium\, Lyon\n\nFixtures by HerFixtures.com 
@@ -812,7 +812,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Nantes vs Saint-Malo
 DTSTART:20261219T160000Z
 DTEND:20261219T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885689@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nNantes vs Saint-Malo\nStatus: Schedul
  ed\nVenue: Stade Marcel-Saupin\, Nantes\n\nFixtures by HerFixtures.com —
@@ -823,7 +823,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Le Havre AC vs Toulouse
 DTSTART:20261219T160000Z
 DTEND:20261219T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885690@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLe Havre AC vs Toulouse\nStatus: Sche
  duled\nVenue: Stade Océane\, Le Havre\n\nFixtures by HerFixtures.com — 
@@ -835,7 +835,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Lens vs Paris FC
 DTSTART:20261219T160000Z
 DTEND:20261219T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401888023@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLens vs Paris FC\nStatus: Scheduled\n
  Venue: Stade François-Blin\, Lens\n\nFixtures by HerFixtures.com — Wome
@@ -846,7 +846,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Saint-Malo vs Paris FC
 DTSTART:20270113T180000Z
 DTEND:20270113T200000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885699@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Paris FC\nStatus: Sched
  uled\nVenue: Stade de Marville\, Saint-Malo\n\nFixtures by HerFixtures.com
@@ -858,7 +858,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Strasbourg vs Nantes
 DTSTART:20270116T160000Z
 DTEND:20270116T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885591@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs Nantes\nStatus: Schedul
  ed\nVenue: Stade de la Meinau\, Strasbourg\n\nFixtures by HerFixtures.com 
@@ -869,7 +869,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris FC vs OL Lyonnes
 DTSTART:20270116T160000Z
 DTEND:20270116T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885592@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis FC vs OL Lyonnes\nStatus: Sched
  uled\nVenue: Stade Sébastien Charléty\, Paris\n\nFixtures by HerFixtures
@@ -881,7 +881,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Le Havre AC vs Marseille
 DTSTART:20270116T160000Z
 DTEND:20270116T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885593@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLe Havre AC vs Marseille\nStatus: Sch
  eduled\nVenue: Stade Océane\, Le Havre\n\nFixtures by HerFixtures.com —
@@ -893,7 +893,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Toulouse vs Montpellier
 DTSTART:20270116T160000Z
 DTEND:20270116T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885687@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nToulouse vs Montpellier\nStatus: Sche
  duled\nVenue: Parc des Sports Stadium A1\, Toulouse\n\nFixtures by HerFixt
@@ -905,7 +905,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Fleury 91 vs Saint-Malo
 DTSTART:20270116T160000Z
 DTEND:20270116T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885688@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nFC Fleury 91 vs Saint-Malo\nStatus: S
  cheduled\nVenue: Stade Robert Bobin\, Bondoufle\n\nFixtures by HerFixtures
@@ -917,7 +917,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris Saint-Germain vs Lens
 DTSTART:20270116T160000Z
 DTEND:20270116T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401888022@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis Saint-Germain vs Lens\nStatus: 
  Scheduled\nVenue: Training Center Paris Saint Germain Terrain 5\, Poissy\n
@@ -929,7 +929,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Marseille vs Strasbourg
 DTSTART:20270123T160000Z
 DTEND:20270123T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885587@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMarseille vs Strasbourg\nStatus: Sche
  duled\nVenue: Stade Francis-Turcan\, Martigues\n\nFixtures by HerFixtures.
@@ -941,7 +941,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Nantes vs Paris Saint-Germain
 DTSTART:20270123T160000Z
 DTEND:20270123T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885588@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nNantes vs Paris Saint-Germain\nStatus
  : Scheduled\nVenue: Stade Marcel-Saupin\, Nantes\n\nFixtures by HerFixture
@@ -953,7 +953,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Montpellier vs Paris FC
 DTSTART:20270123T160000Z
 DTEND:20270123T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885589@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMontpellier vs Paris FC\nStatus: Sche
  duled\nVenue: Stade Bernard Gasset No. 7\, Montpellier\n\nFixtures by HerF
@@ -965,7 +965,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ OL Lyonnes vs Le Havre AC (time TBC)
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885590@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nOL Lyonnes vs Le Havre AC\nStatus: Sc
  heduled\nKick-off time not confirmed yet. Your calendar updates automatica
@@ -978,7 +978,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Saint-Malo vs Toulouse
 DTSTART:20270123T160000Z
 DTEND:20270123T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885686@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Toulouse\nStatus: Sched
  uled\nVenue: Stade de Marville\, Saint-Malo\n\nFixtures by HerFixtures.com
@@ -990,7 +990,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Fleury 91 vs Lens
 DTSTART:20270123T160000Z
 DTEND:20270123T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401888021@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nFC Fleury 91 vs Lens\nStatus: Schedul
  ed\nVenue: Stade Robert Bobin\, Bondoufle\n\nFixtures by HerFixtures.com 
@@ -1001,7 +1001,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris Saint-Germain vs Paris FC
 DTSTART:20270206T160000Z
 DTEND:20270206T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885584@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis Saint-Germain vs Paris FC\nStat
  us: Scheduled\nVenue: Training Center Paris Saint Germain Terrain 5\, Pois
@@ -1013,7 +1013,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Marseille vs OL Lyonnes (time TBC)
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885585@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMarseille vs OL Lyonnes\nStatus: Sche
  duled\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -1026,7 +1026,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Le Havre AC vs Strasbourg
 DTSTART:20270206T160000Z
 DTEND:20270206T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885586@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLe Havre AC vs Strasbourg\nStatus: Sc
  heduled\nVenue: Stade Océane\, Le Havre\n\nFixtures by HerFixtures.com 
@@ -1038,7 +1038,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Montpellier vs Saint-Malo
 DTSTART:20270206T160000Z
 DTEND:20270206T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885684@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMontpellier vs Saint-Malo\nStatus: Sc
  heduled\nVenue: Stade Bernard Gasset No. 7\, Montpellier\n\nFixtures by He
@@ -1050,7 +1050,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Toulouse vs FC Fleury 91
 DTSTART:20270206T160000Z
 DTEND:20270206T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885685@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nToulouse vs FC Fleury 91\nStatus: Sch
  eduled\nVenue: Parc des Sports Stadium A1\, Toulouse\n\nFixtures by HerFix
@@ -1062,7 +1062,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Lens vs Nantes (time TBC)
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401888020@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLens vs Nantes\nStatus: Scheduled\nKi
  ck-off time not confirmed yet. Your calendar updates automatically once it
@@ -1074,7 +1074,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Nantes vs Marseille
 DTSTART:20270220T160000Z
 DTEND:20270220T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885581@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nNantes vs Marseille\nStatus: Schedule
  d\nVenue: Stade Marcel-Saupin\, Nantes\n\nFixtures by HerFixtures.com — 
@@ -1085,7 +1085,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ OL Lyonnes vs Paris Saint-Germain
 DTSTART:20270220T160000Z
 DTEND:20270220T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885582@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nOL Lyonnes vs Paris Saint-Germain\nSt
  atus: Scheduled\nVenue: Groupama Stadium\, Lyon\n\nFixtures by HerFixtures
@@ -1097,7 +1097,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Fleury 91 vs Montpellier
 DTSTART:20270220T160000Z
 DTEND:20270220T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885583@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nFC Fleury 91 vs Montpellier\nStatus: 
  Scheduled\nVenue: Stade Robert Bobin\, Bondoufle\n\nFixtures by HerFixture
@@ -1109,7 +1109,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Saint-Malo vs Le Havre AC
 DTSTART:20270220T160000Z
 DTEND:20270220T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885682@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Le Havre AC\nStatus: Sc
  heduled\nVenue: Stade de Marville\, Saint-Malo\n\nFixtures by HerFixtures.
@@ -1121,7 +1121,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris FC vs Toulouse
 DTSTART:20270220T160000Z
 DTEND:20270220T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885683@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis FC vs Toulouse\nStatus: Schedul
  ed\nVenue: Stade Sébastien Charléty\, Paris\n\nFixtures by HerFixtures.c
@@ -1132,7 +1132,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Strasbourg vs Lens
 DTSTART:20270220T160000Z
 DTEND:20270220T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401888019@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs Lens\nStatus: Scheduled
  \nVenue: Stade de la Meinau\, Strasbourg\n\nFixtures by HerFixtures.com 
@@ -1143,7 +1143,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris Saint-Germain vs Marseille (time TBC)
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885578@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis Saint-Germain vs Marseille\nSta
  tus: Scheduled\nKick-off time not confirmed yet. Your calendar updates aut
@@ -1156,7 +1156,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Montpellier vs Nantes (time TBC)
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885579@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMontpellier vs Nantes\nStatus: Schedu
  led\nKick-off time not confirmed yet. Your calendar updates automatically 
@@ -1169,7 +1169,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Fleury 91 vs Paris FC
 DTSTART:20270313T160000Z
 DTEND:20270313T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885580@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nFC Fleury 91 vs Paris FC\nStatus: Sch
  eduled\nVenue: Stade Robert Bobin\, Bondoufle\n\nFixtures by HerFixtures.c
@@ -1181,7 +1181,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Saint-Malo vs Strasbourg
 DTSTART:20270313T160000Z
 DTEND:20270313T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885680@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Strasbourg\nStatus: Sch
  eduled\nVenue: Stade de Marville\, Saint-Malo\n\nFixtures by HerFixtures.c
@@ -1193,7 +1193,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Toulouse vs OL Lyonnes
 DTSTART:20270313T160000Z
 DTEND:20270313T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885681@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nToulouse vs OL Lyonnes\nStatus: Sched
  uled\nVenue: Parc des Sports Stadium A1\, Toulouse\n\nFixtures by HerFixtu
@@ -1205,7 +1205,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Lens vs Le Havre AC (time TBC)
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401887998@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLens vs Le Havre AC\nStatus: Schedule
  d\nKick-off time not confirmed yet. Your calendar updates automatically on
@@ -1217,7 +1217,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Nantes vs Paris FC
 DTSTART:20270320T160000Z
 DTEND:20270320T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885574@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nNantes vs Paris FC\nStatus: Scheduled
  \nVenue: Stade Marcel-Saupin\, Nantes\n\nFixtures by HerFixtures.com — W
@@ -1228,7 +1228,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Strasbourg vs OL Lyonnes
 DTSTART:20270320T160000Z
 DTEND:20270320T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885575@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs OL Lyonnes\nStatus: Sch
  eduled\nVenue: Stade de la Meinau\, Strasbourg\n\nFixtures by HerFixtures.
@@ -1240,7 +1240,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Le Havre AC vs Montpellier
 DTSTART:20270320T160000Z
 DTEND:20270320T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885576@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLe Havre AC vs Montpellier\nStatus: S
  cheduled\nVenue: Stade Océane\, Le Havre\n\nFixtures by HerFixtures.com 
@@ -1252,7 +1252,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris Saint-Germain vs FC Fleury 91
 DTSTART:20270320T160000Z
 DTEND:20270320T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885577@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis Saint-Germain vs FC Fleury 91\n
  Status: Scheduled\nVenue: Training Center Paris Saint Germain Terrain 5\, 
@@ -1264,7 +1264,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Marseille vs Saint-Malo (time TBC)
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885679@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMarseille vs Saint-Malo\nStatus: Sche
  duled\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -1277,7 +1277,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Toulouse vs Lens
 DTSTART:20270320T160000Z
 DTEND:20270320T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401887997@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nToulouse vs Lens\nStatus: Scheduled\n
  Venue: Parc des Sports Stadium A1\, Toulouse\n\nFixtures by HerFixtures.co
@@ -1288,7 +1288,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris FC vs Strasbourg
 DTSTART:20270327T160000Z
 DTEND:20270327T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885570@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis FC vs Strasbourg\nStatus: Sched
  uled\nVenue: Stade Sébastien Charléty\, Paris\n\nFixtures by HerFixtures
@@ -1300,7 +1300,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Montpellier vs Paris Saint-Germain
 DTSTART:20270327T160000Z
 DTEND:20270327T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885571@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMontpellier vs Paris Saint-Germain\nS
  tatus: Scheduled\nVenue: Stade Bernard Gasset No. 7\, Montpellier\n\nFixtu
@@ -1312,7 +1312,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ OL Lyonnes vs Nantes (time TBC)
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885572@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nOL Lyonnes vs Nantes\nStatus: Schedul
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -1324,7 +1324,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Le Havre AC vs FC Fleury 91
 DTSTART:20270327T160000Z
 DTEND:20270327T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885573@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLe Havre AC vs FC Fleury 91\nStatus: 
  Scheduled\nVenue: Stade Océane\, Le Havre\n\nFixtures by HerFixtures.com 
@@ -1336,7 +1336,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Marseille vs Toulouse
 DTSTART:20270327T160000Z
 DTEND:20270327T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885678@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMarseille vs Toulouse\nStatus: Schedu
  led\nVenue: Stade Francis-Turcan\, Martigues\n\nFixtures by HerFixtures.co
@@ -1348,7 +1348,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Lens vs Saint-Malo
 DTSTART:20270327T160000Z
 DTEND:20270327T180000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401887996@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLens vs Saint-Malo\nStatus: Scheduled
  \nVenue: Stade François-Blin\, Lens\n\nFixtures by HerFixtures.com — Wo
@@ -1359,7 +1359,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Strasbourg vs Montpellier
 DTSTART:20270407T150000Z
 DTEND:20270407T170000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885567@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs Montpellier\nStatus: Sc
  heduled\nVenue: Stade de la Meinau\, Strasbourg\n\nFixtures by HerFixtures
@@ -1371,7 +1371,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris FC vs Le Havre AC (time TBC)
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885568@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis FC vs Le Havre AC\nStatus: Sche
  duled\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -1384,7 +1384,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Fleury 91 vs Marseille (time TBC)
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885569@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nFC Fleury 91 vs Marseille\nStatus: Sc
  heduled\nKick-off time not confirmed yet. Your calendar updates automatica
@@ -1397,7 +1397,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Saint-Malo vs Paris Saint-Germain
 DTSTART:20270407T150000Z
 DTEND:20270407T170000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885676@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Paris Saint-Germain\nSt
  atus: Scheduled\nVenue: Stade de Marville\, Saint-Malo\n\nFixtures by HerF
@@ -1409,7 +1409,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Toulouse vs Nantes (time TBC)
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885677@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nToulouse vs Nantes\nStatus: Scheduled
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -1421,7 +1421,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ OL Lyonnes vs Lens
 DTSTART:20270407T150000Z
 DTEND:20270407T170000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401887995@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nOL Lyonnes vs Lens\nStatus: Scheduled
  \nVenue: Groupama Stadium\, Lyon\n\nFixtures by HerFixtures.com — Women'
@@ -1432,7 +1432,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Marseille vs Paris FC
 DTSTART:20270501T150000Z
 DTEND:20270501T170000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885564@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMarseille vs Paris FC\nStatus: Schedu
  led\nVenue: Stade Francis-Turcan\, Martigues\n\nFixtures by HerFixtures.co
@@ -1444,7 +1444,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Nantes vs Le Havre AC
 DTSTART:20270501T150000Z
 DTEND:20270501T170000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885565@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nNantes vs Le Havre AC\nStatus: Schedu
  led\nVenue: Stade Marcel-Saupin\, Nantes\n\nFixtures by HerFixtures.com 
@@ -1456,7 +1456,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Strasbourg vs FC Fleury 91
 DTSTART:20270501T150000Z
 DTEND:20270501T170000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885566@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs FC Fleury 91\nStatus: S
  cheduled\nVenue: Stade de la Meinau\, Strasbourg\n\nFixtures by HerFixture
@@ -1468,7 +1468,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Saint-Malo vs OL Lyonnes
 DTSTART:20270501T150000Z
 DTEND:20270501T170000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885674@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs OL Lyonnes\nStatus: Sch
  eduled\nVenue: Stade de Marville\, Saint-Malo\n\nFixtures by HerFixtures.c
@@ -1480,7 +1480,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris Saint-Germain vs Toulouse
 DTSTART:20270501T150000Z
 DTEND:20270501T170000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885675@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis Saint-Germain vs Toulouse\nStat
  us: Scheduled\nVenue: Training Center Paris Saint Germain Terrain 5\, Pois
@@ -1492,7 +1492,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Montpellier vs Lens
 DTSTART:20270501T150000Z
 DTEND:20270501T170000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401887994@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMontpellier vs Lens\nStatus: Schedule
  d\nVenue: Stade Bernard Gasset No. 7\, Montpellier\n\nFixtures by HerFixtu
@@ -1503,7 +1503,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ OL Lyonnes vs Montpellier
 DTSTART:20270504T150000Z
 DTEND:20270504T170000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885561@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nOL Lyonnes vs Montpellier\nStatus: Sc
  heduled\nVenue: Groupama Stadium\, Lyon\n\nFixtures by HerFixtures.com —
@@ -1515,7 +1515,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Le Havre AC vs Paris Saint-Germain
 DTSTART:20270504T150000Z
 DTEND:20270504T170000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885562@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLe Havre AC vs Paris Saint-Germain\nS
  tatus: Scheduled\nVenue: Stade Océane\, Le Havre\n\nFixtures by HerFixtur
@@ -1527,7 +1527,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Fleury 91 vs Nantes (time TBC)
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270505
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885563@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nFC Fleury 91 vs Nantes\nStatus: Sched
  uled\nKick-off time not confirmed yet. Your calendar updates automatically
@@ -1540,7 +1540,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Toulouse vs Strasbourg
 DTSTART:20270504T150000Z
 DTEND:20270504T170000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885673@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nToulouse vs Strasbourg\nStatus: Sched
  uled\nVenue: Parc des Sports Stadium A1\, Toulouse\n\nFixtures by HerFixtu
@@ -1552,7 +1552,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris FC vs Saint-Malo
 DTSTART:20270504T150000Z
 DTEND:20270504T170000Z
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401885710@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis FC vs Saint-Malo\nStatus: Sched
  uled\nVenue: Stade Sébastien Charléty\, Paris\n\nFixtures by HerFixtures
@@ -1564,7 +1564,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Lens vs Marseille (time TBC)
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270505
-DTSTAMP:20261120T235420Z
+DTSTAMP:20261121T080519Z
 UID:espn-premiere-ligue-401888002@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLens vs Marseille\nStatus: Scheduled
  \nKick-off time not confirmed yet. Your calendar updates automatically onc

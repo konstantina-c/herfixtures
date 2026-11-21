@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T23:55:18+00:00",
-  "for_date": "2026-11-20",
+  "generated": "2026-11-21T08:06:02+00:00",
+  "for_date": "2026-11-21",
   "feeds": {
     "euroleague-women": {
       "next_game": "2026-11-25",
@@ -17,8 +17,8 @@
       "rule": "in-season"
     },
     "frauen-bundesliga": {
-      "next_game": "2026-11-20",
-      "upcoming_games": 112,
+      "next_game": "2026-11-21",
+      "upcoming_games": 111,
       "text": "Season in progress",
       "style": "live",
       "rule": "in-season"
@@ -38,15 +38,15 @@
       "rule": "in-season"
     },
     "premiere-ligue": {
-      "next_game": "2026-11-20",
-      "upcoming_games": 79,
+      "next_game": "2026-11-21",
+      "upcoming_games": 78,
       "text": "Season in progress",
       "style": "live",
       "rule": "in-season"
     },
     "a-league-women": {
-      "next_game": "2026-11-20",
-      "upcoming_games": 86,
+      "next_game": "2026-11-21",
+      "upcoming_games": 85,
       "text": "Season in progress",
       "style": "live",
       "rule": "in-season"
@@ -66,8 +66,8 @@
       "rule": "highlight"
     },
     "ncaa-wbb": {
-      "next_game": "2026-11-20",
-      "upcoming_games": 533,
+      "next_game": "2026-11-21",
+      "upcoming_games": 528,
       "text": "Season in progress",
       "style": "live",
       "rule": "in-season"

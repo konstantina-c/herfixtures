@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T23:55:18Z",
+  "updated": "2026-11-21T08:06:02Z",
   "competitions": {
     "wnba": {
       "name": "WNBA",
@@ -27,7 +27,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15365.png"
           },
           "kickoff": "2026-11-22T01:00:00Z",
-          "kickoff_label": "Saturday @ 1am"
+          "kickoff_label": "in 17h"
         }
       ]
     },
@@ -35,78 +35,7 @@
       "name": "Women's UCL",
       "sport": "football",
       "slug": "ucl-women",
-      "postgame": [
-        {
-          "league": "Women's UCL",
-          "home": {
-            "name": "Vienna",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131643.png",
-            "score": 0
-          },
-          "away": {
-            "name": "Bayern",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20103.png",
-            "score": 4
-          },
-          "winner": "away"
-        },
-        {
-          "league": "Women's UCL",
-          "home": {
-            "name": "Paris FC",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21640.png",
-            "score": 2
-          },
-          "away": {
-            "name": "HB K\u00f8ge",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21127.png",
-            "score": 1
-          },
-          "winner": "home"
-        },
-        {
-          "league": "Women's UCL",
-          "home": {
-            "name": "Arsenal",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19973.png",
-            "score": 0
-          },
-          "away": {
-            "name": "Lyonnes",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19256.png",
-            "score": 2
-          },
-          "winner": "away"
-        },
-        {
-          "league": "Women's UCL",
-          "home": {
-            "name": "Barcelona",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20091.png",
-            "score": 6
-          },
-          "away": {
-            "name": "Servette",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20835.png",
-            "score": 0
-          },
-          "winner": "home"
-        },
-        {
-          "league": "Women's UCL",
-          "home": {
-            "name": "Benfica",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20830.png",
-            "score": 2
-          },
-          "away": {
-            "name": "Roma",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21685.png",
-            "score": 3
-          },
-          "winner": "away"
-        }
-      ],
+      "postgame": [],
       "livegame": [],
       "pregame": []
     },
@@ -128,7 +57,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21149.png"
           },
           "kickoff": "2026-11-21T11:00:00Z",
-          "kickoff_label": "in 11h"
+          "kickoff_label": "in 3h"
         },
         {
           "league": "Liga F",
@@ -141,7 +70,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21376.png"
           },
           "kickoff": "2026-11-21T16:00:00Z",
-          "kickoff_label": "in 16h"
+          "kickoff_label": "in 8h"
         },
         {
           "league": "Liga F",
@@ -154,7 +83,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21175.png"
           },
           "kickoff": "2026-11-21T18:00:00Z",
-          "kickoff_label": "in 18h"
+          "kickoff_label": "in 10h"
         },
         {
           "league": "Liga F",
@@ -167,7 +96,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21140.png"
           },
           "kickoff": "2026-11-22T11:00:00Z",
-          "kickoff_label": "Saturday @ 11am"
+          "kickoff_label": "Tomorrow @ 11am"
         },
         {
           "league": "Liga F",
@@ -180,7 +109,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21428.png"
           },
           "kickoff": "2026-11-22T11:00:00Z",
-          "kickoff_label": "Saturday @ 11am"
+          "kickoff_label": "Tomorrow @ 11am"
         },
         {
           "league": "Liga F",
@@ -193,7 +122,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131393.png"
           },
           "kickoff": "2026-11-22T16:00:00Z",
-          "kickoff_label": "Saturday @ 4pm"
+          "kickoff_label": "Tomorrow @ 4pm"
         },
         {
           "league": "Liga F",
@@ -206,7 +135,20 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20091.png"
           },
           "kickoff": "2026-11-22T18:00:00Z",
-          "kickoff_label": "Saturday @ 6pm"
+          "kickoff_label": "Tomorrow @ 6pm"
+        },
+        {
+          "league": "Liga F",
+          "home": {
+            "name": "Valencia",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21374.png"
+          },
+          "away": {
+            "name": "Espanyol",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21154.png"
+          },
+          "kickoff": "2026-11-23T19:00:00Z",
+          "kickoff_label": "Sunday @ 7pm"
         }
       ]
     }

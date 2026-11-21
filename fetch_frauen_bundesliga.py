@@ -6,12 +6,20 @@ Uses OpenLigaDB public API (no key required, ODbL license) to fetch all
 
 Shortcut: ffb1  Season: 2026  (OpenLigaDB uses start-year convention)
 Skips any fixture with a 1970-01-01 epoch/null date (unconfirmed kickoff).
+
+Time TBC: OpenLigaDB has no "kick-off unconfirmed" flag. Rounds the DFB has
+not scheduled yet are stored at a placeholder Sunday 15:30 (Berlin time), the
+DFB itself only publishes a date window for them. Unfinished games at exactly
+Sunday 15:30 Berlin become all-day "(time TBC)" events, the same convention
+as the ESPN engine (timeValid=false). The UID is unchanged, so they turn into
+timed events automatically once OpenLigaDB gets the confirmed kick-off.
 Venue: API location field where present; static home-stadium lookup otherwise.
 Attribution: openligadb.de (ODbL) added to every event description.
 """
 
 import requests
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, time, timezone, timedelta
+from zoneinfo import ZoneInfo
 from icalendar import Calendar, Event
 
 from espn_common import safe_write_ics  # shrink guard: never overwrite a feed with <50% of its events
@@ -19,6 +27,10 @@ from espn_common import safe_write_ics  # shrink guard: never overwrite a feed w
 API_URL     = "https://api.openligadb.de/getmatchdata/ffb1/2026"
 OUTPUT_FILE = "frauen_bundesliga.ics"
 HEADERS     = {"User-Agent": "HerFixtures/1.0"}
+
+BERLIN              = ZoneInfo("Europe/Berlin")
+PLACEHOLDER_WEEKDAY = 6            # Sunday
+PLACEHOLDER_TIME    = time(15, 30)  # OpenLigaDB's placeholder for unscheduled rounds
 
 # Static home-stadium lookup — all 14 venues confirmed from OpenLigaDB 2026/27 data
 HOME_STADIUMS = {
@@ -63,6 +75,18 @@ def get_venue(match):
     return ""
 
 
+def is_time_tbc(dt_utc, is_finished):
+    """True when the kick-off is OpenLigaDB's Sunday 15:30 placeholder.
+
+    A genuine Sunday 15:30 kick-off would also match. That case shows as an
+    all-day event on the right date, which is the safe side of the trade-off.
+    """
+    if is_finished:
+        return False
+    local = dt_utc.astimezone(BERLIN)
+    return local.weekday() == PLACEHOLDER_WEEKDAY and local.time() == PLACEHOLDER_TIME
+
+
 def parse_match(match):
     # Skip unconfirmed kickoffs (epoch sentinel from OpenLigaDB)
     raw_utc = match.get("matchDateTimeUTC", "")
@@ -95,7 +119,8 @@ def parse_match(match):
     venue_str   = get_venue(match)
     match_id    = match.get("matchID", "")
 
-    summary = f"⚽ {home} vs {away}{score}"
+    time_tbc = is_time_tbc(dt, is_finished)
+    summary  = f"⚽ {home} vs {away}{score}" + (" (time TBC)" if time_tbc else "")
 
     desc_lines = [
         f"Frauen-Bundesliga 2026/27{' · ' + matchday if matchday else ''}",
@@ -103,6 +128,8 @@ def parse_match(match):
     ]
     if is_finished:
         desc_lines.append(f"Result: {score.strip('() ')}")
+    if time_tbc:
+        desc_lines.append("Kick-off time not confirmed yet (the DFB may still move it to another day of the matchday weekend). Your calendar updates automatically once it is.")
     if venue_str:
         desc_lines.append(f"Venue: {venue_str}")
     desc_lines.append("")
@@ -114,8 +141,28 @@ def parse_match(match):
         "description": "\n".join(desc_lines),
         "dtstart":     dt,
         "dtend":       dt + timedelta(hours=2),
+        "time_tbc":    time_tbc,
         "location":    venue_str,
     }
+
+
+def to_vevent(parsed, now):
+    """One VEVENT; time-TBC games become all-day events on the placeholder date."""
+    ev = Event()
+    ev.add("uid",         parsed["uid"])
+    ev.add("summary",     parsed["summary"])
+    ev.add("description", parsed["description"])
+    if parsed["time_tbc"]:
+        day = parsed["dtstart"].astimezone(BERLIN).date()
+        ev.add("dtstart", day)
+        ev.add("dtend",   day + timedelta(days=1))
+    else:
+        ev.add("dtstart", parsed["dtstart"])
+        ev.add("dtend",   parsed["dtend"])
+    ev.add("dtstamp",     now)
+    if parsed["location"]:
+        ev.add("location", parsed["location"])
+    return ev
 
 
 def build_calendar(matches):
@@ -135,16 +182,7 @@ def build_calendar(matches):
         parsed = parse_match(m)
         if not parsed:
             continue
-        ev = Event()
-        ev.add("uid",         parsed["uid"])
-        ev.add("summary",     parsed["summary"])
-        ev.add("description", parsed["description"])
-        ev.add("dtstart",     parsed["dtstart"])
-        ev.add("dtend",       parsed["dtend"])
-        ev.add("dtstamp",     now)
-        if parsed["location"]:
-            ev.add("location", parsed["location"])
-        cal.add_component(ev)
+        cal.add_component(to_vevent(parsed, now))
 
     return cal
 
@@ -157,7 +195,8 @@ def main():
     cal = build_calendar(matches)
 
     written = sum(1 for _ in cal.walk("VEVENT"))
-    print(f"  → {written} fixtures written (epoch/TBD dates skipped)")
+    tbc     = sum(1 for e in cal.walk("VEVENT") if "(time TBC)" in str(e.get("summary")))
+    print(f"  → {written} fixtures written ({tbc} time TBC; epoch/TBD dates skipped)")
 
     if written == 0:
         print("  ⚠️  No events — skipping write to preserve existing file")
