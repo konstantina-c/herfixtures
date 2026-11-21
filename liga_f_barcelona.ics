@@ -130,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Deportivo (1–1)
 DTSTART:20261115T170000Z
 DTEND:20261115T190000Z
-DTSTAMP:20261121T083053Z
+DTSTAMP:20261121T142900Z
 UID:espn-liga-f-401882459@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Deportivo\nStatus: Full T
  ime\nVenue: Riazor\, La Coruña\n\nFixtures by HerFixtures.com — Women's
@@ -142,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Barcelona
 DTSTART:20261122T180000Z
 DTEND:20261122T200000Z
-DTSTAMP:20261121T083053Z
+DTSTAMP:20261121T142900Z
 UID:espn-liga-f-401882448@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Barcelona\nStatus: Sc
  heduled\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures
@@ -154,7 +154,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ Barcelona
 DTSTART:20261208T170000Z
 DTEND:20261208T190000Z
-DTSTAMP:20261121T083053Z
+DTSTAMP:20261121T142900Z
 UID:espn-liga-f-401882440@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Barcelona\nStatus: Schedul
  ed\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures.com 
@@ -166,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Valencia (time TBC)
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261121T083053Z
+DTSTAMP:20261121T142900Z
 UID:espn-liga-f-401882429@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Valencia\nStatus: Schedul
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -179,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Eibar (time TBC)
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
-DTSTAMP:20261121T083053Z
+DTSTAMP:20261121T142900Z
 UID:espn-liga-f-401882426@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Eibar\nStatus: Scheduled
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -191,7 +191,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Barcelona (time TBC)
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
-DTSTAMP:20261121T083053Z
+DTSTAMP:20261121T142900Z
 UID:espn-liga-f-401882415@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Barcelona\nStatus: Schedule
  d\nKick-off time not confirmed yet. Your calendar updates automatically on
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Atlético Madrid (time TBC)
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
-DTSTAMP:20261121T083053Z
+DTSTAMP:20261121T142900Z
 UID:espn-liga-f-401882411@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Atlético Madrid\nStatus:
   Scheduled\nKick-off time not confirmed yet. Your calendar updates automat
@@ -217,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Badalona @ Barcelona (time TBC)
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
-DTSTAMP:20261121T083053Z
+DTSTAMP:20261121T142900Z
 UID:espn-liga-f-401882400@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Barcelona\nStatus: Sche
  duled\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -230,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Granada (time TBC)
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
-DTSTAMP:20261121T083053Z
+DTSTAMP:20261121T142900Z
 UID:espn-liga-f-401882393@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Granada\nStatus: Schedule
  d\nKick-off time not confirmed yet. Your calendar updates automatically on
@@ -242,7 +242,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Barcelona (time TBC)
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
-DTSTAMP:20261121T083053Z
+DTSTAMP:20261121T142900Z
 UID:espn-liga-f-401882382@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Barcelona\nStatus: Sch
  eduled\nKick-off time not confirmed yet. Your calendar updates automatical
@@ -255,7 +255,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Real Madrid (time TBC)
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
-DTSTAMP:20261121T083053Z
+DTSTAMP:20261121T142900Z
 UID:espn-liga-f-401882375@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Real Madrid\nStatus: Sche
  duled\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -268,7 +268,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Barcelona (time TBC)
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
-DTSTAMP:20261121T083053Z
+DTSTAMP:20261121T142900Z
 UID:espn-liga-f-401882368@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Barcelona\nStatus: Schedule
  d\nKick-off time not confirmed yet. Your calendar updates automatically on
@@ -280,7 +280,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Athletic Club (time TBC)
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
-DTSTAMP:20261121T083053Z
+DTSTAMP:20261121T142900Z
 UID:espn-liga-f-401882363@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Athletic Club\nStatus: Sc
  heduled\nKick-off time not confirmed yet. Your calendar updates automatica
@@ -293,7 +293,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Barcelona (time TBC)
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
-DTSTAMP:20261121T083053Z
+DTSTAMP:20261121T142900Z
 UID:espn-liga-f-401882352@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at Barcelona\nStatus: Schedul
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -306,7 +306,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ Barcelona (time TBC)
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
-DTSTAMP:20261121T083053Z
+DTSTAMP:20261121T142900Z
 UID:espn-liga-f-401882344@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Barcelona\nStatus: Scheduled
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -318,7 +318,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Tenerife (time TBC)
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
-DTSTAMP:20261121T083053Z
+DTSTAMP:20261121T142900Z
 UID:espn-liga-f-401882338@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Tenerife\nStatus: Schedul
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -331,7 +331,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Espanyol (time TBC)
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
-DTSTAMP:20261121T083053Z
+DTSTAMP:20261121T142900Z
 UID:espn-liga-f-401882328@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Espanyol\nStatus: Schedul
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -344,7 +344,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Sociedad @ Barcelona (time TBC)
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
-DTSTAMP:20261121T083053Z
+DTSTAMP:20261121T142900Z
 UID:espn-liga-f-401882321@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Barcelona\nStatus: Sc
  heduled\nKick-off time not confirmed yet. Your calendar updates automatica
@@ -357,7 +357,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Madrid CFF (time TBC)
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
-DTSTAMP:20261121T083053Z
+DTSTAMP:20261121T142900Z
 UID:espn-liga-f-401882310@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Madrid CFF\nStatus: Sched
  uled\nKick-off time not confirmed yet. Your calendar updates automatically
@@ -370,7 +370,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Barcelona (time TBC)
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
-DTSTAMP:20261121T083053Z
+DTSTAMP:20261121T142900Z
 UID:espn-liga-f-401882305@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Barcelona\nStatus: Schedu
  led\nKick-off time not confirmed yet. Your calendar updates automatically 
