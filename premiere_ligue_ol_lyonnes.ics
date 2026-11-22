@@ -117,21 +117,22 @@ URL:https://www.espn.com/soccer/match/_/gameId/401885694/saint-malo-ol-lyo
  nnes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ OL Lyonnes vs Strasbourg
+SUMMARY:⚽ OL Lyonnes vs Strasbourg (5–2)
 DTSTART:20261122T140000Z
 DTEND:20261122T160000Z
-DTSTAMP:20261122T142544Z
+DTSTAMP:20261122T232941Z
 UID:espn-premiere-ligue-401885641@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nOL Lyonnes vs Strasbourg\nStatus: Fir
- st Half\nVenue: Groupama Stadium\, Lyon\n\nFixtures by HerFixtures.com —
-  Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885641
+DESCRIPTION:Première Ligue 2026/27\nOL Lyonnes vs Strasbourg\nStatus: Ful
+ l Time\nVenue: Groupama Stadium\, Lyon\n\nFixtures by HerFixtures.com — 
+ Women's Sports on Your Calendar
+URL:https://www.espn.com/soccer/match/_/gameId/401885641/strasbourg-ol-lyo
+ nnes
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Nantes vs OL Lyonnes
 DTSTART:20261212T160000Z
 DTEND:20261212T180000Z
-DTSTAMP:20261122T142544Z
+DTSTAMP:20261122T232941Z
 UID:espn-premiere-ligue-401885599@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nNantes vs OL Lyonnes\nStatus: Schedul
  ed\nVenue: Stade Marcel-Saupin\, Nantes\n\nFixtures by HerFixtures.com —
@@ -142,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ OL Lyonnes vs FC Fleury 91
 DTSTART:20261219T160000Z
 DTEND:20261219T180000Z
-DTSTAMP:20261122T142544Z
+DTSTAMP:20261122T232941Z
 UID:espn-premiere-ligue-401885596@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nOL Lyonnes vs FC Fleury 91\nStatus: S
  cheduled\nVenue: Groupama Stadium\, Lyon\n\nFixtures by HerFixtures.com 
@@ -154,7 +155,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris FC vs OL Lyonnes
 DTSTART:20270116T160000Z
 DTEND:20270116T180000Z
-DTSTAMP:20261122T142544Z
+DTSTAMP:20261122T232941Z
 UID:espn-premiere-ligue-401885592@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis FC vs OL Lyonnes\nStatus: Sched
  uled\nVenue: Stade Sébastien Charléty\, Paris\n\nFixtures by HerFixtures
@@ -166,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ OL Lyonnes vs Le Havre AC (time TBC)
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-DTSTAMP:20261122T142544Z
+DTSTAMP:20261122T232941Z
 UID:espn-premiere-ligue-401885590@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nOL Lyonnes vs Le Havre AC\nStatus: Sc
  heduled\nKick-off time not confirmed yet. Your calendar updates automatica
@@ -179,7 +180,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Marseille vs OL Lyonnes (time TBC)
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-DTSTAMP:20261122T142544Z
+DTSTAMP:20261122T232941Z
 UID:espn-premiere-ligue-401885585@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMarseille vs OL Lyonnes\nStatus: Sche
  duled\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -192,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ OL Lyonnes vs Paris Saint-Germain
 DTSTART:20270220T160000Z
 DTEND:20270220T180000Z
-DTSTAMP:20261122T142544Z
+DTSTAMP:20261122T232941Z
 UID:espn-premiere-ligue-401885582@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nOL Lyonnes vs Paris Saint-Germain\nSt
  atus: Scheduled\nVenue: Groupama Stadium\, Lyon\n\nFixtures by HerFixtures
@@ -204,7 +205,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Toulouse vs OL Lyonnes
 DTSTART:20270313T160000Z
 DTEND:20270313T180000Z
-DTSTAMP:20261122T142544Z
+DTSTAMP:20261122T232941Z
 UID:espn-premiere-ligue-401885681@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nToulouse vs OL Lyonnes\nStatus: Sched
  uled\nVenue: Parc des Sports Stadium A1\, Toulouse\n\nFixtures by HerFixtu
@@ -216,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Strasbourg vs OL Lyonnes
 DTSTART:20270320T160000Z
 DTEND:20270320T180000Z
-DTSTAMP:20261122T142544Z
+DTSTAMP:20261122T232941Z
 UID:espn-premiere-ligue-401885575@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs OL Lyonnes\nStatus: Sch
  eduled\nVenue: Stade de la Meinau\, Strasbourg\n\nFixtures by HerFixtures.
@@ -228,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ OL Lyonnes vs Nantes (time TBC)
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
-DTSTAMP:20261122T142544Z
+DTSTAMP:20261122T232941Z
 UID:espn-premiere-ligue-401885572@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nOL Lyonnes vs Nantes\nStatus: Schedul
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -240,7 +241,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ OL Lyonnes vs Lens
 DTSTART:20270407T150000Z
 DTEND:20270407T170000Z
-DTSTAMP:20261122T142544Z
+DTSTAMP:20261122T232941Z
 UID:espn-premiere-ligue-401887995@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nOL Lyonnes vs Lens\nStatus: Scheduled
  \nVenue: Groupama Stadium\, Lyon\n\nFixtures by HerFixtures.com — Women'
@@ -251,7 +252,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Saint-Malo vs OL Lyonnes
 DTSTART:20270501T150000Z
 DTEND:20270501T170000Z
-DTSTAMP:20261122T142544Z
+DTSTAMP:20261122T232941Z
 UID:espn-premiere-ligue-401885674@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs OL Lyonnes\nStatus: Sch
  eduled\nVenue: Stade de Marville\, Saint-Malo\n\nFixtures by HerFixtures.c
@@ -263,7 +264,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ OL Lyonnes vs Montpellier
 DTSTART:20270504T150000Z
 DTEND:20270504T170000Z
-DTSTAMP:20261122T142544Z
+DTSTAMP:20261122T232941Z
 UID:espn-premiere-ligue-401885561@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nOL Lyonnes vs Montpellier\nStatus: Sc
  heduled\nVenue: Groupama Stadium\, Lyon\n\nFixtures by HerFixtures.com —
