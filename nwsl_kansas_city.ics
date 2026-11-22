@@ -412,7 +412,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Kansas City Current @ Gotham FC (2–1)
 DTSTART:20261115T200000Z
 DTEND:20261115T220000Z
-DTSTAMP:20261121T230008Z
+DTSTAMP:20261122T142700Z
 UID:espn-nwsl-401933740@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nKansas City Current at Gotha
  m FC\nStatus: Full Time\nVenue: Icahn Stadium\, New York City\, New York\n
@@ -422,13 +422,13 @@ URL:https://www.espn.com/soccer/match/_/gameId/401933740/kansas-city-curre
  nt-gotham-fc
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Kansas City Current @ Washington Spirit
+SUMMARY:⚽ Kansas City Current @ Washington Spirit (2–1)
 DTSTART:20261122T010000Z
 DTEND:20261122T030000Z
-DTSTAMP:20261121T230008Z
+DTSTAMP:20261122T142700Z
 UID:espn-nwsl-401934232@herfixtures.com
 DESCRIPTION:NWSL 2026 · Kansas City Current\nKansas City Current at Washi
- ngton Spirit\nStatus: Scheduled\nVenue: Audi Field\, Washington\, District
+ ngton Spirit\nStatus: Full Time\nVenue: Audi Field\, Washington\, District
   of Columbia\nTV: CBS\, Paramount+\n\nFixtures by HerFixtures.com — Wome
  n's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401934232/kansas-city-curre

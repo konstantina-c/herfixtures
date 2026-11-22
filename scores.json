@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T23:00:14Z",
+  "updated": "2026-11-22T14:27:05Z",
   "competitions": {
     "wnba": {
       "name": "WNBA",
@@ -13,23 +13,24 @@
       "name": "NWSL",
       "sport": "football",
       "slug": "nwsl",
-      "postgame": [],
-      "livegame": [],
-      "pregame": [
+      "postgame": [
         {
           "league": "NWSL",
           "home": {
             "name": "Kansas City",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20907.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20907.png",
+            "score": 2
           },
           "away": {
             "name": "Washington",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15365.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15365.png",
+            "score": 1
           },
-          "kickoff": "2026-11-22T01:00:00Z",
-          "kickoff_label": "in 2h"
+          "winner": "home"
         }
-      ]
+      ],
+      "livegame": [],
+      "pregame": []
     },
     "ucl-women": {
       "name": "Women's UCL",
@@ -85,36 +86,38 @@
             "score": 3
           },
           "winner": "away"
-        }
-      ],
-      "livegame": [],
-      "pregame": [
+        },
         {
           "league": "Liga F",
           "home": {
             "name": "Real Madrid",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21128.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21128.png",
+            "score": 5
           },
           "away": {
             "name": "Granada",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21140.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21140.png",
+            "score": 1
           },
-          "kickoff": "2026-11-22T11:00:00Z",
-          "kickoff_label": "in 12h"
+          "winner": "home"
         },
         {
           "league": "Liga F",
           "home": {
             "name": "Sevilla",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21424.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21424.png",
+            "score": 0
           },
           "away": {
             "name": "Real Sociedad",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21428.png"
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21428.png",
+            "score": 1
           },
-          "kickoff": "2026-11-22T11:00:00Z",
-          "kickoff_label": "in 12h"
-        },
+          "winner": "away"
+        }
+      ],
+      "livegame": [],
+      "pregame": [
         {
           "league": "Liga F",
           "home": {
@@ -126,7 +129,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131393.png"
           },
           "kickoff": "2026-11-22T16:00:00Z",
-          "kickoff_label": "in 17h"
+          "kickoff_label": "in 2h"
         },
         {
           "league": "Liga F",
@@ -139,7 +142,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20091.png"
           },
           "kickoff": "2026-11-22T18:00:00Z",
-          "kickoff_label": "in 19h"
+          "kickoff_label": "in 4h"
         },
         {
           "league": "Liga F",
@@ -152,7 +155,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21154.png"
           },
           "kickoff": "2026-11-23T19:00:00Z",
-          "kickoff_label": "Sunday @ 7pm"
+          "kickoff_label": "Tomorrow @ 7pm"
         }
       ]
     }
