@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-22T23:30:32+00:00",
-  "for_date": "2026-11-22",
+  "generated": "2026-11-23T17:52:22+00:00",
+  "for_date": "2026-11-23",
   "feeds": {
     "euroleague-women": {
       "next_game": "2026-11-25",
@@ -17,36 +17,36 @@
       "rule": "in-season"
     },
     "frauen-bundesliga": {
-      "next_game": "2026-11-22",
-      "upcoming_games": 109,
+      "next_game": "2026-11-23",
+      "upcoming_games": 106,
       "text": "Season in progress",
       "style": "live",
       "rule": "in-season"
     },
     "liga-f": {
-      "next_game": "2026-11-22",
-      "upcoming_games": 150,
+      "next_game": "2026-11-23",
+      "upcoming_games": 146,
       "text": "Season in progress",
       "style": "live",
       "rule": "in-season"
     },
     "wsl": {
-      "next_game": "2026-11-22",
-      "upcoming_games": 110,
+      "next_game": "2026-12-11",
+      "upcoming_games": 105,
       "text": "Season in progress",
       "style": "live",
       "rule": "in-season"
     },
     "premiere-ligue": {
-      "next_game": "2026-11-22",
-      "upcoming_games": 75,
+      "next_game": "2026-12-11",
+      "upcoming_games": 73,
       "text": "Season in progress",
       "style": "live",
       "rule": "in-season"
     },
     "a-league-women": {
-      "next_game": "2026-11-22",
-      "upcoming_games": 82,
+      "next_game": "2026-12-11",
+      "upcoming_games": 81,
       "text": "Season in progress",
       "style": "live",
       "rule": "in-season"
@@ -59,22 +59,22 @@
       "rule": "highlight"
     },
     "eredivisie-women": {
-      "next_game": "2026-11-22",
-      "upcoming_games": 40,
+      "next_game": "2026-12-20",
+      "upcoming_games": 35,
       "text": "Season in progress",
       "style": "live",
       "rule": "in-season"
     },
     "nwsl": {
-      "next_game": "2026-11-22",
-      "upcoming_games": 1,
+      "next_game": null,
+      "upcoming_games": 0,
       "text": "Off-season",
       "style": "offseason",
       "rule": "off-season"
     },
     "ncaa-wbb": {
-      "next_game": "2026-11-22",
-      "upcoming_games": 522,
+      "next_game": "2026-11-23",
+      "upcoming_games": 501,
       "text": "Season in progress",
       "style": "live",
       "rule": "in-season"

@@ -174,21 +174,10 @@ URL:https://www.espn.com/soccer/match/_/gameId/401924376/america-guadalaja
  ra
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Toluca vs América (0–3)
-DTSTART:20261116T031000Z
-DTEND:20261116T051000Z
-DTSTAMP:20261122T233003Z
-UID:espn-liga-mx-femenil-401932065@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nToluc
- a vs América\nStatus: Full Time\nVenue: Estadio Nemesio Díez Riega\, Tol
- uca\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401932065/america-toluca
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⚽ Pumas UNAM vs América (time TBC)
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261122T233003Z
+DTSTAMP:20261123T175202Z
 UID:espn-liga-mx-femenil-401932076@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPumas
   UNAM vs América\nStatus: Scheduled\nKick-off time not confirmed yet. You
@@ -201,7 +190,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ América vs Pumas UNAM (time TBC)
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261122T233003Z
+DTSTAMP:20261123T175202Z
 UID:espn-liga-mx-femenil-401932075@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAmér
  ica vs Pumas UNAM\nStatus: Scheduled\nKick-off time not confirmed yet. You

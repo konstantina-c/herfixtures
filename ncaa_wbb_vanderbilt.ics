@@ -14,7 +14,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Lipscomb @ #8 Vanderbilt (53–112)
 DTSTART:20261102T170000Z
 DTEND:20261102T190000Z
-DTSTAMP:20261122T233012Z
+DTSTAMP:20261123T175208Z
 UID:espn-ncaa-wbb-401916067@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nLipscomb at 
  #8 Vanderbilt\nStatus: Final\nVenue: Memorial Gymnasium (TN)\, Nashville\n
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Queens University @ #8 Vanderbilt (42–100)
 DTSTART:20261105T003000Z
 DTEND:20261105T023000Z
-DTSTAMP:20261122T233012Z
+DTSTAMP:20261123T175208Z
 UID:espn-ncaa-wbb-401913884@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nQueens Unive
  rsity at #8 Vanderbilt\nStatus: Final\nVenue: Memorial Gymnasium (TN)\, Na
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Morehead State @ #8 Vanderbilt (50–102)
 DTSTART:20261110T003000Z
 DTEND:20261110T023000Z
-DTSTAMP:20261122T233012Z
+DTSTAMP:20261123T175208Z
 UID:espn-ncaa-wbb-401918828@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nMorehead Sta
  te at #8 Vanderbilt\nStatus: Final\nVenue: Memorial Gymnasium (TN)\, Nashv
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Western Kentucky @ #8 Vanderbilt (59–101)
 DTSTART:20261112T003000Z
 DTEND:20261112T023000Z
-DTSTAMP:20261122T233012Z
+DTSTAMP:20261123T175208Z
 UID:espn-ncaa-wbb-401918829@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nWestern Kent
  ucky at #8 Vanderbilt\nStatus: Final\nVenue: Memorial Gymnasium (TN)\, Nas
@@ -62,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #8 Vanderbilt @ #10 Iowa (65–75)
 DTSTART:20261115T180000Z
 DTEND:20261115T200000Z
-DTSTAMP:20261122T233012Z
+DTSTAMP:20261123T175208Z
 UID:espn-ncaa-wbb-401918830@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#8 Vanderbil
  t at #10 Iowa\nStatus: Final\nVenue: Tyson Events Center\, Sioux City\n\nF
@@ -74,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 North Alabama @ #11 Vanderbilt (44–80)
 DTSTART:20261119T003000Z
 DTEND:20261119T023000Z
-DTSTAMP:20261122T233012Z
+DTSTAMP:20261123T175208Z
 UID:espn-ncaa-wbb-401918831@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nNorth Alabam
  a at #11 Vanderbilt\nStatus: Final\nVenue: Memorial Gymnasium (TN)\, Nashv
@@ -83,136 +83,136 @@ URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401918831
  /north-alabama-vanderbilt
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 #11 Vanderbilt @ Arizona
+SUMMARY:🏀 #12 Vanderbilt @ Arizona
 DTSTART:20261123T220000Z
 DTEND:20261124T000000Z
-DTSTAMP:20261122T233012Z
+DTSTAMP:20261123T175208Z
 UID:espn-ncaa-wbb-401913059@herfixtures.com
-DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#11 Vanderbi
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#12 Vanderbi
  lt at Arizona\nStatus: Scheduled\nVenue: The Reef\, Jacksonville\n\nFixtur
  es by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401913059
  /vanderbilt-arizona
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 #11 Vanderbilt @ Oregon State
+SUMMARY:🏀 #12 Vanderbilt @ Oregon State
 DTSTART:20261125T233000Z
 DTEND:20261126T013000Z
-DTSTAMP:20261122T233012Z
+DTSTAMP:20261123T175208Z
 UID:espn-ncaa-wbb-401918832@herfixtures.com
-DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#11 Vanderbi
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#12 Vanderbi
  lt at Oregon State\nStatus: Scheduled\nVenue: The Reef\, Jacksonville\n\nF
  ixtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401918832
  /vanderbilt-oregon-st
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Georgia State @ #11 Vanderbilt
+SUMMARY:🏀 Georgia State @ #12 Vanderbilt
 DTSTART:20261129T180000Z
 DTEND:20261129T200000Z
-DTSTAMP:20261122T233012Z
+DTSTAMP:20261123T175208Z
 UID:espn-ncaa-wbb-401918833@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nGeorgia Stat
- e at #11 Vanderbilt\nStatus: Scheduled\nVenue: Memorial Gymnasium (TN)\, N
+ e at #12 Vanderbilt\nStatus: Scheduled\nVenue: Memorial Gymnasium (TN)\, N
  ashville\n\nFixtures by HerFixtures.com — Women's Sports on Your Calenda
  r
 URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401918833
  /georgia-st-vanderbilt
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 #13 Notre Dame @ #11 Vanderbilt
+SUMMARY:🏀 #13 Notre Dame @ #12 Vanderbilt
 DTSTART:20261204T020000Z
 DTEND:20261204T040000Z
-DTSTAMP:20261122T233012Z
+DTSTAMP:20261123T175208Z
 UID:espn-ncaa-wbb-401918834@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#13 Notre Da
- me at #11 Vanderbilt\nStatus: Scheduled\nVenue: Memorial Gymnasium (TN)\, 
+ me at #12 Vanderbilt\nStatus: Scheduled\nVenue: Memorial Gymnasium (TN)\, 
  Nashville\n\nFixtures by HerFixtures.com — Women's Sports on Your Calend
  ar
 URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401918834
  /notre-dame-vanderbilt
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 South Alabama @ #11 Vanderbilt
+SUMMARY:🏀 South Alabama @ #12 Vanderbilt
 DTSTART:20261206T190000Z
 DTEND:20261206T210000Z
-DTSTAMP:20261122T233012Z
+DTSTAMP:20261123T175208Z
 UID:espn-ncaa-wbb-401918835@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nSouth Alabam
- a at #11 Vanderbilt\nStatus: Scheduled\nVenue: Memorial Gymnasium (TN)\, N
+ a at #12 Vanderbilt\nStatus: Scheduled\nVenue: Memorial Gymnasium (TN)\, N
  ashville\n\nFixtures by HerFixtures.com — Women's Sports on Your Calenda
  r
 URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401918835
  /south-alabama-vanderbilt
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 #11 Vanderbilt @ Davidson
+SUMMARY:🏀 #12 Vanderbilt @ Davidson
 DTSTART:20261209T220000Z
 DTEND:20261210T000000Z
-DTSTAMP:20261122T233012Z
+DTSTAMP:20261123T175208Z
 UID:espn-ncaa-wbb-401918836@herfixtures.com
-DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#11 Vanderbi
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#12 Vanderbi
  lt at Davidson\nStatus: Scheduled\nVenue: John M. Belk Arena\, Davidson\n
  \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401918836
  /vanderbilt-davidson
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Belmont @ #11 Vanderbilt
+SUMMARY:🏀 Belmont @ #12 Vanderbilt
 DTSTART:20261219T013000Z
 DTEND:20261219T033000Z
-DTSTAMP:20261122T233012Z
+DTSTAMP:20261123T175208Z
 UID:espn-ncaa-wbb-401918837@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nBelmont at #
- 11 Vanderbilt\nStatus: Scheduled\nVenue: Bridgestone Arena\, Nashville\n\n
+ 12 Vanderbilt\nStatus: Scheduled\nVenue: Bridgestone Arena\, Nashville\n\n
  Fixtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401918837
  /belmont-vanderbilt
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Tennessee State @ #11 Vanderbilt
+SUMMARY:🏀 Tennessee State @ #12 Vanderbilt
 DTSTART:20261221T180000Z
 DTEND:20261221T200000Z
-DTSTAMP:20261122T233012Z
+DTSTAMP:20261123T175208Z
 UID:espn-ncaa-wbb-401918838@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nTennessee St
- ate at #11 Vanderbilt\nStatus: Scheduled\nVenue: Memorial Gymnasium (TN)\,
+ ate at #12 Vanderbilt\nStatus: Scheduled\nVenue: Memorial Gymnasium (TN)\,
   Nashville\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
  dar
 URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401918838
  /tennessee-st-vanderbilt
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Little Rock @ #11 Vanderbilt
+SUMMARY:🏀 Little Rock @ #12 Vanderbilt
 DTSTART:20261229T003000Z
 DTEND:20261229T023000Z
-DTSTAMP:20261122T233012Z
+DTSTAMP:20261123T175208Z
 UID:espn-ncaa-wbb-401918839@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nLittle Rock 
- at #11 Vanderbilt\nStatus: Scheduled\nVenue: Memorial Gymnasium (TN)\, Nas
+ at #12 Vanderbilt\nStatus: Scheduled\nVenue: Memorial Gymnasium (TN)\, Nas
  hville\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401918839
  /little-rock-vanderbilt
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Arkansas @ #11 Vanderbilt
+SUMMARY:🏀 Arkansas @ #12 Vanderbilt
 DTSTART:20270101T020000Z
 DTEND:20270101T040000Z
-DTSTAMP:20261122T233012Z
+DTSTAMP:20261123T175208Z
 UID:espn-ncaa-wbb-401912831@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nArkansas at 
- #11 Vanderbilt\nStatus: Scheduled\nVenue: Memorial Gymnasium (TN)\, Nashvi
+ #12 Vanderbilt\nStatus: Scheduled\nVenue: Memorial Gymnasium (TN)\, Nashvi
  lle\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401912831
  /arkansas-vanderbilt
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 #11 Vanderbilt @ #9 LSU
+SUMMARY:🏀 #12 Vanderbilt @ #9 LSU
 DTSTART:20270103T180000Z
 DTEND:20270103T200000Z
-DTSTAMP:20261122T233012Z
+DTSTAMP:20261123T175208Z
 UID:espn-ncaa-wbb-401912834@herfixtures.com
-DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#11 Vanderbi
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#12 Vanderbi
  lt at #9 LSU\nStatus: Scheduled\nVenue: Pete Maravich Assembly Center\, Ba
  ton Rouge\n\nFixtures by HerFixtures.com — Women's Sports on Your Calend
  ar
@@ -220,111 +220,111 @@ URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401912834
  /vanderbilt-lsu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 #11 Vanderbilt @ Auburn
+SUMMARY:🏀 #12 Vanderbilt @ Auburn
 DTSTART:20270108T000000Z
 DTEND:20270108T020000Z
-DTSTAMP:20261122T233012Z
+DTSTAMP:20261123T175208Z
 UID:espn-ncaa-wbb-401912842@herfixtures.com
-DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#11 Vanderbi
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#12 Vanderbi
  lt at Auburn\nStatus: Scheduled\nVenue: Neville Arena\, Auburn\n\nFixtures
   by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401912842
  /vanderbilt-auburn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Mississippi State @ #11 Vanderbilt
+SUMMARY:🏀 Mississippi State @ #12 Vanderbilt
 DTSTART:20270110T230000Z
 DTEND:20270111T010000Z
-DTSTAMP:20261122T233012Z
+DTSTAMP:20261123T175208Z
 UID:espn-ncaa-wbb-401912854@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nMississippi 
- State at #11 Vanderbilt\nStatus: Scheduled\nVenue: Memorial Gymnasium (TN)
+ State at #12 Vanderbilt\nStatus: Scheduled\nVenue: Memorial Gymnasium (TN)
  \, Nashville\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
  endar
 URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401912854
  /mississippi-st-vanderbilt
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Texas A&M @ #11 Vanderbilt
+SUMMARY:🏀 Texas A&M @ #12 Vanderbilt
 DTSTART:20270115T023000Z
 DTEND:20270115T043000Z
-DTSTAMP:20261122T233012Z
+DTSTAMP:20261123T175208Z
 UID:espn-ncaa-wbb-401912863@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nTexas A&M at
-  #11 Vanderbilt\nStatus: Scheduled\nVenue: Memorial Gymnasium (TN)\, Nashv
+  #12 Vanderbilt\nStatus: Scheduled\nVenue: Memorial Gymnasium (TN)\, Nashv
  ille\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401912863
  /texas-am-vanderbilt
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 #11 Vanderbilt @ #6 Texas
+SUMMARY:🏀 #12 Vanderbilt @ #6 Texas
 DTSTART:20270117T180000Z
 DTEND:20270117T200000Z
-DTSTAMP:20261122T233012Z
+DTSTAMP:20261123T175208Z
 UID:espn-ncaa-wbb-401912866@herfixtures.com
-DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#11 Vanderbi
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#12 Vanderbi
  lt at #6 Texas\nStatus: Scheduled\nVenue: Moody Center\, Austin\n\nFixture
  s by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401912866
  /vanderbilt-texas
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 #11 Vanderbilt @ Missouri
+SUMMARY:🏀 #12 Vanderbilt @ Missouri
 DTSTART:20270122T003000Z
 DTEND:20270122T023000Z
-DTSTAMP:20261122T233012Z
+DTSTAMP:20261123T175208Z
 UID:espn-ncaa-wbb-401912870@herfixtures.com
-DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#11 Vanderbi
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#12 Vanderbi
  lt at Missouri\nStatus: Scheduled\nVenue: Mizzou Arena\, Columbia\n\nFixtu
  res by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401912870
  /vanderbilt-missouri
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Georgia @ #11 Vanderbilt
+SUMMARY:🏀 Georgia @ #12 Vanderbilt
 DTSTART:20270124T200000Z
 DTEND:20270124T220000Z
-DTSTAMP:20261122T233012Z
+DTSTAMP:20261123T175208Z
 UID:espn-ncaa-wbb-401912881@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nGeorgia at #
- 11 Vanderbilt\nStatus: Scheduled\nVenue: Memorial Gymnasium (TN)\, Nashvil
+ 12 Vanderbilt\nStatus: Scheduled\nVenue: Memorial Gymnasium (TN)\, Nashvil
  le\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401912881
  /georgia-vanderbilt
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 #11 Vanderbilt @ #14 Oklahoma
+SUMMARY:🏀 #12 Vanderbilt @ #14 Oklahoma
 DTSTART:20270129T020000Z
 DTEND:20270129T040000Z
-DTSTAMP:20261122T233012Z
+DTSTAMP:20261123T175208Z
 UID:espn-ncaa-wbb-401912884@herfixtures.com
-DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#11 Vanderbi
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#12 Vanderbi
  lt at #14 Oklahoma\nStatus: Scheduled\nVenue: Lloyd Noble Center\, Norman
  \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401912884
  /vanderbilt-oklahoma
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 #1 South Carolina @ #11 Vanderbilt
+SUMMARY:🏀 #1 South Carolina @ #12 Vanderbilt
 DTSTART:20270205T000000Z
 DTEND:20270205T020000Z
-DTSTAMP:20261122T233012Z
+DTSTAMP:20261123T175208Z
 UID:espn-ncaa-wbb-401912903@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#1 South Car
- olina at #11 Vanderbilt\nStatus: Scheduled\nVenue: Memorial Gymnasium (TN)
+ olina at #12 Vanderbilt\nStatus: Scheduled\nVenue: Memorial Gymnasium (TN)
  \, Nashville\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
  endar
 URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401912903
  /south-carolina-vanderbilt
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Tennessee @ #11 Vanderbilt (time TBC)
+SUMMARY:🏀 Tennessee @ #12 Vanderbilt (time TBC)
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
-DTSTAMP:20261122T233012Z
+DTSTAMP:20261123T175208Z
 UID:espn-ncaa-wbb-401912909@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nTennessee at
-  #11 Vanderbilt\nStatus: Scheduled\nKick-off time not confirmed yet. Your 
+  #12 Vanderbilt\nStatus: Scheduled\nKick-off time not confirmed yet. Your 
  calendar updates automatically once it is.\nVenue: Memorial Gymnasium (TN)
  \, Nashville\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
  endar
@@ -332,60 +332,60 @@ URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401912909
  /tennessee-vanderbilt
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 #11 Vanderbilt @ Alabama
+SUMMARY:🏀 #12 Vanderbilt @ Alabama
 DTSTART:20270212T013000Z
 DTEND:20270212T033000Z
-DTSTAMP:20261122T233012Z
+DTSTAMP:20261123T175208Z
 UID:espn-ncaa-wbb-401912912@herfixtures.com
-DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#11 Vanderbi
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#12 Vanderbi
  lt at Alabama\nStatus: Scheduled\nVenue: Coleman Coliseum\, Tuscaloosa\n\n
  Fixtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401912912
  /vanderbilt-alabama
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 #11 Vanderbilt @ #12 Kentucky
+SUMMARY:🏀 #12 Vanderbilt @ #11 Kentucky
 DTSTART:20270215T230000Z
 DTEND:20270216T010000Z
-DTSTAMP:20261122T233012Z
+DTSTAMP:20261123T175208Z
 UID:espn-ncaa-wbb-401912927@herfixtures.com
-DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#11 Vanderbi
- lt at #12 Kentucky\nStatus: Scheduled\nVenue: Memorial Coliseum (KY)\, Lex
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#12 Vanderbi
+ lt at #11 Kentucky\nStatus: Scheduled\nVenue: Memorial Coliseum (KY)\, Lex
  ington\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401912927
  /vanderbilt-kentucky
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 #19 Ole Miss @ #11 Vanderbilt
+SUMMARY:🏀 #21 Ole Miss @ #12 Vanderbilt
 DTSTART:20270221T170000Z
 DTEND:20270221T190000Z
-DTSTAMP:20261122T233012Z
+DTSTAMP:20261123T175208Z
 UID:espn-ncaa-wbb-401912934@herfixtures.com
-DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#19 Ole Miss
-  at #11 Vanderbilt\nStatus: Scheduled\nVenue: Memorial Gymnasium (TN)\, Na
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#21 Ole Miss
+  at #12 Vanderbilt\nStatus: Scheduled\nVenue: Memorial Gymnasium (TN)\, Na
  shville\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401912934
  /ole-miss-vanderbilt
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Missouri @ #11 Vanderbilt
+SUMMARY:🏀 Missouri @ #12 Vanderbilt
 DTSTART:20270226T003000Z
 DTEND:20270226T023000Z
-DTSTAMP:20261122T233012Z
+DTSTAMP:20261123T175208Z
 UID:espn-ncaa-wbb-401912943@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nMissouri at 
- #11 Vanderbilt\nStatus: Scheduled\nVenue: Memorial Gymnasium (TN)\, Nashvi
+ #12 Vanderbilt\nStatus: Scheduled\nVenue: Memorial Gymnasium (TN)\, Nashvi
  lle\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401912943
  /missouri-vanderbilt
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 #11 Vanderbilt @ Florida
+SUMMARY:🏀 #12 Vanderbilt @ Florida
 DTSTART:20270228T180000Z
 DTEND:20270228T200000Z
-DTSTAMP:20261122T233012Z
+DTSTAMP:20261123T175208Z
 UID:espn-ncaa-wbb-401912948@herfixtures.com
-DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#11 Vanderbi
+DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#12 Vanderbi
  lt at Florida\nStatus: Scheduled\nVenue: Tower Hill Arena\, Gainesville\n
  \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
 URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401912948
