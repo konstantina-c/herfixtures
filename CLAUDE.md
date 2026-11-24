@@ -15,7 +15,7 @@ There is **no build system**. Deployment is on **Vercel** (`vercel.json`: `text/
 - `index.html`: the entire frontend (vanilla HTML/CSS/JS): competition cards, team pickers (`*_CONFIG` objects + `FeedModal`), the **Scores Strip** (reads `scores.json`, built from our own feeds by `scripts/build_scores_json.py`; its rules are in that file's docstring), badges (read `feed_status.json`).
 - `api/subscribe.js`: Vercel function for email capture (Beehiiv).
 - `*.ics`: the feeds, committed to the repo, served statically.
-- **`fetch_espn_feeds.py` + `feeds/espn_leagues.json`: the shared feed engine.** 8 ESPN competitions are config entries: Liga F, WSL, Première Ligue, A-League Women, Liga MX Femenil, NCAA WBB, UCL Women, NWSL. Plus Eredivisie Women from **API-Football** (`"source": "api-football"`, adapter `apifootball.py`, licensed paid plan on Konstantina's account): one request per league per run, same calendar building and shrink guard.
+- **`fetch_espn_feeds.py` + `feeds/espn_leagues.json`: the shared feed engine.** 7 ESPN competitions are config entries: Liga F, WSL, Première Ligue, A-League Women, Liga MX Femenil, NCAA WBB, NWSL. Plus Eredivisie Women, Serie A Women and UEFA Women's Champions League from **API-Football** (`"source": "api-football"`, adapter `apifootball.py`, licensed paid plan on Konstantina's account): one request per league per run, same calendar building and shrink guard.
 - Other sources: `fetch_frauen_bundesliga.py` (+ `_teams`, OpenLigaDB; it has no TBC flag, so unfinished games at its Sunday 15:30 Berlin placeholder become all-day "(time TBC)" events; hand-checked DFB kick-offs for games OpenLigaDB has wrong go in `feeds/frauen_bl_overrides.json`, never edit OpenLigaDB itself. A correction stops applying, with a warning in the refresh log, once OpenLigaDB edits that game again); `generate_euroleague_women_ics.py` + `scripts/update_euroleague_fixtures.py` (hand-maintained from FIBA's site, scheduled Claude runs).
 - **Frozen** (files kept for subscribers, not refreshed): WNBA 2026 (re-add to the engine with the 2027 schedule), FIBA WWC 2026, ICC T20 2026.
 - `feeds/manifest.json`: every competition's season dates/status. It drives the health check, badges, and auto-publish paths.
@@ -62,7 +62,7 @@ The ESPN, OpenLigaDB and FIBA paths need no secrets. RapidAPI was dropped in Nov
 
 ### API-Football leagues (time TBC)
 
-API-Football has no reliable "time not confirmed" flag: unconfirmed games get a placeholder kick-off. `apifootball.py` marks status `TBD`, plus (rule 2) any future round where ≥ `api_football.uniform_min` games (default 4) share one kick-off > 7 days out. **Check each new league against a second source before enabling it:** Eredivisie Women really plays 4 games at Sunday 16:45, so it has `uniform_min: 0`. Serie A Women / Portugal / WE League use real placeholders (rule on). Test locally with `--out-dir`: Konstantina runs `APIFOOTBALL_KEY="$(cat ~/.config/herfixtures/apifootball_key)" python3 fetch_espn_feeds.py --out-dir _af_test <league>`.
+API-Football has no reliable "time not confirmed" flag: unconfirmed games get a placeholder kick-off. `apifootball.py` marks status `TBD`, plus (rule 2) any future round where ≥ `api_football.uniform_min` games (default 4) share one kick-off > 7 days out. **Check each new league against a second source before enabling it:** Eredivisie Women really plays 4 games at Sunday 16:45, so it has `uniform_min: 0`. Serie A Women uses real placeholders (`uniform_min: 4`; checked against FIGC Nov 24: round 9 exact, rounds 10–22 all at one time → TBC). UCL Women has `uniform_min: 0`: the final league-stage matchday really kicks off simultaneously (ESPN and API-Football agree). `api_football.rename` keeps display names stable when a competition moves source; `title_round` appends API-Football's round to description line 1. Test locally with `--out-dir`: Konstantina runs `APIFOOTBALL_KEY="$(cat ~/.config/herfixtures/apifootball_key)" python3 fetch_espn_feeds.py --out-dir _af_test <league>`.
 
 ## Who reviews what (decided Nov 13, 2026)
 
@@ -98,7 +98,8 @@ New ESPN leagues are **config, not code**: add an entry to `feeds/espn_leagues.j
 - Optional per-league settings: `rank_filter` (only games involving a team ranked 1..N), `show_rank` ("#5 Duke"), `team_name: "location"`, `team_source: "schedule"` (team feeds from each team's ESPN schedule; needed when the league feed is a subset, e.g. NCAA Top 25). All off by default.
 - **Formatting changes to the engine** (summary, description, names) only reach games older than 7 days after a full rebuild: run `HERFIXTURES_FULL_REFETCH=1 python3 fetch_espn_feeds.py <league>` and commit the result.
 - Team logos for the homepage picker: ESPN `teamlogos/soccer/500/<id>.png`. Some women's teams have none; use the club's men's-team crest id (e.g. Lens 175) and fall back to an emoji tile only if the club has none on ESPN.
-- Migrated: Liga F (Nov 15), UCL Women + NWSL (Nov 16, proven identical apart from added TV lines). WNBA frozen until the 2027 schedule, then add it here.
+- Migrated: Liga F (Nov 15), UCL Women + NWSL (Nov 16, proven identical apart from added TV lines). WNBA frozen until the 2027 schedule.
+- **New competitions never come from ESPN** (its terms forbid automated use; decided Nov 24, 2026). Add them from API-Football. UCL Women moved ESPN → API-Football on Nov 24 (all 54 league-stage games identical, +9 qualifiers; UIDs changed once, `af-ucl-women`).
 
 ### Adding or removing a competition: the homepage pieces
 

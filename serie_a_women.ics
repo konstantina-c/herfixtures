@@ -1,0 +1,1542 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//Serie A Women 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Italian Serie A Women 2026/27 fixtures. Updated automatically
+  by HerFixtures.com
+X-WR-CALNAME:Serie A Women 2026/27 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Como 1907 vs AC Milan (4–1)
+DTSTART:20260926T160000Z
+DTEND:20260926T180000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601248@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nComo 1907 vs AC Milan\nStatus: Match Fi
+ nished\nVenue: Stadio Giuseppe Sinigaglia\, Como\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus vs Napoli (3–1)
+DTSTART:20260926T103000Z
+DTEND:20260926T123000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601250@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nJuventus vs Napoli\nStatus: Match Finis
+ hed\nVenue: Juventus Training Center Vinovo\, Vinovo\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lazio vs Parma (0–0)
+DTSTART:20260926T130000Z
+DTEND:20260926T150000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601251@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nLazio vs Parma\nStatus: Match Finished\
+ nVenue: Centro sportivo di Formello\, Formello\n\nFixtures by HerFixtures.
+ com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Inter vs Fiorentina (2–0)
+DTSTART:20260927T110000Z
+DTEND:20260927T130000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601249@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nInter vs Fiorentina\nStatus: Match Fini
+ shed\nVenue: Stadio Ernesto Breda\, Sesto San Giovanni\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo vs Roma (1–3)
+DTSTART:20260927T130000Z
+DTEND:20260927T150000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601252@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nSassuolo vs Roma\nStatus: Match Finishe
+ d\nVenue: Stadio Enzo Ricci\, Sassuolo\n\nFixtures by HerFixtures.com — 
+ Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ternana vs Como Women (1–2)
+DTSTART:20260927T103000Z
+DTEND:20260927T123000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601253@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nTernana vs Como Women\nStatus: Match Fi
+ nished\nVenue: Stadio Libero Liberati\, Terni\n\nFixtures by HerFixtures.c
+ om — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Roma vs Lazio (3–1)
+DTSTART:20261003T160000Z
+DTEND:20261003T180000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601255@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nRoma vs Lazio\nStatus: Match Finished\n
+ Venue: Stadio Tre Fontane\, Rome\n\nFixtures by HerFixtures.com — Women'
+ s Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Fiorentina vs Sassuolo (2–0)
+DTSTART:20261003T130000Z
+DTEND:20261003T150000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601257@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nFiorentina vs Sassuolo\nStatus: Match F
+ inished\nVenue: Stadio Gino Bozzi\, Florence\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Parma vs Ternana (1–2)
+DTSTART:20261003T103000Z
+DTEND:20261003T123000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601259@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nParma vs Ternana\nStatus: Match Finishe
+ d\nVenue: Stadio Ennio Tardini\, Parma\n\nFixtures by HerFixtures.com — 
+ Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AC Milan vs Juventus (2–1)
+DTSTART:20261004T130000Z
+DTEND:20261004T150000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601254@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nAC Milan vs Juventus\nStatus: Match Fin
+ ished\nVenue: Centro Sportivo Peppino Vismara\, Milan\n\nFixtures by HerFi
+ xtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como Women vs Inter (0–2)
+DTSTART:20261004T160000Z
+DTEND:20261004T180000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601256@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nComo Women vs Inter\nStatus: Match Fini
+ shed\nVenue: Stadio Ferruccio\, Seregno\n\nFixtures by HerFixtures.com —
+  Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Napoli vs Como 1907 (1–2)
+DTSTART:20261004T103000Z
+DTEND:20261004T123000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601258@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nNapoli vs Como 1907\nStatus: Match Fini
+ shed\nVenue: Stadio Giuseppe Piccolo\, Cercola\n\nFixtures by HerFixtures.
+ com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como Women vs Fiorentina (1–1)
+DTSTART:20261017T130000Z
+DTEND:20261017T150000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601261@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nComo Women vs Fiorentina\nStatus: Match
+  Finished\nVenue: Stadio Ferruccio\, Seregno\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo vs Napoli (1–4)
+DTSTART:20261017T103000Z
+DTEND:20261017T123000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601264@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nSassuolo vs Napoli\nStatus: Match Finis
+ hed\nVenue: Stadio Enzo Ricci\, Sassuolo\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ternana vs Lazio (1–0)
+DTSTART:20261017T160000Z
+DTEND:20261017T180000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601265@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nTernana vs Lazio\nStatus: Match Finishe
+ d\nVenue: Stadio Libero Liberati\, Terni\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Roma vs AC Milan (4–2)
+DTSTART:20261018T130000Z
+DTEND:20261018T150000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601260@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nRoma vs AC Milan\nStatus: Match Finishe
+ d\nVenue: Stadio Tre Fontane\, Rome\n\nFixtures by HerFixtures.com — Wom
+ en's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Inter vs Parma (3–0)
+DTSTART:20261018T160000Z
+DTEND:20261018T180000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601262@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nInter vs Parma\nStatus: Match Finished\
+ nVenue: Stadio Ernesto Breda\, Sesto San Giovanni\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus vs Como 1907 (2–4)
+DTSTART:20261018T103000Z
+DTEND:20261018T123000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601263@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nJuventus vs Como 1907\nStatus: Match Fi
+ nished\nVenue: Juventus Training Center Vinovo\, Vinovo\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AC Milan vs Ternana (3–0)
+DTSTART:20261024T103000Z
+DTEND:20261024T123000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601266@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nAC Milan vs Ternana\nStatus: Match Fini
+ shed\nVenue: Centro Sportivo Peppino Vismara\, Milano\n\nFixtures by HerFi
+ xtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus vs Roma (2–5)
+DTSTART:20261024T163000Z
+DTEND:20261024T183000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601268@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nJuventus vs Roma\nStatus: Match Finishe
+ d\nVenue: Juventus Training Center Vinovo\, Vinovo\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Napoli vs Inter (0–0)
+DTSTART:20261024T140000Z
+DTEND:20261024T160000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601270@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nNapoli vs Inter\nStatus: Match Finished
+ \nVenue: Caduti di Brema Stadium\, Naples\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como 1907 vs Sassuolo (2–2)
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601267@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nComo 1907 vs Sassuolo\nStatus: Match Fi
+ nished\nVenue: Stadio Giuseppe Sinigaglia\, Como\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lazio vs Como Women (0–0)
+DTSTART:20261025T113000Z
+DTEND:20261025T133000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601269@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nLazio vs Como Women\nStatus: Match Fini
+ shed\nVenue: Centro sportivo di Formello\, Formello\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Parma vs Fiorentina (1–2)
+DTSTART:20261025T170000Z
+DTEND:20261025T190000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601271@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nParma vs Fiorentina\nStatus: Match Fini
+ shed\nVenue: Stadio Ennio Tardini\, Parma\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo vs Parma (0–0)
+DTSTART:20261031T154500Z
+DTEND:20261031T174500Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601276@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nSassuolo vs Parma\nStatus: Match Finish
+ ed\nVenue: Stadio Enzo Ricci\, Sassuolo\n\nFixtures by HerFixtures.com —
+  Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ternana vs Como 1907 (1–1)
+DTSTART:20261031T113000Z
+DTEND:20261031T133000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601277@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nTernana vs Como 1907\nStatus: Match Fin
+ ished\nVenue: Stadio Libero Liberati\, Terni\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Roma vs Napoli (2–1)
+DTSTART:20261101T140000Z
+DTEND:20261101T160000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601272@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nRoma vs Napoli\nStatus: Match Finished\
+ nVenue: Stadio Tre Fontane\, Rome\n\nFixtures by HerFixtures.com — Women
+ 's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como Women vs AC Milan (1–0)
+DTSTART:20261101T170000Z
+DTEND:20261101T190000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601273@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nComo Women vs AC Milan\nStatus: Match F
+ inished\nVenue: Stadio Ferruccio\, Seregno\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Inter vs Lazio (3–0)
+DTSTART:20261101T113000Z
+DTEND:20261101T133000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601275@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nInter vs Lazio\nStatus: Match Finished\
+ nVenue: Stadio Ernesto Breda\, Sesto San Giovanni\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Fiorentina vs Juventus (1–2)
+DTSTART:20261102T193000Z
+DTEND:20261102T213000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601274@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nFiorentina vs Juventus\nStatus: Match F
+ inished\nVenue: Stadio Gino Bozzi\, Florence\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AC Milan vs Inter (0–3)
+DTSTART:20261107T140000Z
+DTEND:20261107T160000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601278@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nAC Milan vs Inter\nStatus: Match Finish
+ ed\nVenue: Centro Sportivo Peppino Vismara\, Milano\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como 1907 vs Roma (0–4)
+DTSTART:20261107T113000Z
+DTEND:20261107T133000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601279@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nComo 1907 vs Roma\nStatus: Match Finish
+ ed\nVenue: Stadio Giuseppe Sinigaglia\, Como\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus vs Sassuolo (2–1)
+DTSTART:20261107T170000Z
+DTEND:20261107T190000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601280@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nJuventus vs Sassuolo\nStatus: Match Fin
+ ished\nVenue: Juventus Training Center Vinovo\, Vinovo\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lazio vs Napoli (0–0)
+DTSTART:20261108T170000Z
+DTEND:20261108T190000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601281@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nLazio vs Napoli\nStatus: Match Finished
+ \nVenue: Centro sportivo di Formello\, Formello\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Parma vs Como Women (1–0)
+DTSTART:20261108T113000Z
+DTEND:20261108T133000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601282@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nParma vs Como Women\nStatus: Match Fini
+ shed\nVenue: Stadio Ennio Tardini\, Parma\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ternana vs Fiorentina (0–4)
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601283@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nTernana vs Fiorentina\nStatus: Match Fi
+ nished\nVenue: Stadio Libero Liberati\, Terni\n\nFixtures by HerFixtures.c
+ om — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Roma vs Parma (6–5)
+DTSTART:20261114T140000Z
+DTEND:20261114T160000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601284@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nRoma vs Parma\nStatus: Match Finished\n
+ Venue: Stadio Tre Fontane\, Rome\n\nFixtures by HerFixtures.com — Women'
+ s Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Fiorentina vs Lazio (2–1)
+DTSTART:20261114T170000Z
+DTEND:20261114T190000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601286@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nFiorentina vs Lazio\nStatus: Match Fini
+ shed\nVenue: Stadio Gino Bozzi\, Florence\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Napoli vs AC Milan (3–3)
+DTSTART:20261114T113000Z
+DTEND:20261114T133000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601288@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nNapoli vs AC Milan\nStatus: Match Finis
+ hed\nVenue: Caduti di Brema Stadium\, Naples\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como 1907 vs Como Women (3–0)
+DTSTART:20261115T140000Z
+DTEND:20261115T160000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601285@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nComo 1907 vs Como Women\nStatus: Match 
+ Finished\nVenue: Stadio Giuseppe Sinigaglia\, Como\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Inter vs Juventus (2–3)
+DTSTART:20261115T140000Z
+DTEND:20261115T160000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601287@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nInter vs Juventus\nStatus: Match Finish
+ ed\nVenue: Stadio Ernesto Breda\, Sesto San Giovanni\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo vs Ternana (1–1)
+DTSTART:20261115T113000Z
+DTEND:20261115T133000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601289@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nSassuolo vs Ternana\nStatus: Match Fini
+ shed\nVenue: Stadio Enzo Ricci\, Sassuolo\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AC Milan vs Sassuolo (3–2)
+DTSTART:20261121T140000Z
+DTEND:20261121T160000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601290@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nAC Milan vs Sassuolo\nStatus: Match Fin
+ ished\nVenue: Centro Sportivo Peppino Vismara\, Milano\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Parma vs Napoli (2–0)
+DTSTART:20261121T113000Z
+DTEND:20261121T133000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601294@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nParma vs Napoli\nStatus: Match Finished
+ \nVenue: Stadio Ennio Tardini\, Parma\n\nFixtures by HerFixtures.com — W
+ omen's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como Women vs Roma (0–2)
+DTSTART:20261122T113000Z
+DTEND:20261122T133000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601291@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nComo Women vs Roma\nStatus: Match Finis
+ hed\nVenue: Stadio Ferruccio\, Seregno\n\nFixtures by HerFixtures.com — 
+ Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Fiorentina vs Como 1907 (4–3)
+DTSTART:20261122T140000Z
+DTEND:20261122T160000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601292@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nFiorentina vs Como 1907\nStatus: Match 
+ Finished\nVenue: Stadio Gino Bozzi\, Florence\n\nFixtures by HerFixtures.c
+ om — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lazio vs Juventus (1–5)
+DTSTART:20261122T193000Z
+DTEND:20261122T213000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601293@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nLazio vs Juventus\nStatus: Match Finish
+ ed\nVenue: Centro sportivo di Formello\, Formello\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ternana vs Inter (0–4)
+DTSTART:20261122T113000Z
+DTEND:20261122T133000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601295@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nTernana vs Inter\nStatus: Match Finishe
+ d\nVenue: Stadio Libero Liberati\, Terni\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AC Milan vs Fiorentina
+DTSTART:20261212T113000Z
+DTEND:20261212T133000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601296@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nAC Milan vs Fiorentina\nStatus: Not Sta
+ rted\nVenue: Centro Sportivo Peppino Vismara\, Milan\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Roma vs Inter
+DTSTART:20261212T140000Z
+DTEND:20261212T160000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601297@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nRoma vs Inter\nStatus: Not Started\nVen
+ ue: Stadio Tre Fontane\, Rome\n\nFixtures by HerFixtures.com — Women's S
+ ports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus vs Como Women
+DTSTART:20261212T170000Z
+DTEND:20261212T190000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601299@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nJuventus vs Como Women\nStatus: Not Sta
+ rted\nVenue: Stadio Vittorio Pozzo\, Biella\n\nFixtures by HerFixtures.com
+  — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como 1907 vs Parma
+DTSTART:20261213T140000Z
+DTEND:20261213T160000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601298@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nComo 1907 vs Parma\nStatus: Not Started
+ \nVenue: Stadio Giuseppe Sinigaglia\, Como\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Napoli vs Ternana
+DTSTART:20261213T140000Z
+DTEND:20261213T160000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601300@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nNapoli vs Ternana\nStatus: Not Started\
+ nVenue: Stadio Giuseppe Piccolo\, Cercola\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo vs Lazio
+DTSTART:20261213T113000Z
+DTEND:20261213T133000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601301@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nSassuolo vs Lazio\nStatus: Not Started\
+ nVenue: Stadio Enzo Ricci\, Sassuolo\n\nFixtures by HerFixtures.com — Wo
+ men's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como Women vs Sassuolo (time TBC)
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601302@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nComo Women vs Sassuolo\nStatus: Not Sta
+ rted\nKick-off time not confirmed yet. Your calendar updates automatically
+  once it is.\nVenue: Stadio Ferruccio\, Seregno\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Fiorentina vs Napoli (time TBC)
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601303@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nFiorentina vs Napoli\nStatus: Not Start
+ ed\nKick-off time not confirmed yet. Your calendar updates automatically o
+ nce it is.\nVenue: Curva Fiesole - Viola Park\, Bagno a Ripoli\n\nFixtures
+  by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Inter vs Como 1907 (time TBC)
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601304@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nInter vs Como 1907\nStatus: Not Started
+ \nKick-off time not confirmed yet. Your calendar updates automatically onc
+ e it is.\nVenue: Stadio Ernesto Breda\, Sesto San Giovanni\n\nFixtures by 
+ HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lazio vs AC Milan (time TBC)
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601305@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nLazio vs AC Milan\nStatus: Not Started\
+ nKick-off time not confirmed yet. Your calendar updates automatically once
+  it is.\nVenue: Campo Mirko Fersini\, Rome\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Parma vs Juventus (time TBC)
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601306@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nParma vs Juventus\nStatus: Not Started\
+ nKick-off time not confirmed yet. Your calendar updates automatically once
+  it is.\nVenue: Stadio Ennio Tardini\, Parma\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ternana vs Roma (time TBC)
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601307@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nTernana vs Roma\nStatus: Not Started\nK
+ ick-off time not confirmed yet. Your calendar updates automatically once i
+ t is.\nVenue: Stadio Libero Liberati\, Terni\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AC Milan vs Parma (time TBC)
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601308@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nAC Milan vs Parma\nStatus: Not Started\
+ nKick-off time not confirmed yet. Your calendar updates automatically once
+  it is.\nVenue: Centro Sportivo Peppino Vismara\, Milan\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Roma vs Fiorentina (time TBC)
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601309@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nRoma vs Fiorentina\nStatus: Not Started
+ \nKick-off time not confirmed yet. Your calendar updates automatically onc
+ e it is.\nVenue: Stadio Tre Fontane\, Rome\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como 1907 vs Lazio (time TBC)
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601310@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nComo 1907 vs Lazio\nStatus: Not Started
+ \nKick-off time not confirmed yet. Your calendar updates automatically onc
+ e it is.\nVenue: Stadio Giuseppe Sinigaglia\, Como\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus vs Ternana (time TBC)
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601311@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nJuventus vs Ternana\nStatus: Not Starte
+ d\nKick-off time not confirmed yet. Your calendar updates automatically on
+ ce it is.\nVenue: Stadio Vittorio Pozzo\, Biella\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Napoli vs Como Women (time TBC)
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601312@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nNapoli vs Como Women\nStatus: Not Start
+ ed\nKick-off time not confirmed yet. Your calendar updates automatically o
+ nce it is.\nVenue: Stadio Giuseppe Piccolo\, Cercola\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo vs Inter (time TBC)
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601313@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nSassuolo vs Inter\nStatus: Not Started\
+ nKick-off time not confirmed yet. Your calendar updates automatically once
+  it is.\nVenue: Stadio Enzo Ricci\, Sassuolo\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AC Milan vs Como 1907 (time TBC)
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601314@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nAC Milan vs Como 1907\nStatus: Not Star
+ ted\nKick-off time not confirmed yet. Your calendar updates automatically 
+ once it is.\nVenue: Centro Sportivo Peppino Vismara\, Milan\n\nFixtures by
+  HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Roma vs Sassuolo (time TBC)
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601315@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nRoma vs Sassuolo\nStatus: Not Started\n
+ Kick-off time not confirmed yet. Your calendar updates automatically once 
+ it is.\nVenue: Stadio Tre Fontane\, Rome\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como Women vs Ternana (time TBC)
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601316@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nComo Women vs Ternana\nStatus: Not Star
+ ted\nKick-off time not confirmed yet. Your calendar updates automatically 
+ once it is.\nVenue: Stadio Ferruccio\, Seregno\n\nFixtures by HerFixtures.
+ com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Fiorentina vs Inter (time TBC)
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601317@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nFiorentina vs Inter\nStatus: Not Starte
+ d\nKick-off time not confirmed yet. Your calendar updates automatically on
+ ce it is.\nVenue: Curva Fiesole - Viola Park\, Bagno a Ripoli\n\nFixtures 
+ by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Napoli vs Juventus (time TBC)
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601318@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nNapoli vs Juventus\nStatus: Not Started
+ \nKick-off time not confirmed yet. Your calendar updates automatically onc
+ e it is.\nVenue: Stadio Giuseppe Piccolo\, Cercola\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Parma vs Lazio (time TBC)
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601319@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nParma vs Lazio\nStatus: Not Started\nKi
+ ck-off time not confirmed yet. Your calendar updates automatically once it
+  is.\nVenue: Stadio Ennio Tardini\, Parma\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como 1907 vs Napoli (time TBC)
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601320@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nComo 1907 vs Napoli\nStatus: Not Starte
+ d\nKick-off time not confirmed yet. Your calendar updates automatically on
+ ce it is.\nVenue: Stadio Giuseppe Sinigaglia\, Como\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Inter vs Como Women (time TBC)
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601321@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nInter vs Como Women\nStatus: Not Starte
+ d\nKick-off time not confirmed yet. Your calendar updates automatically on
+ ce it is.\nVenue: Stadio Ernesto Breda\, Sesto San Giovanni\n\nFixtures by
+  HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus vs AC Milan (time TBC)
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601322@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nJuventus vs AC Milan\nStatus: Not Start
+ ed\nKick-off time not confirmed yet. Your calendar updates automatically o
+ nce it is.\nVenue: Stadio Vittorio Pozzo\, Biella\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lazio vs Roma (time TBC)
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601323@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nLazio vs Roma\nStatus: Not Started\nKic
+ k-off time not confirmed yet. Your calendar updates automatically once it 
+ is.\nVenue: Campo Mirko Fersini\, Rome\n\nFixtures by HerFixtures.com — 
+ Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo vs Fiorentina (time TBC)
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601324@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nSassuolo vs Fiorentina\nStatus: Not Sta
+ rted\nKick-off time not confirmed yet. Your calendar updates automatically
+  once it is.\nVenue: Stadio Enzo Ricci\, Sassuolo\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ternana vs Parma (time TBC)
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601325@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nTernana vs Parma\nStatus: Not Started\n
+ Kick-off time not confirmed yet. Your calendar updates automatically once 
+ it is.\nVenue: Stadio Libero Liberati\, Terni\n\nFixtures by HerFixtures.c
+ om — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AC Milan vs Roma (time TBC)
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601326@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nAC Milan vs Roma\nStatus: Not Started\n
+ Kick-off time not confirmed yet. Your calendar updates automatically once 
+ it is.\nVenue: Centro Sportivo Peppino Vismara\, Milan\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como 1907 vs Juventus (time TBC)
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601327@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nComo 1907 vs Juventus\nStatus: Not Star
+ ted\nKick-off time not confirmed yet. Your calendar updates automatically 
+ once it is.\nVenue: Stadio Giuseppe Sinigaglia\, Como\n\nFixtures by HerFi
+ xtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Fiorentina vs Como Women (time TBC)
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601328@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nFiorentina vs Como Women\nStatus: Not S
+ tarted\nKick-off time not confirmed yet. Your calendar updates automatical
+ ly once it is.\nVenue: Curva Fiesole - Viola Park\, Bagno a Ripoli\n\nFixt
+ ures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lazio vs Ternana (time TBC)
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601329@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nLazio vs Ternana\nStatus: Not Started\n
+ Kick-off time not confirmed yet. Your calendar updates automatically once 
+ it is.\nVenue: Campo Mirko Fersini\, Rome\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Napoli vs Sassuolo (time TBC)
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601330@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nNapoli vs Sassuolo\nStatus: Not Started
+ \nKick-off time not confirmed yet. Your calendar updates automatically onc
+ e it is.\nVenue: Stadio Giuseppe Piccolo\, Cercola\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Parma vs Inter (time TBC)
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601331@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nParma vs Inter\nStatus: Not Started\nKi
+ ck-off time not confirmed yet. Your calendar updates automatically once it
+  is.\nVenue: Stadio Ennio Tardini\, Parma\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Roma vs Juventus (time TBC)
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601332@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nRoma vs Juventus\nStatus: Not Started\n
+ Kick-off time not confirmed yet. Your calendar updates automatically once 
+ it is.\nVenue: Stadio Tre Fontane\, Rome\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como Women vs Lazio (time TBC)
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601333@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nComo Women vs Lazio\nStatus: Not Starte
+ d\nKick-off time not confirmed yet. Your calendar updates automatically on
+ ce it is.\nVenue: Stadio Ferruccio\, Seregno\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Fiorentina vs Parma (time TBC)
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601334@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nFiorentina vs Parma\nStatus: Not Starte
+ d\nKick-off time not confirmed yet. Your calendar updates automatically on
+ ce it is.\nVenue: Curva Fiesole - Viola Park\, Bagno a Ripoli\n\nFixtures 
+ by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Inter vs Napoli (time TBC)
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601335@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nInter vs Napoli\nStatus: Not Started\nK
+ ick-off time not confirmed yet. Your calendar updates automatically once i
+ t is.\nVenue: Stadio Ernesto Breda\, Sesto San Giovanni\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo vs Como 1907 (time TBC)
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601336@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nSassuolo vs Como 1907\nStatus: Not Star
+ ted\nKick-off time not confirmed yet. Your calendar updates automatically 
+ once it is.\nVenue: Stadio Enzo Ricci\, Sassuolo\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ternana vs AC Milan (time TBC)
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601337@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nTernana vs AC Milan\nStatus: Not Starte
+ d\nKick-off time not confirmed yet. Your calendar updates automatically on
+ ce it is.\nVenue: Stadio Libero Liberati\, Terni\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AC Milan vs Como Women (time TBC)
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601338@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nAC Milan vs Como Women\nStatus: Not Sta
+ rted\nKick-off time not confirmed yet. Your calendar updates automatically
+  once it is.\nVenue: Centro Sportivo Peppino Vismara\, Milan\n\nFixtures b
+ y HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como 1907 vs Ternana (time TBC)
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601339@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nComo 1907 vs Ternana\nStatus: Not Start
+ ed\nKick-off time not confirmed yet. Your calendar updates automatically o
+ nce it is.\nVenue: Stadio Giuseppe Sinigaglia\, Como\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus vs Fiorentina (time TBC)
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601340@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nJuventus vs Fiorentina\nStatus: Not Sta
+ rted\nKick-off time not confirmed yet. Your calendar updates automatically
+  once it is.\nVenue: Stadio Vittorio Pozzo\, Biella\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lazio vs Inter (time TBC)
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601341@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nLazio vs Inter\nStatus: Not Started\nKi
+ ck-off time not confirmed yet. Your calendar updates automatically once it
+  is.\nVenue: Campo Mirko Fersini\, Rome\n\nFixtures by HerFixtures.com —
+  Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Napoli vs Roma (time TBC)
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601342@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nNapoli vs Roma\nStatus: Not Started\nKi
+ ck-off time not confirmed yet. Your calendar updates automatically once it
+  is.\nVenue: Stadio Giuseppe Piccolo\, Cercola\n\nFixtures by HerFixtures.
+ com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Parma vs Sassuolo (time TBC)
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601343@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nParma vs Sassuolo\nStatus: Not Started\
+ nKick-off time not confirmed yet. Your calendar updates automatically once
+  it is.\nVenue: Stadio Ennio Tardini\, Parma\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Roma vs Como 1907 (time TBC)
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601344@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nRoma vs Como 1907\nStatus: Not Started\
+ nKick-off time not confirmed yet. Your calendar updates automatically once
+  it is.\nVenue: Stadio Tre Fontane\, Rome\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como Women vs Parma (time TBC)
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601345@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nComo Women vs Parma\nStatus: Not Starte
+ d\nKick-off time not confirmed yet. Your calendar updates automatically on
+ ce it is.\nVenue: Stadio Ferruccio\, Seregno\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Fiorentina vs Ternana (time TBC)
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601346@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nFiorentina vs Ternana\nStatus: Not Star
+ ted\nKick-off time not confirmed yet. Your calendar updates automatically 
+ once it is.\nVenue: Curva Fiesole - Viola Park\, Bagno a Ripoli\n\nFixture
+ s by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Inter vs AC Milan (time TBC)
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601347@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nInter vs AC Milan\nStatus: Not Started\
+ nKick-off time not confirmed yet. Your calendar updates automatically once
+  it is.\nVenue: Stadio Ernesto Breda\, Sesto San Giovanni\n\nFixtures by H
+ erFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Napoli vs Lazio (time TBC)
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601348@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nNapoli vs Lazio\nStatus: Not Started\nK
+ ick-off time not confirmed yet. Your calendar updates automatically once i
+ t is.\nVenue: Stadio Giuseppe Piccolo\, Cercola\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo vs Juventus (time TBC)
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601349@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nSassuolo vs Juventus\nStatus: Not Start
+ ed\nKick-off time not confirmed yet. Your calendar updates automatically o
+ nce it is.\nVenue: Stadio Enzo Ricci\, Sassuolo\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AC Milan vs Napoli (time TBC)
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601350@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nAC Milan vs Napoli\nStatus: Not Started
+ \nKick-off time not confirmed yet. Your calendar updates automatically onc
+ e it is.\nVenue: Centro Sportivo Peppino Vismara\, Milan\n\nFixtures by He
+ rFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como Women vs Como 1907 (time TBC)
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601351@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nComo Women vs Como 1907\nStatus: Not St
+ arted\nKick-off time not confirmed yet. Your calendar updates automaticall
+ y once it is.\nVenue: Stadio Ferruccio\, Seregno\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus vs Inter (time TBC)
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601352@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nJuventus vs Inter\nStatus: Not Started\
+ nKick-off time not confirmed yet. Your calendar updates automatically once
+  it is.\nVenue: Stadio Vittorio Pozzo\, Biella\n\nFixtures by HerFixtures.
+ com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lazio vs Fiorentina (time TBC)
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601353@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nLazio vs Fiorentina\nStatus: Not Starte
+ d\nKick-off time not confirmed yet. Your calendar updates automatically on
+ ce it is.\nVenue: Campo Mirko Fersini\, Rome\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Parma vs Roma (time TBC)
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601354@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nParma vs Roma\nStatus: Not Started\nKic
+ k-off time not confirmed yet. Your calendar updates automatically once it 
+ is.\nVenue: Stadio Ennio Tardini\, Parma\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ternana vs Sassuolo (time TBC)
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601355@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nTernana vs Sassuolo\nStatus: Not Starte
+ d\nKick-off time not confirmed yet. Your calendar updates automatically on
+ ce it is.\nVenue: Stadio Libero Liberati\, Terni\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Roma vs Como Women (time TBC)
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601356@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nRoma vs Como Women\nStatus: Not Started
+ \nKick-off time not confirmed yet. Your calendar updates automatically onc
+ e it is.\nVenue: Stadio Tre Fontane\, Rome\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como 1907 vs Fiorentina (time TBC)
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601357@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nComo 1907 vs Fiorentina\nStatus: Not St
+ arted\nKick-off time not confirmed yet. Your calendar updates automaticall
+ y once it is.\nVenue: Stadio Giuseppe Sinigaglia\, Como\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Inter vs Ternana (time TBC)
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601358@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nInter vs Ternana\nStatus: Not Started\n
+ Kick-off time not confirmed yet. Your calendar updates automatically once 
+ it is.\nVenue: Stadio Ernesto Breda\, Sesto San Giovanni\n\nFixtures by He
+ rFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus vs Lazio (time TBC)
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601359@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nJuventus vs Lazio\nStatus: Not Started\
+ nKick-off time not confirmed yet. Your calendar updates automatically once
+  it is.\nVenue: Stadio Vittorio Pozzo\, Biella\n\nFixtures by HerFixtures.
+ com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Napoli vs Parma (time TBC)
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601360@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nNapoli vs Parma\nStatus: Not Started\nK
+ ick-off time not confirmed yet. Your calendar updates automatically once i
+ t is.\nVenue: Stadio Giuseppe Piccolo\, Cercola\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo vs AC Milan (time TBC)
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601361@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nSassuolo vs AC Milan\nStatus: Not Start
+ ed\nKick-off time not confirmed yet. Your calendar updates automatically o
+ nce it is.\nVenue: Stadio Enzo Ricci\, Sassuolo\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como Women vs Juventus (time TBC)
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601362@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nComo Women vs Juventus\nStatus: Not Sta
+ rted\nKick-off time not confirmed yet. Your calendar updates automatically
+  once it is.\nVenue: Stadio Ferruccio\, Seregno\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Fiorentina vs AC Milan (time TBC)
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601363@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nFiorentina vs AC Milan\nStatus: Not Sta
+ rted\nKick-off time not confirmed yet. Your calendar updates automatically
+  once it is.\nVenue: Curva Fiesole - Viola Park\, Bagno a Ripoli\n\nFixtur
+ es by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Inter vs Roma (time TBC)
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601364@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nInter vs Roma\nStatus: Not Started\nKic
+ k-off time not confirmed yet. Your calendar updates automatically once it 
+ is.\nVenue: Stadio Ernesto Breda\, Sesto San Giovanni\n\nFixtures by HerFi
+ xtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lazio vs Sassuolo (time TBC)
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601365@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nLazio vs Sassuolo\nStatus: Not Started\
+ nKick-off time not confirmed yet. Your calendar updates automatically once
+  it is.\nVenue: Campo Mirko Fersini\, Rome\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Parma vs Como 1907 (time TBC)
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601366@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nParma vs Como 1907\nStatus: Not Started
+ \nKick-off time not confirmed yet. Your calendar updates automatically onc
+ e it is.\nVenue: Stadio Ennio Tardini\, Parma\n\nFixtures by HerFixtures.c
+ om — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ternana vs Napoli (time TBC)
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601367@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nTernana vs Napoli\nStatus: Not Started\
+ nKick-off time not confirmed yet. Your calendar updates automatically once
+  it is.\nVenue: Stadio Libero Liberati\, Terni\n\nFixtures by HerFixtures.
+ com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AC Milan vs Lazio (time TBC)
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601368@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nAC Milan vs Lazio\nStatus: Not Started\
+ nKick-off time not confirmed yet. Your calendar updates automatically once
+  it is.\nVenue: Centro Sportivo Peppino Vismara\, Milan\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Roma vs Ternana (time TBC)
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601369@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nRoma vs Ternana\nStatus: Not Started\nK
+ ick-off time not confirmed yet. Your calendar updates automatically once i
+ t is.\nVenue: Stadio Tre Fontane\, Rome\n\nFixtures by HerFixtures.com —
+  Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como 1907 vs Inter (time TBC)
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601370@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nComo 1907 vs Inter\nStatus: Not Started
+ \nKick-off time not confirmed yet. Your calendar updates automatically onc
+ e it is.\nVenue: Stadio Giuseppe Sinigaglia\, Como\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus vs Parma (time TBC)
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601371@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nJuventus vs Parma\nStatus: Not Started\
+ nKick-off time not confirmed yet. Your calendar updates automatically once
+  it is.\nVenue: Stadio Vittorio Pozzo\, Biella\n\nFixtures by HerFixtures.
+ com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Napoli vs Fiorentina (time TBC)
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601372@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nNapoli vs Fiorentina\nStatus: Not Start
+ ed\nKick-off time not confirmed yet. Your calendar updates automatically o
+ nce it is.\nVenue: Stadio Giuseppe Piccolo\, Cercola\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo vs Como Women (time TBC)
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601373@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nSassuolo vs Como Women\nStatus: Not Sta
+ rted\nKick-off time not confirmed yet. Your calendar updates automatically
+  once it is.\nVenue: Stadio Enzo Ricci\, Sassuolo\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como Women vs Napoli (time TBC)
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601374@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nComo Women vs Napoli\nStatus: Not Start
+ ed\nKick-off time not confirmed yet. Your calendar updates automatically o
+ nce it is.\nVenue: Stadio Ferruccio\, Seregno\n\nFixtures by HerFixtures.c
+ om — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Fiorentina vs Roma (time TBC)
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601375@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nFiorentina vs Roma\nStatus: Not Started
+ \nKick-off time not confirmed yet. Your calendar updates automatically onc
+ e it is.\nVenue: Curva Fiesole - Viola Park\, Bagno a Ripoli\n\nFixtures b
+ y HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Inter vs Sassuolo (time TBC)
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601376@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nInter vs Sassuolo\nStatus: Not Started\
+ nKick-off time not confirmed yet. Your calendar updates automatically once
+  it is.\nVenue: Stadio Ernesto Breda\, Sesto San Giovanni\n\nFixtures by H
+ erFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lazio vs Como 1907 (time TBC)
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601377@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nLazio vs Como 1907\nStatus: Not Started
+ \nKick-off time not confirmed yet. Your calendar updates automatically onc
+ e it is.\nVenue: Campo Mirko Fersini\, Rome\n\nFixtures by HerFixtures.com
+  — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Parma vs AC Milan (time TBC)
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601378@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nParma vs AC Milan\nStatus: Not Started\
+ nKick-off time not confirmed yet. Your calendar updates automatically once
+  it is.\nVenue: Stadio Ennio Tardini\, Parma\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ternana vs Juventus (time TBC)
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601379@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nTernana vs Juventus\nStatus: Not Starte
+ d\nKick-off time not confirmed yet. Your calendar updates automatically on
+ ce it is.\nVenue: Stadio Libero Liberati\, Terni\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+END:VCALENDAR

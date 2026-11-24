@@ -1,0 +1,267 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//Serie A Women 2026-27 Juventus//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Juventus Serie A Women 2026/27 fixtures. Updated automaticall
+ y by HerFixtures.com
+X-WR-CALNAME:Juventus — Serie A Women 2026/27 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus vs Napoli (3–1)
+DTSTART:20260926T103000Z
+DTEND:20260926T123000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601250@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nJuventus vs Napoli\nStatus: Match Finis
+ hed\nVenue: Juventus Training Center Vinovo\, Vinovo\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AC Milan vs Juventus (2–1)
+DTSTART:20261004T130000Z
+DTEND:20261004T150000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601254@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nAC Milan vs Juventus\nStatus: Match Fin
+ ished\nVenue: Centro Sportivo Peppino Vismara\, Milan\n\nFixtures by HerFi
+ xtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus vs Como 1907 (2–4)
+DTSTART:20261018T103000Z
+DTEND:20261018T123000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601263@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nJuventus vs Como 1907\nStatus: Match Fi
+ nished\nVenue: Juventus Training Center Vinovo\, Vinovo\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus vs Roma (2–5)
+DTSTART:20261024T163000Z
+DTEND:20261024T183000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601268@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nJuventus vs Roma\nStatus: Match Finishe
+ d\nVenue: Juventus Training Center Vinovo\, Vinovo\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Fiorentina vs Juventus (1–2)
+DTSTART:20261102T193000Z
+DTEND:20261102T213000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601274@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nFiorentina vs Juventus\nStatus: Match F
+ inished\nVenue: Stadio Gino Bozzi\, Florence\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus vs Sassuolo (2–1)
+DTSTART:20261107T170000Z
+DTEND:20261107T190000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601280@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nJuventus vs Sassuolo\nStatus: Match Fin
+ ished\nVenue: Juventus Training Center Vinovo\, Vinovo\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Inter vs Juventus (2–3)
+DTSTART:20261115T140000Z
+DTEND:20261115T160000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601287@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nInter vs Juventus\nStatus: Match Finish
+ ed\nVenue: Stadio Ernesto Breda\, Sesto San Giovanni\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lazio vs Juventus (1–5)
+DTSTART:20261122T193000Z
+DTEND:20261122T213000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601293@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nLazio vs Juventus\nStatus: Match Finish
+ ed\nVenue: Centro sportivo di Formello\, Formello\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus vs Como Women
+DTSTART:20261212T170000Z
+DTEND:20261212T190000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601299@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nJuventus vs Como Women\nStatus: Not Sta
+ rted\nVenue: Stadio Vittorio Pozzo\, Biella\n\nFixtures by HerFixtures.com
+  — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Parma vs Juventus (time TBC)
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601306@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nParma vs Juventus\nStatus: Not Started\
+ nKick-off time not confirmed yet. Your calendar updates automatically once
+  it is.\nVenue: Stadio Ennio Tardini\, Parma\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus vs Ternana (time TBC)
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601311@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nJuventus vs Ternana\nStatus: Not Starte
+ d\nKick-off time not confirmed yet. Your calendar updates automatically on
+ ce it is.\nVenue: Stadio Vittorio Pozzo\, Biella\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Napoli vs Juventus (time TBC)
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601318@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nNapoli vs Juventus\nStatus: Not Started
+ \nKick-off time not confirmed yet. Your calendar updates automatically onc
+ e it is.\nVenue: Stadio Giuseppe Piccolo\, Cercola\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus vs AC Milan (time TBC)
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601322@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nJuventus vs AC Milan\nStatus: Not Start
+ ed\nKick-off time not confirmed yet. Your calendar updates automatically o
+ nce it is.\nVenue: Stadio Vittorio Pozzo\, Biella\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como 1907 vs Juventus (time TBC)
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601327@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nComo 1907 vs Juventus\nStatus: Not Star
+ ted\nKick-off time not confirmed yet. Your calendar updates automatically 
+ once it is.\nVenue: Stadio Giuseppe Sinigaglia\, Como\n\nFixtures by HerFi
+ xtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Roma vs Juventus (time TBC)
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601332@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nRoma vs Juventus\nStatus: Not Started\n
+ Kick-off time not confirmed yet. Your calendar updates automatically once 
+ it is.\nVenue: Stadio Tre Fontane\, Rome\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus vs Fiorentina (time TBC)
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601340@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nJuventus vs Fiorentina\nStatus: Not Sta
+ rted\nKick-off time not confirmed yet. Your calendar updates automatically
+  once it is.\nVenue: Stadio Vittorio Pozzo\, Biella\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo vs Juventus (time TBC)
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601349@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nSassuolo vs Juventus\nStatus: Not Start
+ ed\nKick-off time not confirmed yet. Your calendar updates automatically o
+ nce it is.\nVenue: Stadio Enzo Ricci\, Sassuolo\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus vs Inter (time TBC)
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601352@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nJuventus vs Inter\nStatus: Not Started\
+ nKick-off time not confirmed yet. Your calendar updates automatically once
+  it is.\nVenue: Stadio Vittorio Pozzo\, Biella\n\nFixtures by HerFixtures.
+ com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus vs Lazio (time TBC)
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601359@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nJuventus vs Lazio\nStatus: Not Started\
+ nKick-off time not confirmed yet. Your calendar updates automatically once
+  it is.\nVenue: Stadio Vittorio Pozzo\, Biella\n\nFixtures by HerFixtures.
+ com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como Women vs Juventus (time TBC)
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601362@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nComo Women vs Juventus\nStatus: Not Sta
+ rted\nKick-off time not confirmed yet. Your calendar updates automatically
+  once it is.\nVenue: Stadio Ferruccio\, Seregno\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus vs Parma (time TBC)
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601371@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nJuventus vs Parma\nStatus: Not Started\
+ nKick-off time not confirmed yet. Your calendar updates automatically once
+  it is.\nVenue: Stadio Vittorio Pozzo\, Biella\n\nFixtures by HerFixtures.
+ com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ternana vs Juventus (time TBC)
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601379@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nTernana vs Juventus\nStatus: Not Starte
+ d\nKick-off time not confirmed yet. Your calendar updates automatically on
+ ce it is.\nVenue: Stadio Libero Liberati\, Terni\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+END:VCALENDAR

@@ -241,7 +241,7 @@ def run_league(lid: str, league: dict, out_dir: Path, today: date) -> bool:
         print("  season over and fully stored — nothing to fetch")
         return True
     if league.get("source") == "api-football":
-        return run_api_football(league, out_dir, main_file, full, cutoff)
+        return run_api_football(lid, league, out_dir, main_file, full, cutoff)
     try:
         raw = fetch_days(f"{ESPN}/{league['espn']}/scoreboard", fetch_from, fetch_to, workers=2)
     except RuntimeError as e:
@@ -291,7 +291,7 @@ def run_league(lid: str, league: dict, out_dir: Path, today: date) -> bool:
     return ok
 
 
-def run_api_football(league: dict, out_dir: Path, main_file: Path, full: bool, cutoff: date) -> bool:
+def run_api_football(lid: str, league: dict, out_dir: Path, main_file: Path, full: bool, cutoff: date) -> bool:
     """Same output as the ESPN path, from API-Football (see apifootball.py)."""
     af = league["api_football"]
     try:
@@ -311,6 +311,7 @@ def run_api_football(league: dict, out_dir: Path, main_file: Path, full: bool, c
         print("  ⚠️  No events — keeping existing file")
         return False
     ok = safe_write_ics(main_file, cal.to_ical())
+    write_strip_teams(lid, games, out_dir, datetime.now(timezone.utc).date())
     for team_id, (team, slug) in league.get("teams", {}).items():
         path = out_dir / f"{league['team_prefix']}{slug}.ics"
         t_games = [g for g in games if team_id in g["team_ids"]]
@@ -337,6 +338,7 @@ def main() -> None:
         sys.exit(f"Unknown league(s): {unknown}. Known: {list(config)}")
     today = date.fromisoformat(args.today) if args.today else datetime.now(timezone.utc).date()
     out_dir = Path(args.out_dir)
+    out_dir.mkdir(parents=True, exist_ok=True)   # --out-dir to a fresh test folder
 
     failed = [lid for lid in wanted if not run_league(lid, config[lid], out_dir, today)]
     if failed:
