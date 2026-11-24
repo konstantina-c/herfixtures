@@ -861,7 +861,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Liverpool vs Chelsea (0–0)
 DTSTART:20261121T124500Z
 DTEND:20261121T144500Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902853@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nLiverpool vs Chelsea\nStatus: Fu
  ll Time\nVenue: St Helens Stadium\, St Helens\nTV: Paramount+\n\nFixtures 
@@ -872,7 +872,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ London City Lionesses vs Crystal Palace (6–2)
 DTSTART:20261121T171500Z
 DTEND:20261121T191500Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902854@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nLondon City Lionesses vs Crystal
   Palace\nStatus: Full Time\nVenue: RELOC8 EM Community Stadium\, Bromley\n
@@ -885,7 +885,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Manchester City vs Tottenham Hotspur (1–3)
 DTSTART:20261122T120000Z
 DTEND:20261122T140000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902852@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nManchester City vs Tottenham Hot
  spur\nStatus: Full Time\nVenue: Joie Stadium\, Manchester\nTV: Paramount+
@@ -897,7 +897,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Everton vs Brighton & Hove Albion (0–1)
 DTSTART:20261122T140000Z
 DTEND:20261122T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902855@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nEverton vs Brighton & Hove Albio
  n\nStatus: Full Time\nVenue: Goodison Park\, Liverpool\nTV: Paramount+\n\n
@@ -909,7 +909,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Charlton Athletic vs Aston Villa (1–1)
 DTSTART:20261122T140000Z
 DTEND:20261122T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902856@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nCharlton Athletic vs Aston Villa
  \nStatus: Full Time\nVenue: The Valley\, London\nTV: Paramount+\n\nFixture
@@ -921,7 +921,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Birmingham City vs Manchester United (1–2)
 DTSTART:20261122T120000Z
 DTEND:20261122T140000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902857@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBirmingham City vs Manchester Un
  ited\nStatus: Full Time\nVenue: St. Andrew's Stadium\, Birmingham\nTV: Par
@@ -933,7 +933,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Arsenal vs West Ham United (0–0)
 DTSTART:20261122T143000Z
 DTEND:20261122T163000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902858@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nArsenal vs West Ham United\nStat
  us: Full Time\nVenue: Emirates Stadium\, London\nTV: Paramount+\n\nFixture
@@ -945,7 +945,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Tottenham Hotspur vs Charlton Athletic
 DTSTART:20261211T190000Z
 DTEND:20261211T210000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902846@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nTottenham Hotspur vs Charlton At
  hletic\nStatus: Scheduled\nVenue: Gaughan Group Stadium\, London\nTV: Para
@@ -957,7 +957,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Everton vs Arsenal
 DTSTART:20261211T190000Z
 DTEND:20261211T210000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902851@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nEverton vs Arsenal\nStatus: Sche
  duled\nVenue: Goodison Park\, Liverpool\nTV: Paramount+\n\nFixtures by Her
@@ -968,7 +968,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Chelsea vs London City Lionesses
 DTSTART:20261212T124500Z
 DTEND:20261212T144500Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902848@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nChelsea vs London City Lionesses
  \nStatus: Scheduled\nVenue: Stamford Bridge\, London\nTV: Paramount+\n\nFi
@@ -980,7 +980,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ West Ham United vs Aston Villa
 DTSTART:20261213T140000Z
 DTEND:20261213T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902845@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nWest Ham United vs Aston Villa\n
  Status: Scheduled\nVenue: Victoria Road\, Dagenham\nTV: Paramount+\n\nFixt
@@ -992,7 +992,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Crystal Palace vs Manchester City
 DTSTART:20261213T120000Z
 DTEND:20261213T140000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902847@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nCrystal Palace vs Manchester Cit
  y\nStatus: Scheduled\nVenue: VBS Community Stadium\, Sutton Coldfield\nTV:
@@ -1005,7 +1005,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Birmingham City vs Liverpool
 DTSTART:20261213T140000Z
 DTEND:20261213T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902849@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBirmingham City vs Liverpool\nSt
  atus: Scheduled\nVenue: St. Andrew's Stadium\, Birmingham\nTV: Paramount+
@@ -1017,7 +1017,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Manchester United vs Brighton & Hove Albion
 DTSTART:20261213T120000Z
 DTEND:20261213T140000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902850@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nManchester United vs Brighton & 
  Hove Albion\nStatus: Scheduled\nVenue: Leigh Sports Village\, Manchester\n
@@ -1030,7 +1030,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Aston Villa vs London City Lionesses
 DTSTART:20261219T124500Z
 DTEND:20261219T144500Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902841@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nAston Villa vs London City Lione
  sses\nStatus: Scheduled\nVenue: Villa Park\, Birmingham\nTV: Paramount+\n
@@ -1042,7 +1042,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Brighton & Hove Albion vs Chelsea
 DTSTART:20261219T124500Z
 DTEND:20261219T144500Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902844@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBrighton & Hove Albion vs Chelse
  a\nStatus: Scheduled\nVenue: Broadfield Stadium\, Crawley\nTV: Paramount+
@@ -1054,7 +1054,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ West Ham United vs Birmingham City
 DTSTART:20261220T140000Z
 DTEND:20261220T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902838@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nWest Ham United vs Birmingham Ci
  ty\nStatus: Scheduled\nVenue: Victoria Road\, Dagenham\nTV: Paramount+\n\n
@@ -1066,7 +1066,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Manchester City vs Everton
 DTSTART:20261220T120000Z
 DTEND:20261220T140000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902839@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nManchester City vs Everton\nStat
  us: Scheduled\nVenue: Joie Stadium\, Manchester\nTV: Paramount+\n\nFixture
@@ -1078,7 +1078,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Liverpool vs Crystal Palace
 DTSTART:20261220T140000Z
 DTEND:20261220T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902840@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nLiverpool vs Crystal Palace\nSta
  tus: Scheduled\nVenue: St Helens Stadium\, St Helens\nTV: Paramount+\n\nFi
@@ -1090,7 +1090,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Manchester United vs Tottenham Hotspur
 DTSTART:20261220T143000Z
 DTEND:20261220T163000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902842@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nManchester United vs Tottenham H
  otspur\nStatus: Scheduled\nVenue: Leigh Sports Village\, Manchester\nTV: P
@@ -1103,7 +1103,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Charlton Athletic vs Arsenal
 DTSTART:20261220T120000Z
 DTEND:20261220T140000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902843@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nCharlton Athletic vs Arsenal\nSt
  atus: Scheduled\nVenue: The Valley\, London\nTV: Paramount+\n\nFixtures by
@@ -1115,7 +1115,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Tottenham Hotspur vs Liverpool
 DTSTART:20270110T140000Z
 DTEND:20270110T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902831@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nTottenham Hotspur vs Liverpool\n
  Status: Scheduled\nVenue: Gaughan Group Stadium\, London\nTV: Paramount+\n
@@ -1127,7 +1127,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Manchester City vs Chelsea
 DTSTART:20270110T140000Z
 DTEND:20270110T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902832@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nManchester City vs Chelsea\nStat
  us: Scheduled\nVenue: Joie Stadium\, Manchester\nTV: Paramount+\n\nFixture
@@ -1139,7 +1139,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ London City Lionesses vs West Ham United
 DTSTART:20270110T140000Z
 DTEND:20270110T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902833@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nLondon City Lionesses vs West Ha
  m United\nStatus: Scheduled\nVenue: RELOC8 EM Community Stadium\, Bromley
@@ -1152,7 +1152,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Crystal Palace vs Manchester United
 DTSTART:20270110T140000Z
 DTEND:20270110T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902834@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nCrystal Palace vs Manchester Uni
  ted\nStatus: Scheduled\nVenue: VBS Community Stadium\, Sutton Coldfield\nT
@@ -1165,7 +1165,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Charlton Athletic vs Birmingham City
 DTSTART:20270110T140000Z
 DTEND:20270110T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902835@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nCharlton Athletic vs Birmingham 
  City\nStatus: Scheduled\nVenue: The Valley\, London\nTV: Paramount+\n\nFix
@@ -1177,7 +1177,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Aston Villa vs Everton
 DTSTART:20270110T140000Z
 DTEND:20270110T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902836@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nAston Villa vs Everton\nStatus: 
  Scheduled\nVenue: Villa Park\, Birmingham\nTV: Paramount+\n\nFixtures by H
@@ -1189,7 +1189,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Arsenal vs Brighton & Hove Albion
 DTSTART:20270110T123000Z
 DTEND:20270110T143000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902837@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nArsenal vs Brighton & Hove Albio
  n\nStatus: Scheduled\nVenue: Emirates Stadium\, London\nTV: Paramount+\n\n
@@ -1201,7 +1201,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Brighton & Hove Albion vs Tottenham Hotspur
 DTSTART:20270120T194500Z
 DTEND:20270120T214500Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902825@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBrighton & Hove Albion vs Totten
  ham Hotspur\nStatus: Scheduled\nVenue: Broadfield Stadium\, Crawley\nTV: P
@@ -1214,7 +1214,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Birmingham City vs Manchester City
 DTSTART:20270120T193000Z
 DTEND:20270120T213000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902826@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBirmingham City vs Manchester Ci
  ty\nStatus: Scheduled\nVenue: St. Andrew's Stadium\, Birmingham\nTV: Param
@@ -1226,7 +1226,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ West Ham United vs Manchester United
 DTSTART:20270120T190000Z
 DTEND:20270120T210000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902827@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nWest Ham United vs Manchester Un
  ited\nStatus: Scheduled\nVenue: Victoria Road\, Dagenham\nTV: Paramount+\n
@@ -1238,7 +1238,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Crystal Palace vs Aston Villa
 DTSTART:20270120T190000Z
 DTEND:20270120T210000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902828@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nCrystal Palace vs Aston Villa\nS
  tatus: Scheduled\nVenue: VBS Community Stadium\, Sutton Coldfield\nTV: Par
@@ -1250,7 +1250,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Everton vs London City Lionesses
 DTSTART:20270120T190000Z
 DTEND:20270120T210000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902829@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nEverton vs London City Lionesses
  \nStatus: Scheduled\nVenue: Goodison Park\, Liverpool\nTV: Paramount+\n\nF
@@ -1262,7 +1262,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Chelsea vs Charlton Athletic
 DTSTART:20270120T190000Z
 DTEND:20270120T210000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902830@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nChelsea vs Charlton Athletic\nSt
  atus: Scheduled\nVenue: Stamford Bridge\, London\nTV: Paramount+\n\nFixtur
@@ -1274,7 +1274,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Arsenal vs Liverpool
 DTSTART:20270121T190000Z
 DTEND:20270121T210000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902824@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nArsenal vs Liverpool\nStatus: Sc
  heduled\nVenue: Emirates Stadium\, London\nTV: Paramount+\n\nFixtures by H
@@ -1285,7 +1285,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Manchester City vs Charlton Athletic
 DTSTART:20270124T140000Z
 DTEND:20270124T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902817@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nManchester City vs Charlton Athl
  etic\nStatus: Scheduled\nVenue: Joie Stadium\, Manchester\nTV: Paramount+
@@ -1297,7 +1297,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Liverpool vs West Ham United
 DTSTART:20270124T140000Z
 DTEND:20270124T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902818@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nLiverpool vs West Ham United\nSt
  atus: Scheduled\nVenue: St Helens Stadium\, St Helens\nTV: Paramount+\n\nF
@@ -1309,7 +1309,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ London City Lionesses vs Arsenal
 DTSTART:20270124T140000Z
 DTEND:20270124T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902819@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nLondon City Lionesses vs Arsenal
  \nStatus: Scheduled\nVenue: RELOC8 EM Community Stadium\, Bromley\nTV: Par
@@ -1321,7 +1321,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Chelsea vs Crystal Palace
 DTSTART:20270124T140000Z
 DTEND:20270124T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902820@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nChelsea vs Crystal Palace\nStatu
  s: Scheduled\nVenue: Stamford Bridge\, London\nTV: Paramount+\n\nFixtures 
@@ -1333,7 +1333,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Brighton & Hove Albion vs Birmingham City
 DTSTART:20270124T140000Z
 DTEND:20270124T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902821@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBrighton & Hove Albion vs Birmin
  gham City\nStatus: Scheduled\nVenue: Broadfield Stadium\, Crawley\nTV: Par
@@ -1345,7 +1345,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Aston Villa vs Tottenham Hotspur
 DTSTART:20270124T140000Z
 DTEND:20270124T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902822@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nAston Villa vs Tottenham Hotspur
  \nStatus: Scheduled\nVenue: Villa Park\, Birmingham\nTV: Paramount+\n\nFix
@@ -1357,7 +1357,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Manchester United vs Everton
 DTSTART:20270124T130000Z
 DTEND:20270124T150000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902823@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nManchester United vs Everton\nSt
  atus: Scheduled\nVenue: Leigh Sports Village\, Manchester\nTV: Paramount+
@@ -1369,7 +1369,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Arsenal vs Manchester City
 DTSTART:20270130T173000Z
 DTEND:20270130T193000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902816@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nArsenal vs Manchester City\nStat
  us: Scheduled\nVenue: Emirates Stadium\, London\nTV: Paramount+\n\nFixture
@@ -1381,7 +1381,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Tottenham Hotspur vs Chelsea
 DTSTART:20270131T140000Z
 DTEND:20270131T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902810@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nTottenham Hotspur vs Chelsea\nSt
  atus: Scheduled\nVenue: Gaughan Group Stadium\, London\nTV: Paramount+\n\n
@@ -1393,7 +1393,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Liverpool vs Brighton & Hove Albion
 DTSTART:20270131T140000Z
 DTEND:20270131T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902811@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nLiverpool vs Brighton & Hove Alb
  ion\nStatus: Scheduled\nVenue: St Helens Stadium\, St Helens\nTV: Paramoun
@@ -1405,7 +1405,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Everton vs West Ham United
 DTSTART:20270131T140000Z
 DTEND:20270131T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902812@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nEverton vs West Ham United\nStat
  us: Scheduled\nVenue: Goodison Park\, Liverpool\nTV: Paramount+\n\nFixture
@@ -1417,7 +1417,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Charlton Athletic vs Crystal Palace
 DTSTART:20270131T140000Z
 DTEND:20270131T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902813@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nCharlton Athletic vs Crystal Pal
  ace\nStatus: Scheduled\nVenue: The Valley\, London\nTV: Paramount+\n\nFixt
@@ -1429,7 +1429,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Birmingham City vs Aston Villa
 DTSTART:20270131T140000Z
 DTEND:20270131T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902814@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBirmingham City vs Aston Villa\n
  Status: Scheduled\nVenue: St. Andrew's Stadium\, Birmingham\nTV: Paramount
@@ -1441,7 +1441,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Manchester United vs London City Lionesses
 DTSTART:20270131T130000Z
 DTEND:20270131T150000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902815@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nManchester United vs London City
   Lionesses\nStatus: Scheduled\nVenue: Old Trafford\, Manchester\nTV: Param
@@ -1453,7 +1453,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ West Ham United vs Manchester City
 DTSTART:20270207T140000Z
 DTEND:20270207T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902803@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nWest Ham United vs Manchester Ci
  ty\nStatus: Scheduled\nVenue: Victoria Road\, Dagenham\nTV: Paramount+\n\n
@@ -1465,7 +1465,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Tottenham Hotspur vs Manchester United
 DTSTART:20270207T140000Z
 DTEND:20270207T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902804@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nTottenham Hotspur vs Manchester 
  United\nStatus: Scheduled\nVenue: Tottenham Hotspur Stadium\, London\nTV: 
@@ -1478,7 +1478,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Crystal Palace vs London City Lionesses
 DTSTART:20270207T140000Z
 DTEND:20270207T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902805@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nCrystal Palace vs London City Li
  onesses\nStatus: Scheduled\nVenue: VBS Community Stadium\, Sutton Coldfiel
@@ -1491,7 +1491,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Chelsea vs Liverpool
 DTSTART:20270207T140000Z
 DTEND:20270207T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902806@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nChelsea vs Liverpool\nStatus: Sc
  heduled\nVenue: Stamford Bridge\, London\nTV: Paramount+\n\nFixtures by He
@@ -1502,7 +1502,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Brighton & Hove Albion vs Everton
 DTSTART:20270207T140000Z
 DTEND:20270207T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902807@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBrighton & Hove Albion vs Everto
  n\nStatus: Scheduled\nVenue: Broadfield Stadium\, Crawley\nTV: Paramount+
@@ -1514,7 +1514,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Birmingham City vs Arsenal
 DTSTART:20270207T140000Z
 DTEND:20270207T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902808@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBirmingham City vs Arsenal\nStat
  us: Scheduled\nVenue: St. Andrew's Stadium\, Birmingham\nTV: Paramount+\n
@@ -1526,7 +1526,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Aston Villa vs Charlton Athletic
 DTSTART:20270207T140000Z
 DTEND:20270207T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902809@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nAston Villa vs Charlton Athletic
  \nStatus: Scheduled\nVenue: Villa Park\, Birmingham\nTV: Paramount+\n\nFix
@@ -1538,7 +1538,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Manchester City vs Manchester United
 DTSTART:20270214T143000Z
 DTEND:20270214T163000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902796@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nManchester City vs Manchester Un
  ited\nStatus: Scheduled\nVenue: Etihad Stadium\, Manchester\nTV: Paramount
@@ -1550,7 +1550,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Liverpool vs Birmingham City
 DTSTART:20270214T140000Z
 DTEND:20270214T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902797@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nLiverpool vs Birmingham City\nSt
  atus: Scheduled\nVenue: St Helens Stadium\, St Helens\nTV: Paramount+\n\nF
@@ -1562,7 +1562,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ London City Lionesses vs Chelsea
 DTSTART:20270214T140000Z
 DTEND:20270214T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902798@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nLondon City Lionesses vs Chelsea
  \nStatus: Scheduled\nVenue: RELOC8 EM Community Stadium\, Bromley\nTV: Par
@@ -1574,7 +1574,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Everton vs Tottenham Hotspur
 DTSTART:20270214T140000Z
 DTEND:20270214T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902799@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nEverton vs Tottenham Hotspur\nSt
  atus: Scheduled\nVenue: Goodison Park\, Liverpool\nTV: Paramount+\n\nFixtu
@@ -1586,7 +1586,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Crystal Palace vs Arsenal
 DTSTART:20270214T140000Z
 DTEND:20270214T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902800@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nCrystal Palace vs Arsenal\nStatu
  s: Scheduled\nVenue: VBS Community Stadium\, Sutton Coldfield\nTV: Paramou
@@ -1598,7 +1598,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Charlton Athletic vs West Ham United
 DTSTART:20270214T140000Z
 DTEND:20270214T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902801@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nCharlton Athletic vs West Ham Un
  ited\nStatus: Scheduled\nVenue: The Valley\, London\nTV: Paramount+\n\nFix
@@ -1610,7 +1610,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Aston Villa vs Brighton & Hove Albion
 DTSTART:20270214T140000Z
 DTEND:20270214T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902802@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nAston Villa vs Brighton & Hove A
  lbion\nStatus: Scheduled\nVenue: Villa Park\, Birmingham\nTV: Paramount+\n
@@ -1622,7 +1622,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Arsenal vs Tottenham Hotspur
 DTSTART:20270313T173000Z
 DTEND:20270313T193000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902794@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nArsenal vs Tottenham Hotspur\nSt
  atus: Scheduled\nVenue: Emirates Stadium\, London\nTV: Paramount+\n\nFixtu
@@ -1634,7 +1634,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Birmingham City vs Chelsea
 DTSTART:20270313T123000Z
 DTEND:20270313T143000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902795@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBirmingham City vs Chelsea\nStat
  us: Scheduled\nVenue: St. Andrew's Stadium\, Birmingham\nTV: Paramount+\n
@@ -1646,7 +1646,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ West Ham United vs Brighton & Hove Albion
 DTSTART:20270314T140000Z
 DTEND:20270314T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902789@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nWest Ham United vs Brighton & Ho
  ve Albion\nStatus: Scheduled\nVenue: Victoria Road\, Dagenham\nTV: Paramou
@@ -1658,7 +1658,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Manchester City vs Aston Villa
 DTSTART:20270314T140000Z
 DTEND:20270314T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902790@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nManchester City vs Aston Villa\n
  Status: Scheduled\nVenue: Joie Stadium\, Manchester\nTV: Paramount+\n\nFix
@@ -1670,7 +1670,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ London City Lionesses vs Liverpool
 DTSTART:20270314T140000Z
 DTEND:20270314T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902791@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nLondon City Lionesses vs Liverpo
  ol\nStatus: Scheduled\nVenue: RELOC8 EM Community Stadium\, Bromley\nTV: P
@@ -1683,7 +1683,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Everton vs Crystal Palace
 DTSTART:20270314T140000Z
 DTEND:20270314T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902792@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nEverton vs Crystal Palace\nStatu
  s: Scheduled\nVenue: Goodison Park\, Liverpool\nTV: Paramount+\n\nFixtures
@@ -1695,7 +1695,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Manchester United vs Charlton Athletic
 DTSTART:20270314T130000Z
 DTEND:20270314T150000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902793@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nManchester United vs Charlton At
  hletic\nStatus: Scheduled\nVenue: Leigh Sports Village\, Manchester\nTV: P
@@ -1708,7 +1708,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Crystal Palace vs Birmingham City
 DTSTART:20270317T200000Z
 DTEND:20270317T220000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902782@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nCrystal Palace vs Birmingham Cit
  y\nStatus: Scheduled\nVenue: VBS Community Stadium\, Sutton Coldfield\nTV:
@@ -1721,7 +1721,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Brighton & Hove Albion vs London City Lionesses
 DTSTART:20270317T194500Z
 DTEND:20270317T214500Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902783@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBrighton & Hove Albion vs London
   City Lionesses\nStatus: Scheduled\nVenue: Broadfield Stadium\, Crawley\nT
@@ -1734,7 +1734,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Tottenham Hotspur vs Manchester City
 DTSTART:20270317T193000Z
 DTEND:20270317T213000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902784@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nTottenham Hotspur vs Manchester 
  City\nStatus: Scheduled\nVenue: Gaughan Group Stadium\, London\nTV: Paramo
@@ -1746,7 +1746,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Aston Villa vs Arsenal
 DTSTART:20270317T193000Z
 DTEND:20270317T213000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902785@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nAston Villa vs Arsenal\nStatus: 
  Scheduled\nVenue: Villa Park\, Birmingham\nTV: Paramount+\n\nFixtures by H
@@ -1758,7 +1758,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Liverpool vs Manchester United
 DTSTART:20270317T190000Z
 DTEND:20270317T210000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902786@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nLiverpool vs Manchester United\n
  Status: Scheduled\nVenue: St Helens Stadium\, St Helens\nTV: Paramount+\n
@@ -1770,7 +1770,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Chelsea vs West Ham United
 DTSTART:20270317T190000Z
 DTEND:20270317T210000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902787@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nChelsea vs West Ham United\nStat
  us: Scheduled\nVenue: Stamford Bridge\, London\nTV: Paramount+\n\nFixtures
@@ -1782,7 +1782,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Charlton Athletic vs Everton
 DTSTART:20270317T190000Z
 DTEND:20270317T210000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902788@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nCharlton Athletic vs Everton\nSt
  atus: Scheduled\nVenue: The Valley\, London\nTV: Paramount+\n\nFixtures by
@@ -1794,7 +1794,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Manchester City vs Crystal Palace
 DTSTART:20270327T140000Z
 DTEND:20270327T160000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902781@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nManchester City vs Crystal Palac
  e\nStatus: Scheduled\nVenue: Joie Stadium\, Manchester\nTV: Paramount+\n\n
@@ -1806,7 +1806,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ West Ham United vs Tottenham Hotspur
 DTSTART:20270328T130000Z
 DTEND:20270328T150000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902775@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nWest Ham United vs Tottenham Hot
  spur\nStatus: Scheduled\nVenue: Victoria Road\, Dagenham\nTV: Paramount+\n
@@ -1818,7 +1818,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Everton vs Liverpool
 DTSTART:20270328T130000Z
 DTEND:20270328T150000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902776@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nEverton vs Liverpool\nStatus: Sc
  heduled\nVenue: Goodison Park\, Liverpool\nTV: Paramount+\n\nFixtures by H
@@ -1829,7 +1829,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Charlton Athletic vs Brighton & Hove Albion
 DTSTART:20270328T130000Z
 DTEND:20270328T150000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902777@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nCharlton Athletic vs Brighton & 
  Hove Albion\nStatus: Scheduled\nVenue: The Valley\, London\nTV: Paramount+
@@ -1841,7 +1841,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Birmingham City vs London City Lionesses
 DTSTART:20270328T130000Z
 DTEND:20270328T150000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902778@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBirmingham City vs London City L
  ionesses\nStatus: Scheduled\nVenue: St. Andrew's Stadium\, Birmingham\nTV:
@@ -1854,7 +1854,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Arsenal vs Chelsea
 DTSTART:20270328T130000Z
 DTEND:20270328T150000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902779@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nArsenal vs Chelsea\nStatus: Sche
  duled\nVenue: Emirates Stadium\, London\nTV: Paramount+\n\nFixtures by Her
@@ -1865,7 +1865,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Manchester United vs Aston Villa
 DTSTART:20270328T120000Z
 DTEND:20270328T140000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902780@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nManchester United vs Aston Villa
  \nStatus: Scheduled\nVenue: Leigh Sports Village\, Manchester\nTV: Paramou
@@ -1877,7 +1877,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Tottenham Hotspur vs Crystal Palace
 DTSTART:20270404T130000Z
 DTEND:20270404T150000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902768@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nTottenham Hotspur vs Crystal Pal
  ace\nStatus: Scheduled\nVenue: Tottenham Hotspur Stadium\, London\nTV: Par
@@ -1889,7 +1889,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Liverpool vs Aston Villa
 DTSTART:20270404T130000Z
 DTEND:20270404T150000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902769@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nLiverpool vs Aston Villa\nStatus
  : Scheduled\nVenue: Anfield\, Liverpool\nTV: Paramount+\n\nFixtures by Her
@@ -1901,7 +1901,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ London City Lionesses vs Charlton Athletic
 DTSTART:20270404T130000Z
 DTEND:20270404T150000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902770@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nLondon City Lionesses vs Charlto
  n Athletic\nStatus: Scheduled\nVenue: RELOC8 EM Community Stadium\, Bromle
@@ -1914,7 +1914,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Chelsea vs Manchester United
 DTSTART:20270404T130000Z
 DTEND:20270404T150000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902771@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nChelsea vs Manchester United\nSt
  atus: Scheduled\nVenue: Stamford Bridge\, London\nTV: Paramount+\n\nFixtur
@@ -1926,7 +1926,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Brighton & Hove Albion vs Manchester City
 DTSTART:20270404T130000Z
 DTEND:20270404T150000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902772@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBrighton & Hove Albion vs Manche
  ster City\nStatus: Scheduled\nVenue: Broadfield Stadium\, Crawley\nTV: Par
@@ -1938,7 +1938,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Birmingham City vs West Ham United
 DTSTART:20270404T130000Z
 DTEND:20270404T150000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902773@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBirmingham City vs West Ham Unit
  ed\nStatus: Scheduled\nVenue: St. Andrew's Stadium\, Birmingham\nTV: Param
@@ -1950,7 +1950,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Arsenal vs Everton
 DTSTART:20270404T130000Z
 DTEND:20270404T150000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902774@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nArsenal vs Everton\nStatus: Sche
  duled\nVenue: Emirates Stadium\, London\nTV: Paramount+\n\nFixtures by Her
@@ -1961,7 +1961,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Everton vs Manchester City
 DTSTART:20270430T180000Z
 DTEND:20270430T200000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902767@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nEverton vs Manchester City\nStat
  us: Scheduled\nVenue: Goodison Park\, Liverpool\nTV: Paramount+\n\nFixture
@@ -1973,7 +1973,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Aston Villa vs Chelsea
 DTSTART:20270502T170000Z
 DTEND:20270502T190000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902761@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nAston Villa vs Chelsea\nStatus: 
  Scheduled\nVenue: Villa Park\, Birmingham\nTV: Paramount+\n\nFixtures by H
@@ -1985,7 +1985,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ West Ham United vs Arsenal
 DTSTART:20270502T130000Z
 DTEND:20270502T150000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902762@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nWest Ham United vs Arsenal\nStat
  us: Scheduled\nVenue: Victoria Road\, Dagenham\nTV: Paramount+\n\nFixtures
@@ -1997,7 +1997,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Liverpool vs Charlton Athletic
 DTSTART:20270502T130000Z
 DTEND:20270502T150000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902763@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nLiverpool vs Charlton Athletic\n
  Status: Scheduled\nVenue: St Helens Stadium\, St Helens\nTV: Paramount+\n
@@ -2009,7 +2009,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ London City Lionesses vs Tottenham Hotspur
 DTSTART:20270502T130000Z
 DTEND:20270502T150000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902764@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nLondon City Lionesses vs Tottenh
  am Hotspur\nStatus: Scheduled\nVenue: RELOC8 EM Community Stadium\, Bromle
@@ -2022,7 +2022,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Crystal Palace vs Brighton & Hove Albion
 DTSTART:20270502T130000Z
 DTEND:20270502T150000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902765@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nCrystal Palace vs Brighton & Hov
  e Albion\nStatus: Scheduled\nVenue: VBS Community Stadium\, Sutton Coldfie
@@ -2035,7 +2035,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Manchester United vs Birmingham City
 DTSTART:20270502T120000Z
 DTEND:20270502T140000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902766@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nManchester United vs Birmingham 
  City\nStatus: Scheduled\nVenue: Leigh Sports Village\, Manchester\nTV: Par
@@ -2047,7 +2047,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Manchester City vs London City Lionesses
 DTSTART:20270509T130000Z
 DTEND:20270509T150000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902754@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nManchester City vs London City L
  ionesses\nStatus: Scheduled\nVenue: Joie Stadium\, Manchester\nTV: Paramou
@@ -2059,7 +2059,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Crystal Palace vs Liverpool
 DTSTART:20270509T130000Z
 DTEND:20270509T150000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902755@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nCrystal Palace vs Liverpool\nSta
  tus: Scheduled\nVenue: VBS Community Stadium\, Sutton Coldfield\nTV: Param
@@ -2071,7 +2071,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Chelsea vs Brighton & Hove Albion
 DTSTART:20270509T130000Z
 DTEND:20270509T150000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902756@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nChelsea vs Brighton & Hove Albio
  n\nStatus: Scheduled\nVenue: Stamford Bridge\, London\nTV: Paramount+\n\nF
@@ -2083,7 +2083,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Charlton Athletic vs Tottenham Hotspur
 DTSTART:20270509T130000Z
 DTEND:20270509T150000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902757@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nCharlton Athletic vs Tottenham H
  otspur\nStatus: Scheduled\nVenue: The Valley\, London\nTV: Paramount+\n\nF
@@ -2095,7 +2095,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Birmingham City vs Everton
 DTSTART:20270509T130000Z
 DTEND:20270509T150000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902758@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBirmingham City vs Everton\nStat
  us: Scheduled\nVenue: St. Andrew's Stadium\, Birmingham\nTV: Paramount+\n
@@ -2107,7 +2107,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Aston Villa vs West Ham United
 DTSTART:20270509T130000Z
 DTEND:20270509T150000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902759@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nAston Villa vs West Ham United\n
  Status: Scheduled\nVenue: Villa Park\, Birmingham\nTV: Paramount+\n\nFixtu
@@ -2119,7 +2119,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Manchester United vs Arsenal
 DTSTART:20270509T120000Z
 DTEND:20270509T140000Z
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902760@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nManchester United vs Arsenal\nSt
  atus: Scheduled\nVenue: Old Trafford\, Manchester\nTV: Paramount+\n\nFixtu
@@ -2131,7 +2131,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ West Ham United vs Crystal Palace (time TBC)
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270523
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902747@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nWest Ham United vs Crystal Palac
  e\nStatus: Scheduled\nKick-off time not confirmed yet. Your calendar updat
@@ -2144,7 +2144,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Tottenham Hotspur vs Birmingham City (time TBC)
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270523
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902748@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nTottenham Hotspur vs Birmingham 
  City\nStatus: Scheduled\nKick-off time not confirmed yet. Your calendar up
@@ -2158,7 +2158,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Liverpool vs Manchester City (time TBC)
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270523
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902749@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nLiverpool vs Manchester City\nSt
  atus: Scheduled\nKick-off time not confirmed yet. Your calendar updates au
@@ -2171,7 +2171,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ London City Lionesses vs Aston Villa (time TBC)
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270523
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902750@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nLondon City Lionesses vs Aston V
  illa\nStatus: Scheduled\nKick-off time not confirmed yet. Your calendar up
@@ -2185,7 +2185,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Everton vs Chelsea (time TBC)
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270523
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902751@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nEverton vs Chelsea\nStatus: Sche
  duled\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -2197,7 +2197,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Brighton & Hove Albion vs Manchester United (time TBC)
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270523
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902752@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBrighton & Hove Albion vs Manche
  ster United\nStatus: Scheduled\nKick-off time not confirmed yet. Your cale
@@ -2211,7 +2211,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Arsenal vs Charlton Athletic (time TBC)
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270523
-DTSTAMP:20261124T093749Z
+DTSTAMP:20261124T111422Z
 UID:espn-wsl-401902753@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nArsenal vs Charlton Athletic\nSt
  atus: Scheduled\nKick-off time not confirmed yet. Your calendar updates au

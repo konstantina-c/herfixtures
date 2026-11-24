@@ -14,7 +14,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Towson @ #10 Iowa (45–73)
 DTSTART:20261103T010000Z
 DTEND:20261103T030000Z
-DTSTAMP:20261124T093846Z
+DTSTAMP:20261124T111509Z
 UID:espn-ncaa-wbb-401921404@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nTowson at #1
  0 Iowa\nStatus: Final\nVenue: Carver-Hawkeye Arena\, Iowa City\n\nFixtures
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Eastern Illinois @ #10 Iowa (39–80)
 DTSTART:20261106T010000Z
 DTEND:20261106T030000Z
-DTSTAMP:20261124T093846Z
+DTSTAMP:20261124T111509Z
 UID:espn-ncaa-wbb-401921425@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nEastern Illi
  nois at #10 Iowa\nStatus: Final\nVenue: Carver-Hawkeye Arena\, Iowa City\n
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #10 Iowa @ #2 UConn (79–91)
 DTSTART:20261108T190000Z
 DTEND:20261108T210000Z
-DTSTAMP:20261124T093846Z
+DTSTAMP:20261124T111509Z
 UID:espn-ncaa-wbb-401911738@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#10 Iowa at 
  #2 UConn\nStatus: Final\nVenue: M&T Bank Center at Gampel Pavilion\, Storr
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Northern Iowa @ #10 Iowa (40–78)
 DTSTART:20261113T013000Z
 DTEND:20261113T033000Z
-DTSTAMP:20261124T093846Z
+DTSTAMP:20261124T111509Z
 UID:espn-ncaa-wbb-401919981@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nNorthern Iow
  a at #10 Iowa\nStatus: Final\nVenue: Carver-Hawkeye Arena\, Iowa City\n\nF
@@ -62,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #8 Vanderbilt @ #10 Iowa (65–75)
 DTSTART:20261115T180000Z
 DTEND:20261115T200000Z
-DTSTAMP:20261124T093846Z
+DTSTAMP:20261124T111509Z
 UID:espn-ncaa-wbb-401918830@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#8 Vanderbil
  t at #10 Iowa\nStatus: Final\nVenue: Tyson Events Center\, Sioux City\n\nF
@@ -74,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Montana State @ #8 Iowa (60–76)
 DTSTART:20261120T010000Z
 DTEND:20261120T030000Z
-DTSTAMP:20261124T093846Z
+DTSTAMP:20261124T111509Z
 UID:espn-ncaa-wbb-401921426@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nMontana Stat
  e at #8 Iowa\nStatus: Final\nVenue: Carver-Hawkeye Arena\, Iowa City\n\nFi
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #8 Iowa @ Utah (75–66)
 DTSTART:20261123T183000Z
 DTEND:20261123T203000Z
-DTSTAMP:20261124T093846Z
+DTSTAMP:20261124T111509Z
 UID:espn-ncaa-wbb-401921427@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#8 Iowa at U
  tah\nStatus: Final\nVenue: Baha Mar Convention Center\, Nassau\n\nFixtures
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Navy @ #8 Iowa
 DTSTART:20261125T160000Z
 DTEND:20261125T180000Z
-DTSTAMP:20261124T093846Z
+DTSTAMP:20261124T111509Z
 UID:espn-ncaa-wbb-401921428@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nNavy at #8 I
  owa\nStatus: Scheduled\nVenue: Baha Mar Convention Center\, Nassau\n\nFixt
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #8 Iowa @ Drake
 DTSTART:20261202T000000Z
 DTEND:20261202T020000Z
-DTSTAMP:20261124T093846Z
+DTSTAMP:20261124T111509Z
 UID:espn-ncaa-wbb-401919678@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#8 Iowa at D
  rake\nStatus: Scheduled\nVenue: Knapp Center\, Des Moines\n\nFixtures by H
@@ -122,7 +122,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #23 Nebraska @ #8 Iowa
 DTSTART:20261205T230000Z
 DTEND:20261206T010000Z
-DTSTAMP:20261124T093846Z
+DTSTAMP:20261124T111509Z
 UID:espn-ncaa-wbb-401921848@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#23 Nebraska
   at #8 Iowa\nStatus: Scheduled\nVenue: Carver-Hawkeye Arena\, Iowa City\n
@@ -134,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Iowa State @ #8 Iowa
 DTSTART:20261210T010000Z
 DTEND:20261210T030000Z
-DTSTAMP:20261124T093846Z
+DTSTAMP:20261124T111509Z
 UID:espn-ncaa-wbb-401917936@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nIowa State a
  t #8 Iowa\nStatus: Scheduled\nVenue: Carver-Hawkeye Arena\, Iowa City\n\nF
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Southern @ #8 Iowa
 DTSTART:20261213T180000Z
 DTEND:20261213T200000Z
-DTSTAMP:20261124T093846Z
+DTSTAMP:20261124T111509Z
 UID:espn-ncaa-wbb-401921429@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nSouthern at 
  #8 Iowa\nStatus: Scheduled\nVenue: Carver-Hawkeye Arena\, Iowa City\n\nFix
@@ -158,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Northern Illinois @ #8 Iowa
 DTSTART:20261221T013000Z
 DTEND:20261221T033000Z
-DTSTAMP:20261124T093846Z
+DTSTAMP:20261124T111509Z
 UID:espn-ncaa-wbb-401919973@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nNorthern Ill
  inois at #8 Iowa\nStatus: Scheduled\nVenue: Carver-Hawkeye Arena\, Iowa Ci
@@ -170,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #8 Iowa @ #20 Illinois
 DTSTART:20261229T180000Z
 DTEND:20261229T200000Z
-DTSTAMP:20261124T093846Z
+DTSTAMP:20261124T111509Z
 UID:espn-ncaa-wbb-401921856@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#8 Iowa at #
  20 Illinois\nStatus: Scheduled\nVenue: State Farm Center\, Champaign\n\nFi
@@ -182,7 +182,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #8 Iowa @ Michigan State
 DTSTART:20270101T190000Z
 DTEND:20270101T210000Z
-DTSTAMP:20261124T093846Z
+DTSTAMP:20261124T111509Z
 UID:espn-ncaa-wbb-401922066@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#8 Iowa at M
  ichigan State\nStatus: Scheduled\nVenue: Breslin Center\, East Lansing\n\n
@@ -194,7 +194,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Rutgers @ #8 Iowa
 DTSTART:20270106T010000Z
 DTEND:20270106T030000Z
-DTSTAMP:20261124T093846Z
+DTSTAMP:20261124T111509Z
 UID:espn-ncaa-wbb-401922078@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nRutgers at #
  8 Iowa\nStatus: Scheduled\nVenue: Carver-Hawkeye Arena\, Iowa City\n\nFixt
@@ -206,7 +206,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #8 Iowa @ #17 Minnesota
 DTSTART:20270109T170000Z
 DTEND:20270109T190000Z
-DTSTAMP:20261124T093846Z
+DTSTAMP:20261124T111509Z
 UID:espn-ncaa-wbb-401922087@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#8 Iowa at #
  17 Minnesota\nStatus: Scheduled\nVenue: The Barn by Blue Cross and Blue Sh
@@ -219,7 +219,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Northwestern @ #8 Iowa
 DTSTART:20270115T010000Z
 DTEND:20270115T030000Z
-DTSTAMP:20261124T093846Z
+DTSTAMP:20261124T111509Z
 UID:espn-ncaa-wbb-401922100@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nNorthwestern
   at #8 Iowa\nStatus: Scheduled\nVenue: Carver-Hawkeye Arena\, Iowa City\n
@@ -231,7 +231,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Indiana @ #8 Iowa
 DTSTART:20270117T230000Z
 DTEND:20270118T010000Z
-DTSTAMP:20261124T093846Z
+DTSTAMP:20261124T111509Z
 UID:espn-ncaa-wbb-401922104@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nIndiana at #
  8 Iowa\nStatus: Scheduled\nVenue: Carver-Hawkeye Arena\, Iowa City\n\nFixt
@@ -243,7 +243,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #8 Iowa @ Oregon
 DTSTART:20270124T230000Z
 DTEND:20270125T010000Z
-DTSTAMP:20261124T093846Z
+DTSTAMP:20261124T111509Z
 UID:espn-ncaa-wbb-401922122@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#8 Iowa at O
  regon\nStatus: Scheduled\nVenue: Matthew Knight Arena\, Eugene\n\nFixtures
@@ -255,7 +255,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #8 Iowa @ #16 Washington
 DTSTART:20270128T020000Z
 DTEND:20270128T040000Z
-DTSTAMP:20261124T093846Z
+DTSTAMP:20261124T111509Z
 UID:espn-ncaa-wbb-401922128@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#8 Iowa at #
  16 Washington\nStatus: Scheduled\nVenue: Alaska Airlines Arena\, Seattle\n
@@ -267,7 +267,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Wisconsin @ #8 Iowa
 DTSTART:20270131T200000Z
 DTEND:20270131T220000Z
-DTSTAMP:20261124T093846Z
+DTSTAMP:20261124T111509Z
 UID:espn-ncaa-wbb-401922141@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nWisconsin at
   #8 Iowa\nStatus: Scheduled\nVenue: Carver-Hawkeye Arena\, Iowa City\n\nFi
@@ -279,7 +279,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #8 Iowa @ #23 Nebraska
 DTSTART:20270205T013000Z
 DTEND:20270205T033000Z
-DTSTAMP:20261124T093846Z
+DTSTAMP:20261124T111509Z
 UID:espn-ncaa-wbb-401922146@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#8 Iowa at #
  23 Nebraska\nStatus: Scheduled\nVenue: Pinnacle Bank Arena\, Lincoln\n\nFi
@@ -291,7 +291,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #8 Iowa @ #2 Michigan
 DTSTART:20270207T170000Z
 DTEND:20270207T190000Z
-DTSTAMP:20261124T093846Z
+DTSTAMP:20261124T111509Z
 UID:espn-ncaa-wbb-401922152@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#8 Iowa at #
  2 Michigan\nStatus: Scheduled\nVenue: Crisler Center\, Ann Arbor\n\nFixtur
@@ -303,7 +303,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #4 USC @ #8 Iowa
 DTSTART:20270212T000000Z
 DTEND:20270212T020000Z
-DTSTAMP:20261124T093846Z
+DTSTAMP:20261124T111509Z
 UID:espn-ncaa-wbb-401922165@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#4 USC at #8
   Iowa\nStatus: Scheduled\nVenue: Carver-Hawkeye Arena\, Iowa City\n\nFixtu
@@ -315,7 +315,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #10 UCLA @ #8 Iowa
 DTSTART:20270214T190000Z
 DTEND:20270214T210000Z
-DTSTAMP:20261124T093846Z
+DTSTAMP:20261124T111509Z
 UID:espn-ncaa-wbb-401922172@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#10 UCLA at 
  #8 Iowa\nStatus: Scheduled\nVenue: Carver-Hawkeye Arena\, Iowa City\n\nFix
@@ -327,7 +327,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #8 Iowa @ Penn State
 DTSTART:20270218T230000Z
 DTEND:20270219T010000Z
-DTSTAMP:20261124T093846Z
+DTSTAMP:20261124T111509Z
 UID:espn-ncaa-wbb-401922180@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#8 Iowa at P
  enn State\nStatus: Scheduled\nVenue: Rec Hall\, University Park\n\nFixture
@@ -339,7 +339,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Purdue @ #8 Iowa
 DTSTART:20270221T190000Z
 DTEND:20270221T210000Z
-DTSTAMP:20261124T093846Z
+DTSTAMP:20261124T111509Z
 UID:espn-ncaa-wbb-401922191@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nPurdue at #8
   Iowa\nStatus: Scheduled\nVenue: Carver-Hawkeye Arena\, Iowa City\n\nFixtu
@@ -351,7 +351,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #18 Maryland @ #8 Iowa
 DTSTART:20270226T003000Z
 DTEND:20270226T023000Z
-DTSTAMP:20261124T093846Z
+DTSTAMP:20261124T111509Z
 UID:espn-ncaa-wbb-401922195@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#18 Maryland
   at #8 Iowa\nStatus: Scheduled\nVenue: Carver-Hawkeye Arena\, Iowa City\n
@@ -363,7 +363,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #8 Iowa @ #19 Ohio State
 DTSTART:20270228T170000Z
 DTEND:20270228T190000Z
-DTSTAMP:20261124T093846Z
+DTSTAMP:20261124T111509Z
 UID:espn-ncaa-wbb-401922203@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#8 Iowa at #
  19 Ohio State\nStatus: Scheduled\nVenue: Schottenstein Center\, Columbus\n
