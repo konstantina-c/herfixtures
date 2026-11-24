@@ -1,0 +1,78 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//UCL Women 2026-27 Paris FC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Paris FC in the UEFA Women's Champions League 2026/27. Update
+ d automatically by HerFixtures.com
+X-WR-CALNAME:Paris FC — Women's Champions League 2026/27 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Barcelona vs Paris FC (5–2)
+DTSTART:20260923T190000Z
+DTEND:20260923T210000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638296@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 1\nBarcelon
+ a vs Paris FC\nStatus: Match Finished\nVenue: Spotify Camp Nou\, Barcelona
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Paris FC vs Arsenal (2–2)
+DTSTART:20260930T164500Z
+DTEND:20260930T184500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638326@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 2\nParis FC
+  vs Arsenal\nStatus: Match Finished\nVenue: Stade Jean Bouin\, Isilemulino
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Paris FC vs BK Häcken (1–1)
+DTSTART:20261029T174500Z
+DTEND:20261029T194500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638325@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 3\nParis FC
+  vs BK Häcken\nStatus: Match Finished\nVenue: Stade Charléty\, Paris\n\n
+ Fixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Real Madrid vs Paris FC (3–0)
+DTSTART:20261110T174500Z
+DTEND:20261110T194500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638332@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 4\nReal Mad
+ rid vs Paris FC\nStatus: Match Finished\nVenue: Ciudad Real Madrid\, Madri
+ d\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Paris FC vs HB Køge (2–1)
+DTSTART:20261119T174500Z
+DTEND:20261119T194500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638327@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 5\nParis FC
+  vs HB Køge\nStatus: Match Finished\nVenue: Stade Jean-Bouin\, Paris\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Servette vs Paris FC
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638336@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 6\nServette
+  vs Paris FC\nStatus: Not Started\nVenue: Stade de la Fontenette\, Carouge
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+END:VCALENDAR

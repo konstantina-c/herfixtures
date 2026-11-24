@@ -1,0 +1,92 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//UCL Women 2026-27 Juventus//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Juventus in the UEFA Women's Champions League 2026/27. Update
+ d automatically by HerFixtures.com
+X-WR-CALNAME:Juventus — Women's Champions League 2026/27 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus vs St. Pölten (1–1)
+DTSTART:20260902T183000Z
+DTEND:20260902T203000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1623476@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · 3rd Qualifying Round\nJuve
+ ntus vs St. Pölten\nStatus: Match Finished\nVenue: Stadio Pozzo Lamarmora
+ \, Biella\n\nFixtures by HerFixtures.com — Women's Sports on Your Calend
+ ar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus vs Benfica (1–2)
+DTSTART:20260922T190000Z
+DTEND:20260922T210000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638310@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 1\nJuventus
+  vs Benfica\nStatus: Match Finished\nVenue: Juventus Center\, Turin\n\nFix
+ tures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ BK Häcken vs Juventus (0–3)
+DTSTART:20260930T164500Z
+DTEND:20260930T184500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638305@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 2\nBK Häck
+ en vs Juventus\nStatus: Match Finished\nVenue: Nordic Wellness Arena\, Got
+ henburg\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Austria Vienna vs Juventus (1–4)
+DTSTART:20261029T174500Z
+DTEND:20261029T194500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638294@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 3\nAustria 
+ Vienna vs Juventus\nStatus: Match Finished\nVenue: Sportplatz Jochbergenga
+ sse\, Vienna\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus vs OL Lyonnes (0–6)
+DTSTART:20261111T200000Z
+DTEND:20261111T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638311@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 4\nJuventus
+  vs OL Lyonnes\nStatus: Match Finished\nVenue: Stadio Pozzi Lamarmora\, Bi
+ ella\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus vs OH Leuven (2–0)
+DTSTART:20261118T200000Z
+DTEND:20261118T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638312@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 5\nJuventus
+  vs OH Leuven\nStatus: Match Finished\nVenue: Juventus Center\, Turin\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Paris Saint-Germain vs Juventus
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638329@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 6\nParis Sa
+ int-Germain vs Juventus\nStatus: Not Started\nVenue: Paris Saint-Germain T
+ raining Center\, Poissy\n\nFixtures by HerFixtures.com — Women's Sports 
+ on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+END:VCALENDAR

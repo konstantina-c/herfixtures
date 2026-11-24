@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//UCL Women 2026-27 Internazionale//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Internazionale in the UEFA Women's Champions League 2026/27. 
+ Updated automatically by HerFixtures.com
+X-WR-CALNAME:Internazionale — Women's Champions League 2026/27 — HerFi
+ xtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Internazionale vs VfL Wolfsburg (3–1)
+DTSTART:20260902T163000Z
+DTEND:20260902T183000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1623470@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · 3rd Qualifying Round\nInte
+ rnazionale vs VfL Wolfsburg\nStatus: Match Finished\nVenue: Stadio Ernesto
+  Breda\, Sesto San Giovanni\n\nFixtures by HerFixtures.com — Women's Spo
+ rts on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Internazionale vs BK Häcken (1–0)
+DTSTART:20260922T164500Z
+DTEND:20260922T184500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638309@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 1\nInternaz
+ ionale vs BK Häcken\nStatus: Match Finished\nVenue: Felice Chinetti Stadi
+ um\, Varese\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
+ ndar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Austria Vienna vs Internazionale (1–1)
+DTSTART:20261001T164500Z
+DTEND:20261001T184500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638293@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 2\nAustria 
+ Vienna vs Internazionale\nStatus: Match Finished\nVenue: Sportplatz Jochbe
+ rgengasse\, Vienna\n\nFixtures by HerFixtures.com — Women's Sports on Yo
+ ur Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ OL Lyonnes vs Internazionale (6–0)
+DTSTART:20261028T200000Z
+DTEND:20261028T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638324@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 3\nOL Lyonn
+ es vs Internazionale\nStatus: Match Finished\nVenue: Groupama Stadium\, Ly
+ on\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Internazionale vs Manchester City (1–4)
+DTSTART:20261110T200000Z
+DTEND:20261110T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638308@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 4\nInternaz
+ ionale vs Manchester City\nStatus: Match Finished\nVenue: Felice Chinetti 
+ Stadium\, Varese\n\nFixtures by HerFixtures.com — Women's Sports on Your
+  Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Real Madrid vs Internazionale (3–1)
+DTSTART:20261118T174500Z
+DTEND:20261118T194500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638333@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 5\nReal Mad
+ rid vs Internazionale\nStatus: Match Finished\nVenue: Ciudad Real Madrid\,
+  Madrid\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Internazionale vs Arsenal
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638307@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 6\nInternaz
+ ionale vs Arsenal\nStatus: Not Started\nVenue: Stadio Ernesto Breda\, Sest
+ o San Giovanni\n\nFixtures by HerFixtures.com — Women's Sports on Your C
+ alendar
+URL:https://herfixtures.com
+END:VEVENT
+END:VCALENDAR

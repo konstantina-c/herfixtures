@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//UCL Women 2026-27 Bayern Munich//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Bayern Munich in the UEFA Women's Champions League 2026/27. U
+ pdated automatically by HerFixtures.com
+X-WR-CALNAME:Bayern Munich — Women's Champions League 2026/27 — HerFix
+ tures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Bayern Munich vs Manchester City (2–2)
+DTSTART:20260922T164500Z
+DTEND:20260922T184500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638300@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 1\nBayern M
+ unich vs Manchester City\nStatus: Match Finished\nVenue: FC Bayern Campus\
+ , Munich\n\nFixtures by HerFixtures.com — Women's Sports on Your Calenda
+ r
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Benfica vs Bayern Munich (0–3)
+DTSTART:20260930T190000Z
+DTEND:20260930T210000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638337@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 2\nBenfica 
+ vs Bayern Munich\nStatus: Match Finished\nVenue: Estadio da Tapadinha\, Li
+ sbon\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Bayern Munich vs Real Madrid (2–2)
+DTSTART:20261028T174500Z
+DTEND:20261028T194500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638299@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 3\nBayern M
+ unich vs Real Madrid\nStatus: Match Finished\nVenue: FC Bayern Campus\, Mu
+ nich\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Paris Saint-Germain vs Bayern Munich (1–2)
+DTSTART:20261110T200000Z
+DTEND:20261110T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638328@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 4\nParis Sa
+ int-Germain vs Bayern Munich\nStatus: Match Finished\nVenue: Parc des Prin
+ ces\, Paris\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
+ ndar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Austria Vienna vs Bayern Munich (0–4)
+DTSTART:20261119T174500Z
+DTEND:20261119T194500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638292@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 5\nAustria 
+ Vienna vs Bayern Munich\nStatus: Match Finished\nVenue: Sportplatz Jochber
+ gengasse\, Vienna\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Bayern Munich vs Barcelona
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638298@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 6\nBayern M
+ unich vs Barcelona\nStatus: Not Started\nVenue: FC Bayern Campus\, Munich\
+ n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+END:VCALENDAR

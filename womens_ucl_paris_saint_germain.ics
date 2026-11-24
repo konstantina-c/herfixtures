@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//UCL Women 2026-27 Paris Saint-Germain//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Paris Saint-Germain in the UEFA Women's Champions League 2026
+ /27. Updated automatically by HerFixtures.com
+X-WR-CALNAME:Paris Saint-Germain — Women's Champions League 2026/27 — 
+ HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Paris Saint-Germain vs Eintracht Frankfurt (5–1)
+DTSTART:20260902T163000Z
+DTEND:20260902T183000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1623471@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · 3rd Qualifying Round\nPari
+ s Saint-Germain vs Eintracht Frankfurt\nStatus: Match Finished\nVenue: Cam
+ pus PSG\, Poissy\n\nFixtures by HerFixtures.com — Women's Sports on Your
+  Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Real Madrid vs Paris Saint-Germain (1–1)
+DTSTART:20260922T190000Z
+DTEND:20260922T210000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638331@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 1\nReal Mad
+ rid vs Paris Saint-Germain\nStatus: Match Finished\nVenue: Ciudad Real Mad
+ rid\, Madrid\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Paris Saint-Germain vs OH Leuven (5–0)
+DTSTART:20261001T190000Z
+DTEND:20261001T210000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638330@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 2\nParis Sa
+ int-Germain vs OH Leuven\nStatus: Match Finished\nVenue: Campus PSG\, Pois
+ sy\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Manchester City vs Paris Saint-Germain (1–1)
+DTSTART:20261029T200000Z
+DTEND:20261029T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638319@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 3\nManchest
+ er City vs Paris Saint-Germain\nStatus: Match Finished\nVenue: Manchester 
+ Regional Arena\, Manchester\n\nFixtures by HerFixtures.com — Women's Spo
+ rts on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Paris Saint-Germain vs Bayern Munich (1–2)
+DTSTART:20261110T200000Z
+DTEND:20261110T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638328@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 4\nParis Sa
+ int-Germain vs Bayern Munich\nStatus: Match Finished\nVenue: Parc des Prin
+ ces\, Paris\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
+ ndar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Chelsea vs Paris Saint-Germain (1–0)
+DTSTART:20261118T200000Z
+DTEND:20261118T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638301@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 5\nChelsea 
+ vs Paris Saint-Germain\nStatus: Match Finished\nVenue: Wheatsheaf Park\, S
+ taines\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Paris Saint-Germain vs Juventus
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638329@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 6\nParis Sa
+ int-Germain vs Juventus\nStatus: Not Started\nVenue: Paris Saint-Germain T
+ raining Center\, Poissy\n\nFixtures by HerFixtures.com — Women's Sports 
+ on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+END:VCALENDAR
