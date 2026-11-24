@@ -819,7 +819,12 @@ body {
   color: var(--text); max-width: 900px; margin: 0 auto; text-wrap: balance;
 }
 .mhero__sub { margin: 14px auto 0; max-width: 520px; font-size: 16px; line-height: 1.5; color: var(--text2); }
-@media (min-width: 768px) { .mhero__sub { font-size: 18px; } }
+@media (min-width: 768px) {
+  /* One line from tablet up: the headline scales with the content width (≈18.6× its font size) */
+  .mhero__title { white-space: nowrap; max-width: none; font-size: min(60px, calc((100vw - 96px) / 18.6)); }
+  .mhero__sub { font-size: 18px; white-space: nowrap; max-width: none; }
+}
+@media (min-width: 1280px) { .mhero__title { font-size: 60px; } .mhero__sub { font-size: 20px; } }
 
 /* Search pill overlaps the top edge of the map card by half its height */
 .mhero__stage { position: relative; margin-top: 28px; padding-top: 31px; }
@@ -883,20 +888,25 @@ body {
 .mhero__pin.is-featured::after { content: ''; position: absolute; inset: -9px; border-radius: 50%; border: 1.5px solid var(--coral); animation: mhero-ring 2s ease-out infinite; }
 @keyframes mhero-ring { from { transform: scale(0.6); opacity: 0.9; } to { transform: scale(1.9); opacity: 0; } }
 
-/* Caption chip: theme card colours (no white chip in dark mode) */
+/* Caption chip: centred under the pin, theme colours, with an action */
 .mhero__caption {
   position: absolute; left: 14px; right: 14px; bottom: 14px; z-index: 3;
-  display: flex; flex-direction: column; gap: 3px; text-align: left;
+  display: flex; align-items: center; gap: 14px; text-align: left;
   background: var(--card); color: var(--text); border: 1px solid var(--border2);
-  border-radius: 20px; padding: 14px 18px; box-shadow: 0 10px 30px rgba(6,6,15,0.16);
+  border-radius: 20px; padding: 12px 12px 12px 18px; box-shadow: 0 10px 30px rgba(6,6,15,0.16);
 }
 @media (min-width: 768px) {
-  .mhero__caption { left: 24px; right: auto; bottom: 24px; min-width: 240px; max-width: 400px; }
-  .mhero__caption.is-right { left: auto; right: 24px; }
+  .mhero__caption { left: 50%; right: auto; bottom: 24px; transform: translateX(-50%); width: max-content; max-width: min(560px, calc(100% - 48px)); padding: 14px 14px 14px 22px; gap: 20px; }
 }
+.mhero__cap-text { display: flex; flex-direction: column; gap: 3px; min-width: 0; flex: 1; }
 .mhero__cap-label { font-size: 11px; font-weight: 700; letter-spacing: 0.8px; text-transform: uppercase; color: var(--brand-fg); }
 .mhero__cap-title { font-size: 17px; font-weight: 700; line-height: 1.3; }
 .mhero__cap-meta { font-size: 14px; color: var(--text2); }
+.mhero__cap-add {
+  flex-shrink: 0; height: 44px; padding: 0 18px; border-radius: 12px; border: 0; cursor: pointer;
+  background: var(--blue); color: #fff; font: 600 15px 'DM Sans', sans-serif; white-space: nowrap;
+}
+.mhero__cap-add:focus-visible { outline: 2px solid var(--brand-fg); outline-offset: 3px; }
 
 /* Controls */
 .mhero__controls { display: flex; justify-content: center; gap: 10px; margin-top: 16px; }
@@ -997,7 +1007,7 @@ body {
     <!-- Hero — headline, search, world map of every competition (design: Figma "Homepage v2.0", page 6 · Minimal) -->
     <section class="hero-slot mhero" id="live-hero" aria-labelledby="mhero-title">
       <h1 class="mhero__title" id="mhero-title">Every match, on your calendar</h1>
-      <p class="mhero__sub">Women's sports fixtures in Google, Apple or Outlook. Start with your team.</p>
+      <p class="mhero__sub">Every kick-off from 13 competitions, in your time zone. One click, no sign-up.</p>
 
       <div class="mhero__stage">
         <form class="mhero__search" role="search" autocomplete="off" onsubmit="return false;">
@@ -1015,10 +1025,13 @@ body {
           <div class="mhero__world" id="mhero-world" aria-hidden="true">
             <div class="mhero__dots" id="mhero-dots"></div>
           </div>
-          <div class="mhero__caption" id="mhero-caption" aria-live="polite" hidden>
-            <span class="mhero__cap-label" id="mhero-cap-label"></span>
-            <span class="mhero__cap-title" id="mhero-cap-title"></span>
-            <span class="mhero__cap-meta" id="mhero-cap-meta"></span>
+          <div class="mhero__caption" id="mhero-caption" hidden>
+            <div class="mhero__cap-text" aria-live="polite">
+              <span class="mhero__cap-label" id="mhero-cap-label"></span>
+              <span class="mhero__cap-title" id="mhero-cap-title"></span>
+              <span class="mhero__cap-meta" id="mhero-cap-meta"></span>
+            </div>
+            <button type="button" class="mhero__cap-add" id="mhero-cap-add"><span aria-hidden="true">+</span> Add</button>
           </div>
         </div>
       </div>
@@ -2524,6 +2537,11 @@ window.addEventListener('resize', positionLabels);
     { id: 'a-league-women',    cfg: () => A_LEAGUE_WOMEN_CONFIG,   name: 'A-League Women',                x: 90.64, y: 88.17 },
   ];
   const AWAY_FIRST = new Set(['nwsl', 'wnba', 'ncaa-wbb']);
+  const COUNTRY = {
+    'frauen-bundesliga': 'Germany', 'liga-f': 'Spain', 'wsl': 'England', 'premiere-ligue': 'France',
+    'eredivisie-women': 'Netherlands', 'ucl-women': 'Europe', 'euroleague-women': 'Europe',
+    'ncaa-wbb': 'USA', 'nwsl': 'USA', 'wnba': 'USA', 'liga-mx-femenil': 'Mexico', 'a-league-women': 'Australia & New Zealand',
+  };
   const MAP_RATIO = 144 / 310;
   const $ = id => document.getElementById(id);
   const map = $('mhero-map'), world = $('mhero-world'), dots = $('mhero-dots');
@@ -2544,8 +2562,16 @@ window.addEventListener('resize', positionLabels);
     world.style.height = h + 'px';
     const fx = featured ? featured.x / 100 * w : w / 2;
     const fy = featured ? featured.y / 100 * h : h * 0.42;
+    // Pan stays inside the map edges. Only if the caption would then cover the featured
+    // pin does the map slide further up, so the pin always sits just above the caption.
     const tx = Math.min(0, Math.max(cw - w, cw / 2 - fx));
-    const ty = Math.min(0, Math.max(ch - h, ch * 0.4 - fy));
+    let ty = Math.min(0, Math.max(ch - h, ch * 0.4 - fy));
+    if (featured && !cap.hidden) {
+      const c = cap.getBoundingClientRect(), m = map.getBoundingClientRect();
+      const capTop = c.top - m.top, capL = c.left - m.left - 24, capR = c.right - m.left + 24;
+      const px = fx + tx, py = fy + ty;
+      if (px > capL && px < capR && py > capTop - 28) ty = capTop - 40 - fy;
+    }
     world.style.transform = `translate(${tx}px, ${ty}px)`;
   }
   const pins = {};
@@ -2584,12 +2610,22 @@ window.addEventListener('resize', positionLabels);
     capLabel.textContent = ex.label;
     capTitle.textContent = ex.title;
     capMeta.textContent = ex.meta;
-    cap.classList.toggle('is-right', ex.comp.x > 70);
+    $('mhero-cap-add').setAttribute('aria-label', `Add ${ex.comp.name} to your calendar`);
     cap.hidden = false;
     if (!input.value) input.placeholder = `Try ‘${ex.hint}’`;
     layout();
   }
-  function running() { return !userPaused && !document.hidden && document.activeElement !== input && !input.value; }
+  // Rotation holds while the visitor reads or acts: hover over the map, focus in search or the caption.
+  function running() {
+    return !userPaused && !document.hidden && !input.value && document.activeElement !== input &&
+           !cap.contains(document.activeElement) && !map.matches(':hover');
+  }
+  $('mhero-cap-add').onclick = () => {
+    const c = examples[idx] && examples[idx].comp;
+    if (!c) return;
+    gtag('event', 'hero_caption_add', { competition: c.name });
+    FeedModal.open(c.cfg());
+  };
   function tick() { clearTimeout(timer); timer = setTimeout(() => { if (running()) show(idx + 1); tick(); }, 4500); }
   function setPaused(p) {
     userPaused = p;
@@ -2612,17 +2648,21 @@ window.addEventListener('resize', positionLabels);
       const f = feeds[c.id];
       if (f && f.style === 'live') pins[c.id].classList.add('is-live');
       if (!f || f.style !== 'live') return;
+      // Caption: where it is + the next game (this week, from scores.json) or the next matchday.
       const g = nextGame(leagues[c.id]);
+      const where = COUNTRY[c.id] || '';
       if (g) {
         const sep = AWAY_FIRST.has(c.id) ? ' @ ' : ' v ';
-        examples.push({ comp: c, label: c.short || c.name, title: g.top.name + sep + g.bottom.name, meta: when(g), hint: strip(g.top.name) });
+        examples.push({ comp: c, game: true, label: `${c.short || c.name} · ${where}`, title: g.top.name + sep + g.bottom.name, meta: when(g), hint: strip(g.top.name) });
       } else {
-        examples.push({ comp: c, label: 'In season', title: c.name, meta: f.text || 'Season in progress', hint: c.short || c.name });
+        const special = f.text && f.text !== 'Season in progress' ? f.text : '';
+        const next = f.next_game ? 'Next games ' + new Date(f.next_game + 'T12:00:00Z').toLocaleDateString('en-GB', { weekday: 'short', day: 'numeric', month: 'short', timeZone: 'UTC' }) : '';
+        examples.push({ comp: c, game: false, label: where, title: c.name, meta: special || next || 'Season in progress', hint: c.short || c.name });
       }
     });
     if (!examples.length) return;
     // Competitions with a game this week first, so the map tours real fixtures.
-    examples.sort((a, b) => (a.label === 'In season') - (b.label === 'In season'));
+    examples.sort((a, b) => b.game - a.game);
     $('mhero-controls').hidden = false;
     setPaused(userPaused);
     show(0);
