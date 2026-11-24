@@ -1189,6 +1189,24 @@ body {
           </div>
         </div>
 
+        <!-- 2g. Serie A Women (Italy) — badge from feed_status.json (feed id "serie-a-women"); data from API-Football -->
+        <div class="feed-card" data-sport="football">
+          <div class="feed-header">
+            <div class="feed-icon">⚽</div>
+            <div class="feed-info">
+              <div class="feed-badge badge-live" data-feed="serie-a-women">Season in progress</div>
+              <div class="feed-name">Serie A Women</div>
+              <div class="feed-meta">Football · Italy · 2026/27 season</div>
+            </div>
+          </div>
+          <div class="feed-divider"></div>
+          <div class="feed-actions">
+            <button class="btn-cal btn-choose-team" onclick="openSerieAWomenModal()" aria-haspopup="dialog">
+              Add to Calendar
+            </button>
+          </div>
+        </div>
+
         <!-- 3. FIBA Women's Basketball World Cup 2026 — tournament complete (final 13 Sep 2026) -->
         <div class="feed-card" data-sport="basketball">
           <div class="feed-header">
@@ -1851,6 +1869,27 @@ const EREDIVISIE_WOMEN_CONFIG = {
   ]
 };
 
+// Serie A Women (Italy): feed + crests from API-Football (licensed plan).
+const SERIE_A_WOMEN_CONFIG = {
+  leagueSlug:  'serie_a_women',
+  gaLabel:     'Serie A Women',
+  teams: [
+    { name: "All teams",    slug: "serie_a_women",             emoji: "🇮🇹" },
+    { name: "AC Milan",   slug: "serie_a_women_ac_milan",   logo: "https://media.api-sports.io/football/teams/1893.png" },
+    { name: "Como 1907",  slug: "serie_a_women_como_1907",  logo: "https://media.api-sports.io/football/teams/27960.png" },
+    { name: "Como Women", slug: "serie_a_women_como_women", logo: "https://media.api-sports.io/football/teams/19747.png" },
+    { name: "Fiorentina", slug: "serie_a_women_fiorentina", logo: "https://media.api-sports.io/football/teams/1880.png" },
+    { name: "Inter",      slug: "serie_a_women_inter",      logo: "https://media.api-sports.io/football/teams/7533.png" },
+    { name: "Juventus",   slug: "serie_a_women_juventus",   logo: "https://media.api-sports.io/football/teams/1886.png" },
+    { name: "Lazio",      slug: "serie_a_women_lazio",      logo: "https://media.api-sports.io/football/teams/17369.png" },
+    { name: "Napoli",     slug: "serie_a_women_napoli",     logo: "https://media.api-sports.io/football/teams/14432.png" },
+    { name: "Parma",      slug: "serie_a_women_parma",      logo: "https://media.api-sports.io/football/teams/19748.png" },
+    { name: "Roma",       slug: "serie_a_women_roma",       logo: "https://media.api-sports.io/football/teams/1892.png" },
+    { name: "Sassuolo",   slug: "serie_a_women_sassuolo",   logo: "https://media.api-sports.io/football/teams/1889.png" },
+    { name: "Ternana",    slug: "serie_a_women_ternana",    logo: "https://media.api-sports.io/football/teams/23669.png" },
+  ]
+};
+
 const PREMIERE_LIGUE_CONFIG = {
   leagueSlug:  'premiere_ligue',
   gaLabel:     'Premiere Ligue',
@@ -2157,6 +2196,7 @@ function openPremiereLigueModal() { FeedModal.open(PREMIERE_LIGUE_CONFIG); }
 function openALeagueWomenModal()  { FeedModal.open(A_LEAGUE_WOMEN_CONFIG); }
 function openLigaMXFemenilModal() { FeedModal.open(LIGA_MX_FEMENIL_CONFIG); }
 function openEredivisieWomenModal() { FeedModal.open(EREDIVISIE_WOMEN_CONFIG); }
+function openSerieAWomenModal()  { FeedModal.open(SERIE_A_WOMEN_CONFIG); }
 function openNCAAWBBModal()       { FeedModal.open(NCAA_WBB_CONFIG); }
 function openFrauenBLModal() { FeedModal.open(FRAUEN_BL_CONFIG); }
 function openFIBAModal()     { FeedModal.open(FIBA_CONFIG);      }
@@ -2529,6 +2569,7 @@ window.addEventListener('resize', positionLabels);
     { id: 'wsl',               cfg: () => WSL_CONFIG,              name: "Women's Super League", short: 'WSL', x: 41.32, y: 16.25 },
     { id: 'premiere-ligue',    cfg: () => PREMIERE_LIGUE_CONFIG,   name: 'Première Ligue',                x: 42.85, y: 17.97 },
     { id: 'eredivisie-women',  cfg: () => EREDIVISIE_WOMEN_CONFIG, name: 'Eredivisie Women',              x: 43.65, y: 16.58 },
+    { id: 'serie-a-women',     cfg: () => SERIE_A_WOMEN_CONFIG,    name: 'Serie A Women', short: 'Serie A', x: 45.48, y: 23.33 },
     { id: 'ucl-women',         cfg: () => UCL_CONFIG,              name: "UEFA Women's Champions League", short: "Women's UCL", x: 43.49, y: 21.87 },
     { id: 'euroleague-women',  cfg: () => EUROLEAGUE_W_CONFIG,     name: 'EuroLeague Women',              x: 45.60, y: 21.91 },
     { id: 'ncaa-wbb',          cfg: () => NCAA_WBB_CONFIG,         name: "NCAA Women's Basketball", short: 'NCAA', x: 14.14, y: 26.86 },
@@ -2540,7 +2581,7 @@ window.addEventListener('resize', positionLabels);
   const AWAY_FIRST = new Set(['nwsl', 'wnba', 'ncaa-wbb']);
   const COUNTRY = {
     'frauen-bundesliga': 'Germany', 'liga-f': 'Spain', 'wsl': 'England', 'premiere-ligue': 'France',
-    'eredivisie-women': 'Netherlands', 'ucl-women': 'Europe', 'euroleague-women': 'Europe',
+    'eredivisie-women': 'Netherlands', 'serie-a-women': 'Italy', 'ucl-women': 'Europe', 'euroleague-women': 'Europe',
     'ncaa-wbb': 'USA', 'nwsl': 'USA', 'wnba': 'USA', 'liga-mx-femenil': 'Mexico', 'a-league-women': 'Australia & New Zealand',
   };
   const MAP_RATIO = 144 / 310;
