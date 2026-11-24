@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T10:48:41Z",
+  "updated": "2026-11-24T11:15:27Z",
   "version": 2,
   "rules": {
     "results_days": 3,
@@ -95,22 +95,6 @@
             "score": 2
           },
           "winner": "draw"
-        },
-        {
-          "kickoff": "2026-11-21T11:00:00Z",
-          "date": "2026-11-21",
-          "tbc": false,
-          "top": {
-            "name": "Frankfurt",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
-            "score": 2
-          },
-          "bottom": {
-            "name": "Hamburg",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png",
-            "score": 0
-          },
-          "winner": "top"
         }
       ],
       "upcoming": []
@@ -231,22 +215,6 @@
             "score": 3
           },
           "winner": "bottom"
-        },
-        {
-          "kickoff": "2026-11-21T11:00:00Z",
-          "date": "2026-11-21",
-          "tbc": false,
-          "top": {
-            "name": "Badalona",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21149.png",
-            "score": 2
-          },
-          "bottom": {
-            "name": "Deportivo",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21145.png",
-            "score": 1
-          },
-          "winner": "top"
         }
       ],
       "upcoming": []
