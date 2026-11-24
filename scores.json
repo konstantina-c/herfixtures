@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T17:52:22Z",
+  "updated": "2026-11-24T03:56:43Z",
   "competitions": {
     "wnba": {
       "name": "WNBA",
@@ -33,76 +33,20 @@
         {
           "league": "Liga F",
           "home": {
-            "name": "Real Madrid",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21128.png",
-            "score": 5
-          },
-          "away": {
-            "name": "Granada",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21140.png",
-            "score": 1
-          },
-          "winner": "home"
-        },
-        {
-          "league": "Liga F",
-          "home": {
-            "name": "Sevilla",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21424.png",
+            "name": "Valencia",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21374.png",
             "score": 0
           },
           "away": {
-            "name": "Real Sociedad",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21428.png",
-            "score": 1
-          },
-          "winner": "away"
-        },
-        {
-          "league": "Liga F",
-          "home": {
-            "name": "Madrid CFF",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21425.png",
-            "score": 3
-          },
-          "away": {
-            "name": "Tenerife",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131393.png",
-            "score": 0
-          },
-          "winner": "home"
-        },
-        {
-          "league": "Liga F",
-          "home": {
-            "name": "Athletic ",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21372.png",
-            "score": 0
-          },
-          "away": {
-            "name": "Barcelona",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20091.png",
-            "score": 6
+            "name": "Espanyol",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21154.png",
+            "score": 2
           },
           "winner": "away"
         }
       ],
       "livegame": [],
-      "pregame": [
-        {
-          "league": "Liga F",
-          "home": {
-            "name": "Valencia",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21374.png"
-          },
-          "away": {
-            "name": "Espanyol",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21154.png"
-          },
-          "kickoff": "2026-11-23T19:00:00Z",
-          "kickoff_label": "in 1h"
-        }
-      ]
+      "pregame": []
     }
   }
 }
