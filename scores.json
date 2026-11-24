@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T17:07:48Z",
+  "updated": "2026-11-24T17:18:22Z",
   "version": 2,
   "rules": {
     "results_days": 3,
@@ -274,22 +274,6 @@
             "score": 2
           },
           "winner": "bottom"
-        },
-        {
-          "kickoff": "2026-11-21T17:15:00Z",
-          "date": "2026-11-21",
-          "tbc": false,
-          "top": {
-            "name": "London City",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21053.png",
-            "score": 6
-          },
-          "bottom": {
-            "name": "C Palace",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21037.png",
-            "score": 2
-          },
-          "winner": "top"
         }
       ],
       "upcoming": []
