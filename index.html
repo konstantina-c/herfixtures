@@ -822,8 +822,9 @@ body {
 @media (min-width: 768px) {
   /* One line from tablet up: the headline scales with the content width (≈18.6× its font size) */
   .mhero__title { white-space: nowrap; max-width: none; font-size: min(60px, calc((100vw - 96px) / 18.6)); }
-  .mhero__sub { font-size: 18px; white-space: nowrap; max-width: none; }
+  .mhero__sub { font-size: 18px; max-width: 640px; }
 }
+@media (min-width: 1024px) { .mhero__sub { white-space: nowrap; max-width: none; } }
 @media (min-width: 1280px) { .mhero__title { font-size: 60px; } .mhero__sub { font-size: 20px; } }
 
 /* Search pill overlaps the top edge of the map card by half its height */
@@ -1007,7 +1008,7 @@ body {
     <!-- Hero — headline, search, world map of every competition (design: Figma "Homepage v2.0", page 6 · Minimal) -->
     <section class="hero-slot mhero" id="live-hero" aria-labelledby="mhero-title">
       <h1 class="mhero__title" id="mhero-title">Every match, on your calendar</h1>
-      <p class="mhero__sub">Every kick-off from 13 competitions, in your time zone. One click, no sign-up.</p>
+      <p class="mhero__sub">Never miss a kick-off again. <span id="mhero-count">13</span> competitions, synced to your calendar in your time zone, for free.</p>
 
       <div class="mhero__stage">
         <form class="mhero__search" role="search" autocomplete="off" onsubmit="return false;">
@@ -2550,6 +2551,9 @@ window.addEventListener('resize', positionLabels);
   const pauseBtn = $('mhero-pause');
   if (!map || !input) return;
   const DEFAULT_PH = input.placeholder;
+  // Subtitle number = competition cards on the homepage, so adding or removing a card updates it.
+  const nCards = document.querySelectorAll('#live-feeds .feed-card').length;
+  if (nCards) $('mhero-count').textContent = nCards;
   const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
   /* ── Map layout + pan ── */
