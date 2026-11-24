@@ -1,0 +1,78 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//UCL Women 2026-27 Benfica//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Benfica in the UEFA Women's Champions League 2026/27. Updated
+  automatically by HerFixtures.com
+X-WR-CALNAME:Benfica — Women's Champions League 2026/27 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus vs Benfica (1–2)
+DTSTART:20260922T190000Z
+DTEND:20260922T210000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638310@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 1\nJuventus
+  vs Benfica\nStatus: Match Finished\nVenue: Juventus Center\, Turin\n\nFix
+ tures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Benfica vs Bayern Munich (0–3)
+DTSTART:20260930T190000Z
+DTEND:20260930T210000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638337@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 2\nBenfica 
+ vs Bayern Munich\nStatus: Match Finished\nVenue: Estadio da Tapadinha\, Li
+ sbon\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Arsenal vs Benfica (3–0)
+DTSTART:20261028T200000Z
+DTEND:20261028T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638287@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 3\nArsenal 
+ vs Benfica\nStatus: Match Finished\nVenue: Meadow Park\, Borehamwood\n\nFi
+ xtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Benfica vs Austria Vienna (3–1)
+DTSTART:20261112T200000Z
+DTEND:20261112T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638339@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 4\nBenfica 
+ vs Austria Vienna\nStatus: Match Finished\nVenue: Estadio da Tapadinha\, L
+ isbon\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Benfica vs Roma (2–3)
+DTSTART:20261119T200000Z
+DTEND:20261119T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638338@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 5\nBenfica 
+ vs Roma\nStatus: Match Finished\nVenue: Estadio da Tapadinha\, Lisbon\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ HB Køge vs Benfica
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638314@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 6\nHB Køge
+  vs Benfica\nStatus: Not Started\n\nFixtures by HerFixtures.com — Women'
+ s Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+END:VCALENDAR

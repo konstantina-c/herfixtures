@@ -1,5 +1,5 @@
 {
-  "_about": "One entry per ESPN-sourced competition, read by fetch_espn_feeds.py (the shared feed engine). Adding a league = adding an entry here (+ an entry in feeds/manifest.json for the health check and badge). Keep 'output', 'team_prefix', team slugs and 'uid_prefix' stable once live: they are subscribers' URLs and calendar event ids. 'order': 'away_at_home' (Away @ Home) or 'home_vs_away' (Home vs Away). Text fields may use {team}. Optional per league: 'rank_filter': N (only games involving a team ranked 1..N), 'show_rank': true (\"#5 Duke\"), 'team_name': 'location' (\"Duke\" not \"Duke Blue Devils\"), 'team_source': 'schedule' (team feeds from each team's ESPN schedule instead of the league scoreboard; use when the league feed is a subset, e.g. NCAA Top 25). 'title_round': true appends ESPN's stage slug to description line 1; 'team_title' sets a team-specific description line 1 (with {team}).",
+  "_about": "One entry per ESPN-sourced competition, read by fetch_espn_feeds.py (the shared feed engine). Adding a league = adding an entry here (+ an entry in feeds/manifest.json for the health check and badge). Keep 'output', 'team_prefix', team slugs and 'uid_prefix' stable once live: they are subscribers' URLs and calendar event ids. 'order': 'away_at_home' (Away @ Home) or 'home_vs_away' (Home vs Away). Text fields may use {team}. Optional per league: 'rank_filter': N (only games involving a team ranked 1..N), 'show_rank': true (\"#5 Duke\"), 'team_name': 'location' (\"Duke\" not \"Duke Blue Devils\"), 'team_source': 'schedule' (team feeds from each team's ESPN schedule instead of the league scoreboard; use when the league feed is a subset, e.g. NCAA Top 25). 'title_round': true appends ESPN's stage slug to description line 1; 'team_title' sets a team-specific description line 1 (with {team}). 'auto_teams' (API-Football only): build team feeds for every team in the fixtures, skipping teams that only played rounds containing a skip word; writes feeds/teams/<league>.json for the picker.",
   "leagues": {
     "liga-f": {
       "name": "Liga F",
@@ -525,7 +525,15 @@
       "cal_name": "Women's Champions League 2026/27 — HerFixtures",
       "cal_desc": "UEFA Women's Champions League 2026/27 fixtures. Updated automatically by HerFixtures.com",
       "team_prefix": "womens_ucl_",
-      "teams": {}
+      "teams": {},
+      "auto_teams": {
+        "skip_rounds_containing": [
+          "Qualifying"
+        ]
+      },
+      "team_prodid": "-//HerFixtures//UCL Women 2026-27 {team}//EN",
+      "team_cal_name": "{team} — Women's Champions League 2026/27 — HerFixtures",
+      "team_cal_desc": "{team} in the UEFA Women's Champions League 2026/27. Updated automatically by HerFixtures.com"
     },
     "nwsl": {
       "name": "NWSL",

@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//UCL Women 2026-27 Real Madrid//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Real Madrid in the UEFA Women's Champions League 2026/27. Upd
+ ated automatically by HerFixtures.com
+X-WR-CALNAME:Real Madrid — Women's Champions League 2026/27 — HerFixtu
+ res
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Real Madrid vs Ajax (2–1)
+DTSTART:20260902T180000Z
+DTEND:20260902T200000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1623475@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · 3rd Qualifying Round\nReal
+  Madrid vs Ajax\nStatus: Match Finished\nVenue: Estadio Alfredo di Stefano
+ \, Madrid\n\nFixtures by HerFixtures.com — Women's Sports on Your Calend
+ ar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Real Madrid vs Paris Saint-Germain (1–1)
+DTSTART:20260922T190000Z
+DTEND:20260922T210000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638331@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 1\nReal Mad
+ rid vs Paris Saint-Germain\nStatus: Match Finished\nVenue: Ciudad Real Mad
+ rid\, Madrid\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Manchester City vs Real Madrid (1–1)
+DTSTART:20261001T190000Z
+DTEND:20261001T210000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638321@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 2\nManchest
+ er City vs Real Madrid\nStatus: Match Finished\nVenue: Manchester Regional
+  Arena\, Manchester\n\nFixtures by HerFixtures.com — Women's Sports on Y
+ our Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Bayern Munich vs Real Madrid (2–2)
+DTSTART:20261028T174500Z
+DTEND:20261028T194500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638299@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 3\nBayern M
+ unich vs Real Madrid\nStatus: Match Finished\nVenue: FC Bayern Campus\, Mu
+ nich\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Real Madrid vs Paris FC (3–0)
+DTSTART:20261110T174500Z
+DTEND:20261110T194500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638332@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 4\nReal Mad
+ rid vs Paris FC\nStatus: Match Finished\nVenue: Ciudad Real Madrid\, Madri
+ d\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Real Madrid vs Internazionale (3–1)
+DTSTART:20261118T174500Z
+DTEND:20261118T194500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638333@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 5\nReal Mad
+ rid vs Internazionale\nStatus: Match Finished\nVenue: Ciudad Real Madrid\,
+  Madrid\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Roma vs Real Madrid
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638290@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 6\nRoma vs 
+ Real Madrid\nStatus: Not Started\nVenue: Stadio Tre Fontane\, Rome\n\nFixt
+ ures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+END:VCALENDAR

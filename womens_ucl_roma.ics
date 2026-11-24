@@ -1,0 +1,78 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//UCL Women 2026-27 Roma//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Roma in the UEFA Women's Champions League 2026/27. Updated au
+ tomatically by HerFixtures.com
+X-WR-CALNAME:Roma — Women's Champions League 2026/27 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ OH Leuven vs Roma (0–0)
+DTSTART:20260923T164500Z
+DTEND:20260923T184500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638317@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 1\nOH Leuve
+ n vs Roma\nStatus: Match Finished\nVenue: Gemeentelijk Sportstadion\, Leuv
+ en\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Roma vs Barcelona (0–6)
+DTSTART:20260930T164500Z
+DTEND:20260930T184500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638289@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 2\nRoma vs 
+ Barcelona\nStatus: Match Finished\nVenue: Stadio Tre Fontane\, Rome\n\nFix
+ tures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Chelsea vs Roma (2–0)
+DTSTART:20261028T174500Z
+DTEND:20261028T194500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638302@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 3\nChelsea 
+ vs Roma\nStatus: Match Finished\nVenue: Wheatsheaf Park\, Staines\n\nFixtu
+ res by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Roma vs Servette (2–1)
+DTSTART:20261110T200000Z
+DTEND:20261110T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638291@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 4\nRoma vs 
+ Servette\nStatus: Match Finished\nVenue: Stadio Tre Fontane\, Rome\n\nFixt
+ ures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Benfica vs Roma (2–3)
+DTSTART:20261119T200000Z
+DTEND:20261119T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638338@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 5\nBenfica 
+ vs Roma\nStatus: Match Finished\nVenue: Estadio da Tapadinha\, Lisbon\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Roma vs Real Madrid
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638290@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 6\nRoma vs 
+ Real Madrid\nStatus: Not Started\nVenue: Stadio Tre Fontane\, Rome\n\nFixt
+ ures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,79 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//UCL Women 2026-27 OL Lyonnes//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:OL Lyonnes in the UEFA Women's Champions League 2026/27. Upda
+ ted automatically by HerFixtures.com
+X-WR-CALNAME:OL Lyonnes — Women's Champions League 2026/27 — HerFixtur
+ es
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Servette vs OL Lyonnes (0–8)
+DTSTART:20260923T164500Z
+DTEND:20260923T184500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638334@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 1\nServette
+  vs OL Lyonnes\nStatus: Match Finished\nVenue: Stade de Geneve\, Geneva\n\
+ nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ OL Lyonnes vs Chelsea (0–0)
+DTSTART:20260930T190000Z
+DTEND:20260930T210000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638322@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 2\nOL Lyonn
+ es vs Chelsea\nStatus: Match Finished\nVenue: Groupama Stadium\, Lyon\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ OL Lyonnes vs Internazionale (6–0)
+DTSTART:20261028T200000Z
+DTEND:20261028T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638324@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 3\nOL Lyonn
+ es vs Internazionale\nStatus: Match Finished\nVenue: Groupama Stadium\, Ly
+ on\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus vs OL Lyonnes (0–6)
+DTSTART:20261111T200000Z
+DTEND:20261111T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638311@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 4\nJuventus
+  vs OL Lyonnes\nStatus: Match Finished\nVenue: Stadio Pozzi Lamarmora\, Bi
+ ella\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Arsenal vs OL Lyonnes (0–2)
+DTSTART:20261119T200000Z
+DTEND:20261119T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638286@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 5\nArsenal 
+ vs OL Lyonnes\nStatus: Match Finished\nVenue: Meadow Park\, Borehamwood\n\
+ nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ OL Lyonnes vs BK Häcken
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638323@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 6\nOL Lyonn
+ es vs BK Häcken\nStatus: Not Started\nVenue: Parc Olympique Lyonnais\, Ly
+ on\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+END:VCALENDAR

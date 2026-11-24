@@ -1,0 +1,79 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//UCL Women 2026-27 Barcelona//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Barcelona in the UEFA Women's Champions League 2026/27. Updat
+ ed automatically by HerFixtures.com
+X-WR-CALNAME:Barcelona — Women's Champions League 2026/27 — HerFixture
+ s
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Barcelona vs Paris FC (5–2)
+DTSTART:20260923T190000Z
+DTEND:20260923T210000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638296@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 1\nBarcelon
+ a vs Paris FC\nStatus: Match Finished\nVenue: Spotify Camp Nou\, Barcelona
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Roma vs Barcelona (0–6)
+DTSTART:20260930T164500Z
+DTEND:20260930T184500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638289@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 2\nRoma vs 
+ Barcelona\nStatus: Match Finished\nVenue: Stadio Tre Fontane\, Rome\n\nFix
+ tures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ HB Køge vs Barcelona (0–8)
+DTSTART:20261029T200000Z
+DTEND:20261029T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638313@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 3\nHB Køge
+  vs Barcelona\nStatus: Match Finished\nVenue: Capelli Sport Stadion\, Koeg
+ e\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Barcelona vs Arsenal (1–1)
+DTSTART:20261112T174500Z
+DTEND:20261112T194500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638295@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 4\nBarcelon
+ a vs Arsenal\nStatus: Match Finished\nVenue: Spotify Camp Nou\, Barcelona\
+ n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Barcelona vs Servette (6–0)
+DTSTART:20261119T200000Z
+DTEND:20261119T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638297@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 5\nBarcelon
+ a vs Servette\nStatus: Match Finished\nVenue: Spotify Camp Nou\, Barcelona
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Bayern Munich vs Barcelona
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638298@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 6\nBayern M
+ unich vs Barcelona\nStatus: Not Started\nVenue: FC Bayern Campus\, Munich\
+ n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//UCL Women 2026-27 OH Leuven//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:OH Leuven in the UEFA Women's Champions League 2026/27. Updat
+ ed automatically by HerFixtures.com
+X-WR-CALNAME:OH Leuven — Women's Champions League 2026/27 — HerFixture
+ s
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ OH Leuven vs Czarni Sosnowiec (2–1)
+DTSTART:20260902T180000Z
+DTEND:20260902T200000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1623474@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · 3rd Qualifying Round\nOH L
+ euven vs Czarni Sosnowiec\nStatus: Match Finished\nVenue: The King Power A
+ T Den Dreef Stadium\, Heverlee\n\nFixtures by HerFixtures.com — Women's 
+ Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ OH Leuven vs Roma (0–0)
+DTSTART:20260923T164500Z
+DTEND:20260923T184500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638317@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 1\nOH Leuve
+ n vs Roma\nStatus: Match Finished\nVenue: Gemeentelijk Sportstadion\, Leuv
+ en\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Paris Saint-Germain vs OH Leuven (5–0)
+DTSTART:20261001T190000Z
+DTEND:20261001T210000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638330@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 2\nParis Sa
+ int-Germain vs OH Leuven\nStatus: Match Finished\nVenue: Campus PSG\, Pois
+ sy\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Servette vs OH Leuven (5–1)
+DTSTART:20261028T174500Z
+DTEND:20261028T194500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638335@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 3\nServette
+  vs OH Leuven\nStatus: Match Finished\nVenue: Stade de Geneve\, Geneva\n\n
+ Fixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ OH Leuven vs HB Køge (1–1)
+DTSTART:20261111T174500Z
+DTEND:20261111T194500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638318@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 4\nOH Leuve
+ n vs HB Køge\nStatus: Match Finished\nVenue: Gemeentelijk Sportstadion\, 
+ Leuven\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus vs OH Leuven (2–0)
+DTSTART:20261118T200000Z
+DTEND:20261118T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638312@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 5\nJuventus
+  vs OH Leuven\nStatus: Match Finished\nVenue: Juventus Center\, Turin\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ OH Leuven vs Chelsea
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638316@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 6\nOH Leuve
+ n vs Chelsea\nStatus: Not Started\n\nFixtures by HerFixtures.com — Women
+ 's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+END:VCALENDAR

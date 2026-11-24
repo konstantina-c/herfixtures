@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//UCL Women 2026-27 HB Køge//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:HB Køge in the UEFA Women's Champions League 2026/27. Update
+ d automatically by HerFixtures.com
+X-WR-CALNAME:HB Køge — Women's Champions League 2026/27 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ HB Køge vs PSV (1–1)
+DTSTART:20260902T170000Z
+DTEND:20260902T190000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1623473@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · 3rd Qualifying Round\nHB K
+ øge vs PSV\nStatus: Match Finished\nVenue: Koge Stadion\, Koge\n\nFixture
+ s by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Arsenal vs HB Køge (1–0)
+DTSTART:20260922T190000Z
+DTEND:20260922T210000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638288@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 1\nArsenal 
+ vs HB Køge\nStatus: Match Finished\nVenue: Meadow Park\, Borehamwood\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ HB Køge vs Servette (5–1)
+DTSTART:20261001T164500Z
+DTEND:20261001T184500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638315@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 2\nHB Køge
+  vs Servette\nStatus: Match Finished\nVenue: Capelli Sport Stadion\, Koege
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ HB Køge vs Barcelona (0–8)
+DTSTART:20261029T200000Z
+DTEND:20261029T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638313@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 3\nHB Køge
+  vs Barcelona\nStatus: Match Finished\nVenue: Capelli Sport Stadion\, Koeg
+ e\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ OH Leuven vs HB Køge (1–1)
+DTSTART:20261111T174500Z
+DTEND:20261111T194500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638318@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 4\nOH Leuve
+ n vs HB Køge\nStatus: Match Finished\nVenue: Gemeentelijk Sportstadion\, 
+ Leuven\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Paris FC vs HB Køge (2–1)
+DTSTART:20261119T174500Z
+DTEND:20261119T194500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638327@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 5\nParis FC
+  vs HB Køge\nStatus: Match Finished\nVenue: Stade Jean-Bouin\, Paris\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ HB Køge vs Benfica
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638314@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 6\nHB Køge
+  vs Benfica\nStatus: Not Started\n\nFixtures by HerFixtures.com — Women'
+ s Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//UCL Women 2026-27 Servette//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Servette in the UEFA Women's Champions League 2026/27. Update
+ d automatically by HerFixtures.com
+X-WR-CALNAME:Servette — Women's Champions League 2026/27 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Servette vs Sparta Praha (3–0)
+DTSTART:20260902T164500Z
+DTEND:20260902T184500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1623472@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · 3rd Qualifying Round\nServ
+ ette vs Sparta Praha\nStatus: Match Finished\nVenue: Stade de Genève\, Ge
+ neva\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Servette vs OL Lyonnes (0–8)
+DTSTART:20260923T164500Z
+DTEND:20260923T184500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638334@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 1\nServette
+  vs OL Lyonnes\nStatus: Match Finished\nVenue: Stade de Geneve\, Geneva\n\
+ nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ HB Køge vs Servette (5–1)
+DTSTART:20261001T164500Z
+DTEND:20261001T184500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638315@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 2\nHB Køge
+  vs Servette\nStatus: Match Finished\nVenue: Capelli Sport Stadion\, Koege
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Servette vs OH Leuven (5–1)
+DTSTART:20261028T174500Z
+DTEND:20261028T194500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638335@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 3\nServette
+  vs OH Leuven\nStatus: Match Finished\nVenue: Stade de Geneve\, Geneva\n\n
+ Fixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Roma vs Servette (2–1)
+DTSTART:20261110T200000Z
+DTEND:20261110T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638291@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 4\nRoma vs 
+ Servette\nStatus: Match Finished\nVenue: Stadio Tre Fontane\, Rome\n\nFixt
+ ures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Barcelona vs Servette (6–0)
+DTSTART:20261119T200000Z
+DTEND:20261119T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638297@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 5\nBarcelon
+ a vs Servette\nStatus: Match Finished\nVenue: Spotify Camp Nou\, Barcelona
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Servette vs Paris FC
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638336@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 6\nServette
+  vs Paris FC\nStatus: Not Started\nVenue: Stade de la Fontenette\, Carouge
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+END:VCALENDAR

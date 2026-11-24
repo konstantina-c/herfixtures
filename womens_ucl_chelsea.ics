@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//UCL Women 2026-27 Chelsea//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Chelsea in the UEFA Women's Champions League 2026/27. Updated
+  automatically by HerFixtures.com
+X-WR-CALNAME:Chelsea — Women's Champions League 2026/27 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Real Sociedad vs Chelsea (0–1)
+DTSTART:20260902T170000Z
+DTEND:20260902T190000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1623469@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · 3rd Qualifying Round\nReal
+  Sociedad vs Chelsea\nStatus: Match Finished\nVenue: Instalaciones de Zubi
+ eta\, San Sebastian\n\nFixtures by HerFixtures.com — Women's Sports on Y
+ our Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Chelsea vs Austria Vienna (1–0)
+DTSTART:20260923T190000Z
+DTEND:20260923T210000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638303@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 1\nChelsea 
+ vs Austria Vienna\nStatus: Match Finished\nVenue: Wheatsheaf Park\, Staine
+ s\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ OL Lyonnes vs Chelsea (0–0)
+DTSTART:20260930T190000Z
+DTEND:20260930T210000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638322@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 2\nOL Lyonn
+ es vs Chelsea\nStatus: Match Finished\nVenue: Groupama Stadium\, Lyon\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Chelsea vs Roma (2–0)
+DTSTART:20261028T174500Z
+DTEND:20261028T194500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638302@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 3\nChelsea 
+ vs Roma\nStatus: Match Finished\nVenue: Wheatsheaf Park\, Staines\n\nFixtu
+ res by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ BK Häcken vs Chelsea (0–0)
+DTSTART:20261110T174500Z
+DTEND:20261110T194500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638304@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 4\nBK Häck
+ en vs Chelsea\nStatus: Match Finished\nVenue: Nordic Wellness Arena\, Goth
+ enburg\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Chelsea vs Paris Saint-Germain (1–0)
+DTSTART:20261118T200000Z
+DTEND:20261118T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638301@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 5\nChelsea 
+ vs Paris Saint-Germain\nStatus: Match Finished\nVenue: Wheatsheaf Park\, S
+ taines\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ OH Leuven vs Chelsea
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638316@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 6\nOH Leuve
+ n vs Chelsea\nStatus: Not Started\n\nFixtures by HerFixtures.com — Women
+ 's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+END:VCALENDAR

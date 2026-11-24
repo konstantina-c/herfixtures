@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//UCL Women 2026-27 Manchester City//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Manchester City in the UEFA Women's Champions League 2026/27.
+  Updated automatically by HerFixtures.com
+X-WR-CALNAME:Manchester City — Women's Champions League 2026/27 — HerF
+ ixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Bayern Munich vs Manchester City (2–2)
+DTSTART:20260922T164500Z
+DTEND:20260922T184500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638300@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 1\nBayern M
+ unich vs Manchester City\nStatus: Match Finished\nVenue: FC Bayern Campus\
+ , Munich\n\nFixtures by HerFixtures.com — Women's Sports on Your Calenda
+ r
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Manchester City vs Real Madrid (1–1)
+DTSTART:20261001T190000Z
+DTEND:20261001T210000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638321@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 2\nManchest
+ er City vs Real Madrid\nStatus: Match Finished\nVenue: Manchester Regional
+  Arena\, Manchester\n\nFixtures by HerFixtures.com — Women's Sports on Y
+ our Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Manchester City vs Paris Saint-Germain (1–1)
+DTSTART:20261029T200000Z
+DTEND:20261029T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638319@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 3\nManchest
+ er City vs Paris Saint-Germain\nStatus: Match Finished\nVenue: Manchester 
+ Regional Arena\, Manchester\n\nFixtures by HerFixtures.com — Women's Spo
+ rts on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Internazionale vs Manchester City (1–4)
+DTSTART:20261110T200000Z
+DTEND:20261110T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638308@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 4\nInternaz
+ ionale vs Manchester City\nStatus: Match Finished\nVenue: Felice Chinetti 
+ Stadium\, Varese\n\nFixtures by HerFixtures.com — Women's Sports on Your
+  Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ BK Häcken vs Manchester City (0–2)
+DTSTART:20261118T174500Z
+DTEND:20261118T194500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638306@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 5\nBK Häck
+ en vs Manchester City\nStatus: Match Finished\nVenue: Nordic Wellness Aren
+ a\, Gothenburg\n\nFixtures by HerFixtures.com — Women's Sports on Your C
+ alendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Manchester City vs Austria Vienna
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638320@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 6\nManchest
+ er City vs Austria Vienna\nStatus: Not Started\nVenue: Academy Stadium\, M
+ anchester\n\nFixtures by HerFixtures.com — Women's Sports on Your Calend
+ ar
+URL:https://herfixtures.com
+END:VEVENT
+END:VCALENDAR

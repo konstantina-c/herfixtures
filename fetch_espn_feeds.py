@@ -291,6 +291,36 @@ def run_league(lid: str, league: dict, out_dir: Path, today: date) -> bool:
     return ok
 
 
+def slugify(name: str) -> str:
+    """'Paris Saint-Germain' -> 'paris_saint_germain', 'HB Køge' -> 'hb_koge'."""
+    import re
+    import unicodedata
+    n = unicodedata.normalize("NFKD", name.replace("ø", "o").replace("Ø", "O")).encode("ascii", "ignore").decode()
+    return re.sub(r"[^a-z0-9]+", "_", n.lower()).strip("_")
+
+
+def auto_teams(lid: str, league: dict, fixtures: list[dict], out_dir: Path) -> dict:
+    """Team list derived from the fixtures (league["auto_teams"]), for competitions whose
+    field changes every season (UCL). Skips teams that only played rounds whose name
+    contains a skip word (e.g. "Qualifying"), and writes feeds/teams/<league>.json
+    (id, name, slug, crest) for the homepage picker."""
+    rule = league["auto_teams"]
+    skip = [w.lower() for w in rule.get("skip_rounds_containing", [])]
+    found = {}
+    for fx in fixtures:
+        if any(w in fx["league"].get("round", "").lower() for w in skip):
+            continue
+        for side in ("home", "away"):
+            t = fx["teams"][side]
+            name = apifootball.team_name(t, league)
+            found[str(t["id"])] = {"id": str(t["id"]), "name": name, "slug": slugify(name), "logo": t.get("logo", "")}
+    teams = sorted(found.values(), key=lambda t: t["name"])
+    path = out_dir / "feeds" / "teams" / f"{lid}.json"
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(teams, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+    return {t["id"]: [t["name"], t["slug"]] for t in teams}
+
+
 def run_api_football(lid: str, league: dict, out_dir: Path, main_file: Path, full: bool, cutoff: date) -> bool:
     """Same output as the ESPN path, from API-Football (see apifootball.py)."""
     af = league["api_football"]
@@ -300,9 +330,11 @@ def run_api_football(lid: str, league: dict, out_dir: Path, main_file: Path, ful
         print(f"  ⚠️  {e} — keeping existing {league['name']} feeds")
         return False
     now = datetime.now(timezone.utc)
-    fixtures = [fx for fx in fixtures if datetime.fromisoformat(fx["fixture"]["date"]).date() >= cutoff]
-    placeholders = apifootball.placeholder_ids(fixtures, now, af.get("uniform_min", 4))
-    games = [g for g in (apifootball.parse(fx, league, placeholders) for fx in fixtures) if g]
+    season_start = date.fromisoformat(league["season"]["start"])
+    in_season = [fx for fx in fixtures if datetime.fromisoformat(fx["fixture"]["date"]).date() >= season_start]
+    placeholders = apifootball.placeholder_ids(in_season, now, af.get("uniform_min", 4))
+    all_games = [g for g in (apifootball.parse(fx, league, placeholders) for fx in in_season) if g]
+    games = [g for g in all_games if g["start"].date() >= cutoff]
     kept = [] if full else kept_past_events(main_file, cutoff)
     cal = build_calendar(league["prodid"], league["cal_name"], league["cal_desc"], kept, games, now)
     total = len(cal.walk("VEVENT"))
@@ -312,15 +344,18 @@ def run_api_football(lid: str, league: dict, out_dir: Path, main_file: Path, ful
         return False
     ok = safe_write_ics(main_file, cal.to_ical())
     write_strip_teams(lid, games, out_dir, datetime.now(timezone.utc).date())
-    for team_id, (team, slug) in league.get("teams", {}).items():
+    teams = auto_teams(lid, league, in_season, out_dir) if league.get("auto_teams") else league.get("teams", {})
+    for team_id, (team, slug) in teams.items():
         path = out_dir / f"{league['team_prefix']}{slug}.ics"
-        t_games = [g for g in games if team_id in g["team_ids"]]
-        t_kept = [] if full else kept_past_events(path, cutoff)
+        # A new team file gets the whole season; an existing one reuses its older games.
+        new_file = full or not path.exists()
+        t_games = [g for g in (all_games if new_file else games) if team_id in g["team_ids"]]
+        t_kept = [] if new_file else kept_past_events(path, cutoff)
         fmt = lambda s: s.format(team=team)
         t_cal = build_calendar(fmt(league["team_prodid"]), fmt(league["team_cal_name"]), fmt(league["team_cal_desc"]), t_kept, t_games, now)
         safe_write_ics(path, t_cal.to_ical())
-    if league.get("teams"):
-        print(f"  → {len(league['teams'])} team feeds")
+    if teams:
+        print(f"  → {len(teams)} team feeds")
     return ok
 
 

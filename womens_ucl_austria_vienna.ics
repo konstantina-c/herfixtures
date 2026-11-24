@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//UCL Women 2026-27 Austria Vienna//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Austria Vienna in the UEFA Women's Champions League 2026/27. 
+ Updated automatically by HerFixtures.com
+X-WR-CALNAME:Austria Vienna — Women's Champions League 2026/27 — HerFi
+ xtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Austria Vienna vs Brann (4–0)
+DTSTART:20260901T160000Z
+DTEND:20260901T180000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1623468@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · 3rd Qualifying Round\nAust
+ ria Vienna vs Brann\nStatus: Match Finished\nVenue: Franz Horr Stadium\, V
+ ienna\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Chelsea vs Austria Vienna (1–0)
+DTSTART:20260923T190000Z
+DTEND:20260923T210000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638303@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 1\nChelsea 
+ vs Austria Vienna\nStatus: Match Finished\nVenue: Wheatsheaf Park\, Staine
+ s\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Austria Vienna vs Internazionale (1–1)
+DTSTART:20261001T164500Z
+DTEND:20261001T184500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638293@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 2\nAustria 
+ Vienna vs Internazionale\nStatus: Match Finished\nVenue: Sportplatz Jochbe
+ rgengasse\, Vienna\n\nFixtures by HerFixtures.com — Women's Sports on Yo
+ ur Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Austria Vienna vs Juventus (1–4)
+DTSTART:20261029T174500Z
+DTEND:20261029T194500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638294@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 3\nAustria 
+ Vienna vs Juventus\nStatus: Match Finished\nVenue: Sportplatz Jochbergenga
+ sse\, Vienna\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Benfica vs Austria Vienna (3–1)
+DTSTART:20261112T200000Z
+DTEND:20261112T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638339@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 4\nBenfica 
+ vs Austria Vienna\nStatus: Match Finished\nVenue: Estadio da Tapadinha\, L
+ isbon\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Austria Vienna vs Bayern Munich (0–4)
+DTSTART:20261119T174500Z
+DTEND:20261119T194500Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638292@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 5\nAustria 
+ Vienna vs Bayern Munich\nStatus: Match Finished\nVenue: Sportplatz Jochber
+ gengasse\, Vienna\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Manchester City vs Austria Vienna
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
+DTSTAMP:20261124T171340Z
+UID:af-ucl-women-1638320@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 6\nManchest
+ er City vs Austria Vienna\nStatus: Not Started\nVenue: Academy Stadium\, M
+ anchester\n\nFixtures by HerFixtures.com — Women's Sports on Your Calend
+ ar
+URL:https://herfixtures.com
+END:VEVENT
+END:VCALENDAR
