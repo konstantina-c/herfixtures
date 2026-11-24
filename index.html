@@ -1965,15 +1965,27 @@ const FRAUEN_BL_CONFIG = {
 };
 
 // UCL Women has no team feeds — one league-wide feed (womens_ucl.ics).
+// UCL Women: "All matches" + one calendar per club. The club list (names, crests) comes
+// from /feeds/teams/ucl-women.json, written by the feed engine from API-Football each
+// refresh, so next season's clubs appear without editing this page. If it fails to
+// load, the picker still offers "All matches".
 const UCL_CONFIG = {
   leagueSlug:  'womens_ucl',
   gaLabel:     'UCL Women',
   title:       "Women's Champions League",
-  sub:         'All 2026/27 matches in one calendar feed.',
+  sub:         'Pick your club, or every match. Each adds a separate feed to your calendar.',
   teams: [
     { name: "All matches", slug: "womens_ucl", emoji: "⚽" },
   ],
 };
+fetch('/feeds/teams/ucl-women.json', { cache: 'no-cache' })
+  .then(r => (r.ok ? r.json() : []))
+  .then(list => {
+    if (!Array.isArray(list) || !list.length) return;
+    UCL_CONFIG.teams = [UCL_CONFIG.teams[0]].concat(
+      list.map(t => ({ name: t.name, slug: 'womens_ucl_' + t.slug, logo: t.logo })));
+  })
+  .catch(() => {});
 
 // EuroLeague Women has no team feeds — one league-wide feed (euroleague_women.ics).
 const EUROLEAGUE_W_CONFIG = {
