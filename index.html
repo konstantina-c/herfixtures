@@ -1332,6 +1332,24 @@ body {
           </div>
         </div>
 
+        <!-- 2f. Eredivisie Women (Netherlands) — badge from feed_status.json (feed id "eredivisie-women") -->
+        <div class="feed-card" data-sport="football">
+          <div class="feed-header">
+            <div class="feed-icon">⚽</div>
+            <div class="feed-info">
+              <div class="feed-badge badge-live" data-feed="eredivisie-women">Season in progress</div>
+              <div class="feed-name">Eredivisie Women</div>
+              <div class="feed-meta">Football · Netherlands · 2026/27 season</div>
+            </div>
+          </div>
+          <div class="feed-divider"></div>
+          <div class="feed-actions">
+            <button class="btn-cal btn-choose-team" onclick="openEredivisieWomenModal()" aria-haspopup="dialog">
+              Add to Calendar
+            </button>
+          </div>
+        </div>
+
         <!-- 3. FIBA Women's Basketball World Cup 2026 — tournament complete (final 13 Sep 2026) -->
         <div class="feed-card" data-sport="basketball">
           <div class="feed-header">
@@ -1975,6 +1993,25 @@ const WSL_CONFIG = {
   ],
 };
 
+// Eredivisie Women (Netherlands): feed from api-football; logos are the clubs' ESPN crests.
+const EREDIVISIE_WOMEN_CONFIG = {
+  leagueSlug:  'eredivisie_women',
+  gaLabel:     'Eredivisie Women',
+  teams: [
+    { name: "All teams",      slug: "eredivisie_women",               emoji: "🇳🇱" },
+    { name: "ADO Den Haag",  slug: "eredivisie_women_ado_den_haag", logo: "https://a.espncdn.com/i/teamlogos/soccer/500/2726.png" },
+    { name: "Ajax",          slug: "eredivisie_women_ajax",         logo: "https://a.espncdn.com/i/teamlogos/soccer/500/139.png" },
+    { name: "AZ",            slug: "eredivisie_women_az",           logo: "https://a.espncdn.com/i/teamlogos/soccer/500/140.png" },
+    { name: "De Graafschap", slug: "eredivisie_women_de_graafschap",logo: "https://a.espncdn.com/i/teamlogos/soccer/500/144.png" },
+    { name: "FC Twente",     slug: "eredivisie_women_twente",       logo: "https://a.espncdn.com/i/teamlogos/soccer/500/152.png" },
+    { name: "FC Utrecht",    slug: "eredivisie_women_utrecht",      logo: "https://a.espncdn.com/i/teamlogos/soccer/500/153.png" },
+    { name: "Feyenoord",     slug: "eredivisie_women_feyenoord",    logo: "https://a.espncdn.com/i/teamlogos/soccer/500/142.png" },
+    { name: "Heerenveen",    slug: "eredivisie_women_heerenveen",   logo: "https://a.espncdn.com/i/teamlogos/soccer/500/146.png" },
+    { name: "PEC Zwolle",    slug: "eredivisie_women_pec_zwolle",   logo: "https://a.espncdn.com/i/teamlogos/soccer/500/2565.png" },
+    { name: "PSV",           slug: "eredivisie_women_psv",          logo: "https://a.espncdn.com/i/teamlogos/soccer/500/148.png" },
+  ]
+};
+
 const PREMIERE_LIGUE_CONFIG = {
   leagueSlug:  'premiere_ligue',
   gaLabel:     'Premiere Ligue',
@@ -2280,6 +2317,7 @@ function openWSLModal()      { FeedModal.open(WSL_CONFIG);       }
 function openPremiereLigueModal() { FeedModal.open(PREMIERE_LIGUE_CONFIG); }
 function openALeagueWomenModal()  { FeedModal.open(A_LEAGUE_WOMEN_CONFIG); }
 function openLigaMXFemenilModal() { FeedModal.open(LIGA_MX_FEMENIL_CONFIG); }
+function openEredivisieWomenModal() { FeedModal.open(EREDIVISIE_WOMEN_CONFIG); }
 function openNCAAWBBModal()       { FeedModal.open(NCAA_WBB_CONFIG); }
 function openFrauenBLModal() { FeedModal.open(FRAUEN_BL_CONFIG); }
 function openFIBAModal()     { FeedModal.open(FIBA_CONFIG);      }
