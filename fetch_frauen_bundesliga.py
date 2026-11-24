@@ -13,13 +13,22 @@ DFB itself only publishes a date window for them. Unfinished games at exactly
 Sunday 15:30 Berlin become all-day "(time TBC)" events, the same convention
 as the ESPN engine (timeValid=false). The UID is unchanged, so they turn into
 timed events automatically once OpenLigaDB gets the confirmed kick-off.
+
+Corrections: feeds/frauen_bl_overrides.json holds hand-checked DFB kick-offs
+for games OpenLigaDB has wrong. They are applied in fetch_matches(), so the
+team feeds get them too. A correction is skipped (with a warning) once
+OpenLigaDB edits that game again, and reported as removable once OpenLigaDB
+agrees with it.
 Venue: API location field where present; static home-stadium lookup otherwise.
 Attribution: openligadb.de (ODbL) added to every event description.
 """
 
+import json
+import os
 import requests
 from datetime import datetime, time, timezone, timedelta
 from zoneinfo import ZoneInfo
+from pathlib import Path
 from icalendar import Calendar, Event
 
 from espn_common import safe_write_ics  # shrink guard: never overwrite a feed with <50% of its events
@@ -27,6 +36,8 @@ from espn_common import safe_write_ics  # shrink guard: never overwrite a feed w
 API_URL     = "https://api.openligadb.de/getmatchdata/ffb1/2026"
 OUTPUT_FILE = "frauen_bundesliga.ics"
 HEADERS     = {"User-Agent": "HerFixtures/1.0"}
+
+OVERRIDES_FILE = Path(__file__).resolve().parent / "feeds" / "frauen_bl_overrides.json"
 
 BERLIN              = ZoneInfo("Europe/Berlin")
 PLACEHOLDER_WEEKDAY = 6            # Sunday
@@ -51,14 +62,50 @@ HOME_STADIUMS = {
 }
 
 
+def warn(msg):
+    print(f"::warning title=Frauen-BL correction::{msg}" if os.environ.get("GITHUB_ACTIONS") else f"  ⚠️  {msg}")
+
+
+def load_overrides(path=OVERRIDES_FILE):
+    if not path.exists():
+        return {}
+    return {int(o["match_id"]): o for o in json.loads(path.read_text(encoding="utf-8"))["overrides"]}
+
+
+def apply_overrides(matches, overrides):
+    """Replace OpenLigaDB kick-offs with hand-checked DFB ones (see module docstring)."""
+    by_id = {m.get("matchID"): m for m in matches}
+    for mid, o in overrides.items():
+        m = by_id.get(mid)
+        if m is None:
+            warn(f"correction for match {mid} ({o['game']}): game not in OpenLigaDB data, nothing applied")
+            continue
+        local = datetime.fromisoformat(o["kickoff_local"]).replace(tzinfo=BERLIN)
+        utc   = local.astimezone(timezone.utc)
+        if m.get("matchDateTimeUTC", "").rstrip("Z") == utc.strftime("%Y-%m-%dT%H:%M:%S"):
+            print(f"  ✓ correction for match {mid} no longer needed: OpenLigaDB agrees (delete it from {OVERRIDES_FILE.name})")
+            continue
+        if m.get("matchIsFinished"):
+            continue
+        if (m.get("lastUpdateDateTime") or "") != o["openligadb_last_update"]:
+            warn(f"correction for match {mid} ({o['game']}) NOT applied: OpenLigaDB changed the game since the correction "
+                 f"(now {m.get('matchDateTime')}, updated {m.get('lastUpdateDateTime')}). Re-check with the DFB and update or delete it in {OVERRIDES_FILE.name}")
+            continue
+        m["matchDateTime"]    = local.strftime("%Y-%m-%dT%H:%M:%S")
+        m["matchDateTimeUTC"] = utc.strftime("%Y-%m-%dT%H:%M:%SZ")
+        print(f"  ✎ correction applied: match {mid} → {o['kickoff_local']} Berlin ({o['source']})")
+    return matches
+
+
 def fetch_matches():
     try:
         r = requests.get(API_URL, headers=HEADERS, timeout=20)
         r.raise_for_status()
-        return r.json()
+        matches = r.json()
     except requests.exceptions.RequestException as e:
         print(f"  ⚠️  OpenLigaDB fetch error, skipping: {e}")
         return []
+    return apply_overrides(matches, load_overrides())
 
 
 def get_venue(match):
