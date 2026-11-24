@@ -26,7 +26,7 @@ else the .ics name with no crest.
 
 Output (version 2):
   {"updated", "version": 2, "rules": {...},
-   "leagues": [{"id", "name", "sport", "results": [game], "upcoming": [game]}],
+   "leagues": [{"id", "name" (dropdown), "short" (cards), "sport", "results": [game], "upcoming": [game]}],
    "competitions": {"all": {... legacy shape for the pre-dropdown page ...}}}
   game = {"kickoff": ISO-UTC | null, "date": "YYYY-MM-DD", "tbc": bool,
           "top": {"name", "logo", "score"?}, "bottom": {...}, "winner": "top"|"bottom"|"draw"|null}
@@ -147,7 +147,8 @@ def league_games(feed: dict, cfg: dict, now: datetime) -> dict | None:
     results.sort(key=lambda x: (x["kickoff"] or x["date"]), reverse=True)
     upcoming.sort(key=lambda x: (x["date"], x["tbc"], x["kickoff"] or ""))
     n = RULES["per_league_max"]
-    return {"id": feed["id"], "name": cfg.get("labels", {}).get(feed["id"], feed["name"]),
+    name = cfg.get("labels", {}).get(feed["id"], feed["name"])
+    return {"id": feed["id"], "name": name, "short": cfg.get("short", {}).get(feed["id"], name),
             "sport": sport or "football", "results": results[:n], "upcoming": upcoming[:n]}
 
 
@@ -156,10 +157,10 @@ def all_mix(leagues: list[dict], now: datetime) -> tuple[list, list]:
     res, up = [], []
     u_to = (now + timedelta(days=RULES["all_upcoming_days"]))
     for lg in leagues:
-        res += [dict(g, league=lg["name"]) for g in lg["results"][: RULES["all_results_per_league"]]]
+        res += [dict(g, league=lg["short"]) for g in lg["results"][: RULES["all_results_per_league"]]]
         soon = [g for g in lg["upcoming"] if g["date"] <= u_to.date().isoformat()
                 and (g["tbc"] or g["kickoff"] <= u_to.strftime("%Y-%m-%dT%H:%M:%SZ"))]
-        up += [dict(g, league=lg["name"]) for g in soon[: RULES["all_upcoming_per_league"]]]
+        up += [dict(g, league=lg["short"]) for g in soon[: RULES["all_upcoming_per_league"]]]
     res.sort(key=lambda x: (x["kickoff"] or x["date"]), reverse=True)
     up.sort(key=lambda x: (x["date"], x["tbc"], x["kickoff"] or ""))
     return res[: RULES["all_max"]], up[: RULES["all_max"]]

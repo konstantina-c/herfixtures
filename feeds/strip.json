@@ -1,5 +1,5 @@
 {
-  "_about": "Scores Strip settings, read by scripts/build_scores_json.py. 'order' = dropdown and fair-mix order (homepage card order); 'labels' = short competition names on strip cards; 'away_first' = competitions shown away team on top (US convention), every other competition shows the home team on top; 'teams' = short names + crests for feeds the ESPN engine does not describe (keyed by the team name in the .ics). ESPN-engine leagues get theirs from feeds/strip/<league>.json, written by fetch_espn_feeds.py. A 'teams' entry with only a 'logo' fills in a crest ESPN lacks (same club-crest substitutes as the homepage pickers), matched by .ics name or short name.",
+  "_about": "Scores Strip settings, read by scripts/build_scores_json.py. 'order' = dropdown and fair-mix order (homepage card order); 'labels' = competition names in the strip's dropdown; 'short' = competition names on strip cards; 'away_first' = competitions shown away team on top (US convention), every other competition shows the home team on top; 'teams' = short names + crests for feeds the ESPN engine does not describe (keyed by the team name in the .ics). ESPN-engine leagues get theirs from feeds/strip/<league>.json, written by fetch_espn_feeds.py. A 'teams' entry with only a 'logo' fills in a crest ESPN lacks (same club-crest substitutes as the homepage pickers), matched by .ics name or short name.",
   "order": [
     "frauen-bundesliga",
     "liga-f",
@@ -29,6 +29,21 @@
     "ucl-women": "Women's Champions League",
     "euroleague-women": "EuroLeague Women",
     "fiba-wwc-2026": "FIBA Women's World Cup"
+  },
+  "short": {
+    "frauen-bundesliga": "Frauen-BL",
+    "liga-f": "Liga F",
+    "wsl": "WSL",
+    "premiere-ligue": "Première Ligue",
+    "a-league-women": "A-League",
+    "liga-mx-femenil": "Liga MX",
+    "eredivisie-women": "Eredivisie",
+    "ncaa-wbb": "NCAA",
+    "wnba": "WNBA",
+    "nwsl": "NWSL",
+    "ucl-women": "Women's UCL",
+    "euroleague-women": "EuroLeague",
+    "fiba-wwc-2026": "FIBA WWC"
   },
   "away_first": [
     "nwsl",
