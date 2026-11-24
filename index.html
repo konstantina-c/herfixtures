@@ -834,7 +834,9 @@ body {
 /* ── DESKTOP — 1280px+ ──────────────────────────────────── */
 @media (min-width: 1280px) {
 
-  #live-page .real-topbar { padding: 24px 80px; }
+  /* Wider than 1280px: keep the top bar and Scores Strip inside the same centred
+     1280px column as the hero and cards (80px inset), so every edge lines up. */
+  #live-page .real-topbar { padding: 24px max(80px, calc((100% - 1280px) / 2 + 80px)); }
 
   #live-page .page-content { max-width: 1280px; }
 
@@ -865,7 +867,7 @@ body {
 
   #live-page .email-sub { font-size: 18px; }
 
-  #live-page .real-footer { padding: 48px 80px; }
+  #live-page .real-footer { padding: 48px max(80px, calc((100% - 1280px) / 2 + 80px)); }
 }
 
 
@@ -910,7 +912,8 @@ body {
   gap: 12px;
   margin-bottom: 16px;
 }
-.strip-head #strip-label-row { flex: 1; min-width: 0; margin-bottom: 0; }
+.strip-head #strip-label-row { flex: 1; min-width: 0; margin-bottom: 0; height: 30px; }
+.strip-head .strip-label { top: 50%; transform: translateY(-50%); }
 #strip-filter {
   flex-shrink: 0;
   max-width: 220px;
@@ -1082,12 +1085,12 @@ body {
 }
 .gc-score.loser { color: var(--muted); }
 
-/* Responsive */
+/* Responsive: same side spacing as the top bar and hero (20 / 48 / 80px) */
 @media (min-width: 768px) {
-  #scores-strip { padding: 16px 32px; }
+  #scores-strip { padding: 16px 48px; }
 }
-@media (min-width: 1024px) {
-  #scores-strip { padding: 16px 80px; }
+@media (min-width: 1280px) {
+  #scores-strip { padding: 16px max(80px, calc((100% - 1280px) / 2 + 80px)); }
 }
 
 </style>
