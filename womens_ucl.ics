@@ -10,679 +10,716 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Real Madrid vs Paris Saint-Germain (1–1)
-DTSTART:20260922T190000Z
-DTEND:20260922T210000Z
-DTSTAMP:20261116T092210Z
-UID:espn-ucl-women-401917014@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nReal Madrid 
- vs Paris Saint-Germain\nStatus: Full Time\nVenue: Alfredo Di Stéfano Stad
- ium\, Madrid\nTV: ESPN+\, Paramount+\n\nFixtures by HerFixtures.com — Wo
- men's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401917014/paris-saint-germa
- in-real-madrid
+SUMMARY:⚽ Austria Vienna vs Brann (4–0)
+DTSTART:20260901T160000Z
+DTEND:20260901T180000Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1623468@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · 3rd Qualifying Round\nAust
+ ria Vienna vs Brann\nStatus: Match Finished\nVenue: Franz Horr Stadium\, V
+ ienna\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Juventus vs Benfica (1–2)
-DTSTART:20260922T190000Z
-DTEND:20260922T210000Z
-DTSTAMP:20261116T092210Z
-UID:espn-ucl-women-401917015@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nJuventus vs 
- Benfica\nStatus: Full Time\nVenue: Allianz Stadium\, Torino\nTV: ESPN+\, P
- aramount+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calend
+SUMMARY:⚽ Real Sociedad vs Chelsea (0–1)
+DTSTART:20260902T170000Z
+DTEND:20260902T190000Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1623469@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · 3rd Qualifying Round\nReal
+  Sociedad vs Chelsea\nStatus: Match Finished\nVenue: Instalaciones de Zubi
+ eta\, San Sebastian\n\nFixtures by HerFixtures.com — Women's Sports on Y
+ our Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Internazionale vs VfL Wolfsburg (3–1)
+DTSTART:20260902T163000Z
+DTEND:20260902T183000Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1623470@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · 3rd Qualifying Round\nInte
+ rnazionale vs VfL Wolfsburg\nStatus: Match Finished\nVenue: Stadio Ernesto
+  Breda\, Sesto San Giovanni\n\nFixtures by HerFixtures.com — Women's Spo
+ rts on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Paris Saint-Germain vs Eintracht Frankfurt (5–1)
+DTSTART:20260902T163000Z
+DTEND:20260902T183000Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1623471@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · 3rd Qualifying Round\nPari
+ s Saint-Germain vs Eintracht Frankfurt\nStatus: Match Finished\nVenue: Cam
+ pus PSG\, Poissy\n\nFixtures by HerFixtures.com — Women's Sports on Your
+  Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Servette vs Sparta Praha (3–0)
+DTSTART:20260902T164500Z
+DTEND:20260902T184500Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1623472@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · 3rd Qualifying Round\nServ
+ ette vs Sparta Praha\nStatus: Match Finished\nVenue: Stade de Genève\, Ge
+ neva\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ HB Køge vs PSV (1–1)
+DTSTART:20260902T170000Z
+DTEND:20260902T190000Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1623473@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · 3rd Qualifying Round\nHB K
+ øge vs PSV\nStatus: Match Finished\nVenue: Koge Stadion\, Koge\n\nFixture
+ s by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ OH Leuven vs Czarni Sosnowiec (2–1)
+DTSTART:20260902T180000Z
+DTEND:20260902T200000Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1623474@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · 3rd Qualifying Round\nOH L
+ euven vs Czarni Sosnowiec\nStatus: Match Finished\nVenue: The King Power A
+ T Den Dreef Stadium\, Heverlee\n\nFixtures by HerFixtures.com — Women's 
+ Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Real Madrid vs Ajax (2–1)
+DTSTART:20260902T180000Z
+DTEND:20260902T200000Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1623475@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · 3rd Qualifying Round\nReal
+  Madrid vs Ajax\nStatus: Match Finished\nVenue: Estadio Alfredo di Stefano
+ \, Madrid\n\nFixtures by HerFixtures.com — Women's Sports on Your Calend
  ar
-URL:https://www.espn.com/soccer/match/_/gameId/401917015/benfica-juventus
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus vs St. Pölten (1–1)
+DTSTART:20260902T183000Z
+DTEND:20260902T203000Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1623476@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · 3rd Qualifying Round\nJuve
+ ntus vs St. Pölten\nStatus: Match Finished\nVenue: Stadio Pozzo Lamarmora
+ \, Biella\n\nFixtures by HerFixtures.com — Women's Sports on Your Calend
+ ar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Arsenal vs HB Køge (1–0)
 DTSTART:20260922T190000Z
 DTEND:20260922T210000Z
-DTSTAMP:20261116T092210Z
-UID:espn-ucl-women-401917016@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nArsenal vs H
- B Køge\nStatus: Full Time\nVenue: Meadow Park\, Borehamwood\nTV: ESPN Dep
- ortes\, Paramount+\n\nFixtures by HerFixtures.com — Women's Sports on Yo
- ur Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401917016/hb-køge-arsenal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Internazionale vs BK Häcken (1–0)
-DTSTART:20260922T164500Z
-DTEND:20260922T184500Z
-DTSTAMP:20261116T092210Z
-UID:espn-ucl-women-401917017@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nInternaziona
- le vs BK Häcken\nStatus: Full Time\nVenue: U-Power Stadium\, Monza\nTV: E
- SPN+\, Paramount+\n\nFixtures by HerFixtures.com — Women's Sports on You
- r Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401917017/bk-hacken-interna
- zionale
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638288@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 1\nArsenal 
+ vs HB Køge\nStatus: Match Finished\nVenue: Meadow Park\, Borehamwood\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Bayern Munich vs Manchester City (2–2)
 DTSTART:20260922T164500Z
 DTEND:20260922T184500Z
-DTSTAMP:20261116T092210Z
-UID:espn-ucl-women-401917018@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nBayern Munic
- h vs Manchester City\nStatus: Full Time\nVenue: Uhlsport Park\, Unterhachi
- ng\nTV: ESPN Deportes\, Paramount+\n\nFixtures by HerFixtures.com — Wome
- n's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401917018/manchester-city-b
- ayern-munich
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638300@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 1\nBayern M
+ unich vs Manchester City\nStatus: Match Finished\nVenue: FC Bayern Campus\
+ , Munich\n\nFixtures by HerFixtures.com — Women's Sports on Your Calenda
+ r
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Internazionale vs BK Häcken (1–0)
+DTSTART:20260922T164500Z
+DTEND:20260922T184500Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638309@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 1\nInternaz
+ ionale vs BK Häcken\nStatus: Match Finished\nVenue: Felice Chinetti Stadi
+ um\, Varese\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
+ ndar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus vs Benfica (1–2)
+DTSTART:20260922T190000Z
+DTEND:20260922T210000Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638310@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 1\nJuventus
+  vs Benfica\nStatus: Match Finished\nVenue: Juventus Center\, Turin\n\nFix
+ tures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Real Madrid vs Paris Saint-Germain (1–1)
+DTSTART:20260922T190000Z
+DTEND:20260922T210000Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638331@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 1\nReal Mad
+ rid vs Paris Saint-Germain\nStatus: Match Finished\nVenue: Ciudad Real Mad
+ rid\, Madrid\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Barcelona vs Paris FC (5–2)
 DTSTART:20260923T190000Z
 DTEND:20260923T210000Z
-DTSTAMP:20261116T092210Z
-UID:espn-ucl-women-401917010@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nBarcelona vs
-  Paris FC\nStatus: Full Time\nVenue: Estadi Johan Cruyff\, Barcelona\nTV: 
- ESPN Deportes\, Paramount+\n\nFixtures by HerFixtures.com — Women's Spor
- ts on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401917010/paris-fc-barcelon
- a
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638296@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 1\nBarcelon
+ a vs Paris FC\nStatus: Match Finished\nVenue: Spotify Camp Nou\, Barcelona
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Chelsea vs Austria Vienna (1–0)
 DTSTART:20260923T190000Z
 DTEND:20260923T210000Z
-DTSTAMP:20261116T092210Z
-UID:espn-ucl-women-401917011@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nChelsea vs A
- ustria Vienna\nStatus: Full Time\nVenue: The Cherry Red Records Stadium\, 
- London\nTV: ESPN+\, Paramount+\n\nFixtures by HerFixtures.com — Women's 
- Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401917011/austria-vienna-ch
- elsea
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Servette vs OL Lyonnes (0–8)
-DTSTART:20260923T164500Z
-DTEND:20260923T184500Z
-DTSTAMP:20261116T092210Z
-UID:espn-ucl-women-401917012@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nServette vs 
- OL Lyonnes\nStatus: Full Time\nVenue: Stade de Genève\, Geneva\nTV: ESPN+
- \, Paramount+\n\nFixtures by HerFixtures.com — Women's Sports on Your Ca
- lendar
-URL:https://www.espn.com/soccer/match/_/gameId/401917012/ol-lyonnes-servet
- te
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638303@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 1\nChelsea 
+ vs Austria Vienna\nStatus: Match Finished\nVenue: Wheatsheaf Park\, Staine
+ s\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ OH Leuven vs Roma (0–0)
 DTSTART:20260923T164500Z
 DTEND:20260923T184500Z
-DTSTAMP:20261116T092210Z
-UID:espn-ucl-women-401917013@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nOH Leuven vs
-  Roma\nStatus: Full Time\nVenue: King Power at Den Dreef Stadion\, Leuven
- \nTV: ESPN Deportes\, Paramount+\n\nFixtures by HerFixtures.com — Women'
- s Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401917013/roma-oud-heverlee
- -leuven
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638317@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 1\nOH Leuve
+ n vs Roma\nStatus: Match Finished\nVenue: Gemeentelijk Sportstadion\, Leuv
+ en\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Benfica vs Bayern Munich (0–3)
-DTSTART:20260930T190000Z
-DTEND:20260930T210000Z
-DTSTAMP:20261116T092210Z
-UID:espn-ucl-women-401917005@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nBenfica vs B
- ayern Munich\nStatus: Full Time\nVenue: Estádio da Luz\, Lisbon\nTV: ESPN
- +\, Paramount+\n\nFixtures by HerFixtures.com — Women's Sports on Your C
- alendar
-URL:https://www.espn.com/soccer/match/_/gameId/401917005/bayern-munich-ben
- fica
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ OL Lyonnes vs Chelsea (0–0)
-DTSTART:20260930T190000Z
-DTEND:20260930T210000Z
-DTSTAMP:20261116T092210Z
-UID:espn-ucl-women-401917006@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nOL Lyonnes v
- s Chelsea\nStatus: Full Time\nVenue: Groupama Stadium\, Lyon\nTV: ESPN Dep
- ortes\, Paramount+\n\nFixtures by HerFixtures.com — Women's Sports on Yo
- ur Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401917006/chelsea-ol-lyonne
- s
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Paris FC vs Arsenal (2–2)
-DTSTART:20260930T164500Z
-DTEND:20260930T184500Z
-DTSTAMP:20261116T092210Z
-UID:espn-ucl-women-401917007@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nParis FC vs 
- Arsenal\nStatus: Full Time\nVenue: Stade Jean Bouin\, Paris\nTV: ESPN+\, P
- aramount+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calend
- ar
-URL:https://www.espn.com/soccer/match/_/gameId/401917007/arsenal-paris-fc
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ BK Häcken vs Juventus (0–3)
-DTSTART:20260930T164500Z
-DTEND:20260930T184500Z
-DTSTAMP:20261116T092210Z
-UID:espn-ucl-women-401917008@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nBK Häcken v
- s Juventus\nStatus: Full Time\nVenue: Bravida Arena\, Gothenburg\nTV: Para
- mount+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401917008/juventus-bk-hacke
- n
+SUMMARY:⚽ Servette vs OL Lyonnes (0–8)
+DTSTART:20260923T164500Z
+DTEND:20260923T184500Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638334@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 1\nServette
+  vs OL Lyonnes\nStatus: Match Finished\nVenue: Stade de Geneve\, Geneva\n\
+ nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Roma vs Barcelona (0–6)
 DTSTART:20260930T164500Z
 DTEND:20260930T184500Z
-DTSTAMP:20261116T092210Z
-UID:espn-ucl-women-401917009@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nRoma vs Barc
- elona\nStatus: Full Time\nVenue: Stadio Tre Fontane\, Rome\nTV: ESPN Depor
- tes\, Paramount+\n\nFixtures by HerFixtures.com — Women's Sports on Your
-  Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401917009/barcelona-roma
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638289@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 2\nRoma vs 
+ Barcelona\nStatus: Match Finished\nVenue: Stadio Tre Fontane\, Rome\n\nFix
+ tures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Paris Saint-Germain vs OH Leuven (5–0)
-DTSTART:20261001T190000Z
-DTEND:20261001T210000Z
-DTSTAMP:20261116T092210Z
-UID:espn-ucl-women-401917001@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nParis Saint-
- Germain vs OH Leuven\nStatus: Full Time\nVenue: Campus PSG\, Poissy\nTV: P
- aramount+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calend
- ar
-URL:https://www.espn.com/soccer/match/_/gameId/401917001/oud-heverlee-leuv
- en-paris-saint-germain
+SUMMARY:⚽ BK Häcken vs Juventus (0–3)
+DTSTART:20260930T164500Z
+DTEND:20260930T184500Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638305@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 2\nBK Häck
+ en vs Juventus\nStatus: Match Finished\nVenue: Nordic Wellness Arena\, Got
+ henburg\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Manchester City vs Real Madrid (1–1)
-DTSTART:20261001T190000Z
-DTEND:20261001T210000Z
-DTSTAMP:20261116T092210Z
-UID:espn-ucl-women-401917002@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nManchester C
- ity vs Real Madrid\nStatus: Full Time\nVenue: Joie Stadium\, Manchester\nT
- V: ESPN Deportes\, Paramount+\n\nFixtures by HerFixtures.com — Women's S
- ports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401917002/real-madrid-manch
- ester-city
+SUMMARY:⚽ OL Lyonnes vs Chelsea (0–0)
+DTSTART:20260930T190000Z
+DTEND:20260930T210000Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638322@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 2\nOL Lyonn
+ es vs Chelsea\nStatus: Match Finished\nVenue: Groupama Stadium\, Lyon\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ HB Køge vs Servette (5–1)
-DTSTART:20261001T164500Z
-DTEND:20261001T184500Z
-DTSTAMP:20261116T092210Z
-UID:espn-ucl-women-401917003@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nHB Køge vs 
- Servette\nStatus: Full Time\nVenue: Capelli Sport Stadion\, Køge\nTV: Par
- amount+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401917003/servette-hb-køge
+SUMMARY:⚽ Paris FC vs Arsenal (2–2)
+DTSTART:20260930T164500Z
+DTEND:20260930T184500Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638326@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 2\nParis FC
+  vs Arsenal\nStatus: Match Finished\nVenue: Stade Jean Bouin\, Isilemulino
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Benfica vs Bayern Munich (0–3)
+DTSTART:20260930T190000Z
+DTEND:20260930T210000Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638337@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 2\nBenfica 
+ vs Bayern Munich\nStatus: Match Finished\nVenue: Estadio da Tapadinha\, Li
+ sbon\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Austria Vienna vs Internazionale (1–1)
 DTSTART:20261001T164500Z
 DTEND:20261001T184500Z
-DTSTAMP:20261116T092210Z
-UID:espn-ucl-women-401917004@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nAustria Vien
- na vs Internazionale\nStatus: Full Time\nVenue: Generali-Arena\, Wien\nTV:
-  ESPN Deportes\, Paramount+\n\nFixtures by HerFixtures.com — Women's Spo
- rts on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401917004/internazionale-au
- stria-vienna
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638293@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 2\nAustria 
+ Vienna vs Internazionale\nStatus: Match Finished\nVenue: Sportplatz Jochbe
+ rgengasse\, Vienna\n\nFixtures by HerFixtures.com — Women's Sports on Yo
+ ur Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ OL Lyonnes vs Internazionale (6–0)
-DTSTART:20261028T200000Z
-DTEND:20261028T220000Z
-DTSTAMP:20261116T092210Z
-UID:espn-ucl-women-401916996@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nOL Lyonnes v
- s Internazionale\nStatus: Full Time\nVenue: Groupama Stadium\, Lyon\nTV: E
- SPN+\, Paramount+\n\nFixtures by HerFixtures.com — Women's Sports on You
- r Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401916996/internazionale-ol
- -lyonnes
+SUMMARY:⚽ HB Køge vs Servette (5–1)
+DTSTART:20261001T164500Z
+DTEND:20261001T184500Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638315@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 2\nHB Køge
+  vs Servette\nStatus: Match Finished\nVenue: Capelli Sport Stadion\, Koege
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Manchester City vs Real Madrid (1–1)
+DTSTART:20261001T190000Z
+DTEND:20261001T210000Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638321@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 2\nManchest
+ er City vs Real Madrid\nStatus: Match Finished\nVenue: Manchester Regional
+  Arena\, Manchester\n\nFixtures by HerFixtures.com — Women's Sports on Y
+ our Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Paris Saint-Germain vs OH Leuven (5–0)
+DTSTART:20261001T190000Z
+DTEND:20261001T210000Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638330@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 2\nParis Sa
+ int-Germain vs OH Leuven\nStatus: Match Finished\nVenue: Campus PSG\, Pois
+ sy\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Arsenal vs Benfica (3–0)
 DTSTART:20261028T200000Z
 DTEND:20261028T220000Z
-DTSTAMP:20261116T092210Z
-UID:espn-ucl-women-401916997@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nArsenal vs B
- enfica\nStatus: Full Time\nVenue: Meadow Park\, Borehamwood\nTV: ESPN Depo
- rtes\, Paramount+\n\nFixtures by HerFixtures.com — Women's Sports on You
- r Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401916997/benfica-arsenal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Servette vs OH Leuven (5–1)
-DTSTART:20261028T174500Z
-DTEND:20261028T194500Z
-DTSTAMP:20261116T092210Z
-UID:espn-ucl-women-401916998@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nServette vs 
- OH Leuven\nStatus: Full Time\nVenue: Stade de Genève\, Geneva\nTV: Paramo
- unt+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401916998/oud-heverlee-leuv
- en-servette
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638287@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 3\nArsenal 
+ vs Benfica\nStatus: Match Finished\nVenue: Meadow Park\, Borehamwood\n\nFi
+ xtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Bayern Munich vs Real Madrid (2–2)
 DTSTART:20261028T174500Z
 DTEND:20261028T194500Z
-DTSTAMP:20261116T092210Z
-UID:espn-ucl-women-401916999@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nBayern Munic
- h vs Real Madrid\nStatus: Full Time\nVenue: Uhlsport Park\, Unterhaching\n
- TV: ESPN Deportes\, Paramount+\n\nFixtures by HerFixtures.com — Women's 
- Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401916999/real-madrid-bayer
- n-munich
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638299@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 3\nBayern M
+ unich vs Real Madrid\nStatus: Match Finished\nVenue: FC Bayern Campus\, Mu
+ nich\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Chelsea vs Roma (2–0)
 DTSTART:20261028T174500Z
 DTEND:20261028T194500Z
-DTSTAMP:20261116T092210Z
-UID:espn-ucl-women-401917000@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nChelsea vs R
- oma\nStatus: Full Time\nVenue: The Cherry Red Records Stadium\, London\nTV
- : ESPN+\, Paramount+\n\nFixtures by HerFixtures.com — Women's Sports on 
- Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401917000/roma-chelsea
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638302@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 3\nChelsea 
+ vs Roma\nStatus: Match Finished\nVenue: Wheatsheaf Park\, Staines\n\nFixtu
+ res by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Manchester City vs Paris Saint-Germain (1–1)
-DTSTART:20261029T200000Z
-DTEND:20261029T220000Z
-DTSTAMP:20261116T092210Z
-UID:espn-ucl-women-401916992@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nManchester C
- ity vs Paris Saint-Germain\nStatus: Full Time\nVenue: Joie Stadium\, Manch
- ester\nTV: ESPN+\, Paramount+\n\nFixtures by HerFixtures.com — Women's S
- ports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401916992/paris-saint-germa
- in-manchester-city
+SUMMARY:⚽ OL Lyonnes vs Internazionale (6–0)
+DTSTART:20261028T200000Z
+DTEND:20261028T220000Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638324@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 3\nOL Lyonn
+ es vs Internazionale\nStatus: Match Finished\nVenue: Groupama Stadium\, Ly
+ on\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ HB Køge vs Barcelona (0–8)
-DTSTART:20261029T200000Z
-DTEND:20261029T220000Z
-DTSTAMP:20261116T092210Z
-UID:espn-ucl-women-401916993@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nHB Køge vs 
- Barcelona\nStatus: Full Time\nVenue: Capelli Sport Stadion\, Køge\nTV: ES
- PN Deportes\, Paramount+\n\nFixtures by HerFixtures.com — Women's Sports
-  on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401916993/barcelona-hb-køg
- e
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Paris FC vs BK Häcken (1–1)
-DTSTART:20261029T174500Z
-DTEND:20261029T194500Z
-DTSTAMP:20261116T092210Z
-UID:espn-ucl-women-401916994@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nParis FC vs 
- BK Häcken\nStatus: Full Time\nVenue: Stade Sébastien Charléty\, Paris\n
- TV: ESPN+\, Paramount+\n\nFixtures by HerFixtures.com — Women's Sports o
- n Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401916994/bk-hacken-paris-f
- c
+SUMMARY:⚽ Servette vs OH Leuven (5–1)
+DTSTART:20261028T174500Z
+DTEND:20261028T194500Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638335@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 3\nServette
+  vs OH Leuven\nStatus: Match Finished\nVenue: Stade de Geneve\, Geneva\n\n
+ Fixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Austria Vienna vs Juventus (1–4)
 DTSTART:20261029T174500Z
 DTEND:20261029T194500Z
-DTSTAMP:20261116T092210Z
-UID:espn-ucl-women-401916995@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nAustria Vien
- na vs Juventus\nStatus: Full Time\nVenue: Generali-Arena\, Wien\nTV: ESPN 
- Deportes\, Paramount+\n\nFixtures by HerFixtures.com — Women's Sports on
-  Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401916995/juventus-austria-
- vienna
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638294@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 3\nAustria 
+ Vienna vs Juventus\nStatus: Match Finished\nVenue: Sportplatz Jochbergenga
+ sse\, Vienna\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Paris Saint-Germain vs Bayern Munich (1–2)
-DTSTART:20261110T200000Z
-DTEND:20261110T220000Z
-DTSTAMP:20261117T155110Z
-UID:espn-ucl-women-401916987@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nParis Saint-
- Germain vs Bayern Munich\nStatus: Full Time\nVenue: Parc des Princes\, Par
- is\nTV: ESPN Deportes\, Paramount+\n\nFixtures by HerFixtures.com — Wome
- n's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401916987/bayern-munich-par
- is-saint-germain
+SUMMARY:⚽ HB Køge vs Barcelona (0–8)
+DTSTART:20261029T200000Z
+DTEND:20261029T220000Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638313@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 3\nHB Køge
+  vs Barcelona\nStatus: Match Finished\nVenue: Capelli Sport Stadion\, Koeg
+ e\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Internazionale vs Manchester City (1–4)
-DTSTART:20261110T200000Z
-DTEND:20261110T220000Z
-DTSTAMP:20261117T155110Z
-UID:espn-ucl-women-401916988@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nInternaziona
- le vs Manchester City\nStatus: Full Time\nVenue: U-Power Stadium\, Monza\n
- TV: ESPN+\, Paramount+\n\nFixtures by HerFixtures.com — Women's Sports o
- n Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401916988/manchester-city-i
- nternazionale
+SUMMARY:⚽ Manchester City vs Paris Saint-Germain (1–1)
+DTSTART:20261029T200000Z
+DTEND:20261029T220000Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638319@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 3\nManchest
+ er City vs Paris Saint-Germain\nStatus: Match Finished\nVenue: Manchester 
+ Regional Arena\, Manchester\n\nFixtures by HerFixtures.com — Women's Spo
+ rts on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Paris FC vs BK Häcken (1–1)
+DTSTART:20261029T174500Z
+DTEND:20261029T194500Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638325@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 3\nParis FC
+  vs BK Häcken\nStatus: Match Finished\nVenue: Stade Charléty\, Paris\n\n
+ Fixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Roma vs Servette (2–1)
 DTSTART:20261110T200000Z
 DTEND:20261110T220000Z
-DTSTAMP:20261117T155110Z
-UID:espn-ucl-women-401916989@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nRoma vs Serv
- ette\nStatus: Full Time\nVenue: Stadio Tre Fontane\, Rome\nTV: ESPN+\, Par
- amount+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401916989/servette-roma
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Real Madrid vs Paris FC (3–0)
-DTSTART:20261110T174500Z
-DTEND:20261110T194500Z
-DTSTAMP:20261117T155110Z
-UID:espn-ucl-women-401916990@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nReal Madrid 
- vs Paris FC\nStatus: Full Time\nVenue: Alfredo Di Stéfano Stadium\, Madri
- d\nTV: ESPN Deportes\, Paramount+\n\nFixtures by HerFixtures.com — Women
- 's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401916990/paris-fc-real-mad
- rid
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638291@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 4\nRoma vs 
+ Servette\nStatus: Match Finished\nVenue: Stadio Tre Fontane\, Rome\n\nFixt
+ ures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ BK Häcken vs Chelsea (0–0)
 DTSTART:20261110T174500Z
 DTEND:20261110T194500Z
-DTSTAMP:20261117T155110Z
-UID:espn-ucl-women-401916991@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nBK Häcken v
- s Chelsea\nStatus: Full Time\nVenue: Bravida Arena\, Gothenburg\nTV: ESPN+
- \, Paramount+\n\nFixtures by HerFixtures.com — Women's Sports on Your Ca
- lendar
-URL:https://www.espn.com/soccer/match/_/gameId/401916991/chelsea-bk-hacken
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638304@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 4\nBK Häck
+ en vs Chelsea\nStatus: Match Finished\nVenue: Nordic Wellness Arena\, Goth
+ enburg\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Internazionale vs Manchester City (1–4)
+DTSTART:20261110T200000Z
+DTEND:20261110T220000Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638308@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 4\nInternaz
+ ionale vs Manchester City\nStatus: Match Finished\nVenue: Felice Chinetti 
+ Stadium\, Varese\n\nFixtures by HerFixtures.com — Women's Sports on Your
+  Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Paris Saint-Germain vs Bayern Munich (1–2)
+DTSTART:20261110T200000Z
+DTEND:20261110T220000Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638328@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 4\nParis Sa
+ int-Germain vs Bayern Munich\nStatus: Match Finished\nVenue: Parc des Prin
+ ces\, Paris\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
+ ndar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Real Madrid vs Paris FC (3–0)
+DTSTART:20261110T174500Z
+DTEND:20261110T194500Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638332@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 4\nReal Mad
+ rid vs Paris FC\nStatus: Match Finished\nVenue: Ciudad Real Madrid\, Madri
+ d\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Juventus vs OL Lyonnes (0–6)
 DTSTART:20261111T200000Z
 DTEND:20261111T220000Z
-DTSTAMP:20261118T152914Z
-UID:espn-ucl-women-401916984@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nJuventus vs 
- OL Lyonnes\nStatus: Full Time\nVenue: Stadio Olimpico Grande Torino\, Tori
- no\nTV: ESPN Deportes\, Paramount+\n\nFixtures by HerFixtures.com — Wome
- n's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401916984/ol-lyonnes-juvent
- us
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638311@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 4\nJuventus
+  vs OL Lyonnes\nStatus: Match Finished\nVenue: Stadio Pozzi Lamarmora\, Bi
+ ella\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ OH Leuven vs HB Køge (1–1)
 DTSTART:20261111T174500Z
 DTEND:20261111T194500Z
-DTSTAMP:20261118T152914Z
-UID:espn-ucl-women-401916985@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nOH Leuven vs
-  HB Køge\nStatus: Full Time\nVenue: King Power at Den Dreef Stadion\, Leu
- ven\nTV: ESPN Deportes\, Paramount+\n\nFixtures by HerFixtures.com — Wom
- en's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401916985/hb-køge-oud-heve
- rlee-leuven
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Benfica vs Austria Vienna (3–1)
-DTSTART:20261112T200000Z
-DTEND:20261112T220000Z
-DTSTAMP:20261119T153622Z
-UID:espn-ucl-women-401916983@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nBenfica vs A
- ustria Vienna\nStatus: Full Time\nVenue: Estádio da Luz\, Lisbon\nTV: Par
- amount+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401916983/austria-vienna-be
- nfica
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638318@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 4\nOH Leuve
+ n vs HB Køge\nStatus: Match Finished\nVenue: Gemeentelijk Sportstadion\, 
+ Leuven\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Barcelona vs Arsenal (1–1)
 DTSTART:20261112T174500Z
 DTEND:20261112T194500Z
-DTSTAMP:20261119T153622Z
-UID:espn-ucl-women-401916986@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nBarcelona vs
-  Arsenal\nStatus: Full Time\nVenue: Spotify Camp Nou\, Barcelona\nTV: ESPN
-  Deportes\, Paramount+\n\nFixtures by HerFixtures.com — Women's Sports o
- n Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401916986/arsenal-barcelona
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638295@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 4\nBarcelon
+ a vs Arsenal\nStatus: Match Finished\nVenue: Spotify Camp Nou\, Barcelona\
+ n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Juventus vs OH Leuven (2–0)
-DTSTART:20261118T200000Z
-DTEND:20261118T220000Z
-DTSTAMP:20261124T111524Z
-UID:espn-ucl-women-401916979@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nJuventus vs 
- OH Leuven\nStatus: Full Time\nVenue: Stadio Olimpico Grande Torino\, Torin
- o\nTV: ESPN+\, Paramount+\n\nFixtures by HerFixtures.com — Women's Sport
- s on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401916979/oud-heverlee-leuv
- en-juventus
+SUMMARY:⚽ Benfica vs Austria Vienna (3–1)
+DTSTART:20261112T200000Z
+DTEND:20261112T220000Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638339@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 4\nBenfica 
+ vs Austria Vienna\nStatus: Match Finished\nVenue: Estadio da Tapadinha\, L
+ isbon\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Chelsea vs Paris Saint-Germain (1–0)
 DTSTART:20261118T200000Z
 DTEND:20261118T220000Z
-DTSTAMP:20261124T111524Z
-UID:espn-ucl-women-401916980@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nChelsea vs P
- aris Saint-Germain\nStatus: Full Time\nVenue: The Cherry Red Records Stadi
- um\, London\nTV: ESPN Deportes\, Paramount+\n\nFixtures by HerFixtures.com
-  — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401916980/paris-saint-germa
- in-chelsea
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Real Madrid vs Internazionale (3–1)
-DTSTART:20261118T174500Z
-DTEND:20261118T194500Z
-DTSTAMP:20261124T111524Z
-UID:espn-ucl-women-401916981@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nReal Madrid 
- vs Internazionale\nStatus: Full Time\nVenue: Alfredo Di Stéfano Stadium\,
-  Madrid\nTV: ESPN Deportes\, Paramount+\n\nFixtures by HerFixtures.com —
-  Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401916981/internazionale-re
- al-madrid
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638301@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 5\nChelsea 
+ vs Paris Saint-Germain\nStatus: Match Finished\nVenue: Wheatsheaf Park\, S
+ taines\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ BK Häcken vs Manchester City (0–2)
 DTSTART:20261118T174500Z
 DTEND:20261118T194500Z
-DTSTAMP:20261124T111524Z
-UID:espn-ucl-women-401916982@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nBK Häcken v
- s Manchester City\nStatus: Full Time\nVenue: Bravida Arena\, Gothenburg\nT
- V: ESPN+\, Paramount+\n\nFixtures by HerFixtures.com — Women's Sports on
-  Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401916982/manchester-city-b
- k-hacken
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638306@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 5\nBK Häck
+ en vs Manchester City\nStatus: Match Finished\nVenue: Nordic Wellness Aren
+ a\, Gothenburg\n\nFixtures by HerFixtures.com — Women's Sports on Your C
+ alendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Benfica vs Roma (2–3)
-DTSTART:20261119T200000Z
-DTEND:20261119T220000Z
-DTSTAMP:20261124T111524Z
-UID:espn-ucl-women-401916974@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nBenfica vs R
- oma\nStatus: Full Time\nVenue: Estádio da Luz\, Lisbon\nTV: ESPN+\, Param
- ount+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401916974/roma-benfica
+SUMMARY:⚽ Juventus vs OH Leuven (2–0)
+DTSTART:20261118T200000Z
+DTEND:20261118T220000Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638312@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 5\nJuventus
+  vs OH Leuven\nStatus: Match Finished\nVenue: Juventus Center\, Turin\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Barcelona vs Servette (6–0)
-DTSTART:20261119T200000Z
-DTEND:20261119T220000Z
-DTSTAMP:20261124T111524Z
-UID:espn-ucl-women-401916975@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nBarcelona vs
-  Servette\nStatus: Full Time\nVenue: Estadi Johan Cruyff\, Barcelona\nTV: 
- ESPN Deportes\, Paramount+\n\nFixtures by HerFixtures.com — Women's Spor
- ts on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401916975/servette-barcelon
- a
+SUMMARY:⚽ Real Madrid vs Internazionale (3–1)
+DTSTART:20261118T174500Z
+DTEND:20261118T194500Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638333@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 5\nReal Mad
+ rid vs Internazionale\nStatus: Match Finished\nVenue: Ciudad Real Madrid\,
+  Madrid\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Arsenal vs OL Lyonnes (0–2)
 DTSTART:20261119T200000Z
 DTEND:20261119T220000Z
-DTSTAMP:20261124T111524Z
-UID:espn-ucl-women-401916976@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nArsenal vs O
- L Lyonnes\nStatus: Full Time\nVenue: Meadow Park\, Borehamwood\nTV: ESPN+
- \, Paramount+\n\nFixtures by HerFixtures.com — Women's Sports on Your Ca
- lendar
-URL:https://www.espn.com/soccer/match/_/gameId/401916976/ol-lyonnes-arsena
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Paris FC vs HB Køge (2–1)
-DTSTART:20261119T174500Z
-DTEND:20261119T194500Z
-DTSTAMP:20261124T111524Z
-UID:espn-ucl-women-401916977@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nParis FC vs 
- HB Køge\nStatus: Full Time\nVenue: Stade Sébastien Charléty\, Paris\nTV
- : ESPN+\, Paramount+\n\nFixtures by HerFixtures.com — Women's Sports on 
- Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401916977/hb-køge-paris-fc
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638286@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 5\nArsenal 
+ vs OL Lyonnes\nStatus: Match Finished\nVenue: Meadow Park\, Borehamwood\n\
+ nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Austria Vienna vs Bayern Munich (0–4)
 DTSTART:20261119T174500Z
 DTEND:20261119T194500Z
-DTSTAMP:20261124T111524Z
-UID:espn-ucl-women-401916978@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nAustria Vien
- na vs Bayern Munich\nStatus: Full Time\nVenue: Generali-Arena\, Wien\nTV: 
- ESPN Deportes\, Paramount+\n\nFixtures by HerFixtures.com — Women's Spor
- ts on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401916978/bayern-munich-aus
- tria-vienna
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638292@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 5\nAustria 
+ Vienna vs Bayern Munich\nStatus: Match Finished\nVenue: Sportplatz Jochber
+ gengasse\, Vienna\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Servette vs Paris FC
-DTSTART:20261216T200000Z
-DTEND:20261216T220000Z
-DTSTAMP:20261124T111524Z
-UID:espn-ucl-women-401916965@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nServette vs 
- Paris FC\nStatus: Scheduled\nVenue: Stade de Genève\, Geneva\nTV: Paramou
- nt+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401916965/paris-fc-servette
+SUMMARY:⚽ Barcelona vs Servette (6–0)
+DTSTART:20261119T200000Z
+DTEND:20261119T220000Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638297@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 5\nBarcelon
+ a vs Servette\nStatus: Match Finished\nVenue: Spotify Camp Nou\, Barcelona
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Paris Saint-Germain vs Juventus
-DTSTART:20261216T200000Z
-DTEND:20261216T220000Z
-DTSTAMP:20261124T111524Z
-UID:espn-ucl-women-401916966@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nParis Saint-
- Germain vs Juventus\nStatus: Scheduled\nVenue: Parc des Princes\, Paris\nT
- V: Paramount+\n\nFixtures by HerFixtures.com — Women's Sports on Your Ca
- lendar
-URL:https://www.espn.com/soccer/match/_/gameId/401916966/juventus-paris-sa
- int-germain
+SUMMARY:⚽ Paris FC vs HB Køge (2–1)
+DTSTART:20261119T174500Z
+DTEND:20261119T194500Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638327@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 5\nParis FC
+  vs HB Køge\nStatus: Match Finished\nVenue: Stade Jean-Bouin\, Paris\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ OL Lyonnes vs BK Häcken
-DTSTART:20261216T200000Z
-DTEND:20261216T220000Z
-DTSTAMP:20261124T111524Z
-UID:espn-ucl-women-401916967@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nOL Lyonnes v
- s BK Häcken\nStatus: Scheduled\nVenue: Groupama Stadium\, Lyon\nTV: Param
- ount+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401916967/bk-hacken-ol-lyon
- nes
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ OH Leuven vs Chelsea
-DTSTART:20261216T200000Z
-DTEND:20261216T220000Z
-DTSTAMP:20261124T111524Z
-UID:espn-ucl-women-401916968@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nOH Leuven vs
-  Chelsea\nStatus: Scheduled\nVenue: King Power at Den Dreef Stadion\, Leuv
- en\nTV: Paramount+\n\nFixtures by HerFixtures.com — Women's Sports on Yo
- ur Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401916968/chelsea-oud-hever
- lee-leuven
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Manchester City vs Austria Vienna
-DTSTART:20261216T200000Z
-DTEND:20261216T220000Z
-DTSTAMP:20261124T111524Z
-UID:espn-ucl-women-401916969@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nManchester C
- ity vs Austria Vienna\nStatus: Scheduled\nVenue: Joie Stadium\, Manchester
- \nTV: Paramount+\n\nFixtures by HerFixtures.com — Women's Sports on Your
-  Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401916969/austria-vienna-ma
- nchester-city
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ HB Køge vs Benfica
-DTSTART:20261216T200000Z
-DTEND:20261216T220000Z
-DTSTAMP:20261124T111524Z
-UID:espn-ucl-women-401916970@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nHB Køge vs 
- Benfica\nStatus: Scheduled\nVenue: Capelli Sport Stadion\, Køge\nTV: Para
- mount+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401916970/benfica-hb-køge
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Internazionale vs Arsenal
-DTSTART:20261216T200000Z
-DTEND:20261216T220000Z
-DTSTAMP:20261124T111524Z
-UID:espn-ucl-women-401916971@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nInternaziona
- le vs Arsenal\nStatus: Scheduled\nVenue: U-Power Stadium\, Monza\nTV: Para
- mount+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401916971/arsenal-internazi
- onale
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Bayern Munich vs Barcelona
-DTSTART:20261216T200000Z
-DTEND:20261216T220000Z
-DTSTAMP:20261124T111524Z
-UID:espn-ucl-women-401916972@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nBayern Munic
- h vs Barcelona\nStatus: Scheduled\nVenue: Uhlsport Park\, Unterhaching\nTV
- : Paramount+\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
- endar
-URL:https://www.espn.com/soccer/match/_/gameId/401916972/barcelona-bayern-
- munich
+SUMMARY:⚽ Benfica vs Roma (2–3)
+DTSTART:20261119T200000Z
+DTEND:20261119T220000Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638338@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 5\nBenfica 
+ vs Roma\nStatus: Match Finished\nVenue: Estadio da Tapadinha\, Lisbon\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Roma vs Real Madrid
 DTSTART:20261216T200000Z
 DTEND:20261216T220000Z
-DTSTAMP:20261124T111524Z
-UID:espn-ucl-women-401916973@herfixtures.com
-DESCRIPTION:Women's Champions League 2026/27 · league-phase\nRoma vs Real
-  Madrid\nStatus: Scheduled\nVenue: Stadio Tre Fontane\, Rome\nTV: Paramoun
- t+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401916973/real-madrid-roma
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638290@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 6\nRoma vs 
+ Real Madrid\nStatus: Not Started\nVenue: Stadio Tre Fontane\, Rome\n\nFixt
+ ures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Bayern Munich vs Barcelona
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638298@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 6\nBayern M
+ unich vs Barcelona\nStatus: Not Started\nVenue: FC Bayern Campus\, Munich\
+ n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Internazionale vs Arsenal
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638307@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 6\nInternaz
+ ionale vs Arsenal\nStatus: Not Started\nVenue: Stadio Ernesto Breda\, Sest
+ o San Giovanni\n\nFixtures by HerFixtures.com — Women's Sports on Your C
+ alendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ HB Køge vs Benfica
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638314@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 6\nHB Køge
+  vs Benfica\nStatus: Not Started\n\nFixtures by HerFixtures.com — Women'
+ s Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ OH Leuven vs Chelsea
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638316@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 6\nOH Leuve
+ n vs Chelsea\nStatus: Not Started\n\nFixtures by HerFixtures.com — Women
+ 's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Manchester City vs Austria Vienna
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638320@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 6\nManchest
+ er City vs Austria Vienna\nStatus: Not Started\nVenue: Academy Stadium\, M
+ anchester\n\nFixtures by HerFixtures.com — Women's Sports on Your Calend
+ ar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ OL Lyonnes vs BK Häcken
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638323@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 6\nOL Lyonn
+ es vs BK Häcken\nStatus: Not Started\nVenue: Parc Olympique Lyonnais\, Ly
+ on\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Paris Saint-Germain vs Juventus
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638329@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 6\nParis Sa
+ int-Germain vs Juventus\nStatus: Not Started\nVenue: Paris Saint-Germain T
+ raining Center\, Poissy\n\nFixtures by HerFixtures.com — Women's Sports 
+ on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Servette vs Paris FC
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
+DTSTAMP:20261124T170012Z
+UID:af-ucl-women-1638336@herfixtures.com
+DESCRIPTION:Women's Champions League 2026/27 · League Stage - 6\nServette
+  vs Paris FC\nStatus: Not Started\nVenue: Stade de la Fontenette\, Carouge
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 END:VCALENDAR

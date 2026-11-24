@@ -8,6 +8,7 @@
     "a-league-women",
     "liga-mx-femenil",
     "eredivisie-women",
+    "serie-a-women",
     "ncaa-wbb",
     "wnba",
     "nwsl",
@@ -28,7 +29,8 @@
     "nwsl": "NWSL",
     "ucl-women": "Women's Champions League",
     "euroleague-women": "EuroLeague Women",
-    "fiba-wwc-2026": "FIBA Women's World Cup"
+    "fiba-wwc-2026": "FIBA Women's World Cup",
+    "serie-a-women": "Serie A Women"
   },
   "short": {
     "frauen-bundesliga": "Frauen-BL",
@@ -43,7 +45,8 @@
     "nwsl": "NWSL",
     "ucl-women": "Women's UCL",
     "euroleague-women": "EuroLeague",
-    "fiba-wwc-2026": "FIBA WWC"
+    "fiba-wwc-2026": "FIBA WWC",
+    "serie-a-women": "Serie A"
   },
   "away_first": [
     "nwsl",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-24T11:15:27+00:00",
+  "generated": "2026-11-24T17:00:50+00:00",
   "for_date": "2026-11-24",
   "feeds": {
     "euroleague-women": {
@@ -61,6 +61,13 @@
     "eredivisie-women": {
       "next_game": "2026-12-20",
       "upcoming_games": 35,
+      "text": "Season in progress",
+      "style": "live",
+      "rule": "in-season"
+    },
+    "serie-a-women": {
+      "next_game": "2026-12-12",
+      "upcoming_games": 84,
       "text": "Season in progress",
       "style": "live",
       "rule": "in-season"

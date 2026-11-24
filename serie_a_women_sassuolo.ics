@@ -1,0 +1,267 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HerFixtures//Serie A Women 2026-27 Sassuolo//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Sassuolo Serie A Women 2026/27 fixtures. Updated automaticall
+ y by HerFixtures.com
+X-WR-CALNAME:Sassuolo — Serie A Women 2026/27 — HerFixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo vs Roma (1–3)
+DTSTART:20260927T130000Z
+DTEND:20260927T150000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601252@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nSassuolo vs Roma\nStatus: Match Finishe
+ d\nVenue: Stadio Enzo Ricci\, Sassuolo\n\nFixtures by HerFixtures.com — 
+ Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Fiorentina vs Sassuolo (2–0)
+DTSTART:20261003T130000Z
+DTEND:20261003T150000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601257@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nFiorentina vs Sassuolo\nStatus: Match F
+ inished\nVenue: Stadio Gino Bozzi\, Florence\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo vs Napoli (1–4)
+DTSTART:20261017T103000Z
+DTEND:20261017T123000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601264@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nSassuolo vs Napoli\nStatus: Match Finis
+ hed\nVenue: Stadio Enzo Ricci\, Sassuolo\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como 1907 vs Sassuolo (2–2)
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601267@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nComo 1907 vs Sassuolo\nStatus: Match Fi
+ nished\nVenue: Stadio Giuseppe Sinigaglia\, Como\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo vs Parma (0–0)
+DTSTART:20261031T154500Z
+DTEND:20261031T174500Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601276@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nSassuolo vs Parma\nStatus: Match Finish
+ ed\nVenue: Stadio Enzo Ricci\, Sassuolo\n\nFixtures by HerFixtures.com —
+  Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus vs Sassuolo (2–1)
+DTSTART:20261107T170000Z
+DTEND:20261107T190000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601280@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nJuventus vs Sassuolo\nStatus: Match Fin
+ ished\nVenue: Juventus Training Center Vinovo\, Vinovo\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo vs Ternana (1–1)
+DTSTART:20261115T113000Z
+DTEND:20261115T133000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601289@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nSassuolo vs Ternana\nStatus: Match Fini
+ shed\nVenue: Stadio Enzo Ricci\, Sassuolo\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AC Milan vs Sassuolo (3–2)
+DTSTART:20261121T140000Z
+DTEND:20261121T160000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601290@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nAC Milan vs Sassuolo\nStatus: Match Fin
+ ished\nVenue: Centro Sportivo Peppino Vismara\, Milano\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo vs Lazio
+DTSTART:20261213T113000Z
+DTEND:20261213T133000Z
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601301@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nSassuolo vs Lazio\nStatus: Not Started\
+ nVenue: Stadio Enzo Ricci\, Sassuolo\n\nFixtures by HerFixtures.com — Wo
+ men's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como Women vs Sassuolo (time TBC)
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601302@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nComo Women vs Sassuolo\nStatus: Not Sta
+ rted\nKick-off time not confirmed yet. Your calendar updates automatically
+  once it is.\nVenue: Stadio Ferruccio\, Seregno\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo vs Inter (time TBC)
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601313@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nSassuolo vs Inter\nStatus: Not Started\
+ nKick-off time not confirmed yet. Your calendar updates automatically once
+  it is.\nVenue: Stadio Enzo Ricci\, Sassuolo\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Roma vs Sassuolo (time TBC)
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601315@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nRoma vs Sassuolo\nStatus: Not Started\n
+ Kick-off time not confirmed yet. Your calendar updates automatically once 
+ it is.\nVenue: Stadio Tre Fontane\, Rome\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo vs Fiorentina (time TBC)
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601324@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nSassuolo vs Fiorentina\nStatus: Not Sta
+ rted\nKick-off time not confirmed yet. Your calendar updates automatically
+  once it is.\nVenue: Stadio Enzo Ricci\, Sassuolo\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Napoli vs Sassuolo (time TBC)
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601330@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nNapoli vs Sassuolo\nStatus: Not Started
+ \nKick-off time not confirmed yet. Your calendar updates automatically onc
+ e it is.\nVenue: Stadio Giuseppe Piccolo\, Cercola\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo vs Como 1907 (time TBC)
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601336@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nSassuolo vs Como 1907\nStatus: Not Star
+ ted\nKick-off time not confirmed yet. Your calendar updates automatically 
+ once it is.\nVenue: Stadio Enzo Ricci\, Sassuolo\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Parma vs Sassuolo (time TBC)
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601343@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nParma vs Sassuolo\nStatus: Not Started\
+ nKick-off time not confirmed yet. Your calendar updates automatically once
+  it is.\nVenue: Stadio Ennio Tardini\, Parma\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo vs Juventus (time TBC)
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601349@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nSassuolo vs Juventus\nStatus: Not Start
+ ed\nKick-off time not confirmed yet. Your calendar updates automatically o
+ nce it is.\nVenue: Stadio Enzo Ricci\, Sassuolo\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ternana vs Sassuolo (time TBC)
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601355@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nTernana vs Sassuolo\nStatus: Not Starte
+ d\nKick-off time not confirmed yet. Your calendar updates automatically on
+ ce it is.\nVenue: Stadio Libero Liberati\, Terni\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo vs AC Milan (time TBC)
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601361@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nSassuolo vs AC Milan\nStatus: Not Start
+ ed\nKick-off time not confirmed yet. Your calendar updates automatically o
+ nce it is.\nVenue: Stadio Enzo Ricci\, Sassuolo\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lazio vs Sassuolo (time TBC)
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601365@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nLazio vs Sassuolo\nStatus: Not Started\
+ nKick-off time not confirmed yet. Your calendar updates automatically once
+  it is.\nVenue: Campo Mirko Fersini\, Rome\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo vs Como Women (time TBC)
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601373@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nSassuolo vs Como Women\nStatus: Not Sta
+ rted\nKick-off time not confirmed yet. Your calendar updates automatically
+  once it is.\nVenue: Stadio Enzo Ricci\, Sassuolo\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Inter vs Sassuolo (time TBC)
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+DTSTAMP:20261124T170010Z
+UID:af-serie-a-women-1601376@herfixtures.com
+DESCRIPTION:Serie A Women 2026/27\nInter vs Sassuolo\nStatus: Not Started\
+ nKick-off time not confirmed yet. Your calendar updates automatically once
+  it is.\nVenue: Stadio Ernesto Breda\, Sesto San Giovanni\n\nFixtures by H
+ erFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+END:VCALENDAR

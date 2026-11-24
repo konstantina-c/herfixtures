@@ -84,12 +84,14 @@ def placeholder_ids(fixtures: list[dict], now: datetime, min_games: int = 4) -> 
 
 
 def team_name(team: dict, league: dict) -> str:
-    """Our display name: from the config team list, else API name without the ' W' suffix."""
+    """Our display name: config team list, else api_football.rename (keeps names stable when a
+    competition moves source, e.g. UCL "Lyon W" -> "OL Lyonnes"), else API name without ' W'."""
     cfg = league.get("teams", {}).get(str(team.get("id")))
     if cfg:
         return cfg[0]
     name = " ".join(str(team.get("name", "")).split())
-    return name[:-2] if name.endswith(" W") else name
+    name = name[:-2] if name.endswith(" W") else name
+    return league.get("api_football", {}).get("rename", {}).get(name, name)
 
 
 def parse(fx: dict, league: dict, placeholders: set[int], first_line: str | None = None) -> dict | None:
@@ -122,7 +124,10 @@ def parse(fx: dict, league: dict, placeholders: set[int], first_line: str | None
         elif time_tbc:
             summary += " (time TBC)"
 
-        desc = [first_line or league["title"], line2, f"Status: {f['status'].get('long', '')}"]
+        line1 = first_line or league["title"]
+        if league.get("title_round") and fx.get("league", {}).get("round"):
+            line1 += f" · {fx['league']['round']}"   # e.g. "… 2026/27 · League Stage - 6"
+        desc = [line1, line2, f"Status: {f['status'].get('long', '')}"]
         if time_tbc:
             desc.append("Kick-off time not confirmed yet. Your calendar updates automatically once it is.")
         venue = f.get("venue") or {}
@@ -139,6 +144,9 @@ def parse(fx: dict, league: dict, placeholders: set[int], first_line: str | None
             "time_tbc": time_tbc,
             "url": "https://herfixtures.com",
             "team_ids": {str(teams["home"].get("id", "")), str(teams["away"].get("id", ""))},
+            # Short name + crest for the homepage Scores Strip (feeds/strip/<league>.json)
+            "strip": {"home": {"name": h, "logo": teams["home"].get("logo", "")},
+                      "away": {"name": a, "logo": teams["away"].get("logo", "")}},
         }
     except (KeyError, TypeError, ValueError) as e:
         print(f"  ⚠️  Skipping malformed fixture {fx.get('fixture', {}).get('id', '?')}: {e}")

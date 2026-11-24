@@ -493,7 +493,23 @@
     },
     "ucl-women": {
       "name": "UEFA Women's Champions League",
-      "espn": "soccer/uefa.wchampions",
+      "source": "api-football",
+      "api_football": {
+        "league": 525,
+        "season": 2026,
+        "uniform_min": 0,
+        "rename": {
+          "Austria Wien": "Austria Vienna",
+          "Häcken": "BK Häcken",
+          "SL Benfica": "Benfica",
+          "Køge": "HB Køge",
+          "Inter Milano": "Internazionale",
+          "Lyon": "OL Lyonnes",
+          "Paris Saint Germain": "Paris Saint-Germain",
+          "Servette Chênois": "Servette",
+          "PSV/Eindhoven": "PSV"
+        }
+      },
       "season": {
         "start": "2026-09-01",
         "end": "2027-05-31"
@@ -503,7 +519,7 @@
       "match_minutes": 120,
       "title_round": true,
       "output": "womens_ucl.ics",
-      "uid_prefix": "espn-ucl-women",
+      "uid_prefix": "af-ucl-women",
       "title": "Women's Champions League 2026/27",
       "prodid": "-//HerFixtures//UCL Women 2026-27//EN",
       "cal_name": "Women's Champions League 2026/27 — HerFixtures",
@@ -664,6 +680,82 @@
         "27907": [
           "De Graafschap",
           "de_graafschap"
+        ]
+      }
+    },
+    "serie-a-women": {
+      "name": "Serie A Women",
+      "source": "api-football",
+      "api_football": {
+        "league": 139,
+        "season": 2026,
+        "uniform_min": 4
+      },
+      "season": {
+        "start": "2026-09-20",
+        "end": "2027-05-31"
+      },
+      "emoji": "⚽",
+      "order": "home_vs_away",
+      "match_minutes": 120,
+      "output": "serie_a_women.ics",
+      "uid_prefix": "af-serie-a-women",
+      "title": "Serie A Women 2026/27",
+      "prodid": "-//HerFixtures//Serie A Women 2026-27//EN",
+      "cal_name": "Serie A Women 2026/27 — HerFixtures",
+      "cal_desc": "Italian Serie A Women 2026/27 fixtures. Updated automatically by HerFixtures.com",
+      "team_prefix": "serie_a_women_",
+      "team_prodid": "-//HerFixtures//Serie A Women 2026-27 {team}//EN",
+      "team_cal_name": "{team} — Serie A Women 2026/27 — HerFixtures",
+      "team_cal_desc": "{team} Serie A Women 2026/27 fixtures. Updated automatically by HerFixtures.com",
+      "teams": {
+        "1893": [
+          "AC Milan",
+          "ac_milan"
+        ],
+        "27960": [
+          "Como 1907",
+          "como_1907"
+        ],
+        "19747": [
+          "Como Women",
+          "como_women"
+        ],
+        "1880": [
+          "Fiorentina",
+          "fiorentina"
+        ],
+        "7533": [
+          "Inter",
+          "inter"
+        ],
+        "1886": [
+          "Juventus",
+          "juventus"
+        ],
+        "17369": [
+          "Lazio",
+          "lazio"
+        ],
+        "14432": [
+          "Napoli",
+          "napoli"
+        ],
+        "19748": [
+          "Parma",
+          "parma"
+        ],
+        "1892": [
+          "Roma",
+          "roma"
+        ],
+        "1889": [
+          "Sassuolo",
+          "sassuolo"
+        ],
+        "23669": [
+          "Ternana",
+          "ternana"
         ]
       }
     }
