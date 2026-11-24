@@ -1,0 +1,62 @@
+{
+ "espn-premiere-ligue-401885641@herfixtures.com": {
+  "away": {
+   "logo": "",
+   "name": "Strasbourg"
+  },
+  "home": {
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19256.png",
+   "name": "Lyonnes"
+  }
+ },
+ "espn-premiere-ligue-401885642@herfixtures.com": {
+  "away": {
+   "logo": "",
+   "name": "Nantes"
+  },
+  "home": {
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21635.png",
+   "name": "Le Havre AC"
+  }
+ },
+ "espn-premiere-ligue-401885643@herfixtures.com": {
+  "away": {
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21637.png",
+   "name": "Fleury"
+  },
+  "home": {
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21640.png",
+   "name": "Paris FC"
+  }
+ },
+ "espn-premiere-ligue-401885692@herfixtures.com": {
+  "away": {
+   "logo": "",
+   "name": "Saint-Malo"
+  },
+  "home": {
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19258.png",
+   "name": "PSG"
+  }
+ },
+ "espn-premiere-ligue-401885693@herfixtures.com": {
+  "away": {
+   "logo": "",
+   "name": "Marseille"
+  },
+  "home": {
+   "logo": "",
+   "name": "Toulouse"
+  }
+ },
+ "espn-premiere-ligue-401888025@herfixtures.com": {
+  "away": {
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21638.png",
+   "name": "Montpellier"
+  },
+  "home": {
+   "logo": "",
+   "name": "Lens"
+  }
+ }
+}

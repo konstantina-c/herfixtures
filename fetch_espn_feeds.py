@@ -47,6 +47,7 @@ ROOT = Path(__file__).resolve().parent
 CONFIG = ROOT / "feeds" / "espn_leagues.json"
 ESPN = "https://site.api.espn.com/apis/site/v2/sports"
 PAST_REFETCH_DAYS = 7
+STRIP_DAYS_BACK, STRIP_DAYS_AHEAD = 4, 8   # strip team data kept around today (see write_strip_teams)
 FOOTER = "\nFixtures by HerFixtures.com — Women's Sports on Your Calendar"
 
 
@@ -82,6 +83,16 @@ def parse(event: dict, league: dict, first_line: str | None = None) -> dict | No
             rank = (c.get("curatedRank") or {}).get("current", 99)
             return f"#{rank} {n}" if league.get("show_rank") and rank <= 25 else n
         h_name, a_name = name_of(home), name_of(away)
+
+        # Short name + crest for the homepage Scores Strip (feeds/strip/<league>.json).
+        def strip_team(c: dict) -> dict:
+            t = c["team"]
+            short = t.get("location") if league.get("team_name") == "location" else t.get("shortDisplayName")
+            short = " ".join((short or t.get("displayName") or "").split())
+            rank = (c.get("curatedRank") or {}).get("current", 99)
+            if league.get("show_rank") and rank <= 25:
+                short = f"#{rank} {short}"
+            return {"name": short, "logo": t.get("logo", "")}
         start = datetime.fromisoformat(event["date"].replace("Z", "+00:00"))
         status = comp["status"]["type"]
         done = status.get("state") == "post"
@@ -123,6 +134,7 @@ def parse(event: dict, league: dict, first_line: str | None = None) -> dict | No
             "time_tbc": time_tbc,
             "url": links[0].get("href", "https://herfixtures.com") if links else "https://herfixtures.com",
             "team_ids": {str(home["team"].get("id", "")), str(away["team"].get("id", ""))},
+            "strip": {"home": strip_team(home), "away": strip_team(away)},
         }
     except (KeyError, IndexError, TypeError, ValueError) as e:
         print(f"  ⚠️  Skipping malformed event {event.get('id', '?')}: {e}")
@@ -200,6 +212,19 @@ def team_schedule(league: dict, team_id: str) -> list | None:
     return None
 
 
+def write_strip_teams(lid: str, games: list[dict], out_dir: Path, today: date) -> None:
+    """Short team names + crests for games around today, keyed by event UID.
+
+    scripts/build_scores_json.py joins these onto the published .ics events, so the
+    Scores Strip shows exactly the games fans subscribe to, with compact names.
+    """
+    lo, hi = today - timedelta(days=STRIP_DAYS_BACK), today + timedelta(days=STRIP_DAYS_AHEAD)
+    teams = {g["uid"]: g["strip"] for g in games if "strip" in g and lo <= g["start"].date() <= hi}
+    path = out_dir / "feeds" / "strip" / f"{lid}.json"
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(teams, indent=1, ensure_ascii=False, sort_keys=True) + "\n", encoding="utf-8")
+
+
 # ── One league ────────────────────────────────────────────────────────────────
 
 def run_league(lid: str, league: dict, out_dir: Path, today: date) -> bool:
@@ -239,6 +264,7 @@ def run_league(lid: str, league: dict, out_dir: Path, today: date) -> bool:
         print("  ⚠️  No events — keeping existing file")
         return False
     ok = safe_write_ics(main_file, cal.to_ical())
+    write_strip_teams(lid, games, out_dir, today)
 
     for team_id, (team, slug) in league.get("teams", {}).items():
         path = out_dir / f"{league['team_prefix']}{slug}.ics"

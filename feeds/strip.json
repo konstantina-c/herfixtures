@@ -1,0 +1,256 @@
+{
+  "_about": "Scores Strip settings, read by scripts/build_scores_json.py. 'order' = dropdown and fair-mix order (homepage card order); 'labels' = short competition names on strip cards; 'away_first' = competitions shown away team on top (US convention), every other competition shows the home team on top; 'teams' = short names + crests for feeds the ESPN engine does not describe (keyed by the team name in the .ics). ESPN-engine leagues get theirs from feeds/strip/<league>.json, written by fetch_espn_feeds.py. A 'teams' entry with only a 'logo' fills in a crest ESPN lacks (same club-crest substitutes as the homepage pickers), matched by .ics name or short name.",
+  "order": [
+    "frauen-bundesliga",
+    "liga-f",
+    "wsl",
+    "premiere-ligue",
+    "a-league-women",
+    "liga-mx-femenil",
+    "eredivisie-women",
+    "ncaa-wbb",
+    "wnba",
+    "nwsl",
+    "ucl-women",
+    "euroleague-women",
+    "fiba-wwc-2026"
+  ],
+  "labels": {
+    "frauen-bundesliga": "Frauen-Bundesliga",
+    "liga-f": "Liga F",
+    "wsl": "WSL",
+    "premiere-ligue": "Première Ligue",
+    "a-league-women": "A-League Women",
+    "liga-mx-femenil": "Liga MX Femenil",
+    "eredivisie-women": "Eredivisie Women",
+    "ncaa-wbb": "NCAA Women's Basketball",
+    "wnba": "WNBA",
+    "nwsl": "NWSL",
+    "ucl-women": "Women's Champions League",
+    "euroleague-women": "EuroLeague Women",
+    "fiba-wwc-2026": "FIBA Women's World Cup"
+  },
+  "away_first": [
+    "nwsl",
+    "wnba",
+    "ncaa-wbb"
+  ],
+  "teams": {
+    "frauen-bundesliga": {
+      "1. FC Köln Frauen": {
+        "name": "Köln",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png"
+      },
+      "1. FC Nürnberg Frauen": {
+        "name": "Nürnberg",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/269.png"
+      },
+      "1. FC Union Berlin Frauen": {
+        "name": "Union Berlin",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png"
+      },
+      "1. FSV Mainz 05 Frauen": {
+        "name": "Mainz",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png"
+      },
+      "Bayer 04 Leverkusen Frauen": {
+        "name": "Leverkusen",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png"
+      },
+      "Eintracht Frankfurt Frauen": {
+        "name": "Frankfurt",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png"
+      },
+      "FC Bayern München Frauen": {
+        "name": "Bayern",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png"
+      },
+      "Hamburger SV Frauen": {
+        "name": "Hamburg",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png"
+      },
+      "RB Leipzig Frauen": {
+        "name": "Leipzig",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png"
+      },
+      "SC Freiburg Frauen": {
+        "name": "Freiburg",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png"
+      },
+      "SV Werder Bremen Frauen": {
+        "name": "Bremen",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png"
+      },
+      "TSG 1899 Hoffenheim Frauen": {
+        "name": "Hoffenheim",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png"
+      },
+      "VfB Stuttgart Frauen": {
+        "name": "Stuttgart",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png"
+      },
+      "VfL Wolfsburg Frauen": {
+        "name": "Wolfsburg",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png"
+      }
+    },
+    "eredivisie-women": {
+      "ADO Den Haag": {
+        "name": "ADO Den Haag",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2726.png"
+      },
+      "AZ": {
+        "name": "AZ",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png"
+      },
+      "Ajax": {
+        "name": "Ajax",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/139.png"
+      },
+      "De Graafschap": {
+        "name": "De Graafschap",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/144.png"
+      },
+      "FC Twente": {
+        "name": "Twente",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/152.png"
+      },
+      "FC Utrecht": {
+        "name": "Utrecht",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/153.png"
+      },
+      "Feyenoord": {
+        "name": "Feyenoord",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png"
+      },
+      "Heerenveen": {
+        "name": "Heerenveen",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/146.png"
+      },
+      "PEC Zwolle": {
+        "name": "PEC Zwolle",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2565.png"
+      },
+      "PSV": {
+        "name": "PSV",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png"
+      }
+    },
+    "euroleague-women": {
+      "AZS UMCS Lublin": {
+        "name": "AZS Lublin"
+      },
+      "Athinaikos Qualco": {
+        "name": "Athinaikos"
+      },
+      "Basket Landes": {
+        "name": "Basket Landes"
+      },
+      "Beretta Famila Schio": {
+        "name": "Schio"
+      },
+      "CS Rapid Bucuresti": {
+        "name": "Rapid Bucuresti"
+      },
+      "Casademont Zaragoza": {
+        "name": "Zaragoza"
+      },
+      "DVTK HUNTHERM": {
+        "name": "DVTK"
+      },
+      "ENEA AZS Politechnika Poznan": {
+        "name": "AZS Poznan"
+      },
+      "Emlak Konut": {
+        "name": "Emlak Konut"
+      },
+      "Fenerbahçe": {
+        "name": "Fenerbahçe"
+      },
+      "Flammes Carolo Basket Ardennes": {
+        "name": "Flammes Carolo"
+      },
+      "Galatasaray": {
+        "name": "Galatasaray"
+      },
+      "KKZ Crvena Zvezda": {
+        "name": "Crvena Zvezda"
+      },
+      "KP Brno": {
+        "name": "KP Brno"
+      },
+      "Kangoeroes Basket Mechelen": {
+        "name": "Mechelen"
+      },
+      "Kibirkstis-TOKS Vilnius": {
+        "name": "Kibirkstis"
+      },
+      "Panathinaikos": {
+        "name": "Panathinaikos"
+      },
+      "Sopron Basket": {
+        "name": "Sopron"
+      },
+      "Spar Girona": {
+        "name": "Girona"
+      },
+      "Tango Bourges Basket": {
+        "name": "Bourges"
+      },
+      "Umana Reyer Venice": {
+        "name": "Reyer Venice"
+      },
+      "Valencia Basket Club": {
+        "name": "Valencia"
+      },
+      "ZVVZ USK Praha": {
+        "name": "USK Praha"
+      },
+      "Zabiny Brno": {
+        "name": "Zabiny Brno"
+      }
+    },
+    "premiere-ligue": {
+      "Lens": {
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png"
+      },
+      "Marseille": {
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png"
+      },
+      "Nantes": {
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png"
+      },
+      "Saint-Malo": {
+        "logo": "/assets/team-logos/saint-malo.png"
+      },
+      "Strasbourg": {
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png"
+      },
+      "Toulouse": {
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png"
+      }
+    },
+    "a-league-women": {
+      "Central Coast Mariners": {
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5325.png"
+      },
+      "Central Coast": {
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5325.png"
+      }
+    },
+    "liga-mx-femenil": {
+      "Atlas": {
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/216.png"
+      },
+      "Atlético de San Luis": {
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15720.png"
+      },
+      "San Luis": {
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15720.png"
+      },
+      "Necaxa": {
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/229.png"
+      }
+    }
+  }
+}
