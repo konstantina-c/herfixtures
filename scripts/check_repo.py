@@ -30,7 +30,7 @@ tracked += [str(p.relative_to(ROOT)) for p in ROOT.glob("*.ics")]  # new, not-ye
 
 # 4. JSON configs
 configs = {}
-for name in ("feeds/manifest.json", "feeds/espn_leagues.json", "feeds/frauen_bl_overrides.json"):
+for name in ("feeds/manifest.json", "feeds/espn_leagues.json", "feeds/frauen_bl_overrides.json", "feeds/strip.json"):
     try:
         configs[name] = json.loads((ROOT / name).read_text(encoding="utf-8"))
     except (OSError, ValueError) as e:

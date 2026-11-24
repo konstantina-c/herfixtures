@@ -12,7 +12,7 @@ HerFixtures (herfixtures.com) is a women's sports calendar subscription service:
 
 There is **no build system**. Deployment is on **Vercel** (`vercel.json`: `text/calendar` + 12h cache for `.ics`).
 
-- `index.html`: the entire frontend (vanilla HTML/CSS/JS): competition cards, team pickers (`*_CONFIG` objects + `FeedModal`), the **Scores Strip** (reads `scores.json`), badges (read `feed_status.json`).
+- `index.html`: the entire frontend (vanilla HTML/CSS/JS): competition cards, team pickers (`*_CONFIG` objects + `FeedModal`), the **Scores Strip** (reads `scores.json`, built from our own feeds by `scripts/build_scores_json.py`; its rules are in that file's docstring), badges (read `feed_status.json`).
 - `api/subscribe.js`: Vercel function for email capture (Beehiiv).
 - `*.ics`: the feeds, committed to the repo, served statically.
 - **`fetch_espn_feeds.py` + `feeds/espn_leagues.json`: the shared feed engine.** 8 ESPN competitions are config entries: Liga F, WSL, Première Ligue, A-League Women, Liga MX Femenil, NCAA WBB, UCL Women, NWSL. Plus Eredivisie Women from **API-Football** (`"source": "api-football"`, adapter `apifootball.py`, licensed paid plan on Konstantina's account): one request per league per run, same calendar building and shrink guard.
