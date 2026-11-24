@@ -834,7 +834,9 @@ body {
 /* ── DESKTOP — 1280px+ ──────────────────────────────────── */
 @media (min-width: 1280px) {
 
-  #live-page .real-topbar { padding: 24px 80px; }
+  /* Wider than 1280px: keep the top bar and Scores Strip inside the same centred
+     1280px column as the hero and cards (80px inset), so every edge lines up. */
+  #live-page .real-topbar { padding: 24px max(80px, calc((100% - 1280px) / 2 + 80px)); }
 
   #live-page .page-content { max-width: 1280px; }
 
@@ -865,7 +867,7 @@ body {
 
   #live-page .email-sub { font-size: 18px; }
 
-  #live-page .real-footer { padding: 48px 80px; }
+  #live-page .real-footer { padding: 48px max(80px, calc((100% - 1280px) / 2 + 80px)); }
 }
 
 
@@ -902,6 +904,41 @@ body {
   white-space: nowrap;
   transition: color 0.4s;
 }
+
+/* Header row: labels + competition filter (right-aligned) */
+.strip-head {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+.strip-head #strip-label-row { flex: 1; min-width: 0; margin-bottom: 0; height: 30px; }
+.strip-head .strip-label { top: 50%; transform: translateY(-50%); }
+#strip-filter {
+  flex-shrink: 0;
+  max-width: 220px;
+  height: 30px;
+  padding: 0 30px 0 12px;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text);
+  background-color: var(--card);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 12'%3E%3Cpath d='M3 4.5l3 3 3-3' fill='none' stroke='%238A8AA0' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 10px center;
+  background-size: 12px;
+  border: 1px solid var(--border2);
+  border-radius: 8px;
+  appearance: none;
+  -webkit-appearance: none;
+  text-overflow: ellipsis;
+  cursor: pointer;
+}
+#strip-filter:hover { border-color: var(--brand-fg); }
+#strip-filter:focus-visible { outline: 2px solid var(--brand-fg); outline-offset: 2px; }
+#strip-filter[hidden] { display: none; }
+@media (max-width: 600px) { #strip-filter { max-width: 170px; } }
 
 /* Scroll container */
 #strip-scroll {
@@ -965,8 +1002,14 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  gap: 6px;
   width: 100%;
 }
+.gc-header .gc-league { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.gc-initial { font-size: 10px; font-weight: 700; color: var(--muted); }
+.gc-team-left { min-width: 0; }
+.gc-team-left .gc-name { overflow: hidden; text-overflow: ellipsis; }
+.gc-team .gc-score { margin-left: 8px; }
 .gc-league {
   font-size: 10px;
   font-weight: 700;
@@ -1042,12 +1085,12 @@ body {
 }
 .gc-score.loser { color: var(--muted); }
 
-/* Responsive */
+/* Responsive: same side spacing as the top bar and hero (20 / 48 / 80px) */
 @media (min-width: 768px) {
-  #scores-strip { padding: 16px 32px; }
+  #scores-strip { padding: 16px 48px; }
 }
-@media (min-width: 1024px) {
-  #scores-strip { padding: 16px 80px; }
+@media (min-width: 1280px) {
+  #scores-strip { padding: 16px max(80px, calc((100% - 1280px) / 2 + 80px)); }
 }
 
 </style>
@@ -1109,18 +1152,19 @@ body {
          SCORES STRIP — PostGame · LiveGame · PreGame
     ══════════════════════════════════════════ -->
     <div id="scores-strip">
-      <div id="strip-label-row">
-        <div class="strip-label" id="label-postgame">Final Results</div>
-        <div class="strip-label" id="label-livegame" style="display:none;">Live Now</div>
-        <div class="strip-label" id="label-pregame">Coming Up</div>
+      <div class="strip-head">
+        <div id="strip-label-row">
+          <div class="strip-label" id="label-postgame">Final Results</div>
+          <div class="strip-label" id="label-pregame">Coming Up</div>
+        </div>
+        <select id="strip-filter" aria-label="Show games from" hidden>
+          <option value="all">All competitions</option>
+        </select>
       </div>
       <div id="strip-scroll">
         <div id="strip-track">
           <div class="strip-group" id="group-postgame">
             <div class="strip-cards" id="cards-postgame"></div>
-          </div>
-          <div class="strip-group" id="group-livegame" style="display:none;">
-            <div class="strip-cards" id="cards-livegame"></div>
           </div>
           <div class="strip-group" id="group-pregame">
             <div class="strip-cards" id="cards-pregame"></div>
@@ -2420,7 +2464,8 @@ function formatKickoff(iso) {
 }
 
 function teamLogo(team) {
-  return team.logo ? `<img src="${team.logo}" alt="${team.name}" loading="lazy">` : '';
+  return team.logo ? `<img src="${team.logo}" alt="${team.name}" loading="lazy">`
+                   : `<span class="gc-initial" aria-hidden="true">${team.name.replace(/^#\d+\s*/, '').charAt(0)}</span>`;
 }
 
 /* ── GameCard component ───────────────────────────────── */
@@ -2429,8 +2474,10 @@ function makeCard(game) {
   card.className = 'game-card';
 
   if (game.variant === 'postgame') {
-    // winner field set by fetch_scores_json.py (away team is "home" slot per US convention)
-    const hw = game.winner ? game.winner === 'home' : game.home.score > game.away.score;
+    // "home" slot = top row (away team on top only for US competitions; see scripts/build_scores_json.py)
+    const draw = game.winner === 'draw';
+    const hw = draw || (game.winner ? game.winner === 'home' : game.home.score > game.away.score);
+    const aw = draw || !hw;
     card.innerHTML = `
       <div class="gc-header">
         <span class="gc-league">${game.league}</span>
@@ -2447,9 +2494,9 @@ function makeCard(game) {
         <div class="gc-team">
           <div class="gc-team-left">
             <div class="gc-logo">${teamLogo(game.away)}</div>
-            <span class="gc-name ${hw?'loser':''}">${game.away.name}</span>
+            <span class="gc-name ${aw?'':'loser'}">${game.away.name}</span>
           </div>
-          <span class="gc-score ${hw?'loser':''}">${game.away.score}</span>
+          <span class="gc-score ${aw?'':'loser'}">${game.away.score}</span>
         </div>
       </div>`;
   }
@@ -2479,7 +2526,9 @@ function makeCard(game) {
   }
 
   else if (game.variant === 'pregame') {
-    const tl = game.kickoff ? formatKickoff(game.kickoff) : (game.kickoff_label || '');
+    const tl = game.kickoff ? formatKickoff(game.kickoff)
+             : game.tbcDate ? new Date(game.tbcDate + 'T12:00:00Z').toLocaleDateString('en-GB', { weekday: 'short', day: 'numeric', month: 'short', timeZone: 'UTC' }) + ' · TBC'
+             : (game.kickoff_label || '');
     card.innerHTML = `
       <div class="gc-header">
         <span class="gc-league">${game.league}</span>
@@ -2504,35 +2553,82 @@ function makeCard(game) {
   return card;
 }
 
-/* ── Render ───────────────────────────────────────────── */
-function render(data) {
-  document.getElementById('cards-postgame').innerHTML = '';
-  document.getElementById('cards-livegame').innerHTML = '';
-  document.getElementById('cards-pregame').innerHTML = '';
+/* ── Render ───────────────────────────────────────────
+   Data: scores.json v2 (scripts/build_scores_json.py). Rules:
+   - "All competitions" (default): results ≤3 per competition, games in the
+     next 3 days ≤2 per competition, 12 cards max per section.
+   - One competition: its results (last 3 days) + games (next 7 days).
+   - A section with no games is hidden; if nothing at all, the strip hides.
+   - No demo data and no "Live" section, ever.
+──────────────────────────────────────────────────────── */
+const STRIP = { data: null, choice: 'all' };
 
-  const competitions = data.competitions || {};
-  const allPostgame = [], allLivegame = [], allPregame = [];
-
-  const now = new Date();
-  Object.values(competitions).forEach(comp => {
-    (comp.postgame || []).forEach(g => { g.variant = 'postgame'; allPostgame.push(g); });
-    (comp.livegame || []).forEach(g => { g.variant = 'livegame'; allLivegame.push(g); });
-    (comp.pregame  || []).forEach(g => {
-      if (g.kickoff && new Date(g.kickoff) <= now) return; // skip stale entries
-      g.variant = 'pregame';
-      allPregame.push(g);
-    });
+function stripGames(data, choice) {
+  const R = data.rules || {}, now = new Date();
+  const today = now.toISOString().slice(0, 10);
+  const upcoming = g => g.tbc ? g.date >= today : new Date(g.kickoff) > now;
+  const card = (g, lg) => ({
+    league: lg.short || lg.name, home: g.top, away: g.bottom,
+    winner: g.winner === 'top' ? 'home' : g.winner === 'bottom' ? 'away' : g.winner,
+    kickoff: g.kickoff, tbcDate: g.tbc ? g.date : null,
   });
+  const leagues = data.leagues || [];
+  if (choice !== 'all') {
+    const lg = leagues.find(l => l.id === choice);
+    return lg ? { post: lg.results.map(g => card(g, lg)), pre: lg.upcoming.filter(upcoming).map(g => card(g, lg)) }
+              : { post: [], pre: [] };
+  }
+  const horizon = new Date(now.getTime() + (R.all_upcoming_days || 3) * 864e5);
+  const soon = g => g.tbc ? g.date <= horizon.toISOString().slice(0, 10) : new Date(g.kickoff) <= horizon;
+  let post = [], pre = [];
+  leagues.forEach(lg => {
+    post.push(...lg.results.slice(0, R.all_results_per_league || 3).map(g => card(g, lg)));
+    pre.push(...lg.upcoming.filter(upcoming).filter(soon).slice(0, R.all_upcoming_per_league || 2).map(g => card(g, lg)));
+  });
+  const key = c => c.kickoff || (c.tbcDate + 'T23:59:59Z');
+  post.sort((a, b) => key(b).localeCompare(key(a)));
+  pre.sort((a, b) => key(a).localeCompare(key(b)));
+  const max = R.all_max || 12;
+  return { post: post.slice(0, max), pre: pre.slice(0, max) };
+}
 
-  const lgGroup = document.getElementById('group-livegame');
-  const lgLabel = document.getElementById('label-livegame');
-  lgGroup.style.display = allLivegame.length ? '' : 'none';
-  lgLabel.style.display = allLivegame.length ? '' : 'none';
+function fillFilter(data) {
+  const sel = document.getElementById('strip-filter');
+  if (sel.dataset.filled) return;
+  sel.dataset.filled = '1';
+  let n = 0;
+  (data.leagues || []).forEach(lg => {
+    const g = stripGames(data, lg.id), count = g.post.length + g.pre.length;
+    if (!count) return;
+    const o = document.createElement('option');
+    o.value = lg.id;
+    o.textContent = `${lg.name} (${count})`;
+    sel.appendChild(o);
+    n++;
+  });
+  sel.hidden = n < 2;   // a filter with one choice is noise
+  sel.addEventListener('change', () => {
+    STRIP.choice = sel.value;
+    gtag('event', 'scores_strip_filter', { competition: sel.value });
+    render(STRIP.data);
+  });
+}
 
-  allPostgame.forEach(g => document.getElementById('cards-postgame').appendChild(makeCard(g)));
-  allLivegame.forEach(g => document.getElementById('cards-livegame').appendChild(makeCard(g)));
-  allPregame.forEach(g  => document.getElementById('cards-pregame').appendChild(makeCard(g)));
-
+function render(data) {
+  const strip = document.getElementById('scores-strip');
+  if (!data || data.version !== 2) { strip.hidden = true; return; }
+  STRIP.data = data;
+  fillFilter(data);
+  const { post, pre } = stripGames(data, STRIP.choice);
+  [['postgame', post], ['pregame', pre]].forEach(([k, games]) => {
+    const box = document.getElementById('cards-' + k);
+    box.innerHTML = '';
+    games.forEach(g => { g.variant = k; box.appendChild(makeCard(g)); });
+    document.getElementById('group-' + k).style.display = games.length ? '' : 'none';
+    document.getElementById('label-' + k).style.display = games.length ? '' : 'none';
+  });
+  strip.hidden = !post.length && !pre.length && STRIP.choice === 'all';
+  document.getElementById('strip-scroll').scrollLeft = 0;
   requestAnimationFrame(positionLabels);
 }
 
@@ -2543,7 +2639,7 @@ function render(data) {
    When that value < the sum of already-pinned label widths,
    the label is clamped to that sum (it pins to the left).
 ──────────────────────────────────────────────────────── */
-const GROUPS  = ['postgame', 'livegame', 'pregame'];
+const GROUPS  = ['postgame', 'pregame'];
 const GAP     = 24; // matches strip-track gap
 
 function positionLabels() {
@@ -2623,31 +2719,6 @@ function positionLabels() {
 document.getElementById('strip-scroll').addEventListener('scroll', positionLabels);
 window.addEventListener('resize', positionLabels);
 
-/* ── Demo data ────────────────────────────────────────── */
-const DEMO = {
-  competitions: {
-    wnba: {
-      name: 'WNBA', sport: 'basketball', slug: 'wnba',
-      postgame: [
-        { league:'WNBA', home:{name:'Lynx',   score:79, logo:'https://a.espncdn.com/i/teamlogos/wnba/500/minx.png'}, away:{name:'Sky',     score:58, logo:'https://a.espncdn.com/i/teamlogos/wnba/500/chis.png'} },
-        { league:'WNBA', home:{name:'Sparks', score:92, logo:'https://a.espncdn.com/i/teamlogos/wnba/500/lal.png'},  away:{name:'Mystics', score:87, logo:'https://a.espncdn.com/i/teamlogos/wnba/500/wsh.png'} },
-        { league:'WNBA', home:{name:'Dream',  score:86, logo:'https://a.espncdn.com/i/teamlogos/wnba/500/atl.png'},  away:{name:'Fire',    score:66, logo:'https://a.espncdn.com/i/teamlogos/wnba/500/por.png'} },
-      ],
-      livegame: [],
-      pregame: [
-        { league:'WNBA', kickoff:(() => { const d=new Date(); d.setHours(d.getHours()+2); return d.toISOString(); })(), home:{name:'Lynx', logo:'https://a.espncdn.com/i/teamlogos/wnba/500/minx.png'}, away:{name:'Sky', logo:'https://a.espncdn.com/i/teamlogos/wnba/500/chis.png'} },
-        { league:'WNBA', kickoff:(() => { const d=new Date(); const s=(6-d.getDay()+7)%7||7; d.setDate(d.getDate()+s); d.setHours(0,0,0,0); return d.toISOString(); })(), home:{name:'Lynx', logo:'https://a.espncdn.com/i/teamlogos/wnba/500/minx.png'}, away:{name:'Sky', logo:'https://a.espncdn.com/i/teamlogos/wnba/500/chis.png'} },
-      ],
-    },
-    nwsl: {
-      name: 'NWSL', sport: 'football', slug: 'nwsl',
-      postgame: [],
-      livegame: [],
-      pregame:  [],
-    },
-  },
-};
-
 /* Live badges: text + style come from feed_status.json (built from season dates in every
    refresh, see scripts/build_feed_status.py). The text in the HTML stays as the fallback. */
 fetch('/feed_status.json', { cache: 'no-cache' })
@@ -2664,19 +2735,10 @@ fetch('/feed_status.json', { cache: 'no-cache' })
   })
   .catch(() => {});
 
-fetch('/scores.json')
+fetch('/scores.json', { cache: 'no-cache' })
   .then(r => { if (!r.ok) throw 0; return r.json(); })
-  .then(data => { render(data); })
-  .catch(() => render(DEMO));
-
-/* ── Controls ─────────────────────────────────────────── */
-function addLiveGame() {
-  const d = JSON.parse(JSON.stringify(DEMO));
-  d.competitions.wnba.livegame = [
-    { league:'WNBA', home:{name:'Fever',   score:54, logo:'https://a.espncdn.com/i/teamlogos/wnba/500/ind.png'}, away:{name:'Liberty', score:49, logo:'https://a.espncdn.com/i/teamlogos/wnba/500/nyl.png'} },
-  ];
-  render(d);
-}
+  .then(render)
+  .catch(() => { document.getElementById('scores-strip').hidden = true; });
 
 </script>
 
