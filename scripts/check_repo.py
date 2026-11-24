@@ -8,7 +8,7 @@ Catches mistakes that YAML validation and a local test run don't:
   2. every feed in feeds/manifest.json and every league in feeds/espn_leagues.json
      (competition + team files) is covered by that `git add` line
   3. every Python file compiles
-  4. the JSON config files parse
+  4. the JSON config files parse (and Frauen-BL corrections are complete)
 Exit 1 with a list of problems, so scripts/merge_pr.sh refuses the merge.
 """
 
@@ -30,11 +30,23 @@ tracked += [str(p.relative_to(ROOT)) for p in ROOT.glob("*.ics")]  # new, not-ye
 
 # 4. JSON configs
 configs = {}
-for name in ("feeds/manifest.json", "feeds/espn_leagues.json"):
+for name in ("feeds/manifest.json", "feeds/espn_leagues.json", "feeds/frauen_bl_overrides.json"):
     try:
         configs[name] = json.loads((ROOT / name).read_text(encoding="utf-8"))
     except (OSError, ValueError) as e:
         problems.append(f"{name} does not parse: {e}")
+
+# 4b. Frauen-BL corrections: every entry complete, kick-off a real date-time
+from datetime import datetime  # noqa: E402
+for i, o in enumerate(configs.get("feeds/frauen_bl_overrides.json", {}).get("overrides", [])):
+    missing = [k for k in ("match_id", "game", "kickoff_local", "openligadb_last_update", "source") if not o.get(k)]
+    if missing:
+        problems.append(f"frauen_bl_overrides.json entry {i}: missing {', '.join(missing)}")
+        continue
+    try:
+        datetime.fromisoformat(o["kickoff_local"])
+    except ValueError:
+        problems.append(f"frauen_bl_overrides.json entry {i}: kickoff_local '{o['kickoff_local']}' is not YYYY-MM-DDTHH:MM")
 
 # 1. git add paths in refresh.yml
 wf = (ROOT / ".github/workflows/refresh.yml").read_text(encoding="utf-8")

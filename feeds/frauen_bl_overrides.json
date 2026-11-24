@@ -1,0 +1,19 @@
+{
+  "_about": "Hand-checked kick-off corrections for Frauen-Bundesliga games that OpenLigaDB has wrong. Applied by fetch_frauen_bundesliga.py (and the team feeds) on every refresh. kickoff_local is German time (Europe/Berlin). openligadb_last_update is the game's lastUpdateDateTime on OpenLigaDB when the correction was written: if OpenLigaDB edits the game after that, the correction is NOT applied and the refresh log warns, so a real DFB reschedule is never hidden. Once OpenLigaDB shows the same kick-off, the log says the entry can be deleted.",
+  "overrides": [
+    {
+      "match_id": 85818,
+      "game": "1. FC Nürnberg Frauen – Eintracht Frankfurt Frauen (15. Spieltag)",
+      "kickoff_local": "2027-01-24T18:30",
+      "openligadb_last_update": "2026-11-14T09:28:19.517",
+      "source": "DFB datencenter, checked 2026-11-19 (OpenLigaDB: Mon 25 Jan 18:00)"
+    },
+    {
+      "match_id": 85817,
+      "game": "RB Leipzig Frauen – SV Werder Bremen Frauen (15. Spieltag)",
+      "kickoff_local": "2027-01-25T18:00",
+      "openligadb_last_update": "2026-08-05T10:35:18.52",
+      "source": "DFB datencenter, checked 2026-11-19 (OpenLigaDB: Sun 24 Jan 15:30 placeholder)"
+    }
+  ]
+}
