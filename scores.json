@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T17:00:50Z",
+  "updated": "2026-11-24T17:07:48Z",
   "version": 2,
   "rules": {
     "results_days": 3,
@@ -404,12 +404,12 @@
           "tbc": false,
           "top": {
             "name": "De Graafschap",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/144.png",
+            "logo": "https://media.api-sports.io/football/teams/27907.png",
             "score": 0
           },
           "bottom": {
             "name": "Ajax",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/139.png",
+            "logo": "https://media.api-sports.io/football/teams/1898.png",
             "score": 5
           },
           "winner": "bottom"
@@ -420,12 +420,12 @@
           "tbc": false,
           "top": {
             "name": "Feyenoord",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
+            "logo": "https://media.api-sports.io/football/teams/16853.png",
             "score": 0
           },
           "bottom": {
-            "name": "Twente",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/152.png",
+            "name": "FC Twente",
+            "logo": "https://media.api-sports.io/football/teams/1899.png",
             "score": 1
           },
           "winner": "bottom"
@@ -436,12 +436,12 @@
           "tbc": false,
           "top": {
             "name": "PSV",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png",
+            "logo": "https://media.api-sports.io/football/teams/1895.png",
             "score": 0
           },
           "bottom": {
             "name": "PEC Zwolle",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2565.png",
+            "logo": "https://media.api-sports.io/football/teams/1900.png",
             "score": 0
           },
           "winner": "draw"
@@ -451,13 +451,13 @@
           "date": "2026-11-22",
           "tbc": false,
           "top": {
-            "name": "Utrecht",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/153.png",
+            "name": "FC Utrecht",
+            "logo": "https://media.api-sports.io/football/teams/21940.png",
             "score": 1
           },
           "bottom": {
             "name": "AZ",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png",
+            "logo": "https://media.api-sports.io/football/teams/21939.png",
             "score": 3
           },
           "winner": "bottom"
@@ -468,12 +468,12 @@
           "tbc": false,
           "top": {
             "name": "Heerenveen",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/146.png",
+            "logo": "https://media.api-sports.io/football/teams/1897.png",
             "score": 1
           },
           "bottom": {
             "name": "ADO Den Haag",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2726.png",
+            "logo": "https://media.api-sports.io/football/teams/1894.png",
             "score": 1
           },
           "winner": "draw"
@@ -1156,12 +1156,12 @@
           "league": "Eredivisie",
           "home": {
             "name": "De Graafschap",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/144.png",
+            "logo": "https://media.api-sports.io/football/teams/27907.png",
             "score": 0
           },
           "away": {
             "name": "Ajax",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/139.png",
+            "logo": "https://media.api-sports.io/football/teams/1898.png",
             "score": 5
           },
           "winner": "away",
@@ -1171,12 +1171,12 @@
           "league": "Eredivisie",
           "home": {
             "name": "Feyenoord",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
+            "logo": "https://media.api-sports.io/football/teams/16853.png",
             "score": 0
           },
           "away": {
-            "name": "Twente",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/152.png",
+            "name": "FC Twente",
+            "logo": "https://media.api-sports.io/football/teams/1899.png",
             "score": 1
           },
           "winner": "away",
@@ -1186,12 +1186,12 @@
           "league": "Eredivisie",
           "home": {
             "name": "PSV",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png",
+            "logo": "https://media.api-sports.io/football/teams/1895.png",
             "score": 0
           },
           "away": {
             "name": "PEC Zwolle",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2565.png",
+            "logo": "https://media.api-sports.io/football/teams/1900.png",
             "score": 0
           },
           "winner": "draw",

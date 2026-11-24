@@ -59,9 +59,9 @@ DTSTART:20261101T140000Z
 DTEND:20261101T160000Z
 DTSTAMP:20261124T170010Z
 UID:af-serie-a-women-1601272@herfixtures.com
-DESCRIPTION:Serie A Women 2026/27\nRoma vs Napoli\nStatus: Match Finished\
- nVenue: Stadio Tre Fontane\, Rome\n\nFixtures by HerFixtures.com — Women
- 's Sports on Your Calendar
+DESCRIPTION:Serie A Women 2026/27\nRoma vs Napoli\nStatus: Match Finished
+ \nVenue: Stadio Tre Fontane\, Rome\n\nFixtures by HerFixtures.com — Wome
+ n's Sports on Your Calendar
 URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
@@ -90,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Parma vs Napoli (2–0)
 DTSTART:20261121T113000Z
 DTEND:20261121T133000Z
-DTSTAMP:20261124T170010Z
+DTSTAMP:20261124T170747Z
 UID:af-serie-a-women-1601294@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nParma vs Napoli\nStatus: Match Finished
  \nVenue: Stadio Ennio Tardini\, Parma\n\nFixtures by HerFixtures.com — W
@@ -101,10 +101,10 @@ BEGIN:VEVENT
 SUMMARY:⚽ Napoli vs Ternana
 DTSTART:20261213T140000Z
 DTEND:20261213T160000Z
-DTSTAMP:20261124T170010Z
+DTSTAMP:20261124T170747Z
 UID:af-serie-a-women-1601300@herfixtures.com
-DESCRIPTION:Serie A Women 2026/27\nNapoli vs Ternana\nStatus: Not Started\
- nVenue: Stadio Giuseppe Piccolo\, Cercola\n\nFixtures by HerFixtures.com 
+DESCRIPTION:Serie A Women 2026/27\nNapoli vs Ternana\nStatus: Not Started
+ \nVenue: Stadio Giuseppe Piccolo\, Cercola\n\nFixtures by HerFixtures.com 
  — Women's Sports on Your Calendar
 URL:https://herfixtures.com
 END:VEVENT
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Fiorentina vs Napoli (time TBC)
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-DTSTAMP:20261124T170010Z
+DTSTAMP:20261124T170747Z
 UID:af-serie-a-women-1601303@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nFiorentina vs Napoli\nStatus: Not Start
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Napoli vs Como Women (time TBC)
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-DTSTAMP:20261124T170010Z
+DTSTAMP:20261124T170747Z
 UID:af-serie-a-women-1601312@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nNapoli vs Como Women\nStatus: Not Start
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -136,7 +136,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Napoli vs Juventus (time TBC)
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
-DTSTAMP:20261124T170010Z
+DTSTAMP:20261124T170747Z
 UID:af-serie-a-women-1601318@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nNapoli vs Juventus\nStatus: Not Started
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -148,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Como 1907 vs Napoli (time TBC)
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-DTSTAMP:20261124T170010Z
+DTSTAMP:20261124T170747Z
 UID:af-serie-a-women-1601320@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nComo 1907 vs Napoli\nStatus: Not Starte
  d\nKick-off time not confirmed yet. Your calendar updates automatically on
@@ -160,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Napoli vs Sassuolo (time TBC)
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
-DTSTAMP:20261124T170010Z
+DTSTAMP:20261124T170747Z
 UID:af-serie-a-women-1601330@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nNapoli vs Sassuolo\nStatus: Not Started
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -172,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inter vs Napoli (time TBC)
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-DTSTAMP:20261124T170010Z
+DTSTAMP:20261124T170747Z
 UID:af-serie-a-women-1601335@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nInter vs Napoli\nStatus: Not Started\nK
  ick-off time not confirmed yet. Your calendar updates automatically once i
@@ -184,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Napoli vs Roma (time TBC)
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-DTSTAMP:20261124T170010Z
+DTSTAMP:20261124T170747Z
 UID:af-serie-a-women-1601342@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nNapoli vs Roma\nStatus: Not Started\nKi
  ck-off time not confirmed yet. Your calendar updates automatically once it
@@ -196,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Napoli vs Lazio (time TBC)
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-DTSTAMP:20261124T170010Z
+DTSTAMP:20261124T170747Z
 UID:af-serie-a-women-1601348@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nNapoli vs Lazio\nStatus: Not Started\nK
  ick-off time not confirmed yet. Your calendar updates automatically once i
@@ -208,7 +208,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ AC Milan vs Napoli (time TBC)
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270404
-DTSTAMP:20261124T170010Z
+DTSTAMP:20261124T170747Z
 UID:af-serie-a-women-1601350@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nAC Milan vs Napoli\nStatus: Not Started
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -220,7 +220,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Napoli vs Parma (time TBC)
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270411
-DTSTAMP:20261124T170010Z
+DTSTAMP:20261124T170747Z
 UID:af-serie-a-women-1601360@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nNapoli vs Parma\nStatus: Not Started\nK
  ick-off time not confirmed yet. Your calendar updates automatically once i
@@ -232,19 +232,19 @@ BEGIN:VEVENT
 SUMMARY:⚽ Ternana vs Napoli (time TBC)
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
-DTSTAMP:20261124T170010Z
+DTSTAMP:20261124T170747Z
 UID:af-serie-a-women-1601367@herfixtures.com
-DESCRIPTION:Serie A Women 2026/27\nTernana vs Napoli\nStatus: Not Started\
- nKick-off time not confirmed yet. Your calendar updates automatically once
-  it is.\nVenue: Stadio Libero Liberati\, Terni\n\nFixtures by HerFixtures.
- com — Women's Sports on Your Calendar
+DESCRIPTION:Serie A Women 2026/27\nTernana vs Napoli\nStatus: Not Started
+ \nKick-off time not confirmed yet. Your calendar updates automatically onc
+ e it is.\nVenue: Stadio Libero Liberati\, Terni\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
 URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Napoli vs Fiorentina (time TBC)
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
-DTSTAMP:20261124T170010Z
+DTSTAMP:20261124T170747Z
 UID:af-serie-a-women-1601372@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nNapoli vs Fiorentina\nStatus: Not Start
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -256,7 +256,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Como Women vs Napoli (time TBC)
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
-DTSTAMP:20261124T170010Z
+DTSTAMP:20261124T170747Z
 UID:af-serie-a-women-1601374@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nComo Women vs Napoli\nStatus: Not Start
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
