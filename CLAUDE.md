@@ -100,6 +100,17 @@ New ESPN leagues are **config, not code**: add an entry to `feeds/espn_leagues.j
 - Team logos for the homepage picker: ESPN `teamlogos/soccer/500/<id>.png`. Some women's teams have none; use the club's men's-team crest id (e.g. Lens 175) and fall back to an emoji tile only if the club has none on ESPN.
 - Migrated: Liga F (Nov 15), UCL Women + NWSL (Nov 16, proven identical apart from added TV lines). WNBA frozen until the 2027 schedule, then add it here.
 
+### Adding or removing a competition: the homepage pieces
+
+What updates **automatically** from the data: the hero subtitle's competition count (it counts the homepage cards), the Scores Strip and its dropdown, card badges, and each map pin's colour (coral in season, grey off-season, from `feed_status.json`).
+
+What needs **one manual step**, done in the same visual PR (Konstantina reviews):
+1. **Card + picker** in `index.html`: the `feed-card` block with `data-feed="<manifest id>"`, a `*_CONFIG` object (teams + crests) and an `open…Modal()` opener.
+2. **Map dot**: one line in the hero's `COMPS` list (`id`, `cfg`, `name`, optional `short`, `x`, `y`) and one entry in `COUNTRY` (the caption's "where"). Position as % of the map: `x = (lon + 130) / 310 × 100`, `y = (72 − lat) × 1.2 / 144 × 100` (use the league's centre of gravity, e.g. Eredivisie lon 5.3, lat 52.1). US competitions also go in `AWAY_FIRST`.
+3. **Scores Strip labels** in `feeds/strip.json`: `order`, `labels` (dropdown), `short` (cards), and `away_first` if it's a US competition (technical file, can ship with the card).
+
+Removing a competition = remove the card, its `COMPS` line and its `COUNTRY` entry; freezing it in `feeds/manifest.json` (`source: "frozen"`) already drops it from the Scores Strip.
+
 ### ESPN API constraints (current)
 
 - **Since 2026-09-15 ESPN returns 400 for any multi-day `dates=A-B` range, in every sport.** Use `espn_common.fetch_days()` (one request per day, cached per run, refuses partial seasons). This bug silently emptied Liga F (240 → 1), froze WNBA, and stripped all FIBA scores until Nov 13.
