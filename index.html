@@ -584,8 +584,6 @@ body {
 /* Strip wrapper */
 #scores-strip {
   padding: 16px 20px;
-  border-bottom: 1px solid var(--border);
-  transition: border-color 0.4s;
   position: relative;
 }
 
@@ -810,9 +808,9 @@ body {
   --map-bg: #11112A; --map-dot: #5E86FF; --map-dot-op: 0.42;
   --map-border: rgba(255,255,255,0.08); --pin-off: #4A4A70;
 }
-#live-page .hero-slot.mhero { max-width: 1280px; margin: 0 auto; padding: 36px 20px 48px; text-align: center; overflow-x: clip; }
-@media (min-width: 768px)  { #live-page .hero-slot.mhero { padding: 56px 48px 56px; } }
-@media (min-width: 1280px) { #live-page .hero-slot.mhero { padding: 64px 80px 64px; } }
+#live-page .hero-slot.mhero { max-width: 1280px; margin: 0 auto; padding: 20px 20px 48px; text-align: center; overflow-x: clip; }
+@media (min-width: 768px)  { #live-page .hero-slot.mhero { padding: 40px 48px 56px; } }
+@media (min-width: 1280px) { #live-page .hero-slot.mhero { padding: 48px 80px 64px; } }
 .mhero__title {
   font-family: 'Zalando Sans Expanded', sans-serif; font-weight: 900;
   font-size: clamp(30px, 6vw, 60px); line-height: 1.06; letter-spacing: -0.02em;
@@ -869,6 +867,18 @@ body {
 .mhero__search input::-webkit-search-cancel-button { -webkit-appearance: none; }
 .mhero__go { flex-shrink: 0; width: 42px; height: 42px; border-radius: 50%; border: 0; background: var(--blue); display: grid; place-items: center; cursor: pointer; transition: width 0.45s, height 0.45s; }
 .mhero__search.is-open .mhero__go { width: 46px; height: 46px; }
+.mhero__clear {
+  flex-shrink: 0; height: 32px; padding: 0 12px; margin-right: -4px; border-radius: 999px; border: 0; cursor: pointer;
+  background: var(--bg3); color: var(--text2); font: 600 13px 'DM Sans', sans-serif;
+  max-width: 0; padding-left: 0; padding-right: 0; overflow: hidden; opacity: 0; transform: translateX(24px); pointer-events: none;
+  transition: max-width 0.35s cubic-bezier(0.2,0.8,0.2,1), padding 0.35s cubic-bezier(0.2,0.8,0.2,1),
+              opacity 0.25s, transform 0.35s cubic-bezier(0.2,0.8,0.2,1), margin 0.35s;
+}
+.mhero__search.has-text .mhero__clear {
+  max-width: 80px; padding: 0 12px; margin-right: 0; opacity: 1; transform: none; pointer-events: auto;
+}
+.mhero__clear:hover { color: var(--text); }
+.mhero__clear:focus-visible { outline: 2px solid var(--brand-fg); outline-offset: 2px; }
 .mhero__go svg { width: 20px; height: 20px; fill: none; stroke: #fff; stroke-width: 2.2; stroke-linecap: round; stroke-linejoin: round; }
 @media (min-width: 768px) {
   .mhero__stage { padding-top: 38px; }
@@ -949,7 +959,7 @@ body {
 .mhero__go:focus-visible, .mhero__ctl:focus-visible { outline: 2px solid var(--brand-fg); outline-offset: 3px; }
 .mhero__sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 @media (prefers-reduced-motion: reduce) {
-  .mhero__search, .mhero__go { transition: none; }
+  .mhero__search, .mhero__go, .mhero__clear { transition: none; }
   .mhero__search.is-arriving::before { animation: none; }
   .mhero__world { transition: none; }
   .mhero__pin.is-featured::after { display: none; animation: none; }
@@ -1040,7 +1050,7 @@ body {
     <!-- Hero — headline, search, world map of every competition (design: Figma "Homepage v2.0", page 6 · Minimal) -->
     <section class="hero-slot mhero" id="live-hero" aria-labelledby="mhero-title">
       <h1 class="mhero__title" id="mhero-title">Every match, on your calendar</h1>
-      <p class="mhero__sub">Never miss a kick-off again. <span id="mhero-count">13</span> competitions, synced to your calendar in your time zone, for free.</p>
+      <p class="mhero__sub">Never miss a kick-off again. <span id="mhero-count">14</span> competitions, synced to your calendar in your time zone.</p>
 
       <div class="mhero__stage">
         <form class="mhero__search" role="search" autocomplete="off" onsubmit="return false;">
@@ -1048,6 +1058,7 @@ body {
           <svg class="mhero__search-icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
           <input id="mhero-q" type="search" role="combobox" aria-expanded="false" aria-controls="mhero-results"
                  aria-autocomplete="list" placeholder="Search a team or competition" enterkeyhint="search">
+          <button type="button" class="mhero__clear" id="mhero-clear" tabindex="-1" aria-hidden="true">Clear</button>
           <button type="submit" class="mhero__go" aria-label="Search">
             <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
           </button>
@@ -2834,7 +2845,17 @@ window.addEventListener('resize', positionLabels);
   }
   const pill = input.form;
   pill.addEventListener('animationend', () => pill.classList.remove('is-arriving'));
-  input.addEventListener('input', render);
+  const clearBtn = $('mhero-clear');
+  function syncClear() {
+    const has = !!input.value;
+    pill.classList.toggle('has-text', has);
+    clearBtn.tabIndex = has ? 0 : -1;
+    clearBtn.setAttribute('aria-hidden', has ? 'false' : 'true');
+    clearBtn.setAttribute('aria-label', 'Clear search');
+  }
+  clearBtn.addEventListener('mousedown', e => e.preventDefault());   // keep focus in the input
+  clearBtn.addEventListener('click', () => { input.value = ''; syncClear(); close(); input.focus(); });
+  input.addEventListener('input', () => { syncClear(); render(); });
   input.addEventListener('focus', () => {
     if (!pill.classList.contains('is-open')) {
       pill.classList.add('is-open');
