@@ -329,6 +329,13 @@ def run_api_football(lid: str, league: dict, out_dir: Path, main_file: Path, ful
     except apifootball.SourceError as e:
         print(f"  ⚠️  {e} — keeping existing {league['name']} feeds")
         return False
+    # Optional extra seasons in one calendar (Liga MX Femenil: Apertura = season N, Clausura = N+1).
+    # An extra season that isn't published yet simply adds nothing.
+    for extra in [x for x in af.get("seasons", []) if x != af["season"]]:
+        try:
+            fixtures += apifootball.fetch_fixtures(af["league"], extra)
+        except apifootball.SourceError as e:
+            print(f"  (season {extra} not available yet: {e})")
     now = datetime.now(timezone.utc)
     season_start = date.fromisoformat(league["season"]["start"])
     in_season = [fx for fx in fixtures if datetime.fromisoformat(fx["fixture"]["date"]).date() >= season_start]

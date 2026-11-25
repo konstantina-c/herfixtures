@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T08:01:01Z",
+  "updated": "2026-11-25T08:52:30Z",
   "version": 2,
   "rules": {
     "results_days": 3,
@@ -97,12 +97,12 @@
           "tbc": false,
           "top": {
             "name": "Espanyol",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21154.png",
+            "logo": "https://media.api-sports.io/football/teams/1919.png",
             "score": 2
           },
           "bottom": {
             "name": "Valencia",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21374.png",
+            "logo": "https://media.api-sports.io/football/teams/1909.png",
             "score": 0
           },
           "winner": "top"
@@ -113,12 +113,12 @@
           "tbc": false,
           "top": {
             "name": "Barcelona",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20091.png",
+            "logo": "https://media.api-sports.io/football/teams/1918.png",
             "score": 6
           },
           "bottom": {
-            "name": "Athletic",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21372.png",
+            "name": "Athletic Club",
+            "logo": "https://media.api-sports.io/football/teams/1905.png",
             "score": 0
           },
           "winner": "top"
@@ -128,13 +128,13 @@
           "date": "2026-11-22",
           "tbc": false,
           "top": {
-            "name": "Tenerife",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131393.png",
+            "name": "CD Tenerife",
+            "logo": "https://media.api-sports.io/football/teams/1913.png",
             "score": 0
           },
           "bottom": {
             "name": "Madrid CFF",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21425.png",
+            "logo": "https://media.api-sports.io/football/teams/1921.png",
             "score": 3
           },
           "winner": "bottom"
@@ -144,32 +144,32 @@
           "date": "2026-11-22",
           "tbc": false,
           "top": {
-            "name": "Real Sociedad",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21428.png",
+            "name": "Granada",
+            "logo": "https://media.api-sports.io/football/teams/22018.png",
             "score": 1
           },
           "bottom": {
-            "name": "Sevilla",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21424.png",
-            "score": 0
+            "name": "Real Madrid",
+            "logo": "https://media.api-sports.io/football/teams/15224.png",
+            "score": 5
           },
-          "winner": "top"
+          "winner": "bottom"
         },
         {
           "kickoff": "2026-11-22T11:00:00Z",
           "date": "2026-11-22",
           "tbc": false,
           "top": {
-            "name": "Granada",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21140.png",
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/1912.png",
             "score": 1
           },
           "bottom": {
-            "name": "Real Madrid",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21128.png",
-            "score": 5
+            "name": "Sevilla",
+            "logo": "https://media.api-sports.io/football/teams/1920.png",
+            "score": 0
           },
-          "winner": "bottom"
+          "winner": "top"
         }
       ],
       "upcoming": [],
@@ -987,12 +987,12 @@
           "league": "Liga F",
           "home": {
             "name": "Espanyol",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21154.png",
+            "logo": "https://media.api-sports.io/football/teams/1919.png",
             "score": 2
           },
           "away": {
             "name": "Valencia",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21374.png",
+            "logo": "https://media.api-sports.io/football/teams/1909.png",
             "score": 0
           },
           "winner": "home",
@@ -1032,12 +1032,12 @@
           "league": "Liga F",
           "home": {
             "name": "Barcelona",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20091.png",
+            "logo": "https://media.api-sports.io/football/teams/1918.png",
             "score": 6
           },
           "away": {
-            "name": "Athletic",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21372.png",
+            "name": "Athletic Club",
+            "logo": "https://media.api-sports.io/football/teams/1905.png",
             "score": 0
           },
           "winner": "home",
@@ -1061,13 +1061,13 @@
         {
           "league": "Liga F",
           "home": {
-            "name": "Tenerife",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131393.png",
+            "name": "CD Tenerife",
+            "logo": "https://media.api-sports.io/football/teams/1913.png",
             "score": 0
           },
           "away": {
             "name": "Madrid CFF",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21425.png",
+            "logo": "https://media.api-sports.io/football/teams/1921.png",
             "score": 3
           },
           "winner": "away",

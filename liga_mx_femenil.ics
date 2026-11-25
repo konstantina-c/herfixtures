@@ -13,1544 +13,1559 @@ BEGIN:VEVENT
 SUMMARY:⚽ Cruz Azul vs Atlas (3–1)
 DTSTART:20260801T010000Z
 DTEND:20260801T030000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926850@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603300@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nCruz 
- Azul vs Atlas\nStatus: Full Time\nVenue: Estadio Centenario\, Montevideo\n
- \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926850/atlas-cruz-azul
+ Azul vs Atlas\nStatus: Match Finished\nVenue: Instalaciones La Noria Canch
+ a 1\, Ciudad de Mexico\n\nFixtures by HerFixtures.com — Women's Sports o
+ n Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ FC Juárez vs Pachuca (1–0)
 DTSTART:20260801T230000Z
 DTEND:20260802T010000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926885@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603301@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nFC Ju
- árez vs Pachuca\nStatus: Full Time\nVenue: Estadio Olímpico Benito Juár
- ez\, Ciudad Juárez\n\nFixtures by HerFixtures.com — Women's Sports on Y
- our Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926885/pachuca-fc-juarez
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Tijuana vs Monterrey (1–2)
-DTSTART:20260802T031000Z
-DTEND:20260802T051000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926851@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nTijua
- na vs Monterrey\nStatus: Full Time\nVenue: Estadio Caliente\, Tijuana\n\nF
- ixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926851/monterrey-tijuana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Pumas UNAM vs León (2–5)
-DTSTART:20260802T180000Z
-DTEND:20260802T200000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926852@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPumas
-  UNAM vs León\nStatus: Full Time\nVenue: Estadio Olímpico Universitario
- \, Mexico City\n\nFixtures by HerFixtures.com — Women's Sports on Your C
- alendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926852/leon-pumas-unam
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Guadalajara vs Querétaro (3–1)
-DTSTART:20260802T230600Z
-DTEND:20260803T010600Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926853@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nGuada
- lajara vs Querétaro\nStatus: Full Time\nVenue: Estadio Akron\, Guadalajar
- a\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926853/queretaro-guadala
- jara
+ árez vs Pachuca\nStatus: Match Finished\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Tigres UANL vs Puebla (8–0)
 DTSTART:20260802T010600Z
 DTEND:20260802T030600Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926886@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603302@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nTigre
- s UANL vs Puebla\nStatus: Full Time\nVenue: Estadio Universitario\, San Ni
- colás de los Garza\n\nFixtures by HerFixtures.com — Women's Sports on Y
- our Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926886/puebla-tigres-uan
- l
+ s UANL vs Puebla\nStatus: Match Finished\nVenue: Estadio Universitario\, S
+ an Nicolas de los Garza\n\nFixtures by HerFixtures.com — Women's Sports 
+ on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Tijuana vs Monterrey (1–2)
+DTSTART:20260802T031000Z
+DTEND:20260802T051000Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603303@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nTijua
+ na vs Monterrey\nStatus: Match Finished\nVenue: Estadio Caliente\, Tijuana
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Pumas UNAM vs León (2–5)
+DTSTART:20260802T180000Z
+DTEND:20260802T200000Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603304@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPumas
+  UNAM vs León\nStatus: Match Finished\n\nFixtures by HerFixtures.com — 
+ Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Guadalajara vs Querétaro (3–1)
+DTSTART:20260802T230600Z
+DTEND:20260803T010600Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603306@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nGuada
+ lajara vs Querétaro\nStatus: Match Finished\nVenue: Estadio Akron\, Zapop
+ an\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Atlético de San Luis vs Toluca (1–4)
 DTSTART:20260803T160000Z
 DTEND:20260803T180000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926854@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603305@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAtlé
- tico de San Luis vs Toluca\nStatus: Full Time\nVenue: Estadio Libertad Fin
- anciera\, San Luis Potosi\n\nFixtures by HerFixtures.com — Women's Sport
- s on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926854/toluca-atletico-d
- e-san-luis
+ tico de San Luis vs Toluca\nStatus: Match Finished\nVenue: Estadio Liberta
+ d Financiera\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Atlante vs Necaxa (1–0)
 DTSTART:20260803T214500Z
 DTEND:20260803T234500Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926887@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603307@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAtlan
- te vs Necaxa\nStatus: Full Time\nVenue: CAR Atlante Cancha 1\, Mexico City
+ te vs Necaxa\nStatus: Match Finished\nVenue: Estadio Banorte\, Mexico City
  \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926887/necaxa-atlante
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Santos vs América (0–3)
 DTSTART:20260804T010600Z
 DTEND:20260804T030600Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926888@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603308@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nSanto
- s vs América\nStatus: Full Time\nVenue: Estadio Corona\, Torreón\n\nFixt
- ures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926888/america-santos
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Querétaro vs Santos (1–2)
-DTSTART:20260808T230000Z
-DTEND:20260809T010000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926855@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nQuer
- étaro vs Santos\nStatus: Full Time\nVenue: Estadio Corregidora\, Santiago
-  de Querétaro\n\nFixtures by HerFixtures.com — Women's Sports on Your C
- alendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926855/santos-queretaro
+ s vs América\nStatus: Match Finished\nVenue: Estadio Corona\n\nFixtures b
+ y HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Atlas vs Pachuca (1–1)
 DTSTART:20260808T010600Z
 DTEND:20260808T030600Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926889@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603309@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAtlas
-  vs Pachuca\nStatus: Full Time\nVenue: Estadio Jalisco\, Guadalajara\n\nFi
- xtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926889/pachuca-atlas
+  vs Pachuca\nStatus: Match Finished\nVenue: Estadio Jalisco\, Guadalajara\
+ n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ América vs Cruz Azul (10–0)
 DTSTART:20260808T220000Z
 DTEND:20260809T000000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926890@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603310@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAmér
- ica vs Cruz Azul\nStatus: Full Time\nVenue: Estadio Banorte\, Mexico City
- \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926890/cruz-azul-america
+ ica vs Cruz Azul\nStatus: Match Finished\nVenue: Estadio Banorte\, Mexico 
+ City\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Puebla vs Guadalajara (1–4)
-DTSTART:20260809T180000Z
-DTEND:20260809T200000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926856@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPuebl
- a vs Guadalajara\nStatus: Full Time\nVenue: Estadio Cuauhtémoc\, Puebla\n
- \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926856/guadalajara-puebl
- a
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Atlético de San Luis vs Tijuana (2–1)
-DTSTART:20260809T220000Z
-DTEND:20260810T000000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926857@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAtlé
- tico de San Luis vs Tijuana\nStatus: Full Time\nVenue: Estadio Libertad Fi
- nanciera\, San Luis Potosi\n\nFixtures by HerFixtures.com — Women's Spor
- ts on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926857/tijuana-atletico-
- de-san-luis
+SUMMARY:⚽ Querétaro vs Santos (1–2)
+DTSTART:20260808T230000Z
+DTEND:20260809T010000Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603311@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nQuer
+ étaro vs Santos\nStatus: Match Finished\nVenue: Estadio La Corregidora\n\
+ nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Necaxa vs Pumas UNAM (1–2)
 DTSTART:20260809T010600Z
 DTEND:20260809T030600Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926891@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603312@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nNecax
- a vs Pumas UNAM\nStatus: Full Time\nVenue: Estadio Victoria\, Aguascalient
- es\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926891/pumas-unam-necaxa
+ a vs Pumas UNAM\nStatus: Match Finished\nVenue: Estadio Victoria\, Aguasca
+ lientes\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Monterrey vs Atlante (3–1)
 DTSTART:20260809T020000Z
 DTEND:20260809T040000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926892@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603313@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nMonte
- rrey vs Atlante\nStatus: Full Time\nVenue: Estadio BBVA\, Guadalupe\n\nFix
- tures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926892/atlante-monterrey
+ rrey vs Atlante\nStatus: Match Finished\nVenue: Cancha El Barrial\, Santia
+ go\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ León vs Tigres UANL (1–2)
-DTSTART:20260811T010600Z
-DTEND:20260811T030600Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926858@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nLeón
-  vs Tigres UANL\nStatus: Full Time\nVenue: Estadio León\, León de los Al
- damas\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926858/tigres-uanl-leon
+SUMMARY:⚽ Puebla vs Guadalajara (1–4)
+DTSTART:20260809T180000Z
+DTEND:20260809T200000Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603314@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPuebl
+ a vs Guadalajara\nStatus: Match Finished\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Atlético de San Luis vs Tijuana (2–1)
+DTSTART:20260809T220000Z
+DTEND:20260810T000000Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603315@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAtlé
+ tico de San Luis vs Tijuana\nStatus: Match Finished\nVenue: Estadio Libert
+ ad Financiera\n\nFixtures by HerFixtures.com — Women's Sports on Your Ca
+ lendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Toluca vs FC Juárez (2–0)
 DTSTART:20260811T000000Z
 DTEND:20260811T020000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926893@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603316@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nToluc
- a vs FC Juárez\nStatus: Full Time\nVenue: Estadio Nemesio Díez Riega\, T
- oluca\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926893/fc-juarez-toluca
+ a vs FC Juárez\nStatus: Match Finished\n\nFixtures by HerFixtures.com —
+  Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ León vs Tigres UANL (1–2)
+DTSTART:20260811T010600Z
+DTEND:20260811T030600Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603317@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nLeón
+  vs Tigres UANL\nStatus: Match Finished\n\nFixtures by HerFixtures.com —
+  Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Cruz Azul vs Atlante (3–1)
 DTSTART:20260815T010000Z
 DTEND:20260815T030000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926859@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603318@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nCruz 
- Azul vs Atlante\nStatus: Full Time\nVenue: Estadio Centenario\, Montevideo
- \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926859/atlante-cruz-azul
+ Azul vs Atlante\nStatus: Match Finished\nVenue: Estadio Centenario\, Cuern
+ avaca\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ América vs Puebla (5–1)
 DTSTART:20260815T214500Z
 DTEND:20260815T234500Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926894@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603319@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAmér
- ica vs Puebla\nStatus: Full Time\nVenue: Instalaciones Club América Coapa
- \, Mexico City\n\nFixtures by HerFixtures.com — Women's Sports on Your C
- alendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926894/puebla-america
+ ica vs Puebla\nStatus: Match Finished\nVenue: Estadio Banorte\, Mexico Cit
+ y\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Pachuca vs Pumas UNAM (3–1)
 DTSTART:20260815T230000Z
 DTEND:20260816T010000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926895@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603320@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPachu
- ca vs Pumas UNAM\nStatus: Full Time\nVenue: Estadio Hidalgo\, Pachuca\n\nF
- ixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926895/pumas-unam-pachuc
- a
+ ca vs Pumas UNAM\nStatus: Match Finished\nVenue: Estadio Miguel Hidalgo\, 
+ Pachuca de Soto\n\nFixtures by HerFixtures.com — Women's Sports on Your 
+ Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Tigres UANL vs FC Juárez (1–0)
 DTSTART:20260816T010600Z
 DTEND:20260816T030600Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926896@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603321@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nTigre
- s UANL vs FC Juárez\nStatus: Full Time\nVenue: Estadio Universitario\, Sa
- n Nicolás de los Garza\n\nFixtures by HerFixtures.com — Women's Sports 
- on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926896/fc-juarez-tigres-
- uanl
+ s UANL vs FC Juárez\nStatus: Match Finished\nVenue: Estadio Universitario
+ \, San Nicolas de los Garza\n\nFixtures by HerFixtures.com — Women's Spo
+ rts on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Tijuana vs Necaxa (5–1)
 DTSTART:20260816T031000Z
 DTEND:20260816T051000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926897@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603322@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nTijua
- na vs Necaxa\nStatus: Full Time\nVenue: Estadio Caliente\, Tijuana\n\nFixt
- ures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926897/necaxa-tijuana
+ na vs Necaxa\nStatus: Match Finished\nVenue: Estadio Caliente\, Tijuana\n\
+ nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Guadalajara vs Atlético de San Luis (3–1)
 DTSTART:20260816T230000Z
 DTEND:20260817T010000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926898@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603323@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nGuada
- lajara vs Atlético de San Luis\nStatus: Full Time\nVenue: Estadio Akron\,
-  Guadalajara\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
- endar
-URL:https://www.espn.com/soccer/match/_/gameId/401926898/atletico-de-san-l
- uis-guadalajara
+ lajara vs Atlético de San Luis\nStatus: Match Finished\nVenue: Estadio Ak
+ ron\, Zapopan\n\nFixtures by HerFixtures.com — Women's Sports on Your Ca
+ lendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ León vs Querétaro (0–1)
 DTSTART:20260817T230000Z
 DTEND:20260818T010000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926900@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603324@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nLeón
-  vs Querétaro\nStatus: Full Time\nVenue: Estadio León\, León de los Ald
- amas\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926900/queretaro-leon
+  vs Querétaro\nStatus: Match Finished\n\nFixtures by HerFixtures.com — 
+ Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Toluca vs Atlas (1–1)
 DTSTART:20260818T000000Z
 DTEND:20260818T020000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926899@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603325@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nToluc
- a vs Atlas\nStatus: Full Time\nVenue: Estadio Nemesio Díez Riega\, Toluca
- \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926899/atlas-toluca
+ a vs Atlas\nStatus: Match Finished\n\nFixtures by HerFixtures.com — Wome
+ n's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Santos vs Monterrey (1–4)
 DTSTART:20260818T010600Z
 DTEND:20260818T030600Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926920@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603326@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nSanto
- s vs Monterrey\nStatus: Full Time\nVenue: Estadio Corona\, Torreón\n\nFix
- tures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926920/monterrey-santos
+ s vs Monterrey\nStatus: Match Finished\nVenue: Estadio Corona\n\nFixtures 
+ by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Pumas UNAM vs Querétaro (5–0)
 DTSTART:20260821T230000Z
 DTEND:20260822T010000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926901@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603327@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPumas
-  UNAM vs Querétaro\nStatus: Full Time\nVenue: Estadio Olímpico Universit
- ario\, Mexico City\n\nFixtures by HerFixtures.com — Women's Sports on Yo
- ur Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926901/queretaro-pumas-u
- nam
+  UNAM vs Querétaro\nStatus: Match Finished\n\nFixtures by HerFixtures.com
+  — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Monterrey vs León (2–3)
 DTSTART:20260822T030000Z
 DTEND:20260822T050000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926902@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603328@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nMonte
- rrey vs León\nStatus: Full Time\nVenue: Estadio BBVA\, Guadalupe\n\nFixtu
- res by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926902/leon-monterrey
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Cruz Azul vs Tigres UANL (0–3)
-DTSTART:20260823T000000Z
-DTEND:20260823T020000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926903@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nCruz 
- Azul vs Tigres UANL\nStatus: Full Time\nVenue: Estadio Centenario\, Montev
- ideo\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926903/tigres-uanl-cruz-
- azul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Puebla vs Atlético de San Luis (2–5)
-DTSTART:20260823T180000Z
-DTEND:20260823T200000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926904@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPuebl
- a vs Atlético de San Luis\nStatus: Full Time\nVenue: Estadio Cuauhtémoc
- \, Puebla\n\nFixtures by HerFixtures.com — Women's Sports on Your Calend
- ar
-URL:https://www.espn.com/soccer/match/_/gameId/401926904/atletico-de-san-l
- uis-puebla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Pachuca vs Guadalajara (3–1)
-DTSTART:20260823T220000Z
-DTEND:20260824T000000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926905@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPachu
- ca vs Guadalajara\nStatus: Full Time\nVenue: Estadio Hidalgo\, Pachuca\n\n
- Fixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926905/guadalajara-pachu
- ca
+ rrey vs León\nStatus: Match Finished\nVenue: Cancha El Barrial\, Santiago
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ FC Juárez vs Santos (3–2)
 DTSTART:20260823T010600Z
 DTEND:20260823T030600Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926921@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603329@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nFC Ju
- árez vs Santos\nStatus: Full Time\nVenue: Estadio Olímpico Benito Juáre
- z\, Ciudad Juárez\n\nFixtures by HerFixtures.com — Women's Sports on Yo
- ur Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926921/santos-fc-juarez
+ árez vs Santos\nStatus: Match Finished\n\nFixtures by HerFixtures.com —
+  Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cruz Azul vs Tigres UANL (0–3)
+DTSTART:20260823T000000Z
+DTEND:20260823T020000Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603330@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nCruz 
+ Azul vs Tigres UANL\nStatus: Match Finished\nVenue: Estadio Centenario\, C
+ uernavaca\n\nFixtures by HerFixtures.com — Women's Sports on Your Calend
+ ar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Puebla vs Atlético de San Luis (2–5)
+DTSTART:20260823T180000Z
+DTEND:20260823T200000Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603331@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPuebl
+ a vs Atlético de San Luis\nStatus: Match Finished\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Pachuca vs Guadalajara (3–1)
+DTSTART:20260823T220000Z
+DTEND:20260824T000000Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603332@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPachu
+ ca vs Guadalajara\nStatus: Match Finished\nVenue: Estadio Miguel Hidalgo\,
+  Pachuca de Soto\n\nFixtures by HerFixtures.com — Women's Sports on Your
+  Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Necaxa vs América (0–7)
 DTSTART:20260824T000600Z
 DTEND:20260824T020600Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926906@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603333@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nNecax
- a vs América\nStatus: Full Time\nVenue: Estadio Victoria\, Aguascalientes
- \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926906/america-necaxa
+ a vs América\nStatus: Match Finished\nVenue: Estadio Victoria\, Aguascali
+ entes\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Atlante vs Toluca (1–2)
 DTSTART:20260824T214500Z
 DTEND:20260824T234500Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926907@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603334@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAtlan
- te vs Toluca\nStatus: Full Time\nVenue: CAR Atlante Cancha 1\, Mexico City
- \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926907/toluca-atlante
+ te vs Toluca\nStatus: Match Finished\nVenue: Estadio Banorte\, Ciudad de M
+ exico\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Atlas vs Tijuana (2–0)
 DTSTART:20260825T010000Z
 DTEND:20260825T030000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926922@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603335@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAtlas
-  vs Tijuana\nStatus: Full Time\nVenue: Estadio Jalisco\, Guadalajara\n\nFi
- xtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926922/tijuana-atlas
+  vs Tijuana\nStatus: Match Finished\nVenue: Estadio Jalisco\, Guadalajara\
+ n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Toluca vs León (1–0)
 DTSTART:20260829T000000Z
 DTEND:20260829T020000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926923@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603336@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nToluc
- a vs León\nStatus: Full Time\nVenue: Estadio Nemesio Díez Riega\, Toluca
- \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926923/leon-toluca
+ a vs León\nStatus: Match Finished\n\nFixtures by HerFixtures.com — Wome
+ n's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Querétaro vs Monterrey (0–4)
 DTSTART:20260829T230000Z
 DTEND:20260830T010000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926924@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603337@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nQuer
- étaro vs Monterrey\nStatus: Full Time\nVenue: Estadio Corregidora\, Santi
- ago de Querétaro\n\nFixtures by HerFixtures.com — Women's Sports on You
- r Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926924/monterrey-quereta
- ro
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Puebla vs Necaxa (4–1)
-DTSTART:20260830T180000Z
-DTEND:20260830T200000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926908@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPuebl
- a vs Necaxa\nStatus: Full Time\nVenue: Estadio Cuauhtémoc\, Puebla\n\nFix
- tures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926908/necaxa-puebla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ América vs Tijuana (3–1)
-DTSTART:20260830T214500Z
-DTEND:20260830T234500Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926909@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAmér
- ica vs Tijuana\nStatus: Full Time\nVenue: Instalaciones Club América Coap
- a\, Mexico City\n\nFixtures by HerFixtures.com — Women's Sports on Your 
- Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926909/tijuana-america
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Guadalajara vs Pumas UNAM (0–2)
-DTSTART:20260830T230600Z
-DTEND:20260831T010600Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926910@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nGuada
- lajara vs Pumas UNAM\nStatus: Full Time\nVenue: Estadio Akron\, Guadalajar
- a\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926910/pumas-unam-guadal
- ajara
+ étaro vs Monterrey\nStatus: Match Finished\nVenue: Estadio La Corregidora
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Tigres UANL vs Pachuca (2–0)
 DTSTART:20260830T010600Z
 DTEND:20260830T030600Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926925@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603338@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nTigre
- s UANL vs Pachuca\nStatus: Full Time\nVenue: Estadio Universitario\, San N
- icolás de los Garza\n\nFixtures by HerFixtures.com — Women's Sports on 
- Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926925/pachuca-tigres-ua
- nl
+ s UANL vs Pachuca\nStatus: Match Finished\nVenue: Estadio Universitario\, 
+ San Nicolas de los Garza\n\nFixtures by HerFixtures.com — Women's Sports
+  on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ FC Juárez vs Cruz Azul (1–0)
 DTSTART:20260830T031000Z
 DTEND:20260830T051000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926926@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603339@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nFC Ju
- árez vs Cruz Azul\nStatus: Full Time\nVenue: Estadio Olímpico Benito Ju
- árez\, Ciudad Juárez\n\nFixtures by HerFixtures.com — Women's Sports o
- n Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926926/cruz-azul-fc-juar
- ez
+ árez vs Cruz Azul\nStatus: Match Finished\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Puebla vs Necaxa (4–1)
+DTSTART:20260830T180000Z
+DTEND:20260830T200000Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603340@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPuebl
+ a vs Necaxa\nStatus: Match Finished\n\nFixtures by HerFixtures.com — Wom
+ en's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ América vs Tijuana (3–1)
+DTSTART:20260830T214500Z
+DTEND:20260830T234500Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603341@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAmér
+ ica vs Tijuana\nStatus: Match Finished\nVenue: Estadio Banorte\, Mexico Ci
+ ty\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Atlético de San Luis vs Atlas (6–1)
 DTSTART:20260830T230000Z
 DTEND:20260831T010000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926927@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603342@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAtlé
- tico de San Luis vs Atlas\nStatus: Full Time\nVenue: Estadio Libertad Fina
- nciera\, San Luis Potosi\n\nFixtures by HerFixtures.com — Women's Sports
-  on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926927/atlas-atletico-de
- -san-luis
+ tico de San Luis vs Atlas\nStatus: Match Finished\nVenue: Estadio Libertad
+  Financiera\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
+ ndar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Guadalajara vs Pumas UNAM (0–2)
+DTSTART:20260830T230600Z
+DTEND:20260831T010600Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603343@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nGuada
+ lajara vs Pumas UNAM\nStatus: Match Finished\nVenue: Estadio Akron\, Zapop
+ an\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Santos vs Atlante (1–0)
 DTSTART:20260901T010600Z
 DTEND:20260901T030600Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926911@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603344@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nSanto
- s vs Atlante\nStatus: Full Time\nVenue: Estadio Corona\, Torreón\n\nFixtu
- res by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926911/atlante-santos
+ s vs Atlante\nStatus: Match Finished\nVenue: Estadio Corona\n\nFixtures by
+  HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Atlas vs Guadalajara (0–4)
 DTSTART:20260905T020600Z
 DTEND:20260905T040600Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926912@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603345@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAtlas
-  vs Guadalajara\nStatus: Full Time\nVenue: Estadio Jalisco\, Guadalajara\n
- \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926912/guadalajara-atlas
+  vs Guadalajara\nStatus: Match Finished\nVenue: Estadio Jalisco\, Guadalaj
+ ara\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Pumas UNAM vs América (1–2)
 DTSTART:20260905T030000Z
 DTEND:20260905T050000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926913@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603346@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPumas
-  UNAM vs América\nStatus: Full Time\nVenue: Estadio Olímpico Universitar
- io\, Mexico City\n\nFixtures by HerFixtures.com — Women's Sports on Your
-  Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926913/america-pumas-una
- m
+  UNAM vs América\nStatus: Match Finished\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Necaxa vs Atlético de San Luis (0–2)
 DTSTART:20260905T230000Z
 DTEND:20260906T010000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926928@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603347@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nNecax
- a vs Atlético de San Luis\nStatus: Full Time\nVenue: Estadio Victoria\, A
- guascalientes\n\nFixtures by HerFixtures.com — Women's Sports on Your Ca
- lendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926928/atletico-de-san-l
- uis-necaxa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Tijuana vs Pachuca (3–1)
-DTSTART:20260906T010600Z
-DTEND:20260906T030600Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926914@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nTijua
- na vs Pachuca\nStatus: Full Time\nVenue: Estadio Caliente\, Tijuana\n\nFix
- tures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926914/pachuca-tijuana
+ a vs Atlético de San Luis\nStatus: Match Finished\nVenue: Estadio Victori
+ a\, Aguascalientes\n\nFixtures by HerFixtures.com — Women's Sports on Yo
+ ur Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Monterrey vs Toluca (5–1)
 DTSTART:20260906T010000Z
 DTEND:20260906T030000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926929@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603348@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nMonte
- rrey vs Toluca\nStatus: Full Time\nVenue: Estadio BBVA\, Guadalupe\n\nFixt
- ures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926929/toluca-monterrey
+ rrey vs Toluca\nStatus: Match Finished\nVenue: Cancha El Barrial\, Santiag
+ o\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Tijuana vs Pachuca (3–1)
+DTSTART:20260906T010600Z
+DTEND:20260906T030600Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603349@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nTijua
+ na vs Pachuca\nStatus: Match Finished\nVenue: Estadio Caliente\, Tijuana\n
+ \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Querétaro vs Cruz Azul (0–2)
 DTSTART:20260906T220000Z
 DTEND:20260907T000000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926930@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603350@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nQuer
- étaro vs Cruz Azul\nStatus: Full Time\nVenue: Estadio Corregidora\, Santi
- ago de Querétaro\n\nFixtures by HerFixtures.com — Women's Sports on You
- r Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926930/cruz-azul-quereta
- ro
+ étaro vs Cruz Azul\nStatus: Match Finished\nVenue: Estadio La Corregidora
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Tigres UANL vs Santos (3–0)
 DTSTART:20260907T000600Z
 DTEND:20260907T020600Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926931@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603351@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nTigre
- s UANL vs Santos\nStatus: Full Time\nVenue: Estadio Universitario\, San Ni
- colás de los Garza\n\nFixtures by HerFixtures.com — Women's Sports on Y
- our Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926931/santos-tigres-uan
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ León vs Puebla (5–2)
-DTSTART:20260908T010600Z
-DTEND:20260908T030600Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926915@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nLeón
-  vs Puebla\nStatus: Full Time\nVenue: Estadio León\, León de los Aldamas
- \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926915/puebla-leon
+ s UANL vs Santos\nStatus: Match Finished\nVenue: Estadio Universitario\, S
+ an Nicolas de los Garza\n\nFixtures by HerFixtures.com — Women's Sports 
+ on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Atlante vs FC Juárez (0–1)
 DTSTART:20260908T180000Z
 DTEND:20260908T200000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926916@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603352@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAtlan
- te vs FC Juárez\nStatus: Full Time\nVenue: CAR Atlante Cancha 1\, Mexico 
- City\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926916/fc-juarez-atlante
+ te vs FC Juárez\nStatus: Match Finished\nVenue: Estadio Banorte\, Ciudad 
+ de Mexico\n\nFixtures by HerFixtures.com — Women's Sports on Your Calend
+ ar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ León vs Puebla (5–2)
+DTSTART:20260908T010600Z
+DTEND:20260908T030600Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603353@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nLeón
+  vs Puebla\nStatus: Match Finished\n\nFixtures by HerFixtures.com — Wome
+ n's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Cruz Azul vs Pumas UNAM (3–2)
 DTSTART:20260912T010000Z
 DTEND:20260912T030000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926932@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603354@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nCruz 
- Azul vs Pumas UNAM\nStatus: Full Time\nVenue: Estadio Centenario\, Montevi
- deo\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926932/pumas-unam-cruz-a
- zul
+ Azul vs Pumas UNAM\nStatus: Match Finished\nVenue: Estadio Centenario\, Cu
+ ernavaca\n\nFixtures by HerFixtures.com — Women's Sports on Your Calenda
+ r
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Atlas vs Atlante (1–0)
 DTSTART:20260912T030600Z
 DTEND:20260912T050600Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926933@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603355@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAtlas
-  vs Atlante\nStatus: Full Time\nVenue: Estadio Jalisco\, Guadalajara\n\nFi
- xtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926933/atlante-atlas
+  vs Atlante\nStatus: Match Finished\nVenue: Estadio Jalisco\, Guadalajara\
+ n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Guadalajara vs Monterrey (2–3)
 DTSTART:20260912T230700Z
 DTEND:20260913T010700Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926934@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603356@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nGuada
- lajara vs Monterrey\nStatus: Full Time\nVenue: Estadio Akron\, Guadalajara
- \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926934/monterrey-guadala
- jara
+ lajara vs Monterrey\nStatus: Match Finished\nVenue: Estadio Akron\, Zapopa
+ n\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ FC Juárez vs Necaxa (1–0)
 DTSTART:20260913T011000Z
 DTEND:20260913T031000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926917@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603357@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nFC Ju
- árez vs Necaxa\nStatus: Full Time\nVenue: Estadio Olímpico Benito Juáre
- z\, Ciudad Juárez\n\nFixtures by HerFixtures.com — Women's Sports on Yo
- ur Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926917/necaxa-fc-juarez
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Atlético de San Luis vs Santos (2–3)
-DTSTART:20260913T230000Z
-DTEND:20260914T010000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926918@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAtlé
- tico de San Luis vs Santos\nStatus: Full Time\nVenue: Estadio Libertad Fin
- anciera\, San Luis Potosi\n\nFixtures by HerFixtures.com — Women's Sport
- s on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926918/santos-atletico-d
- e-san-luis
+ árez vs Necaxa\nStatus: Match Finished\n\nFixtures by HerFixtures.com —
+  Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Puebla vs Querétaro (2–6)
 DTSTART:20260913T180000Z
 DTEND:20260913T200000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926935@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603358@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPuebl
- a vs Querétaro\nStatus: Full Time\nVenue: Estadio Cuauhtémoc\, Puebla\n
- \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926935/queretaro-puebla
+ a vs Querétaro\nStatus: Match Finished\n\nFixtures by HerFixtures.com —
+  Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Atlético de San Luis vs Santos (2–3)
+DTSTART:20260913T230000Z
+DTEND:20260914T010000Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603359@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAtlé
+ tico de San Luis vs Santos\nStatus: Match Finished\nVenue: Estadio Liberta
+ d Financiera\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ América vs Tigres UANL (5–2)
 DTSTART:20260913T230000Z
 DTEND:20260914T010000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926936@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603360@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAmér
- ica vs Tigres UANL\nStatus: Full Time\nVenue: Estadio Banorte\, Mexico Cit
- y\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926936/tigres-uanl-ameri
- ca
+ ica vs Tigres UANL\nStatus: Match Finished\nVenue: Estadio Banorte\, Mexic
+ o City\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Toluca vs Tijuana (6–0)
 DTSTART:20260915T000000Z
 DTEND:20260915T020000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926937@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603361@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nToluc
- a vs Tijuana\nStatus: Full Time\nVenue: Estadio Nemesio Díez Riega\, Tolu
- ca\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926937/tijuana-toluca
+ a vs Tijuana\nStatus: Match Finished\n\nFixtures by HerFixtures.com — Wo
+ men's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Pachuca vs León (0–1)
 DTSTART:20260915T010000Z
 DTEND:20260915T030000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926938@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603362@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPachu
- ca vs León\nStatus: Full Time\nVenue: Estadio Hidalgo\, Pachuca\n\nFixtur
- es by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926938/leon-pachuca
+ ca vs León\nStatus: Match Finished\nVenue: Estadio Miguel Hidalgo\, Pachu
+ ca de Soto\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
+ dar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Monterrey vs Necaxa (10–0)
 DTSTART:20260919T030000Z
 DTEND:20260919T050000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926939@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603363@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nMonte
- rrey vs Necaxa\nStatus: Full Time\nVenue: Estadio BBVA\, Guadalupe\n\nFixt
- ures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926939/necaxa-monterrey
+ rrey vs Necaxa\nStatus: Match Finished\nVenue: Cancha El Barrial\, Santiag
+ o\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Tijuana vs Guadalajara (0–2)
 DTSTART:20260919T230600Z
 DTEND:20260920T010600Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926940@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603364@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nTijua
- na vs Guadalajara\nStatus: Full Time\nVenue: Estadio Caliente\, Tijuana\n
- \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926940/guadalajara-tijua
- na
+ na vs Guadalajara\nStatus: Match Finished\nVenue: Estadio Caliente\, Tijua
+ na\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Pumas UNAM vs Puebla (2–0)
 DTSTART:20260920T180000Z
 DTEND:20260920T200000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926919@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603365@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPumas
-  UNAM vs Puebla\nStatus: Full Time\nVenue: Estadio Olímpico Universitario
- \, Mexico City\n\nFixtures by HerFixtures.com — Women's Sports on Your C
- alendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926919/puebla-pumas-unam
+  UNAM vs Puebla\nStatus: Match Finished\n\nFixtures by HerFixtures.com —
+  Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ América vs Atlas (2–2)
 DTSTART:20260920T214500Z
 DTEND:20260920T234500Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926941@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603366@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAmér
- ica vs Atlas\nStatus: Full Time\nVenue: Instalaciones Club América Coapa
- \, Mexico City\n\nFixtures by HerFixtures.com — Women's Sports on Your C
- alendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926941/atlas-america
+ ica vs Atlas\nStatus: Match Finished\nVenue: Estadio Banorte\, Mexico City
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Atlético de San Luis vs Pachuca (2–1)
 DTSTART:20260920T230000Z
 DTEND:20260921T010000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926942@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603367@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAtlé
- tico de San Luis vs Pachuca\nStatus: Full Time\nVenue: Estadio Libertad Fi
- nanciera\, San Luis Potosi\n\nFixtures by HerFixtures.com — Women's Spor
- ts on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926942/pachuca-atletico-
- de-san-luis
+ tico de San Luis vs Pachuca\nStatus: Match Finished\nVenue: Estadio Libert
+ ad Financiera\n\nFixtures by HerFixtures.com — Women's Sports on Your Ca
+ lendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Atlante vs Querétaro (2–1)
 DTSTART:20260921T214500Z
 DTEND:20260921T234500Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926943@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603368@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAtlan
- te vs Querétaro\nStatus: Full Time\nVenue: CAR Atlante Cancha 1\, Mexico 
- City\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926943/queretaro-atlante
+ te vs Querétaro\nStatus: Match Finished\nVenue: Estadio Banorte\, Ciudad 
+ de Mexico\n\nFixtures by HerFixtures.com — Women's Sports on Your Calend
+ ar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ León vs FC Juárez (0–2)
 DTSTART:20260921T230000Z
 DTEND:20260922T010000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926960@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603369@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nLeón
-  vs FC Juárez\nStatus: Full Time\nVenue: Estadio León\, León de los Ald
- amas\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926960/fc-juarez-leon
+  vs FC Juárez\nStatus: Match Finished\n\nFixtures by HerFixtures.com — 
+ Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Toluca vs Tigres UANL (2–7)
 DTSTART:20260922T000000Z
 DTEND:20260922T020000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926944@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603370@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nToluc
- a vs Tigres UANL\nStatus: Full Time\nVenue: Estadio Nemesio Díez Riega\, 
- Toluca\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926944/tigres-uanl-toluc
- a
+ a vs Tigres UANL\nStatus: Match Finished\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Santos vs Cruz Azul (2–0)
 DTSTART:20260922T010600Z
 DTEND:20260922T030600Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401926945@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603371@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nSanto
- s vs Cruz Azul\nStatus: Full Time\nVenue: Estadio Corona\, Torreón\n\nFix
- tures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401926945/cruz-azul-santos
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Querétaro vs Atlas (0–1)
-DTSTART:20260926T180600Z
-DTEND:20260926T200600Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924344@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nQuer
- étaro vs Atlas\nStatus: Full Time\nVenue: Estadio Corregidora\, Santiago 
- de Querétaro\n\nFixtures by HerFixtures.com — Women's Sports on Your Ca
- lendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924344/atlas-queretaro
+ s vs Cruz Azul\nStatus: Match Finished\nVenue: Estadio Corona\n\nFixtures 
+ by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Cruz Azul vs Guadalajara (0–1)
 DTSTART:20260926T010000Z
 DTEND:20260926T030000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924350@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603372@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nCruz 
- Azul vs Guadalajara\nStatus: Full Time\n\nFixtures by HerFixtures.com — 
- Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924350/guadalajara-cruz-
- azul
+ Azul vs Guadalajara\nStatus: Match Finished\nVenue: Estadio Centenario\, C
+ uernavaca\n\nFixtures by HerFixtures.com — Women's Sports on Your Calend
+ ar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Querétaro vs Atlas (0–1)
+DTSTART:20260926T180600Z
+DTEND:20260926T200600Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603373@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nQuer
+ étaro vs Atlas\nStatus: Match Finished\nVenue: Estadio La Corregidora\n\n
+ Fixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Pachuca vs Santos (4–1)
 DTSTART:20260926T230000Z
 DTEND:20260927T010000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924387@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603374@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPachu
- ca vs Santos\nStatus: Full Time\nVenue: Estadio Hidalgo\, Pachuca\n\nFixtu
- res by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924387/santos-pachuca
+ ca vs Santos\nStatus: Match Finished\nVenue: Estadio Miguel Hidalgo\, Pach
+ uca de Soto\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
+ ndar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ FC Juárez vs Tijuana (5–1)
 DTSTART:20260927T010600Z
 DTEND:20260927T030600Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924345@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603375@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nFC Ju
- árez vs Tijuana\nStatus: Full Time\nVenue: Estadio Olímpico Benito Juár
- ez\, Ciudad Juárez\n\nFixtures by HerFixtures.com — Women's Sports on Y
- our Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924345/tijuana-fc-juarez
+ árez vs Tijuana\nStatus: Match Finished\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Puebla vs Monterrey (1–2)
 DTSTART:20260927T180000Z
 DTEND:20260927T200000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924365@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603376@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPuebl
- a vs Monterrey\nStatus: Full Time\nVenue: Estadio Cuauhtémoc\, Puebla\n\n
- Fixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924365/monterrey-puebla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Atlante vs Pumas UNAM (0–0)
-DTSTART:20260928T214500Z
-DTEND:20260928T234500Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924354@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAtlan
- te vs Pumas UNAM\nStatus: Full Time\n\nFixtures by HerFixtures.com — Wom
- en's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924354/pumas-unam-atlant
- e
+ a vs Monterrey\nStatus: Match Finished\n\nFixtures by HerFixtures.com — 
+ Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Tigres UANL vs Atlético de San Luis (1–1)
 DTSTART:20260928T000600Z
 DTEND:20260928T020600Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924355@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603377@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nTigre
- s UANL vs Atlético de San Luis\nStatus: Full Time\nVenue: Estadio Univers
- itario\, San Nicolás de los Garza\n\nFixtures by HerFixtures.com — Wome
- n's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924355/atletico-de-san-l
- uis-tigres-uanl
+ s UANL vs Atlético de San Luis\nStatus: Match Finished\nVenue: Estadio Un
+ iversitario\, San Nicolas de los Garza\n\nFixtures by HerFixtures.com — 
+ Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Atlante vs Pumas UNAM (0–0)
+DTSTART:20260928T214500Z
+DTEND:20260928T234500Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603378@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAtlan
+ te vs Pumas UNAM\nStatus: Match Finished\nVenue: Estadio Banorte\, Ciudad 
+ de Mexico\n\nFixtures by HerFixtures.com — Women's Sports on Your Calend
+ ar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ León vs América (0–5)
 DTSTART:20260928T230000Z
 DTEND:20260929T010000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924389@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603379@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nLeón
-  vs América\nStatus: Full Time\nVenue: Estadio León\, León de los Aldam
- as\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924389/america-leon
+  vs América\nStatus: Match Finished\n\nFixtures by HerFixtures.com — Wo
+ men's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Necaxa vs Toluca (0–4)
 DTSTART:20260929T010600Z
 DTEND:20260929T030600Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924351@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603380@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nNecax
- a vs Toluca\nStatus: Full Time\nVenue: Estadio Victoria\, Aguascalientes\n
- \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924351/toluca-necaxa
+ a vs Toluca\nStatus: Match Finished\nVenue: Estadio Victoria\, Aguascalien
+ tes\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Santos vs Puebla (1–0)
 DTSTART:20261002T230000Z
 DTEND:20261003T010000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924388@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603381@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nSanto
- s vs Puebla\nStatus: Full Time\nVenue: Estadio Corona\, Torreón\n\nFixtur
- es by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924388/puebla-santos
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Querétaro vs Atlético de San Luis (0–1)
-DTSTART:20261003T230000Z
-DTEND:20261004T010000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924352@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nQuer
- étaro vs Atlético de San Luis\nStatus: Full Time\nVenue: Estadio Corregi
- dora\, Santiago de Querétaro\n\nFixtures by HerFixtures.com — Women's S
- ports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924352/atletico-de-san-l
- uis-queretaro
+ s vs Puebla\nStatus: Match Finished\nVenue: Estadio Corona\n\nFixtures by 
+ HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Pumas UNAM vs Tigres UANL (1–3)
 DTSTART:20261003T010000Z
 DTEND:20261003T030000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924367@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603382@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPumas
-  UNAM vs Tigres UANL\nStatus: Full Time\nVenue: Estadio Olímpico Universi
- tario\, Mexico City\n\nFixtures by HerFixtures.com — Women's Sports on Y
- our Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924367/tigres-uanl-pumas
- -unam
+  UNAM vs Tigres UANL\nStatus: Match Finished\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Monterrey vs América (4–3)
-DTSTART:20261003T031000Z
-DTEND:20261003T051000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924392@herfixtures.com
+DTSTART:20261003T030000Z
+DTEND:20261003T050000Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603384@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nMonte
- rrey vs América\nStatus: Full Time\nVenue: Estadio BBVA\, Guadalupe\n\nFi
- xtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924392/america-monterrey
+ rrey vs América\nStatus: Match Finished\nVenue: Cancha El Barrial\, Santi
+ ago\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Querétaro vs Atlético de San Luis (0–1)
+DTSTART:20261003T230000Z
+DTEND:20261004T010000Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603385@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nQuer
+ étaro vs Atlético de San Luis\nStatus: Match Finished\nVenue: Estadio La
+  Corregidora\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
+ endar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Tijuana vs Atlante (1–0)
 DTSTART:20261004T010600Z
 DTEND:20261004T030600Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924348@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603386@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nTijua
- na vs Atlante\nStatus: Full Time\nVenue: Estadio Caliente\, Tijuana\n\nFix
- tures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924348/atlante-tijuana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Guadalajara vs FC Juárez (1–0)
-DTSTART:20261004T230000Z
-DTEND:20261005T010000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924356@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nGuada
- lajara vs FC Juárez\nStatus: Full Time\nVenue: Estadio Akron\, Guadalajar
- a\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924356/fc-juarez-guadala
- jara
+ na vs Atlante\nStatus: Match Finished\nVenue: Estadio Caliente\, Tijuana\n
+ \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Necaxa vs Cruz Azul (0–2)
 DTSTART:20261004T031000Z
 DTEND:20261004T051000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924375@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603387@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nNecax
- a vs Cruz Azul\nStatus: Full Time\nVenue: Estadio Victoria\, Aguascaliente
- s\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924375/cruz-azul-necaxa
+ a vs Cruz Azul\nStatus: Match Finished\nVenue: Estadio Victoria\, Aguascal
+ ientes\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Guadalajara vs FC Juárez (1–0)
+DTSTART:20261004T230000Z
+DTEND:20261005T010000Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603388@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nGuada
+ lajara vs FC Juárez\nStatus: Match Finished\nVenue: Estadio Akron\, Zapop
+ an\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Pachuca vs Toluca (1–2)
 DTSTART:20261005T010600Z
 DTEND:20261005T030600Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924398@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603389@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPachu
- ca vs Toluca\nStatus: Full Time\nVenue: Estadio Hidalgo\, Pachuca\n\nFixtu
- res by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924398/toluca-pachuca
+ ca vs Toluca\nStatus: Match Finished\nVenue: Estadio Miguel Hidalgo\, Pach
+ uca de Soto\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
+ ndar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Puebla vs Tijuana (1–1)
 DTSTART:20261017T180000Z
 DTEND:20261017T200000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924347@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603390@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPuebl
- a vs Tijuana\nStatus: Full Time\nVenue: Estadio Cuauhtémoc\, Puebla\n\nFi
- xtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924347/tijuana-puebla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Atlético de San Luis vs FC Juárez (1–2)
-DTSTART:20261018T230000Z
-DTEND:20261019T010000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924357@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAtlé
- tico de San Luis vs FC Juárez\nStatus: Full Time\nVenue: Estadio Libertad
-  Financiera\, San Luis Potosi\n\nFixtures by HerFixtures.com — Women's S
- ports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924357/fc-juarez-atletic
- o-de-san-luis
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Pumas UNAM vs Atlas (1–0)
-DTSTART:20261018T180000Z
-DTEND:20261018T200000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924370@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPumas
-  UNAM vs Atlas\nStatus: Full Time\nVenue: Estadio Olímpico Universitario
- \, Mexico City\n\nFixtures by HerFixtures.com — Women's Sports on Your C
- alendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924370/atlas-pumas-unam
+ a vs Tijuana\nStatus: Match Finished\n\nFixtures by HerFixtures.com — Wo
+ men's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Monterrey vs Cruz Azul (1–0)
 DTSTART:20261018T010000Z
 DTEND:20261018T030000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924372@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603391@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nMonte
- rrey vs Cruz Azul\nStatus: Full Time\nVenue: Estadio BBVA\, Guadalupe\n\nF
- ixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924372/cruz-azul-monterr
- ey
+ rrey vs Cruz Azul\nStatus: Match Finished\nVenue: Cancha El Barrial\, Sant
+ iago\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Pumas UNAM vs Atlas (1–0)
+DTSTART:20261018T180000Z
+DTEND:20261018T200000Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603392@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPumas
+  UNAM vs Atlas\nStatus: Match Finished\n\nFixtures by HerFixtures.com — 
+ Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Atlético de San Luis vs FC Juárez (1–2)
+DTSTART:20261018T230000Z
+DTEND:20261019T010000Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603394@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAtlé
+ tico de San Luis vs FC Juárez\nStatus: Match Finished\nVenue: Estadio Lib
+ ertad Financiera\n\nFixtures by HerFixtures.com — Women's Sports on Your
+  Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Tigres UANL vs Querétaro (2–0)
 DTSTART:20261019T000600Z
 DTEND:20261019T020600Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924368@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603395@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nTigre
- s UANL vs Querétaro\nStatus: Full Time\nVenue: Estadio Universitario\, Sa
- n Nicolás de los Garza\n\nFixtures by HerFixtures.com — Women's Sports 
- on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924368/queretaro-tigres-
- uanl
+ s UANL vs Querétaro\nStatus: Match Finished\nVenue: Estadio Universitario
+ \, San Nicolas de los Garza\n\nFixtures by HerFixtures.com — Women's Spo
+ rts on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ América vs Pachuca (2–1)
 DTSTART:20261019T010000Z
 DTEND:20261019T030000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924393@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603396@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAmér
- ica vs Pachuca\nStatus: Full Time\nVenue: Estadio Banorte\, Mexico City\n
- \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924393/pachuca-america
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ León vs Atlante (2–0)
-DTSTART:20261020T010600Z
-DTEND:20261020T030600Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924369@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nLeón
-  vs Atlante\nStatus: Full Time\nVenue: Estadio León\, León de los Aldama
- s\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924369/atlante-leon
+ ica vs Pachuca\nStatus: Match Finished\nVenue: Estadio Banorte\, Mexico Ci
+ ty\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Toluca vs Santos (0–0)
 DTSTART:20261020T000000Z
 DTEND:20261020T020000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924383@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603397@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nToluc
- a vs Santos\nStatus: Full Time\nVenue: Estadio Nemesio Díez Riega\, Toluc
- a\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924383/santos-toluca
+ a vs Santos\nStatus: Match Finished\n\nFixtures by HerFixtures.com — Wom
+ en's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ León vs Atlante (2–0)
+DTSTART:20261020T010600Z
+DTEND:20261020T030600Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603398@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nLeón
+  vs Atlante\nStatus: Match Finished\n\nFixtures by HerFixtures.com — Wom
+ en's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Guadalajara vs Necaxa (7–0)
 DTSTART:20261021T030700Z
 DTEND:20261021T050700Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924374@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603393@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nGuada
- lajara vs Necaxa\nStatus: Full Time\nVenue: Estadio Akron\, Guadalajara\n
+ lajara vs Necaxa\nStatus: Match Finished\nVenue: Estadio Akron\, Zapopan\n
  \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924374/necaxa-guadalajar
- a
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Atlas vs León (1–1)
 DTSTART:20261023T010600Z
 DTEND:20261023T030600Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924346@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603383@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAtlas
-  vs León\nStatus: Full Time\nVenue: Estadio Jalisco\, Guadalajara\n\nFixt
- ures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924346/leon-atlas
+  vs León\nStatus: Match Finished\nVenue: Estadio Jalisco\, Guadalajara\n\
+ nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Tijuana vs Pumas UNAM (1–1)
 DTSTART:20261024T031000Z
 DTEND:20261024T051000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924366@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603400@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nTijua
- na vs Pumas UNAM\nStatus: Full Time\nVenue: Estadio Caliente\, Tijuana\n\n
- Fixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924366/pumas-unam-tijuan
- a
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Atlético de San Luis vs América (0–7)
-DTSTART:20261024T230000Z
-DTEND:20261025T010000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924390@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAtlé
- tico de San Luis vs América\nStatus: Full Time\nVenue: Estadio Libertad F
- inanciera\, San Luis Potosi\n\nFixtures by HerFixtures.com — Women's Spo
- rts on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924390/america-atletico-
- de-san-luis
+ na vs Pumas UNAM\nStatus: Match Finished\nVenue: Estadio Caliente\, Tijuan
+ a\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Pachuca vs Necaxa (5–0)
 DTSTART:20261024T230000Z
 DTEND:20261025T010000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924396@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603401@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPachu
- ca vs Necaxa\nStatus: Full Time\nVenue: Estadio Hidalgo\, Pachuca\n\nFixtu
- res by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924396/necaxa-pachuca
+ ca vs Necaxa\nStatus: Match Finished\nVenue: Estadio Miguel Hidalgo\, Pach
+ uca de Soto\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
+ ndar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ FC Juárez vs Querétaro (2–1)
-DTSTART:20261025T000600Z
-DTEND:20261025T020600Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924353@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nFC Ju
- árez vs Querétaro\nStatus: Full Time\nVenue: Estadio Olímpico Benito Ju
- árez\, Ciudad Juárez\n\nFixtures by HerFixtures.com — Women's Sports o
- n Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924353/queretaro-fc-juar
- ez
+SUMMARY:⚽ Atlético de San Luis vs América (0–7)
+DTSTART:20261024T230000Z
+DTEND:20261025T010000Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603404@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAtlé
+ tico de San Luis vs América\nStatus: Match Finished\nVenue: Estadio Liber
+ tad Financiera\n\nFixtures by HerFixtures.com — Women's Sports on Your C
+ alendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Cruz Azul vs Toluca (1–2)
 DTSTART:20261025T001000Z
 DTEND:20261025T021000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924395@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603402@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nCruz 
- Azul vs Toluca\nStatus: Full Time\nVenue: Estadio Centenario\, Montevideo
- \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924395/toluca-cruz-azul
+ Azul vs Toluca\nStatus: Match Finished\nVenue: Estadio Centenario\, Cuerna
+ vaca\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Tigres UANL vs Monterrey (2–2)
-DTSTART:20261026T000600Z
-DTEND:20261026T020600Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924394@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nTigre
- s UANL vs Monterrey\nStatus: Full Time\nVenue: Estadio Universitario\, San
-  Nicolás de los Garza\n\nFixtures by HerFixtures.com — Women's Sports o
- n Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924394/monterrey-tigres-
- uanl
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Atlante vs Guadalajara (0–1)
-DTSTART:20261026T214500Z
-DTEND:20261026T234500Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924397@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAtlan
- te vs Guadalajara\nStatus: Full Time\nVenue: CAR Atlante Cancha 1\, Mexico
-  City\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924397/guadalajara-atlan
- te
+SUMMARY:⚽ FC Juárez vs Querétaro (2–1)
+DTSTART:20261025T000600Z
+DTEND:20261025T020600Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603403@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nFC Ju
+ árez vs Querétaro\nStatus: Match Finished\n\nFixtures by HerFixtures.com
+  — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Atlas vs Puebla (2–1)
 DTSTART:20261026T230000Z
 DTEND:20261027T010000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924400@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603399@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAtlas
-  vs Puebla\nStatus: Full Time\nVenue: Estadio Jalisco\, Guadalajara\n\nFix
- tures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924400/puebla-atlas
+  vs Puebla\nStatus: Match Finished\nVenue: Estadio Jalisco\, Guadalajara\n
+ \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Tigres UANL vs Monterrey (2–2)
+DTSTART:20261026T000600Z
+DTEND:20261026T020600Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603405@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nTigre
+ s UANL vs Monterrey\nStatus: Match Finished\nVenue: Estadio Universitario\
+ , San Nicolas de los Garza\n\nFixtures by HerFixtures.com — Women's Spor
+ ts on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Atlante vs Guadalajara (0–1)
+DTSTART:20261026T214500Z
+DTEND:20261026T234500Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603406@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAtlan
+ te vs Guadalajara\nStatus: Match Finished\nVenue: Estadio Banorte\, Ciudad
+  de Mexico\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
+ dar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Santos vs León (1–2)
 DTSTART:20261027T010600Z
 DTEND:20261027T030600Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924371@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603407@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nSanto
- s vs León\nStatus: Full Time\nVenue: Estadio Corona\, Torreón\n\nFixture
- s by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924371/leon-santos
+ s vs León\nStatus: Match Finished\nVenue: Estadio Corona\n\nFixtures by H
+ erFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Toluca vs Guadalajara (2–3)
 DTSTART:20261031T000000Z
 DTEND:20261031T020000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924358@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603408@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nToluc
- a vs Guadalajara\nStatus: Full Time\nVenue: Estadio Nemesio Díez Riega\, 
- Toluca\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924358/guadalajara-toluc
- a
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Tijuana vs Cruz Azul (1–3)
-DTSTART:20261031T234500Z
-DTEND:20261101T014500Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924373@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nTijua
- na vs Cruz Azul\nStatus: Full Time\nVenue: Estadio Caliente\, Tijuana\n\nF
- ixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924373/cruz-azul-tijuana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Querétaro vs Pachuca (0–5)
-DTSTART:20261031T214000Z
-DTEND:20261031T234000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924378@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nQuer
- étaro vs Pachuca\nStatus: Full Time\nVenue: Centro Gallo de Alto Rendemie
- nto\, Santiago de Querétaro\n\nFixtures by HerFixtures.com — Women's Sp
- orts on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924378/pachuca-queretaro
+ a vs Guadalajara\nStatus: Match Finished\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Atlas vs Tigres UANL (0–7)
 DTSTART:20261031T010600Z
 DTEND:20261031T030600Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924384@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603409@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAtlas
-  vs Tigres UANL\nStatus: Full Time\nVenue: Estadio Jalisco\, Guadalajara\n
- \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924384/tigres-uanl-atlas
+  vs Tigres UANL\nStatus: Match Finished\nVenue: Estadio Jalisco\, Guadalaj
+ ara\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Monterrey vs Pumas UNAM (6–0)
 DTSTART:20261031T030000Z
 DTEND:20261031T050000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924399@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603410@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nMonte
- rrey vs Pumas UNAM\nStatus: Full Time\nVenue: Estadio BBVA\, Guadalupe\n\n
- Fixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924399/pumas-unam-monter
- rey
+ rrey vs Pumas UNAM\nStatus: Match Finished\nVenue: Cancha El Barrial\, San
+ tiago\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Puebla vs FC Juárez (1–2)
-DTSTART:20261101T180000Z
-DTEND:20261101T200000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924359@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPuebl
- a vs FC Juárez\nStatus: Full Time\nVenue: Estadio Cuauhtémoc\, Puebla\n
+SUMMARY:⚽ Tijuana vs Cruz Azul (1–3)
+DTSTART:20261031T234500Z
+DTEND:20261101T014500Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603411@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nTijua
+ na vs Cruz Azul\nStatus: Match Finished\nVenue: Estadio Caliente\, Tijuana
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Querétaro vs Pachuca (0–5)
+DTSTART:20261031T214000Z
+DTEND:20261031T234000Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603412@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nQuer
+ étaro vs Pachuca\nStatus: Match Finished\nVenue: Estadio La Corregidora\n
  \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924359/fc-juarez-puebla
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Necaxa vs Santos (1–3)
 DTSTART:20261101T031000Z
 DTEND:20261101T051000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924361@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603413@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nNecax
- a vs Santos\nStatus: Full Time\nVenue: Estadio Victoria\, Aguascalientes\n
- \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924361/santos-necaxa
+ a vs Santos\nStatus: Match Finished\nVenue: Estadio Victoria\, Aguascalien
+ tes\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Puebla vs FC Juárez (1–2)
+DTSTART:20261101T180000Z
+DTEND:20261101T200000Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603414@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPuebl
+ a vs FC Juárez\nStatus: Match Finished\n\nFixtures by HerFixtures.com —
+  Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ América vs Atlante (6–0)
 DTSTART:20261101T214500Z
 DTEND:20261101T234500Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924391@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603415@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAmér
- ica vs Atlante\nStatus: Full Time\nVenue: Instalaciones Club América Coap
- a\, Mexico City\n\nFixtures by HerFixtures.com — Women's Sports on Your 
- Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924391/atlante-america
+ ica vs Atlante\nStatus: Match Finished\nVenue: Estadio Banorte\, Mexico Ci
+ ty\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ León vs Atlético de San Luis (1–0)
 DTSTART:20261103T010600Z
 DTEND:20261103T030600Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924385@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603416@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nLeón
-  vs Atlético de San Luis\nStatus: Full Time\nVenue: Estadio León\, León
-  de los Aldamas\n\nFixtures by HerFixtures.com — Women's Sports on Your 
- Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924385/atletico-de-san-l
- uis-leon
+  vs Atlético de San Luis\nStatus: Match Finished\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Atlante vs Tigres UANL (0–4)
 DTSTART:20261105T214500Z
 DTEND:20261105T234500Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924349@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603417@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAtlan
- te vs Tigres UANL\nStatus: Full Time\nVenue: CAR Atlante Cancha 1\, Mexico
-  City\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924349/tigres-uanl-atlan
- te
+ te vs Tigres UANL\nStatus: Match Finished\nVenue: Estadio Banorte\, Ciudad
+  de Mexico\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
+ dar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Necaxa vs Atlas (1–1)
 DTSTART:20261105T230000Z
 DTEND:20261106T010000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924386@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603418@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nNecax
- a vs Atlas\nStatus: Full Time\nVenue: Estadio Victoria\, Aguascalientes\n
- \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924386/atlas-necaxa
+ a vs Atlas\nStatus: Match Finished\nVenue: Estadio Victoria\, Aguascalient
+ es\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Querétaro vs Toluca (1–1)
 DTSTART:20261106T010600Z
 DTEND:20261106T030600Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924360@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603419@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nQuer
- étaro vs Toluca\nStatus: Full Time\nVenue: Estadio Corregidora\, Santiago
-  de Querétaro\n\nFixtures by HerFixtures.com — Women's Sports on Your C
- alendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924360/toluca-queretaro
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Pumas UNAM vs Atlético de San Luis (3–1)
-DTSTART:20261106T230000Z
-DTEND:20261107T010000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924362@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPumas
-  UNAM vs Atlético de San Luis\nStatus: Full Time\nVenue: Estadio Olímpic
- o Universitario\, Mexico City\n\nFixtures by HerFixtures.com — Women's S
- ports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924362/atletico-de-san-l
- uis-pumas-unam
+ étaro vs Toluca\nStatus: Match Finished\nVenue: Estadio La Corregidora\n\
+ nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Santos vs Tijuana (4–2)
 DTSTART:20261106T031000Z
 DTEND:20261106T051000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924364@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603420@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nSanto
- s vs Tijuana\nStatus: Full Time\nVenue: Estadio Corona\, Torreón\n\nFixtu
- res by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924364/tijuana-santos
+ s vs Tijuana\nStatus: Match Finished\nVenue: Estadio Corona\, Torreon\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Pachuca vs Puebla (4–3)
 DTSTART:20261106T230000Z
 DTEND:20261107T010000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924377@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603421@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPachu
- ca vs Puebla\nStatus: Full Time\nVenue: Estadio Hidalgo\, Pachuca\n\nFixtu
- res by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924377/puebla-pachuca
+ ca vs Puebla\nStatus: Match Finished\nVenue: Estadio Miguel Hidalgo\, Pach
+ uca de Soto\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
+ ndar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ FC Juárez vs Monterrey (1–2)
-DTSTART:20261107T031000Z
-DTEND:20261107T051000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924363@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nFC Ju
- árez vs Monterrey\nStatus: Full Time\nVenue: Estadio Olímpico Benito Ju
- árez\, Ciudad Juárez\n\nFixtures by HerFixtures.com — Women's Sports o
- n Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924363/monterrey-fc-juar
- ez
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Guadalajara vs América (1–3)
-DTSTART:20261107T010600Z
-DTEND:20261107T030600Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924376@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nGuada
- lajara vs América\nStatus: Full Time\nVenue: Estadio Akron\, Guadalajara
- \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924376/america-guadalaja
- ra
+SUMMARY:⚽ Pumas UNAM vs Atlético de San Luis (3–1)
+DTSTART:20261106T230000Z
+DTEND:20261107T010000Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603422@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPumas
+  UNAM vs Atlético de San Luis\nStatus: Match Finished\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Cruz Azul vs León (1–2)
 DTSTART:20261107T011000Z
 DTEND:20261107T031000Z
-DTSTAMP:20261115T150824Z
-UID:espn-liga-mx-femenil-401924401@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603423@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nCruz 
- Azul vs León\nStatus: Full Time\nVenue: Estadio Centenario\, Montevideo\n
- \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401924401/leon-cruz-azul
+ Azul vs León\nStatus: Match Finished\nVenue: Estadio Centenario\, Cuernav
+ aca\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ FC Juárez vs Monterrey (1–2)
+DTSTART:20261107T031000Z
+DTEND:20261107T051000Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603424@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nFC Ju
+ árez vs Monterrey\nStatus: Match Finished\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Guadalajara vs América (1–3)
+DTSTART:20261107T010600Z
+DTEND:20261107T030600Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1603425@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nGuada
+ lajara vs América\nStatus: Match Finished\nVenue: Estadio Akron\, Zapopan
+ \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Pumas UNAM vs Tigres UANL (2–3)
+DTSTART:20261111T010000Z
+DTEND:20261111T030000Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1649463@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPumas
+  UNAM vs Tigres UANL\nStatus: Match Finished\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ FC Juárez vs Guadalajara (0–0)
+DTSTART:20261111T030000Z
+DTEND:20261111T050000Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1649464@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nFC Ju
+ árez vs Guadalajara\nStatus: Match Finished\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ América vs Toluca (3–0)
+DTSTART:20261112T010000Z
+DTEND:20261112T030000Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1649465@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAmér
+ ica vs Toluca\nStatus: Match Finished\nVenue: Estadio Banorte\, Mexico Cit
+ y\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Pachuca vs Monterrey (0–1)
+DTSTART:20261112T030000Z
+DTEND:20261112T050000Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1649466@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPachu
+ ca vs Monterrey\nStatus: Match Finished\nVenue: Estadio Miguel Hidalgo\, P
+ achuca de Soto\n\nFixtures by HerFixtures.com — Women's Sports on Your C
+ alendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Tigres UANL vs Pumas UNAM (0–5)
 DTSTART:20261114T230000Z
 DTEND:20261115T010000Z
-DTSTAMP:20261121T225940Z
-UID:espn-liga-mx-femenil-401932077@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1649467@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nTigre
- s UANL vs Pumas UNAM\nStatus: Full Time\nVenue: Estadio Universitario\, Sa
- n Nicolás de los Garza\n\nFixtures by HerFixtures.com — Women's Sports 
- on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401932077/pumas-unam-tigres
- -uanl
+ s UANL vs Pumas UNAM\nStatus: Match Finished\nVenue: Estadio Universitario
+ \, San Nicolas de los Garza\n\nFixtures by HerFixtures.com — Women's Spo
+ rts on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Guadalajara vs FC Juárez (1–1)
+DTSTART:20261115T030600Z
+DTEND:20261115T050600Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1649468@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nGuada
+ lajara vs FC Juárez\nStatus: Match Finished\nVenue: Estadio Akron\, Zapop
+ an\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Monterrey vs Pachuca (3–2)
+DTSTART:20261116T010000Z
+DTEND:20261116T030000Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1649469@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nMonte
+ rrey vs Pachuca\nStatus: Match Finished\nVenue: Cancha El Barrial\, Santia
+ go\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Toluca vs América (0–3)
+DTSTART:20261116T031000Z
+DTEND:20261116T051000Z
+DTSTAMP:20261125T085047Z
+UID:af-liga-mx-femenil-1649470@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nToluc
+ a vs América\nStatus: Match Finished\nVenue: Estadio Nemesio Diez\, Toluc
+ a\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Guadalajara vs Monterrey (time TBC)
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261125T021017Z
-UID:espn-liga-mx-femenil-401932061@herfixtures.com
+DTSTAMP:20261125T085211Z
+UID:af-liga-mx-femenil-1650224@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nGuada
- lajara vs Monterrey\nStatus: Scheduled\nKick-off time not confirmed yet. Y
- our calendar updates automatically once it is.\n\nFixtures by HerFixtures.
- com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401932061/monterrey-guadala
- jara
+ lajara vs Monterrey\nStatus: Not Started\nKick-off time not confirmed yet.
+  Your calendar updates automatically once it is.\nVenue: Estadio Akron\, Z
+ apopan\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Pumas UNAM vs América (time TBC)
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261125T021017Z
-UID:espn-liga-mx-femenil-401932076@herfixtures.com
+DTSTAMP:20261125T085211Z
+UID:af-liga-mx-femenil-1650225@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPumas
-  UNAM vs América\nStatus: Scheduled\nKick-off time not confirmed yet. You
- r calendar updates automatically once it is.\n\nFixtures by HerFixtures.co
- m — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401932076/america-pumas-una
- m
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Monterrey vs Guadalajara (time TBC)
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261213
-DTSTAMP:20261125T021017Z
-UID:espn-liga-mx-femenil-401932060@herfixtures.com
-DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nMonte
- rrey vs Guadalajara\nStatus: Scheduled\nKick-off time not confirmed yet. Y
+  UNAM vs América\nStatus: Not Started\nKick-off time not confirmed yet. Y
  our calendar updates automatically once it is.\n\nFixtures by HerFixtures.
  com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401932060/guadalajara-monte
- rrey
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ América vs Pumas UNAM (time TBC)
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261125T021017Z
-UID:espn-liga-mx-femenil-401932075@herfixtures.com
+DTSTAMP:20261125T085211Z
+UID:af-liga-mx-femenil-1650226@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAmér
- ica vs Pumas UNAM\nStatus: Scheduled\nKick-off time not confirmed yet. You
- r calendar updates automatically once it is.\n\nFixtures by HerFixtures.co
- m — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401932075/pumas-unam-americ
- a
+ ica vs Pumas UNAM\nStatus: Not Started\nKick-off time not confirmed yet. Y
+ our calendar updates automatically once it is.\nVenue: Estadio Banorte\, M
+ exico City\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
+ dar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Monterrey vs Guadalajara (time TBC)
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+DTSTAMP:20261125T085211Z
+UID:af-liga-mx-femenil-1650227@herfixtures.com
+DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nMonte
+ rrey vs Guadalajara\nStatus: Not Started\nKick-off time not confirmed yet.
+  Your calendar updates automatically once it is.\nVenue: Cancha El Barrial
+ \, Santiago\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
+ ndar
+URL:https://herfixtures.com
 END:VEVENT
 END:VCALENDAR

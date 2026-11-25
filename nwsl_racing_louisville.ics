@@ -10,390 +10,333 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Racing Louisville FC @ North Carolina Courage (1–2)
+SUMMARY:⚽ Racing Louisville @ NC Courage (1–2)
 DTSTART:20260314T230000Z
 DTEND:20260315T010000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853859@herfixtures.com
-DESCRIPTION:NWSL 2026 · Racing Louisville\nRacing Louisville FC at North 
- Carolina Courage\nStatus: Full Time\nVenue: WakeMed Soccer Park\, Cary\, N
- orth Carolina\nTV: NWSL+\n\nFixtures by HerFixtures.com — Women's Sports
-  on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853859/racing-louisville
- -fc-north-carolina-courage
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508360@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nRacing Louisville at NC Courage\nSta
+ tus: Match Finished\nVenue: WakeMed Soccer Park\, Cary\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Washington Spirit @ Racing Louisville FC (2–2)
+SUMMARY:⚽ Washington Spirit @ Racing Louisville (2–2)
 DTSTART:20260321T000000Z
 DTEND:20260321T020000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853863@herfixtures.com
-DESCRIPTION:NWSL 2026 · Racing Louisville\nWashington Spirit at Racing Lo
- uisville FC\nStatus: Full Time\nVenue: Lynn Family Stadium\, Louisville\, 
- Kentucky\nTV: Victory+\n\nFixtures by HerFixtures.com — Women's Sports o
- n Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853863/washington-spirit
- -racing-louisville-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508365@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nWashington Spirit at Racing Louisvil
+ le\nStatus: Match Finished\nVenue: Lynn Family Stadium\, Louisville\n\nFix
+ tures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Racing Louisville FC @ Seattle Reign FC (1–2)
+SUMMARY:⚽ Racing Louisville @ Seattle Reign (1–2)
 DTSTART:20260328T223000Z
 DTEND:20260329T003000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853875@herfixtures.com
-DESCRIPTION:NWSL 2026 · Racing Louisville\nRacing Louisville FC at Seattl
- e Reign FC\nStatus: Full Time\nVenue: ONE Spokane Stadium\, Spokane\, Wash
- ington\nTV: ION\n\nFixtures by HerFixtures.com — Women's Sports on Your 
- Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853875/racing-louisville
- -fc-seattle-reign-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508381@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nRacing Louisville at Seattle Reign\n
+ Status: Match Finished\nVenue: Lumen Field\, Spokane\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Racing Louisville FC @ Houston Dash (3–4)
+SUMMARY:⚽ Racing Louisville @ Houston Dash (3–4)
 DTSTART:20260404T003000Z
 DTEND:20260404T023000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853880@herfixtures.com
-DESCRIPTION:NWSL 2026 · Racing Louisville\nRacing Louisville FC at Housto
- n Dash\nStatus: Full Time\nVenue: Shell Energy Stadium\, Houston\, Texas\n
- TV: NWSL+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calend
- ar
-URL:https://www.espn.com/soccer/match/_/gameId/401853880/racing-louisville
- -fc-houston-dash
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508387@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nRacing Louisville at Houston Dash\nS
+ tatus: Match Finished\nVenue: Shell Energy Stadium\, Houston\n\nFixtures b
+ y HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Orlando Pride @ Racing Louisville FC (2–3)
+SUMMARY:⚽ Orlando Pride @ Racing Louisville (2–3)
 DTSTART:20260424T213000Z
 DTEND:20260424T233000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853885@herfixtures.com
-DESCRIPTION:NWSL 2026 · Racing Louisville\nOrlando Pride at Racing Louisv
- ille FC\nStatus: Full Time\nVenue: Lynn Family Stadium\, Louisville\, Kent
- ucky\nTV: Victory+\n\nFixtures by HerFixtures.com — Women's Sports on Yo
- ur Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853885/orlando-pride-rac
- ing-louisville-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508393@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nOrlando Pride at Racing Louisville\n
+ Status: Match Finished\nVenue: Lynn Family Stadium\, Louisville\n\nFixture
+ s by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Racing Louisville FC @ Washington Spirit (0–1)
+SUMMARY:⚽ Racing Louisville @ Washington Spirit (0–1)
 DTSTART:20260429T230000Z
 DTEND:20260430T010000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853891@herfixtures.com
-DESCRIPTION:NWSL 2026 · Racing Louisville\nRacing Louisville FC at Washin
- gton Spirit\nStatus: Full Time\nVenue: Audi Field\, Washington\, District 
- of Columbia\nTV: Victory+\n\nFixtures by HerFixtures.com — Women's Sport
- s on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853891/racing-louisville
- -fc-washington-spirit
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508401@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nRacing Louisville at Washington Spir
+ it\nStatus: Match Finished\nVenue: Audi Field\, Washington\n\nFixtures by 
+ HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Racing Louisville FC @ Gotham FC (0–1)
+SUMMARY:⚽ Racing Louisville @ Gotham FC (0–1)
 DTSTART:20260503T210000Z
 DTEND:20260503T230000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853899@herfixtures.com
-DESCRIPTION:NWSL 2026 · Racing Louisville\nRacing Louisville FC at Gotham
-  FC\nStatus: Full Time\nVenue: Sports Illustrated Stadium\, Harrison\, New
-  Jersey\nTV: CBSSN\n\nFixtures by HerFixtures.com — Women's Sports on Yo
- ur Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853899/racing-louisville
- -fc-gotham-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508411@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nRacing Louisville at Gotham FC\nStat
+ us: Match Finished\nVenue: Sports Illustrated Stadium\, Harrison\n\nFixtur
+ es by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Portland Thorns FC @ Racing Louisville FC (1–3)
+SUMMARY:⚽ Portland Thorns @ Racing Louisville (1–3)
 DTSTART:20260508T223000Z
 DTEND:20260509T003000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853902@herfixtures.com
-DESCRIPTION:NWSL 2026 · Racing Louisville\nPortland Thorns FC at Racing L
- ouisville FC\nStatus: Full Time\nVenue: Lynn Family Stadium\, Louisville\,
-  Kentucky\nTV: NWSL+\n\nFixtures by HerFixtures.com — Women's Sports on 
- Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853902/portland-thorns-f
- c-racing-louisville-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508414@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nPortland Thorns at Racing Louisville
+ \nStatus: Match Finished\nVenue: Lynn Family Stadium\, Louisville\n\nFixtu
+ res by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Racing Louisville FC @ Utah Royals (1–2)
+SUMMARY:⚽ Racing Louisville @ Utah Royals (1–2)
 DTSTART:20260518T000000Z
 DTEND:20260518T020000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853913@herfixtures.com
-DESCRIPTION:NWSL 2026 · Racing Louisville\nRacing Louisville FC at Utah R
- oyals\nStatus: Full Time\nVenue: America First Field\, Sandy\, Utah\nTV: V
- ictory+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853913/racing-louisville
- -fc-utah-royals
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508430@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nRacing Louisville at Utah Royals\nSt
+ atus: Match Finished\nVenue: America First Field\, Sandy\n\nFixtures by He
+ rFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ North Carolina Courage @ Racing Louisville FC (2–1)
+SUMMARY:⚽ NC Courage @ Racing Louisville (2–1)
 DTSTART:20260523T200000Z
 DTEND:20260523T220000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853917@herfixtures.com
-DESCRIPTION:NWSL 2026 · Racing Louisville\nNorth Carolina Courage at Raci
- ng Louisville FC\nStatus: Full Time\nVenue: Lynn Family Stadium\, Louisvil
- le\, Kentucky\nTV: ION\n\nFixtures by HerFixtures.com — Women's Sports o
- n Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853917/north-carolina-co
- urage-racing-louisville-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508435@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nNC Courage at Racing Louisville\nSta
+ tus: Match Finished\nVenue: Lynn Family Stadium\, Louisville\n\nFixtures b
+ y HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Denver Summit FC @ Racing Louisville FC (1–0)
+SUMMARY:⚽ Denver Summit FC @ Racing Louisville (1–0)
 DTSTART:20260530T000000Z
 DTEND:20260530T020000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401854059@herfixtures.com
-DESCRIPTION:NWSL 2026 · Racing Louisville\nDenver Summit FC at Racing Lou
- isville FC\nStatus: Full Time\nVenue: Lynn Family Stadium\, Louisville\, K
- entucky\nTV: Prime Video\n\nFixtures by HerFixtures.com — Women's Sports
-  on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401854059/denver-summit-fc-
- racing-louisville-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508442@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nDenver Summit FC at Racing Louisvill
+ e\nStatus: Match Finished\nVenue: Lynn Family Stadium\, Louisville\n\nFixt
+ ures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Racing Louisville FC @ Portland Thorns FC (0–4)
+SUMMARY:⚽ Racing Louisville @ Portland Thorns (0–4)
 DTSTART:20260705T230000Z
 DTEND:20260706T010000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853933@herfixtures.com
-DESCRIPTION:NWSL 2026 · Racing Louisville\nRacing Louisville FC at Portla
- nd Thorns FC\nStatus: Full Time\nVenue: Providence Park\, Portland\, Orego
- n\nTV: Victory+\n\nFixtures by HerFixtures.com — Women's Sports on Your 
- Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853933/racing-louisville
- -fc-portland-thorns-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508456@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nRacing Louisville at Portland Thorns
+ \nStatus: Match Finished\nVenue: Providence Park\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Bay FC @ Racing Louisville FC (2–0)
+SUMMARY:⚽ Bay FC @ Racing Louisville (2–0)
 DTSTART:20260711T000000Z
 DTEND:20260711T020000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853935@herfixtures.com
-DESCRIPTION:NWSL 2026 · Racing Louisville\nBay FC at Racing Louisville FC
- \nStatus: Full Time\nVenue: Lynn Family Stadium\, Louisville\, Kentucky\nT
- V: NWSL+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calenda
- r
-URL:https://www.espn.com/soccer/match/_/gameId/401853935/bay-fc-racing-lou
- isville-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508459@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nBay FC at Racing Louisville\nStatus:
+  Match Finished\nVenue: Lynn Family Stadium\, Louisville\n\nFixtures by He
+ rFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Houston Dash @ Racing Louisville FC (1–1)
-DTSTART:20260719T010000Z
-DTEND:20260719T030000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853945@herfixtures.com
-DESCRIPTION:NWSL 2026 · Racing Louisville\nHouston Dash at Racing Louisvi
- lle FC\nStatus: Full Time\nVenue: Lynn Family Stadium\, Louisville\, Kentu
- cky\nTV: NWSL+\n\nFixtures by HerFixtures.com — Women's Sports on Your C
- alendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853945/houston-dash-raci
- ng-louisville-fc
+SUMMARY:⚽ Houston Dash @ Racing Louisville (1–1)
+DTSTART:20260719T000000Z
+DTEND:20260719T020000Z
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508472@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nHouston Dash at Racing Louisville\nS
+ tatus: Match Finished\nVenue: Lynn Family Stadium\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Racing Louisville FC @ Angel City FC (2–1)
+SUMMARY:⚽ Racing Louisville @ Angel City FC (2–1)
 DTSTART:20260727T010000Z
 DTEND:20260727T030000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853952@herfixtures.com
-DESCRIPTION:NWSL 2026 · Racing Louisville\nRacing Louisville FC at Angel 
- City FC\nStatus: Full Time\nVenue: BMO Stadium\, Los Angeles\, California
- \nTV: ESPN\, ESPN Deportes\n\nFixtures by HerFixtures.com — Women's Spor
- ts on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853952/racing-louisville
- -fc-angel-city-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508482@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nRacing Louisville at Angel City FC\n
+ Status: Match Finished\nVenue: BMO Stadium\, Los Angeles\n\nFixtures by He
+ rFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Racing Louisville FC @ Kansas City Current (1–5)
+SUMMARY:⚽ Racing Louisville @ Kansas City Current (1–5)
 DTSTART:20260730T000000Z
 DTEND:20260730T020000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853953@herfixtures.com
-DESCRIPTION:NWSL 2026 · Racing Louisville\nRacing Louisville FC at Kansas
-  City Current\nStatus: Full Time\nVenue: CPKC Stadium\, Kansas City\, Miss
- ouri\nTV: CBSSN\n\nFixtures by HerFixtures.com — Women's Sports on Your 
- Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853953/racing-louisville
- -fc-kansas-city-current
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508483@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nRacing Louisville at Kansas City Cur
+ rent\nStatus: Match Finished\nVenue: CPKC Stadium\, Kansas City\n\nFixture
+ s by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Chicago Stars FC @ Racing Louisville FC (1–2)
+SUMMARY:⚽ Chicago Stars FC @ Racing Louisville (1–2)
 DTSTART:20260801T200000Z
 DTEND:20260801T220000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853957@herfixtures.com
-DESCRIPTION:NWSL 2026 · Racing Louisville\nChicago Stars FC at Racing Lou
- isville FC\nStatus: Full Time\nVenue: Lynn Family Stadium\, Louisville\, K
- entucky\nTV: CBSSN\n\nFixtures by HerFixtures.com — Women's Sports on Yo
- ur Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853957/chicago-stars-fc-
- racing-louisville-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508487@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nChicago Stars FC at Racing Louisvill
+ e\nStatus: Match Finished\nVenue: Lynn Family Stadium\, Louisville\n\nFixt
+ ures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Racing Louisville FC @ Orlando Pride (3–1)
+SUMMARY:⚽ Racing Louisville @ Orlando Pride (3–1)
 DTSTART:20260807T230000Z
 DTEND:20260808T010000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853965@herfixtures.com
-DESCRIPTION:NWSL 2026 · Racing Louisville\nRacing Louisville FC at Orland
- o Pride\nStatus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\nT
- V: NWSL+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calenda
- r
-URL:https://www.espn.com/soccer/match/_/gameId/401853965/racing-louisville
- -fc-orlando-pride
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508498@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nRacing Louisville at Orlando Pride\n
+ Status: Match Finished\nVenue: Inter&Co Stadium\, Orlando\n\nFixtures by H
+ erFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Boston Legacy FC @ Racing Louisville FC (1–4)
+SUMMARY:⚽ Boston Legacy FC @ Racing Louisville (1–4)
 DTSTART:20260815T223000Z
 DTEND:20260816T003000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401854075@herfixtures.com
-DESCRIPTION:NWSL 2026 · Racing Louisville\nBoston Legacy FC at Racing Lou
- isville FC\nStatus: Full Time\nVenue: Lynn Family Stadium\, Louisville\, K
- entucky\nTV: ION\n\nFixtures by HerFixtures.com — Women's Sports on Your
-  Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401854075/boston-legacy-fc-
- racing-louisville-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508507@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nBoston Legacy FC at Racing Louisvill
+ e\nStatus: Match Finished\nVenue: Lynn Family Stadium\, Louisville\n\nFixt
+ ures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Seattle Reign FC @ Racing Louisville FC (1–2)
+SUMMARY:⚽ Seattle Reign @ Racing Louisville (1–2)
 DTSTART:20260819T223000Z
 DTEND:20260820T003000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853975@herfixtures.com
-DESCRIPTION:NWSL 2026 · Racing Louisville\nSeattle Reign FC at Racing Lou
- isville FC\nStatus: Full Time\nVenue: Lynn Family Stadium\, Louisville\, K
- entucky\nTV: NWSL+\n\nFixtures by HerFixtures.com — Women's Sports on Yo
- ur Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853975/seattle-reign-fc-
- racing-louisville-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508511@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nSeattle Reign at Racing Louisville\n
+ Status: Match Finished\nVenue: Lynn Family Stadium\, Louisville\n\nFixture
+ s by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Racing Louisville FC @ Chicago Stars FC (2–3)
+SUMMARY:⚽ Racing Louisville @ Chicago Stars FC (2–3)
 DTSTART:20260823T180000Z
 DTEND:20260823T200000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853979@herfixtures.com
-DESCRIPTION:NWSL 2026 · Racing Louisville\nRacing Louisville FC at Chicag
- o Stars FC\nStatus: Full Time\nVenue: Northwestern Medicine Field at Marti
- n Stadium\, Evanston\nTV: CBSSN\n\nFixtures by HerFixtures.com — Women's
-  Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853979/racing-louisville
- -fc-chicago-stars-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508517@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nRacing Louisville at Chicago Stars F
+ C\nStatus: Match Finished\nVenue: Martin Stadium\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Racing Louisville FC @ San Diego Wave FC (2–3)
+SUMMARY:⚽ Racing Louisville @ San Diego Wave (2–3)
 DTSTART:20260829T020000Z
 DTEND:20260829T040000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853985@herfixtures.com
-DESCRIPTION:NWSL 2026 · Racing Louisville\nRacing Louisville FC at San Di
- ego Wave FC\nStatus: Full Time\nVenue: Snapdragon Stadium\, San Diego\, Ca
- lifornia\nTV: NWSL+\n\nFixtures by HerFixtures.com — Women's Sports on Y
- our Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853985/racing-louisville
- -fc-san-diego-wave-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508523@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nRacing Louisville at San Diego Wave\
+ nStatus: Match Finished\nVenue: Snapdragon Stadium\, San Diego\n\nFixtures
+  by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Angel City FC @ Racing Louisville FC (2–0)
+SUMMARY:⚽ Angel City FC @ Racing Louisville (2–0)
 DTSTART:20260905T223000Z
 DTEND:20260906T003000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853991@herfixtures.com
-DESCRIPTION:NWSL 2026 · Racing Louisville\nAngel City FC at Racing Louisv
- ille FC\nStatus: Full Time\nVenue: Lynn Family Stadium\, Louisville\, Kent
- ucky\nTV: ION\n\nFixtures by HerFixtures.com — Women's Sports on Your Ca
- lendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853991/angel-city-fc-rac
- ing-louisville-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508532@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nAngel City FC at Racing Louisville\n
+ Status: Match Finished\nVenue: Lynn Family Stadium\, Louisville\n\nFixture
+ s by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Gotham FC @ Racing Louisville FC (2–1)
+SUMMARY:⚽ Gotham FC @ Racing Louisville (2–1)
 DTSTART:20260911T223000Z
 DTEND:20260912T003000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853996@herfixtures.com
-DESCRIPTION:NWSL 2026 · Racing Louisville\nGotham FC at Racing Louisville
-  FC\nStatus: Full Time\nVenue: Lynn Family Stadium\, Louisville\, Kentucky
- \nTV: NWSL+\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
- ndar
-URL:https://www.espn.com/soccer/match/_/gameId/401853996/gotham-fc-racing-
- louisville-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508538@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nGotham FC at Racing Louisville\nStat
+ us: Match Finished\nVenue: Lynn Family Stadium\, Louisville\n\nFixtures by
+  HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Racing Louisville FC @ Bay FC (0–2)
+SUMMARY:⚽ Racing Louisville @ Bay FC (0–2)
 DTSTART:20260920T230000Z
 DTEND:20260921T010000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401854007@herfixtures.com
-DESCRIPTION:NWSL 2026 · Racing Louisville\nRacing Louisville FC at Bay FC
- \nStatus: Full Time\nVenue: PayPal Park\, San Jose\, California\nTV: Roku
- \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401854007/racing-louisville
- -fc-bay-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508554@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nRacing Louisville at Bay FC\nStatus:
+  Match Finished\nVenue: PayPal Park\, San Jose\n\nFixtures by HerFixtures.
+ com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ San Diego Wave FC @ Racing Louisville FC (2–0)
+SUMMARY:⚽ San Diego Wave @ Racing Louisville (2–0)
 DTSTART:20260925T223000Z
 DTEND:20260926T003000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401854009@herfixtures.com
-DESCRIPTION:NWSL 2026 · Racing Louisville\nSan Diego Wave FC at Racing Lo
- uisville FC\nStatus: Full Time\nVenue: Lynn Family Stadium\, Louisville\, 
- Kentucky\nTV: NWSL+\n\nFixtures by HerFixtures.com — Women's Sports on Y
- our Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401854009/san-diego-wave-fc
- -racing-louisville-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508556@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nSan Diego Wave at Racing Louisville\
+ nStatus: Match Finished\nVenue: Lynn Family Stadium\, Louisville\n\nFixtur
+ es by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Utah Royals @ Racing Louisville FC (1–1)
+SUMMARY:⚽ Utah Royals @ Racing Louisville (1–1)
 DTSTART:20261003T200000Z
 DTEND:20261003T220000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401854017@herfixtures.com
-DESCRIPTION:NWSL 2026 · Racing Louisville\nUtah Royals at Racing Louisvil
- le FC\nStatus: Full Time\nVenue: Lynn Family Stadium\, Louisville\, Kentuc
- ky\nTV: ION\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
- ndar
-URL:https://www.espn.com/soccer/match/_/gameId/401854017/utah-royals-racin
- g-louisville-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508566@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nUtah Royals at Racing Louisville\nSt
+ atus: Match Finished\nVenue: Lynn Family Stadium\, Louisville\n\nFixtures 
+ by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Racing Louisville FC @ Boston Legacy FC (1–2)
-DTSTART:20261017T000000Z
-DTEND:20261017T020000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401854091@herfixtures.com
-DESCRIPTION:NWSL 2026 · Racing Louisville\nRacing Louisville FC at Boston
-  Legacy FC\nStatus: Full Time\nVenue: Gillette Stadium\, Foxborough\, Mass
- achusetts\nTV: Prime Video\n\nFixtures by HerFixtures.com — Women's Spor
- ts on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401854091/racing-louisville
- -fc-boston-legacy-fc
+SUMMARY:⚽ Racing Louisville @ Boston Legacy FC (1–2)
+DTSTART:20261017T010500Z
+DTEND:20261017T030500Z
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508572@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nRacing Louisville at Boston Legacy F
+ C\nStatus: Match Finished\nVenue: Gillette Stadium\, Boston\n\nFixtures by
+  HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Racing Louisville FC @ Denver Summit FC (1–6)
+SUMMARY:⚽ Racing Louisville @ Denver Summit FC (1–6)
 DTSTART:20261024T223000Z
 DTEND:20261025T003000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401854093@herfixtures.com
-DESCRIPTION:NWSL 2026 · Racing Louisville\nRacing Louisville FC at Denver
-  Summit FC\nStatus: Full Time\nVenue: Centennial Stadium\, Centennial\nTV:
-  ION\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401854093/racing-louisville
- -fc-denver-summit-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508583@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nRacing Louisville at Denver Summit F
+ C\nStatus: Match Finished\nVenue: Centennial Stadium\, Commerce City\n\nFi
+ xtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Kansas City Current @ Racing Louisville FC (2–0)
+SUMMARY:⚽ Kansas City Current @ Racing Louisville (2–0)
 DTSTART:20261101T220000Z
 DTEND:20261102T000000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401854036@herfixtures.com
-DESCRIPTION:NWSL 2026 · Racing Louisville\nKansas City Current at Racing 
- Louisville FC\nStatus: Full Time\nVenue: Lynn Family Stadium\, Louisville
- \, Kentucky\nTV: ESPN+\n\nFixtures by HerFixtures.com — Women's Sports o
- n Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401854036/kansas-city-curre
- nt-racing-louisville-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508593@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nKansas City Current at Racing Louisv
+ ille\nStatus: Match Finished\nVenue: Lynn Family Stadium\, Louisville\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 END:VCALENDAR

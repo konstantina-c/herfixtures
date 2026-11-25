@@ -13,361 +13,347 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Deportivo (1–0)
 DTSTART:20260829T100000Z
 DTEND:20260829T120000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882538@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Deportivo\nStatus: Full Tim
- e\nVenue: Riazor\, La Coruña\n\nFixtures by HerFixtures.com — Women's S
- ports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882538/sevilla-deportivo
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573563@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Deportivo\nStatus: Match Fi
+ nished\nVenue: Estadio Municipal de Riazor\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Sevilla (4–0)
 DTSTART:20260905T183000Z
 DTEND:20260905T203000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882526@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Sevilla\nStatus: Full Tim
- e\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.com 
- — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882526/barcelona-sevilla
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573574@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Sevilla\nStatus: Match Fi
+ nished\nVenue: Estadio Jesus Navas\, Sevilla\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Madrid CFF (0–1)
 DTSTART:20260912T143000Z
 DTEND:20260912T163000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882518@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Madrid CFF\nStatus: Full Ti
- me\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFixture
- s.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882518/sevilla-madrid-cf
- f
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573582@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Madrid CFF\nStatus: Match F
+ inished\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFi
+ xtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Sevilla @ Tenerife (3–1)
+SUMMARY:⚽ Sevilla @ CD Tenerife (3–1)
 DTSTART:20260920T100000Z
 DTEND:20260920T120000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882514@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Tenerife\nStatus: Full Time
- \nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife\n\nF
- ixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882514/sevilla-tenerife
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573587@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nSevilla at CD Tenerife\nStatus: Match 
+ Finished\n\nFixtures by HerFixtures.com — Women's Sports on Your Calenda
+ r
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ Sevilla (1–0)
 DTSTART:20260927T140000Z
 DTEND:20260927T160000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882502@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nEibar at Sevilla\nStatus: Full Time\nV
- enue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.com — Wo
- men's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882502/eibar-sevilla
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573598@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nEibar at Sevilla\nStatus: Match Finish
+ ed\nVenue: Estadio Jesus Navas\, Sevilla\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ FC Badalona @ Sevilla (3–3)
 DTSTART:20261003T100000Z
 DTEND:20261003T120000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882494@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Sevilla\nStatus: Full T
- ime\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.com 
- — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882494/fc-badalona-sevil
- la
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573606@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Sevilla\nStatus: Match 
+ Finished\nVenue: Estadio Jesus Navas\, Sevilla\n\nFixtures by HerFixtures.
+ com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Alavés (1–1)
 DTSTART:20261018T100000Z
 DTEND:20261018T120000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882492@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Alavés\nStatus: Full Time
- \nVenue: Mendizorrotza\, Vitoria-Gasteiz\n\nFixtures by HerFixtures.com 
- — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882492/sevilla-alaves
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573608@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Alavés\nStatus: Match Fini
+ shed\nVenue: Estadio Mendizorrotza\, Vitoria-Gasteiz\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Athletic Club (0–0)
 DTSTART:20261024T100000Z
 DTEND:20261024T120000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882484@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Athletic Club\nStatus: Full
-  Time\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by HerF
- ixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882484/sevilla-athletic-
- club
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573616@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Athletic Club\nStatus: Matc
+ h Finished\nVenue: Lezama Facilities\, Lezama\n\nFixtures by HerFixtures.c
+ om — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ Sevilla (3–1)
 DTSTART:20261101T180000Z
 DTEND:20261101T200000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882470@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Sevilla\nStatus: Full T
- ime\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.com 
- — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882470/real-madrid-sevil
- la
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573630@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Sevilla\nStatus: Match 
+ Finished\nVenue: Estadio Jesus Navas\, Sevilla\n\nFixtures by HerFixtures.
+ com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Dux Logroño (2–2)
 DTSTART:20261108T110000Z
 DTEND:20261108T130000Z
-DTSTAMP:20261115T224153Z
-UID:espn-liga-f-401882464@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Dux Logroño\nStatus: Full 
- Time\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — Wome
- n's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882464/sevilla-dux-logro
- no
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573637@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Dux Logroño\nStatus: Match
+  Finished\nVenue: Estadio Las Gaunas\n\nFixtures by HerFixtures.com — Wo
+ men's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Atlético Madrid @ Sevilla (2–1)
 DTSTART:20261115T150000Z
 DTEND:20261115T170000Z
-DTSTAMP:20261122T232916Z
-UID:espn-liga-f-401882454@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Sevilla\nStatus: F
- ull Time\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures
- .com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882454/atletico-madrid-s
- evilla
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573646@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Sevilla\nStatus: M
+ atch Finished\nVenue: Estadio Jesus Navas\, Sevilla\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Real Sociedad (0–1)
 DTSTART:20261122T110000Z
 DTEND:20261122T130000Z
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882445@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Real Sociedad\nStatus: Full
-  Time\nVenue: Instalaciones de Zubieta\, San Sebastian\n\nFixtures by HerF
- ixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882445/sevilla-real-soci
- edad
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573655@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Real Sociedad\nStatus: Matc
+ h Finished\nVenue: Instalaciones de Zubieta\, Lasarte-Oria\n\nFixtures by 
+ HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Sevilla
 DTSTART:20261209T190000Z
 DTEND:20261209T210000Z
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882437@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nGranada at Sevilla\nStatus: Scheduled
- \nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.com —
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573663@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nGranada at Sevilla\nStatus: Not Starte
+ d\nVenue: Estadio Jesus Navas\, Sevilla\n\nFixtures by HerFixtures.com —
   Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882437/granada-sevilla
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Espanyol (time TBC)
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882433@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Espanyol\nStatus: Scheduled
- \nKick-off time not confirmed yet. Your calendar updates automatically onc
- e it is.\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by H
- erFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882433/sevilla-espanyol
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573667@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Espanyol\nStatus: Not Start
+ ed\nKick-off time not confirmed yet. Your calendar updates automatically o
+ nce it is.\nVenue: Ciutat Esportiva Dani Jarque\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Sevilla (time TBC)
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882421@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nValencia at Sevilla\nStatus: Scheduled
- \nKick-off time not confirmed yet. Your calendar updates automatically onc
- e it is.\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures
- .com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882421/valencia-sevilla
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573679@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nValencia at Sevilla\nStatus: Not Start
+ ed\nKick-off time not confirmed yet. Your calendar updates automatically o
+ nce it is.\nVenue: Estadio Jesus Navas\, Sevilla\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Barcelona (time TBC)
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882415@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Barcelona\nStatus: Schedule
- d\nKick-off time not confirmed yet. Your calendar updates automatically on
- ce it is.\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtur
- es.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882415/sevilla-barcelona
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573681@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Barcelona\nStatus: Not Star
+ ted\nKick-off time not confirmed yet. Your calendar updates automatically 
+ once it is.\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Sevilla (time TBC)
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882405@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Sevilla\nStatus: Schedule
- d\nKick-off time not confirmed yet. Your calendar updates automatically on
- ce it is.\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixture
- s.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882405/deportivo-sevilla
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573695@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Sevilla\nStatus: Not Star
+ ted\nKick-off time not confirmed yet. Your calendar updates automatically 
+ once it is.\nVenue: Estadio Jesus Navas\, Sevilla\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Sevilla (time TBC)
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882398@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Sevilla\nStatus: Sched
- uled\nKick-off time not confirmed yet. Your calendar updates automatically
-  once it is.\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixt
- ures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882398/dux-logrono-sevil
- la
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573702@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Sevilla\nStatus: Not S
+ tarted\nKick-off time not confirmed yet. Your calendar updates automatical
+ ly once it is.\nVenue: Estadio Jesus Navas\, Sevilla\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ FC Badalona (time TBC)
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882391@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nSevilla at FC Badalona\nStatus: Schedu
- led\nKick-off time not confirmed yet. Your calendar updates automatically 
- once it is.\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerF
- ixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882391/sevilla-fc-badalo
- na
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573705@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nSevilla at FC Badalona\nStatus: Not St
+ arted\nKick-off time not confirmed yet. Your calendar updates automaticall
+ y once it is.\nVenue: Estadi Municipal de Badalona\, Badalona\n\nFixtures 
+ by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Madrid CFF @ Sevilla (time TBC)
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882381@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Sevilla\nStatus: Schedul
- ed\nKick-off time not confirmed yet. Your calendar updates automatically o
- nce it is.\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtur
- es.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882381/madrid-cff-sevill
- a
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573719@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Sevilla\nStatus: Not Sta
+ rted\nKick-off time not confirmed yet. Your calendar updates automatically
+  once it is.\nVenue: Estadio Jesus Navas\, Sevilla\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Granada (time TBC)
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882378@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Granada\nStatus: Scheduled
- \nKick-off time not confirmed yet. Your calendar updates automatically onc
- e it is.\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by 
- HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882378/sevilla-granada
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573723@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Granada\nStatus: Not Starte
+ d\nKick-off time not confirmed yet. Your calendar updates automatically on
+ ce it is.\nVenue: Ciudad Deportiva del Granada\n\nFixtures by HerFixtures.
+ com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Tenerife @ Sevilla (time TBC)
+SUMMARY:⚽ CD Tenerife @ Sevilla (time TBC)
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882365@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nTenerife at Sevilla\nStatus: Scheduled
- \nKick-off time not confirmed yet. Your calendar updates automatically onc
- e it is.\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures
- .com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882365/tenerife-sevilla
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573735@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Sevilla\nStatus: Not St
+ arted\nKick-off time not confirmed yet. Your calendar updates automaticall
+ y once it is.\nVenue: Estadio Jesus Navas\, Sevilla\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Valencia (time TBC)
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882357@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Valencia\nStatus: Scheduled
- \nKick-off time not confirmed yet. Your calendar updates automatically onc
- e it is.\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixt
- ures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882357/sevilla-valencia
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573743@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Valencia\nStatus: Not Start
+ ed\nKick-off time not confirmed yet. Your calendar updates automatically o
+ nce it is.\nVenue: Estadio Antonio Puchades\, Valencia\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Real Madrid (time TBC)
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882349@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Real Madrid\nStatus: Schedu
- led\nKick-off time not confirmed yet. Your calendar updates automatically 
- once it is.\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by He
- rFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882349/sevilla-real-madr
- id
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573751@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Real Madrid\nStatus: Not St
+ arted\nKick-off time not confirmed yet. Your calendar updates automaticall
+ y once it is.\n\nFixtures by HerFixtures.com — Women's Sports on Your Ca
+ lendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Sevilla (time TBC)
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882342@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Sevilla\nStatus: Sche
- duled\nKick-off time not confirmed yet. Your calendar updates automaticall
- y once it is.\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFix
- tures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882342/athletic-club-sev
- illa
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573758@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Sevilla\nStatus: Not 
+ Started\nKick-off time not confirmed yet. Your calendar updates automatica
+ lly once it is.\nVenue: Estadio Jesus Navas\, Sevilla\n\nFixtures by HerFi
+ xtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ Sevilla (time TBC)
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882334@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Sevilla\nStatus: Scheduled
- \nKick-off time not confirmed yet. Your calendar updates automatically onc
- e it is.\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures
- .com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882334/espanyol-sevilla
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573766@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Sevilla\nStatus: Not Start
+ ed\nKick-off time not confirmed yet. Your calendar updates automatically o
+ nce it is.\nVenue: Estadio Jesus Navas\, Sevilla\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Atlético Madrid (time TBC)
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882331@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Atlético Madrid\nStatus: S
- cheduled\nKick-off time not confirmed yet. Your calendar updates automatic
- ally once it is.\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de 
- Henares\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882331/sevilla-atletico-
- madrid
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573769@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Atlético Madrid\nStatus: N
+ ot Started\nKick-off time not confirmed yet. Your calendar updates automat
+ ically once it is.\n\nFixtures by HerFixtures.com — Women's Sports on Yo
+ ur Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Sevilla (time TBC)
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882318@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Sevilla\nStatus: Scheduled
- \nKick-off time not confirmed yet. Your calendar updates automatically onc
- e it is.\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573782@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Sevilla\nStatus: Not Starte
+ d\nKick-off time not confirmed yet. Your calendar updates automatically on
+ ce it is.\nVenue: Estadio Jesus Navas\, Sevilla\n\nFixtures by HerFixtures
  .com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882318/alaves-sevilla
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Eibar (time TBC)
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882313@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Eibar\nStatus: Scheduled\nK
- ick-off time not confirmed yet. Your calendar updates automatically once i
- t is.\nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sp
- orts on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882313/sevilla-eibar
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573787@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Eibar\nStatus: Not Started\
+ nKick-off time not confirmed yet. Your calendar updates automatically once
+  it is.\nVenue: Estadio Municipal de Ipurua\, Eibar\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Real Sociedad @ Sevilla (time TBC)
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882302@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Sevilla\nStatus: Sche
- duled\nKick-off time not confirmed yet. Your calendar updates automaticall
- y once it is.\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFix
- tures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882302/real-sociedad-sev
- illa
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573798@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Sevilla\nStatus: Not 
+ Started\nKick-off time not confirmed yet. Your calendar updates automatica
+ lly once it is.\nVenue: Estadio Jesus Navas\, Sevilla\n\nFixtures by HerFi
+ xtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 END:VCALENDAR

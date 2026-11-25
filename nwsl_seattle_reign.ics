@@ -10,389 +10,344 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Seattle Reign FC @ Orlando Pride (2–1)
+SUMMARY:⚽ Seattle Reign @ Orlando Pride (2–1)
 DTSTART:20260315T200000Z
 DTEND:20260315T220000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853861@herfixtures.com
-DESCRIPTION:NWSL 2026 · Seattle Reign\nSeattle Reign FC at Orlando Pride
- \nStatus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\nTV: Vict
- ory+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853861/seattle-reign-fc-
- orlando-pride
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508362@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nSeattle Reign at Orlando Pride\nStat
+ us: Match Finished\nVenue: Inter&Co Stadium\, Orlando\n\nFixtures by HerFi
+ xtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Seattle Reign FC @ Portland Thorns FC (0–2)
+SUMMARY:⚽ Seattle Reign @ Portland Thorns (0–2)
 DTSTART:20260321T020000Z
 DTEND:20260321T040000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853864@herfixtures.com
-DESCRIPTION:NWSL 2026 · Seattle Reign\nSeattle Reign FC at Portland Thorn
- s FC\nStatus: Full Time\nVenue: Providence Park\, Portland\, Oregon\nTV: P
- rime Video\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
- dar
-URL:https://www.espn.com/soccer/match/_/gameId/401853864/seattle-reign-fc-
- portland-thorns-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508366@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nSeattle Reign at Portland Thorns\nSt
+ atus: Match Finished\nVenue: Providence Park\, Portland\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Kansas City Current @ Seattle Reign FC (0–3)
+SUMMARY:⚽ Kansas City Current @ Seattle Reign (0–3)
 DTSTART:20260326T010000Z
 DTEND:20260326T030000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853871@herfixtures.com
-DESCRIPTION:NWSL 2026 · Seattle Reign\nKansas City Current at Seattle Rei
- gn FC\nStatus: Full Time\nVenue: ONE Spokane Stadium\, Spokane\, Washingto
- n\nTV: NWSL+\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
- endar
-URL:https://www.espn.com/soccer/match/_/gameId/401853871/kansas-city-curre
- nt-seattle-reign-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508375@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nKansas City Current at Seattle Reign
+ \nStatus: Match Finished\nVenue: Lumen Field\, Spokane\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Racing Louisville FC @ Seattle Reign FC (1–2)
+SUMMARY:⚽ Racing Louisville @ Seattle Reign (1–2)
 DTSTART:20260328T223000Z
 DTEND:20260329T003000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853875@herfixtures.com
-DESCRIPTION:NWSL 2026 · Seattle Reign\nRacing Louisville FC at Seattle Re
- ign FC\nStatus: Full Time\nVenue: ONE Spokane Stadium\, Spokane\, Washingt
- on\nTV: ION\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
- ndar
-URL:https://www.espn.com/soccer/match/_/gameId/401853875/racing-louisville
- -fc-seattle-reign-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508381@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nRacing Louisville at Seattle Reign\n
+ Status: Match Finished\nVenue: Lumen Field\, Spokane\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Denver Summit FC @ Seattle Reign FC (0–0)
+SUMMARY:⚽ Denver Summit FC @ Seattle Reign (0–0)
 DTSTART:20260405T004500Z
 DTEND:20260405T024500Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401854047@herfixtures.com
-DESCRIPTION:NWSL 2026 · Seattle Reign\nDenver Summit FC at Seattle Reign 
- FC\nStatus: Full Time\nVenue: ONE Spokane Stadium\, Spokane\, Washington\n
- TV: ION\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401854047/denver-summit-fc-
- seattle-reign-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508391@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nDenver Summit FC at Seattle Reign\nS
+ tatus: Match Finished\nVenue: Lumen Field\, Spokane\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Utah Royals @ Seattle Reign FC (3–0)
+SUMMARY:⚽ Utah Royals @ Seattle Reign (3–0)
 DTSTART:20260427T000000Z
 DTEND:20260427T020000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853890@herfixtures.com
-DESCRIPTION:NWSL 2026 · Seattle Reign\nUtah Royals at Seattle Reign FC\nS
- tatus: Full Time\nVenue: Lumen Field\, Seattle\, Washington\nTV: Victory+
- \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853890/utah-royals-seatt
- le-reign-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508400@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nUtah Royals at Seattle Reign\nStatus
+ : Match Finished\nVenue: Lumen Field\, Seattle\n\nFixtures by HerFixtures.
+ com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Seattle Reign FC @ Houston Dash (0–0)
+SUMMARY:⚽ Seattle Reign @ Houston Dash (0–0)
 DTSTART:20260502T000000Z
 DTEND:20260502T020000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853894@herfixtures.com
-DESCRIPTION:NWSL 2026 · Seattle Reign\nSeattle Reign FC at Houston Dash\n
- Status: Full Time\nVenue: Shell Energy Stadium\, Houston\, Texas\nTV: Vict
- ory+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853894/seattle-reign-fc-
- houston-dash
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508405@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nSeattle Reign at Houston Dash\nStatu
+ s: Match Finished\nVenue: Shell Energy Stadium\, Houston\n\nFixtures by He
+ rFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Washington Spirit @ Seattle Reign FC (1–0)
+SUMMARY:⚽ Washington Spirit @ Seattle Reign (1–0)
 DTSTART:20260510T230000Z
 DTEND:20260511T010000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853907@herfixtures.com
-DESCRIPTION:NWSL 2026 · Seattle Reign\nWashington Spirit at Seattle Reign
-  FC\nStatus: Full Time\nVenue: Lumen Field\, Seattle\, Washington\nTV: Vic
- tory+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853907/washington-spirit
- -seattle-reign-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508421@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nWashington Spirit at Seattle Reign\n
+ Status: Match Finished\nVenue: Lumen Field\, Seattle\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Gotham FC @ Seattle Reign FC (2–0)
+SUMMARY:⚽ Gotham FC @ Seattle Reign (2–0)
 DTSTART:20260516T020000Z
 DTEND:20260516T040000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853910@herfixtures.com
-DESCRIPTION:NWSL 2026 · Seattle Reign\nGotham FC at Seattle Reign FC\nSta
- tus: Full Time\nVenue: Lumen Field\, Seattle\, Washington\nTV: Victory+\n
- \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853910/gotham-fc-seattle
- -reign-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508426@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nGotham FC at Seattle Reign\nStatus: 
+ Match Finished\nVenue: Lumen Field\, Seattle\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Seattle Reign FC @ Boston Legacy FC (2–1)
+SUMMARY:⚽ Seattle Reign @ Boston Legacy FC (2–1)
 DTSTART:20260523T000000Z
 DTEND:20260523T020000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401854057@herfixtures.com
-DESCRIPTION:NWSL 2026 · Seattle Reign\nSeattle Reign FC at Boston Legacy 
- FC\nStatus: Full Time\nVenue: Centreville Bank Stadium\, Pawtucket\, Rhode
-  Island\nTV: Prime Video\n\nFixtures by HerFixtures.com — Women's Sports
-  on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401854057/seattle-reign-fc-
- boston-legacy-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508434@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nSeattle Reign at Boston Legacy FC\nS
+ tatus: Match Finished\nVenue: Centreville Bank Stadium\, Pawtucket\n\nFixt
+ ures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Seattle Reign FC @ Washington Spirit (1–2)
+SUMMARY:⚽ Seattle Reign @ Washington Spirit (1–2)
 DTSTART:20260530T223000Z
 DTEND:20260531T003000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853924@herfixtures.com
-DESCRIPTION:NWSL 2026 · Seattle Reign\nSeattle Reign FC at Washington Spi
- rit\nStatus: Full Time\nVenue: Audi Field\, Washington\, District of Colum
- bia\nTV: ION\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
- endar
-URL:https://www.espn.com/soccer/match/_/gameId/401853924/seattle-reign-fc-
- washington-spirit
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508445@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nSeattle Reign at Washington Spirit\n
+ Status: Match Finished\nVenue: Audi Field\, Washington\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Seattle Reign FC @ North Carolina Courage (1–3)
+SUMMARY:⚽ Seattle Reign @ NC Courage (1–3)
 DTSTART:20260704T233000Z
 DTEND:20260705T013000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853930@herfixtures.com
-DESCRIPTION:NWSL 2026 · Seattle Reign\nSeattle Reign FC at North Carolina
-  Courage\nStatus: Full Time\nVenue: WakeMed Soccer Park\, Cary\, North Car
- olina\nTV: ION\n\nFixtures by HerFixtures.com — Women's Sports on Your C
- alendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853930/seattle-reign-fc-
- north-carolina-courage
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508452@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nSeattle Reign at NC Courage\nStatus:
+  Match Finished\nVenue: WakeMed Soccer Park\n\nFixtures by HerFixtures.com
+  — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Portland Thorns FC @ Seattle Reign FC (0–2)
+SUMMARY:⚽ Portland Thorns @ Seattle Reign (0–2)
 DTSTART:20260712T200000Z
 DTEND:20260712T220000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853939@herfixtures.com
-DESCRIPTION:NWSL 2026 · Seattle Reign\nPortland Thorns FC at Seattle Reig
- n FC\nStatus: Full Time\nVenue: Lumen Field\, Seattle\, Washington\nTV: ES
- PN\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853939/portland-thorns-f
- c-seattle-reign-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508463@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nPortland Thorns at Seattle Reign\nSt
+ atus: Match Finished\nVenue: Lumen Field\, Seattle\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Seattle Reign FC @ Gotham FC (2–3)
-DTSTART:20260718T183000Z
-DTEND:20260718T203000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853942@herfixtures.com
-DESCRIPTION:NWSL 2026 · Seattle Reign\nSeattle Reign FC at Gotham FC\nSta
- tus: Full Time\nVenue: Icahn Stadium\, New York City\, New York\nTV: ESPN2
- \, ESPN Deportes\n\nFixtures by HerFixtures.com — Women's Sports on Your
-  Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853942/seattle-reign-fc-
- gotham-fc
+SUMMARY:⚽ Seattle Reign @ Gotham FC (2–3)
+DTSTART:20260718T160000Z
+DTEND:20260718T180000Z
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508468@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nSeattle Reign at Gotham FC\nStatus: 
+ Match Finished\nVenue: Sports Illustrated Stadium\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Seattle Reign FC @ San Diego Wave FC (2–0)
+SUMMARY:⚽ Seattle Reign @ San Diego Wave (2–0)
 DTSTART:20260726T210000Z
 DTEND:20260726T230000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853951@herfixtures.com
-DESCRIPTION:NWSL 2026 · Seattle Reign\nSeattle Reign FC at San Diego Wave
-  FC\nStatus: Full Time\nVenue: Snapdragon Stadium\, San Diego\, California
- \nTV: CBSSN\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
- ndar
-URL:https://www.espn.com/soccer/match/_/gameId/401853951/seattle-reign-fc-
- san-diego-wave-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508480@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nSeattle Reign at San Diego Wave\nSta
+ tus: Match Finished\nVenue: Snapdragon Stadium\, San Diego\n\nFixtures by 
+ HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Seattle Reign FC @ Bay FC (3–2)
+SUMMARY:⚽ Seattle Reign @ Bay FC (3–2)
 DTSTART:20260802T004500Z
 DTEND:20260802T024500Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853960@herfixtures.com
-DESCRIPTION:NWSL 2026 · Seattle Reign\nSeattle Reign FC at Bay FC\nStatus
- : Full Time\nVenue: PayPal Park\, San Jose\, California\nTV: ION\n\nFixtur
- es by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853960/seattle-reign-fc-
- bay-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508490@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nSeattle Reign at Bay FC\nStatus: Mat
+ ch Finished\nVenue: PayPal Park\, San Jose\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Angel City FC @ Seattle Reign FC (2–2)
+SUMMARY:⚽ Angel City FC @ Seattle Reign (2–2)
 DTSTART:20260810T010000Z
 DTEND:20260810T030000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853968@herfixtures.com
-DESCRIPTION:NWSL 2026 · Seattle Reign\nAngel City FC at Seattle Reign FC
- \nStatus: Full Time\nVenue: Lumen Field\, Seattle\, Washington\nTV: ESPN\,
-  ESPN Deportes\n\nFixtures by HerFixtures.com — Women's Sports on Your C
- alendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853968/angel-city-fc-sea
- ttle-reign-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508502@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nAngel City FC at Seattle Reign\nStat
+ us: Match Finished\nVenue: Lumen Field\, Seattle\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Chicago Stars FC @ Seattle Reign FC (0–1)
+SUMMARY:⚽ Chicago Stars FC @ Seattle Reign (0–1)
 DTSTART:20260815T020000Z
 DTEND:20260815T040000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853970@herfixtures.com
-DESCRIPTION:NWSL 2026 · Seattle Reign\nChicago Stars FC at Seattle Reign 
- FC\nStatus: Full Time\nVenue: Lumen Field\, Seattle\, Washington\nTV: NWSL
- +\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853970/chicago-stars-fc-
- seattle-reign-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508505@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nChicago Stars FC at Seattle Reign\nS
+ tatus: Match Finished\nVenue: Lumen Field\, Seattle\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Seattle Reign FC @ Racing Louisville FC (1–2)
+SUMMARY:⚽ Seattle Reign @ Racing Louisville (1–2)
 DTSTART:20260819T223000Z
 DTEND:20260820T003000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853975@herfixtures.com
-DESCRIPTION:NWSL 2026 · Seattle Reign\nSeattle Reign FC at Racing Louisvi
- lle FC\nStatus: Full Time\nVenue: Lynn Family Stadium\, Louisville\, Kentu
- cky\nTV: NWSL+\n\nFixtures by HerFixtures.com — Women's Sports on Your C
- alendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853975/seattle-reign-fc-
- racing-louisville-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508511@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nSeattle Reign at Racing Louisville\n
+ Status: Match Finished\nVenue: Lynn Family Stadium\, Louisville\n\nFixture
+ s by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Seattle Reign FC @ Kansas City Current (1–1)
+SUMMARY:⚽ Seattle Reign @ Kansas City Current (1–1)
 DTSTART:20260822T223000Z
 DTEND:20260823T003000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853978@herfixtures.com
-DESCRIPTION:NWSL 2026 · Seattle Reign\nSeattle Reign FC at Kansas City Cu
- rrent\nStatus: Full Time\nVenue: CPKC Stadium\, Kansas City\, Missouri\nTV
- : ION\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853978/seattle-reign-fc-
- kansas-city-current
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508514@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nSeattle Reign at Kansas City Current
+ \nStatus: Match Finished\nVenue: CPKC Stadium\n\nFixtures by HerFixtures.c
+ om — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Houston Dash @ Seattle Reign FC (0–1)
+SUMMARY:⚽ Houston Dash @ Seattle Reign (0–1)
 DTSTART:20260830T230000Z
 DTEND:20260831T010000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853989@herfixtures.com
-DESCRIPTION:NWSL 2026 · Seattle Reign\nHouston Dash at Seattle Reign FC\n
- Status: Full Time\nVenue: Lumen Field\, Seattle\, Washington\nTV: NWSL+\n
- \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853989/houston-dash-seat
- tle-reign-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508528@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nHouston Dash at Seattle Reign\nStatu
+ s: Match Finished\nVenue: Lumen Field\, Seattle\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ San Diego Wave FC @ Seattle Reign FC (0–1)
+SUMMARY:⚽ San Diego Wave @ Seattle Reign (0–1)
 DTSTART:20260907T010000Z
 DTEND:20260907T030000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853995@herfixtures.com
-DESCRIPTION:NWSL 2026 · Seattle Reign\nSan Diego Wave FC at Seattle Reign
-  FC\nStatus: Full Time\nVenue: Lumen Field\, Seattle\, Washington\nTV: ESP
- N2\, ESPN Unlmtd\n\nFixtures by HerFixtures.com — Women's Sports on Your
-  Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853995/san-diego-wave-fc
- -seattle-reign-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508537@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nSan Diego Wave at Seattle Reign\nSta
+ tus: Match Finished\nVenue: Lumen Field\, Seattle\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Bay FC @ Seattle Reign FC (0–2)
+SUMMARY:⚽ Bay FC @ Seattle Reign (0–2)
 DTSTART:20260913T000000Z
 DTEND:20260913T020000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853998@herfixtures.com
-DESCRIPTION:NWSL 2026 · Seattle Reign\nBay FC at Seattle Reign FC\nStatus
- : Full Time\nVenue: Lumen Field\, Seattle\, Washington\nTV: NWSL+\n\nFixtu
- res by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853998/bay-fc-seattle-re
- ign-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508540@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nBay FC at Seattle Reign\nStatus: Mat
+ ch Finished\nVenue: Lumen Field\, Seattle\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Seattle Reign FC @ Angel City FC (1–3)
+SUMMARY:⚽ Seattle Reign @ Angel City FC (1–3)
 DTSTART:20260917T020000Z
 DTEND:20260917T040000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401854002@herfixtures.com
-DESCRIPTION:NWSL 2026 · Seattle Reign\nSeattle Reign FC at Angel City FC
- \nStatus: Full Time\nVenue: BMO Stadium\, Los Angeles\, California\nTV: NW
- SL+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401854002/seattle-reign-fc-
- angel-city-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508547@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nSeattle Reign at Angel City FC\nStat
+ us: Match Finished\nVenue: BMO Stadium\, Los Angeles\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Seattle Reign FC @ Denver Summit FC (1–2)
+SUMMARY:⚽ Seattle Reign @ Denver Summit FC (1–2)
 DTSTART:20260920T004500Z
 DTEND:20260920T024500Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401854085@herfixtures.com
-DESCRIPTION:NWSL 2026 · Seattle Reign\nSeattle Reign FC at Denver Summit 
- FC\nStatus: Full Time\nVenue: Centennial Stadium\, Centennial\nTV: ION\n\n
- Fixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401854085/seattle-reign-fc-
- denver-summit-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508551@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nSeattle Reign at Denver Summit FC\nS
+ tatus: Match Finished\nVenue: Centennial Stadium\, Commerce City\n\nFixtur
+ es by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Boston Legacy FC @ Seattle Reign FC (0–2)
+SUMMARY:⚽ Boston Legacy FC @ Seattle Reign (0–2)
 DTSTART:20260926T003000Z
 DTEND:20260926T023000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401854087@herfixtures.com
-DESCRIPTION:NWSL 2026 · Seattle Reign\nBoston Legacy FC at Seattle Reign 
- FC\nStatus: Full Time\nVenue: Lumen Field\, Seattle\, Washington\nTV: NWSL
- +\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401854087/boston-legacy-fc-
- seattle-reign-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508558@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nBoston Legacy FC at Seattle Reign\nS
+ tatus: Match Finished\nVenue: Lumen Field\, Seattle\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ North Carolina Courage @ Seattle Reign FC (1–0)
+SUMMARY:⚽ NC Courage @ Seattle Reign (1–0)
 DTSTART:20261003T020000Z
 DTEND:20261003T040000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401854016@herfixtures.com
-DESCRIPTION:NWSL 2026 · Seattle Reign\nNorth Carolina Courage at Seattle 
- Reign FC\nStatus: Full Time\nVenue: Lumen Field\, Seattle\, Washington\nTV
- : ESPN2\, ESPNU\n\nFixtures by HerFixtures.com — Women's Sports on Your 
- Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401854016/north-carolina-co
- urage-seattle-reign-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508565@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nNC Courage at Seattle Reign\nStatus:
+  Match Finished\nVenue: Lumen Field\, Seattle\n\nFixtures by HerFixtures.c
+ om — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Seattle Reign FC @ Chicago Stars FC (3–1)
+SUMMARY:⚽ Seattle Reign @ Chicago Stars FC (3–1)
 DTSTART:20261018T230000Z
 DTEND:20261019T010000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401854026@herfixtures.com
-DESCRIPTION:NWSL 2026 · Seattle Reign\nSeattle Reign FC at Chicago Stars 
- FC\nStatus: Full Time\nVenue: Northwestern Medicine Field at Martin Stadiu
- m\, Evanston\nTV: Roku\n\nFixtures by HerFixtures.com — Women's Sports o
- n Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401854026/seattle-reign-fc-
- chicago-stars-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508579@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nSeattle Reign at Chicago Stars FC\nS
+ tatus: Match Finished\nVenue: Martin Stadium\, Evanston\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Seattle Reign FC @ Utah Royals (0–0)
+SUMMARY:⚽ Seattle Reign @ Utah Royals (0–0)
 DTSTART:20261024T013000Z
 DTEND:20261024T033000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401854028@herfixtures.com
-DESCRIPTION:NWSL 2026 · Seattle Reign\nSeattle Reign FC at Utah Royals\nS
- tatus: Full Time\nVenue: America First Field\, Sandy\, Utah\nTV: NWSL+\n\n
- Fixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401854028/seattle-reign-fc-
- utah-royals
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508581@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nSeattle Reign at Utah Royals\nStatus
+ : Match Finished\nVenue: America First Field\, Sandy\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Orlando Pride @ Seattle Reign FC (0–1)
+SUMMARY:⚽ Orlando Pride @ Seattle Reign (0–1)
 DTSTART:20261101T220000Z
 DTEND:20261102T000000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401854037@herfixtures.com
-DESCRIPTION:NWSL 2026 · Seattle Reign\nOrlando Pride at Seattle Reign FC
- \nStatus: Full Time\nVenue: Lumen Field\, Seattle\, Washington\nTV: ESPN+
- \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401854037/orlando-pride-sea
- ttle-reign-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508594@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nOrlando Pride at Seattle Reign\nStat
+ us: Match Finished\nVenue: Lumen Field\, Seattle\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Seattle Reign FC @ Gotham FC (0–1)
+SUMMARY:⚽ Seattle Reign @ Gotham FC (0–1)
 DTSTART:20261108T173000Z
 DTEND:20261108T193000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401932958@herfixtures.com
-DESCRIPTION:NWSL 2026 · Seattle Reign\nSeattle Reign FC at Gotham FC\nSta
- tus: Full Time\nVenue: Sports Illustrated Stadium\, Harrison\, New Jersey
- \nTV: ABC\, ESPN Deportes\n\nFixtures by HerFixtures.com — Women's Sport
- s on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401932958/seattle-reign-fc-
- gotham-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1648311@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nSeattle Reign at Gotham FC\nStatus: 
+ Match Finished\nVenue: Sports Illustrated Stadium\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 END:VCALENDAR

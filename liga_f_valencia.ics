@@ -13,365 +13,347 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Alavés (0–2)
 DTSTART:20260830T150000Z
 DTEND:20260830T170000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882540@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nValencia at Alavés\nStatus: Full Time
- \nVenue: Mendizorrotza\, Vitoria-Gasteiz\n\nFixtures by HerFixtures.com 
- — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882540/valencia-alaves
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573560@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nValencia at Alavés\nStatus: Match Fin
+ ished\nVenue: Estadio Mendizorrotza\, Vitoria-Gasteiz\n\nFixtures by HerFi
+ xtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Madrid CFF @ Valencia (3–1)
 DTSTART:20260905T100000Z
 DTEND:20260905T120000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882525@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Valencia\nStatus: Full T
- ime\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtures.
- com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882525/madrid-cff-valenc
- ia
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573575@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Valencia\nStatus: Match 
+ Finished\nVenue: Estadio Antonio Puchades\, Valencia\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Dux Logroño (1–2)
 DTSTART:20260913T150000Z
 DTEND:20260913T170000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882521@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nValencia at Dux Logroño\nStatus: Full
-  Time\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — Wom
- en's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882521/valencia-dux-logr
- ono
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573580@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nValencia at Dux Logroño\nStatus: Matc
+ h Finished\nVenue: Estadio Las Gaunas\n\nFixtures by HerFixtures.com — W
+ omen's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Real Madrid (1–3)
 DTSTART:20260919T183000Z
 DTEND:20260919T203000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882509@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nValencia at Real Madrid\nStatus: Full 
- Time\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by HerFixtur
- es.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882509/valencia-real-mad
- rid
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573591@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nValencia at Real Madrid\nStatus: Match
+  Finished\n\nFixtures by HerFixtures.com — Women's Sports on Your Calend
+ ar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Tenerife @ Valencia (2–1)
+SUMMARY:⚽ CD Tenerife @ Valencia (2–1)
 DTSTART:20260927T100000Z
 DTEND:20260927T120000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882501@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nTenerife at Valencia\nStatus: Full Tim
- e\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtures.co
- m — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882501/tenerife-valencia
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573599@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Valencia\nStatus: Match
+  Finished\nVenue: Estadio Antonio Puchades\, Valencia\n\nFixtures by HerFi
+ xtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Real Sociedad @ Valencia (1–0)
 DTSTART:20261004T173000Z
 DTEND:20261004T193000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882493@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Valencia\nStatus: Ful
- l Time\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtur
- es.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882493/real-sociedad-val
- encia
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573607@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Valencia\nStatus: Mat
+ ch Finished\nVenue: Estadio Antonio Puchades\, Valencia\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Athletic Club (0–1)
 DTSTART:20261017T143000Z
 DTEND:20261017T163000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882491@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nValencia at Athletic Club\nStatus: Ful
- l Time\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures by Her
- Fixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882491/valencia-athletic
- -club
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573609@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nValencia at Athletic Club\nStatus: Mat
+ ch Finished\nVenue: Lezama Facilities\, Lezama\n\nFixtures by HerFixtures.
+ com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Atlético Madrid (0–4)
 DTSTART:20261023T173000Z
 DTEND:20261023T193000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882483@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573617@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at Atlético Madrid\nStatus: 
- Full Time\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de Henares
- \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882483/valencia-atletico
- -madrid
+ Match Finished\nVenue: Centro Deportivo Alcala de Henares\, Madrid\n\nFixt
+ ures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ Valencia (1–2)
 DTSTART:20261031T110000Z
 DTEND:20261031T130000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882469@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nEibar at Valencia\nStatus: Full Time\n
- Venue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtures.com 
- — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882469/eibar-valencia
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573631@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nEibar at Valencia\nStatus: Match Finis
+ hed\nVenue: Estadio Antonio Puchades\, Valencia\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Deportivo (2–0)
 DTSTART:20261109T200000Z
 DTEND:20261109T220000Z
-DTSTAMP:20261116T152815Z
-UID:espn-liga-f-401882465@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nValencia at Deportivo\nStatus: Full Ti
- me\nVenue: Riazor\, La Coruña\n\nFixtures by HerFixtures.com — Women's 
- Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882465/valencia-deportiv
- o
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573636@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nValencia at Deportivo\nStatus: Match F
+ inished\nVenue: Estadio Municipal de Riazor\n\nFixtures by HerFixtures.com
+  — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Valencia (0–0)
 DTSTART:20261115T171500Z
 DTEND:20261115T191500Z
-DTSTAMP:20261122T232916Z
-UID:espn-liga-f-401882453@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nGranada at Valencia\nStatus: Full Time
- \nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtures.com
-  — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882453/granada-valencia
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573647@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nGranada at Valencia\nStatus: Match Fin
+ ished\nVenue: Estadio Antonio Puchades\, Valencia\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Espanyol (0–2)
 DTSTART:20261123T190000Z
 DTEND:20261123T210000Z
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882449@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nValencia at Espanyol\nStatus: Full Tim
- e\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFixtu
- res.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882449/valencia-espanyol
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573653@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nValencia at Espanyol\nStatus: Match Fi
+ nished\nVenue: Ciutat Esportiva Dani Jarque\n\nFixtures by HerFixtures.com
+  — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ FC Badalona
 DTSTART:20261208T120000Z
 DTEND:20261208T140000Z
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882439@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nValencia at FC Badalona\nStatus: Sched
- uled\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixtures
- .com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882439/valencia-fc-badal
- ona
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573658@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nValencia at FC Badalona\nStatus: Not S
+ tarted\nVenue: Estadi Municipal de Badalona\, Badalona\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Valencia (time TBC)
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882429@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Valencia\nStatus: Schedul
- ed\nKick-off time not confirmed yet. Your calendar updates automatically o
- nce it is.\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFi
- xtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882429/barcelona-valenci
- a
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573671@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Valencia\nStatus: Not Sta
+ rted\nKick-off time not confirmed yet. Your calendar updates automatically
+  once it is.\nVenue: Estadio Antonio Puchades\, Valencia\n\nFixtures by He
+ rFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Sevilla (time TBC)
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882421@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nValencia at Sevilla\nStatus: Scheduled
- \nKick-off time not confirmed yet. Your calendar updates automatically onc
- e it is.\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures
- .com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882421/valencia-sevilla
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573679@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nValencia at Sevilla\nStatus: Not Start
+ ed\nKick-off time not confirmed yet. Your calendar updates automatically o
+ nce it is.\nVenue: Estadio Jesus Navas\, Sevilla\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ Valencia (time TBC)
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882413@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Valencia\nStatus: Sched
- uled\nKick-off time not confirmed yet. Your calendar updates automatically
-  once it is.\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by Her
- Fixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882413/real-madrid-valen
- cia
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573687@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Valencia\nStatus: Not S
+ tarted\nKick-off time not confirmed yet. Your calendar updates automatical
+ ly once it is.\nVenue: Estadio Antonio Puchades\, Valencia\n\nFixtures by 
+ HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Eibar (time TBC)
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882410@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nValencia at Eibar\nStatus: Scheduled\n
- Kick-off time not confirmed yet. Your calendar updates automatically once 
- it is.\nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's S
- ports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882410/valencia-eibar
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573691@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nValencia at Eibar\nStatus: Not Started
+ \nKick-off time not confirmed yet. Your calendar updates automatically onc
+ e it is.\nVenue: Estadio Municipal de Ipurua\, Eibar\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Valencia (time TBC)
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882397@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Valencia\nStatus: Sch
- eduled\nKick-off time not confirmed yet. Your calendar updates automatical
- ly once it is.\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by H
- erFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882397/athletic-club-val
- encia
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573703@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Valencia\nStatus: Not
+  Started\nKick-off time not confirmed yet. Your calendar updates automatic
+ ally once it is.\nVenue: Estadio Antonio Puchades\, Valencia\n\nFixtures b
+ y HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Valencia (time TBC)
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882389@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Valencia\nStatus: Scheduled
- \nKick-off time not confirmed yet. Your calendar updates automatically onc
- e it is.\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixt
- ures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882389/alaves-valencia
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573711@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Valencia\nStatus: Not Start
+ ed\nKick-off time not confirmed yet. Your calendar updates automatically o
+ nce it is.\nVenue: Estadio Antonio Puchades\, Valencia\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Valencia @ Tenerife (time TBC)
+SUMMARY:⚽ Valencia @ CD Tenerife (time TBC)
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882385@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nValencia at Tenerife\nStatus: Schedule
- d\nKick-off time not confirmed yet. Your calendar updates automatically on
- ce it is.\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tene
- rife\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882385/valencia-tenerife
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573716@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nValencia at CD Tenerife\nStatus: Not S
+ tarted\nKick-off time not confirmed yet. Your calendar updates automatical
+ ly once it is.\n\nFixtures by HerFixtures.com — Women's Sports on Your C
+ alendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ Valencia (time TBC)
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882373@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Valencia\nStatus: Schedule
- d\nKick-off time not confirmed yet. Your calendar updates automatically on
- ce it is.\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFix
- tures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882373/espanyol-valencia
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573727@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Valencia\nStatus: Not Star
+ ted\nKick-off time not confirmed yet. Your calendar updates automatically 
+ once it is.\nVenue: Estadio Antonio Puchades\, Valencia\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Madrid CFF (time TBC)
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882366@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nValencia at Madrid CFF\nStatus: Schedu
- led\nKick-off time not confirmed yet. Your calendar updates automatically 
- once it is.\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by H
- erFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882366/valencia-madrid-c
- ff
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573734@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nValencia at Madrid CFF\nStatus: Not St
+ arted\nKick-off time not confirmed yet. Your calendar updates automaticall
+ y once it is.\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by
+  HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Valencia (time TBC)
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882357@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Valencia\nStatus: Scheduled
- \nKick-off time not confirmed yet. Your calendar updates automatically onc
- e it is.\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixt
- ures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882357/sevilla-valencia
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573743@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Valencia\nStatus: Not Start
+ ed\nKick-off time not confirmed yet. Your calendar updates automatically o
+ nce it is.\nVenue: Estadio Antonio Puchades\, Valencia\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Barcelona (time TBC)
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882352@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nValencia at Barcelona\nStatus: Schedul
- ed\nKick-off time not confirmed yet. Your calendar updates automatically o
- nce it is.\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtu
- res.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882352/valencia-barcelon
- a
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573746@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nValencia at Barcelona\nStatus: Not Sta
+ rted\nKick-off time not confirmed yet. Your calendar updates automatically
+  once it is.\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ FC Badalona @ Valencia (time TBC)
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882341@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Valencia\nStatus: Sched
- uled\nKick-off time not confirmed yet. Your calendar updates automatically
-  once it is.\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by Her
- Fixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882341/fc-badalona-valen
- cia
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573759@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Valencia\nStatus: Not S
+ tarted\nKick-off time not confirmed yet. Your calendar updates automatical
+ ly once it is.\nVenue: Estadio Antonio Puchades\, Valencia\n\nFixtures by 
+ HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Valencia (time TBC)
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882333@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Valencia\nStatus: Sche
- duled\nKick-off time not confirmed yet. Your calendar updates automaticall
- y once it is.\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by He
- rFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882333/dux-logrono-valen
- cia
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573767@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Valencia\nStatus: Not 
+ Started\nKick-off time not confirmed yet. Your calendar updates automatica
+ lly once it is.\nVenue: Estadio Antonio Puchades\, Valencia\n\nFixtures by
+  HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Granada (time TBC)
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882327@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nValencia at Granada\nStatus: Scheduled
- \nKick-off time not confirmed yet. Your calendar updates automatically onc
- e it is.\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by 
- HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882327/valencia-granada
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573773@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nValencia at Granada\nStatus: Not Start
+ ed\nKick-off time not confirmed yet. Your calendar updates automatically o
+ nce it is.\nVenue: Ciudad Deportiva del Granada\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Valencia (time TBC)
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882317@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Valencia\nStatus: Schedul
- ed\nKick-off time not confirmed yet. Your calendar updates automatically o
- nce it is.\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFi
- xtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882317/deportivo-valenci
- a
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573783@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Valencia\nStatus: Not Sta
+ rted\nKick-off time not confirmed yet. Your calendar updates automatically
+  once it is.\nVenue: Estadio Antonio Puchades\, Valencia\n\nFixtures by He
+ rFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Real Sociedad (time TBC)
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882309@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nValencia at Real Sociedad\nStatus: Sch
- eduled\nKick-off time not confirmed yet. Your calendar updates automatical
- ly once it is.\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFix
- tures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882309/valencia-real-soc
- iedad
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573791@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nValencia at Real Sociedad\nStatus: Not
+  Started\nKick-off time not confirmed yet. Your calendar updates automatic
+ ally once it is.\nVenue: Instalaciones de Zubieta\, Lasarte-Oria\n\nFixtur
+ es by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Atlético Madrid @ Valencia (time TBC)
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882100@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573799@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Valencia\nStatus: 
- Scheduled\nKick-off time not confirmed yet. Your calendar updates automati
- cally once it is.\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures b
- y HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882100/atletico-madrid-v
- alencia
+ Not Started\nKick-off time not confirmed yet. Your calendar updates automa
+ tically once it is.\nVenue: Estadio Antonio Puchades\, Valencia\n\nFixture
+ s by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 END:VCALENDAR

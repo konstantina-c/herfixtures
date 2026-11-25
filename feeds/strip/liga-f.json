@@ -1,82 +1,82 @@
 {
- "espn-liga-f-401882445@herfixtures.com": {
+ "af-liga-f-1573648@herfixtures.com": {
   "away": {
-   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21424.png",
-   "name": "Sevilla"
-  },
-  "home": {
-   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21428.png",
-   "name": "Real Sociedad"
-  }
- },
- "espn-liga-f-401882446@herfixtures.com": {
-  "away": {
-   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21145.png",
+   "logo": "https://media.api-sports.io/football/teams/6376.png",
    "name": "Deportivo"
   },
   "home": {
-   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21149.png",
-   "name": "Badalona"
+   "logo": "https://media.api-sports.io/football/teams/19896.png",
+   "name": "FC Badalona"
   }
  },
- "espn-liga-f-401882447@herfixtures.com": {
+ "af-liga-f-1573649@herfixtures.com": {
   "away": {
-   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21128.png",
-   "name": "Real Madrid"
+   "logo": "https://media.api-sports.io/football/teams/1905.png",
+   "name": "Athletic Club"
   },
   "home": {
-   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21140.png",
-   "name": "Granada"
-  }
- },
- "espn-liga-f-401882448@herfixtures.com": {
-  "away": {
-   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21372.png",
-   "name": "Athletic"
-  },
-  "home": {
-   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20091.png",
+   "logo": "https://media.api-sports.io/football/teams/1918.png",
    "name": "Barcelona"
   }
  },
- "espn-liga-f-401882449@herfixtures.com": {
+ "af-liga-f-1573650@herfixtures.com": {
   "away": {
-   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21374.png",
-   "name": "Valencia"
-  },
-  "home": {
-   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21154.png",
-   "name": "Espanyol"
-  }
- },
- "espn-liga-f-401882450@herfixtures.com": {
-  "away": {
-   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20093.png",
-   "name": "Atlético Madrid"
-  },
-  "home": {
-   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21376.png",
-   "name": "Eibar"
-  }
- },
- "espn-liga-f-401882451@herfixtures.com": {
-  "away": {
-   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21378.png",
-   "name": "Alavés"
-  },
-  "home": {
-   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21175.png",
-   "name": "Dux Logroño"
-  }
- },
- "espn-liga-f-401882452@herfixtures.com": {
-  "away": {
-   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21425.png",
+   "logo": "https://media.api-sports.io/football/teams/1921.png",
    "name": "Madrid CFF"
   },
   "home": {
-   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131393.png",
-   "name": "Tenerife"
+   "logo": "https://media.api-sports.io/football/teams/1913.png",
+   "name": "CD Tenerife"
+  }
+ },
+ "af-liga-f-1573651@herfixtures.com": {
+  "away": {
+   "logo": "https://media.api-sports.io/football/teams/17168.png",
+   "name": "Alavés"
+  },
+  "home": {
+   "logo": "https://media.api-sports.io/football/teams/1923.png",
+   "name": "Dux Logroño"
+  }
+ },
+ "af-liga-f-1573652@herfixtures.com": {
+  "away": {
+   "logo": "https://media.api-sports.io/football/teams/1910.png",
+   "name": "Atlético Madrid"
+  },
+  "home": {
+   "logo": "https://media.api-sports.io/football/teams/15225.png",
+   "name": "Eibar"
+  }
+ },
+ "af-liga-f-1573653@herfixtures.com": {
+  "away": {
+   "logo": "https://media.api-sports.io/football/teams/1909.png",
+   "name": "Valencia"
+  },
+  "home": {
+   "logo": "https://media.api-sports.io/football/teams/1919.png",
+   "name": "Espanyol"
+  }
+ },
+ "af-liga-f-1573654@herfixtures.com": {
+  "away": {
+   "logo": "https://media.api-sports.io/football/teams/15224.png",
+   "name": "Real Madrid"
+  },
+  "home": {
+   "logo": "https://media.api-sports.io/football/teams/22018.png",
+   "name": "Granada"
+  }
+ },
+ "af-liga-f-1573655@herfixtures.com": {
+  "away": {
+   "logo": "https://media.api-sports.io/football/teams/1920.png",
+   "name": "Sevilla"
+  },
+  "home": {
+   "logo": "https://media.api-sports.io/football/teams/1912.png",
+   "name": "Real Sociedad"
   }
  }
 }

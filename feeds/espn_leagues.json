@@ -3,7 +3,12 @@
   "leagues": {
     "liga-f": {
       "name": "Liga F",
-      "espn": "soccer/esp.w.1",
+      "source": "api-football",
+      "api_football": {
+        "league": 142,
+        "season": 2026,
+        "uniform_min": 4
+      },
       "season": {
         "start": "2026-08-01",
         "end": "2027-06-30"
@@ -12,7 +17,7 @@
       "order": "away_at_home",
       "match_minutes": 120,
       "output": "liga_f.ics",
-      "uid_prefix": "espn-liga-f",
+      "uid_prefix": "af-liga-f",
       "title": "Spanish Liga F 2026/27",
       "prodid": "-//HerFixtures//Liga F 2026-27//EN",
       "cal_name": "Spanish Liga F 2026/27 — HerFixtures",
@@ -22,67 +27,67 @@
       "team_cal_name": "{team} — Liga F 2026/27 — HerFixtures",
       "team_cal_desc": "{team} Liga F 2026/27 fixtures. Updated automatically by HerFixtures.com",
       "teams": {
-        "21378": [
+        "17168": [
           "Alavés",
           "alaves"
         ],
-        "21372": [
+        "1905": [
           "Athletic Club",
           "athletic_club"
         ],
-        "20093": [
+        "1910": [
           "Atlético Madrid",
           "atletico_madrid"
         ],
-        "20091": [
+        "1918": [
           "Barcelona",
           "barcelona"
         ],
-        "131393": [
+        "1913": [
           "CD Tenerife",
           "tenerife"
         ],
-        "21145": [
+        "6376": [
           "Deportivo",
           "deportivo"
         ],
-        "21175": [
+        "1923": [
           "Dux Logroño",
           "dux_logrono"
         ],
-        "21376": [
+        "15225": [
           "Eibar",
           "eibar"
         ],
-        "21154": [
+        "1919": [
           "Espanyol",
           "espanyol"
         ],
-        "21149": [
+        "19896": [
           "FC Badalona",
           "badalona"
         ],
-        "21140": [
+        "22018": [
           "Granada",
           "granada"
         ],
-        "21425": [
+        "1921": [
           "Madrid CFF",
           "madrid_cff"
         ],
-        "21128": [
+        "15224": [
           "Real Madrid",
           "real_madrid"
         ],
-        "21428": [
+        "1912": [
           "Real Sociedad",
           "real_sociedad"
         ],
-        "21424": [
+        "1920": [
           "Sevilla",
           "sevilla"
         ],
-        "21374": [
+        "1909": [
           "Valencia",
           "valencia"
         ]
@@ -307,7 +312,16 @@
     },
     "liga-mx-femenil": {
       "name": "Liga MX Femenil",
-      "espn": "soccer/mex.w.1",
+      "source": "api-football",
+      "api_football": {
+        "league": 673,
+        "season": 2026,
+        "uniform_min": 2,
+        "seasons": [
+          2026,
+          2027
+        ]
+      },
       "season": {
         "start": "2026-07-25",
         "end": "2027-05-31"
@@ -316,7 +330,7 @@
       "order": "home_vs_away",
       "match_minutes": 120,
       "output": "liga_mx_femenil.ics",
-      "uid_prefix": "espn-liga-mx-femenil",
+      "uid_prefix": "af-liga-mx-femenil",
       "title": "Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)",
       "prodid": "-//HerFixtures//Liga MX Femenil 2026-27//EN",
       "cal_name": "Liga MX Femenil 2026/27 — HerFixtures",
@@ -326,75 +340,75 @@
       "team_cal_name": "{team} — Liga MX Femenil 2026/27 — HerFixtures",
       "team_cal_desc": "{team} Liga MX Femenil 2026/27 fixtures. Updated automatically by HerFixtures.com",
       "teams": {
-        "22415": [
+        "14868": [
           "América",
           "america"
         ],
-        "133989": [
+        "28036": [
           "Atlante",
           "atlante"
         ],
-        "133990": [
+        "14873": [
           "Atlas",
           "atlas"
         ],
-        "133992": [
+        "14874": [
           "Atlético de San Luis",
           "san_luis"
         ],
-        "133982": [
+        "14875": [
           "Cruz Azul",
           "cruz_azul"
         ],
-        "133984": [
+        "14869": [
           "FC Juárez",
           "juarez"
         ],
-        "22416": [
+        "14876": [
           "Guadalajara",
           "guadalajara"
         ],
-        "133986": [
+        "14877": [
           "León",
           "leon"
         ],
-        "21537": [
+        "14879": [
           "Monterrey",
           "monterrey"
         ],
-        "133983": [
+        "14880": [
           "Necaxa",
           "necaxa"
         ],
-        "22414": [
+        "14881": [
           "Pachuca",
           "pachuca"
         ],
-        "133991": [
+        "14882": [
           "Puebla",
           "puebla"
         ],
-        "133981": [
+        "14870": [
           "Pumas UNAM",
           "pumas"
         ],
-        "133987": [
+        "14871": [
           "Querétaro",
           "queretaro"
         ],
-        "133985": [
+        "14883": [
           "Santos",
           "santos"
         ],
-        "22413": [
+        "14884": [
           "Tigres UANL",
           "tigres"
         ],
-        "22417": [
+        "14872": [
           "Tijuana",
           "tijuana"
         ],
-        "133988": [
+        "14885": [
           "Toluca",
           "toluca"
         ]
@@ -537,7 +551,12 @@
     },
     "nwsl": {
       "name": "NWSL",
-      "espn": "soccer/usa.nwsl",
+      "source": "api-football",
+      "api_football": {
+        "league": 254,
+        "season": 2026,
+        "uniform_min": 0
+      },
       "season": {
         "start": "2026-03-01",
         "end": "2026-11-30"
@@ -546,7 +565,7 @@
       "order": "away_at_home",
       "match_minutes": 120,
       "output": "nwsl.ics",
-      "uid_prefix": "espn-nwsl",
+      "uid_prefix": "af-nwsl",
       "title": "NWSL 2026 · Season Game",
       "team_title": "NWSL 2026 · {team}",
       "prodid": "-//HerFixtures//NWSL 2026//EN",
@@ -557,67 +576,67 @@
       "team_cal_name": "{team} 2026 — HerFixtures",
       "team_cal_desc": "{team} 2026 fixtures. Updated automatically by HerFixtures.com",
       "teams": {
-        "21422": [
+        "18450": [
           "Angel City FC",
           "angel_city"
         ],
-        "22187": [
+        "22943": [
           "Bay FC",
           "bay_fc"
         ],
-        "131562": [
+        "27377": [
           "Boston Legacy FC",
           "boston_legacy"
         ],
-        "15360": [
+        "2997": [
           "Chicago Stars FC",
           "chicago_red_stars"
         ],
-        "131563": [
+        "27378": [
           "Denver Summit FC",
           "denver_summit"
         ],
-        "15364": [
+        "3003": [
           "Gotham FC",
           "gotham_fc"
         ],
-        "17346": [
+        "2998": [
           "Houston Dash",
           "houston_dash"
         ],
-        "20907": [
+        "16487": [
           "Kansas City Current",
           "kansas_city"
         ],
-        "15366": [
+        "2999": [
           "NC Courage",
           "north_carolina_courage"
         ],
-        "18206": [
+        "3000": [
           "Orlando Pride",
           "orlando_pride"
         ],
-        "15362": [
+        "3001": [
           "Portland Thorns",
           "portland_thorns"
         ],
-        "20905": [
+        "16488": [
           "Racing Louisville",
           "racing_louisville"
         ],
-        "21423": [
+        "18451": [
           "San Diego Wave",
           "san_diego_wave"
         ],
-        "15363": [
+        "3002": [
           "Seattle Reign",
           "seattle_reign"
         ],
-        "19141": [
+        "3004": [
           "Utah Royals",
           "utah_royals"
         ],
-        "15365": [
+        "3005": [
           "Washington Spirit",
           "washington_spirit"
         ]
