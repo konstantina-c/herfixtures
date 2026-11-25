@@ -14,7 +14,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Cornell @ #2 UConn (35–100)
 DTSTART:20261102T220000Z
 DTEND:20261103T000000Z
-DTSTAMP:20261125T021025Z
+DTSTAMP:20261125T101554Z
 UID:espn-ncaa-wbb-401911736@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nCornell at #
  2 UConn\nStatus: Final\nVenue: PeoplesBank Arena\, Hartford\n\nFixtures by
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #2 UConn @ #5 Michigan (66–77)
 DTSTART:20261105T233000Z
 DTEND:20261106T013000Z
-DTSTAMP:20261125T021025Z
+DTSTAMP:20261125T101554Z
 UID:espn-ncaa-wbb-401911737@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#2 UConn at 
  #5 Michigan\nStatus: Final\nVenue: Crisler Center\, Ann Arbor\n\nFixtures 
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #10 Iowa @ #2 UConn (79–91)
 DTSTART:20261108T190000Z
 DTEND:20261108T210000Z
-DTSTAMP:20261125T021025Z
+DTSTAMP:20261125T101554Z
 UID:espn-ncaa-wbb-401911738@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#10 Iowa at 
  #2 UConn\nStatus: Final\nVenue: M&T Bank Center at Gampel Pavilion\, Storr
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #4 UConn @ #17 Ohio State (87–55)
 DTSTART:20261112T233000Z
 DTEND:20261113T013000Z
-DTSTAMP:20261125T021025Z
+DTSTAMP:20261125T101554Z
 UID:espn-ncaa-wbb-401911739@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#4 UConn at 
  #17 Ohio State\nStatus: Final\nVenue: Schottenstein Center\, Columbus\n\nF
@@ -62,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #4 UConn @ #7 Louisville (51–69)
 DTSTART:20261115T223000Z
 DTEND:20261116T003000Z
-DTSTAMP:20261125T021025Z
+DTSTAMP:20261125T101554Z
 UID:espn-ncaa-wbb-401906079@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#4 UConn at 
  #7 Louisville\nStatus: Final\nVenue: KFC Yum! Center\, Louisville\n\nFixtu
@@ -74,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Seton Hall @ #7 UConn (43–83)
 DTSTART:20261121T010000Z
 DTEND:20261121T030000Z
-DTSTAMP:20261125T021025Z
+DTSTAMP:20261125T101554Z
 UID:espn-ncaa-wbb-401923012@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nSeton Hall a
  t #7 UConn\nStatus: Final\nVenue: PeoplesBank Arena\, Hartford\n\nFixtures
@@ -83,21 +83,22 @@ URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401923012
  /seton-hall-uconn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 #1 South Carolina @ #7 UConn
+SUMMARY:🏀 #1 South Carolina @ #7 UConn (65–56)
 DTSTART:20261125T010000Z
 DTEND:20261125T030000Z
-DTSTAMP:20261125T021025Z
+DTSTAMP:20261125T101554Z
 UID:espn-ncaa-wbb-401911740@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#1 South Car
- olina at #7 UConn\nStatus: Halftime\nVenue: Mohegan Sun Arena\, Uncasville
- \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/womens-college-basketball/game?gameId=401911740
+ olina at #7 UConn\nStatus: Final\nVenue: Mohegan Sun Arena\, Uncasville\n
+ \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://www.espn.com/womens-college-basketball/game/_/gameId/401911740
+ /south-carolina-uconn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏀 #5 Duke @ #7 UConn
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
-DTSTAMP:20261125T021025Z
+DTSTAMP:20261125T101554Z
 UID:espn-ncaa-wbb-401911741@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#5 Duke at #
  7 UConn\nStatus: Scheduled\nVenue: TD Garden\, Boston\n\nFixtures by HerFi
@@ -109,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 UNLV @ #7 UConn
 DTSTART:20261202T233000Z
 DTEND:20261203T013000Z
-DTSTAMP:20261125T021025Z
+DTSTAMP:20261125T101554Z
 UID:espn-ncaa-wbb-401911742@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nUNLV at #7 U
  Conn\nStatus: Scheduled\nVenue: M&T Bank Center at Gampel Pavilion\, Storr
@@ -121,7 +122,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #7 UConn @ #18 Maryland
 DTSTART:20261205T213000Z
 DTEND:20261205T233000Z
-DTSTAMP:20261125T021025Z
+DTSTAMP:20261125T101554Z
 UID:espn-ncaa-wbb-401911743@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#7 UConn at 
  #18 Maryland\nStatus: Scheduled\nVenue: Barclays Center\, Brooklyn\n\nFixt
@@ -133,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #7 UConn @ #13 Notre Dame
 DTSTART:20261210T000000Z
 DTEND:20261210T020000Z
-DTSTAMP:20261125T021025Z
+DTSTAMP:20261125T101554Z
 UID:espn-ncaa-wbb-401911744@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#7 UConn at 
  #13 Notre Dame\nStatus: Scheduled\nVenue: Purcell Pavilion\, South Bend\n
@@ -145,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Tennessee @ #7 UConn
 DTSTART:20261212T193000Z
 DTEND:20261212T213000Z
-DTSTAMP:20261125T021025Z
+DTSTAMP:20261125T101554Z
 UID:espn-ncaa-wbb-401911745@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nTennessee at
   #7 UConn\nStatus: Scheduled\nVenue: PeoplesBank Arena\, Hartford\n\nFixtu
@@ -157,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Creighton @ #7 UConn
 DTSTART:20261217T000000Z
 DTEND:20261217T020000Z
-DTSTAMP:20261125T021025Z
+DTSTAMP:20261125T101554Z
 UID:espn-ncaa-wbb-401923017@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nCreighton at
   #7 UConn\nStatus: Scheduled\nVenue: M&T Bank Center at Gampel Pavilion\, 
@@ -169,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #7 UConn @ #9 LSU
 DTSTART:20261220T180000Z
 DTEND:20261220T200000Z
-DTSTAMP:20261125T021025Z
+DTSTAMP:20261125T101554Z
 UID:espn-ncaa-wbb-401911786@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#7 UConn at 
  #9 LSU\nStatus: Scheduled\nVenue: Bridgestone Arena\, Nashville\n\nFixture
@@ -181,7 +182,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #7 UConn @ Villanova
 DTSTART:20261223T180000Z
 DTEND:20261223T200000Z
-DTSTAMP:20261125T021025Z
+DTSTAMP:20261125T101554Z
 UID:espn-ncaa-wbb-401923024@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#7 UConn at 
  Villanova\nStatus: Scheduled\nVenue: Finneran Pavilion\, Villanova\n\nFixt
@@ -193,7 +194,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #7 UConn @ Xavier
 DTSTART:20261231T220000Z
 DTEND:20270101T000000Z
-DTSTAMP:20261125T021025Z
+DTSTAMP:20261125T101554Z
 UID:espn-ncaa-wbb-401923030@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#7 UConn at 
  Xavier\nStatus: Scheduled\nVenue: Cintas Center\, Cincinnati\n\nFixtures b
@@ -205,7 +206,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #7 UConn @ DePaul
 DTSTART:20270103T210000Z
 DTEND:20270103T230000Z
-DTSTAMP:20261125T021025Z
+DTSTAMP:20261125T101554Z
 UID:espn-ncaa-wbb-401923035@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#7 UConn at 
  DePaul\nStatus: Scheduled\nVenue: Wintrust Arena\, Chicago\n\nFixtures by 
@@ -217,7 +218,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Georgetown @ #7 UConn
 DTSTART:20270108T000000Z
 DTEND:20270108T020000Z
-DTSTAMP:20261125T021025Z
+DTSTAMP:20261125T101554Z
 UID:espn-ncaa-wbb-401923038@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nGeorgetown a
  t #7 UConn\nStatus: Scheduled\nVenue: PeoplesBank Arena\, Hartford\n\nFixt
@@ -229,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #7 UConn @ Creighton
 DTSTART:20270110T190000Z
 DTEND:20270110T210000Z
-DTSTAMP:20261125T021025Z
+DTSTAMP:20261125T101554Z
 UID:espn-ncaa-wbb-401923044@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#7 UConn at 
  Creighton\nStatus: Scheduled\nVenue: Liberty First Credit Union Arena\, Om
@@ -241,7 +242,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Marquette @ #7 UConn
 DTSTART:20270114T000000Z
 DTEND:20270114T020000Z
-DTSTAMP:20261125T021025Z
+DTSTAMP:20261125T101554Z
 UID:espn-ncaa-wbb-401923048@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nMarquette at
   #7 UConn\nStatus: Scheduled\nVenue: PeoplesBank Arena\, Hartford\n\nFixtu
@@ -253,7 +254,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #7 UConn @ Seton Hall
 DTSTART:20270118T193000Z
 DTEND:20270118T213000Z
-DTSTAMP:20261125T021025Z
+DTSTAMP:20261125T101554Z
 UID:espn-ncaa-wbb-401923055@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#7 UConn at 
  Seton Hall\nStatus: Scheduled\nVenue: Prudential Center\, Newark\n\nFixtur
@@ -265,7 +266,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #7 UConn @ St. John's
 DTSTART:20270124T170000Z
 DTEND:20270124T190000Z
-DTSTAMP:20261125T021025Z
+DTSTAMP:20261125T101554Z
 UID:espn-ncaa-wbb-401923064@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#7 UConn at 
  St. John's\nStatus: Scheduled\nVenue: Madison Square Garden\, New York\n\n
@@ -277,7 +278,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 DePaul @ #7 UConn
 DTSTART:20270128T233000Z
 DTEND:20270129T013000Z
-DTSTAMP:20261125T021025Z
+DTSTAMP:20261125T101554Z
 UID:espn-ncaa-wbb-401923068@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nDePaul at #7
   UConn\nStatus: Scheduled\nVenue: M&T Bank Center at Gampel Pavilion\, Sto
@@ -289,7 +290,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Providence @ #7 UConn
 DTSTART:20270131T170000Z
 DTEND:20270131T190000Z
-DTSTAMP:20261125T021025Z
+DTSTAMP:20261125T101554Z
 UID:espn-ncaa-wbb-401923072@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nProvidence a
  t #7 UConn\nStatus: Scheduled\nVenue: PeoplesBank Arena\, Hartford\n\nFixt
@@ -301,7 +302,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #7 UConn @ Butler
 DTSTART:20270205T000000Z
 DTEND:20270205T020000Z
-DTSTAMP:20261125T021025Z
+DTSTAMP:20261125T101554Z
 UID:espn-ncaa-wbb-401923078@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#7 UConn at 
  Butler\nStatus: Scheduled\nVenue: Hinkle Fieldhouse\, Indianapolis\n\nFixt
@@ -313,7 +314,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #7 UConn @ Marquette
 DTSTART:20270207T193000Z
 DTEND:20270207T213000Z
-DTSTAMP:20261125T021025Z
+DTSTAMP:20261125T101554Z
 UID:espn-ncaa-wbb-401923084@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#7 UConn at 
  Marquette\nStatus: Scheduled\nVenue: Fiserv Forum\, Milwaukee\n\nFixtures 
@@ -325,7 +326,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Villanova @ #7 UConn
 DTSTART:20270210T230000Z
 DTEND:20270211T010000Z
-DTSTAMP:20261125T021025Z
+DTSTAMP:20261125T101554Z
 UID:espn-ncaa-wbb-401923088@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nVillanova at
   #7 UConn\nStatus: Scheduled\nVenue: M&T Bank Center at Gampel Pavilion\, 
@@ -337,7 +338,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Xavier @ #7 UConn
 DTSTART:20270213T170000Z
 DTEND:20270213T190000Z
-DTSTAMP:20261125T021025Z
+DTSTAMP:20261125T101554Z
 UID:espn-ncaa-wbb-401923091@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nXavier at #7
   UConn\nStatus: Scheduled\nVenue: M&T Bank Center at Gampel Pavilion\, Sto
@@ -349,7 +350,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #7 UConn @ Georgetown
 DTSTART:20270219T000000Z
 DTEND:20270219T020000Z
-DTSTAMP:20261125T021025Z
+DTSTAMP:20261125T101554Z
 UID:espn-ncaa-wbb-401923099@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#7 UConn at 
  Georgetown\nStatus: Scheduled\nVenue: McDonough Arena\, Washington\n\nFixt
@@ -361,7 +362,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 St. John's @ #7 UConn
 DTSTART:20270221T170000Z
 DTEND:20270221T190000Z
-DTSTAMP:20261125T021025Z
+DTSTAMP:20261125T101554Z
 UID:espn-ncaa-wbb-401923104@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nSt. John's a
  t #7 UConn\nStatus: Scheduled\nVenue: PeoplesBank Arena\, Hartford\n\nFixt
@@ -373,7 +374,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 #7 UConn @ Providence
 DTSTART:20270226T000000Z
 DTEND:20270226T020000Z
-DTSTAMP:20261125T021025Z
+DTSTAMP:20261125T101554Z
 UID:espn-ncaa-wbb-401923109@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\n#7 UConn at 
  Providence\nStatus: Scheduled\nVenue: Amica Mutual Pavilion\, Providence\n
@@ -385,7 +386,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Butler @ #7 UConn
 DTSTART:20270228T190000Z
 DTEND:20270228T210000Z
-DTSTAMP:20261125T021025Z
+DTSTAMP:20261125T101554Z
 UID:espn-ncaa-wbb-401923114@herfixtures.com
 DESCRIPTION:NCAA Women's Basketball 2026/27 — Top 25 games\nButler at #7
   UConn\nStatus: Scheduled\nVenue: M&T Bank Center at Gampel Pavilion\, Sto

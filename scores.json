@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T08:52:30Z",
+  "updated": "2026-11-25T10:16:00Z",
   "version": 2,
   "rules": {
     "results_days": 3,
@@ -496,6 +496,38 @@
       "sport": "basketball",
       "results": [
         {
+          "kickoff": "2026-11-25T01:00:00Z",
+          "date": "2026-11-25",
+          "tbc": false,
+          "top": {
+            "name": "#1 South Carolina",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2579.png",
+            "score": 65
+          },
+          "bottom": {
+            "name": "#7 UConn",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+            "score": 56
+          },
+          "winner": "top"
+        },
+        {
+          "kickoff": "2026-11-25T01:00:00Z",
+          "date": "2026-11-25",
+          "tbc": false,
+          "top": {
+            "name": "Kansas City",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/140.png",
+            "score": 56
+          },
+          "bottom": {
+            "name": "#23 Nebraska",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
+            "score": 100
+          },
+          "winner": "bottom"
+        },
+        {
           "kickoff": "2026-11-25T00:00:00Z",
           "date": "2026-11-25",
           "tbc": false,
@@ -620,38 +652,6 @@
             "name": "#9 LSU",
             "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
             "score": 103
-          },
-          "winner": "bottom"
-        },
-        {
-          "kickoff": "2026-11-23T22:00:00Z",
-          "date": "2026-11-23",
-          "tbc": false,
-          "top": {
-            "name": "Arizona",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
-            "score": 62
-          },
-          "bottom": {
-            "name": "#12 Vanderbilt",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
-            "score": 93
-          },
-          "winner": "bottom"
-        },
-        {
-          "kickoff": "2026-11-23T21:00:00Z",
-          "date": "2026-11-23",
-          "tbc": false,
-          "top": {
-            "name": "Miami",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
-            "score": 58
-          },
-          "bottom": {
-            "name": "#2 Michigan",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
-            "score": 79
           },
           "winner": "bottom"
         }
@@ -941,6 +941,36 @@
         {
           "league": "NCAA",
           "home": {
+            "name": "#1 South Carolina",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2579.png",
+            "score": 65
+          },
+          "away": {
+            "name": "#7 UConn",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+            "score": 56
+          },
+          "winner": "home",
+          "kickoff": "2026-11-25T01:00:00Z"
+        },
+        {
+          "league": "NCAA",
+          "home": {
+            "name": "Kansas City",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/140.png",
+            "score": 56
+          },
+          "away": {
+            "name": "#23 Nebraska",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
+            "score": 100
+          },
+          "winner": "away",
+          "kickoff": "2026-11-25T01:00:00Z"
+        },
+        {
+          "league": "NCAA",
+          "home": {
             "name": "Gardner-Webb",
             "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2241.png",
             "score": 33
@@ -952,36 +982,6 @@
           },
           "winner": "away",
           "kickoff": "2026-11-25T00:00:00Z"
-        },
-        {
-          "league": "NCAA",
-          "home": {
-            "name": "Monmouth",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2405.png",
-            "score": 53
-          },
-          "away": {
-            "name": "#18 Maryland",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
-            "score": 86
-          },
-          "winner": "away",
-          "kickoff": "2026-11-25T00:00:00Z"
-        },
-        {
-          "league": "NCAA",
-          "home": {
-            "name": "#10 UCLA",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
-            "score": 69
-          },
-          "away": {
-            "name": "St. John's",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2599.png",
-            "score": 56
-          },
-          "winner": "home",
-          "kickoff": "2026-11-24T22:00:00Z"
         },
         {
           "league": "Liga F",

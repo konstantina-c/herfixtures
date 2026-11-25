@@ -137,9 +137,9 @@ DTEND:20261026T020600Z
 DTSTAMP:20261125T085047Z
 UID:af-liga-mx-femenil-1603405@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nTigre
- s UANL vs Monterrey\nStatus: Match Finished\nVenue: Estadio Universitario\
- , San Nicolas de los Garza\n\nFixtures by HerFixtures.com — Women's Spor
- ts on Your Calendar
+ s UANL vs Monterrey\nStatus: Match Finished\nVenue: Estadio Universitario
+ \, San Nicolas de los Garza\n\nFixtures by HerFixtures.com — Women's Spo
+ rts on Your Calendar
 URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
@@ -191,7 +191,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Guadalajara vs Monterrey (time TBC)
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261125T085211Z
+DTSTAMP:20261125T101541Z
 UID:af-liga-mx-femenil-1650224@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nGuada
  lajara vs Monterrey\nStatus: Not Started\nKick-off time not confirmed yet.
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Monterrey vs Guadalajara (time TBC)
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261125T085211Z
+DTSTAMP:20261125T101541Z
 UID:af-liga-mx-femenil-1650227@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nMonte
  rrey vs Guadalajara\nStatus: Not Started\nKick-off time not confirmed yet.

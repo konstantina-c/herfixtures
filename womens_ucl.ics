@@ -523,7 +523,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Chelsea vs Paris Saint-Germain (1–0)
 DTSTART:20261118T200000Z
 DTEND:20261118T220000Z
-DTSTAMP:20261125T021027Z
+DTSTAMP:20261125T101556Z
 UID:af-ucl-women-1638301@herfixtures.com
 DESCRIPTION:Women's Champions League 2026/27 · League Stage - 5\nChelsea 
  vs Paris Saint-Germain\nStatus: Match Finished\nVenue: Wheatsheaf Park\, S
@@ -534,7 +534,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ BK Häcken vs Manchester City (0–2)
 DTSTART:20261118T174500Z
 DTEND:20261118T194500Z
-DTSTAMP:20261125T021027Z
+DTSTAMP:20261125T101556Z
 UID:af-ucl-women-1638306@herfixtures.com
 DESCRIPTION:Women's Champions League 2026/27 · League Stage - 5\nBK Häck
  en vs Manchester City\nStatus: Match Finished\nVenue: Nordic Wellness Aren
@@ -546,7 +546,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Juventus vs OH Leuven (2–0)
 DTSTART:20261118T200000Z
 DTEND:20261118T220000Z
-DTSTAMP:20261125T021027Z
+DTSTAMP:20261125T101556Z
 UID:af-ucl-women-1638312@herfixtures.com
 DESCRIPTION:Women's Champions League 2026/27 · League Stage - 5\nJuventus
   vs OH Leuven\nStatus: Match Finished\nVenue: Juventus Center\, Turin\n\nF
@@ -557,7 +557,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid vs Internazionale (3–1)
 DTSTART:20261118T174500Z
 DTEND:20261118T194500Z
-DTSTAMP:20261125T021027Z
+DTSTAMP:20261125T101556Z
 UID:af-ucl-women-1638333@herfixtures.com
 DESCRIPTION:Women's Champions League 2026/27 · League Stage - 5\nReal Mad
  rid vs Internazionale\nStatus: Match Finished\nVenue: Ciudad Real Madrid\,
@@ -568,7 +568,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Arsenal vs OL Lyonnes (0–2)
 DTSTART:20261119T200000Z
 DTEND:20261119T220000Z
-DTSTAMP:20261125T021027Z
+DTSTAMP:20261125T101556Z
 UID:af-ucl-women-1638286@herfixtures.com
 DESCRIPTION:Women's Champions League 2026/27 · League Stage - 5\nArsenal 
  vs OL Lyonnes\nStatus: Match Finished\nVenue: Meadow Park\, Borehamwood\n
@@ -579,7 +579,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Austria Vienna vs Bayern Munich (0–4)
 DTSTART:20261119T174500Z
 DTEND:20261119T194500Z
-DTSTAMP:20261125T021027Z
+DTSTAMP:20261125T101556Z
 UID:af-ucl-women-1638292@herfixtures.com
 DESCRIPTION:Women's Champions League 2026/27 · League Stage - 5\nAustria 
  Vienna vs Bayern Munich\nStatus: Match Finished\nVenue: Sportplatz Jochber
@@ -591,7 +591,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Barcelona vs Servette (6–0)
 DTSTART:20261119T200000Z
 DTEND:20261119T220000Z
-DTSTAMP:20261125T021027Z
+DTSTAMP:20261125T101556Z
 UID:af-ucl-women-1638297@herfixtures.com
 DESCRIPTION:Women's Champions League 2026/27 · League Stage - 5\nBarcelon
  a vs Servette\nStatus: Match Finished\nVenue: Spotify Camp Nou\, Barcelona
@@ -602,7 +602,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris FC vs HB Køge (2–1)
 DTSTART:20261119T174500Z
 DTEND:20261119T194500Z
-DTSTAMP:20261125T021027Z
+DTSTAMP:20261125T101556Z
 UID:af-ucl-women-1638327@herfixtures.com
 DESCRIPTION:Women's Champions League 2026/27 · League Stage - 5\nParis FC
   vs HB Køge\nStatus: Match Finished\nVenue: Stade Jean-Bouin\, Paris\n\nF
@@ -613,7 +613,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Benfica vs Roma (2–3)
 DTSTART:20261119T200000Z
 DTEND:20261119T220000Z
-DTSTAMP:20261125T021027Z
+DTSTAMP:20261125T101556Z
 UID:af-ucl-women-1638338@herfixtures.com
 DESCRIPTION:Women's Champions League 2026/27 · League Stage - 5\nBenfica 
  vs Roma\nStatus: Match Finished\nVenue: Estadio da Tapadinha\, Lisbon\n\nF
@@ -624,7 +624,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Roma vs Real Madrid
 DTSTART:20261216T200000Z
 DTEND:20261216T220000Z
-DTSTAMP:20261125T021027Z
+DTSTAMP:20261125T101556Z
 UID:af-ucl-women-1638290@herfixtures.com
 DESCRIPTION:Women's Champions League 2026/27 · League Stage - 6\nRoma vs 
  Real Madrid\nStatus: Not Started\nVenue: Stadio Tre Fontane\, Rome\n\nFixt
@@ -635,7 +635,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bayern Munich vs Barcelona
 DTSTART:20261216T200000Z
 DTEND:20261216T220000Z
-DTSTAMP:20261125T021027Z
+DTSTAMP:20261125T101556Z
 UID:af-ucl-women-1638298@herfixtures.com
 DESCRIPTION:Women's Champions League 2026/27 · League Stage - 6\nBayern M
  unich vs Barcelona\nStatus: Not Started\nVenue: FC Bayern Campus\, Munich
@@ -646,7 +646,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Internazionale vs Arsenal
 DTSTART:20261216T200000Z
 DTEND:20261216T220000Z
-DTSTAMP:20261125T021027Z
+DTSTAMP:20261125T101556Z
 UID:af-ucl-women-1638307@herfixtures.com
 DESCRIPTION:Women's Champions League 2026/27 · League Stage - 6\nInternaz
  ionale vs Arsenal\nStatus: Not Started\nVenue: Stadio Ernesto Breda\, Sest
@@ -658,7 +658,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ HB Køge vs Benfica
 DTSTART:20261216T200000Z
 DTEND:20261216T220000Z
-DTSTAMP:20261125T021027Z
+DTSTAMP:20261125T101556Z
 UID:af-ucl-women-1638314@herfixtures.com
 DESCRIPTION:Women's Champions League 2026/27 · League Stage - 6\nHB Køge
   vs Benfica\nStatus: Not Started\n\nFixtures by HerFixtures.com — Women'
@@ -669,7 +669,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ OH Leuven vs Chelsea
 DTSTART:20261216T200000Z
 DTEND:20261216T220000Z
-DTSTAMP:20261125T021027Z
+DTSTAMP:20261125T101556Z
 UID:af-ucl-women-1638316@herfixtures.com
 DESCRIPTION:Women's Champions League 2026/27 · League Stage - 6\nOH Leuve
  n vs Chelsea\nStatus: Not Started\n\nFixtures by HerFixtures.com — Women
@@ -680,7 +680,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Manchester City vs Austria Vienna
 DTSTART:20261216T200000Z
 DTEND:20261216T220000Z
-DTSTAMP:20261125T021027Z
+DTSTAMP:20261125T101556Z
 UID:af-ucl-women-1638320@herfixtures.com
 DESCRIPTION:Women's Champions League 2026/27 · League Stage - 6\nManchest
  er City vs Austria Vienna\nStatus: Not Started\nVenue: Academy Stadium\, M
@@ -692,7 +692,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ OL Lyonnes vs BK Häcken
 DTSTART:20261216T200000Z
 DTEND:20261216T220000Z
-DTSTAMP:20261125T021027Z
+DTSTAMP:20261125T101556Z
 UID:af-ucl-women-1638323@herfixtures.com
 DESCRIPTION:Women's Champions League 2026/27 · League Stage - 6\nOL Lyonn
  es vs BK Häcken\nStatus: Not Started\nVenue: Parc Olympique Lyonnais\, Ly
@@ -703,7 +703,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris Saint-Germain vs Juventus
 DTSTART:20261216T200000Z
 DTEND:20261216T220000Z
-DTSTAMP:20261125T021027Z
+DTSTAMP:20261125T101556Z
 UID:af-ucl-women-1638329@herfixtures.com
 DESCRIPTION:Women's Champions League 2026/27 · League Stage - 6\nParis Sa
  int-Germain vs Juventus\nStatus: Not Started\nVenue: Paris Saint-Germain T
@@ -715,7 +715,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Servette vs Paris FC
 DTSTART:20261216T200000Z
 DTEND:20261216T220000Z
-DTSTAMP:20261125T021027Z
+DTSTAMP:20261125T101556Z
 UID:af-ucl-women-1638336@herfixtures.com
 DESCRIPTION:Women's Champions League 2026/27 · League Stage - 6\nServette
   vs Paris FC\nStatus: Not Started\nVenue: Stade de la Fontenette\, Carouge

@@ -120,7 +120,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Le Havre AC vs Nantes (2–4)
 DTSTART:20261121T170000Z
 DTEND:20261121T190000Z
-DTSTAMP:20261125T020955Z
+DTSTAMP:20261125T101527Z
 UID:espn-premiere-ligue-401885642@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLe Havre AC vs Nantes\nStatus: Full T
  ime\nVenue: Stade Océane\, Le Havre\n\nFixtures by HerFixtures.com — Wo
@@ -132,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Fleury 91 vs Le Havre AC
 DTSTART:20261212T170000Z
 DTEND:20261212T190000Z
-DTSTAMP:20261125T020955Z
+DTSTAMP:20261125T101527Z
 UID:espn-premiere-ligue-401885640@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nFC Fleury 91 vs Le Havre AC\nStatus: 
  Scheduled\nVenue: Stade Robert Bobin\, Bondoufle\n\nFixtures by HerFixture
@@ -144,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Le Havre AC vs Toulouse
 DTSTART:20261219T170000Z
 DTEND:20261219T190000Z
-DTSTAMP:20261125T020955Z
+DTSTAMP:20261125T101527Z
 UID:espn-premiere-ligue-401885690@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLe Havre AC vs Toulouse\nStatus: Sche
  duled\nVenue: Stade Océane\, Le Havre\n\nFixtures by HerFixtures.com — 
@@ -154,9 +154,9 @@ URL:https://www.espn.com/soccer/match/_/gameId/401885690/toulouse-le-havre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Le Havre AC vs Marseille
-DTSTART:20270116T160000Z
-DTEND:20270116T180000Z
-DTSTAMP:20261125T020955Z
+DTSTART:20270116T170000Z
+DTEND:20270116T190000Z
+DTSTAMP:20261125T101527Z
 UID:espn-premiere-ligue-401885593@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLe Havre AC vs Marseille\nStatus: Sch
  eduled\nVenue: Stade Océane\, Le Havre\n\nFixtures by HerFixtures.com —
@@ -165,15 +165,14 @@ URL:https://www.espn.com/soccer/match/_/gameId/401885593/marseille-le-havr
  e-ac
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ OL Lyonnes vs Le Havre AC (time TBC)
-DTSTART;VALUE=DATE:20270123
-DTEND;VALUE=DATE:20270124
-DTSTAMP:20261125T020955Z
+SUMMARY:⚽ OL Lyonnes vs Le Havre AC
+DTSTART:20270123T170000Z
+DTEND:20270123T190000Z
+DTSTAMP:20261125T101527Z
 UID:espn-premiere-ligue-401885590@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nOL Lyonnes vs Le Havre AC\nStatus: Sc
- heduled\nKick-off time not confirmed yet. Your calendar updates automatica
- lly once it is.\nVenue: Groupama Stadium\, Lyon\n\nFixtures by HerFixtures
- .com — Women's Sports on Your Calendar
+ heduled\nVenue: Groupama Stadium\, Lyon\n\nFixtures by HerFixtures.com —
+  Women's Sports on Your Calendar
 URL:https://www.espn.com/soccer/match/_/gameId/401885590/le-havre-ac-ol-ly
  onnes
 END:VEVENT
@@ -181,7 +180,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Le Havre AC vs Strasbourg
 DTSTART:20270206T160000Z
 DTEND:20270206T180000Z
-DTSTAMP:20261125T020955Z
+DTSTAMP:20261125T101527Z
 UID:espn-premiere-ligue-401885586@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLe Havre AC vs Strasbourg\nStatus: Sc
  heduled\nVenue: Stade Océane\, Le Havre\n\nFixtures by HerFixtures.com 
@@ -193,7 +192,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Saint-Malo vs Le Havre AC
 DTSTART:20270220T160000Z
 DTEND:20270220T180000Z
-DTSTAMP:20261125T020955Z
+DTSTAMP:20261125T101527Z
 UID:espn-premiere-ligue-401885682@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Le Havre AC\nStatus: Sc
  heduled\nVenue: Stade de Marville\, Saint-Malo\n\nFixtures by HerFixtures.
@@ -205,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Lens vs Le Havre AC (time TBC)
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-DTSTAMP:20261125T020955Z
+DTSTAMP:20261125T101527Z
 UID:espn-premiere-ligue-401887998@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLens vs Le Havre AC\nStatus: Schedule
  d\nKick-off time not confirmed yet. Your calendar updates automatically on
@@ -217,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Le Havre AC vs Montpellier
 DTSTART:20270320T160000Z
 DTEND:20270320T180000Z
-DTSTAMP:20261125T020955Z
+DTSTAMP:20261125T101527Z
 UID:espn-premiere-ligue-401885576@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLe Havre AC vs Montpellier\nStatus: S
  cheduled\nVenue: Stade Océane\, Le Havre\n\nFixtures by HerFixtures.com 
@@ -229,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Le Havre AC vs FC Fleury 91
 DTSTART:20270327T160000Z
 DTEND:20270327T180000Z
-DTSTAMP:20261125T020955Z
+DTSTAMP:20261125T101527Z
 UID:espn-premiere-ligue-401885573@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLe Havre AC vs FC Fleury 91\nStatus: 
  Scheduled\nVenue: Stade Océane\, Le Havre\n\nFixtures by HerFixtures.com 
@@ -241,7 +240,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris FC vs Le Havre AC (time TBC)
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
-DTSTAMP:20261125T020955Z
+DTSTAMP:20261125T101527Z
 UID:espn-premiere-ligue-401885568@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis FC vs Le Havre AC\nStatus: Sche
  duled\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -254,7 +253,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Nantes vs Le Havre AC
 DTSTART:20270501T150000Z
 DTEND:20270501T170000Z
-DTSTAMP:20261125T020955Z
+DTSTAMP:20261125T101527Z
 UID:espn-premiere-ligue-401885565@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nNantes vs Le Havre AC\nStatus: Schedu
  led\nVenue: Stade Marcel-Saupin\, Nantes\n\nFixtures by HerFixtures.com 
@@ -266,7 +265,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Le Havre AC vs Paris Saint-Germain
 DTSTART:20270504T150000Z
 DTEND:20270504T170000Z
-DTSTAMP:20261125T020955Z
+DTSTAMP:20261125T101527Z
 UID:espn-premiere-ligue-401885562@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLe Havre AC vs Paris Saint-Germain\nS
  tatus: Scheduled\nVenue: Stade Océane\, Le Havre\n\nFixtures by HerFixtur
