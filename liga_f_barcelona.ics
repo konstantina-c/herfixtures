@@ -10,373 +10,350 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Tenerife @ Barcelona (0–5)
+SUMMARY:⚽ CD Tenerife @ Barcelona (0–5)
 DTSTART:20260830T170000Z
 DTEND:20260830T190000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882536@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nTenerife at Barcelona\nStatus: Full Ti
- me\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures.com 
- — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882536/tenerife-barcelon
- a
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573562@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Barcelona\nStatus: Matc
+ h Finished\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Sevilla (4–0)
 DTSTART:20260905T183000Z
 DTEND:20260905T203000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882526@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Sevilla\nStatus: Full Tim
- e\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.com 
- — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882526/barcelona-sevilla
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573574@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Sevilla\nStatus: Match Fi
+ nished\nVenue: Estadio Jesus Navas\, Sevilla\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Atlético Madrid @ Barcelona (2–4)
 DTSTART:20260912T170000Z
 DTEND:20260912T190000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882519@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573578@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Barcelona\nStatus:
-  Full Time\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtu
- res.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882519/atletico-madrid-b
- arcelona
+  Match Finished\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Alavés (6–0)
 DTSTART:20260918T180000Z
 DTEND:20260918T200000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882516@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Alavés\nStatus: Full Tim
- e\nVenue: Mendizorrotza\, Vitoria-Gasteiz\n\nFixtures by HerFixtures.com 
- — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882516/barcelona-alaves
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573584@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Alavés\nStatus: Match Fi
+ nished\nVenue: Estadio Mendizorrotza\, Vitoria-Gasteiz\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Dux Logroño (2–0)
 DTSTART:20260926T143000Z
 DTEND:20260926T163000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882506@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Dux Logroño\nStatus: Ful
- l Time\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — Wo
- men's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882506/barcelona-dux-log
- rono
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573595@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Dux Logroño\nStatus: Mat
+ ch Finished\nVenue: Estadio Las Gaunas\n\nFixtures by HerFixtures.com — 
+ Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ Barcelona (0–7)
 DTSTART:20261004T170000Z
 DTEND:20261004T190000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882497@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Barcelona\nStatus: Full
-  Time\nVenue: Spotify Camp Nou\, Barcelona\n\nFixtures by HerFixtures.com 
- — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882497/real-madrid-barce
- lona
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573600@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Barcelona\nStatus: Matc
+ h Finished\nVenue: Camp Nou\, Barcelona\n\nFixtures by HerFixtures.com —
+  Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Real Sociedad (1–2)
 DTSTART:20261018T100000Z
 DTEND:20261018T120000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882485@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Real Sociedad\nStatus: Fu
- ll Time\nVenue: Instalaciones de Zubieta\, San Sebastian\n\nFixtures by He
- rFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882485/barcelona-real-so
- ciedad
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573615@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Real Sociedad\nStatus: Ma
+ tch Finished\nVenue: Instalaciones de Zubieta\, Lasarte-Oria\n\nFixtures b
+ y HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Barcelona (0–3)
 DTSTART:20261024T183000Z
 DTEND:20261024T203000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882479@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nGranada at Barcelona\nStatus: Full Tim
- e\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures.com 
- — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882479/granada-barcelona
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573618@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nGranada at Barcelona\nStatus: Match Fi
+ nished\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures.
+ com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ FC Badalona (4–0)
 DTSTART:20261101T113000Z
 DTEND:20261101T133000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882471@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at FC Badalona\nStatus: Full
-  Time\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixture
- s.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882471/barcelona-fc-bada
- lona
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573625@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at FC Badalona\nStatus: Matc
+ h Finished\nVenue: Estadi Municipal de Badalona\, Badalona\n\nFixtures by 
+ HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Madrid CFF @ Barcelona (1–5)
 DTSTART:20261108T150000Z
 DTEND:20261108T170000Z
-DTSTAMP:20261115T224153Z
-UID:espn-liga-f-401882462@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Barcelona\nStatus: Full 
- Time\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures.co
- m — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882462/madrid-cff-barcel
- ona
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573634@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Barcelona\nStatus: Match
+  Finished\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Deportivo (1–1)
 DTSTART:20261115T170000Z
 DTEND:20261115T190000Z
-DTSTAMP:20261122T232916Z
-UID:espn-liga-f-401882459@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Deportivo\nStatus: Full T
- ime\nVenue: Riazor\, La Coruña\n\nFixtures by HerFixtures.com — Women's
-  Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882459/barcelona-deporti
- vo
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573641@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Deportivo\nStatus: Match 
+ Finished\nVenue: Estadio Municipal de Riazor\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Barcelona (0–6)
 DTSTART:20261122T180000Z
 DTEND:20261122T200000Z
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882448@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Barcelona\nStatus: Fu
- ll Time\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures
- .com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882448/athletic-club-bar
- celona
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573649@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Barcelona\nStatus: Ma
+ tch Finished\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ Barcelona
 DTSTART:20261208T170000Z
 DTEND:20261208T190000Z
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882440@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Barcelona\nStatus: Schedul
- ed\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures.com 
- — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882440/espanyol-barcelon
- a
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573659@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Barcelona\nStatus: Not Sta
+ rted\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Valencia (time TBC)
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882429@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Valencia\nStatus: Schedul
- ed\nKick-off time not confirmed yet. Your calendar updates automatically o
- nce it is.\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFi
- xtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882429/barcelona-valenci
- a
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573671@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Valencia\nStatus: Not Sta
+ rted\nKick-off time not confirmed yet. Your calendar updates automatically
+  once it is.\nVenue: Estadio Antonio Puchades\, Valencia\n\nFixtures by He
+ rFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Eibar (time TBC)
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882426@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Eibar\nStatus: Scheduled
- \nKick-off time not confirmed yet. Your calendar updates automatically onc
- e it is.\nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's
-  Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882426/barcelona-eibar
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573675@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Eibar\nStatus: Not Starte
+ d\nKick-off time not confirmed yet. Your calendar updates automatically on
+ ce it is.\nVenue: Estadio Municipal de Ipurua\, Eibar\n\nFixtures by HerFi
+ xtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Barcelona (time TBC)
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882415@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Barcelona\nStatus: Schedule
- d\nKick-off time not confirmed yet. Your calendar updates automatically on
- ce it is.\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtur
- es.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882415/sevilla-barcelona
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573681@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Barcelona\nStatus: Not Star
+ ted\nKick-off time not confirmed yet. Your calendar updates automatically 
+ once it is.\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Atlético Madrid (time TBC)
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882411@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573689@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Atlético Madrid\nStatus:
-  Scheduled\nKick-off time not confirmed yet. Your calendar updates automat
- ically once it is.\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá d
- e Henares\n\nFixtures by HerFixtures.com — Women's Sports on Your Calend
- ar
-URL:https://www.espn.com/soccer/match/_/gameId/401882411/barcelona-atletic
- o-madrid
+  Not Started\nKick-off time not confirmed yet. Your calendar updates autom
+ atically once it is.\n\nFixtures by HerFixtures.com — Women's Sports on 
+ Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ FC Badalona @ Barcelona (time TBC)
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882400@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Barcelona\nStatus: Sche
- duled\nKick-off time not confirmed yet. Your calendar updates automaticall
- y once it is.\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFi
- xtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882400/fc-badalona-barce
- lona
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573697@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Barcelona\nStatus: Not 
+ Started\nKick-off time not confirmed yet. Your calendar updates automatica
+ lly once it is.\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Granada (time TBC)
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882393@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Granada\nStatus: Schedule
- d\nKick-off time not confirmed yet. Your calendar updates automatically on
- ce it is.\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by
-  HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882393/barcelona-granada
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573708@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Granada\nStatus: Not Star
+ ted\nKick-off time not confirmed yet. Your calendar updates automatically 
+ once it is.\nVenue: Ciudad Deportiva del Granada\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Barcelona (time TBC)
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882382@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Barcelona\nStatus: Sch
- eduled\nKick-off time not confirmed yet. Your calendar updates automatical
- ly once it is.\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerF
- ixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882382/dux-logrono-barce
- lona
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573715@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Barcelona\nStatus: Not
+  Started\nKick-off time not confirmed yet. Your calendar updates automatic
+ ally once it is.\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by He
+ rFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Real Madrid (time TBC)
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882375@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Real Madrid\nStatus: Sche
- duled\nKick-off time not confirmed yet. Your calendar updates automaticall
- y once it is.\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by 
- HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882375/barcelona-real-ma
- drid
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573725@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Real Madrid\nStatus: Not 
+ Started\nKick-off time not confirmed yet. Your calendar updates automatica
+ lly once it is.\n\nFixtures by HerFixtures.com — Women's Sports on Your 
+ Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Barcelona (time TBC)
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882368@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Barcelona\nStatus: Schedule
- d\nKick-off time not confirmed yet. Your calendar updates automatically on
- ce it is.\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtur
- es.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882368/alaves-barcelona
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573730@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Barcelona\nStatus: Not Star
+ ted\nKick-off time not confirmed yet. Your calendar updates automatically 
+ once it is.\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Athletic Club (time TBC)
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882363@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Athletic Club\nStatus: Sc
- heduled\nKick-off time not confirmed yet. Your calendar updates automatica
- lly once it is.\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtur
- es by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882363/barcelona-athleti
- c-club
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573737@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Athletic Club\nStatus: No
+ t Started\nKick-off time not confirmed yet. Your calendar updates automati
+ cally once it is.\nVenue: Lezama Facilities\, Lezama\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Barcelona (time TBC)
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882352@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nValencia at Barcelona\nStatus: Schedul
- ed\nKick-off time not confirmed yet. Your calendar updates automatically o
- nce it is.\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtu
- res.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882352/valencia-barcelon
- a
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573746@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nValencia at Barcelona\nStatus: Not Sta
+ rted\nKick-off time not confirmed yet. Your calendar updates automatically
+  once it is.\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ Barcelona (time TBC)
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882344@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nEibar at Barcelona\nStatus: Scheduled
- \nKick-off time not confirmed yet. Your calendar updates automatically onc
- e it is.\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixture
- s.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882344/eibar-barcelona
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573753@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nEibar at Barcelona\nStatus: Not Starte
+ d\nKick-off time not confirmed yet. Your calendar updates automatically on
+ ce it is.\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Barcelona @ Tenerife (time TBC)
+SUMMARY:⚽ Barcelona @ CD Tenerife (time TBC)
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882338@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Tenerife\nStatus: Schedul
- ed\nKick-off time not confirmed yet. Your calendar updates automatically o
- nce it is.\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Ten
- erife\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882338/barcelona-tenerif
- e
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573763@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at CD Tenerife\nStatus: Not 
+ Started\nKick-off time not confirmed yet. Your calendar updates automatica
+ lly once it is.\n\nFixtures by HerFixtures.com — Women's Sports on Your 
+ Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Espanyol (time TBC)
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882328@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Espanyol\nStatus: Schedul
- ed\nKick-off time not confirmed yet. Your calendar updates automatically o
- nce it is.\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by
-  HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882328/barcelona-espanyo
- l
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573772@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Espanyol\nStatus: Not Sta
+ rted\nKick-off time not confirmed yet. Your calendar updates automatically
+  once it is.\nVenue: Ciutat Esportiva Dani Jarque\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Real Sociedad @ Barcelona (time TBC)
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882321@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Barcelona\nStatus: Sc
- heduled\nKick-off time not confirmed yet. Your calendar updates automatica
- lly once it is.\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by Her
- Fixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882321/real-sociedad-bar
- celona
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573778@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Barcelona\nStatus: No
+ t Started\nKick-off time not confirmed yet. Your calendar updates automati
+ cally once it is.\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by H
+ erFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Madrid CFF (time TBC)
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882310@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Madrid CFF\nStatus: Sched
- uled\nKick-off time not confirmed yet. Your calendar updates automatically
-  once it is.\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by 
- HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882310/barcelona-madrid-
- cff
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573790@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Madrid CFF\nStatus: Not S
+ tarted\nKick-off time not confirmed yet. Your calendar updates automatical
+ ly once it is.\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures b
+ y HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Barcelona (time TBC)
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882305@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Barcelona\nStatus: Schedu
- led\nKick-off time not confirmed yet. Your calendar updates automatically 
- once it is.\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixt
- ures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882305/deportivo-barcelo
- na
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573794@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Barcelona\nStatus: Not St
+ arted\nKick-off time not confirmed yet. Your calendar updates automaticall
+ y once it is.\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFi
+ xtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 END:VCALENDAR

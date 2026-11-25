@@ -10,393 +10,344 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Portland Thorns FC @ Washington Spirit (1–0)
+SUMMARY:⚽ Portland Thorns @ Washington Spirit (1–0)
 DTSTART:20260314T000000Z
 DTEND:20260314T020000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853857@herfixtures.com
-DESCRIPTION:NWSL 2026 · Portland Thorns\nPortland Thorns FC at Washington
-  Spirit\nStatus: Full Time\nVenue: Audi Field\, Washington\, District of C
- olumbia\nTV: Prime Video\n\nFixtures by HerFixtures.com — Women's Sports
-  on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853857/portland-thorns-f
- c-washington-spirit
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508356@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nPortland Thorns at Washington Spirit
+ \nStatus: Match Finished\nVenue: Audi Field\, Washington\n\nFixtures by He
+ rFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Seattle Reign FC @ Portland Thorns FC (0–2)
+SUMMARY:⚽ Seattle Reign @ Portland Thorns (0–2)
 DTSTART:20260321T020000Z
 DTEND:20260321T040000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853864@herfixtures.com
-DESCRIPTION:NWSL 2026 · Portland Thorns\nSeattle Reign FC at Portland Tho
- rns FC\nStatus: Full Time\nVenue: Providence Park\, Portland\, Oregon\nTV:
-  Prime Video\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
- endar
-URL:https://www.espn.com/soccer/match/_/gameId/401853864/seattle-reign-fc-
- portland-thorns-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508366@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nSeattle Reign at Portland Thorns\nSt
+ atus: Match Finished\nVenue: Providence Park\, Portland\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Portland Thorns FC @ San Diego Wave FC (1–3)
+SUMMARY:⚽ Portland Thorns @ San Diego Wave (1–3)
 DTSTART:20260326T020000Z
 DTEND:20260326T040000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853872@herfixtures.com
-DESCRIPTION:NWSL 2026 · Portland Thorns\nPortland Thorns FC at San Diego 
- Wave FC\nStatus: Full Time\nVenue: Snapdragon Stadium\, San Diego\, Califo
- rnia\nTV: CBSSN\n\nFixtures by HerFixtures.com — Women's Sports on Your 
- Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853872/portland-thorns-f
- c-san-diego-wave-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508376@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nPortland Thorns at San Diego Wave\nS
+ tatus: Match Finished\nVenue: Snapdragon Stadium\, San Diego\n\nFixtures b
+ y HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Kansas City Current @ Portland Thorns FC (0–2)
+SUMMARY:⚽ Kansas City Current @ Portland Thorns (0–2)
 DTSTART:20260328T200000Z
 DTEND:20260328T220000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853874@herfixtures.com
-DESCRIPTION:NWSL 2026 · Portland Thorns\nKansas City Current at Portland 
- Thorns FC\nStatus: Full Time\nVenue: Providence Park\, Portland\, Oregon\n
- TV: CBS\, Paramount+\n\nFixtures by HerFixtures.com — Women's Sports on 
- Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853874/kansas-city-curre
- nt-portland-thorns-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508380@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nKansas City Current at Portland Thor
+ ns\nStatus: Match Finished\nVenue: Providence Park\, Portland\n\nFixtures 
+ by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Portland Thorns FC @ North Carolina Courage (2–2)
+SUMMARY:⚽ Portland Thorns @ NC Courage (2–2)
 DTSTART:20260404T223000Z
 DTEND:20260405T003000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853883@herfixtures.com
-DESCRIPTION:NWSL 2026 · Portland Thorns\nPortland Thorns FC at North Caro
- lina Courage\nStatus: Full Time\nVenue: WakeMed Soccer Park\, Cary\, North
-  Carolina\nTV: ION\n\nFixtures by HerFixtures.com — Women's Sports on Yo
- ur Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853883/portland-thorns-f
- c-north-carolina-courage
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508390@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nPortland Thorns at NC Courage\nStatu
+ s: Match Finished\nVenue: WakeMed Soccer Park\, Cary\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Portland Thorns FC @ Angel City FC (2–1)
+SUMMARY:⚽ Portland Thorns @ Angel City FC (2–1)
 DTSTART:20260426T220000Z
 DTEND:20260427T000000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853889@herfixtures.com
-DESCRIPTION:NWSL 2026 · Portland Thorns\nPortland Thorns FC at Angel City
-  FC\nStatus: Full Time\nVenue: BMO Stadium\, Los Angeles\, California\nTV:
-  ESPN2\, ESPN Deportes\n\nFixtures by HerFixtures.com — Women's Sports o
- n Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853889/portland-thorns-f
- c-angel-city-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508399@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nPortland Thorns at Angel City FC\nSt
+ atus: Match Finished\nVenue: BMO Stadium\, Los Angeles\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ San Diego Wave FC @ Portland Thorns FC (0–2)
+SUMMARY:⚽ San Diego Wave @ Portland Thorns (0–2)
 DTSTART:20260430T020000Z
 DTEND:20260430T040000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853893@herfixtures.com
-DESCRIPTION:NWSL 2026 · Portland Thorns\nSan Diego Wave FC at Portland Th
- orns FC\nStatus: Full Time\nVenue: Providence Park\, Portland\, Oregon\nTV
- : CBSSN\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853893/san-diego-wave-fc
- -portland-thorns-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508404@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nSan Diego Wave at Portland Thorns\nS
+ tatus: Match Finished\nVenue: Providence Park\, Portland\n\nFixtures by He
+ rFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Portland Thorns FC @ Chicago Stars FC (2–0)
+SUMMARY:⚽ Portland Thorns @ Chicago Stars FC (2–0)
 DTSTART:20260503T170000Z
 DTEND:20260503T190000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853898@herfixtures.com
-DESCRIPTION:NWSL 2026 · Portland Thorns\nPortland Thorns FC at Chicago St
- ars FC\nStatus: Full Time\nVenue: Northwestern Medicine Field at Martin St
- adium\, Evanston\nTV: ESPN2\, ESPN Unlmtd\n\nFixtures by HerFixtures.com 
- — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853898/portland-thorns-f
- c-chicago-stars-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508409@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nPortland Thorns at Chicago Stars FC\
+ nStatus: Match Finished\nVenue: SeatGeek Stadium\, Evanston\n\nFixtures by
+  HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Portland Thorns FC @ Racing Louisville FC (1–3)
+SUMMARY:⚽ Portland Thorns @ Racing Louisville (1–3)
 DTSTART:20260508T223000Z
 DTEND:20260509T003000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853902@herfixtures.com
-DESCRIPTION:NWSL 2026 · Portland Thorns\nPortland Thorns FC at Racing Lou
- isville FC\nStatus: Full Time\nVenue: Lynn Family Stadium\, Louisville\, K
- entucky\nTV: NWSL+\n\nFixtures by HerFixtures.com — Women's Sports on Yo
- ur Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853902/portland-thorns-f
- c-racing-louisville-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508414@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nPortland Thorns at Racing Louisville
+ \nStatus: Match Finished\nVenue: Lynn Family Stadium\, Louisville\n\nFixtu
+ res by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Angel City FC @ Portland Thorns FC (0–0)
+SUMMARY:⚽ Angel City FC @ Portland Thorns (0–0)
 DTSTART:20260517T220000Z
 DTEND:20260518T000000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853912@herfixtures.com
-DESCRIPTION:NWSL 2026 · Portland Thorns\nAngel City FC at Portland Thorns
-  FC\nStatus: Full Time\nVenue: Providence Park\, Portland\, Oregon\nTV: ES
- PN2\, ESPN Deportes\, ESPN Unlmtd\n\nFixtures by HerFixtures.com — Women
- 's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853912/angel-city-fc-por
- tland-thorns-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508429@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nAngel City FC at Portland Thorns\nSt
+ atus: Match Finished\nVenue: Providence Park\, Portland\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Bay FC @ Portland Thorns FC (0–2)
+SUMMARY:⚽ Bay FC @ Portland Thorns (0–2)
 DTSTART:20260521T020000Z
 DTEND:20260521T040000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853915@herfixtures.com
-DESCRIPTION:NWSL 2026 · Portland Thorns\nBay FC at Portland Thorns FC\nSt
- atus: Full Time\nVenue: Providence Park\, Portland\, Oregon\nTV: Victory+
- \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853915/bay-fc-portland-t
- horns-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508433@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nBay FC at Portland Thorns\nStatus: M
+ atch Finished\nVenue: Providence Park\, Portland\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Portland Thorns FC @ Kansas City Current (1–3)
+SUMMARY:⚽ Portland Thorns @ Kansas City Current (1–3)
 DTSTART:20260524T170000Z
 DTEND:20260524T190000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853919@herfixtures.com
-DESCRIPTION:NWSL 2026 · Portland Thorns\nPortland Thorns FC at Kansas Cit
- y Current\nStatus: Full Time\nVenue: CPKC Stadium\, Kansas City\, Missouri
- \nTV: CBS\, Paramount+\n\nFixtures by HerFixtures.com — Women's Sports o
- n Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853919/portland-thorns-f
- c-kansas-city-current
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508438@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nPortland Thorns at Kansas City Curre
+ nt\nStatus: Match Finished\nVenue: CPKC Stadium\, Kansas City\n\nFixtures 
+ by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Utah Royals @ Portland Thorns FC (2–2)
+SUMMARY:⚽ Utah Royals @ Portland Thorns (2–2)
 DTSTART:20260530T200000Z
 DTEND:20260530T220000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853923@herfixtures.com
-DESCRIPTION:NWSL 2026 · Portland Thorns\nUtah Royals at Portland Thorns F
- C\nStatus: Full Time\nVenue: Providence Park\, Portland\, Oregon\nTV: ION
- \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853923/utah-royals-portl
- and-thorns-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508444@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nUtah Royals at Portland Thorns\nStat
+ us: Match Finished\nVenue: Providence Park\, Portland\n\nFixtures by HerFi
+ xtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Racing Louisville FC @ Portland Thorns FC (0–4)
+SUMMARY:⚽ Racing Louisville @ Portland Thorns (0–4)
 DTSTART:20260705T230000Z
 DTEND:20260706T010000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853933@herfixtures.com
-DESCRIPTION:NWSL 2026 · Portland Thorns\nRacing Louisville FC at Portland
-  Thorns FC\nStatus: Full Time\nVenue: Providence Park\, Portland\, Oregon
- \nTV: Victory+\n\nFixtures by HerFixtures.com — Women's Sports on Your C
- alendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853933/racing-louisville
- -fc-portland-thorns-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508456@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nRacing Louisville at Portland Thorns
+ \nStatus: Match Finished\nVenue: Providence Park\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Portland Thorns FC @ Seattle Reign FC (0–2)
+SUMMARY:⚽ Portland Thorns @ Seattle Reign (0–2)
 DTSTART:20260712T200000Z
 DTEND:20260712T220000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853939@herfixtures.com
-DESCRIPTION:NWSL 2026 · Portland Thorns\nPortland Thorns FC at Seattle Re
- ign FC\nStatus: Full Time\nVenue: Lumen Field\, Seattle\, Washington\nTV: 
- ESPN\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853939/portland-thorns-f
- c-seattle-reign-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508463@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nPortland Thorns at Seattle Reign\nSt
+ atus: Match Finished\nVenue: Lumen Field\, Seattle\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Portland Thorns FC @ Denver Summit FC (1–2)
-DTSTART:20260718T181500Z
-DTEND:20260718T201500Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401854066@herfixtures.com
-DESCRIPTION:NWSL 2026 · Portland Thorns\nPortland Thorns FC at Denver Sum
- mit FC\nStatus: Full Time\nVenue: Centennial Stadium\, Centennial\nTV: CBS
- \, Paramount+\n\nFixtures by HerFixtures.com — Women's Sports on Your Ca
- lendar
-URL:https://www.espn.com/soccer/match/_/gameId/401854066/portland-thorns-f
- c-denver-summit-fc
+SUMMARY:⚽ Portland Thorns @ Denver Summit FC (1–2)
+DTSTART:20260718T180000Z
+DTEND:20260718T200000Z
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508469@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nPortland Thorns at Denver Summit FC\
+ nStatus: Match Finished\nVenue: Centennial Stadium\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Gotham FC @ Portland Thorns FC (2–2)
+SUMMARY:⚽ Gotham FC @ Portland Thorns (2–2)
 DTSTART:20260725T020000Z
 DTEND:20260725T040000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853949@herfixtures.com
-DESCRIPTION:NWSL 2026 · Portland Thorns\nGotham FC at Portland Thorns FC
- \nStatus: Full Time\nVenue: Providence Park\, Portland\, Oregon\nTV: Prime
-  Video\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853949/gotham-fc-portlan
- d-thorns-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508477@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nGotham FC at Portland Thorns\nStatus
+ : Match Finished\nVenue: Providence Park\, Portland\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Portland Thorns FC @ Utah Royals (1–5)
+SUMMARY:⚽ Portland Thorns @ Utah Royals (1–5)
 DTSTART:20260802T230000Z
 DTEND:20260803T010000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853962@herfixtures.com
-DESCRIPTION:NWSL 2026 · Portland Thorns\nPortland Thorns FC at Utah Royal
- s\nStatus: Full Time\nVenue: America First Field\, Sandy\, Utah\nTV: NWSL+
- \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853962/portland-thorns-f
- c-utah-royals
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508492@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nPortland Thorns at Utah Royals\nStat
+ us: Match Finished\nVenue: America First Field\, Sandy\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Portland Thorns FC @ Boston Legacy FC (4–3)
+SUMMARY:⚽ Portland Thorns @ Boston Legacy FC (4–3)
 DTSTART:20260809T200000Z
 DTEND:20260809T220000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401854073@herfixtures.com
-DESCRIPTION:NWSL 2026 · Portland Thorns\nPortland Thorns FC at Boston Leg
- acy FC\nStatus: Full Time\nVenue: Centreville Bank Stadium\, Pawtucket\, R
- hode Island\nTV: CBSSN\n\nFixtures by HerFixtures.com — Women's Sports o
- n Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401854073/portland-thorns-f
- c-boston-legacy-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508500@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nPortland Thorns at Boston Legacy FC\
+ nStatus: Match Finished\nVenue: Centreville Bank Stadium\, Pawtucket\n\nFi
+ xtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Orlando Pride @ Portland Thorns FC (1–2)
+SUMMARY:⚽ Orlando Pride @ Portland Thorns (1–2)
 DTSTART:20260816T004500Z
 DTEND:20260816T024500Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853972@herfixtures.com
-DESCRIPTION:NWSL 2026 · Portland Thorns\nOrlando Pride at Portland Thorns
-  FC\nStatus: Full Time\nVenue: Providence Park\, Portland\, Oregon\nTV: IO
- N\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853972/orlando-pride-por
- tland-thorns-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508508@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nOrlando Pride at Portland Thorns\nSt
+ atus: Match Finished\nVenue: Providence Park\, Portland\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Denver Summit FC @ Portland Thorns FC (0–1)
+SUMMARY:⚽ Denver Summit FC @ Portland Thorns (0–1)
 DTSTART:20260823T004500Z
 DTEND:20260823T024500Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401854077@herfixtures.com
-DESCRIPTION:NWSL 2026 · Portland Thorns\nDenver Summit FC at Portland Tho
- rns FC\nStatus: Full Time\nVenue: Providence Park\, Portland\, Oregon\nTV:
-  ION\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401854077/denver-summit-fc-
- portland-thorns-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508516@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nDenver Summit FC at Portland Thorns\
+ nStatus: Match Finished\nVenue: Providence Park\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Portland Thorns FC @ Gotham FC (1–1)
+SUMMARY:⚽ Portland Thorns @ Gotham FC (1–1)
 DTSTART:20260829T000000Z
 DTEND:20260829T020000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853984@herfixtures.com
-DESCRIPTION:NWSL 2026 · Portland Thorns\nPortland Thorns FC at Gotham FC
- \nStatus: Full Time\nVenue: Sports Illustrated Stadium\, Harrison\, New Je
- rsey\nTV: Prime Video\n\nFixtures by HerFixtures.com — Women's Sports on
-  Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853984/portland-thorns-f
- c-gotham-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508522@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nPortland Thorns at Gotham FC\nStatus
+ : Match Finished\nVenue: Sports Illustrated Stadium\, Harrison\n\nFixtures
+  by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Washington Spirit @ Portland Thorns FC (2–1)
+SUMMARY:⚽ Washington Spirit @ Portland Thorns (2–1)
 DTSTART:20260906T200000Z
 DTEND:20260906T220000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401853993@herfixtures.com
-DESCRIPTION:NWSL 2026 · Portland Thorns\nWashington Spirit at Portland Th
- orns FC\nStatus: Full Time\nVenue: Providence Park\, Portland\, Oregon\nTV
- : CBS\, Paramount+\n\nFixtures by HerFixtures.com — Women's Sports on Yo
- ur Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401853993/washington-spirit
- -portland-thorns-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508535@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nWashington Spirit at Portland Thorns
+ \nStatus: Match Finished\nVenue: Providence Park\, Portland\n\nFixtures by
+  HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Chicago Stars FC @ Portland Thorns FC (1–1)
+SUMMARY:⚽ Chicago Stars FC @ Portland Thorns (1–1)
 DTSTART:20260913T230000Z
 DTEND:20260914T010000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401854001@herfixtures.com
-DESCRIPTION:NWSL 2026 · Portland Thorns\nChicago Stars FC at Portland Tho
- rns FC\nStatus: Full Time\nVenue: Providence Park\, Portland\, Oregon\nTV:
-  Roku\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401854001/chicago-stars-fc-
- portland-thorns-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508545@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nChicago Stars FC at Portland Thorns\
+ nStatus: Match Finished\nVenue: Providence Park\, Portland\n\nFixtures by 
+ HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Portland Thorns FC @ Orlando Pride (4–1)
+SUMMARY:⚽ Portland Thorns @ Orlando Pride (4–1)
 DTSTART:20260919T200000Z
 DTEND:20260919T220000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401854004@herfixtures.com
-DESCRIPTION:NWSL 2026 · Portland Thorns\nPortland Thorns FC at Orlando Pr
- ide\nStatus: Full Time\nVenue: Inter&Co Stadium\, Orlando\, Florida\nTV: I
- ON\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401854004/portland-thorns-f
- c-orlando-pride
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508549@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nPortland Thorns at Orlando Pride\nSt
+ atus: Match Finished\nVenue: Exploria Stadium\, Orlando\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Houston Dash @ Portland Thorns FC (1–1)
+SUMMARY:⚽ Houston Dash @ Portland Thorns (1–1)
 DTSTART:20260927T004500Z
 DTEND:20260927T024500Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401854012@herfixtures.com
-DESCRIPTION:NWSL 2026 · Portland Thorns\nHouston Dash at Portland Thorns 
- FC\nStatus: Full Time\nVenue: Providence Park\, Portland\, Oregon\nTV: ION
- \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401854012/houston-dash-port
- land-thorns-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508561@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nHouston Dash at Portland Thorns\nSta
+ tus: Match Finished\nVenue: Providence Park\, Portland\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Boston Legacy FC @ Portland Thorns FC (4–2)
-DTSTART:20261004T005200Z
-DTEND:20261004T025200Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401854089@herfixtures.com
-DESCRIPTION:NWSL 2026 · Portland Thorns\nBoston Legacy FC at Portland Tho
- rns FC\nStatus: Full Time\nVenue: Providence Park\, Portland\, Oregon\nTV:
-  ION\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401854089/boston-legacy-fc-
- portland-thorns-fc
+SUMMARY:⚽ Boston Legacy FC @ Portland Thorns (4–2)
+DTSTART:20261004T004500Z
+DTEND:20261004T024500Z
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508568@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nBoston Legacy FC at Portland Thorns\
+ nStatus: Match Finished\nVenue: Providence Park\, Portland\n\nFixtures by 
+ HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Portland Thorns FC @ Bay FC (2–2)
+SUMMARY:⚽ Portland Thorns @ Bay FC (2–2)
 DTSTART:20261018T210000Z
 DTEND:20261018T230000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401854025@herfixtures.com
-DESCRIPTION:NWSL 2026 · Portland Thorns\nPortland Thorns FC at Bay FC\nSt
- atus: Full Time\nVenue: PayPal Park\, San Jose\, California\nTV: ESPN\, ES
- PN Deportes\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
- ndar
-URL:https://www.espn.com/soccer/match/_/gameId/401854025/portland-thorns-f
- c-bay-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508578@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nPortland Thorns at Bay FC\nStatus: M
+ atch Finished\nVenue: PayPal Park\n\nFixtures by HerFixtures.com — Women
+ 's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ North Carolina Courage @ Portland Thorns FC (0–1)
+SUMMARY:⚽ NC Courage @ Portland Thorns (0–1)
 DTSTART:20261024T020000Z
 DTEND:20261024T040000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401854029@herfixtures.com
-DESCRIPTION:NWSL 2026 · Portland Thorns\nNorth Carolina Courage at Portla
- nd Thorns FC\nStatus: Full Time\nVenue: Providence Park\, Portland\, Orego
- n\nTV: Prime Video\n\nFixtures by HerFixtures.com — Women's Sports on Yo
- ur Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401854029/north-carolina-co
- urage-portland-thorns-fc
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508582@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nNC Courage at Portland Thorns\nStatu
+ s: Match Finished\nVenue: Providence Park\, Portland\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Portland Thorns FC @ Houston Dash (2–0)
+SUMMARY:⚽ Portland Thorns @ Houston Dash (2–0)
 DTSTART:20261101T220000Z
 DTEND:20261102T000000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401854038@herfixtures.com
-DESCRIPTION:NWSL 2026 · Portland Thorns\nPortland Thorns FC at Houston Da
- sh\nStatus: Full Time\nVenue: Shell Energy Stadium\, Houston\, Texas\nTV: 
- ESPN+\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401854038/portland-thorns-f
- c-houston-dash
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1508591@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nPortland Thorns at Houston Dash\nSta
+ tus: Match Finished\nVenue: Shell Energy Stadium\, Houston\n\nFixtures by 
+ HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Portland Thorns FC @ Washington Spirit (1–4)
+SUMMARY:⚽ Portland Thorns @ Washington Spirit (1–4)
 DTSTART:20261108T200000Z
 DTEND:20261108T220000Z
-DTSTAMP:20261116T092210Z
-UID:espn-nwsl-401932957@herfixtures.com
-DESCRIPTION:NWSL 2026 · Portland Thorns\nPortland Thorns FC at Washington
-  Spirit\nStatus: Full Time\nVenue: Audi Field\, Washington\, District of C
- olumbia\nTV: ABC\, ESPN Unlmtd\n\nFixtures by HerFixtures.com — Women's 
- Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401932957/portland-thorns-f
- c-washington-spirit
+DTSTAMP:20261125T085050Z
+UID:af-nwsl-1648312@herfixtures.com
+DESCRIPTION:NWSL 2026 · Season Game\nPortland Thorns at Washington Spirit
+ \nStatus: Match Finished\nVenue: Audi Field\, Washington\n\nFixtures by He
+ rFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 END:VCALENDAR

@@ -13,359 +13,346 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Alavés (0–2)
 DTSTART:20260830T150000Z
 DTEND:20260830T170000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882540@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nValencia at Alavés\nStatus: Full Time
- \nVenue: Mendizorrotza\, Vitoria-Gasteiz\n\nFixtures by HerFixtures.com 
- — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882540/valencia-alaves
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573560@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nValencia at Alavés\nStatus: Match Fin
+ ished\nVenue: Estadio Mendizorrotza\, Vitoria-Gasteiz\n\nFixtures by HerFi
+ xtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Atlético Madrid (0–1)
 DTSTART:20260906T100000Z
 DTEND:20260906T120000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882532@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Atlético Madrid\nStatus: F
- ull Time\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de Henares
- \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882532/alaves-atletico-m
- adrid
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573568@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Atlético Madrid\nStatus: M
+ atch Finished\n\nFixtures by HerFixtures.com — Women's Sports on Your Ca
+ lendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Alavés (0–1)
 DTSTART:20260913T100000Z
 DTEND:20260913T120000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882524@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nGranada at Alavés\nStatus: Full Time
- \nVenue: Mendizorrotza\, Vitoria-Gasteiz\n\nFixtures by HerFixtures.com 
- — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882524/granada-alaves
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573576@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nGranada at Alavés\nStatus: Match Fini
+ shed\nVenue: Estadio Mendizorrotza\, Vitoria-Gasteiz\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Alavés (6–0)
 DTSTART:20260918T180000Z
 DTEND:20260918T200000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882516@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Alavés\nStatus: Full Tim
- e\nVenue: Mendizorrotza\, Vitoria-Gasteiz\n\nFixtures by HerFixtures.com 
- — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882516/barcelona-alaves
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573584@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Alavés\nStatus: Match Fi
+ nished\nVenue: Estadio Mendizorrotza\, Vitoria-Gasteiz\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Madrid CFF (0–1)
 DTSTART:20260926T163000Z
 DTEND:20260926T183000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882505@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Madrid CFF\nStatus: Full Ti
- me\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFixture
- s.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882505/alaves-madrid-cff
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573596@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Madrid CFF\nStatus: Match F
+ inished\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFi
+ xtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Espanyol (0–1)
 DTSTART:20261003T100000Z
 DTEND:20261003T120000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882498@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Espanyol\nStatus: Full Time
- \nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerFixtur
- es.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882498/alaves-espanyol
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573603@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Espanyol\nStatus: Match Fin
+ ished\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Alavés (1–1)
 DTSTART:20261018T100000Z
 DTEND:20261018T120000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882492@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Alavés\nStatus: Full Time
- \nVenue: Mendizorrotza\, Vitoria-Gasteiz\n\nFixtures by HerFixtures.com 
- — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882492/sevilla-alaves
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573608@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Alavés\nStatus: Match Fini
+ shed\nVenue: Estadio Mendizorrotza\, Vitoria-Gasteiz\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Deportivo (1–2)
 DTSTART:20261025T114500Z
 DTEND:20261025T134500Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882482@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Deportivo\nStatus: Full Tim
- e\nVenue: Riazor\, La Coruña\n\nFixtures by HerFixtures.com — Women's S
- ports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882482/alaves-deportivo
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573619@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Deportivo\nStatus: Match Fi
+ nished\nVenue: Estadio Municipal de Riazor\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Real Sociedad @ Alavés (1–1)
 DTSTART:20261101T110000Z
 DTEND:20261101T130000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882476@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Alavés\nStatus: Full
-  Time\nVenue: Mendizorrotza\, Vitoria-Gasteiz\n\nFixtures by HerFixtures.c
- om — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882476/real-sociedad-ala
- ves
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573624@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Alavés\nStatus: Matc
+ h Finished\nVenue: Estadio Mendizorrotza\, Vitoria-Gasteiz\n\nFixtures by 
+ HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ Alavés (1–2)
 DTSTART:20261114T170000Z
 DTEND:20261114T190000Z
-DTSTAMP:20261121T225841Z
-UID:espn-liga-f-401882460@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nEibar at Alavés\nStatus: Full Time\nV
- enue: Mendizorrotza\, Vitoria-Gasteiz\n\nFixtures by HerFixtures.com — W
- omen's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882460/eibar-alaves
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573640@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nEibar at Alavés\nStatus: Match Finish
+ ed\nVenue: Estadio Mendizorrotza\, Vitoria-Gasteiz\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Dux Logroño (1–3)
 DTSTART:20261121T180000Z
 DTEND:20261121T200000Z
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882451@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Dux Logroño\nStatus: Full 
- Time\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — Wome
- n's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882451/alaves-dux-logron
- o
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573651@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Dux Logroño\nStatus: Match
+  Finished\nVenue: Estadio Las Gaunas\n\nFixtures by HerFixtures.com — Wo
+ men's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Athletic Club
 DTSTART:20261208T110000Z
 DTEND:20261208T130000Z
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882444@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Athletic Club\nStatus: Sche
- duled\nVenue: San Mamés\, Bilbao\n\nFixtures by HerFixtures.com — Women
- 's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882444/alaves-athletic-c
- lub
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573656@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Athletic Club\nStatus: Not 
+ Started\nVenue: Lezama Facilities\, Lezama\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ Alavés (time TBC)
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882436@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Alavés\nStatus: Schedu
- led\nKick-off time not confirmed yet. Your calendar updates automatically 
- once it is.\nVenue: Ciudad Deportiva José Luis Compañón\, Vitoria-Gaste
- iz\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882436/real-madrid-alave
- s
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573664@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Alavés\nStatus: Not St
+ arted\nKick-off time not confirmed yet. Your calendar updates automaticall
+ y once it is.\nVenue: Estadio Mendizorrotza\, Vitoria-Gasteiz\n\nFixtures 
+ by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Alavés @ Tenerife
+SUMMARY:⚽ Alavés @ CD Tenerife
 DTSTART:20261216T190000Z
 DTEND:20261216T210000Z
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882466@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Tenerife\nStatus: Scheduled
- \nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife\n\nF
- ixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882466/alaves-tenerife
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573635@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAlavés at CD Tenerife\nStatus: Not St
+ arted\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ FC Badalona (time TBC)
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882423@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAlavés at FC Badalona\nStatus: Schedu
- led\nKick-off time not confirmed yet. Your calendar updates automatically 
- once it is.\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerF
- ixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882423/alaves-fc-badalon
- a
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573674@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAlavés at FC Badalona\nStatus: Not St
+ arted\nKick-off time not confirmed yet. Your calendar updates automaticall
+ y once it is.\nVenue: Estadi Municipal de Badalona\, Badalona\n\nFixtures 
+ by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Madrid CFF @ Alavés (time TBC)
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882420@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Alavés\nStatus: Schedul
- ed\nKick-off time not confirmed yet. Your calendar updates automatically o
- nce it is.\nVenue: Ciudad Deportiva José Luis Compañón\, Vitoria-Gastei
- z\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882420/madrid-cff-alaves
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573680@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Alavés\nStatus: Not Sta
+ rted\nKick-off time not confirmed yet. Your calendar updates automatically
+  once it is.\nVenue: Estadio Mendizorrotza\, Vitoria-Gasteiz\n\nFixtures b
+ y HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Granada (time TBC)
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882409@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Granada\nStatus: Scheduled
- \nKick-off time not confirmed yet. Your calendar updates automatically onc
- e it is.\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by 
- HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882409/alaves-granada
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573692@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Granada\nStatus: Not Starte
+ d\nKick-off time not confirmed yet. Your calendar updates automatically on
+ ce it is.\nVenue: Ciudad Deportiva del Granada\n\nFixtures by HerFixtures.
+ com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Atlético Madrid @ Alavés (time TBC)
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882404@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Alavés\nStatus: S
- cheduled\nKick-off time not confirmed yet. Your calendar updates automatic
- ally once it is.\nVenue: Ciudad Deportiva José Luis Compañón\, Vitoria-
- Gasteiz\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882404/atletico-madrid-a
- laves
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573696@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Alavés\nStatus: N
+ ot Started\nKick-off time not confirmed yet. Your calendar updates automat
+ ically once it is.\nVenue: Estadio Mendizorrotza\, Vitoria-Gasteiz\n\nFixt
+ ures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Valencia (time TBC)
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882389@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Valencia\nStatus: Scheduled
- \nKick-off time not confirmed yet. Your calendar updates automatically onc
- e it is.\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixt
- ures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882389/alaves-valencia
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573711@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Valencia\nStatus: Not Start
+ ed\nKick-off time not confirmed yet. Your calendar updates automatically o
+ nce it is.\nVenue: Estadio Antonio Puchades\, Valencia\n\nFixtures by HerF
+ ixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ Alavés (time TBC)
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882388@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Alavés\nStatus: Scheduled
- \nKick-off time not confirmed yet. Your calendar updates automatically onc
- e it is.\nVenue: Ciudad Deportiva José Luis Compañón\, Vitoria-Gasteiz
- \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882388/espanyol-alaves
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573712@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Alavés\nStatus: Not Start
+ ed\nKick-off time not confirmed yet. Your calendar updates automatically o
+ nce it is.\nVenue: Estadio Mendizorrotza\, Vitoria-Gasteiz\n\nFixtures by 
+ HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Tenerife @ Alavés (time TBC)
+SUMMARY:⚽ CD Tenerife @ Alavés (time TBC)
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882380@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nTenerife at Alavés\nStatus: Scheduled
- \nKick-off time not confirmed yet. Your calendar updates automatically onc
- e it is.\nVenue: Ciudad Deportiva José Luis Compañón\, Vitoria-Gasteiz
- \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882380/tenerife-alaves
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573720@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Alavés\nStatus: Not St
+ arted\nKick-off time not confirmed yet. Your calendar updates automaticall
+ y once it is.\nVenue: Estadio Mendizorrotza\, Vitoria-Gasteiz\n\nFixtures 
+ by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Barcelona (time TBC)
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882368@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Barcelona\nStatus: Schedule
- d\nKick-off time not confirmed yet. Your calendar updates automatically on
- ce it is.\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtur
- es.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882368/alaves-barcelona
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573730@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Barcelona\nStatus: Not Star
+ ted\nKick-off time not confirmed yet. Your calendar updates automatically 
+ once it is.\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Alavés (time TBC)
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882364@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Alavés\nStatus: Sched
- uled\nKick-off time not confirmed yet. Your calendar updates automatically
-  once it is.\nVenue: Ciudad Deportiva José Luis Compañón\, Vitoria-Gast
- eiz\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882364/dux-logrono-alave
- s
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573736@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Alavés\nStatus: Not S
+ tarted\nKick-off time not confirmed yet. Your calendar updates automatical
+ ly once it is.\nVenue: Estadio Mendizorrotza\, Vitoria-Gasteiz\n\nFixtures
+  by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Eibar (time TBC)
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882353@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Eibar\nStatus: Scheduled\nK
- ick-off time not confirmed yet. Your calendar updates automatically once i
- t is.\nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sp
- orts on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882353/alaves-eibar
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573749@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Eibar\nStatus: Not Started\
+ nKick-off time not confirmed yet. Your calendar updates automatically once
+  it is.\nVenue: Estadio Municipal de Ipurua\, Eibar\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Alavés (time TBC)
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882348@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Alavés\nStatus: Schedule
- d\nKick-off time not confirmed yet. Your calendar updates automatically on
- ce it is.\nVenue: Ciudad Deportiva José Luis Compañón\, Vitoria-Gasteiz
- \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882348/deportivo-alaves
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573752@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Alavés\nStatus: Not Star
+ ted\nKick-off time not confirmed yet. Your calendar updates automatically 
+ once it is.\nVenue: Estadio Mendizorrotza\, Vitoria-Gasteiz\n\nFixtures by
+  HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Real Sociedad (time TBC)
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882335@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Real Sociedad\nStatus: Sche
- duled\nKick-off time not confirmed yet. Your calendar updates automaticall
- y once it is.\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFixt
- ures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882335/alaves-real-socie
- dad
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573765@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Real Sociedad\nStatus: Not 
+ Started\nKick-off time not confirmed yet. Your calendar updates automatica
+ lly once it is.\nVenue: Instalaciones de Zubieta\, Lasarte-Oria\n\nFixture
+ s by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Alavés (time TBC)
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882332@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Alavés\nStatus: Sche
- duled\nKick-off time not confirmed yet. Your calendar updates automaticall
- y once it is.\nVenue: Ciudad Deportiva José Luis Compañón\, Vitoria-Gas
- teiz\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882332/athletic-club-ala
- ves
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573768@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Alavés\nStatus: Not 
+ Started\nKick-off time not confirmed yet. Your calendar updates automatica
+ lly once it is.\nVenue: Estadio Mendizorrotza\, Vitoria-Gasteiz\n\nFixture
+ s by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Sevilla (time TBC)
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882318@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Sevilla\nStatus: Scheduled
- \nKick-off time not confirmed yet. Your calendar updates automatically onc
- e it is.\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573782@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Sevilla\nStatus: Not Starte
+ d\nKick-off time not confirmed yet. Your calendar updates automatically on
+ ce it is.\nVenue: Estadio Jesus Navas\, Sevilla\n\nFixtures by HerFixtures
  .com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882318/alaves-sevilla
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ FC Badalona @ Alavés (time TBC)
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882316@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Alavés\nStatus: Schedu
- led\nKick-off time not confirmed yet. Your calendar updates automatically 
- once it is.\nVenue: Ciudad Deportiva José Luis Compañón\, Vitoria-Gaste
- iz\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882316/fc-badalona-alave
- s
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573784@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Alavés\nStatus: Not St
+ arted\nKick-off time not confirmed yet. Your calendar updates automaticall
+ y once it is.\nVenue: Estadio Mendizorrotza\, Vitoria-Gasteiz\n\nFixtures 
+ by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Real Madrid (time TBC)
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882303@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Real Madrid\nStatus: Schedu
- led\nKick-off time not confirmed yet. Your calendar updates automatically 
- once it is.\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by He
- rFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882303/alaves-real-madri
- d
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573797@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Real Madrid\nStatus: Not St
+ arted\nKick-off time not confirmed yet. Your calendar updates automaticall
+ y once it is.\n\nFixtures by HerFixtures.com — Women's Sports on Your Ca
+ lendar
+URL:https://herfixtures.com
 END:VEVENT
 END:VCALENDAR

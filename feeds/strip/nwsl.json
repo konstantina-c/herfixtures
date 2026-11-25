@@ -1,12 +1,12 @@
 {
- "espn-nwsl-401934232@herfixtures.com": {
+ "af-nwsl-1650251@herfixtures.com": {
   "away": {
-   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20907.png",
-   "name": "Kansas City"
+   "logo": "https://media.api-sports.io/football/teams/16487.png",
+   "name": "Kansas City Current"
   },
   "home": {
-   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15365.png",
-   "name": "Washington"
+   "logo": "https://media.api-sports.io/football/teams/3005.png",
+   "name": "Washington Spirit"
   }
  }
 }

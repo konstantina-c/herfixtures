@@ -13,370 +13,347 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Deportivo (1–0)
 DTSTART:20260829T100000Z
 DTEND:20260829T120000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882538@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Deportivo\nStatus: Full Tim
- e\nVenue: Riazor\, La Coruña\n\nFixtures by HerFixtures.com — Women's S
- ports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882538/sevilla-deportivo
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573563@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Deportivo\nStatus: Match Fi
+ nished\nVenue: Estadio Municipal de Riazor\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Deportivo @ Tenerife (0–0)
+SUMMARY:⚽ Deportivo @ CD Tenerife (0–0)
 DTSTART:20260906T104500Z
 DTEND:20260906T124500Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882531@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Tenerife\nStatus: Full Ti
- me\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife\n
- \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882531/deportivo-tenerif
- e
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573569@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at CD Tenerife\nStatus: Matc
+ h Finished\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
+ dar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ Deportivo (2–0)
 DTSTART:20260911T184500Z
 DTEND:20260911T204500Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882522@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Deportivo\nStatus: Full
-  Time\nVenue: Riazor\, La Coruña\n\nFixtures by HerFixtures.com — Women
- 's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882522/real-madrid-depor
- tivo
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573579@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Deportivo\nStatus: Matc
+ h Finished\nVenue: Estadio Municipal de Riazor\n\nFixtures by HerFixtures.
+ com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Granada (3–0)
 DTSTART:20260920T100000Z
 DTEND:20260920T120000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882511@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Granada\nStatus: Full Tim
- e\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by HerFixt
- ures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882511/deportivo-granada
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573590@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Granada\nStatus: Match Fi
+ nished\nVenue: Ciudad Deportiva del Granada\, Granada\n\nFixtures by HerFi
+ xtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ Deportivo (1–1)
 DTSTART:20260927T160000Z
 DTEND:20260927T180000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882507@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Deportivo\nStatus: Full Ti
- me\nVenue: Riazor\, La Coruña\n\nFixtures by HerFixtures.com — Women's 
- Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882507/espanyol-deportiv
- o
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573594@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Deportivo\nStatus: Match F
+ inished\nVenue: Estadio Municipal de Riazor\n\nFixtures by HerFixtures.com
+  — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Atlético Madrid @ Deportivo (2–1)
 DTSTART:20261003T140000Z
 DTEND:20261003T160000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882499@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573602@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Deportivo\nStatus:
-  Full Time\nVenue: Riazor\, La Coruña\n\nFixtures by HerFixtures.com — 
- Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882499/atletico-madrid-d
- eportivo
+  Match Finished\nVenue: Estadio Municipal de Riazor\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Eibar (3–2)
 DTSTART:20261018T140000Z
 DTEND:20261018T160000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882488@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Eibar\nStatus: Full Time
- \nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sports 
- on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882488/deportivo-eibar
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573613@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Eibar\nStatus: Match Fini
+ shed\nVenue: Estadio Municipal de Ipurua\, Eibar\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Deportivo (1–2)
 DTSTART:20261025T114500Z
 DTEND:20261025T134500Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882482@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Deportivo\nStatus: Full Tim
- e\nVenue: Riazor\, La Coruña\n\nFixtures by HerFixtures.com — Women's S
- ports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882482/alaves-deportivo
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573619@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Deportivo\nStatus: Match Fi
+ nished\nVenue: Estadio Municipal de Riazor\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Madrid CFF (1–2)
 DTSTART:20261031T170000Z
 DTEND:20261031T190000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882472@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Madrid CFF\nStatus: Full 
- Time\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFixtu
- res.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882472/deportivo-madrid-
- cff
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573629@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Madrid CFF\nStatus: Match
+  Finished\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Deportivo (2–0)
 DTSTART:20261109T200000Z
 DTEND:20261109T220000Z
-DTSTAMP:20261116T152815Z
-UID:espn-liga-f-401882465@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nValencia at Deportivo\nStatus: Full Ti
- me\nVenue: Riazor\, La Coruña\n\nFixtures by HerFixtures.com — Women's 
- Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882465/valencia-deportiv
- o
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573636@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nValencia at Deportivo\nStatus: Match F
+ inished\nVenue: Estadio Municipal de Riazor\n\nFixtures by HerFixtures.com
+  — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Deportivo (1–1)
 DTSTART:20261115T170000Z
 DTEND:20261115T190000Z
-DTSTAMP:20261122T232916Z
-UID:espn-liga-f-401882459@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Deportivo\nStatus: Full T
- ime\nVenue: Riazor\, La Coruña\n\nFixtures by HerFixtures.com — Women's
-  Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882459/barcelona-deporti
- vo
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573641@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Deportivo\nStatus: Match 
+ Finished\nVenue: Estadio Municipal de Riazor\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ FC Badalona (1–2)
 DTSTART:20261121T110000Z
 DTEND:20261121T130000Z
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882446@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at FC Badalona\nStatus: Full
-  Time\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixture
- s.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882446/deportivo-fc-bada
- lona
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573648@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at FC Badalona\nStatus: Matc
+ h Finished\nVenue: Estadi Municipal de Badalona\, Badalona\n\nFixtures by 
+ HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Real Sociedad @ Deportivo
 DTSTART:20261209T170000Z
 DTEND:20261209T190000Z
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882442@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Deportivo\nStatus: Sc
- heduled\nVenue: Dépor Training Center Campo Arsenio Iglesias\, A Coruna\n
- \nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882442/real-sociedad-dep
- ortivo
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573660@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Deportivo\nStatus: No
+ t Started\nVenue: Estadio Municipal de Riazor\n\nFixtures by HerFixtures.c
+ om — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Dux Logroño (time TBC)
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882434@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Dux Logroño\nStatus: Sch
- eduled\nKick-off time not confirmed yet. Your calendar updates automatical
- ly once it is.\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.co
- m — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882434/deportivo-dux-log
- rono
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573666@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Dux Logroño\nStatus: Not
+  Started\nKick-off time not confirmed yet. Your calendar updates automatic
+ ally once it is.\n\nFixtures by HerFixtures.com — Women's Sports on Your
+  Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Athletic Club (time TBC)
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882428@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Athletic Club\nStatus: Sc
- heduled\nKick-off time not confirmed yet. Your calendar updates automatica
- lly once it is.\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtur
- es by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882428/deportivo-athleti
- c-club
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573672@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Athletic Club\nStatus: No
+ t Started\nKick-off time not confirmed yet. Your calendar updates automati
+ cally once it is.\nVenue: Lezama Facilities\, Lezama\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ Deportivo (time TBC)
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882418@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nEibar at Deportivo\nStatus: Scheduled
- \nKick-off time not confirmed yet. Your calendar updates automatically onc
- e it is.\nVenue: Dépor Training Center Campo Arsenio Iglesias\, A Coruna
- \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882418/eibar-deportivo
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573683@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nEibar at Deportivo\nStatus: Not Starte
+ d\nKick-off time not confirmed yet. Your calendar updates automatically on
+ ce it is.\nVenue: Estadio Municipal de Riazor\n\nFixtures by HerFixtures.c
+ om — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Sevilla (time TBC)
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882405@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Sevilla\nStatus: Schedule
- d\nKick-off time not confirmed yet. Your calendar updates automatically on
- ce it is.\nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixture
- s.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882405/deportivo-sevilla
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573695@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Sevilla\nStatus: Not Star
+ ted\nKick-off time not confirmed yet. Your calendar updates automatically 
+ once it is.\nVenue: Estadio Jesus Navas\, Sevilla\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Madrid CFF @ Deportivo (time TBC)
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882402@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Deportivo\nStatus: Sched
- uled\nKick-off time not confirmed yet. Your calendar updates automatically
-  once it is.\nVenue: Dépor Training Center Campo Arsenio Iglesias\, A Cor
- una\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882402/madrid-cff-deport
- ivo
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573699@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Deportivo\nStatus: Not S
+ tarted\nKick-off time not confirmed yet. Your calendar updates automatical
+ ly once it is.\nVenue: Estadio Municipal de Riazor\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Atlético Madrid (time TBC)
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882396@herfixtures.com
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573704@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Atlético Madrid\nStatus:
-  Scheduled\nKick-off time not confirmed yet. Your calendar updates automat
- ically once it is.\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá d
- e Henares\n\nFixtures by HerFixtures.com — Women's Sports on Your Calend
- ar
-URL:https://www.espn.com/soccer/match/_/gameId/401882396/deportivo-atletic
- o-madrid
+  Not Started\nKick-off time not confirmed yet. Your calendar updates autom
+ atically once it is.\n\nFixtures by HerFixtures.com — Women's Sports on 
+ Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ FC Badalona @ Deportivo (time TBC)
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882384@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Deportivo\nStatus: Sche
- duled\nKick-off time not confirmed yet. Your calendar updates automaticall
- y once it is.\nVenue: Dépor Training Center Campo Arsenio Iglesias\, A Co
- runa\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882384/fc-badalona-depor
- tivo
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573717@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Deportivo\nStatus: Not 
+ Started\nKick-off time not confirmed yet. Your calendar updates automatica
+ lly once it is.\nVenue: Estadio Municipal de Riazor\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Real Sociedad (time TBC)
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882374@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Real Sociedad\nStatus: Sc
- heduled\nKick-off time not confirmed yet. Your calendar updates automatica
- lly once it is.\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFi
- xtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882374/deportivo-real-so
- ciedad
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573726@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Real Sociedad\nStatus: No
+ t Started\nKick-off time not confirmed yet. Your calendar updates automati
+ cally once it is.\nVenue: Instalaciones de Zubieta\, Lasarte-Oria\n\nFixtu
+ res by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Espanyol (time TBC)
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882369@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Espanyol\nStatus: Schedul
- ed\nKick-off time not confirmed yet. Your calendar updates automatically o
- nce it is.\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by
-  HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882369/deportivo-espanyo
- l
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573732@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Espanyol\nStatus: Not Sta
+ rted\nKick-off time not confirmed yet. Your calendar updates automatically
+  once it is.\nVenue: Ciutat Esportiva Dani Jarque\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Deportivo (time TBC)
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882361@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nGranada at Deportivo\nStatus: Schedule
- d\nKick-off time not confirmed yet. Your calendar updates automatically on
- ce it is.\nVenue: Dépor Training Center Campo Arsenio Iglesias\, A Coruna
- \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882361/granada-deportivo
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573740@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nGranada at Deportivo\nStatus: Not Star
+ ted\nKick-off time not confirmed yet. Your calendar updates automatically 
+ once it is.\nVenue: Estadio Municipal de Riazor\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Deportivo (time TBC)
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882355@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Deportivo\nStatus: Sc
- heduled\nKick-off time not confirmed yet. Your calendar updates automatica
- lly once it is.\nVenue: Dépor Training Center Campo Arsenio Iglesias\, A 
- Coruna\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882355/athletic-club-dep
- ortivo
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573747@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Deportivo\nStatus: No
+ t Started\nKick-off time not confirmed yet. Your calendar updates automati
+ cally once it is.\nVenue: Estadio Municipal de Riazor\n\nFixtures by HerFi
+ xtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Alavés (time TBC)
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882348@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Alavés\nStatus: Schedule
- d\nKick-off time not confirmed yet. Your calendar updates automatically on
- ce it is.\nVenue: Ciudad Deportiva José Luis Compañón\, Vitoria-Gasteiz
- \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882348/deportivo-alaves
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573752@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Alavés\nStatus: Not Star
+ ted\nKick-off time not confirmed yet. Your calendar updates automatically 
+ once it is.\nVenue: Estadio Mendizorrotza\, Vitoria-Gasteiz\n\nFixtures by
+  HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Real Madrid (time TBC)
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882336@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Real Madrid\nStatus: Sche
- duled\nKick-off time not confirmed yet. Your calendar updates automaticall
- y once it is.\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by 
- HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882336/deportivo-real-ma
- drid
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573764@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Real Madrid\nStatus: Not 
+ Started\nKick-off time not confirmed yet. Your calendar updates automatica
+ lly once it is.\n\nFixtures by HerFixtures.com — Women's Sports on Your 
+ Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Deportivo (time TBC)
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882330@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Deportivo\nStatus: Sch
- eduled\nKick-off time not confirmed yet. Your calendar updates automatical
- ly once it is.\nVenue: Dépor Training Center Campo Arsenio Iglesias\, A C
- oruna\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882330/dux-logrono-depor
- tivo
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573770@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Deportivo\nStatus: Not
+  Started\nKick-off time not confirmed yet. Your calendar updates automatic
+ ally once it is.\nVenue: Estadio Municipal de Riazor\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Valencia (time TBC)
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882317@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Valencia\nStatus: Schedul
- ed\nKick-off time not confirmed yet. Your calendar updates automatically o
- nce it is.\nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFi
- xtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882317/deportivo-valenci
- a
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573783@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Valencia\nStatus: Not Sta
+ rted\nKick-off time not confirmed yet. Your calendar updates automatically
+  once it is.\nVenue: Estadio Antonio Puchades\, Valencia\n\nFixtures by He
+ rFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Tenerife @ Deportivo (time TBC)
+SUMMARY:⚽ CD Tenerife @ Deportivo (time TBC)
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882314@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nTenerife at Deportivo\nStatus: Schedul
- ed\nKick-off time not confirmed yet. Your calendar updates automatically o
- nce it is.\nVenue: Dépor Training Center Campo Arsenio Iglesias\, A Corun
- a\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882314/tenerife-deportiv
- o
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573786@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Deportivo\nStatus: Not 
+ Started\nKick-off time not confirmed yet. Your calendar updates automatica
+ lly once it is.\nVenue: Estadio Municipal de Riazor\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Barcelona (time TBC)
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882305@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Barcelona\nStatus: Schedu
- led\nKick-off time not confirmed yet. Your calendar updates automatically 
- once it is.\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixt
- ures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882305/deportivo-barcelo
- na
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573794@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Barcelona\nStatus: Not St
+ arted\nKick-off time not confirmed yet. Your calendar updates automaticall
+ y once it is.\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFi
+ xtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 END:VCALENDAR

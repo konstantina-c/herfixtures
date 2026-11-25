@@ -13,361 +13,347 @@ BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Madrid CFF (1–3)
 DTSTART:20260829T190000Z
 DTEND:20260829T210000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882535@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nGranada at Madrid CFF\nStatus: Full Ti
- me\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFixture
- s.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882535/granada-madrid-cf
- f
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573565@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nGranada at Madrid CFF\nStatus: Match F
+ inished\nVenue: Estadio Fernando Torres\, Fuenlabrada\n\nFixtures by HerFi
+ xtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Real Sociedad @ Granada (2–3)
 DTSTART:20260907T173000Z
 DTEND:20260907T193000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882528@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Granada\nStatus: Full
-  Time\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by Her
- Fixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882528/real-sociedad-gra
- nada
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573572@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Granada\nStatus: Matc
+ h Finished\nVenue: Ciudad Deportiva del Granada\, Granada\n\nFixtures by H
+ erFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Alavés (0–1)
 DTSTART:20260913T100000Z
 DTEND:20260913T120000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882524@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nGranada at Alavés\nStatus: Full Time
- \nVenue: Mendizorrotza\, Vitoria-Gasteiz\n\nFixtures by HerFixtures.com 
- — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882524/granada-alaves
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573576@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nGranada at Alavés\nStatus: Match Fini
+ shed\nVenue: Estadio Mendizorrotza\, Vitoria-Gasteiz\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Granada (3–0)
 DTSTART:20260920T100000Z
 DTEND:20260920T120000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882511@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Granada\nStatus: Full Tim
- e\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by HerFixt
- ures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882511/deportivo-granada
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573590@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Granada\nStatus: Match Fi
+ nished\nVenue: Ciudad Deportiva del Granada\, Granada\n\nFixtures by HerFi
+ xtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Granada @ FC Badalona (1–0)
 DTSTART:20260926T100000Z
 DTEND:20260926T120000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882504@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nGranada at FC Badalona\nStatus: Full T
- ime\nVenue: Nou Municipal de Palamós\, Girona\n\nFixtures by HerFixtures.
- com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882504/granada-fc-badalo
- na
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573593@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nGranada at FC Badalona\nStatus: Match 
+ Finished\nVenue: Estadi Municipal de Badalona\, Badalona\n\nFixtures by He
+ rFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ Granada (0–0)
 DTSTART:20261004T100000Z
 DTEND:20261004T120000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882496@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nEibar at Granada\nStatus: Full Time\nV
- enue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by HerFixtures
- .com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882496/eibar-granada
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573604@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nEibar at Granada\nStatus: Match Finish
+ ed\nVenue: Ciudad Deportiva del Granada\, Granada\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Dux Logroño (3–2)
 DTSTART:20261017T100000Z
 DTEND:20261017T120000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882489@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nGranada at Dux Logroño\nStatus: Full 
- Time\nVenue: Las Gaunas\, Logroño\n\nFixtures by HerFixtures.com — Wome
- n's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882489/granada-dux-logro
- no
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573612@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nGranada at Dux Logroño\nStatus: Match
+  Finished\nVenue: Estadio Las Gaunas\n\nFixtures by HerFixtures.com — Wo
+ men's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Barcelona (0–3)
 DTSTART:20261024T183000Z
 DTEND:20261024T203000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882479@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nGranada at Barcelona\nStatus: Full Tim
- e\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures.com 
- — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882479/granada-barcelona
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573618@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nGranada at Barcelona\nStatus: Match Fi
+ nished\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFixtures.
+ com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Atlético Madrid @ Granada (1–1)
 DTSTART:20261031T110000Z
 DTEND:20261031T130000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882473@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Granada\nStatus: F
- ull Time\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by 
- HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882473/atletico-madrid-g
- ranada
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573628@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Granada\nStatus: M
+ atch Finished\nVenue: Ciudad Deportiva del Granada\, Granada\n\nFixtures b
+ y HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ Granada (1–0)
 DTSTART:20261107T110000Z
 DTEND:20261107T130000Z
-DTSTAMP:20261115T092440Z
-UID:espn-liga-f-401882461@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Granada\nStatus: Full Time
- \nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by HerFixtu
- res.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882461/espanyol-granada
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573639@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Granada\nStatus: Match Fin
+ ished\nVenue: Ciudad Deportiva del Granada\, Granada\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Valencia (0–0)
 DTSTART:20261115T171500Z
 DTEND:20261115T191500Z
-DTSTAMP:20261122T232916Z
-UID:espn-liga-f-401882453@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nGranada at Valencia\nStatus: Full Time
- \nVenue: Estadio Antonio Puchades\, Paterna\n\nFixtures by HerFixtures.com
-  — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882453/granada-valencia
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573647@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nGranada at Valencia\nStatus: Match Fin
+ ished\nVenue: Estadio Antonio Puchades\, Valencia\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ Granada (5–1)
 DTSTART:20261122T110000Z
 DTEND:20261122T130000Z
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882447@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Granada\nStatus: Full T
- ime\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by HerFi
- xtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882447/real-madrid-grana
- da
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573654@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Granada\nStatus: Match 
+ Finished\nVenue: Ciudad Deportiva del Granada\, Granada\n\nFixtures by Her
+ Fixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Sevilla
 DTSTART:20261209T190000Z
 DTEND:20261209T210000Z
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882437@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nGranada at Sevilla\nStatus: Scheduled
- \nVenue: Estadio Jesús Navas\, Sevilla\n\nFixtures by HerFixtures.com —
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573663@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nGranada at Sevilla\nStatus: Not Starte
+ d\nVenue: Estadio Jesus Navas\, Sevilla\n\nFixtures by HerFixtures.com —
   Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882437/granada-sevilla
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Granada (time TBC)
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882432@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Granada\nStatus: Sche
- duled\nKick-off time not confirmed yet. Your calendar updates automaticall
- y once it is.\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixture
- s by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882432/athletic-club-gra
- nada
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573668@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Granada\nStatus: Not 
+ Started\nKick-off time not confirmed yet. Your calendar updates automatica
+ lly once it is.\nVenue: Ciudad Deportiva del Granada\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Tenerife @ Granada (time TBC)
+SUMMARY:⚽ CD Tenerife @ Granada (time TBC)
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882425@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nTenerife at Granada\nStatus: Scheduled
- \nKick-off time not confirmed yet. Your calendar updates automatically onc
- e it is.\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by 
- HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882425/tenerife-granada
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573676@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Granada\nStatus: Not St
+ arted\nKick-off time not confirmed yet. Your calendar updates automaticall
+ y once it is.\nVenue: Ciudad Deportiva del Granada\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Real Sociedad (time TBC)
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882414@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nGranada at Real Sociedad\nStatus: Sche
- duled\nKick-off time not confirmed yet. Your calendar updates automaticall
- y once it is.\nVenue: Estadio Zubieta XXI\, Donostia-San Sebastian\n\nFixt
- ures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882414/granada-real-soci
- edad
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573686@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nGranada at Real Sociedad\nStatus: Not 
+ Started\nKick-off time not confirmed yet. Your calendar updates automatica
+ lly once it is.\nVenue: Instalaciones de Zubieta\, Lasarte-Oria\n\nFixture
+ s by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Granada (time TBC)
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882409@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Granada\nStatus: Scheduled
- \nKick-off time not confirmed yet. Your calendar updates automatically onc
- e it is.\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by 
- HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882409/alaves-granada
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573692@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Granada\nStatus: Not Starte
+ d\nKick-off time not confirmed yet. Your calendar updates automatically on
+ ce it is.\nVenue: Ciudad Deportiva del Granada\n\nFixtures by HerFixtures.
+ com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Espanyol (time TBC)
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882401@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nGranada at Espanyol\nStatus: Scheduled
- \nKick-off time not confirmed yet. Your calendar updates automatically onc
- e it is.\nVenue: Ciutat Esportiva Dani Jarque\, Barcelona\n\nFixtures by H
- erFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882401/granada-espanyol
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573700@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nGranada at Espanyol\nStatus: Not Start
+ ed\nKick-off time not confirmed yet. Your calendar updates automatically o
+ nce it is.\nVenue: Ciutat Esportiva Dani Jarque\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Granada (time TBC)
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882393@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Granada\nStatus: Schedule
- d\nKick-off time not confirmed yet. Your calendar updates automatically on
- ce it is.\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by
-  HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882393/barcelona-granada
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573708@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Granada\nStatus: Not Star
+ ted\nKick-off time not confirmed yet. Your calendar updates automatically 
+ once it is.\nVenue: Ciudad Deportiva del Granada\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Eibar (time TBC)
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882383@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nGranada at Eibar\nStatus: Scheduled\nK
- ick-off time not confirmed yet. Your calendar updates automatically once i
- t is.\nVenue: Ipurua\, Eibar\n\nFixtures by HerFixtures.com — Women's Sp
- orts on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882383/granada-eibar
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573718@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nGranada at Eibar\nStatus: Not Started\
+ nKick-off time not confirmed yet. Your calendar updates automatically once
+  it is.\nVenue: Estadio Municipal de Ipurua\, Eibar\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Granada (time TBC)
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882378@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Granada\nStatus: Scheduled
- \nKick-off time not confirmed yet. Your calendar updates automatically onc
- e it is.\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by 
- HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882378/sevilla-granada
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573723@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Granada\nStatus: Not Starte
+ d\nKick-off time not confirmed yet. Your calendar updates automatically on
+ ce it is.\nVenue: Ciudad Deportiva del Granada\n\nFixtures by HerFixtures.
+ com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ FC Badalona @ Granada (time TBC)
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882367@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Granada\nStatus: Schedu
- led\nKick-off time not confirmed yet. Your calendar updates automatically 
- once it is.\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures 
- by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882367/fc-badalona-grana
- da
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573733@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Granada\nStatus: Not St
+ arted\nKick-off time not confirmed yet. Your calendar updates automaticall
+ y once it is.\nVenue: Ciudad Deportiva del Granada\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Deportivo (time TBC)
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882361@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nGranada at Deportivo\nStatus: Schedule
- d\nKick-off time not confirmed yet. Your calendar updates automatically on
- ce it is.\nVenue: Dépor Training Center Campo Arsenio Iglesias\, A Coruna
- \n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882361/granada-deportivo
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573740@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nGranada at Deportivo\nStatus: Not Star
+ ted\nKick-off time not confirmed yet. Your calendar updates automatically 
+ once it is.\nVenue: Estadio Municipal de Riazor\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Atlético Madrid (time TBC)
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882356@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nGranada at Atlético Madrid\nStatus: S
- cheduled\nKick-off time not confirmed yet. Your calendar updates automatic
- ally once it is.\nVenue: Centro Deportivo Alcalá de Henares\, Alcalá de 
- Henares\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882356/granada-atletico-
- madrid
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573744@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nGranada at Atlético Madrid\nStatus: N
+ ot Started\nKick-off time not confirmed yet. Your calendar updates automat
+ ically once it is.\n\nFixtures by HerFixtures.com — Women's Sports on Yo
+ ur Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Madrid CFF @ Granada (time TBC)
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882343@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Granada\nStatus: Schedul
- ed\nKick-off time not confirmed yet. Your calendar updates automatically o
- nce it is.\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures b
- y HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882343/madrid-cff-granad
- a
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573757@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Granada\nStatus: Not Sta
+ rted\nKick-off time not confirmed yet. Your calendar updates automatically
+  once it is.\nVenue: Ciudad Deportiva del Granada\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Athletic Club (time TBC)
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882340@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nGranada at Athletic Club\nStatus: Sche
- duled\nKick-off time not confirmed yet. Your calendar updates automaticall
- y once it is.\nVenue: Instalaciones de Lezama Campo 2\, Lezama\n\nFixtures
-  by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882340/granada-athletic-
- club
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573760@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nGranada at Athletic Club\nStatus: Not 
+ Started\nKick-off time not confirmed yet. Your calendar updates automatica
+ lly once it is.\nVenue: Lezama Facilities\, Lezama\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Granada (time TBC)
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882327@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nValencia at Granada\nStatus: Scheduled
- \nKick-off time not confirmed yet. Your calendar updates automatically onc
- e it is.\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures by 
- HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882327/valencia-granada
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573773@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nValencia at Granada\nStatus: Not Start
+ ed\nKick-off time not confirmed yet. Your calendar updates automatically o
+ nce it is.\nVenue: Ciudad Deportiva del Granada\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Real Madrid (time TBC)
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882319@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nGranada at Real Madrid\nStatus: Schedu
- led\nKick-off time not confirmed yet. Your calendar updates automatically 
- once it is.\nVenue: Alfredo Di Stéfano Stadium\, Madrid\n\nFixtures by He
- rFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882319/granada-real-madr
- id
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573781@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nGranada at Real Madrid\nStatus: Not St
+ arted\nKick-off time not confirmed yet. Your calendar updates automaticall
+ y once it is.\n\nFixtures by HerFixtures.com — Women's Sports on Your Ca
+ lendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Granada (time TBC)
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882311@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Granada\nStatus: Sched
- uled\nKick-off time not confirmed yet. Your calendar updates automatically
-  once it is.\nVenue: Ciudad Deportiva del Granada CF\, Granada\n\nFixtures
-  by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882311/dux-logrono-grana
- da
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573789@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Granada\nStatus: Not S
+ tarted\nKick-off time not confirmed yet. Your calendar updates automatical
+ ly once it is.\nVenue: Ciudad Deportiva del Granada\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Granada @ Tenerife (time TBC)
+SUMMARY:⚽ Granada @ CD Tenerife (time TBC)
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
-DTSTAMP:20261125T020932Z
-UID:espn-liga-f-401882307@herfixtures.com
-DESCRIPTION:Spanish Liga F 2026/27\nGranada at Tenerife\nStatus: Scheduled
- \nKick-off time not confirmed yet. Your calendar updates automatically onc
- e it is.\nVenue: Estadio Heliodoro Rodríguez López\, Santa Cruz de Tener
- ife\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401882307/granada-tenerife
+DTSTAMP:20261125T085047Z
+UID:af-liga-f-1573795@herfixtures.com
+DESCRIPTION:Spanish Liga F 2026/27\nGranada at CD Tenerife\nStatus: Not St
+ arted\nKick-off time not confirmed yet. Your calendar updates automaticall
+ y once it is.\n\nFixtures by HerFixtures.com — Women's Sports on Your Ca
+ lendar
+URL:https://herfixtures.com
 END:VEVENT
 END:VCALENDAR
