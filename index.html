@@ -925,7 +925,7 @@ body {
 .mhero__results li.mhero__res-child { min-height: 44px; padding-left: 52px; }
 .mhero__res-sub { font-size: 14px; font-weight: 600; color: var(--text2); }
 .mhero__results li[aria-selected="true"] .mhero__res-sub, .mhero__results li:hover .mhero__res-sub { color: var(--text); }
-.mhero__results li.mhero__res-empty { cursor: default; color: var(--text2); font-size: 14px; background: none; }
+.mhero__results li.mhero__res-empty { display: block; cursor: default; color: var(--text2); font-size: 14px; line-height: 1.5; background: none; }
 .mhero__res-empty a { color: var(--brand-fg); }
 
 /* Map card */
@@ -1404,7 +1404,7 @@ body {
     <div class="divider"></div>
 
     <!-- Email capture -->
-    <div class="email-wrap">
+    <div class="email-wrap" id="tell-us">
       <div class="email-section-title">New competitions<br>added regularly.</div>
       <div class="email-sub">Your league not here yet? Tell us.</div>
       <div class="email-fields">
@@ -2887,7 +2887,7 @@ window.addEventListener('resize', positionLabels);
     results = [];
     const shown = blocks.slice(0, 6);
     if (!shown.length) {
-      list.innerHTML = '<li class="mhero__res-empty" role="option" aria-disabled="true">No match yet. <a href="#live-feeds">Browse all competitions</a></li>';
+      list.innerHTML = '<li class="mhero__res-empty" role="option" aria-disabled="true">No matches found. Ironic, we know. Check the spelling, or <a href="#tell-us" onclick="setTimeout(() => document.getElementById(\'league-input-main\').focus({ preventScroll: true }), 400)">tell us who to add</a>.</li>';
     }
     const add = '<span class="mhero__res-add" aria-hidden="true">+ Add</span>';
     const option = (it, html, cls) => {
