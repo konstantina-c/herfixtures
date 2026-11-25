@@ -8,7 +8,8 @@ with Konstantina, Nov 24 2026):
   1. Every competition in feeds/manifest.json appears automatically when it has
      games in the windows below; frozen feeds never do.
   2. Per competition (dropdown choice): results from the last 3 days, games in the
-     next 7 days, up to 10 each.
+     next 7 days, up to 10 each. Every competition with a game still to play is listed;
+     with nothing in the windows it carries next_date ("Next games Wed 16 Dec").
   3. "All competitions" (default): results from the last 3 days, at most 3 per
      competition; games in the next 3 days, at most 2 per competition; 12 cards
      max per section. Most recent results first, soonest games first.
@@ -112,6 +113,7 @@ def league_games(feed: dict, cfg: dict, now: datetime) -> dict | None:
     r_from = now - timedelta(days=RULES["results_days"])
     u_to = now + timedelta(days=RULES["upcoming_days"])
     results, upcoming, sport = [], [], None
+    next_date = None   # first unplayed game after now (any distance): "Next games Wed 16 Dec"
 
     for ev in cal.walk("VEVENT"):
         g = parse_summary(str(ev.get("summary", "")))
@@ -141,15 +143,17 @@ def league_games(feed: dict, cfg: dict, now: datetime) -> dict | None:
                 top["score"], bottom["score"] = s_top, s_bot
                 game["winner"] = "top" if s_top > s_bot else "bottom" if s_bot > s_top else "draw"
                 results.append(game)
-        elif (when >= now if not tbc else day >= now.date()) and when <= u_to:
-            upcoming.append(game)
+        elif (when >= now if not tbc else day >= now.date()):
+            next_date = min(next_date, day.isoformat()) if next_date else day.isoformat()
+            if when <= u_to:
+                upcoming.append(game)
 
     results.sort(key=lambda x: (x["kickoff"] or x["date"]), reverse=True)
     upcoming.sort(key=lambda x: (x["date"], x["tbc"], x["kickoff"] or ""))
     n = RULES["per_league_max"]
     name = cfg.get("labels", {}).get(feed["id"], feed["name"])
     return {"id": feed["id"], "name": name, "short": cfg.get("short", {}).get(feed["id"], name),
-            "sport": sport or "football", "results": results[:n], "upcoming": upcoming[:n]}
+            "sport": sport or "football", "results": results[:n], "upcoming": upcoming[:n], "next_date": next_date}
 
 
 def all_mix(leagues: list[dict], now: datetime) -> tuple[list, list]:
@@ -196,7 +200,9 @@ def main() -> None:
     leagues = []
     for fid in order:
         lg = league_games(feeds[fid], cfg, now)
-        if lg and (lg["results"] or lg["upcoming"]):
+        # Listed when it has games in the windows, or is mid-season with a next game later
+        # (e.g. UCL between matchdays): the dropdown then shows "Next games <date>".
+        if lg and (lg["results"] or lg["upcoming"] or lg["next_date"]):
             leagues.append(lg)
         print(f"  {fid}: {len(lg['results']) if lg else 0} results, {len(lg['upcoming']) if lg else 0} upcoming")
 

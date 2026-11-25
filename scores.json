@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T02:10:30Z",
+  "updated": "2026-11-25T08:01:01Z",
   "version": 2,
   "rules": {
     "results_days": 3,
@@ -82,7 +82,8 @@
           "winner": "top"
         }
       ],
-      "upcoming": []
+      "upcoming": [],
+      "next_date": "2026-12-11"
     },
     {
       "id": "liga-f",
@@ -171,7 +172,8 @@
           "winner": "bottom"
         }
       ],
-      "upcoming": []
+      "upcoming": [],
+      "next_date": "2026-12-08"
     },
     {
       "id": "wsl",
@@ -260,7 +262,8 @@
           "winner": "bottom"
         }
       ],
-      "upcoming": []
+      "upcoming": [],
+      "next_date": "2026-12-11"
     },
     {
       "id": "premiere-ligue",
@@ -301,32 +304,26 @@
           "winner": "top"
         }
       ],
-      "upcoming": []
+      "upcoming": [],
+      "next_date": "2026-12-11"
     },
     {
       "id": "a-league-women",
       "name": "A-League Women",
       "short": "A-League",
       "sport": "football",
-      "results": [
-        {
-          "kickoff": "2026-11-22T04:00:00Z",
-          "date": "2026-11-22",
-          "tbc": false,
-          "top": {
-            "name": "Melbourne V",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20284.png",
-            "score": 0
-          },
-          "bottom": {
-            "name": "Perth Glory",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20282.png",
-            "score": 0
-          },
-          "winner": "draw"
-        }
-      ],
-      "upcoming": []
+      "results": [],
+      "upcoming": [],
+      "next_date": "2026-12-11"
+    },
+    {
+      "id": "liga-mx-femenil",
+      "name": "Liga MX Femenil",
+      "short": "Liga MX",
+      "sport": "football",
+      "results": [],
+      "upcoming": [],
+      "next_date": "2026-12-09"
     },
     {
       "id": "eredivisie-women",
@@ -415,7 +412,8 @@
           "winner": "draw"
         }
       ],
-      "upcoming": []
+      "upcoming": [],
+      "next_date": "2026-12-20"
     },
     {
       "id": "serie-a-women",
@@ -488,7 +486,8 @@
           "winner": "bottom"
         }
       ],
-      "upcoming": []
+      "upcoming": [],
+      "next_date": "2026-12-12"
     },
     {
       "id": "ncaa-wbb",
@@ -798,7 +797,17 @@
           },
           "winner": null
         }
-      ]
+      ],
+      "next_date": "2026-11-25"
+    },
+    {
+      "id": "ucl-women",
+      "name": "Women's Champions League",
+      "short": "Women's UCL",
+      "sport": "football",
+      "results": [],
+      "upcoming": [],
+      "next_date": "2026-12-16"
     },
     {
       "id": "euroleague-women",
@@ -919,7 +928,8 @@
           },
           "winner": null
         }
-      ]
+      ],
+      "next_date": "2026-11-25"
     }
   ],
   "competitions": {
