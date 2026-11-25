@@ -584,8 +584,6 @@ body {
 /* Strip wrapper */
 #scores-strip {
   padding: 16px 20px;
-  border-bottom: 1px solid var(--border);
-  transition: border-color 0.4s;
   position: relative;
 }
 
@@ -810,9 +808,9 @@ body {
   --map-bg: #11112A; --map-dot: #5E86FF; --map-dot-op: 0.42;
   --map-border: rgba(255,255,255,0.08); --pin-off: #4A4A70;
 }
-#live-page .hero-slot.mhero { max-width: 1280px; margin: 0 auto; padding: 36px 20px 48px; text-align: center; overflow-x: clip; }
-@media (min-width: 768px)  { #live-page .hero-slot.mhero { padding: 56px 48px 56px; } }
-@media (min-width: 1280px) { #live-page .hero-slot.mhero { padding: 64px 80px 64px; } }
+#live-page .hero-slot.mhero { max-width: 1280px; margin: 0 auto; padding: 12px 20px 48px; text-align: center; overflow-x: clip; }
+@media (min-width: 768px)  { #live-page .hero-slot.mhero { padding: 32px 48px 56px; } }
+@media (min-width: 1280px) { #live-page .hero-slot.mhero { padding: 40px 80px 64px; } }
 .mhero__title {
   font-family: 'Zalando Sans Expanded', sans-serif; font-weight: 900;
   font-size: clamp(30px, 6vw, 60px); line-height: 1.06; letter-spacing: -0.02em;
@@ -829,28 +827,77 @@ body {
 
 /* Search pill overlaps the top edge of the map card by half its height */
 .mhero__stage { position: relative; margin-top: 28px; padding-top: 31px; }
+/* Resting: compact. Open (focused or holding text): full size, after a two-colour
+   light sweeps once around the border (blue + coral, the brand gradient). */
+@property --mh-angle { syntax: '<angle>'; initial-value: 0deg; inherits: false; }
 .mhero__search {
-  position: absolute; top: 0; left: 50%; transform: translateX(-50%); z-index: 5;
-  width: min(94%, 760px); height: 62px; display: flex; align-items: center; gap: 10px;
-  padding: 0 8px 0 20px; text-align: left;
+  position: absolute; top: 4px; left: 50%; transform: translateX(-50%); z-index: 5;
+  width: min(88%, 720px); height: 54px; display: flex; align-items: center; gap: 10px;
+  padding: 0 6px 0 18px; text-align: left;
   background: var(--card); border: 1px solid var(--border2); border-radius: 999px;
   box-shadow: 0 18px 50px rgba(6,6,15,0.18);
+  transition: width 0.45s cubic-bezier(0.2,0.8,0.2,1), height 0.45s cubic-bezier(0.2,0.8,0.2,1),
+              top 0.45s cubic-bezier(0.2,0.8,0.2,1), border-color 0.3s, box-shadow 0.3s;
 }
-.mhero__search:focus-within { border-color: var(--brand-fg); }
+.mhero__search.is-open {
+  top: 0; width: min(94%, 760px); height: 62px;
+  border-color: var(--brand-fg);
+  box-shadow: 0 18px 50px rgba(6,6,15,0.18), 0 0 0 4px rgba(94,134,255,0.16);
+}
+.mhero__search::before {
+  content: ''; position: absolute; inset: -3px; border-radius: inherit; padding: 3px; pointer-events: none; opacity: 0;
+  background: conic-gradient(from var(--mh-angle), transparent 0deg, rgba(7,62,227,0.25) 20deg, #073EE3 75deg, #5E86FF 95deg, transparent 120deg,
+                             transparent 180deg, rgba(255,77,77,0.25) 200deg, #FF4D4D 255deg, #FF8A8A 275deg, transparent 300deg);
+  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor; mask-composite: exclude;
+}
+.mhero__search.is-arriving::before { animation: mh-sweep 1s cubic-bezier(0.45,0,0.2,1) forwards; }
+@keyframes mh-sweep {
+  0%   { --mh-angle: 0deg;   opacity: 0; }
+  12%  { opacity: 1; }
+  78%  { opacity: 1; }
+  100% { --mh-angle: 450deg; opacity: 0; }
+}
 .mhero__search-icon { width: 20px; height: 20px; flex-shrink: 0; fill: none; stroke: var(--muted); stroke-width: 2; stroke-linecap: round; }
 .mhero__search input {
   flex: 1; min-width: 0; height: 100%; border: 0; background: transparent; outline: none;
   font: 500 16px 'DM Sans', sans-serif; color: var(--text);
 }
-.mhero__search input::placeholder { color: var(--text2); opacity: 1; }
+/* Placeholder ("Try …"): quieter, just above 4.5:1 (light #72729A on white 4.58:1,
+   dark #8080A8 on #181830 4.60:1); it fades out when the search is focused. */
+.mhero__search input::placeholder { color: #72729A; opacity: 1; transition: opacity 0.35s ease; }
+[data-theme="dark"] .mhero__search input::placeholder { color: #8080A8; }
+.mhero__search input:focus::placeholder { opacity: 0; }
 .mhero__search input::-webkit-search-cancel-button { -webkit-appearance: none; }
-.mhero__go { flex-shrink: 0; width: 46px; height: 46px; border-radius: 50%; border: 0; background: var(--blue); display: grid; place-items: center; cursor: pointer; }
+.mhero__go { flex-shrink: 0; width: 42px; height: 42px; border-radius: 50%; border: 0; background: var(--blue); display: grid; place-items: center; cursor: pointer; transition: width 0.45s, height 0.45s; }
+.mhero__search.is-open .mhero__go { width: 46px; height: 46px; }
+/* Clear slides out from under the submit arrow (the arrow sits above it) and slides
+   back under it when the box is emptied. Its space opens/closes with the same easing. */
+.mhero__go { position: relative; z-index: 2; }
+.mhero__clear {
+  position: relative; z-index: 1;
+  flex-shrink: 0; height: 32px; border-radius: 999px; border: 0; cursor: pointer; white-space: nowrap;
+  background: var(--bg3); color: var(--text2); font: 600 13px 'DM Sans', sans-serif;
+  max-width: 0; padding: 0; margin-right: -10px; overflow: hidden;
+  opacity: 0; transform: translateX(48px) scale(0.92); pointer-events: none;
+  transition: max-width 0.8s cubic-bezier(0.22,1,0.36,1), padding 0.8s cubic-bezier(0.22,1,0.36,1),
+              margin 0.8s cubic-bezier(0.22,1,0.36,1), transform 0.8s cubic-bezier(0.22,1,0.36,1),
+              opacity 0.6s ease;
+}
+.mhero__search.has-text .mhero__clear {
+  max-width: 80px; padding: 0 12px; margin-right: 0;
+  opacity: 1; transform: none; pointer-events: auto;
+}
+.mhero__clear:hover { color: var(--text); }
+.mhero__clear:focus-visible { outline: 2px solid var(--brand-fg); outline-offset: 2px; }
 .mhero__go svg { width: 20px; height: 20px; fill: none; stroke: #fff; stroke-width: 2.2; stroke-linecap: round; stroke-linejoin: round; }
 @media (min-width: 768px) {
   .mhero__stage { padding-top: 38px; }
-  .mhero__search { height: 76px; padding: 0 12px 0 26px; }
+  .mhero__search { top: 8px; width: min(90%, 720px); height: 60px; padding: 0 8px 0 24px; }
+  .mhero__search.is-open { top: 0; width: min(94%, 760px); height: 76px; padding: 0 12px 0 26px; }
   .mhero__search input { font-size: 18px; }
-  .mhero__go { width: 52px; height: 52px; }
+  .mhero__go { width: 46px; height: 46px; }
+  .mhero__search.is-open .mhero__go { width: 52px; height: 52px; }
 }
 .mhero__results {
   position: absolute; top: calc(100% + 8px); left: 0; right: 0; list-style: none;
@@ -909,6 +956,10 @@ body {
 }
 .mhero__cap-add:focus-visible { outline: 2px solid var(--brand-fg); outline-offset: 3px; }
 
+/* API-Football's Juventus crest is a white outline: invert it to black in light mode
+   (pickers, Scores Strip, search results). */
+:root:not([data-theme="dark"]) img[src$="/football/teams/1886.png"] { filter: invert(1); }
+
 /* Controls */
 .mhero__controls { display: flex; justify-content: center; gap: 10px; margin-top: 16px; }
 .mhero__ctl { width: 44px; height: 44px; border-radius: 50%; border: 0; background: var(--bg3); color: var(--text); display: grid; place-items: center; cursor: pointer; }
@@ -919,6 +970,8 @@ body {
 .mhero__go:focus-visible, .mhero__ctl:focus-visible { outline: 2px solid var(--brand-fg); outline-offset: 3px; }
 .mhero__sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 @media (prefers-reduced-motion: reduce) {
+  .mhero__search, .mhero__go, .mhero__clear { transition: none; }
+  .mhero__search.is-arriving::before { animation: none; }
   .mhero__world { transition: none; }
   .mhero__pin.is-featured::after { display: none; animation: none; }
 }
@@ -1008,7 +1061,7 @@ body {
     <!-- Hero — headline, search, world map of every competition (design: Figma "Homepage v2.0", page 6 · Minimal) -->
     <section class="hero-slot mhero" id="live-hero" aria-labelledby="mhero-title">
       <h1 class="mhero__title" id="mhero-title">Every match, on your calendar</h1>
-      <p class="mhero__sub">Never miss a kick-off again. <span id="mhero-count">13</span> competitions, synced to your calendar in your time zone, for free.</p>
+      <p class="mhero__sub">Never miss a kick-off again. <span id="mhero-count">14</span> competitions, synced to your calendar in your time zone.</p>
 
       <div class="mhero__stage">
         <form class="mhero__search" role="search" autocomplete="off" onsubmit="return false;">
@@ -1016,6 +1069,7 @@ body {
           <svg class="mhero__search-icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
           <input id="mhero-q" type="search" role="combobox" aria-expanded="false" aria-controls="mhero-results"
                  aria-autocomplete="list" placeholder="Search a team or competition" enterkeyhint="search">
+          <button type="button" class="mhero__clear" id="mhero-clear" tabindex="-1" aria-hidden="true">Clear</button>
           <button type="submit" class="mhero__go" aria-label="Search">
             <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
           </button>
@@ -2591,6 +2645,13 @@ window.addEventListener('resize', positionLabels);
     { id: 'a-league-women',    cfg: () => A_LEAGUE_WOMEN_CONFIG,   name: 'A-League Women',                x: 90.64, y: 88.17 },
   ];
   const AWAY_FIRST = new Set(['nwsl', 'wnba', 'ncaa-wbb']);
+  // Extra words a visitor might type for a country (search matches these too).
+  const COUNTRY_ALIASES = {
+    'Germany': 'deutschland german', 'Spain': 'espana spanish', 'England': 'uk united kingdom britain english',
+    'France': 'french', 'Netherlands': 'holland dutch nederland', 'Italy': 'italia italian',
+    'Europe': 'european uefa', 'USA': 'us united states america american', 'Mexico': 'mexican',
+    'Australia & New Zealand': 'australian aussie nz',
+  };
   const COUNTRY = {
     'frauen-bundesliga': 'Germany', 'liga-f': 'Spain', 'wsl': 'England', 'premiere-ligue': 'France',
     'eredivisie-women': 'Netherlands', 'serie-a-women': 'Italy', 'ucl-women': 'Europe', 'euroleague-women': 'Europe',
@@ -2733,7 +2794,9 @@ window.addEventListener('resize', positionLabels);
     index = [];
     COMPS.forEach(c => {
       let cfg; try { cfg = c.cfg(); } catch (e) { return; }
-      index.push({ kind: 'comp', comp: c, cfg, name: c.name, meta: 'Competition', keys: norm(c.name + ' ' + (c.short || '')), icon: (cfg.teams[0] || {}).emoji || '⚽' });
+      const where = COUNTRY[c.id] || '';
+      index.push({ kind: 'comp', comp: c, cfg, name: c.name, meta: where ? `Competition · ${where}` : 'Competition',
+                   keys: norm([c.name, c.short || '', where, COUNTRY_ALIASES[where] || ''].join(' ')), icon: (cfg.teams[0] || {}).emoji || '⚽' });
       cfg.teams.forEach(t => {
         if (t.slug === cfg.leagueSlug) return;
         index.push({ kind: 'team', comp: c, cfg, team: t, name: t.name, meta: c.short || c.name, keys: norm(t.name), logo: t.logo, icon: t.emoji });
@@ -2791,13 +2854,34 @@ window.addEventListener('resize', positionLabels);
     if (tile && !tile.classList.contains('is-selected')) tile.click();
     if (tile) tile.scrollIntoView({ block: 'nearest' });
   }
-  input.addEventListener('input', render);
-  input.addEventListener('focus', () => { if (input.value.trim()) render(); });
-  input.addEventListener('blur', () => setTimeout(close, 120));
+  const pill = input.form;
+  pill.addEventListener('animationend', () => pill.classList.remove('is-arriving'));
+  const clearBtn = $('mhero-clear');
+  function syncClear() {
+    const has = !!input.value;
+    pill.classList.toggle('has-text', has);
+    clearBtn.tabIndex = has ? 0 : -1;
+    clearBtn.setAttribute('aria-hidden', has ? 'false' : 'true');
+    clearBtn.setAttribute('aria-label', 'Clear search');
+  }
+  clearBtn.addEventListener('mousedown', e => e.preventDefault());   // keep focus in the input
+  clearBtn.addEventListener('click', () => { input.value = ''; syncClear(); close(); input.focus(); });
+  input.addEventListener('input', () => { syncClear(); render(); });
+  input.addEventListener('focus', () => {
+    if (!pill.classList.contains('is-open')) {
+      pill.classList.add('is-open');
+      if (!reduceMotion) pill.classList.add('is-arriving');
+    }
+    if (input.value.trim()) render();
+  });
+  input.addEventListener('blur', () => setTimeout(() => {
+    close();
+    if (document.activeElement !== input && !input.value.trim()) pill.classList.remove('is-open', 'is-arriving');
+  }, 120));
   input.addEventListener('keydown', e => {
     if (e.key === 'ArrowDown') { e.preventDefault(); if (list.hidden) render(); highlight(active + 1); }
     else if (e.key === 'ArrowUp') { e.preventDefault(); highlight(active - 1); }
-    else if (e.key === 'Escape') { close(); }
+    else if (e.key === 'Escape') { e.preventDefault(); close(); input.blur(); }
     else if (e.key === 'Enter') {
       e.preventDefault();
       if (!input.value.trim()) return;
