@@ -787,6 +787,9 @@ body {
   transition: color 0.4s; letter-spacing: -0.01em;
 }
 .gc-score.loser { color: var(--muted); }
+.gc-next { display: flex; flex-direction: column; gap: 4px; min-height: 64px; justify-content: center; }
+.gc-next-title { font-size: 16px; font-weight: 700; color: var(--text); }
+.gc-next-sub { font-size: 13px; color: var(--muted); }
 
 /* Responsive: same side spacing as the top bar and hero (20 / 48 / 80px) */
 @media (min-width: 768px) {
@@ -880,9 +883,9 @@ body {
   background: var(--bg3); color: var(--text2); font: 600 13px 'DM Sans', sans-serif;
   max-width: 0; padding: 0; margin-right: -10px; overflow: hidden;
   opacity: 0; transform: translateX(48px) scale(0.92); pointer-events: none;
-  transition: max-width 0.8s cubic-bezier(0.22,1,0.36,1), padding 0.8s cubic-bezier(0.22,1,0.36,1),
-              margin 0.8s cubic-bezier(0.22,1,0.36,1), transform 0.8s cubic-bezier(0.22,1,0.36,1),
-              opacity 0.6s ease;
+  transition: max-width 1.1s cubic-bezier(0.22,1,0.36,1), padding 1.1s cubic-bezier(0.22,1,0.36,1),
+              margin 1.1s cubic-bezier(0.22,1,0.36,1), transform 1.1s cubic-bezier(0.22,1,0.36,1),
+              opacity 0.8s ease;
 }
 .mhero__search.has-text .mhero__clear {
   max-width: 80px; padding: 0 12px; margin-right: 0;
@@ -911,6 +914,14 @@ body {
 .mhero__res-text { display: flex; flex-direction: column; min-width: 0; }
 .mhero__res-name { font-weight: 600; font-size: 15px; color: var(--text); }
 .mhero__res-meta { font-size: 13px; color: var(--text2); }
+.mhero__res-add {
+  margin-left: auto; flex-shrink: 0; height: 32px; padding: 0 14px; border-radius: 999px;
+  display: inline-flex; align-items: center; background: var(--blue); color: #fff; font: 600 13px 'DM Sans', sans-serif;
+}
+.mhero__results li.mhero__res-club { cursor: default; background: none; padding-bottom: 2px; min-height: 0; }
+.mhero__results li.mhero__res-child { min-height: 44px; padding-left: 52px; }
+.mhero__res-sub { font-size: 14px; font-weight: 600; color: var(--text2); }
+.mhero__results li[aria-selected="true"] .mhero__res-sub, .mhero__results li:hover .mhero__res-sub { color: var(--text); }
 .mhero__results li.mhero__res-empty { cursor: default; color: var(--text2); font-size: 14px; background: none; }
 .mhero__res-empty a { color: var(--brand-fg); }
 
@@ -2476,8 +2487,11 @@ function stripGames(data, choice) {
   const leagues = data.leagues || [];
   if (choice !== 'all') {
     const lg = leagues.find(l => l.id === choice);
-    return lg ? { post: lg.results.map(g => card(g, lg)), pre: lg.upcoming.filter(upcoming).map(g => card(g, lg)) }
-              : { post: [], pre: [] };
+    if (!lg) return { post: [], pre: [] };
+    const post = lg.results.map(g => card(g, lg)), pre = lg.upcoming.filter(upcoming).map(g => card(g, lg));
+    // Mid-season but nothing in the windows (e.g. UCL between matchdays): one "Next games" card.
+    if (!post.length && !pre.length && lg.next_date) pre.push({ league: lg.short || lg.name, nextDate: lg.next_date });
+    return { post, pre };
   }
   const horizon = new Date(now.getTime() + (R.all_upcoming_days || 3) * 864e5);
   const soon = g => g.tbc ? g.date <= horizon.toISOString().slice(0, 10) : new Date(g.kickoff) <= horizon;
@@ -2493,17 +2507,32 @@ function stripGames(data, choice) {
   return { post: post.slice(0, max), pre: pre.slice(0, max) };
 }
 
+function shortDate(iso) {
+  return new Date(iso + 'T12:00:00Z').toLocaleDateString('en-GB', { weekday: 'short', day: 'numeric', month: 'short', timeZone: 'UTC' });
+}
+
+function nextCard(g) {
+  const card = document.createElement('div');
+  card.className = 'game-card game-card--next';
+  card.innerHTML = `
+    <div class="gc-header"><span class="gc-league"></span><span class="gc-status"></span></div>
+    <div class="gc-next"><span class="gc-next-title">Next games</span><span class="gc-next-sub">Nothing in the next 7 days</span></div>`;
+  card.querySelector('.gc-league').textContent = g.league;
+  card.querySelector('.gc-status').textContent = shortDate(g.nextDate);
+  return card;
+}
+
 function fillFilter(data) {
   const sel = document.getElementById('strip-filter');
   if (sel.dataset.filled) return;
   sel.dataset.filled = '1';
   let n = 0;
   (data.leagues || []).forEach(lg => {
-    const g = stripGames(data, lg.id), count = g.post.length + g.pre.length;
-    if (!count) return;
+    const g = stripGames(data, lg.id), count = g.post.concat(g.pre).filter(x => !x.nextDate).length;
+    if (!count && !lg.next_date) return;
     const o = document.createElement('option');
     o.value = lg.id;
-    o.textContent = `${lg.name} (${count})`;
+    o.textContent = count ? `${lg.name} (${count})` : `${lg.name} · next ${shortDate(lg.next_date)}`;
     sel.appendChild(o);
     n++;
   });
@@ -2524,7 +2553,7 @@ function render(data) {
   [['postgame', post], ['pregame', pre]].forEach(([k, games]) => {
     const box = document.getElementById('cards-' + k);
     box.innerHTML = '';
-    games.forEach(g => { g.variant = k; box.appendChild(makeCard(g)); });
+    games.forEach(g => { g.variant = k; box.appendChild(g.nextDate ? nextCard(g) : makeCard(g)); });
     document.getElementById('group-' + k).style.display = games.length ? '' : 'none';
     document.getElementById('label-' + k).style.display = games.length ? '' : 'none';
   });
@@ -2730,7 +2759,8 @@ window.addEventListener('resize', positionLabels);
     capMeta.textContent = ex.meta;
     $('mhero-cap-add').setAttribute('aria-label', `Add ${ex.comp.name} to your calendar`);
     cap.hidden = false;
-    if (!input.value) input.placeholder = `Try ‘${ex.hint}’`;
+    const where = (COUNTRY[ex.comp.id] || '').split(' & ')[0];
+    if (!input.value) input.placeholder = where ? `Try ‘${ex.hint}’ or ‘${where}’` : `Try ‘${ex.hint}’`;
     layout();
   }
   // Rotation holds while the visitor reads or acts: hover over the map, focus in search or the caption.
@@ -2804,6 +2834,11 @@ window.addEventListener('resize', positionLabels);
     });
   }
   let results = [], active = -1;
+  // One club can be in several competitions (Bayern: Frauen-Bundesliga + Women's UCL).
+  // Results group them: one crest and name (the domestic league's), one "+ Add" row per competition.
+  const CLUB_ALIASES = { 'bayern munchen': 'bayern munich', 'internazionale': 'inter' };
+  const clubKey = name => { const n = norm(name).replace(/[^a-z0-9 ]/g, ' ').replace(/\s+/g, ' ').trim(); return CLUB_ALIASES[n] || n; };
+  const esc = t => String(t).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
   function render() {
     const q = norm(input.value.trim());
     list.innerHTML = '';
@@ -2811,27 +2846,62 @@ window.addEventListener('resize', positionLabels);
     if (!q) { close(); return; }
     if (!index) buildIndex();
     const words = q.split(/\s+/);
-    results = index
+    const ranked = index
       .filter(it => words.every(w => it.keys.includes(w)))
       .map(it => ({ it, score: (it.keys.startsWith(q) ? 0 : it.keys.split(/\s+/).some(k => k.startsWith(words[0])) ? 1 : 2) + (it.kind === 'comp' ? 0 : 0.5) }))
-      .sort((a, b) => a.score - b.score || a.it.name.localeCompare(b.it.name))
-      .slice(0, 6).map(r => r.it);
-    if (!results.length) {
+      .sort((a, b) => a.score - b.score || a.it.name.localeCompare(b.it.name));
+    // Build display blocks: a competition, or a club with 1+ competitions.
+    const blocks = [], clubs = {};
+    ranked.forEach(({ it }) => {
+      if (it.kind === 'comp') { blocks.push({ comp: it }); return; }
+      const k = clubKey(it.name);
+      if (!clubs[k]) { clubs[k] = { club: it, items: [] }; blocks.push(clubs[k]); }
+      clubs[k].items.push(it);
+    });
+    results = [];
+    const shown = blocks.slice(0, 6);
+    if (!shown.length) {
       list.innerHTML = '<li class="mhero__res-empty" role="option" aria-disabled="true">No match yet. <a href="#live-feeds">Browse all competitions</a></li>';
-    } else {
-      results.forEach((it, i) => {
-        const li = document.createElement('li');
-        li.id = 'mhero-opt-' + i;
-        li.setAttribute('role', 'option');
-        li.setAttribute('aria-selected', 'false');
-        const logo = it.logo ? `<img src="${it.logo}" alt="" loading="lazy">` : (it.icon || '⚽');
-        li.innerHTML = `<span class="mhero__res-logo">${logo}</span><span class="mhero__res-text"><span class="mhero__res-name"></span><span class="mhero__res-meta"></span></span>`;
-        li.querySelector('.mhero__res-name').textContent = it.name;
-        li.querySelector('.mhero__res-meta').textContent = it.meta;
-        li.onmousedown = e => { e.preventDefault(); choose(it); };
-        list.appendChild(li);
-      });
     }
+    const add = '<span class="mhero__res-add" aria-hidden="true">+ Add</span>';
+    const option = (it, html, cls) => {
+      const li = document.createElement('li');
+      li.id = 'mhero-opt-' + results.length;
+      li.className = cls || '';
+      li.setAttribute('role', 'option');
+      li.setAttribute('aria-selected', 'false');
+      li.innerHTML = html;
+      li.onmousedown = e => { e.preventDefault(); choose(it); };
+      results.push(it);
+      list.appendChild(li);
+    };
+    shown.forEach(bl => {
+      if (bl.comp) {
+        const it = bl.comp;
+        option(it, `<span class="mhero__res-logo">${it.icon || '⚽'}</span><span class="mhero__res-text"><span class="mhero__res-name">${esc(it.name)}</span><span class="mhero__res-meta">${esc(it.meta)}</span></span>${add}`,
+               '', );
+        list.lastChild.setAttribute('aria-label', `${it.name}, ${it.meta}. Add to calendar`);
+        return;
+      }
+      // Prefer the domestic league's name and crest (index order lists domestic leagues before the UCL).
+      bl.items.sort((a, b) => COMPS.indexOf(a.comp) - COMPS.indexOf(b.comp));
+      const lead = bl.items[0];
+      const logo = lead.logo ? `<img src="${esc(lead.logo)}" alt="" loading="lazy">` : (lead.icon || '⚽');
+      if (bl.items.length === 1) {
+        option(lead, `<span class="mhero__res-logo">${logo}</span><span class="mhero__res-text"><span class="mhero__res-name">${esc(lead.name)}</span><span class="mhero__res-meta">${esc(lead.meta)}</span></span>${add}`);
+        list.lastChild.setAttribute('aria-label', `Add ${lead.name} (${lead.meta}) to calendar`);
+        return;
+      }
+      const head = document.createElement('li');
+      head.className = 'mhero__res-club';
+      head.setAttribute('role', 'presentation');
+      head.innerHTML = `<span class="mhero__res-logo">${logo}</span><span class="mhero__res-text"><span class="mhero__res-name">${esc(lead.name)}</span><span class="mhero__res-meta">${bl.items.length} competitions</span></span>`;
+      list.appendChild(head);
+      bl.items.forEach(it => {
+        option(it, `<span class="mhero__res-sub">${esc(it.meta)}</span>${add}`, 'mhero__res-child');
+        list.lastChild.setAttribute('aria-label', `Add ${lead.name} (${it.meta}) to calendar`);
+      });
+    });
     list.hidden = false;
     input.setAttribute('aria-expanded', 'true');
   }
@@ -2881,7 +2951,11 @@ window.addEventListener('resize', positionLabels);
   input.addEventListener('keydown', e => {
     if (e.key === 'ArrowDown') { e.preventDefault(); if (list.hidden) render(); highlight(active + 1); }
     else if (e.key === 'ArrowUp') { e.preventDefault(); highlight(active - 1); }
-    else if (e.key === 'Escape') { e.preventDefault(); close(); input.blur(); }
+    else if (e.key === 'Escape') {
+      e.preventDefault();
+      if (input.value) { input.value = ''; syncClear(); close(); }   // first Esc = Clear
+      else { close(); input.blur(); }                                // then Esc leaves
+    }
     else if (e.key === 'Enter') {
       e.preventDefault();
       if (!input.value.trim()) return;
@@ -2905,8 +2979,35 @@ fetch('/feed_status.json', { cache: 'no-cache' })
       el.classList.toggle('badge-live', f.style === 'live');
       el.classList.toggle('badge-offseason', f.style !== 'live');
     });
+    orderCompetitionCards(status.feeds);
   })
   .catch(() => {});
+
+/* "Pick your competition" order: in season first, then off-season, then finished
+   tournaments. Within each: international competitions, then Europe, the Americas and
+   Oceania, by country. Re-sorted from feed_status.json, so it follows the seasons. */
+const CARD_PLACE = {
+  'ucl-women': [0, 'Europe'], 'euroleague-women': [0, 'Europe'], 'fiba-wwc-2026': [0, 'World'],
+  'wsl': [1, 'England'], 'premiere-ligue': [1, 'France'], 'frauen-bundesliga': [1, 'Germany'],
+  'serie-a-women': [1, 'Italy'], 'eredivisie-women': [1, 'Netherlands'], 'liga-f': [1, 'Spain'],
+  'liga-mx-femenil': [2, 'Mexico'], 'ncaa-wbb': [2, 'USA'], 'nwsl': [2, 'USA'], 'wnba': [2, 'USA'],
+  'a-league-women': [3, 'Australia'],
+};
+function orderCompetitionCards(feeds) {
+  const grid = document.querySelector('#live-feeds .feed-cards');
+  if (!grid) return;
+  const cards = Array.from(grid.querySelectorAll(':scope > .feed-card'));
+  const key = card => {
+    const id = (card.querySelector('.feed-badge[data-feed]') || {}).dataset?.feed || '';
+    const f = feeds[id] || {};
+    const status = f.style === 'live' ? 0 : f.rule === 'after-tournament' ? 2 : 1;
+    const [region, country] = CARD_PLACE[id] || [9, 'zz'];
+    const name = (card.querySelector('.feed-name') || {}).textContent || '';
+    return [status, region, country, name];
+  };
+  const cmp = (a, b) => { for (let i = 0; i < a.length; i++) { if (a[i] < b[i]) return -1; if (a[i] > b[i]) return 1; } return 0; };
+  cards.map(c => [key(c), c]).sort((a, b) => cmp(a[0], b[0])).forEach(([, c]) => grid.appendChild(c));
+}
 
 fetch('/scores.json', { cache: 'no-cache' })
   .then(r => { if (!r.ok) throw 0; return r.json(); })
