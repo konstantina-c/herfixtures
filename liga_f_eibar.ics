@@ -133,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Atlético Madrid @ Eibar (3–1)
 DTSTART:20261121T160000Z
 DTEND:20261121T180000Z
-DTSTAMP:20261125T102751Z
+DTSTAMP:20261125T170059Z
 UID:af-liga-f-1573652@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at Eibar\nStatus: Mat
  ch Finished\nVenue: Estadio Municipal de Ipurua\, Eibar\n\nFixtures by Her
@@ -144,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Eibar
 DTSTART:20261209T180000Z
 DTEND:20261209T200000Z
-DTSTAMP:20261125T102751Z
+DTSTAMP:20261125T170059Z
 UID:af-liga-f-1573661@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Eibar\nStatus: Not Sta
  rted\nVenue: Estadio Municipal de Ipurua\, Eibar\n\nFixtures by HerFixture
@@ -155,7 +155,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ CD Tenerife (time TBC)
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261125T102751Z
+DTSTAMP:20261125T170059Z
 UID:af-liga-f-1573665@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at CD Tenerife\nStatus: Not Star
  ted\nKick-off time not confirmed yet. Your calendar updates automatically 
@@ -167,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Eibar (time TBC)
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
-DTSTAMP:20261125T102751Z
+DTSTAMP:20261125T170059Z
 UID:af-liga-f-1573675@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Eibar\nStatus: Not Starte
  d\nKick-off time not confirmed yet. Your calendar updates automatically on
@@ -179,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ Deportivo (time TBC)
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
-DTSTAMP:20261125T102751Z
+DTSTAMP:20261125T170059Z
 UID:af-liga-f-1573683@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Deportivo\nStatus: Not Starte
  d\nKick-off time not confirmed yet. Your calendar updates automatically on
@@ -191,7 +191,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Eibar (time TBC)
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
-DTSTAMP:20261125T102751Z
+DTSTAMP:20261125T170059Z
 UID:af-liga-f-1573691@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at Eibar\nStatus: Not Started
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ Real Sociedad (time TBC)
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
-DTSTAMP:20261125T102751Z
+DTSTAMP:20261125T170059Z
 UID:af-liga-f-1573701@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Real Sociedad\nStatus: Not St
  arted\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -215,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ Madrid CFF (time TBC)
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
-DTSTAMP:20261125T102751Z
+DTSTAMP:20261125T170059Z
 UID:af-liga-f-1573709@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Madrid CFF\nStatus: Not Start
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -227,7 +227,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Eibar (time TBC)
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
-DTSTAMP:20261125T102751Z
+DTSTAMP:20261125T170059Z
 UID:af-liga-f-1573718@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at Eibar\nStatus: Not Started
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -239,7 +239,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ Dux Logroño (time TBC)
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
-DTSTAMP:20261125T102751Z
+DTSTAMP:20261125T170059Z
 UID:af-liga-f-1573722@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Dux Logroño\nStatus: Not Sta
  rted\nKick-off time not confirmed yet. Your calendar updates automatically
@@ -251,7 +251,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ Eibar (time TBC)
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
-DTSTAMP:20261125T102751Z
+DTSTAMP:20261125T170059Z
 UID:af-liga-f-1573731@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Eibar\nStatus: Not Star
  ted\nKick-off time not confirmed yet. Your calendar updates automatically 
@@ -263,7 +263,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ Espanyol (time TBC)
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
-DTSTAMP:20261125T102751Z
+DTSTAMP:20261125T170059Z
 UID:af-liga-f-1573741@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Espanyol\nStatus: Not Started
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -275,7 +275,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Eibar (time TBC)
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
-DTSTAMP:20261125T102751Z
+DTSTAMP:20261125T170059Z
 UID:af-liga-f-1573749@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Eibar\nStatus: Not Started
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -287,7 +287,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ Barcelona (time TBC)
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
-DTSTAMP:20261125T102751Z
+DTSTAMP:20261125T170059Z
 UID:af-liga-f-1573753@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Barcelona\nStatus: Not Starte
  d\nKick-off time not confirmed yet. Your calendar updates automatically on
@@ -299,7 +299,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ Atlético Madrid (time TBC)
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
-DTSTAMP:20261125T102751Z
+DTSTAMP:20261125T170059Z
 UID:af-liga-f-1573761@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Atlético Madrid\nStatus: Not
   Started\nKick-off time not confirmed yet. Your calendar updates automatic
@@ -311,7 +311,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ CD Tenerife @ Eibar (time TBC)
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
-DTSTAMP:20261125T102751Z
+DTSTAMP:20261125T170059Z
 UID:af-liga-f-1573771@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Eibar\nStatus: Not Star
  ted\nKick-off time not confirmed yet. Your calendar updates automatically 
@@ -323,7 +323,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ Athletic Club (time TBC)
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
-DTSTAMP:20261125T102751Z
+DTSTAMP:20261125T170059Z
 UID:af-liga-f-1573776@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Athletic Club\nStatus: Not St
  arted\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -335,7 +335,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Eibar (time TBC)
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
-DTSTAMP:20261125T102751Z
+DTSTAMP:20261125T170059Z
 UID:af-liga-f-1573787@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Eibar\nStatus: Not Started
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -347,7 +347,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ FC Badalona (time TBC)
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
-DTSTAMP:20261125T102751Z
+DTSTAMP:20261125T170059Z
 UID:af-liga-f-1573793@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at FC Badalona\nStatus: Not Star
  ted\nKick-off time not confirmed yet. Your calendar updates automatically 
