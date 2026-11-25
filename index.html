@@ -870,7 +870,8 @@ body {
 }
 /* Placeholder ("Try …"): quieter, just above 4.5:1 (light #72729A on white 4.58:1,
    dark #8080A8 on #181830 4.60:1); it fades out when the search is focused. */
-.mhero__search input::placeholder { color: #72729A; opacity: 1; transition: opacity 0.35s ease; }
+.mhero__search input::placeholder { color: #72729A; opacity: 1; font-weight: 400; font-size: 16px; transition: opacity 0.35s ease; }
+.mhero__search input.ph-out::placeholder { opacity: 0; }
 [data-theme="dark"] .mhero__search input::placeholder { color: #8080A8; }
 .mhero__search input:focus::placeholder { opacity: 0; }
 .mhero__search input::-webkit-search-cancel-button { -webkit-appearance: none; }
@@ -924,7 +925,7 @@ body {
 .mhero__results li.mhero__res-child { min-height: 44px; padding-left: 52px; }
 .mhero__res-sub { font-size: 14px; font-weight: 600; color: var(--text2); }
 .mhero__results li[aria-selected="true"] .mhero__res-sub, .mhero__results li:hover .mhero__res-sub { color: var(--text); }
-.mhero__results li.mhero__res-empty { cursor: default; color: var(--text2); font-size: 14px; background: none; }
+.mhero__results li.mhero__res-empty { display: block; min-height: 0; padding: 14px 16px; cursor: default; color: var(--text2); font-size: 14px; line-height: 1.5; background: none; }
 .mhero__res-empty a { color: var(--brand-fg); }
 
 /* Map card */
@@ -1074,14 +1075,14 @@ body {
     <!-- Hero — headline, search, world map of every competition (design: Figma "Homepage v2.0", page 6 · Minimal) -->
     <section class="hero-slot mhero" id="live-hero" aria-labelledby="mhero-title">
       <h1 class="mhero__title" id="mhero-title">Every women's match, on your calendar</h1>
-      <p class="mhero__sub">Never miss a kick-off again. <span id="mhero-count">14</span> competitions, synced to your calendar in your time zone.</p>
+      <p class="mhero__sub"><span id="mhero-count">14</span> competitions, in your calendar, in your time zone. You bring the snacks.</p>
 
       <div class="mhero__stage">
         <form class="mhero__search" role="search" autocomplete="off" onsubmit="return false;">
           <label class="mhero__sr" for="mhero-q">Find a team or competition</label>
           <svg class="mhero__search-icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
           <input id="mhero-q" type="search" role="combobox" aria-expanded="false" aria-controls="mhero-results"
-                 aria-autocomplete="list" placeholder="Search a team or competition" enterkeyhint="search">
+                 aria-autocomplete="list" placeholder="Barça up the right tree…" enterkeyhint="search">
           <button type="button" class="mhero__clear" id="mhero-clear" tabindex="-1" aria-hidden="true">Clear</button>
           <button type="submit" class="mhero__go" aria-label="Search">
             <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
@@ -1120,7 +1121,7 @@ body {
     <!-- Feeds -->
     <div class="section" id="live-feeds">
       <div class="eyebrow">Available now</div>
-      <div class="section-title">Pick your competition.</div>
+      <div class="section-title">Pick a team… or five.</div>
 
       <div class="filter-pills" role="group" aria-label="Filter by sport">
         <button class="filter-pill is-active" data-filter="all">All</button>
@@ -1392,23 +1393,25 @@ body {
       <div class="eyebrow coral">Our story</div>
       <div class="section-title">Why HerFixtures exists.</div>
       <div class="mission-body">
-        <p>Women's sports has always been here. The athletes, the seasons, the rivalries, the drama — all of it, running in full every year. <strong>What was missing was never the sport. It was the infrastructure to follow it.</strong></p>
-        <p>HerFixtures came to life from our own lived experience — or rather, the absence of it. The frustration of searching for fixtures that should have been easy to find. The effort of manually tracking competitions across fragmented sources. The quiet resignation of missing matches not because we didn't care, but because nothing made it easy to stay connected. <strong>That experience — felt and real — is what led us to build something that simply works.</strong> Something that assumes you belong, that your interest is valid, that your calendar deserves to know.</p>
-        <p>This is a small thing. And it is also, quietly, a statement about what we believe women's sports fans deserve as a baseline.</p>
+        <p>Women's sports have always been here. The seasons, the rivalries, the comebacks, all of it, every year. <strong>What was missing was never the sport. It was a simple way to follow it.</strong></p>
+        <p>We know because we lived it. We hunted for fixtures across five tabs and three time zones, and still missed matches we cared about.</p>
+        <p><strong>So we're fixing the fixtures.</strong> Our aim: every match, and every team you love, with a place in your calendar, in your time zone.</p>
+        <p>A small thing. Also, quietly, a statement about what fans should expect as standard.</p>
+        <p>Made by women, for everyone who follows women's sports.</p>
       </div>
     </div>
 
     <div class="divider"></div>
 
     <!-- Email capture -->
-    <div class="email-wrap">
+    <div class="email-wrap" id="tell-us">
       <div class="email-section-title">New competitions<br>added regularly.</div>
-      <div class="email-sub">Want to know when yours is live? Leave your details — be the first to know.</div>
+      <div class="email-sub">Your league not here yet? Tell us.</div>
       <div class="email-fields">
         <input class="email-input" type="email" id="email-input-main" placeholder="your@email.com">
         <input class="email-input" type="text" id="league-input-main" placeholder="Your favourite league or team">
       </div>
-      <button class="email-btn" onclick="subscribeHer('email-input-main','league-input-main',this)">Be the first to know</button>
+      <button class="email-btn" onclick="subscribeHer('email-input-main','league-input-main',this)">Notify me</button>
       <p class="email-social-proof">Joined by fans in 7+ countries.</p>
     </div>
 
@@ -1696,7 +1699,7 @@ async function subscribeHer(emailId, leagueId, btn) {
 .wnba-success-sub {
   font-family: 'DM Sans', sans-serif;
   font-size: 14px; color: var(--muted); line-height: 1.6;
-  margin-bottom: 28px; max-width: 360px;
+  margin-bottom: 28px; max-width: 360px; text-wrap: balance;
 }
 .wnba-success-close {
   padding: 12px 32px; border-radius: 12px;
@@ -1706,6 +1709,14 @@ async function subscribeHer(emailId, leagueId, btn) {
   transition: all 0.2s;
 }
 .wnba-success-close:hover { background: var(--brand-fg); color: white; }
+.wnba-success-copy {
+  padding: 12px 32px; border-radius: 12px; margin-bottom: 10px; min-width: 160px;
+  background: var(--brand-fg); border: 1.5px solid var(--brand-fg); color: white;
+  font-family: 'DM Sans', sans-serif; font-size: 14px; font-weight: 600; cursor: pointer;
+  transition: opacity 0.2s;
+}
+.wnba-success-copy:hover { opacity: 0.9; }
+.wnba-success-close { min-width: 160px; }
 
 /* ── Mobile bottom sheet ── */
 @media (max-width: 640px) {
@@ -1798,8 +1809,9 @@ async function subscribeHer(emailId, leagueId, btn) {
 
     <div class="wnba-success" id="feedSuccess">
       <div class="wnba-success-icon">✓</div>
-      <div class="wnba-success-title">Added to your calendar</div>
-      <div class="wnba-success-sub">Fixtures will appear in your calendar next time it syncs. You won't miss a game.</div>
+      <div class="wnba-success-title">Added to your calendar.</div>
+      <div class="wnba-success-sub">Know someone who'd want this too? Pass it on. Assists count.</div>
+      <button class="wnba-success-copy" id="feedCopyLink" onclick="copyShareLink(this)">Copy link</button>
       <button class="wnba-success-close" onclick="FeedModal.close()">Close</button>
     </div>
   </div>
@@ -2695,7 +2707,112 @@ window.addEventListener('resize', positionLabels);
   const cap = $('mhero-caption'), capLabel = $('mhero-cap-label'), capTitle = $('mhero-cap-title'), capMeta = $('mhero-cap-meta');
   const pauseBtn = $('mhero-pause');
   if (!map || !input) return;
-  const DEFAULT_PH = input.placeholder;
+  /* Search placeholder: its own slow rotation of puns, independent of the map tour.
+     Fades out, swaps, fades in; holds while the visitor types or focuses the field. */
+  // [text, 1] = desktop only. Any pun wider than the resting field is skipped too.
+  const PUNS = [
+    "Barça up the right tree…",
+    "Feeling Lyon-hearted?",
+    "Spur of the moment?",
+    "Juve got this.",
+    "Type a team, not a password",
+    "Brighton up your week.",
+    "Gunning for someone?",
+    "Chelsea it to believe it.",
+    ["The Red Devil's in the details.", 1],
+    "Aston-ishing, isn't it?",
+    "Hammer time?",
+    "You'll never search alone.",
+    "Get Real.",
+    "Atleti-tude.",
+    "Le Havre a nice day.",
+    "Paris, je t'aime?",
+    ["Who's afraid of the big bad Wolfsburg?", 1],
+    "Frankfurt-ly, my dear…",
+    "Lazio Sunday?",
+    "One in a Milan.",
+    "When in Roma…",
+    "Inter-ested?",
+    "Como-n then.",
+    "Parma-nent fixture.",
+    "Twente-four seven.",
+    "From A to Z? Try AZ.",
+    "Not all who Wander are lost.",
+    "Jet-setter?",
+    "Hear them Roar?",
+    "Rise like a Phoenix.",
+    "Go for Glory.",
+    "Atlas, at last.",
+    "Tigres by the tail?",
+    "Puma up the volume.",
+    "UConn do it.",
+    "Iowa you one.",
+    "Duke it out?",
+    "Tennessee you there.",
+    "Sky's the limit.",
+    "Get Lynx-ed in.",
+    "Aced it.",
+    "Got the Fever?",
+    "Any port in a Storm?",
+    "Does it Spark joy?",
+    "Winging it? Not anymore.",
+    "Give me Liberty.",
+    "Mercury rising.",
+    "Long may she Reign.",
+    "Summit up?",
+    "Pride, no prejudice.",
+    "Go with the Current.",
+    "Catch the Wave.",
+    "Spirit animal?",
+    "Make a Dash for it.",
+    "No rose without Thorns.",
+    "Leave a Legacy.",
+    "Reach for the Stars.",
+    "Take Courage.",
+    "Next stop: Ballhalla.",
+    "Valks this way.",
+    "Big Ellie energy.",
+    "Need some Ellie-vation?",
+    "Tillie voice loading…",
+    ["Not done 'til it's in your calendar.", 1],
+    "Waltz right in.",
+    ["It's coming… to your calendar.", 1],
+    ["Proper England. Proper calendar.", 1],
+    "Riveting stuff.",
+    "Cause an Uproar.",
+    "Your woso era starts here."
+  ].map(p => Array.isArray(p) ? { text: p[0], desktop: true } : { text: p, desktop: false });
+  for (let i = PUNS.length - 1; i > 0; i--) {                 // random order, new every visit
+    const j = Math.floor(Math.random() * (i + 1)); [PUNS[i], PUNS[j]] = [PUNS[j], PUNS[i]];
+  }
+  const phCtx = document.createElement('canvas').getContext('2d');
+  function punFits(p) {
+    if (p.desktop && window.innerWidth < 768) return false;
+    const cs = getComputedStyle(input);
+    const room = input.clientWidth - parseFloat(cs.paddingLeft) - parseFloat(cs.paddingRight);
+    phCtx.font = "400 16px 'DM Sans', sans-serif";
+    return !room || phCtx.measureText(p.text).width <= room - 4;
+  }
+  let pun = -1;
+  function nextPun() {
+    for (let k = 0; k < PUNS.length; k++) {
+      pun = (pun + 1) % PUNS.length;
+      if (punFits(PUNS[pun])) return PUNS[pun].text;
+    }
+    return 'Type a team, not a password';
+  }
+  input.placeholder = nextPun();
+  if (document.fonts) document.fonts.ready.then(() => { if (!punFits(PUNS[pun])) input.placeholder = nextPun(); });
+  if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+    setInterval(() => {
+      if (input.value || document.activeElement === input || document.hidden) return;
+      input.classList.add('ph-out');
+      setTimeout(() => {
+        input.placeholder = nextPun();
+        input.classList.remove('ph-out');
+      }, 350);
+    }, 5000);
+  }
   // Subtitle number = competition cards on the homepage, so adding or removing a card updates it.
   const nCards = document.querySelectorAll('#live-feeds .feed-card').length;
   if (nCards) $('mhero-count').textContent = nCards;
@@ -2761,8 +2878,6 @@ window.addEventListener('resize', positionLabels);
     capMeta.textContent = ex.meta;
     $('mhero-cap-add').setAttribute('aria-label', `Add ${ex.comp.name} to your calendar`);
     cap.hidden = false;
-    const where = (COUNTRY[ex.comp.id] || '').split(' & ')[0];
-    if (!input.value) input.placeholder = where ? `Try ‘${ex.hint}’ or ‘${where}’` : `Try ‘${ex.hint}’`;
     layout();
   }
   // Rotation holds while the visitor reads or acts: hover over the map, focus in search or the caption.
@@ -2863,7 +2978,7 @@ window.addEventListener('resize', positionLabels);
     results = [];
     const shown = blocks.slice(0, 6);
     if (!shown.length) {
-      list.innerHTML = '<li class="mhero__res-empty" role="option" aria-disabled="true">No match yet. <a href="#live-feeds">Browse all competitions</a></li>';
+      list.innerHTML = '<li class="mhero__res-empty" role="option" aria-disabled="true">No matches found. Ironic, we know. Check the spelling, or <a href="#tell-us" onclick="setTimeout(() => document.getElementById(\'league-input-main\').focus({ preventScroll: true }), 400)">tell us who to add</a>.</li>';
     }
     const add = '<span class="mhero__res-add" aria-hidden="true">+ Add</span>';
     const option = (it, html, cls) => {
@@ -2984,6 +3099,26 @@ fetch('/feed_status.json', { cache: 'no-cache' })
     orderCompetitionCards(status.feeds);
   })
   .catch(() => {});
+
+/* Confirmation pop-up: copy the homepage link to share ("Assists count"). */
+function copyShareLink(btn) {
+  const url = 'https://herfixtures.com/';
+  const done = () => {
+    btn.textContent = 'Link copied ✓';
+    gtag('event', 'share_copy_link');
+    setTimeout(() => { btn.textContent = 'Copy link'; }, 2000);
+  };
+  if (navigator.clipboard && window.isSecureContext) {
+    navigator.clipboard.writeText(url).then(done, () => fallback());
+  } else fallback();
+  function fallback() {
+    const t = document.createElement('textarea');
+    t.value = url; t.setAttribute('readonly', ''); t.style.position = 'fixed'; t.style.opacity = '0';
+    document.body.appendChild(t); t.select();
+    try { document.execCommand('copy'); done(); } catch (e) { prompt('Copy this link:', url); }
+    t.remove();
+  }
+}
 
 /* "Pick your competition" order: in season first, then off-season, then finished
    tournaments. Within each: international competitions, then Europe, the Americas and
