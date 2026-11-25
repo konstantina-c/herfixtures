@@ -808,9 +808,9 @@ body {
   --map-bg: #11112A; --map-dot: #5E86FF; --map-dot-op: 0.42;
   --map-border: rgba(255,255,255,0.08); --pin-off: #4A4A70;
 }
-#live-page .hero-slot.mhero { max-width: 1280px; margin: 0 auto; padding: 20px 20px 48px; text-align: center; overflow-x: clip; }
-@media (min-width: 768px)  { #live-page .hero-slot.mhero { padding: 40px 48px 56px; } }
-@media (min-width: 1280px) { #live-page .hero-slot.mhero { padding: 48px 80px 64px; } }
+#live-page .hero-slot.mhero { max-width: 1280px; margin: 0 auto; padding: 12px 20px 48px; text-align: center; overflow-x: clip; }
+@media (min-width: 768px)  { #live-page .hero-slot.mhero { padding: 32px 48px 56px; } }
+@media (min-width: 1280px) { #live-page .hero-slot.mhero { padding: 40px 80px 64px; } }
 .mhero__title {
   font-family: 'Zalando Sans Expanded', sans-serif; font-weight: 900;
   font-size: clamp(30px, 6vw, 60px); line-height: 1.06; letter-spacing: -0.02em;
@@ -867,15 +867,22 @@ body {
 .mhero__search input::-webkit-search-cancel-button { -webkit-appearance: none; }
 .mhero__go { flex-shrink: 0; width: 42px; height: 42px; border-radius: 50%; border: 0; background: var(--blue); display: grid; place-items: center; cursor: pointer; transition: width 0.45s, height 0.45s; }
 .mhero__search.is-open .mhero__go { width: 46px; height: 46px; }
+/* Clear slides out from under the submit arrow (the arrow sits above it) and slides
+   back under it when the box is emptied. Its space opens/closes with the same easing. */
+.mhero__go { position: relative; z-index: 2; }
 .mhero__clear {
-  flex-shrink: 0; height: 32px; padding: 0 12px; margin-right: -4px; border-radius: 999px; border: 0; cursor: pointer;
+  position: relative; z-index: 1;
+  flex-shrink: 0; height: 32px; border-radius: 999px; border: 0; cursor: pointer; white-space: nowrap;
   background: var(--bg3); color: var(--text2); font: 600 13px 'DM Sans', sans-serif;
-  max-width: 0; padding-left: 0; padding-right: 0; overflow: hidden; opacity: 0; transform: translateX(24px); pointer-events: none;
-  transition: max-width 0.35s cubic-bezier(0.2,0.8,0.2,1), padding 0.35s cubic-bezier(0.2,0.8,0.2,1),
-              opacity 0.25s, transform 0.35s cubic-bezier(0.2,0.8,0.2,1), margin 0.35s;
+  max-width: 0; padding: 0; margin-right: -10px; overflow: hidden;
+  opacity: 0; transform: translateX(48px) scale(0.92); pointer-events: none;
+  transition: max-width 0.6s cubic-bezier(0.22,1,0.36,1), padding 0.6s cubic-bezier(0.22,1,0.36,1),
+              margin 0.6s cubic-bezier(0.22,1,0.36,1), transform 0.6s cubic-bezier(0.22,1,0.36,1),
+              opacity 0.45s ease;
 }
 .mhero__search.has-text .mhero__clear {
-  max-width: 80px; padding: 0 12px; margin-right: 0; opacity: 1; transform: none; pointer-events: auto;
+  max-width: 80px; padding: 0 12px; margin-right: 0;
+  opacity: 1; transform: none; pointer-events: auto;
 }
 .mhero__clear:hover { color: var(--text); }
 .mhero__clear:focus-visible { outline: 2px solid var(--brand-fg); outline-offset: 2px; }
