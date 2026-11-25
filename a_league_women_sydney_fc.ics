@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sydney FC vs Canberra United (1–3)
 DTSTART:20261121T060000Z
 DTEND:20261121T080000Z
-DTSTAMP:20261124T172502Z
+DTSTAMP:20261125T021006Z
 UID:espn-a-league-women-401913227@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nSydney FC vs Canberra United\nStatus: 
  Full Time\nVenue: Sydney Olympic Park Athletic Centre\, Sydney\nTV: ESPN+
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Adelaide United vs Sydney FC
 DTSTART:20261211T055000Z
 DTEND:20261211T075000Z
-DTSTAMP:20261124T172502Z
+DTSTAMP:20261125T021006Z
 UID:espn-a-league-women-401913225@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nAdelaide United vs Sydney FC\nStatus: 
  Scheduled\nVenue: Hindmarsh Stadium\, Adelaide\n\nFixtures by HerFixtures.
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sydney FC vs Central Coast Mariners
 DTSTART:20261220T060000Z
 DTEND:20261220T080000Z
-DTSTAMP:20261124T172502Z
+DTSTAMP:20261125T021006Z
 UID:espn-a-league-women-401913216@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nSydney FC vs Central Coast Mariners\nS
  tatus: Scheduled\nVenue: WIN Stadium\, Wollongong\n\nFixtures by HerFixtur
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Melbourne City vs Sydney FC
 DTSTART:20261227T041500Z
 DTEND:20261227T061500Z
-DTSTAMP:20261124T172502Z
+DTSTAMP:20261125T021006Z
 UID:espn-a-league-women-401913215@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nMelbourne City vs Sydney FC\nStatus: S
  cheduled\nVenue: Melbourne Rectangular Stadium\, Melbourne\n\nFixtures by 
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sydney FC vs Brisbane Roar
 DTSTART:20270102T055000Z
 DTEND:20270102T075000Z
-DTSTAMP:20261124T172502Z
+DTSTAMP:20261125T021006Z
 UID:espn-a-league-women-401913208@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nSydney FC vs Brisbane Roar\nStatus: Sc
  heduled\nVenue: Allianz Stadium\, Sydney\n\nFixtures by HerFixtures.com 
@@ -109,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Perth Glory vs Sydney FC
 DTSTART:20270110T090000Z
 DTEND:20270110T110000Z
-DTSTAMP:20261124T172502Z
+DTSTAMP:20261125T021006Z
 UID:espn-a-league-women-401913200@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nPerth Glory vs Sydney FC\nStatus: Sche
  duled\nVenue: Sam Kerr Football Centre\, Perth\n\nFixtures by HerFixtures.
@@ -121,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sydney FC vs Newcastle Jets
 DTSTART:20270116T055000Z
 DTEND:20270116T075000Z
-DTSTAMP:20261124T172502Z
+DTSTAMP:20261125T021006Z
 UID:espn-a-league-women-401913197@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nSydney FC vs Newcastle Jets\nStatus: S
  cheduled\nVenue: Allianz Stadium\, Sydney\n\nFixtures by HerFixtures.com 
@@ -133,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sydney FC vs Melbourne Victory
 DTSTART:20270123T070000Z
 DTEND:20270123T090000Z
-DTSTAMP:20261124T172502Z
+DTSTAMP:20261125T021006Z
 UID:espn-a-league-women-401913193@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nSydney FC vs Melbourne Victory\nStatus
  : Scheduled\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Western Sydney vs Sydney FC
 DTSTART:20270130T055000Z
 DTEND:20270130T075000Z
-DTSTAMP:20261124T172502Z
+DTSTAMP:20261125T021006Z
 UID:espn-a-league-women-401913188@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nWestern Sydney vs Sydney FC\nStatus: S
  cheduled\nVenue: CommBank Stadium\, Sydney\n\nFixtures by HerFixtures.com 
@@ -157,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Canberra United vs Sydney FC
 DTSTART:20270213T060000Z
 DTEND:20270213T080000Z
-DTSTAMP:20261124T172502Z
+DTSTAMP:20261125T021006Z
 UID:espn-a-league-women-401913179@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nCanberra United vs Sydney FC\nStatus: 
  Scheduled\nVenue: McKellar Park\, Canberra\n\nFixtures by HerFixtures.com 
@@ -169,7 +169,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sydney FC vs Wellington Phoenix
 DTSTART:20270220T060000Z
 DTEND:20270220T080000Z
-DTSTAMP:20261124T172502Z
+DTSTAMP:20261125T021006Z
 UID:espn-a-league-women-401913173@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nSydney FC vs Wellington Phoenix\nStatu
  s: Scheduled\nVenue: WIN Stadium\, Wollongong\n\nFixtures by HerFixtures.c
@@ -181,7 +181,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Central Coast Mariners vs Sydney FC
 DTSTART:20270312T080000Z
 DTEND:20270312T100000Z
-DTSTAMP:20261124T172502Z
+DTSTAMP:20261125T021006Z
 UID:espn-a-league-women-401913169@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nCentral Coast Mariners vs Sydney FC\nS
  tatus: Scheduled\nVenue: Central Coast Stadium\, New South Wales\n\nFixtur
@@ -193,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Newcastle Jets vs Sydney FC
 DTSTART:20270320T060000Z
 DTEND:20270320T080000Z
-DTSTAMP:20261124T172502Z
+DTSTAMP:20261125T021006Z
 UID:espn-a-league-women-401913161@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nNewcastle Jets vs Sydney FC\nStatus: S
  cheduled\nVenue: McDonald Jones Stadium\, Newcastle\, New South Wales\n\nF
@@ -205,7 +205,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sydney FC vs Perth Glory
 DTSTART:20270327T060000Z
 DTEND:20270327T080000Z
-DTSTAMP:20261124T172502Z
+DTSTAMP:20261125T021006Z
 UID:espn-a-league-women-401913157@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nSydney FC vs Perth Glory\nStatus: Sche
  duled\nVenue: WIN Stadium\, Wollongong\n\nFixtures by HerFixtures.com — 
@@ -217,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sydney FC vs Western Sydney
 DTSTART:20270404T050000Z
 DTEND:20270404T070000Z
-DTSTAMP:20261124T172502Z
+DTSTAMP:20261125T021006Z
 UID:espn-a-league-women-401913151@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nSydney FC vs Western Sydney\nStatus: S
  cheduled\nVenue: WIN Stadium\, Wollongong\n\nFixtures by HerFixtures.com 
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Melbourne Victory vs Sydney FC
 DTSTART:20270410T070000Z
 DTEND:20270410T090000Z
-DTSTAMP:20261124T172502Z
+DTSTAMP:20261125T021006Z
 UID:espn-a-league-women-401913148@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nMelbourne Victory vs Sydney FC\nStatus
  : Scheduled\nVenue: Melbourne Rectangular Stadium\, Melbourne\n\nFixtures 

@@ -176,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Guadalajara vs Monterrey (time TBC)
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261124T172512Z
+DTSTAMP:20261125T021017Z
 UID:espn-liga-mx-femenil-401932061@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nGuada
  lajara vs Monterrey\nStatus: Scheduled\nKick-off time not confirmed yet. Y
@@ -189,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Monterrey vs Guadalajara (time TBC)
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261124T172512Z
+DTSTAMP:20261125T021017Z
 UID:espn-liga-mx-femenil-401932060@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nMonte
  rrey vs Guadalajara\nStatus: Scheduled\nKick-off time not confirmed yet. Y
