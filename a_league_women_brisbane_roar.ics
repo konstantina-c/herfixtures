@@ -13,228 +13,220 @@ BEGIN:VEVENT
 SUMMARY:⚽ Brisbane Roar vs Central Coast Mariners (2–4)
 DTSTART:20261017T060000Z
 DTEND:20261017T080000Z
-DTSTAMP:20261115T134814Z
-UID:espn-a-league-women-401913252@herfixtures.com
+DTSTAMP:20261125T102023Z
+UID:af-a-league-women-1632105@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nBrisbane Roar vs Central Coast Mariner
- s\nStatus: Full Time\nVenue: Spencer Park\, Brisbane\nTV: ESPN+\n\nFixture
- s by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401913252/central-coast-mar
- iners-brisbane-roar
+ s\nStatus: Match Finished\nVenue: Spencer Park\, Brisbane\n\nFixtures by H
+ erFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Western Sydney vs Brisbane Roar (3–1)
+SUMMARY:⚽ Western Sydney Wanderers vs Brisbane Roar (3–1)
 DTSTART:20261024T031500Z
 DTEND:20261024T051500Z
-DTSTAMP:20261115T134814Z
-UID:espn-a-league-women-401913249@herfixtures.com
-DESCRIPTION:A-League Women 2026/27\nWestern Sydney vs Brisbane Roar\nStatu
- s: Full Time\nVenue: CommBank Stadium\, Sydney\nTV: ESPN+\n\nFixtures by H
- erFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401913249/brisbane-roar-wes
- tern-sydney
+DTSTAMP:20261125T102023Z
+UID:af-a-league-women-1632108@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nWestern Sydney Wanderers vs Brisbane R
+ oar\nStatus: Match Finished\nVenue: CommBank Stadium\, Sydney\n\nFixtures 
+ by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Brisbane Roar vs Sydney FC (0–1)
 DTSTART:20261031T040000Z
 DTEND:20261031T060000Z
-DTSTAMP:20261115T134814Z
-UID:espn-a-league-women-401913244@herfixtures.com
-DESCRIPTION:A-League Women 2026/27\nBrisbane Roar vs Sydney FC\nStatus: Fu
- ll Time\nVenue: Spencer Park\, Brisbane\nTV: ESPN+\n\nFixtures by HerFixtu
- res.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401913244/sydney-fc-brisban
- e-roar
+DTSTAMP:20261125T102023Z
+UID:af-a-league-women-1632113@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nBrisbane Roar vs Sydney FC\nStatus: Ma
+ tch Finished\nVenue: Spencer Park\, Brisbane\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Brisbane Roar vs Melbourne Victory (2–0)
 DTSTART:20261107T060000Z
 DTEND:20261107T080000Z
-DTSTAMP:20261115T134814Z
-UID:espn-a-league-women-401913237@herfixtures.com
+DTSTAMP:20261125T102023Z
+UID:af-a-league-women-1632120@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nBrisbane Roar vs Melbourne Victory\nSt
- atus: Full Time\nVenue: Spencer Park\, Brisbane\nTV: ESPN+\n\nFixtures by 
- HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401913237/melbourne-victory
- -brisbane-roar
+ atus: Match Finished\nVenue: Spencer Park\, Brisbane\n\nFixtures by HerFix
+ tures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Canberra United vs Brisbane Roar (1–0)
+DTSTART:20261115T040000Z
+DTEND:20261115T060000Z
+DTSTAMP:20261125T102023Z
+UID:af-a-league-women-1632126@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nCanberra United vs Brisbane Roar\nStat
+ us: Match Finished\nVenue: McKellar Park\, Canberra\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Brisbane Roar vs Melbourne City (1–0)
 DTSTART:20261121T055000Z
 DTEND:20261121T075000Z
-DTSTAMP:20261125T101541Z
-UID:espn-a-league-women-401913228@herfixtures.com
+DTSTAMP:20261125T102023Z
+UID:af-a-league-women-1632129@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nBrisbane Roar vs Melbourne City\nStatu
- s: Full Time\nVenue: Dolphin Stadium\, Queensland\nTV: ESPN+\n\nFixtures b
- y HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401913228/melbourne-city-br
- isbane-roar
+ s: Match Finished\nVenue: Kayo Stadium\, Brisbane\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Central Coast Mariners vs Brisbane Roar
 DTSTART:20261213T060000Z
 DTEND:20261213T080000Z
-DTSTAMP:20261125T101541Z
-UID:espn-a-league-women-401913221@herfixtures.com
+DTSTAMP:20261125T102023Z
+UID:af-a-league-women-1632136@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nCentral Coast Mariners vs Brisbane Roa
- r\nStatus: Scheduled\nVenue: Central Coast Stadium\, New South Wales\n\nFi
- xtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401913221/brisbane-roar-cen
- tral-coast-mariners
+ r\nStatus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports o
+ n Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Wellington Phoenix vs Brisbane Roar
 DTSTART:20261220T020000Z
 DTEND:20261220T040000Z
-DTSTAMP:20261125T101541Z
-UID:espn-a-league-women-401913217@herfixtures.com
+DTSTAMP:20261125T102023Z
+UID:af-a-league-women-1632140@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nWellington Phoenix vs Brisbane Roar\nS
- tatus: Scheduled\nVenue: Porirua Park\, Porirua\n\nFixtures by HerFixtures
- .com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401913217/brisbane-roar-wel
- lington-phoenix
+ tatus: Not Started\nVenue: Sky Stadium\, Wellington\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Brisbane Roar vs Perth Glory
 DTSTART:20261230T055000Z
 DTEND:20261230T075000Z
-DTSTAMP:20261125T101541Z
-UID:espn-a-league-women-401913211@herfixtures.com
+DTSTAMP:20261125T102023Z
+UID:af-a-league-women-1632146@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nBrisbane Roar vs Perth Glory\nStatus: 
- Scheduled\nVenue: Dolphin Stadium\, Queensland\n\nFixtures by HerFixtures.
- com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401913211/perth-glory-brisb
- ane-roar
+ Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
+ ndar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Sydney FC vs Brisbane Roar
 DTSTART:20270102T055000Z
 DTEND:20270102T075000Z
-DTSTAMP:20261125T101541Z
-UID:espn-a-league-women-401913208@herfixtures.com
-DESCRIPTION:A-League Women 2026/27\nSydney FC vs Brisbane Roar\nStatus: Sc
- heduled\nVenue: Allianz Stadium\, Sydney\n\nFixtures by HerFixtures.com 
- — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401913208/brisbane-roar-syd
- ney-fc
+DTSTAMP:20261125T102023Z
+UID:af-a-league-women-1632149@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nSydney FC vs Brisbane Roar\nStatus: No
+ t Started\n\nFixtures by HerFixtures.com — Women's Sports on Your Calend
+ ar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Brisbane Roar vs Adelaide United
 DTSTART:20270117T060000Z
 DTEND:20270117T080000Z
-DTSTAMP:20261125T101541Z
-UID:espn-a-league-women-401913195@herfixtures.com
+DTSTAMP:20261125T102023Z
+UID:af-a-league-women-1632162@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nBrisbane Roar vs Adelaide United\nStat
- us: Scheduled\nVenue: Spencer Park\, Brisbane\n\nFixtures by HerFixtures.c
- om — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401913195/adelaide-united-b
- risbane-roar
+ us: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your 
+ Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Newcastle Jets vs Brisbane Roar
 DTSTART:20270124T060000Z
 DTEND:20270124T080000Z
-DTSTAMP:20261125T101541Z
-UID:espn-a-league-women-401913190@herfixtures.com
+DTSTAMP:20261125T102023Z
+UID:af-a-league-women-1632167@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nNewcastle Jets vs Brisbane Roar\nStatu
- s: Scheduled\nVenue: Maitland No.1 Sportsground\, Maitland\n\nFixtures by 
- HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401913190/brisbane-roar-new
- castle-jets
+ s: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your C
+ alendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Melbourne Victory vs Brisbane Roar
 DTSTART:20270130T060000Z
 DTEND:20270130T080000Z
-DTSTAMP:20261125T101541Z
-UID:espn-a-league-women-401913187@herfixtures.com
+DTSTAMP:20261125T102023Z
+UID:af-a-league-women-1632170@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nMelbourne Victory vs Brisbane Roar\nSt
- atus: Scheduled\nVenue: The Home of the Matildas\, Melbourne\n\nFixtures b
- y HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401913187/brisbane-roar-mel
- bourne-victory
+ atus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Brisbane Roar vs Canberra United
 DTSTART:20270206T070000Z
 DTEND:20270206T090000Z
-DTSTAMP:20261125T101541Z
-UID:espn-a-league-women-401913182@herfixtures.com
+DTSTAMP:20261125T102023Z
+UID:af-a-league-women-1632175@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nBrisbane Roar vs Canberra United\nStat
- us: Scheduled\nVenue: Spencer Park\, Brisbane\n\nFixtures by HerFixtures.c
- om — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401913182/canberra-united-b
- risbane-roar
+ us: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your 
+ Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Perth Glory vs Brisbane Roar
 DTSTART:20270213T090000Z
 DTEND:20270213T110000Z
-DTSTAMP:20261125T101541Z
-UID:espn-a-league-women-401913177@herfixtures.com
+DTSTAMP:20261125T102023Z
+UID:af-a-league-women-1632180@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nPerth Glory vs Brisbane Roar\nStatus: 
- Scheduled\nVenue: Sam Kerr Football Centre\, Perth\n\nFixtures by HerFixtu
- res.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401913177/brisbane-roar-per
- th-glory
+ Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
+ ndar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Brisbane Roar vs Western Sydney
+SUMMARY:⚽ Brisbane Roar vs Western Sydney Wanderers
 DTSTART:20270220T070000Z
 DTEND:20270220T090000Z
-DTSTAMP:20261125T101541Z
-UID:espn-a-league-women-401913172@herfixtures.com
-DESCRIPTION:A-League Women 2026/27\nBrisbane Roar vs Western Sydney\nStatu
- s: Scheduled\nVenue: Spencer Park\, Brisbane\n\nFixtures by HerFixtures.co
- m — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401913172/western-sydney-br
- isbane-roar
+DTSTAMP:20261125T102023Z
+UID:af-a-league-women-1632185@herfixtures.com
+DESCRIPTION:A-League Women 2026/27\nBrisbane Roar vs Western Sydney Wander
+ ers\nStatus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports
+  on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Melbourne City vs Brisbane Roar
 DTSTART:20270313T040000Z
 DTEND:20270313T060000Z
-DTSTAMP:20261125T101541Z
-UID:espn-a-league-women-401913168@herfixtures.com
+DTSTAMP:20261125T102023Z
+UID:af-a-league-women-1632189@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nMelbourne City vs Brisbane Roar\nStatu
- s: Scheduled\nVenue: Melbourne City Football Academy\, Melbourne\n\nFixtur
- es by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401913168/brisbane-roar-mel
- bourne-city
+ s: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your C
+ alendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Brisbane Roar vs Wellington Phoenix
 DTSTART:20270319T080000Z
 DTEND:20270319T100000Z
-DTSTAMP:20261125T101541Z
-UID:espn-a-league-women-401913164@herfixtures.com
+DTSTAMP:20261125T102023Z
+UID:af-a-league-women-1632193@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nBrisbane Roar vs Wellington Phoenix\nS
- tatus: Scheduled\nVenue: Spencer Park\, Brisbane\n\nFixtures by HerFixture
- s.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401913164/wellington-phoeni
- x-brisbane-roar
+ tatus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Yo
+ ur Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Adelaide United vs Brisbane Roar
 DTSTART:20270327T040000Z
 DTEND:20270327T060000Z
-DTSTAMP:20261125T101541Z
-UID:espn-a-league-women-401913158@herfixtures.com
+DTSTAMP:20261125T102023Z
+UID:af-a-league-women-1632198@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nAdelaide United vs Brisbane Roar\nStat
- us: Scheduled\nVenue: ServiceFM Stadium\, Adelaide\n\nFixtures by HerFixtu
- res.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401913158/brisbane-roar-ade
- laide-united
+ us: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your 
+ Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Brisbane Roar vs Newcastle Jets
 DTSTART:20270410T070000Z
 DTEND:20270410T090000Z
-DTSTAMP:20261125T101541Z
-UID:espn-a-league-women-401913147@herfixtures.com
+DTSTAMP:20261125T102023Z
+UID:af-a-league-women-1632209@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nBrisbane Roar vs Newcastle Jets\nStatu
- s: Scheduled\nVenue: Spencer Park\, Brisbane\n\nFixtures by HerFixtures.co
- m — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401913147/newcastle-jets-br
- isbane-roar
+ s: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your C
+ alendar
+URL:https://herfixtures.com
 END:VEVENT
 END:VCALENDAR

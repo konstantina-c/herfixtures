@@ -105,6 +105,18 @@ def parse(fx: dict, league: dict, placeholders: set[int], first_line: str | None
         if not h or not a:
             return None
         start = datetime.fromisoformat(f["date"]).astimezone(timezone.utc)
+        # Hand-checked correction (api_football.overrides, keyed by fixture id): used only while
+        # API-Football still has the date we recorded; once it changes the game, ours stops applying.
+        fix = league.get("api_football", {}).get("overrides", {}).get(str(f["id"]))
+        if fix:
+            if f["date"][:16] == fix["api_date"][:16]:
+                start = datetime.fromisoformat(fix["kickoff"].replace("Z", "+00:00"))
+                if status in ("PST", "TBD"):
+                    status = "NS"
+                    f = dict(f, status=dict(f["status"], long="Rescheduled"))
+            else:
+                print(f"  ::warning::override for fixture {f['id']} no longer applies "
+                      f"(API-Football changed it to {f['date']}); delete it from espn_leagues.json")
         done = status in DONE
         time_tbc = not done and (status == "TBD" or f["id"] in placeholders)
         goals = fx.get("goals") or {}

@@ -10,268 +10,257 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Marseille vs Le Havre AC (1–0)
+SUMMARY:⚽ Marseille vs Le Havre (1–0)
 DTSTART:20260905T190000Z
 DTEND:20260905T210000Z
-DTSTAMP:20261115T134814Z
-UID:espn-premiere-ligue-401885671@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nMarseille vs Le Havre AC\nStatus: Ful
- l Time\nVenue: Stade Francis-Turcan\, Martigues\n\nFixtures by HerFixtures
- .com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885671/le-havre-ac-marse
- ille
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1580928@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nMarseille vs Le Havre\nStatus: Match 
+ Finished\n\nFixtures by HerFixtures.com — Women's Sports on Your Calenda
+ r
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Marseille vs Lens (2–1)
 DTSTART:20260912T160000Z
 DTEND:20260912T180000Z
-DTSTAMP:20261115T134814Z
-UID:espn-premiere-ligue-401888033@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nMarseille vs Lens\nStatus: Full Time
- \nVenue: Stade Francis-Turcan\, Martigues\n\nFixtures by HerFixtures.com 
- — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401888033/lens-marseille
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1585110@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nMarseille vs Lens\nStatus: Match Fini
+ shed\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Montpellier vs Marseille (0–0)
 DTSTART:20260919T190000Z
 DTEND:20260919T210000Z
-DTSTAMP:20261115T134814Z
-UID:espn-premiere-ligue-401885665@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nMontpellier vs Marseille\nStatus: Ful
- l Time\nVenue: Stade de la Mosson\, Montpellier\n\nFixtures by HerFixtures
- .com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885665/marseille-montpel
- lier
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1580934@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nMontpellier vs Marseille\nStatus: Mat
+ ch Finished\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
+ ndar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Strasbourg vs Marseille (3–3)
 DTSTART:20261003T163000Z
 DTEND:20261003T183000Z
-DTSTAMP:20261115T134814Z
-UID:espn-premiere-ligue-401885660@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs Marseille\nStatus: Full
-  Time\nVenue: Stade de la Meinau\, Strasbourg\n\nFixtures by HerFixtures.c
- om — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885660/marseille-strasbo
- urg
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1580939@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs Marseille\nStatus: Matc
+ h Finished\nVenue: Stade de la Meinau\, Strasbourg\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Marseille vs FC Fleury 91 (2–2)
 DTSTART:20261018T110000Z
 DTEND:20261018T130000Z
-DTSTAMP:20261115T134814Z
-UID:espn-premiere-ligue-401885659@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nMarseille vs FC Fleury 91\nStatus: Fu
- ll Time\nVenue: Stade Francis-Turcan\, Martigues\n\nFixtures by HerFixture
- s.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885659/fc-fleury-91-mars
- eille
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1580940@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nMarseille vs FC Fleury 91\nStatus: Ma
+ tch Finished\nVenue: Centre d'entrainement Robert-Louis-Dreyfus\, Marseill
+ e\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ OL Lyonnes vs Marseille (5–0)
 DTSTART:20261024T190000Z
 DTEND:20261024T210000Z
-DTSTAMP:20261115T134814Z
-UID:espn-premiere-ligue-401885656@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nOL Lyonnes vs Marseille\nStatus: Full
-  Time\nVenue: Groupama Stadium\, Lyon\n\nFixtures by HerFixtures.com — W
- omen's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885656/marseille-ol-lyon
- nes
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1580943@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nOL Lyonnes vs Marseille\nStatus: Matc
+ h Finished\nVenue: Groupama Stadium\, Lyon\n\nFixtures by HerFixtures.com 
+ — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Marseille vs Nantes (1–0)
 DTSTART:20261030T200000Z
 DTEND:20261030T220000Z
-DTSTAMP:20261115T134814Z
-UID:espn-premiere-ligue-401885651@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nMarseille vs Nantes\nStatus: Full Tim
- e\nVenue: Stade Francis-Turcan\, Martigues\n\nFixtures by HerFixtures.com 
- — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885651/nantes-marseille
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1580946@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nMarseille vs Nantes\nStatus: Match Fi
+ nished\nVenue: Centre d'entrainement Robert-Louis-Dreyfus\, Marseille\n\nF
+ ixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Saint-Malo vs Marseille (1–2)
 DTSTART:20261107T200000Z
 DTEND:20261107T220000Z
-DTSTAMP:20261115T134814Z
-UID:espn-premiere-ligue-401885696@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Marseille\nStatus: Full
-  Time\nVenue: Stade de Marville\, Saint-Malo\n\nFixtures by HerFixtures.co
- m — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885696/marseille-saint-m
- alo
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1581012@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Marseille\nStatus: Matc
+ h Finished\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
+ dar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Marseille vs Paris Saint-Germain (0–2)
 DTSTART:20261114T200000Z
 DTEND:20261114T220000Z
-DTSTAMP:20261121T225912Z
-UID:espn-premiere-ligue-401885644@herfixtures.com
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1580954@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMarseille vs Paris Saint-Germain\nSta
- tus: Full Time\nVenue: Stade Francis-Turcan\, Martigues\n\nFixtures by Her
- Fixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885644/paris-saint-germa
- in-marseille
+ tus: Match Finished\nVenue: Centre d'entrainement Robert-Louis-Dreyfus\, M
+ arseille\n\nFixtures by HerFixtures.com — Women's Sports on Your Calenda
+ r
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Toulouse vs Marseille (1–1)
 DTSTART:20261120T200000Z
 DTEND:20261120T220000Z
-DTSTAMP:20261125T101527Z
-UID:espn-premiere-ligue-401885693@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nToulouse vs Marseille\nStatus: Full T
- ime\nVenue: Stadium Municipal de Toulouse\, Toulouse\n\nFixtures by HerFix
- tures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885693/marseille-toulous
- e
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Paris FC vs Marseille
-DTSTART:20261211T200000Z
-DTEND:20261211T220000Z
-DTSTAMP:20261125T101527Z
-UID:espn-premiere-ligue-401885597@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nParis FC vs Marseille\nStatus: Schedu
- led\nVenue: Stade Sébastien Charléty\, Paris\n\nFixtures by HerFixtures.
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1581016@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nToulouse vs Marseille\nStatus: Match 
+ Finished\nVenue: Stade de la Ramée\, Toulouse\n\nFixtures by HerFixtures.
  com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885597/marseille-paris-f
- c
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Marseille vs Montpellier
-DTSTART:20261219T170000Z
-DTEND:20261219T190000Z
-DTSTAMP:20261125T101527Z
-UID:espn-premiere-ligue-401885595@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nMarseille vs Montpellier\nStatus: Sch
- eduled\nVenue: Stade Francis-Turcan\, Martigues\n\nFixtures by HerFixtures
- .com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885595/montpellier-marse
- ille
+SUMMARY:⚽ Paris FC vs Marseille (time TBC)
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1580962@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nParis FC vs Marseille\nStatus: Not St
+ arted\nKick-off time not confirmed yet. Your calendar updates automaticall
+ y once it is.\nVenue: Stade Charlety\, Paris\n\nFixtures by HerFixtures.co
+ m — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Le Havre AC vs Marseille
-DTSTART:20270116T170000Z
-DTEND:20270116T190000Z
-DTSTAMP:20261125T101527Z
-UID:espn-premiere-ligue-401885593@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nLe Havre AC vs Marseille\nStatus: Sch
- eduled\nVenue: Stade Océane\, Le Havre\n\nFixtures by HerFixtures.com —
-  Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885593/marseille-le-havr
- e-ac
+SUMMARY:⚽ Marseille vs Montpellier (time TBC)
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1580964@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nMarseille vs Montpellier\nStatus: Not
+  Started\nKick-off time not confirmed yet. Your calendar updates automatic
+ ally once it is.\n\nFixtures by HerFixtures.com — Women's Sports on Your
+  Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Marseille vs Strasbourg
-DTSTART:20270123T170000Z
-DTEND:20270123T190000Z
-DTSTAMP:20261125T101527Z
-UID:espn-premiere-ligue-401885587@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nMarseille vs Strasbourg\nStatus: Sche
- duled\nVenue: Stade Francis-Turcan\, Martigues\n\nFixtures by HerFixtures.
- com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885587/strasbourg-marsei
- lle
+SUMMARY:⚽ Le Havre vs Marseille (time TBC)
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1580966@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nLe Havre vs Marseille\nStatus: Not St
+ arted\nKick-off time not confirmed yet. Your calendar updates automaticall
+ y once it is.\n\nFixtures by HerFixtures.com — Women's Sports on Your Ca
+ lendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Marseille vs Strasbourg (time TBC)
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1580970@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nMarseille vs Strasbourg\nStatus: Not 
+ Started\nKick-off time not confirmed yet. Your calendar updates automatica
+ lly once it is.\n\nFixtures by HerFixtures.com — Women's Sports on Your 
+ Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Marseille vs OL Lyonnes (time TBC)
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-DTSTAMP:20261125T101527Z
-UID:espn-premiere-ligue-401885585@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nMarseille vs OL Lyonnes\nStatus: Sche
- duled\nKick-off time not confirmed yet. Your calendar updates automaticall
- y once it is.\nVenue: Stade Francis-Turcan\, Martigues\n\nFixtures by HerF
- ixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885585/ol-lyonnes-marsei
- lle
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1580974@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nMarseille vs OL Lyonnes\nStatus: Not 
+ Started\nKick-off time not confirmed yet. Your calendar updates automatica
+ lly once it is.\n\nFixtures by HerFixtures.com — Women's Sports on Your 
+ Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Nantes vs Marseille
-DTSTART:20270220T160000Z
-DTEND:20270220T180000Z
-DTSTAMP:20261125T101527Z
-UID:espn-premiere-ligue-401885581@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nNantes vs Marseille\nStatus: Schedule
- d\nVenue: Stade Marcel-Saupin\, Nantes\n\nFixtures by HerFixtures.com — 
- Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885581/marseille-nantes
+SUMMARY:⚽ Nantes vs Marseille (time TBC)
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1580978@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nNantes vs Marseille\nStatus: Not Star
+ ted\nKick-off time not confirmed yet. Your calendar updates automatically 
+ once it is.\nVenue: Stade Marcel Saupin\, Nantes\n\nFixtures by HerFixture
+ s.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Paris Saint-Germain vs Marseille (time TBC)
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-DTSTAMP:20261125T101527Z
-UID:espn-premiere-ligue-401885578@herfixtures.com
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1580981@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis Saint-Germain vs Marseille\nSta
- tus: Scheduled\nKick-off time not confirmed yet. Your calendar updates aut
- omatically once it is.\nVenue: Campus PSG\, Poissy\n\nFixtures by HerFixtu
- res.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885578/marseille-paris-s
- aint-germain
+ tus: Not Started\nKick-off time not confirmed yet. Your calendar updates a
+ utomatically once it is.\nVenue: Paris Saint-Germain Training Center\, Poi
+ ssy\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Marseille vs Saint-Malo (time TBC)
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-DTSTAMP:20261125T101527Z
-UID:espn-premiere-ligue-401885679@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nMarseille vs Saint-Malo\nStatus: Sche
- duled\nKick-off time not confirmed yet. Your calendar updates automaticall
- y once it is.\nVenue: Stade Francis-Turcan\, Martigues\n\nFixtures by HerF
- ixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885679/saint-malo-marsei
- lle
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1581029@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nMarseille vs Saint-Malo\nStatus: Not 
+ Started\nKick-off time not confirmed yet. Your calendar updates automatica
+ lly once it is.\n\nFixtures by HerFixtures.com — Women's Sports on Your 
+ Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Marseille vs Toulouse
-DTSTART:20270327T160000Z
-DTEND:20270327T180000Z
-DTSTAMP:20261125T101527Z
-UID:espn-premiere-ligue-401885678@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nMarseille vs Toulouse\nStatus: Schedu
- led\nVenue: Stade Francis-Turcan\, Martigues\n\nFixtures by HerFixtures.co
- m — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885678/toulouse-marseill
- e
+SUMMARY:⚽ Marseille vs Toulouse (time TBC)
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1581030@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nMarseille vs Toulouse\nStatus: Not St
+ arted\nKick-off time not confirmed yet. Your calendar updates automaticall
+ y once it is.\n\nFixtures by HerFixtures.com — Women's Sports on Your Ca
+ lendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ FC Fleury 91 vs Marseille (time TBC)
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
-DTSTAMP:20261125T101527Z
-UID:espn-premiere-ligue-401885569@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nFC Fleury 91 vs Marseille\nStatus: Sc
- heduled\nKick-off time not confirmed yet. Your calendar updates automatica
- lly once it is.\nVenue: Stade Robert Bobin\, Bondoufle\n\nFixtures by HerF
- ixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885569/marseille-fc-fleu
- ry-91
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1580990@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nFC Fleury 91 vs Marseille\nStatus: No
+ t Started\nKick-off time not confirmed yet. Your calendar updates automati
+ cally once it is.\nVenue: Terrain Walter Felder\, Fleury Merogis\n\nFixtur
+ es by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Marseille vs Paris FC
-DTSTART:20270501T150000Z
-DTEND:20270501T170000Z
-DTSTAMP:20261125T101527Z
-UID:espn-premiere-ligue-401885564@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nMarseille vs Paris FC\nStatus: Schedu
- led\nVenue: Stade Francis-Turcan\, Martigues\n\nFixtures by HerFixtures.co
- m — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885564/paris-fc-marseill
- e
+SUMMARY:⚽ Marseille vs Paris FC (time TBC)
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1580993@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nMarseille vs Paris FC\nStatus: Not St
+ arted\nKick-off time not confirmed yet. Your calendar updates automaticall
+ y once it is.\n\nFixtures by HerFixtures.com — Women's Sports on Your Ca
+ lendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Lens vs Marseille (time TBC)
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270505
-DTSTAMP:20261125T101527Z
-UID:espn-premiere-ligue-401888002@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nLens vs Marseille\nStatus: Scheduled
- \nKick-off time not confirmed yet. Your calendar updates automatically onc
- e it is.\nVenue: Stade François-Blin\, Lens\n\nFixtures by HerFixtures.co
- m — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401888002/marseille-lens
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1585130@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nLens vs Marseille\nStatus: Not Starte
+ d\nKick-off time not confirmed yet. Your calendar updates automatically on
+ ce it is.\nVenue: Degouve-Brabant Stadium\, Arras\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 END:VCALENDAR

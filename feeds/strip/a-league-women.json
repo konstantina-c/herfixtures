@@ -1,42 +1,42 @@
 {
- "espn-a-league-women-401913226@herfixtures.com": {
+ "af-a-league-women-1632128@herfixtures.com": {
   "away": {
-   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20282.png",
-   "name": "Perth Glory"
+   "logo": "https://media.api-sports.io/football/teams/1972.png",
+   "name": "Adelaide United"
   },
   "home": {
-   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20284.png",
-   "name": "Melbourne V"
+   "logo": "https://media.api-sports.io/football/teams/1975.png",
+   "name": "Newcastle Jets"
   }
  },
- "espn-a-league-women-401913227@herfixtures.com": {
+ "af-a-league-women-1632129@herfixtures.com": {
   "away": {
-   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20288.png",
-   "name": "Canberra Utd"
+   "logo": "https://media.api-sports.io/football/teams/1971.png",
+   "name": "Melbourne City"
   },
   "home": {
-   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20285.png",
+   "logo": "https://media.api-sports.io/football/teams/1973.png",
+   "name": "Brisbane Roar"
+  }
+ },
+ "af-a-league-women-1632130@herfixtures.com": {
+  "away": {
+   "logo": "https://media.api-sports.io/football/teams/1970.png",
+   "name": "Canberra United"
+  },
+  "home": {
+   "logo": "https://media.api-sports.io/football/teams/1968.png",
    "name": "Sydney FC"
   }
  },
- "espn-a-league-women-401913228@herfixtures.com": {
+ "af-a-league-women-1632131@herfixtures.com": {
   "away": {
-   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20280.png",
-   "name": "Melbourne C"
+   "logo": "https://media.api-sports.io/football/teams/1969.png",
+   "name": "Perth Glory"
   },
   "home": {
-   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20281.png",
-   "name": "Brisbane"
-  }
- },
- "espn-a-league-women-401913229@herfixtures.com": {
-  "away": {
-   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20286.png",
-   "name": "Adelaide Utd"
-  },
-  "home": {
-   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20287.png",
-   "name": "Newcastle Jets"
+   "logo": "https://media.api-sports.io/football/teams/1976.png",
+   "name": "Melbourne Victory"
   }
  }
 }
