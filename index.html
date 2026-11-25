@@ -1393,9 +1393,11 @@ body {
       <div class="eyebrow coral">Our story</div>
       <div class="section-title">Why HerFixtures exists.</div>
       <div class="mission-body">
-        <p>Women's sports has always been here. The athletes, the seasons, the rivalries, the drama — all of it, running in full every year. <strong>What was missing was never the sport. It was the infrastructure to follow it.</strong></p>
-        <p>HerFixtures came to life from our own lived experience — or rather, the absence of it. The frustration of searching for fixtures that should have been easy to find. The effort of manually tracking competitions across fragmented sources. The quiet resignation of missing matches not because we didn't care, but because nothing made it easy to stay connected. <strong>That experience — felt and real — is what led us to build something that simply works.</strong> Something that assumes you belong, that your interest is valid, that your calendar deserves to know.</p>
-        <p>This is a small thing. And it is also, quietly, a statement about what we believe women's sports fans deserve as a baseline.</p>
+        <p>Women's sports have always been here. The seasons, the rivalries, the comebacks, all of it, every year. <strong>What was missing was never the sport. It was a simple way to follow it.</strong></p>
+        <p>We know because we lived it. We hunted for fixtures across five tabs and three time zones, and still missed matches we cared about.</p>
+        <p><strong>So we're fixing the fixtures.</strong> Our aim: every match, and every team you love, with a place in your calendar, in your time zone.</p>
+        <p>A small thing. Also, quietly, a statement about what fans should expect as standard.</p>
+        <p>Made by women, for everyone who follows women's sports.</p>
       </div>
     </div>
 
@@ -1697,7 +1699,7 @@ async function subscribeHer(emailId, leagueId, btn) {
 .wnba-success-sub {
   font-family: 'DM Sans', sans-serif;
   font-size: 14px; color: var(--muted); line-height: 1.6;
-  margin-bottom: 28px; max-width: 360px;
+  margin-bottom: 28px; max-width: 360px; text-wrap: balance;
 }
 .wnba-success-close {
   padding: 12px 32px; border-radius: 12px;
@@ -1707,6 +1709,14 @@ async function subscribeHer(emailId, leagueId, btn) {
   transition: all 0.2s;
 }
 .wnba-success-close:hover { background: var(--brand-fg); color: white; }
+.wnba-success-copy {
+  padding: 12px 32px; border-radius: 12px; margin-bottom: 10px; min-width: 160px;
+  background: var(--brand-fg); border: 1.5px solid var(--brand-fg); color: white;
+  font-family: 'DM Sans', sans-serif; font-size: 14px; font-weight: 600; cursor: pointer;
+  transition: opacity 0.2s;
+}
+.wnba-success-copy:hover { opacity: 0.9; }
+.wnba-success-close { min-width: 160px; }
 
 /* ── Mobile bottom sheet ── */
 @media (max-width: 640px) {
@@ -1799,8 +1809,9 @@ async function subscribeHer(emailId, leagueId, btn) {
 
     <div class="wnba-success" id="feedSuccess">
       <div class="wnba-success-icon">✓</div>
-      <div class="wnba-success-title">Added to your calendar</div>
-      <div class="wnba-success-sub">Fixtures will appear in your calendar next time it syncs. You won't miss a game.</div>
+      <div class="wnba-success-title">Added to your calendar.</div>
+      <div class="wnba-success-sub">Know someone who'd want this too? Pass it on. Assists count.</div>
+      <button class="wnba-success-copy" id="feedCopyLink" onclick="copyShareLink(this)">Copy link</button>
       <button class="wnba-success-close" onclick="FeedModal.close()">Close</button>
     </div>
   </div>
@@ -2997,6 +3008,26 @@ fetch('/feed_status.json', { cache: 'no-cache' })
     orderCompetitionCards(status.feeds);
   })
   .catch(() => {});
+
+/* Confirmation pop-up: copy the homepage link to share ("Assists count"). */
+function copyShareLink(btn) {
+  const url = 'https://herfixtures.com/';
+  const done = () => {
+    btn.textContent = 'Link copied ✓';
+    gtag('event', 'share_copy_link');
+    setTimeout(() => { btn.textContent = 'Copy link'; }, 2000);
+  };
+  if (navigator.clipboard && window.isSecureContext) {
+    navigator.clipboard.writeText(url).then(done, () => fallback());
+  } else fallback();
+  function fallback() {
+    const t = document.createElement('textarea');
+    t.value = url; t.setAttribute('readonly', ''); t.style.position = 'fixed'; t.style.opacity = '0';
+    document.body.appendChild(t); t.select();
+    try { document.execCommand('copy'); done(); } catch (e) { prompt('Copy this link:', url); }
+    t.remove();
+  }
+}
 
 /* "Pick your competition" order: in season first, then off-season, then finished
    tournaments. Within each: international competitions, then Europe, the Americas and
