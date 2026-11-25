@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T10:16:00Z",
+  "updated": "2026-11-25T10:24:38Z",
   "version": 2,
   "rules": {
     "results_days": 3,
@@ -276,13 +276,13 @@
           "date": "2026-11-22",
           "tbc": false,
           "top": {
-            "name": "Lyonnes",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19256.png",
+            "name": "OL Lyonnes",
+            "logo": "https://media.api-sports.io/football/teams/1674.png",
             "score": 5
           },
           "bottom": {
             "name": "Strasbourg",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
+            "logo": "https://media.api-sports.io/football/teams/24514.png",
             "score": 2
           },
           "winner": "top"
@@ -293,19 +293,19 @@
           "tbc": false,
           "top": {
             "name": "Paris FC",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21640.png",
+            "logo": "https://media.api-sports.io/football/teams/1676.png",
             "score": 2
           },
           "bottom": {
-            "name": "Fleury",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21637.png",
+            "name": "FC Fleury 91",
+            "logo": "https://media.api-sports.io/football/teams/1677.png",
             "score": 1
           },
           "winner": "top"
         }
       ],
       "upcoming": [],
-      "next_date": "2026-12-11"
+      "next_date": "2026-12-12"
     },
     {
       "id": "a-league-women",

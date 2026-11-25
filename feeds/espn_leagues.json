@@ -170,11 +170,46 @@
           "West Ham United",
           "west_ham"
         ]
+      },
+      "_api_football_ready": {
+        "league": 44,
+        "season": 2026,
+        "uniform_min": 4,
+        "note": "Held on ESPN (Nov 25): API-Football's December times lag the official WSL schedule (e.g. Everton v Arsenal on the wrong day). Recheck ~Dec 2; team ids below map our slugs.",
+        "team_ids": {
+          "arsenal": "1850",
+          "aston_villa": "14219",
+          "birmingham_city": "1845",
+          "brighton": "1857",
+          "charlton": "15402",
+          "chelsea": "1853",
+          "crystal_palace": "15409",
+          "everton": "1855",
+          "liverpool": "1847",
+          "london_city_lionesses": "15406",
+          "man_city": "1854",
+          "man_united": "4898",
+          "tottenham": "4899",
+          "west_ham": "1856"
+        }
       }
     },
     "premiere-ligue": {
       "name": "Première Ligue",
-      "espn": "soccer/fra.w.1",
+      "source": "api-football",
+      "api_football": {
+        "league": 64,
+        "season": 2026,
+        "uniform_min": 4,
+        "overrides": {
+          "1581009": {
+            "api_date": "2026-10-24T13:00:00+00:00",
+            "kickoff": "2027-01-13T18:00:00Z",
+            "game": "Saint-Malo vs Paris FC (J6, postponed from 24 Oct)",
+            "source": "FFF: postponed 24 Oct (weather); Ouest-France + ESPN: Wed 13 Jan 2027 19:00 CET; checked 25 Nov 2026"
+          }
+        }
+      },
       "season": {
         "start": "2026-08-15",
         "end": "2027-06-10"
@@ -183,7 +218,7 @@
       "order": "home_vs_away",
       "match_minutes": 120,
       "output": "premiere_ligue.ics",
-      "uid_prefix": "espn-premiere-ligue",
+      "uid_prefix": "af-premiere-ligue",
       "title": "Première Ligue 2026/27",
       "prodid": "-//HerFixtures//Premiere Ligue 2026-27//EN",
       "cal_name": "Première Ligue 2026/27 — HerFixtures",
@@ -193,51 +228,51 @@
       "team_cal_name": "{team} — Première Ligue 2026/27 — HerFixtures",
       "team_cal_desc": "{team} Première Ligue 2026/27 fixtures. Updated automatically by HerFixtures.com",
       "teams": {
-        "21637": [
+        "1677": [
           "FC Fleury 91",
           "fleury"
         ],
-        "21635": [
+        "14006": [
           "Le Havre",
           "le_havre"
         ],
-        "131297": [
+        "26234": [
           "Lens",
           "lens"
         ],
-        "131298": [
+        "1673": [
           "Marseille",
           "marseille"
         ],
-        "21638": [
+        "1675": [
           "Montpellier",
           "montpellier"
         ],
-        "22328": [
+        "24513": [
           "Nantes",
           "nantes"
         ],
-        "19256": [
+        "1674": [
           "OL Lyonnes",
           "ol_lyonnes"
         ],
-        "21640": [
+        "1676": [
           "Paris FC",
           "paris_fc"
         ],
-        "19258": [
+        "1667": [
           "Paris Saint-Germain",
           "psg"
         ],
-        "131875": [
+        "27932": [
           "Saint-Malo",
           "saint_malo"
         ],
-        "22329": [
+        "24514": [
           "Strasbourg",
           "strasbourg"
         ],
-        "131876": [
+        "27933": [
           "Toulouse",
           "toulouse"
         ]
@@ -245,7 +280,12 @@
     },
     "a-league-women": {
       "name": "A-League Women",
-      "espn": "soccer/aus.w.1",
+      "source": "api-football",
+      "api_football": {
+        "league": 190,
+        "season": 2026,
+        "uniform_min": 4
+      },
       "season": {
         "start": "2026-10-01",
         "end": "2027-05-31"
@@ -254,7 +294,7 @@
       "order": "home_vs_away",
       "match_minutes": 120,
       "output": "a_league_women.ics",
-      "uid_prefix": "espn-a-league-women",
+      "uid_prefix": "af-a-league-women",
       "title": "A-League Women 2026/27",
       "prodid": "-//HerFixtures//A-League Women 2026-27//EN",
       "cal_name": "A-League Women 2026/27 — HerFixtures",
@@ -264,47 +304,47 @@
       "team_cal_name": "{team} — A-League Women 2026/27 — HerFixtures",
       "team_cal_desc": "{team} A-League Women 2026/27 fixtures. Updated automatically by HerFixtures.com",
       "teams": {
-        "20286": [
+        "1972": [
           "Adelaide United",
           "adelaide_united"
         ],
-        "20281": [
+        "1973": [
           "Brisbane Roar",
           "brisbane_roar"
         ],
-        "20288": [
+        "1970": [
           "Canberra United",
           "canberra_united"
         ],
-        "21991": [
+        "22292": [
           "Central Coast Mariners",
           "central_coast_mariners"
         ],
-        "20280": [
+        "1971": [
           "Melbourne City",
           "melbourne_city"
         ],
-        "20284": [
+        "1976": [
           "Melbourne Victory",
           "melbourne_victory"
         ],
-        "20287": [
+        "1975": [
           "Newcastle Jets",
           "newcastle_jets"
         ],
-        "20282": [
+        "1969": [
           "Perth Glory",
           "perth_glory"
         ],
-        "20285": [
+        "1968": [
           "Sydney FC",
           "sydney_fc"
         ],
-        "21133": [
+        "17905": [
           "Wellington Phoenix",
           "wellington_phoenix"
         ],
-        "20283": [
+        "1974": [
           "Western Sydney Wanderers",
           "western_sydney_wanderers"
         ]

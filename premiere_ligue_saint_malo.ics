@@ -13,261 +13,252 @@ BEGIN:VEVENT
 SUMMARY:⚽ Strasbourg vs Saint-Malo (3–2)
 DTSTART:20260905T160000Z
 DTEND:20260905T180000Z
-DTSTAMP:20261115T134814Z
-UID:espn-premiere-ligue-401885708@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs Saint-Malo\nStatus: Ful
- l Time\nVenue: Parc des Sports Molsheim\, Molsheim\n\nFixtures by HerFixtu
- res.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885708/saint-malo-strasb
- ourg
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1581000@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs Saint-Malo\nStatus: Mat
+ ch Finished\nVenue: Stade de la Meinau\, Strasbourg\n\nFixtures by HerFixt
+ ures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Saint-Malo vs Montpellier (1–0)
 DTSTART:20260912T160000Z
 DTEND:20260912T180000Z
-DTSTAMP:20261115T134814Z
-UID:espn-premiere-ligue-401885706@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Montpellier\nStatus: Fu
- ll Time\nVenue: Stade de Marville\, Saint-Malo\n\nFixtures by HerFixtures.
- com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885706/montpellier-saint
- -malo
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1581001@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Montpellier\nStatus: Ma
+ tch Finished\nVenue: Stade de Marville\, Paris - La Courneuve\n\nFixtures 
+ by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Saint-Malo vs FC Fleury 91 (0–2)
 DTSTART:20260919T160000Z
 DTEND:20260919T180000Z
-DTSTAMP:20261115T134814Z
-UID:espn-premiere-ligue-401885705@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs FC Fleury 91\nStatus: F
- ull Time\nVenue: Stade de Marville\, Saint-Malo\n\nFixtures by HerFixtures
- .com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885705/fc-fleury-91-sain
- t-malo
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1581003@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs FC Fleury 91\nStatus: M
+ atch Finished\nVenue: Stade de Marville\, Paris - La Courneuve\n\nFixtures
+  by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Le Havre AC vs Saint-Malo (2–0)
+SUMMARY:⚽ Le Havre vs Saint-Malo (2–0)
 DTSTART:20261003T160000Z
 DTEND:20261003T180000Z
-DTSTAMP:20261115T134814Z
-UID:espn-premiere-ligue-401885703@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nLe Havre AC vs Saint-Malo\nStatus: Fu
- ll Time\nVenue: Stade Océane\, Le Havre\n\nFixtures by HerFixtures.com 
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1581004@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nLe Havre vs Saint-Malo\nStatus: Match
+  Finished\nVenue: Stade Océane\, Le Havre\n\nFixtures by HerFixtures.com 
  — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885703/saint-malo-le-hav
- re-ac
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Saint-Malo vs Nantes (0–2)
 DTSTART:20261017T160000Z
 DTEND:20261017T180000Z
-DTSTAMP:20261115T134814Z
-UID:espn-premiere-ligue-401885701@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Nantes\nStatus: Full Ti
- me\nVenue: Stade de Marville\, Saint-Malo\n\nFixtures by HerFixtures.com 
- — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885701/nantes-saint-malo
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1581006@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Nantes\nStatus: Match F
+ inished\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Toulouse vs Saint-Malo (3–1)
 DTSTART:20261031T170000Z
 DTEND:20261031T190000Z
-DTSTAMP:20261115T134814Z
-UID:espn-premiere-ligue-401885698@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nToulouse vs Saint-Malo\nStatus: Full 
- Time\nVenue: Stade de la Ramée\, Toulouse\n\nFixtures by HerFixtures.com 
- — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885698/saint-malo-toulou
- se
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1581010@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nToulouse vs Saint-Malo\nStatus: Match
+  Finished\nVenue: Stade de la Ramée\, Toulouse\n\nFixtures by HerFixtures
+ .com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Saint-Malo vs Marseille (1–2)
 DTSTART:20261107T200000Z
 DTEND:20261107T220000Z
-DTSTAMP:20261115T134814Z
-UID:espn-premiere-ligue-401885696@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Marseille\nStatus: Full
-  Time\nVenue: Stade de Marville\, Saint-Malo\n\nFixtures by HerFixtures.co
- m — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885696/marseille-saint-m
- alo
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1581012@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Marseille\nStatus: Matc
+ h Finished\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
+ dar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ OL Lyonnes vs Saint-Malo (1–0)
 DTSTART:20261114T170000Z
 DTEND:20261114T190000Z
-DTSTAMP:20261121T225912Z
-UID:espn-premiere-ligue-401885694@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nOL Lyonnes vs Saint-Malo\nStatus: Ful
- l Time\nVenue: Terrain d'honneur Gérard Houllier\, Décines-Charpieu\n\nF
- ixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885694/saint-malo-ol-lyo
- nnes
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1581013@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nOL Lyonnes vs Saint-Malo\nStatus: Mat
+ ch Finished\nVenue: Groupama Stadium\, Lyon\n\nFixtures by HerFixtures.com
+  — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Paris Saint-Germain vs Saint-Malo (1–0)
 DTSTART:20261121T200000Z
 DTEND:20261121T220000Z
-DTSTAMP:20261125T101527Z
-UID:espn-premiere-ligue-401885692@herfixtures.com
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1581015@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis Saint-Germain vs Saint-Malo\nSt
- atus: Full Time\nVenue: Training Center Paris Saint Germain Terrain 5\, Po
- issy\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885692/saint-malo-paris-
- saint-germain
+ atus: Match Finished\nVenue: Stade Georges Lefevre\, Paris\n\nFixtures by 
+ HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Saint-Malo vs Lens
-DTSTART:20261212T170000Z
-DTEND:20261212T190000Z
-DTSTAMP:20261125T101527Z
-UID:espn-premiere-ligue-401888024@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Lens\nStatus: Scheduled
- \nVenue: Stade de Marville\, Saint-Malo\n\nFixtures by HerFixtures.com —
-  Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401888024/lens-saint-malo
+SUMMARY:⚽ Saint-Malo vs Lens (time TBC)
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1585119@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Lens\nStatus: Not Start
+ ed\nKick-off time not confirmed yet. Your calendar updates automatically o
+ nce it is.\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
+ dar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Nantes vs Saint-Malo
-DTSTART:20261219T170000Z
-DTEND:20261219T190000Z
-DTSTAMP:20261125T101527Z
-UID:espn-premiere-ligue-401885689@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nNantes vs Saint-Malo\nStatus: Schedul
- ed\nVenue: Stade Marcel-Saupin\, Nantes\n\nFixtures by HerFixtures.com —
-  Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885689/saint-malo-nantes
+SUMMARY:⚽ Nantes vs Saint-Malo (time TBC)
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1581019@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nNantes vs Saint-Malo\nStatus: Not Sta
+ rted\nKick-off time not confirmed yet. Your calendar updates automatically
+  once it is.\nVenue: Stade Marcel Saupin\, Nantes\n\nFixtures by HerFixtur
+ es.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Saint-Malo vs Paris FC
 DTSTART:20270113T180000Z
 DTEND:20270113T200000Z
-DTSTAMP:20261125T101527Z
-UID:espn-premiere-ligue-401885699@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Paris FC\nStatus: Sched
- uled\nVenue: Stade de Marville\, Saint-Malo\n\nFixtures by HerFixtures.com
-  — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885699/paris-fc-saint-ma
- lo
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1581009@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Paris FC\nStatus: Resch
+ eduled\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ FC Fleury 91 vs Saint-Malo
-DTSTART:20270116T170000Z
-DTEND:20270116T190000Z
-DTSTAMP:20261125T101527Z
-UID:espn-premiere-ligue-401885688@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nFC Fleury 91 vs Saint-Malo\nStatus: S
- cheduled\nVenue: Stade Robert Bobin\, Bondoufle\n\nFixtures by HerFixtures
- .com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885688/saint-malo-fc-fle
- ury-91
+SUMMARY:⚽ FC Fleury 91 vs Saint-Malo (time TBC)
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1581020@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nFC Fleury 91 vs Saint-Malo\nStatus: N
+ ot Started\nKick-off time not confirmed yet. Your calendar updates automat
+ ically once it is.\nVenue: Terrain Walter Felder\, Fleury Merogis\n\nFixtu
+ res by HerFixtures.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Saint-Malo vs Toulouse
-DTSTART:20270123T170000Z
-DTEND:20270123T190000Z
-DTSTAMP:20261125T101527Z
-UID:espn-premiere-ligue-401885686@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Toulouse\nStatus: Sched
- uled\nVenue: Stade de Marville\, Saint-Malo\n\nFixtures by HerFixtures.com
-  — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885686/toulouse-saint-ma
- lo
+SUMMARY:⚽ Saint-Malo vs Toulouse (time TBC)
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1581022@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Toulouse\nStatus: Not S
+ tarted\nKick-off time not confirmed yet. Your calendar updates automatical
+ ly once it is.\n\nFixtures by HerFixtures.com — Women's Sports on Your C
+ alendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Montpellier vs Saint-Malo
-DTSTART:20270206T160000Z
-DTEND:20270206T180000Z
-DTSTAMP:20261125T101527Z
-UID:espn-premiere-ligue-401885684@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nMontpellier vs Saint-Malo\nStatus: Sc
- heduled\nVenue: Stade Bernard Gasset No. 7\, Montpellier\n\nFixtures by He
- rFixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885684/saint-malo-montpe
- llier
+SUMMARY:⚽ Montpellier vs Saint-Malo (time TBC)
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1581023@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nMontpellier vs Saint-Malo\nStatus: No
+ t Started\nKick-off time not confirmed yet. Your calendar updates automati
+ cally once it is.\n\nFixtures by HerFixtures.com — Women's Sports on You
+ r Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Saint-Malo vs Le Havre AC
-DTSTART:20270220T160000Z
-DTEND:20270220T180000Z
-DTSTAMP:20261125T101527Z
-UID:espn-premiere-ligue-401885682@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Le Havre AC\nStatus: Sc
- heduled\nVenue: Stade de Marville\, Saint-Malo\n\nFixtures by HerFixtures.
- com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885682/le-havre-ac-saint
- -malo
+SUMMARY:⚽ Saint-Malo vs Le Havre (time TBC)
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1581026@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Le Havre\nStatus: Not S
+ tarted\nKick-off time not confirmed yet. Your calendar updates automatical
+ ly once it is.\n\nFixtures by HerFixtures.com — Women's Sports on Your C
+ alendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Saint-Malo vs Strasbourg
-DTSTART:20270313T160000Z
-DTEND:20270313T180000Z
-DTSTAMP:20261125T101527Z
-UID:espn-premiere-ligue-401885680@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Strasbourg\nStatus: Sch
- eduled\nVenue: Stade de Marville\, Saint-Malo\n\nFixtures by HerFixtures.c
- om — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885680/strasbourg-saint-
- malo
+SUMMARY:⚽ Saint-Malo vs Strasbourg (time TBC)
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1581027@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Strasbourg\nStatus: Not
+  Started\nKick-off time not confirmed yet. Your calendar updates automatic
+ ally once it is.\n\nFixtures by HerFixtures.com — Women's Sports on Your
+  Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Marseille vs Saint-Malo (time TBC)
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-DTSTAMP:20261125T101527Z
-UID:espn-premiere-ligue-401885679@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nMarseille vs Saint-Malo\nStatus: Sche
- duled\nKick-off time not confirmed yet. Your calendar updates automaticall
- y once it is.\nVenue: Stade Francis-Turcan\, Martigues\n\nFixtures by HerF
- ixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885679/saint-malo-marsei
- lle
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1581029@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nMarseille vs Saint-Malo\nStatus: Not 
+ Started\nKick-off time not confirmed yet. Your calendar updates automatica
+ lly once it is.\n\nFixtures by HerFixtures.com — Women's Sports on Your 
+ Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Lens vs Saint-Malo
-DTSTART:20270327T160000Z
-DTEND:20270327T180000Z
-DTSTAMP:20261125T101527Z
-UID:espn-premiere-ligue-401887996@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nLens vs Saint-Malo\nStatus: Scheduled
- \nVenue: Stade François-Blin\, Lens\n\nFixtures by HerFixtures.com — Wo
- men's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401887996/saint-malo-lens
+SUMMARY:⚽ Lens vs Saint-Malo (time TBC)
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1585127@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nLens vs Saint-Malo\nStatus: Not Start
+ ed\nKick-off time not confirmed yet. Your calendar updates automatically o
+ nce it is.\nVenue: Degouve-Brabant Stadium\, Arras\n\nFixtures by HerFixtu
+ res.com — Women's Sports on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Saint-Malo vs Paris Saint-Germain
-DTSTART:20270407T150000Z
-DTEND:20270407T170000Z
-DTSTAMP:20261125T101527Z
-UID:espn-premiere-ligue-401885676@herfixtures.com
+SUMMARY:⚽ Saint-Malo vs Paris Saint-Germain (time TBC)
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1581031@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Paris Saint-Germain\nSt
- atus: Scheduled\nVenue: Stade de Marville\, Saint-Malo\n\nFixtures by HerF
- ixtures.com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885676/paris-saint-germa
- in-saint-malo
+ atus: Not Started\nKick-off time not confirmed yet. Your calendar updates 
+ automatically once it is.\n\nFixtures by HerFixtures.com — Women's Sport
+ s on Your Calendar
+URL:https://herfixtures.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Saint-Malo vs OL Lyonnes
-DTSTART:20270501T150000Z
-DTEND:20270501T170000Z
-DTSTAMP:20261125T101527Z
-UID:espn-premiere-ligue-401885674@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs OL Lyonnes\nStatus: Sch
- eduled\nVenue: Stade de Marville\, Saint-Malo\n\nFixtures by HerFixtures.c
+SUMMARY:⚽ Saint-Malo vs OL Lyonnes (time TBC)
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1581034@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs OL Lyonnes\nStatus: Not
+  Started\nKick-off time not confirmed yet. Your calendar updates automatic
+ ally once it is.\n\nFixtures by HerFixtures.com — Women's Sports on Your
+  Calendar
+URL:https://herfixtures.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Paris FC vs Saint-Malo (time TBC)
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+DTSTAMP:20261125T102423Z
+UID:af-premiere-ligue-1581035@herfixtures.com
+DESCRIPTION:Première Ligue 2026/27\nParis FC vs Saint-Malo\nStatus: Not S
+ tarted\nKick-off time not confirmed yet. Your calendar updates automatical
+ ly once it is.\nVenue: Stade Charlety\, Paris\n\nFixtures by HerFixtures.c
  om — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885674/ol-lyonnes-saint-
- malo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Paris FC vs Saint-Malo
-DTSTART:20270504T150000Z
-DTEND:20270504T170000Z
-DTSTAMP:20261125T101527Z
-UID:espn-premiere-ligue-401885710@herfixtures.com
-DESCRIPTION:Première Ligue 2026/27\nParis FC vs Saint-Malo\nStatus: Sched
- uled\nVenue: Stade Sébastien Charléty\, Paris\n\nFixtures by HerFixtures
- .com — Women's Sports on Your Calendar
-URL:https://www.espn.com/soccer/match/_/gameId/401885710/saint-malo-paris-
- fc
+URL:https://herfixtures.com
 END:VEVENT
 END:VCALENDAR
