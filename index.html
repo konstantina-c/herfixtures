@@ -2936,6 +2936,8 @@ window.addEventListener('resize', positionLabels);
 
   /* ── Search ── */
   const norm = s => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+  // Short display names that should also match their full name in search.
+  const TEAM_FULL_NAMES = { 'GS Valkyries': 'Golden State Valkyries', 'LA Sparks': 'Los Angeles Sparks', 'NY Liberty': 'New York Liberty' };
   let index = null;
   function buildIndex() {
     index = [];
@@ -2946,7 +2948,7 @@ window.addEventListener('resize', positionLabels);
                    keys: norm([c.name, c.short || '', where, COUNTRY_ALIASES[where] || ''].join(' ')), icon: (cfg.teams[0] || {}).emoji || '⚽' });
       cfg.teams.forEach(t => {
         if (t.slug === cfg.leagueSlug) return;
-        index.push({ kind: 'team', comp: c, cfg, team: t, name: t.name, meta: c.short || c.name, keys: norm(t.name), logo: t.logo, icon: t.emoji });
+        index.push({ kind: 'team', comp: c, cfg, team: t, name: t.name, meta: c.short || c.name, keys: norm([t.name, TEAM_FULL_NAMES[t.name] || ''].join(' ')), logo: t.logo, icon: t.emoji });
       });
     });
   }
