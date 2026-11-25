@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Lens vs Montpellier (0–1)
 DTSTART:20261121T150000Z
 DTEND:20261121T170000Z
-DTSTAMP:20261125T102423Z
+DTSTAMP:20261125T102811Z
 UID:af-premiere-ligue-1585118@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLens vs Montpellier\nStatus: Match Fi
  nished\nVenue: Degouve-Brabant Stadium\, Arras\n\nFixtures by HerFixtures.
@@ -122,7 +122,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Saint-Malo vs Lens (time TBC)
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261125T102423Z
+DTSTAMP:20261125T102811Z
 UID:af-premiere-ligue-1585119@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Lens\nStatus: Not Start
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -134,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Lens vs Paris FC (time TBC)
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20261125T102423Z
+DTSTAMP:20261125T102811Z
 UID:af-premiere-ligue-1585120@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLens vs Paris FC\nStatus: Not Started
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris Saint-Germain vs Lens (time TBC)
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-DTSTAMP:20261125T102423Z
+DTSTAMP:20261125T102811Z
 UID:af-premiere-ligue-1585121@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis Saint-Germain vs Lens\nStatus: 
  Not Started\nKick-off time not confirmed yet. Your calendar updates automa
@@ -158,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Fleury 91 vs Lens (time TBC)
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-DTSTAMP:20261125T102423Z
+DTSTAMP:20261125T102811Z
 UID:af-premiere-ligue-1585122@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nFC Fleury 91 vs Lens\nStatus: Not Sta
  rted\nKick-off time not confirmed yet. Your calendar updates automatically
@@ -170,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Lens vs Nantes (time TBC)
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-DTSTAMP:20261125T102423Z
+DTSTAMP:20261125T102811Z
 UID:af-premiere-ligue-1585123@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLens vs Nantes\nStatus: Not Started\n
  Kick-off time not confirmed yet. Your calendar updates automatically once 
@@ -182,7 +182,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Strasbourg vs Lens (time TBC)
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-DTSTAMP:20261125T102423Z
+DTSTAMP:20261125T102811Z
 UID:af-premiere-ligue-1585124@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs Lens\nStatus: Not Start
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -194,7 +194,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Lens vs Le Havre (time TBC)
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-DTSTAMP:20261125T102423Z
+DTSTAMP:20261125T102811Z
 UID:af-premiere-ligue-1585125@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLens vs Le Havre\nStatus: Not Started
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -206,7 +206,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Toulouse vs Lens (time TBC)
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-DTSTAMP:20261125T102423Z
+DTSTAMP:20261125T102811Z
 UID:af-premiere-ligue-1585126@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nToulouse vs Lens\nStatus: Not Started
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -218,7 +218,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Lens vs Saint-Malo (time TBC)
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
-DTSTAMP:20261125T102423Z
+DTSTAMP:20261125T102811Z
 UID:af-premiere-ligue-1585127@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLens vs Saint-Malo\nStatus: Not Start
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -230,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ OL Lyonnes vs Lens (time TBC)
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
-DTSTAMP:20261125T102423Z
+DTSTAMP:20261125T102811Z
 UID:af-premiere-ligue-1585128@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nOL Lyonnes vs Lens\nStatus: Not Start
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -242,7 +242,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Montpellier vs Lens (time TBC)
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
-DTSTAMP:20261125T102423Z
+DTSTAMP:20261125T102811Z
 UID:af-premiere-ligue-1585129@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMontpellier vs Lens\nStatus: Not Star
  ted\nKick-off time not confirmed yet. Your calendar updates automatically 
@@ -254,7 +254,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Lens vs Marseille (time TBC)
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270505
-DTSTAMP:20261125T102423Z
+DTSTAMP:20261125T102811Z
 UID:af-premiere-ligue-1585130@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLens vs Marseille\nStatus: Not Starte
  d\nKick-off time not confirmed yet. Your calendar updates automatically on

@@ -90,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Como Women vs Roma (0–2)
 DTSTART:20261122T113000Z
 DTEND:20261122T133000Z
-DTSTAMP:20261125T101558Z
+DTSTAMP:20261125T102828Z
 UID:af-serie-a-women-1601291@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nComo Women vs Roma\nStatus: Match Finis
  hed\nVenue: Stadio Ferruccio\, Seregno\n\nFixtures by HerFixtures.com — 
@@ -101,7 +101,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Juventus vs Como Women
 DTSTART:20261212T170000Z
 DTEND:20261212T190000Z
-DTSTAMP:20261125T101558Z
+DTSTAMP:20261125T102828Z
 UID:af-serie-a-women-1601299@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nJuventus vs Como Women\nStatus: Not Sta
  rted\nVenue: Stadio Vittorio Pozzo\, Biella\n\nFixtures by HerFixtures.com
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Como Women vs Sassuolo (time TBC)
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-DTSTAMP:20261125T101558Z
+DTSTAMP:20261125T102828Z
 UID:af-serie-a-women-1601302@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nComo Women vs Sassuolo\nStatus: Not Sta
  rted\nKick-off time not confirmed yet. Your calendar updates automatically
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Napoli vs Como Women (time TBC)
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-DTSTAMP:20261125T101558Z
+DTSTAMP:20261125T102828Z
 UID:af-serie-a-women-1601312@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nNapoli vs Como Women\nStatus: Not Start
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -136,7 +136,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Como Women vs Ternana (time TBC)
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
-DTSTAMP:20261125T101558Z
+DTSTAMP:20261125T102828Z
 UID:af-serie-a-women-1601316@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nComo Women vs Ternana\nStatus: Not Star
  ted\nKick-off time not confirmed yet. Your calendar updates automatically 
@@ -148,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inter vs Como Women (time TBC)
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-DTSTAMP:20261125T101558Z
+DTSTAMP:20261125T102828Z
 UID:af-serie-a-women-1601321@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nInter vs Como Women\nStatus: Not Starte
  d\nKick-off time not confirmed yet. Your calendar updates automatically on
@@ -160,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Fiorentina vs Como Women (time TBC)
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
-DTSTAMP:20261125T101558Z
+DTSTAMP:20261125T102828Z
 UID:af-serie-a-women-1601328@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nFiorentina vs Como Women\nStatus: Not S
  tarted\nKick-off time not confirmed yet. Your calendar updates automatical
@@ -172,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Como Women vs Lazio (time TBC)
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-DTSTAMP:20261125T101558Z
+DTSTAMP:20261125T102828Z
 UID:af-serie-a-women-1601333@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nComo Women vs Lazio\nStatus: Not Starte
  d\nKick-off time not confirmed yet. Your calendar updates automatically on
@@ -184,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ AC Milan vs Como Women (time TBC)
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-DTSTAMP:20261125T101558Z
+DTSTAMP:20261125T102828Z
 UID:af-serie-a-women-1601338@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nAC Milan vs Como Women\nStatus: Not Sta
  rted\nKick-off time not confirmed yet. Your calendar updates automatically
@@ -196,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Como Women vs Parma (time TBC)
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-DTSTAMP:20261125T101558Z
+DTSTAMP:20261125T102828Z
 UID:af-serie-a-women-1601345@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nComo Women vs Parma\nStatus: Not Starte
  d\nKick-off time not confirmed yet. Your calendar updates automatically on
@@ -208,7 +208,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Como Women vs Como 1907 (time TBC)
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270404
-DTSTAMP:20261125T101558Z
+DTSTAMP:20261125T102828Z
 UID:af-serie-a-women-1601351@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nComo Women vs Como 1907\nStatus: Not St
  arted\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -220,7 +220,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Roma vs Como Women (time TBC)
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270411
-DTSTAMP:20261125T101558Z
+DTSTAMP:20261125T102828Z
 UID:af-serie-a-women-1601356@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nRoma vs Como Women\nStatus: Not Started
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -232,7 +232,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Como Women vs Juventus (time TBC)
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
-DTSTAMP:20261125T101558Z
+DTSTAMP:20261125T102828Z
 UID:af-serie-a-women-1601362@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nComo Women vs Juventus\nStatus: Not Sta
  rted\nKick-off time not confirmed yet. Your calendar updates automatically
@@ -244,7 +244,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sassuolo vs Como Women (time TBC)
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
-DTSTAMP:20261125T101558Z
+DTSTAMP:20261125T102828Z
 UID:af-serie-a-women-1601373@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nSassuolo vs Como Women\nStatus: Not Sta
  rted\nKick-off time not confirmed yet. Your calendar updates automatically
@@ -256,7 +256,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Como Women vs Napoli (time TBC)
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
-DTSTAMP:20261125T101558Z
+DTSTAMP:20261125T102828Z
 UID:af-serie-a-women-1601374@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nComo Women vs Napoli\nStatus: Not Start
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
