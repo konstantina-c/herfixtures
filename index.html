@@ -925,7 +925,7 @@ body {
 .mhero__results li.mhero__res-child { min-height: 44px; padding-left: 52px; }
 .mhero__res-sub { font-size: 14px; font-weight: 600; color: var(--text2); }
 .mhero__results li[aria-selected="true"] .mhero__res-sub, .mhero__results li:hover .mhero__res-sub { color: var(--text); }
-.mhero__results li.mhero__res-empty { display: block; cursor: default; color: var(--text2); font-size: 14px; line-height: 1.5; background: none; }
+.mhero__results li.mhero__res-empty { display: block; min-height: 0; padding: 14px 16px; cursor: default; color: var(--text2); font-size: 14px; line-height: 1.5; background: none; }
 .mhero__res-empty a { color: var(--brand-fg); }
 
 /* Map card */
@@ -2709,15 +2709,106 @@ window.addEventListener('resize', positionLabels);
   if (!map || !input) return;
   /* Search placeholder: its own slow rotation of puns, independent of the map tour.
      Fades out, swaps, fades in; holds while the visitor types or focuses the field. */
-  const PUNS = ['Barça up the right tree…', 'Feeling Lyon-hearted?', 'Spur of the moment?', 'Juve got this.'];
-  let pun = 0;
+  // [text, 1] = desktop only. Any pun wider than the resting field is skipped too.
+  const PUNS = [
+    "Barça up the right tree…",
+    "Feeling Lyon-hearted?",
+    "Spur of the moment?",
+    "Juve got this.",
+    "Type a team, not a password",
+    "Brighton up your week.",
+    "Gunning for someone?",
+    "Chelsea it to believe it.",
+    ["The Red Devil's in the details.", 1],
+    "Aston-ishing, isn't it?",
+    "Hammer time?",
+    "You'll never search alone.",
+    "Get Real.",
+    "Atleti-tude.",
+    "Le Havre a nice day.",
+    "Paris, je t'aime?",
+    ["Who's afraid of the big bad Wolfsburg?", 1],
+    "Frankfurt-ly, my dear…",
+    "Lazio Sunday?",
+    "One in a Milan.",
+    "When in Roma…",
+    "Inter-ested?",
+    "Como-n then.",
+    "Parma-nent fixture.",
+    "Twente-four seven.",
+    "From A to Z? Try AZ.",
+    "Not all who Wander are lost.",
+    "Jet-setter?",
+    "Hear them Roar?",
+    "Rise like a Phoenix.",
+    "Go for Glory.",
+    "Atlas, at last.",
+    "Tigres by the tail?",
+    "Puma up the volume.",
+    "UConn do it.",
+    "Iowa you one.",
+    "Duke it out?",
+    "Tennessee you there.",
+    "Sky's the limit.",
+    "Get Lynx-ed in.",
+    "Aced it.",
+    "Got the Fever?",
+    "Any port in a Storm?",
+    "Does it Spark joy?",
+    "Winging it? Not anymore.",
+    "Give me Liberty.",
+    "Mercury rising.",
+    "Long may she Reign.",
+    "Summit up?",
+    "Pride, no prejudice.",
+    "Go with the Current.",
+    "Catch the Wave.",
+    "Spirit animal?",
+    "Make a Dash for it.",
+    "No rose without Thorns.",
+    "Leave a Legacy.",
+    "Reach for the Stars.",
+    "Take Courage.",
+    "Next stop: Ballhalla.",
+    "Valks this way.",
+    "Big Ellie energy.",
+    "Need some Ellie-vation?",
+    "Tillie voice loading…",
+    ["Not done 'til it's in your calendar.", 1],
+    "Waltz right in.",
+    ["It's coming… to your calendar.", 1],
+    ["Proper England. Proper calendar.", 1],
+    "Riveting stuff.",
+    "Cause an Uproar.",
+    "Your woso era starts here."
+  ].map(p => Array.isArray(p) ? { text: p[0], desktop: true } : { text: p, desktop: false });
+  for (let i = PUNS.length - 1; i > 0; i--) {                 // random order, new every visit
+    const j = Math.floor(Math.random() * (i + 1)); [PUNS[i], PUNS[j]] = [PUNS[j], PUNS[i]];
+  }
+  const phCtx = document.createElement('canvas').getContext('2d');
+  function punFits(p) {
+    if (p.desktop && window.innerWidth < 768) return false;
+    const cs = getComputedStyle(input);
+    const room = input.clientWidth - parseFloat(cs.paddingLeft) - parseFloat(cs.paddingRight);
+    phCtx.font = "400 16px 'DM Sans', sans-serif";
+    return !room || phCtx.measureText(p.text).width <= room - 4;
+  }
+  let pun = -1;
+  function nextPun() {
+    for (let k = 0; k < PUNS.length; k++) {
+      pun = (pun + 1) % PUNS.length;
+      if (punFits(PUNS[pun])) return PUNS[pun].text;
+    }
+    return 'Type a team, not a password';
+  }
+  input.placeholder = nextPun();
+  if (document.fonts) document.fonts.ready.then(() => { if (!punFits(PUNS[pun])) input.placeholder = nextPun(); });
   if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
     setInterval(() => {
       if (input.value || document.activeElement === input || document.hidden) return;
       input.classList.add('ph-out');
       setTimeout(() => {
-        pun = (pun + 1) % PUNS.length;
-        input.placeholder = PUNS[pun];
+        input.placeholder = nextPun();
         input.classList.remove('ph-out');
       }, 350);
     }, 5000);
