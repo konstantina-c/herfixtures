@@ -1522,7 +1522,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Guadalajara vs Monterrey (time TBC)
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261126T014315Z
+DTSTAMP:20261126T164245Z
 UID:af-liga-mx-femenil-1650224@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nGuada
  lajara vs Monterrey\nStatus: Not Started\nKick-off time not confirmed yet.
@@ -1534,7 +1534,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Pumas UNAM vs América (time TBC)
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261126T014315Z
+DTSTAMP:20261126T164245Z
 UID:af-liga-mx-femenil-1650225@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nPumas
   UNAM vs América\nStatus: Not Started\nKick-off time not confirmed yet. Y
@@ -1546,7 +1546,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ América vs Pumas UNAM (time TBC)
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261126T014315Z
+DTSTAMP:20261126T164245Z
 UID:af-liga-mx-femenil-1650226@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nAmér
  ica vs Pumas UNAM\nStatus: Not Started\nKick-off time not confirmed yet. Y
@@ -1559,7 +1559,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Monterrey vs Guadalajara (time TBC)
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261126T014315Z
+DTSTAMP:20261126T164245Z
 UID:af-liga-mx-femenil-1650227@herfixtures.com
 DESCRIPTION:Liga MX Femenil 2026/27 (Apertura 2026 + Clausura 2027)\nMonte
  rrey vs Guadalajara\nStatus: Not Started\nKick-off time not confirmed yet.

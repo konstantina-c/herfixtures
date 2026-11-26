@@ -68,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Melbourne Victory vs Perth Glory (0–0)
 DTSTART:20261122T040000Z
 DTEND:20261122T060000Z
-DTSTAMP:20261126T014315Z
+DTSTAMP:20261126T164244Z
 UID:af-a-league-women-1632131@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nMelbourne Victory vs Perth Glory\nStat
  us: Match Finished\nVenue: Lakeside Stadium\, Melbourne\n\nFixtures by Her
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Perth Glory vs Melbourne City
 DTSTART:20261212T090000Z
 DTEND:20261212T110000Z
-DTSTAMP:20261126T014315Z
+DTSTAMP:20261126T164244Z
 UID:af-a-league-women-1632135@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nPerth Glory vs Melbourne City\nStatus:
   Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
@@ -90,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Perth Glory vs Western Sydney Wanderers
 DTSTART:20261219T090000Z
 DTEND:20261219T110000Z
-DTSTAMP:20261126T014315Z
+DTSTAMP:20261126T164244Z
 UID:af-a-league-women-1632139@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nPerth Glory vs Western Sydney Wanderer
  s\nStatus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports o
@@ -101,7 +101,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Brisbane Roar vs Perth Glory
 DTSTART:20261230T055000Z
 DTEND:20261230T075000Z
-DTSTAMP:20261126T014315Z
+DTSTAMP:20261126T164244Z
 UID:af-a-league-women-1632146@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nBrisbane Roar vs Perth Glory\nStatus: 
  Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Perth Glory vs Sydney FC
 DTSTART:20270110T090000Z
 DTEND:20270110T110000Z
-DTSTAMP:20261126T014315Z
+DTSTAMP:20261126T164244Z
 UID:af-a-league-women-1632157@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nPerth Glory vs Sydney FC\nStatus: Not 
  Started\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
@@ -122,7 +122,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Wellington Phoenix vs Perth Glory
 DTSTART:20270116T040000Z
 DTEND:20270116T060000Z
-DTSTAMP:20261126T014315Z
+DTSTAMP:20261126T164244Z
 UID:af-a-league-women-1632159@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nWellington Phoenix vs Perth Glory\nSta
  tus: Not Started\nVenue: Sky Stadium\, Wellington\n\nFixtures by HerFixtur
@@ -133,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Perth Glory vs Adelaide United
 DTSTART:20270123T090000Z
 DTEND:20270123T110000Z
-DTSTAMP:20261126T014315Z
+DTSTAMP:20261126T164244Z
 UID:af-a-league-women-1632165@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nPerth Glory vs Adelaide United\nStatus
  : Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your Ca
@@ -144,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Perth Glory vs Newcastle Jets
 DTSTART:20270130T090000Z
 DTEND:20270130T110000Z
-DTSTAMP:20261126T014315Z
+DTSTAMP:20261126T164244Z
 UID:af-a-league-women-1632171@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nPerth Glory vs Newcastle Jets\nStatus:
   Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
@@ -155,7 +155,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Melbourne City vs Perth Glory
 DTSTART:20270207T060000Z
 DTEND:20270207T080000Z
-DTSTAMP:20261126T014315Z
+DTSTAMP:20261126T164244Z
 UID:af-a-league-women-1632177@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nMelbourne City vs Perth Glory\nStatus:
   Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
@@ -166,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Perth Glory vs Brisbane Roar
 DTSTART:20270213T090000Z
 DTEND:20270213T110000Z
-DTSTAMP:20261126T014315Z
+DTSTAMP:20261126T164244Z
 UID:af-a-league-women-1632180@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nPerth Glory vs Brisbane Roar\nStatus: 
  Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Perth Glory vs Central Coast Mariners
 DTSTART:20270221T090000Z
 DTEND:20270221T110000Z
-DTSTAMP:20261126T014315Z
+DTSTAMP:20261126T164244Z
 UID:af-a-league-women-1632187@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nPerth Glory vs Central Coast Mariners
  \nStatus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on
@@ -188,7 +188,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Western Sydney Wanderers vs Perth Glory
 DTSTART:20270320T031500Z
 DTEND:20270320T051500Z
-DTSTAMP:20261126T014315Z
+DTSTAMP:20261126T164244Z
 UID:af-a-league-women-1632194@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nWestern Sydney Wanderers vs Perth Glor
  y\nStatus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports o
@@ -199,7 +199,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sydney FC vs Perth Glory
 DTSTART:20270327T060000Z
 DTEND:20270327T080000Z
-DTSTAMP:20261126T014315Z
+DTSTAMP:20261126T164244Z
 UID:af-a-league-women-1632200@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nSydney FC vs Perth Glory\nStatus: Not 
  Started\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
@@ -209,7 +209,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Perth Glory vs Melbourne Victory
 DTSTART:20270404T090000Z
 DTEND:20270404T110000Z
-DTSTAMP:20261126T014315Z
+DTSTAMP:20261126T164244Z
 UID:af-a-league-women-1632207@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nPerth Glory vs Melbourne Victory\nStat
  us: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your 
@@ -220,7 +220,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Canberra United vs Perth Glory
 DTSTART:20270410T050000Z
 DTEND:20270410T070000Z
-DTSTAMP:20261126T014315Z
+DTSTAMP:20261126T164244Z
 UID:af-a-league-women-1632208@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nCanberra United vs Perth Glory\nStatus
  : Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your Ca
