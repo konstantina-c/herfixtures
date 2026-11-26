@@ -123,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Madrid CFF @ CD Tenerife (3–0)
 DTSTART:20261122T160000Z
 DTEND:20261122T180000Z
-DTSTAMP:20261125T170059Z
+DTSTAMP:20261126T014300Z
 UID:af-liga-f-1573650@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at CD Tenerife\nStatus: Mat
  ch Finished\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
@@ -134,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ CD Tenerife @ Atlético Madrid
 DTSTART:20261208T150000Z
 DTEND:20261208T170000Z
-DTSTAMP:20261125T170059Z
+DTSTAMP:20261126T014300Z
 UID:af-liga-f-1573657@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Atlético Madrid\nStatu
  s: Not Started\nVenue: Centro Deportivo Alcala de Henares\, Madrid\n\nFixt
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ CD Tenerife (time TBC)
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261125T170059Z
+DTSTAMP:20261126T014300Z
 UID:af-liga-f-1573665@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at CD Tenerife\nStatus: Not Star
  ted\nKick-off time not confirmed yet. Your calendar updates automatically 
@@ -157,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ CD Tenerife
 DTSTART:20261216T190000Z
 DTEND:20261216T210000Z
-DTSTAMP:20261125T170059Z
+DTSTAMP:20261126T014300Z
 UID:af-liga-f-1573635@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAlavés at CD Tenerife\nStatus: Not St
  arted\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
@@ -167,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ CD Tenerife @ Granada (time TBC)
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
-DTSTAMP:20261125T170059Z
+DTSTAMP:20261126T014300Z
 UID:af-liga-f-1573676@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Granada\nStatus: Not St
  arted\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -179,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Badalona @ CD Tenerife (time TBC)
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
-DTSTAMP:20261125T170059Z
+DTSTAMP:20261126T014300Z
 UID:af-liga-f-1573682@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at CD Tenerife\nStatus: No
  t Started\nKick-off time not confirmed yet. Your calendar updates automati
@@ -191,7 +191,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ CD Tenerife @ Athletic Club (time TBC)
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
-DTSTAMP:20261125T170059Z
+DTSTAMP:20261126T014300Z
 UID:af-liga-f-1573688@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Athletic Club\nStatus: 
  Not Started\nKick-off time not confirmed yet. Your calendar updates automa
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ CD Tenerife (time TBC)
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
-DTSTAMP:20261125T170059Z
+DTSTAMP:20261126T014300Z
 UID:af-liga-f-1573698@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at CD Tenerife\nStatus: No
  t Started\nKick-off time not confirmed yet. Your calendar updates automati
@@ -215,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ CD Tenerife @ Dux Logroño (time TBC)
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
-DTSTAMP:20261125T170059Z
+DTSTAMP:20261126T014300Z
 UID:af-liga-f-1573706@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Dux Logroño\nStatus: N
  ot Started\nKick-off time not confirmed yet. Your calendar updates automat
@@ -227,7 +227,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ CD Tenerife (time TBC)
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
-DTSTAMP:20261125T170059Z
+DTSTAMP:20261126T014300Z
 UID:af-liga-f-1573716@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at CD Tenerife\nStatus: Not S
  tarted\nKick-off time not confirmed yet. Your calendar updates automatical
@@ -239,7 +239,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ CD Tenerife @ Alavés (time TBC)
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
-DTSTAMP:20261125T170059Z
+DTSTAMP:20261126T014300Z
 UID:af-liga-f-1573720@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Alavés\nStatus: Not St
  arted\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -251,7 +251,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ CD Tenerife @ Sevilla (time TBC)
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
-DTSTAMP:20261125T170059Z
+DTSTAMP:20261126T014300Z
 UID:af-liga-f-1573735@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Sevilla\nStatus: Not St
  arted\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -263,7 +263,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Atlético Madrid @ CD Tenerife (time TBC)
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
-DTSTAMP:20261125T170059Z
+DTSTAMP:20261126T014300Z
 UID:af-liga-f-1573739@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at CD Tenerife\nStatu
  s: Not Started\nKick-off time not confirmed yet. Your calendar updates aut
@@ -275,7 +275,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ CD Tenerife @ Madrid CFF (time TBC)
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
-DTSTAMP:20261125T170059Z
+DTSTAMP:20261126T014300Z
 UID:af-liga-f-1573750@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Madrid CFF\nStatus: Not
   Started\nKick-off time not confirmed yet. Your calendar updates automatic
@@ -287,7 +287,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Sociedad @ CD Tenerife (time TBC)
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
-DTSTAMP:20261125T170059Z
+DTSTAMP:20261126T014300Z
 UID:af-liga-f-1573754@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at CD Tenerife\nStatus: 
  Not Started\nKick-off time not confirmed yet. Your calendar updates automa
@@ -299,7 +299,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ CD Tenerife (time TBC)
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
-DTSTAMP:20261125T170059Z
+DTSTAMP:20261126T014300Z
 UID:af-liga-f-1573763@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at CD Tenerife\nStatus: Not 
  Started\nKick-off time not confirmed yet. Your calendar updates automatica
@@ -311,7 +311,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ CD Tenerife @ Eibar (time TBC)
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
-DTSTAMP:20261125T170059Z
+DTSTAMP:20261126T014300Z
 UID:af-liga-f-1573771@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Eibar\nStatus: Not Star
  ted\nKick-off time not confirmed yet. Your calendar updates automatically 
@@ -323,7 +323,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ CD Tenerife (time TBC)
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
-DTSTAMP:20261125T170059Z
+DTSTAMP:20261126T014300Z
 UID:af-liga-f-1573779@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at CD Tenerife\nStatus: Not S
  tarted\nKick-off time not confirmed yet. Your calendar updates automatical
@@ -335,7 +335,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ CD Tenerife @ Deportivo (time TBC)
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
-DTSTAMP:20261125T170059Z
+DTSTAMP:20261126T014300Z
 UID:af-liga-f-1573786@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Deportivo\nStatus: Not 
  Started\nKick-off time not confirmed yet. Your calendar updates automatica
@@ -347,7 +347,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Granada @ CD Tenerife (time TBC)
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
-DTSTAMP:20261125T170059Z
+DTSTAMP:20261126T014300Z
 UID:af-liga-f-1573795@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at CD Tenerife\nStatus: Not St
  arted\nKick-off time not confirmed yet. Your calendar updates automaticall

@@ -100,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris Saint-Germain vs Saint-Malo (1–0)
 DTSTART:20261121T200000Z
 DTEND:20261121T220000Z
-DTSTAMP:20261125T170117Z
+DTSTAMP:20261126T014314Z
 UID:af-premiere-ligue-1581015@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis Saint-Germain vs Saint-Malo\nSt
  atus: Match Finished\nVenue: Stade Georges Lefevre\, Paris\n\nFixtures by 
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Saint-Malo vs Lens (time TBC)
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261125T170117Z
+DTSTAMP:20261126T014314Z
 UID:af-premiere-ligue-1585119@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Lens\nStatus: Not Start
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -123,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Nantes vs Saint-Malo (time TBC)
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20261125T170117Z
+DTSTAMP:20261126T014314Z
 UID:af-premiere-ligue-1581019@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nNantes vs Saint-Malo\nStatus: Not Sta
  rted\nKick-off time not confirmed yet. Your calendar updates automatically
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Saint-Malo vs Paris FC
 DTSTART:20270113T180000Z
 DTEND:20270113T200000Z
-DTSTAMP:20261125T170117Z
+DTSTAMP:20261126T014314Z
 UID:af-premiere-ligue-1581009@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Paris FC\nStatus: Resch
  eduled\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Fleury 91 vs Saint-Malo (time TBC)
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-DTSTAMP:20261125T170117Z
+DTSTAMP:20261126T014314Z
 UID:af-premiere-ligue-1581020@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nFC Fleury 91 vs Saint-Malo\nStatus: N
  ot Started\nKick-off time not confirmed yet. Your calendar updates automat
@@ -157,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Saint-Malo vs Toulouse (time TBC)
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-DTSTAMP:20261125T170117Z
+DTSTAMP:20261126T014314Z
 UID:af-premiere-ligue-1581022@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Toulouse\nStatus: Not S
  tarted\nKick-off time not confirmed yet. Your calendar updates automatical
@@ -169,7 +169,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Montpellier vs Saint-Malo (time TBC)
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-DTSTAMP:20261125T170117Z
+DTSTAMP:20261126T014314Z
 UID:af-premiere-ligue-1581023@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMontpellier vs Saint-Malo\nStatus: No
  t Started\nKick-off time not confirmed yet. Your calendar updates automati
@@ -181,7 +181,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Saint-Malo vs Le Havre (time TBC)
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-DTSTAMP:20261125T170117Z
+DTSTAMP:20261126T014314Z
 UID:af-premiere-ligue-1581026@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Le Havre\nStatus: Not S
  tarted\nKick-off time not confirmed yet. Your calendar updates automatical
@@ -193,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Saint-Malo vs Strasbourg (time TBC)
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-DTSTAMP:20261125T170117Z
+DTSTAMP:20261126T014314Z
 UID:af-premiere-ligue-1581027@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Strasbourg\nStatus: Not
   Started\nKick-off time not confirmed yet. Your calendar updates automatic
@@ -205,7 +205,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Marseille vs Saint-Malo (time TBC)
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-DTSTAMP:20261125T170117Z
+DTSTAMP:20261126T014314Z
 UID:af-premiere-ligue-1581029@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMarseille vs Saint-Malo\nStatus: Not 
  Started\nKick-off time not confirmed yet. Your calendar updates automatica
@@ -217,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Lens vs Saint-Malo (time TBC)
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
-DTSTAMP:20261125T170117Z
+DTSTAMP:20261126T014314Z
 UID:af-premiere-ligue-1585127@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLens vs Saint-Malo\nStatus: Not Start
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Saint-Malo vs Paris Saint-Germain (time TBC)
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
-DTSTAMP:20261125T170117Z
+DTSTAMP:20261126T014314Z
 UID:af-premiere-ligue-1581031@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Paris Saint-Germain\nSt
  atus: Not Started\nKick-off time not confirmed yet. Your calendar updates 
@@ -241,7 +241,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Saint-Malo vs OL Lyonnes (time TBC)
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
-DTSTAMP:20261125T170117Z
+DTSTAMP:20261126T014314Z
 UID:af-premiere-ligue-1581034@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs OL Lyonnes\nStatus: Not
   Started\nKick-off time not confirmed yet. Your calendar updates automatic
@@ -253,7 +253,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris FC vs Saint-Malo (time TBC)
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270505
-DTSTAMP:20261125T170117Z
+DTSTAMP:20261126T014314Z
 UID:af-premiere-ligue-1581035@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis FC vs Saint-Malo\nStatus: Not S
  tarted\nKick-off time not confirmed yet. Your calendar updates automatical

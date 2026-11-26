@@ -14,7 +14,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FSV Mainz 05 Frauen vs SV Werder Bremen Frauen (1–2)
 DTSTART:20260824T160000Z
 DTEND:20260824T180000Z
-DTSTAMP:20261125T170135Z
+DTSTAMP:20261126T014332Z
 UID:openligadb-ffb1-85269@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 1. Spieltag\n1. FSV Mainz 05 Frau
  en vs SV Werder Bremen Frauen\nResult: 1–2\nVenue: Bruchwegstadion\, Mai
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ SV Werder Bremen Frauen vs RB Leipzig Frauen (2–0)
 DTSTART:20260830T163000Z
 DTEND:20260830T183000Z
-DTSTAMP:20261125T170135Z
+DTSTAMP:20261126T014332Z
 UID:openligadb-ffb1-85275@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 2. Spieltag\nSV Werder Bremen Fra
  uen vs RB Leipzig Frauen\nResult: 2–0\nVenue: Weserstadion - Platz 11\, 
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ VfL Wolfsburg Frauen vs SV Werder Bremen Frauen (3–2)
 DTSTART:20260906T120000Z
 DTEND:20260906T140000Z
-DTSTAMP:20261125T170135Z
+DTSTAMP:20261126T014332Z
 UID:openligadb-ffb1-85288@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 3. Spieltag\nVfL Wolfsburg Frauen
   vs SV Werder Bremen Frauen\nResult: 3–2\nVenue: AOK Stadion\, Wolfsburg
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ SV Werder Bremen Frauen vs Hamburger SV Frauen (1–0)
 DTSTART:20260911T163000Z
 DTEND:20260911T183000Z
-DTSTAMP:20261125T170135Z
+DTSTAMP:20261126T014332Z
 UID:openligadb-ffb1-85736@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 4. Spieltag\nSV Werder Bremen Fra
  uen vs Hamburger SV Frauen\nResult: 1–0\nVenue: Weserstadion\, Bremen\n
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ SV Werder Bremen Frauen vs VfB Stuttgart Frauen (1–1)
 DTSTART:20260921T160000Z
 DTEND:20260921T180000Z
-DTSTAMP:20261125T170135Z
+DTSTAMP:20261126T014332Z
 UID:openligadb-ffb1-85749@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 5. Spieltag\nSV Werder Bremen Fra
  uen vs VfB Stuttgart Frauen\nResult: 1–1\nVenue: Weserstadion - Platz 11
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bayer 04 Leverkusen Frauen vs SV Werder Bremen Frauen (3–2)
 DTSTART:20261002T133000Z
 DTEND:20261002T153000Z
-DTSTAMP:20261125T170135Z
+DTSTAMP:20261126T014332Z
 UID:openligadb-ffb1-85753@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 6. Spieltag\nBayer 04 Leverkusen 
  Frauen vs SV Werder Bremen Frauen\nResult: 3–2\nVenue: Ulrich-Haberland-
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ SV Werder Bremen Frauen vs SC Freiburg Frauen (4–3)
 DTSTART:20261025T130000Z
 DTEND:20261025T150000Z
-DTSTAMP:20261125T170135Z
+DTSTAMP:20261126T014332Z
 UID:openligadb-ffb1-85764@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 8. Spieltag\nSV Werder Bremen Fra
  uen vs SC Freiburg Frauen\nResult: 4–3\nVenue: Weserstadion - Platz 11\,
@@ -92,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ SV Werder Bremen Frauen vs TSG 1899 Hoffenheim Frauen (3–0)
 DTSTART:20261029T170000Z
 DTEND:20261029T190000Z
-DTSTAMP:20261125T170135Z
+DTSTAMP:20261126T014332Z
 UID:openligadb-ffb1-85758@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 7. Spieltag\nSV Werder Bremen Fra
  uen vs TSG 1899 Hoffenheim Frauen\nResult: 3–0\nVenue: Weserstadion - Pl
@@ -104,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Bayern München Frauen vs SV Werder Bremen Frauen (3–1)
 DTSTART:20261106T173000Z
 DTEND:20261106T193000Z
-DTSTAMP:20261125T170135Z
+DTSTAMP:20261126T014332Z
 UID:openligadb-ffb1-85776@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 9. Spieltag\nFC Bayern München F
  rauen vs SV Werder Bremen Frauen\nResult: 3–1\nVenue: FC Bayern Campus\,
@@ -115,7 +115,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ SV Werder Bremen Frauen vs 1. FC Union Berlin Frauen (2–0)
 DTSTART:20261114T130000Z
 DTEND:20261114T150000Z
-DTSTAMP:20261125T170135Z
+DTSTAMP:20261126T014332Z
 UID:openligadb-ffb1-85778@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 10. Spieltag\nSV Werder Bremen Fr
  auen vs 1. FC Union Berlin Frauen\nResult: 2–0\nVenue: Weserstadion - Pl
@@ -127,7 +127,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FC Köln Frauen vs SV Werder Bremen Frauen (2–2)
 DTSTART:20261121T130000Z
 DTEND:20261121T150000Z
-DTSTAMP:20261125T170135Z
+DTSTAMP:20261126T014332Z
 UID:openligadb-ffb1-85788@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 11. Spieltag\n1. FC Köln Frauen 
  vs SV Werder Bremen Frauen\nResult: 2–2\nVenue: Franz-Kremer-Stadion\, K
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ SV Werder Bremen Frauen vs Eintracht Frankfurt Frauen
 DTSTART:20261212T110000Z
 DTEND:20261212T130000Z
-DTSTAMP:20261125T170135Z
+DTSTAMP:20261126T014332Z
 UID:openligadb-ffb1-85793@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 12. Spieltag\nSV Werder Bremen Fr
  auen vs Eintracht Frankfurt Frauen\nVenue: Weserstadion - Platz 11\, Breme
@@ -149,7 +149,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ 1. FC Nürnberg Frauen vs SV Werder Bremen Frauen
 DTSTART:20261219T130000Z
 DTEND:20261219T150000Z
-DTSTAMP:20261125T170135Z
+DTSTAMP:20261126T014332Z
 UID:openligadb-ffb1-85804@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 13. Spieltag\n1. FC Nürnberg Fra
  uen vs SV Werder Bremen Frauen\nVenue: Max-Morlock-Stadion\, Nürnberg\n\n
@@ -160,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ SV Werder Bremen Frauen vs 1. FSV Mainz 05 Frauen
 DTSTART:20270116T130000Z
 DTEND:20270116T150000Z
-DTSTAMP:20261125T170135Z
+DTSTAMP:20261126T014332Z
 UID:openligadb-ffb1-85806@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 14. Spieltag\nSV Werder Bremen Fr
  auen vs 1. FSV Mainz 05 Frauen\nVenue: Weserstadion - Platz 11\, Bremen\n
@@ -171,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ RB Leipzig Frauen vs SV Werder Bremen Frauen
 DTSTART:20270125T170000Z
 DTEND:20270125T190000Z
-DTSTAMP:20261125T170135Z
+DTSTAMP:20261126T014332Z
 UID:openligadb-ffb1-85817@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 15. Spieltag\nRB Leipzig Frauen v
  s SV Werder Bremen Frauen\nVenue: Trainingszentrum Cottaweg\, Leipzig\n\nD
@@ -182,7 +182,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ SV Werder Bremen Frauen vs VfL Wolfsburg Frauen (time TBC)
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
-DTSTAMP:20261125T170135Z
+DTSTAMP:20261126T014332Z
 UID:openligadb-ffb1-85820@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 16. Spieltag\nSV Werder Bremen Fr
  auen vs VfL Wolfsburg Frauen\nKick-off time not confirmed yet (the DFB may
@@ -195,7 +195,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Hamburger SV Frauen vs SV Werder Bremen Frauen (time TBC)
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
-DTSTAMP:20261125T170135Z
+DTSTAMP:20261126T014332Z
 UID:openligadb-ffb1-85829@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 17. Spieltag\nHamburger SV Frauen
   vs SV Werder Bremen Frauen\nKick-off time not confirmed yet (the DFB may 
@@ -208,7 +208,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ VfB Stuttgart Frauen vs SV Werder Bremen Frauen (time TBC)
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
-DTSTAMP:20261125T170135Z
+DTSTAMP:20261126T014332Z
 UID:openligadb-ffb1-85834@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 18. Spieltag\nVfB Stuttgart Fraue
  n vs SV Werder Bremen Frauen\nKick-off time not confirmed yet (the DFB may
@@ -222,7 +222,7 @@ SUMMARY:⚽ SV Werder Bremen Frauen vs Bayer 04 Leverkusen Frauen (time TB
  C)
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
-DTSTAMP:20261125T170135Z
+DTSTAMP:20261126T014332Z
 UID:openligadb-ffb1-85842@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 19. Spieltag\nSV Werder Bremen Fr
  auen vs Bayer 04 Leverkusen Frauen\nKick-off time not confirmed yet (the D
@@ -236,7 +236,7 @@ SUMMARY:⚽ TSG 1899 Hoffenheim Frauen vs SV Werder Bremen Frauen (time TB
  C)
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
-DTSTAMP:20261125T170135Z
+DTSTAMP:20261126T014332Z
 UID:openligadb-ffb1-85850@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 20. Spieltag\nTSG 1899 Hoffenheim
   Frauen vs SV Werder Bremen Frauen\nKick-off time not confirmed yet (the D
@@ -249,7 +249,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ SC Freiburg Frauen vs SV Werder Bremen Frauen (time TBC)
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
-DTSTAMP:20261125T170135Z
+DTSTAMP:20261126T014332Z
 UID:openligadb-ffb1-85858@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 21. Spieltag\nSC Freiburg Frauen 
  vs SV Werder Bremen Frauen\nKick-off time not confirmed yet (the DFB may s
@@ -263,7 +263,7 @@ SUMMARY:⚽ SV Werder Bremen Frauen vs FC Bayern München Frauen (time TBC
  )
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
-DTSTAMP:20261125T170135Z
+DTSTAMP:20261126T014332Z
 UID:openligadb-ffb1-85862@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 22. Spieltag\nSV Werder Bremen Fr
  auen vs FC Bayern München Frauen\nKick-off time not confirmed yet (the DF
@@ -277,7 +277,7 @@ SUMMARY:⚽ 1. FC Union Berlin Frauen vs SV Werder Bremen Frauen (time TBC
  )
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
-DTSTAMP:20261125T170135Z
+DTSTAMP:20261126T014332Z
 UID:openligadb-ffb1-85869@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 23. Spieltag\n1. FC Union Berlin 
  Frauen vs SV Werder Bremen Frauen\nKick-off time not confirmed yet (the DF
@@ -290,7 +290,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ SV Werder Bremen Frauen vs 1. FC Köln Frauen (time TBC)
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
-DTSTAMP:20261125T170135Z
+DTSTAMP:20261126T014332Z
 UID:openligadb-ffb1-85876@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 24. Spieltag\nSV Werder Bremen Fr
  auen vs 1. FC Köln Frauen\nKick-off time not confirmed yet (the DFB may s
@@ -304,7 +304,7 @@ SUMMARY:⚽ Eintracht Frankfurt Frauen vs SV Werder Bremen Frauen (time TB
  C)
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
-DTSTAMP:20261125T170135Z
+DTSTAMP:20261126T014332Z
 UID:openligadb-ffb1-85884@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 25. Spieltag\nEintracht Frankfurt
   Frauen vs SV Werder Bremen Frauen\nKick-off time not confirmed yet (the D
@@ -317,7 +317,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ SV Werder Bremen Frauen vs 1. FC Nürnberg Frauen (time TBC)
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
-DTSTAMP:20261125T170135Z
+DTSTAMP:20261126T014332Z
 UID:openligadb-ffb1-85891@herfixtures.com
 DESCRIPTION:Frauen-Bundesliga 2026/27 · 26. Spieltag\nSV Werder Bremen Fr
  auen vs 1. FC Nürnberg Frauen\nKick-off time not confirmed yet (the DFB m

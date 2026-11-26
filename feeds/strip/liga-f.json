@@ -1,14 +1,4 @@
 {
- "af-liga-f-1573648@herfixtures.com": {
-  "away": {
-   "logo": "https://media.api-sports.io/football/teams/6376.png",
-   "name": "Deportivo"
-  },
-  "home": {
-   "logo": "https://media.api-sports.io/football/teams/19896.png",
-   "name": "FC Badalona"
-  }
- },
  "af-liga-f-1573649@herfixtures.com": {
   "away": {
    "logo": "https://media.api-sports.io/football/teams/1905.png",
@@ -27,26 +17,6 @@
   "home": {
    "logo": "https://media.api-sports.io/football/teams/1913.png",
    "name": "CD Tenerife"
-  }
- },
- "af-liga-f-1573651@herfixtures.com": {
-  "away": {
-   "logo": "https://media.api-sports.io/football/teams/17168.png",
-   "name": "Alavés"
-  },
-  "home": {
-   "logo": "https://media.api-sports.io/football/teams/1923.png",
-   "name": "Dux Logroño"
-  }
- },
- "af-liga-f-1573652@herfixtures.com": {
-  "away": {
-   "logo": "https://media.api-sports.io/football/teams/1910.png",
-   "name": "Atlético Madrid"
-  },
-  "home": {
-   "logo": "https://media.api-sports.io/football/teams/15225.png",
-   "name": "Eibar"
   }
  },
  "af-liga-f-1573653@herfixtures.com": {

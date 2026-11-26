@@ -101,7 +101,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris FC vs FC Fleury 91 (2–1)
 DTSTART:20261122T140000Z
 DTEND:20261122T160000Z
-DTSTAMP:20261125T170117Z
+DTSTAMP:20261126T014314Z
 UID:af-premiere-ligue-1580958@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis FC vs FC Fleury 91\nStatus: Mat
  ch Finished\nVenue: Stade Jean-Bouin\, Paris\n\nFixtures by HerFixtures.co
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris FC vs Marseille (time TBC)
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261125T170117Z
+DTSTAMP:20261126T014314Z
 UID:af-premiere-ligue-1580962@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis FC vs Marseille\nStatus: Not St
  arted\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Lens vs Paris FC (time TBC)
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20261125T170117Z
+DTSTAMP:20261126T014314Z
 UID:af-premiere-ligue-1585120@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLens vs Paris FC\nStatus: Not Started
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -136,7 +136,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Saint-Malo vs Paris FC
 DTSTART:20270113T180000Z
 DTEND:20270113T200000Z
-DTSTAMP:20261125T170117Z
+DTSTAMP:20261126T014314Z
 UID:af-premiere-ligue-1581009@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Paris FC\nStatus: Resch
  eduled\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris FC vs OL Lyonnes (time TBC)
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-DTSTAMP:20261125T170117Z
+DTSTAMP:20261126T014314Z
 UID:af-premiere-ligue-1580967@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis FC vs OL Lyonnes\nStatus: Not S
  tarted\nKick-off time not confirmed yet. Your calendar updates automatical
@@ -158,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Montpellier vs Paris FC (time TBC)
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-DTSTAMP:20261125T170117Z
+DTSTAMP:20261126T014314Z
 UID:af-premiere-ligue-1580971@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMontpellier vs Paris FC\nStatus: Not 
  Started\nKick-off time not confirmed yet. Your calendar updates automatica
@@ -170,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris Saint-Germain vs Paris FC (time TBC)
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-DTSTAMP:20261125T170117Z
+DTSTAMP:20261126T014314Z
 UID:af-premiere-ligue-1580975@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis Saint-Germain vs Paris FC\nStat
  us: Not Started\nKick-off time not confirmed yet. Your calendar updates au
@@ -182,7 +182,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris FC vs Toulouse (time TBC)
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-DTSTAMP:20261125T170117Z
+DTSTAMP:20261126T014314Z
 UID:af-premiere-ligue-1581025@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis FC vs Toulouse\nStatus: Not Sta
  rted\nKick-off time not confirmed yet. Your calendar updates automatically
@@ -194,7 +194,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Fleury 91 vs Paris FC (time TBC)
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-DTSTAMP:20261125T170117Z
+DTSTAMP:20261126T014314Z
 UID:af-premiere-ligue-1580979@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nFC Fleury 91 vs Paris FC\nStatus: Not
   Started\nKick-off time not confirmed yet. Your calendar updates automatic
@@ -206,7 +206,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Nantes vs Paris FC (time TBC)
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-DTSTAMP:20261125T170117Z
+DTSTAMP:20261126T014314Z
 UID:af-premiere-ligue-1580983@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nNantes vs Paris FC\nStatus: Not Start
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -218,7 +218,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris FC vs Strasbourg (time TBC)
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
-DTSTAMP:20261125T170117Z
+DTSTAMP:20261126T014314Z
 UID:af-premiere-ligue-1580989@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis FC vs Strasbourg\nStatus: Not S
  tarted\nKick-off time not confirmed yet. Your calendar updates automatical
@@ -230,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris FC vs Le Havre (time TBC)
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
-DTSTAMP:20261125T170117Z
+DTSTAMP:20261126T014314Z
 UID:af-premiere-ligue-1580991@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis FC vs Le Havre\nStatus: Not Sta
  rted\nKick-off time not confirmed yet. Your calendar updates automatically
@@ -242,7 +242,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Marseille vs Paris FC (time TBC)
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
-DTSTAMP:20261125T170117Z
+DTSTAMP:20261126T014314Z
 UID:af-premiere-ligue-1580993@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMarseille vs Paris FC\nStatus: Not St
  arted\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -254,7 +254,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris FC vs Saint-Malo (time TBC)
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270505
-DTSTAMP:20261125T170117Z
+DTSTAMP:20261126T014314Z
 UID:af-premiere-ligue-1581035@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis FC vs Saint-Malo\nStatus: Not S
  tarted\nKick-off time not confirmed yet. Your calendar updates automatical

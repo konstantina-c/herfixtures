@@ -1,14 +1,4 @@
 {
- "af-premiere-ligue-1580956@herfixtures.com": {
-  "away": {
-   "logo": "https://media.api-sports.io/football/teams/24513.png",
-   "name": "Nantes"
-  },
-  "home": {
-   "logo": "https://media.api-sports.io/football/teams/14006.png",
-   "name": "Le Havre"
-  }
- },
  "af-premiere-ligue-1580957@herfixtures.com": {
   "away": {
    "logo": "https://media.api-sports.io/football/teams/24514.png",
@@ -27,26 +17,6 @@
   "home": {
    "logo": "https://media.api-sports.io/football/teams/1676.png",
    "name": "Paris FC"
-  }
- },
- "af-premiere-ligue-1581015@herfixtures.com": {
-  "away": {
-   "logo": "https://media.api-sports.io/football/teams/27932.png",
-   "name": "Saint-Malo"
-  },
-  "home": {
-   "logo": "https://media.api-sports.io/football/teams/1667.png",
-   "name": "Paris Saint-Germain"
-  }
- },
- "af-premiere-ligue-1585118@herfixtures.com": {
-  "away": {
-   "logo": "https://media.api-sports.io/football/teams/1675.png",
-   "name": "Montpellier"
-  },
-  "home": {
-   "logo": "https://media.api-sports.io/football/teams/26234.png",
-   "name": "Lens"
   }
  }
 }
