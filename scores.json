@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T16:43:06Z",
+  "updated": "2026-11-27T01:38:03Z",
   "version": 2,
   "rules": {
     "results_days": 3,
@@ -16,24 +16,7 @@
       "name": "Frauen-Bundesliga",
       "short": "Frauen-BL",
       "sport": "football",
-      "results": [
-        {
-          "kickoff": "2026-11-23T17:00:00Z",
-          "date": "2026-11-23",
-          "tbc": false,
-          "top": {
-            "name": "Bayern",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-            "score": 1
-          },
-          "bottom": {
-            "name": "Hoffenheim",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-            "score": 0
-          },
-          "winner": "top"
-        }
-      ],
+      "results": [],
       "upcoming": [],
       "next_date": "2026-12-11"
     },
@@ -42,24 +25,7 @@
       "name": "Liga F",
       "short": "Liga F",
       "sport": "football",
-      "results": [
-        {
-          "kickoff": "2026-11-23T19:00:00Z",
-          "date": "2026-11-23",
-          "tbc": false,
-          "top": {
-            "name": "Espanyol",
-            "logo": "https://media.api-sports.io/football/teams/1919.png",
-            "score": 2
-          },
-          "bottom": {
-            "name": "Valencia",
-            "logo": "https://media.api-sports.io/football/teams/1909.png",
-            "score": 0
-          },
-          "winner": "top"
-        }
-      ],
+      "results": [],
       "upcoming": [],
       "next_date": "2026-12-08"
     },
@@ -123,6 +89,38 @@
       "short": "NCAA",
       "sport": "basketball",
       "results": [
+        {
+          "kickoff": "2026-11-26T23:30:00Z",
+          "date": "2026-11-26",
+          "tbc": false,
+          "top": {
+            "name": "#17 Minnesota",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/135.png",
+            "score": 89
+          },
+          "bottom": {
+            "name": "Missouri State",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png",
+            "score": 54
+          },
+          "winner": "top"
+        },
+        {
+          "kickoff": "2026-11-26T16:30:00Z",
+          "date": "2026-11-26",
+          "tbc": false,
+          "top": {
+            "name": "#22 West Virginia",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/277.png",
+            "score": 64
+          },
+          "bottom": {
+            "name": "#13 Notre Dame",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/87.png",
+            "score": 78
+          },
+          "winner": "bottom"
+        },
         {
           "kickoff": "2026-11-26T00:00:00Z",
           "date": "2026-11-26",
@@ -250,55 +248,9 @@
             "score": 86
           },
           "winner": "bottom"
-        },
-        {
-          "kickoff": "2026-11-24T22:00:00Z",
-          "date": "2026-11-24",
-          "tbc": false,
-          "top": {
-            "name": "#10 UCLA",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
-            "score": 69
-          },
-          "bottom": {
-            "name": "St. John's",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2599.png",
-            "score": 56
-          },
-          "winner": "top"
-        },
-        {
-          "kickoff": "2026-11-24T21:00:00Z",
-          "date": "2026-11-24",
-          "tbc": false,
-          "top": {
-            "name": "#14 Oklahoma",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/201.png",
-            "score": 81
-          },
-          "bottom": {
-            "name": "Montana State",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/147.png",
-            "score": 64
-          },
-          "winner": "top"
         }
       ],
       "upcoming": [
-        {
-          "kickoff": "2026-11-26T23:30:00Z",
-          "date": "2026-11-26",
-          "tbc": false,
-          "top": {
-            "name": "#17 Minnesota",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/135.png"
-          },
-          "bottom": {
-            "name": "Missouri State",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png"
-          },
-          "winner": null
-        },
         {
           "kickoff": "2026-11-27T16:00:00Z",
           "date": "2026-11-27",
@@ -424,9 +376,23 @@
             "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png"
           },
           "winner": null
+        },
+        {
+          "kickoff": "2026-11-28T02:00:00Z",
+          "date": "2026-11-28",
+          "tbc": false,
+          "top": {
+            "name": "Cincinnati",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2132.png"
+          },
+          "bottom": {
+            "name": "#17 Minnesota",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/135.png"
+          },
+          "winner": null
         }
       ],
-      "next_date": "2026-11-26"
+      "next_date": "2026-11-27"
     },
     {
       "id": "ucl-women",
@@ -569,6 +535,36 @@
         {
           "league": "NCAA",
           "home": {
+            "name": "#17 Minnesota",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/135.png",
+            "score": 89
+          },
+          "away": {
+            "name": "Missouri State",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png",
+            "score": 54
+          },
+          "winner": "home",
+          "kickoff": "2026-11-26T23:30:00Z"
+        },
+        {
+          "league": "NCAA",
+          "home": {
+            "name": "#22 West Virginia",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/277.png",
+            "score": 64
+          },
+          "away": {
+            "name": "#13 Notre Dame",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/87.png",
+            "score": 78
+          },
+          "winner": "away",
+          "kickoff": "2026-11-26T16:30:00Z"
+        },
+        {
+          "league": "NCAA",
+          "home": {
             "name": "SE Louisiana",
             "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2545.png",
             "score": 45
@@ -580,82 +576,10 @@
           },
           "winner": "away",
           "kickoff": "2026-11-26T00:00:00Z"
-        },
-        {
-          "league": "NCAA",
-          "home": {
-            "name": "#12 Vanderbilt",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
-            "score": 71
-          },
-          "away": {
-            "name": "Oregon State",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/204.png",
-            "score": 60
-          },
-          "winner": "home",
-          "kickoff": "2026-11-25T23:30:00Z"
-        },
-        {
-          "league": "NCAA",
-          "home": {
-            "name": "Toledo",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2649.png",
-            "score": 56
-          },
-          "away": {
-            "name": "#2 Michigan",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
-            "score": 102
-          },
-          "winner": "away",
-          "kickoff": "2026-11-25T18:30:00Z"
-        },
-        {
-          "league": "Liga F",
-          "home": {
-            "name": "Espanyol",
-            "logo": "https://media.api-sports.io/football/teams/1919.png",
-            "score": 2
-          },
-          "away": {
-            "name": "Valencia",
-            "logo": "https://media.api-sports.io/football/teams/1909.png",
-            "score": 0
-          },
-          "winner": "home",
-          "kickoff": "2026-11-23T19:00:00Z"
-        },
-        {
-          "league": "Frauen-BL",
-          "home": {
-            "name": "Bayern",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-            "score": 1
-          },
-          "away": {
-            "name": "Hoffenheim",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-            "score": 0
-          },
-          "winner": "home",
-          "kickoff": "2026-11-23T17:00:00Z"
         }
       ],
       "livegame": [],
       "pregame": [
-        {
-          "league": "NCAA",
-          "home": {
-            "name": "#17 Minnesota",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/135.png"
-          },
-          "away": {
-            "name": "Missouri State",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png"
-          },
-          "kickoff": "2026-11-26T23:30:00Z"
-        },
         {
           "league": "NCAA",
           "home": {
@@ -667,6 +591,18 @@
             "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png"
           },
           "kickoff": "2026-11-27T16:00:00Z"
+        },
+        {
+          "league": "NCAA",
+          "home": {
+            "name": "Akron",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png"
+          },
+          "away": {
+            "name": "#3 Louisville",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png"
+          },
+          "kickoff": "2026-11-27T17:00:00Z"
         }
       ]
     }

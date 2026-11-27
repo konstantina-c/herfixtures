@@ -19,16 +19,6 @@
    "name": "#17 Minnesota"
   }
  },
- "espn-ncaa-wbb-401906081@herfixtures.com": {
-  "away": {
-   "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
-   "name": "#3 Louisville"
-  },
-  "home": {
-   "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/1.png",
-   "name": "Alaska Anchorage"
-  }
- },
  "espn-ncaa-wbb-401906082@herfixtures.com": {
   "away": {
    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
@@ -99,16 +89,6 @@
    "name": "#24 North Carolina"
   }
  },
- "espn-ncaa-wbb-401907053@herfixtures.com": {
-  "away": {
-   "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2724.png",
-   "name": "Wichita State"
-  },
-  "home": {
-   "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
-   "name": "#25 Oklahoma State"
-  }
- },
  "espn-ncaa-wbb-401907168@herfixtures.com": {
   "away": {
    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2154.png",
@@ -123,6 +103,16 @@
   "away": {
    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/116.png",
    "name": "Mount St. Mary's"
+  },
+  "home": {
+   "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/277.png",
+   "name": "#22 West Virginia"
+  }
+ },
+ "espn-ncaa-wbb-401907170@herfixtures.com": {
+  "away": {
+   "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/108.png",
+   "name": "Harvard"
   },
   "home": {
    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/277.png",
@@ -159,24 +149,14 @@
    "name": "#7 UConn"
   }
  },
- "espn-ncaa-wbb-401911795@herfixtures.com": {
+ "espn-ncaa-wbb-401911743@herfixtures.com": {
   "away": {
-   "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
-   "name": "#23 Nebraska"
+   "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+   "name": "#7 UConn"
   },
   "home": {
-   "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/156.png",
-   "name": "Creighton"
-  }
- },
- "espn-ncaa-wbb-401912957@herfixtures.com": {
-  "away": {
-   "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
-   "name": "#10 UCLA"
-  },
-  "home": {
-   "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633_ncw.png",
-   "name": "Tennessee"
+   "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
+   "name": "#18 Maryland"
   }
  },
  "espn-ncaa-wbb-401912970@herfixtures.com": {
@@ -289,16 +269,6 @@
    "name": "#11 Kentucky"
   }
  },
- "espn-ncaa-wbb-401915910@herfixtures.com": {
-  "away": {
-   "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
-   "name": "#5 Duke"
-  },
-  "home": {
-   "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/171.png",
-   "name": "Columbia"
-  }
- },
  "espn-ncaa-wbb-401915911@herfixtures.com": {
   "away": {
    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2579.png",
@@ -327,16 +297,6 @@
   "home": {
    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
    "name": "#4 USC"
-  }
- },
- "espn-ncaa-wbb-401918004@herfixtures.com": {
-  "away": {
-   "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2628.png",
-   "name": "#15 TCU"
-  },
-  "home": {
-   "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
-   "name": "Utah State"
   }
  },
  "espn-ncaa-wbb-401918005@herfixtures.com": {
@@ -419,16 +379,6 @@
    "name": "#12 Vanderbilt"
   }
  },
- "espn-ncaa-wbb-401918844@herfixtures.com": {
-  "away": {
-   "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
-   "name": "#19 Ohio State"
-  },
-  "home": {
-   "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
-   "name": "#6 Texas"
-  }
- },
  "espn-ncaa-wbb-401918845@herfixtures.com": {
   "away": {
    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2545.png",
@@ -467,16 +417,6 @@
   "home": {
    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
    "name": "#10 UCLA"
-  }
- },
- "espn-ncaa-wbb-401918911@herfixtures.com": {
-  "away": {
-   "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
-   "name": "Central Michigan"
-  },
-  "home": {
-   "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/135.png",
-   "name": "#17 Minnesota"
   }
  },
  "espn-ncaa-wbb-401918919@herfixtures.com": {
@@ -609,14 +549,44 @@
    "name": "#23 Nebraska"
   }
  },
- "espn-ncaa-wbb-401921465@herfixtures.com": {
+ "espn-ncaa-wbb-401921848@herfixtures.com": {
   "away": {
-   "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
-   "name": "Cal Poly"
+   "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
+   "name": "#23 Nebraska"
+  },
+  "home": {
+   "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2294.png",
+   "name": "#8 Iowa"
+  }
+ },
+ "espn-ncaa-wbb-401921849@herfixtures.com": {
+  "away": {
+   "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+   "name": "#19 Ohio State"
+  },
+  "home": {
+   "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/164.png",
+   "name": "Rutgers"
+  }
+ },
+ "espn-ncaa-wbb-401921850@herfixtures.com": {
+  "away": {
+   "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
+   "name": "#4 USC"
   },
   "home": {
    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
    "name": "#16 Washington"
+  }
+ },
+ "espn-ncaa-wbb-401921851@herfixtures.com": {
+  "away": {
+   "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
+   "name": "#20 Illinois"
+  },
+  "home": {
+   "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
+   "name": "Wisconsin"
   }
  },
  "espn-ncaa-wbb-401923185@herfixtures.com": {
@@ -649,16 +619,6 @@
    "name": "Virginia"
   }
  },
- "espn-ncaa-wbb-401924634@herfixtures.com": {
-  "away": {
-   "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2010.png",
-   "name": "Alabama A&M"
-  },
-  "home": {
-   "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/145.png",
-   "name": "#19 Ole Miss"
-  }
- },
  "espn-ncaa-wbb-401924635@herfixtures.com": {
   "away": {
    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/235.png",
@@ -687,6 +647,16 @@
   "home": {
    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
    "name": "#2 Michigan"
+  }
+ },
+ "espn-ncaa-wbb-401927072@herfixtures.com": {
+  "away": {
+   "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+   "name": "#2 Michigan"
+  },
+  "home": {
+   "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/201.png",
+   "name": "#14 Oklahoma"
   }
  },
  "espn-ncaa-wbb-401927083@herfixtures.com": {
@@ -737,16 +707,6 @@
   "home": {
    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/277.png",
    "name": "#22 West Virginia"
-  }
- },
- "espn-ncaa-wbb-401929635@herfixtures.com": {
-  "away": {
-   "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
-   "name": "#3 Louisville"
-  },
-  "home": {
-   "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2547.png",
-   "name": "Seattle U"
   }
  }
 }

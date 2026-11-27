@@ -1,24 +1,4 @@
 {
- "af-liga-f-1573649@herfixtures.com": {
-  "away": {
-   "logo": "https://media.api-sports.io/football/teams/1905.png",
-   "name": "Athletic Club"
-  },
-  "home": {
-   "logo": "https://media.api-sports.io/football/teams/1918.png",
-   "name": "Barcelona"
-  }
- },
- "af-liga-f-1573650@herfixtures.com": {
-  "away": {
-   "logo": "https://media.api-sports.io/football/teams/1921.png",
-   "name": "Madrid CFF"
-  },
-  "home": {
-   "logo": "https://media.api-sports.io/football/teams/1913.png",
-   "name": "CD Tenerife"
-  }
- },
  "af-liga-f-1573653@herfixtures.com": {
   "away": {
    "logo": "https://media.api-sports.io/football/teams/1909.png",
@@ -27,26 +7,6 @@
   "home": {
    "logo": "https://media.api-sports.io/football/teams/1919.png",
    "name": "Espanyol"
-  }
- },
- "af-liga-f-1573654@herfixtures.com": {
-  "away": {
-   "logo": "https://media.api-sports.io/football/teams/15224.png",
-   "name": "Real Madrid"
-  },
-  "home": {
-   "logo": "https://media.api-sports.io/football/teams/22018.png",
-   "name": "Granada"
-  }
- },
- "af-liga-f-1573655@herfixtures.com": {
-  "away": {
-   "logo": "https://media.api-sports.io/football/teams/1920.png",
-   "name": "Sevilla"
-  },
-  "home": {
-   "logo": "https://media.api-sports.io/football/teams/1912.png",
-   "name": "Real Sociedad"
   }
  }
 }

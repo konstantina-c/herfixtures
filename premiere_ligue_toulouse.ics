@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Toulouse vs Marseille (1–1)
 DTSTART:20261120T200000Z
 DTEND:20261120T220000Z
-DTSTAMP:20261126T164244Z
+DTSTAMP:20261127T013748Z
 UID:af-premiere-ligue-1581016@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nToulouse vs Marseille\nStatus: Match 
  Finished\nVenue: Stade de la Ramée\, Toulouse\n\nFixtures by HerFixtures.
@@ -123,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Toulouse vs Paris Saint-Germain (time TBC)
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261126T164244Z
+DTSTAMP:20261127T013748Z
 UID:af-premiere-ligue-1581017@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nToulouse vs Paris Saint-Germain\nStat
  us: Not Started\nKick-off time not confirmed yet. Your calendar updates au
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Le Havre vs Toulouse (time TBC)
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20261126T164244Z
+DTSTAMP:20261127T013748Z
 UID:af-premiere-ligue-1581018@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLe Havre vs Toulouse\nStatus: Not Sta
  rted\nKick-off time not confirmed yet. Your calendar updates automatically
@@ -147,7 +147,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Toulouse vs Montpellier (time TBC)
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-DTSTAMP:20261126T164244Z
+DTSTAMP:20261127T013748Z
 UID:af-premiere-ligue-1581021@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nToulouse vs Montpellier\nStatus: Not 
  Started\nKick-off time not confirmed yet. Your calendar updates automatica
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Saint-Malo vs Toulouse (time TBC)
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-DTSTAMP:20261126T164244Z
+DTSTAMP:20261127T013748Z
 UID:af-premiere-ligue-1581022@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Toulouse\nStatus: Not S
  tarted\nKick-off time not confirmed yet. Your calendar updates automatical
@@ -171,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Toulouse vs FC Fleury 91 (time TBC)
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-DTSTAMP:20261126T164244Z
+DTSTAMP:20261127T013748Z
 UID:af-premiere-ligue-1581024@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nToulouse vs FC Fleury 91\nStatus: Not
   Started\nKick-off time not confirmed yet. Your calendar updates automatic
@@ -183,7 +183,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris FC vs Toulouse (time TBC)
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-DTSTAMP:20261126T164244Z
+DTSTAMP:20261127T013748Z
 UID:af-premiere-ligue-1581025@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis FC vs Toulouse\nStatus: Not Sta
  rted\nKick-off time not confirmed yet. Your calendar updates automatically
@@ -195,7 +195,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Toulouse vs OL Lyonnes (time TBC)
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-DTSTAMP:20261126T164244Z
+DTSTAMP:20261127T013748Z
 UID:af-premiere-ligue-1581028@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nToulouse vs OL Lyonnes\nStatus: Not S
  tarted\nKick-off time not confirmed yet. Your calendar updates automatical
@@ -207,7 +207,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Toulouse vs Lens (time TBC)
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-DTSTAMP:20261126T164244Z
+DTSTAMP:20261127T013748Z
 UID:af-premiere-ligue-1585126@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nToulouse vs Lens\nStatus: Not Started
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -219,7 +219,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Marseille vs Toulouse (time TBC)
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
-DTSTAMP:20261126T164244Z
+DTSTAMP:20261127T013748Z
 UID:af-premiere-ligue-1581030@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMarseille vs Toulouse\nStatus: Not St
  arted\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -231,7 +231,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Toulouse vs Nantes (time TBC)
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
-DTSTAMP:20261126T164244Z
+DTSTAMP:20261127T013748Z
 UID:af-premiere-ligue-1581032@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nToulouse vs Nantes\nStatus: Not Start
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -243,7 +243,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris Saint-Germain vs Toulouse (time TBC)
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
-DTSTAMP:20261126T164244Z
+DTSTAMP:20261127T013748Z
 UID:af-premiere-ligue-1581033@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis Saint-Germain vs Toulouse\nStat
  us: Not Started\nKick-off time not confirmed yet. Your calendar updates au
@@ -255,7 +255,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Toulouse vs Strasbourg (time TBC)
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270505
-DTSTAMP:20261126T164244Z
+DTSTAMP:20261127T013748Z
 UID:af-premiere-ligue-1581036@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nToulouse vs Strasbourg\nStatus: Not S
  tarted\nKick-off time not confirmed yet. Your calendar updates automatical
