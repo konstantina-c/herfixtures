@@ -134,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ FC Badalona (1–2)
 DTSTART:20261121T110000Z
 DTEND:20261121T130000Z
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573648@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at FC Badalona\nStatus: Matc
  h Finished\nVenue: Estadi Municipal de Badalona\, Badalona\n\nFixtures by 
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ FC Badalona
 DTSTART:20261208T120000Z
 DTEND:20261208T140000Z
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573658@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at FC Badalona\nStatus: Not S
  tarted\nVenue: Estadi Municipal de Badalona\, Badalona\n\nFixtures by HerF
@@ -156,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Badalona @ Madrid CFF (time TBC)
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573669@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Madrid CFF\nStatus: Not
   Started\nKick-off time not confirmed yet. Your calendar updates automatic
@@ -168,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ FC Badalona (time TBC)
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573674@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAlavés at FC Badalona\nStatus: Not St
  arted\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -180,7 +180,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Badalona @ CD Tenerife (time TBC)
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573682@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at CD Tenerife\nStatus: No
  t Started\nKick-off time not confirmed yet. Your calendar updates automati
@@ -192,7 +192,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ FC Badalona (time TBC)
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573690@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at FC Badalona\nStatus: N
  ot Started\nKick-off time not confirmed yet. Your calendar updates automat
@@ -204,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Badalona @ Barcelona (time TBC)
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573697@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Barcelona\nStatus: Not 
  Started\nKick-off time not confirmed yet. Your calendar updates automatica
@@ -216,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ FC Badalona (time TBC)
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573705@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nSevilla at FC Badalona\nStatus: Not St
  arted\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -228,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Badalona @ Deportivo (time TBC)
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573717@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Deportivo\nStatus: Not 
  Started\nKick-off time not confirmed yet. Your calendar updates automatica
@@ -240,7 +240,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ FC Badalona (time TBC)
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573721@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at FC Badalona\nStatus: 
  Not Started\nKick-off time not confirmed yet. Your calendar updates automa
@@ -252,7 +252,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Badalona @ Granada (time TBC)
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573733@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Granada\nStatus: Not St
  arted\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -264,7 +264,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ FC Badalona (time TBC)
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573738@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at FC Badalona\nStatus: No
  t Started\nKick-off time not confirmed yet. Your calendar updates automati
@@ -276,7 +276,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ FC Badalona (time TBC)
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573745@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at FC Badalona\nStatus: Not S
  tarted\nKick-off time not confirmed yet. Your calendar updates automatical
@@ -288,7 +288,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Badalona @ Valencia (time TBC)
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573759@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Valencia\nStatus: Not S
  tarted\nKick-off time not confirmed yet. Your calendar updates automatical
@@ -300,7 +300,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Madrid CFF @ FC Badalona (time TBC)
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573762@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at FC Badalona\nStatus: Not
   Started\nKick-off time not confirmed yet. Your calendar updates automatic
@@ -312,7 +312,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Badalona @ Real Sociedad (time TBC)
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573775@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Real Sociedad\nStatus: 
  Not Started\nKick-off time not confirmed yet. Your calendar updates automa
@@ -324,7 +324,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Atlético Madrid @ FC Badalona (time TBC)
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573777@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAtlético Madrid at FC Badalona\nStatu
  s: Not Started\nKick-off time not confirmed yet. Your calendar updates aut
@@ -336,7 +336,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Badalona @ Alavés (time TBC)
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573784@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nFC Badalona at Alavés\nStatus: Not St
  arted\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -348,7 +348,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ FC Badalona (time TBC)
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573793@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at FC Badalona\nStatus: Not Star
  ted\nKick-off time not confirmed yet. Your calendar updates automatically 

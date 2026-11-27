@@ -134,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Real Sociedad (0–1)
 DTSTART:20261122T110000Z
 DTEND:20261122T130000Z
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573655@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Real Sociedad\nStatus: Matc
  h Finished\nVenue: Instalaciones de Zubieta\, Lasarte-Oria\n\nFixtures by 
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Sevilla
 DTSTART:20261209T190000Z
 DTEND:20261209T210000Z
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573663@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at Sevilla\nStatus: Not Starte
  d\nVenue: Estadio Jesus Navas\, Sevilla\n\nFixtures by HerFixtures.com —
@@ -156,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Espanyol (time TBC)
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573667@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Espanyol\nStatus: Not Start
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -168,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Valencia @ Sevilla (time TBC)
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573679@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nValencia at Sevilla\nStatus: Not Start
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -180,7 +180,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Barcelona (time TBC)
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573681@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Barcelona\nStatus: Not Star
  ted\nKick-off time not confirmed yet. Your calendar updates automatically 
@@ -192,7 +192,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Sevilla (time TBC)
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573695@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Sevilla\nStatus: Not Star
  ted\nKick-off time not confirmed yet. Your calendar updates automatically 
@@ -204,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Sevilla (time TBC)
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573702@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Sevilla\nStatus: Not S
  tarted\nKick-off time not confirmed yet. Your calendar updates automatical
@@ -216,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ FC Badalona (time TBC)
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573705@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nSevilla at FC Badalona\nStatus: Not St
  arted\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -228,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Madrid CFF @ Sevilla (time TBC)
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573719@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Sevilla\nStatus: Not Sta
  rted\nKick-off time not confirmed yet. Your calendar updates automatically
@@ -240,7 +240,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Granada (time TBC)
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573723@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Granada\nStatus: Not Starte
  d\nKick-off time not confirmed yet. Your calendar updates automatically on
@@ -252,7 +252,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ CD Tenerife @ Sevilla (time TBC)
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573735@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Sevilla\nStatus: Not St
  arted\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -264,7 +264,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Valencia (time TBC)
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573743@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Valencia\nStatus: Not Start
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -276,7 +276,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Real Madrid (time TBC)
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573751@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Real Madrid\nStatus: Not St
  arted\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -288,7 +288,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Sevilla (time TBC)
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573758@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Sevilla\nStatus: Not 
  Started\nKick-off time not confirmed yet. Your calendar updates automatica
@@ -300,7 +300,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Espanyol @ Sevilla (time TBC)
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573766@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEspanyol at Sevilla\nStatus: Not Start
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -312,7 +312,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Atlético Madrid (time TBC)
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573769@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Atlético Madrid\nStatus: N
  ot Started\nKick-off time not confirmed yet. Your calendar updates automat
@@ -324,7 +324,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Sevilla (time TBC)
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573782@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Sevilla\nStatus: Not Starte
  d\nKick-off time not confirmed yet. Your calendar updates automatically on
@@ -336,7 +336,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Eibar (time TBC)
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573787@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Eibar\nStatus: Not Started
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -348,7 +348,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Sociedad @ Sevilla (time TBC)
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
-DTSTAMP:20261127T013735Z
+DTSTAMP:20261127T162802Z
 UID:af-liga-f-1573798@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Sevilla\nStatus: Not 
  Started\nKick-off time not confirmed yet. Your calendar updates automatica

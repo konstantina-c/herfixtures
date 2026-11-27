@@ -595,7 +595,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Toulouse vs Marseille (1–1)
 DTSTART:20261120T200000Z
 DTEND:20261120T220000Z
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1581016@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nToulouse vs Marseille\nStatus: Match 
  Finished\nVenue: Stade de la Ramée\, Toulouse\n\nFixtures by HerFixtures.
@@ -606,7 +606,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Le Havre vs Nantes (2–4)
 DTSTART:20261121T170000Z
 DTEND:20261121T190000Z
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580956@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLe Havre vs Nantes\nStatus: Match Fin
  ished\nVenue: Stade Océane\, Le Havre\n\nFixtures by HerFixtures.com — 
@@ -617,7 +617,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris Saint-Germain vs Saint-Malo (1–0)
 DTSTART:20261121T200000Z
 DTEND:20261121T220000Z
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1581015@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis Saint-Germain vs Saint-Malo\nSt
  atus: Match Finished\nVenue: Stade Georges Lefevre\, Paris\n\nFixtures by 
@@ -628,7 +628,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Lens vs Montpellier (0–1)
 DTSTART:20261121T150000Z
 DTEND:20261121T170000Z
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1585118@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLens vs Montpellier\nStatus: Match Fi
  nished\nVenue: Degouve-Brabant Stadium\, Arras\n\nFixtures by HerFixtures.
@@ -639,7 +639,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ OL Lyonnes vs Strasbourg (5–2)
 DTSTART:20261122T140000Z
 DTEND:20261122T160000Z
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580957@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nOL Lyonnes vs Strasbourg\nStatus: Mat
  ch Finished\nVenue: Groupama Stadium\, Lyon\n\nFixtures by HerFixtures.com
@@ -650,7 +650,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris FC vs FC Fleury 91 (2–1)
 DTSTART:20261122T140000Z
 DTEND:20261122T160000Z
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580958@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis FC vs FC Fleury 91\nStatus: Mat
  ch Finished\nVenue: Stade Jean-Bouin\, Paris\n\nFixtures by HerFixtures.co
@@ -661,7 +661,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Fleury 91 vs Le Havre (time TBC)
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580959@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nFC Fleury 91 vs Le Havre\nStatus: Not
   Started\nKick-off time not confirmed yet. Your calendar updates automatic
@@ -673,7 +673,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Montpellier vs Strasbourg (time TBC)
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580960@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMontpellier vs Strasbourg\nStatus: No
  t Started\nKick-off time not confirmed yet. Your calendar updates automati
@@ -685,7 +685,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Nantes vs OL Lyonnes (time TBC)
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580961@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nNantes vs OL Lyonnes\nStatus: Not Sta
  rted\nKick-off time not confirmed yet. Your calendar updates automatically
@@ -697,7 +697,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris FC vs Marseille (time TBC)
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580962@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis FC vs Marseille\nStatus: Not St
  arted\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -709,7 +709,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Toulouse vs Paris Saint-Germain (time TBC)
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1581017@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nToulouse vs Paris Saint-Germain\nStat
  us: Not Started\nKick-off time not confirmed yet. Your calendar updates au
@@ -721,7 +721,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Saint-Malo vs Lens (time TBC)
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1585119@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Lens\nStatus: Not Start
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -733,7 +733,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ OL Lyonnes vs FC Fleury 91 (time TBC)
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580963@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nOL Lyonnes vs FC Fleury 91\nStatus: N
  ot Started\nKick-off time not confirmed yet. Your calendar updates automat
@@ -745,7 +745,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Marseille vs Montpellier (time TBC)
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580964@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMarseille vs Montpellier\nStatus: Not
   Started\nKick-off time not confirmed yet. Your calendar updates automatic
@@ -757,7 +757,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Strasbourg vs Paris Saint-Germain (time TBC)
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580965@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs Paris Saint-Germain\nSt
  atus: Not Started\nKick-off time not confirmed yet. Your calendar updates 
@@ -769,7 +769,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Le Havre vs Toulouse (time TBC)
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1581018@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLe Havre vs Toulouse\nStatus: Not Sta
  rted\nKick-off time not confirmed yet. Your calendar updates automatically
@@ -781,7 +781,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Nantes vs Saint-Malo (time TBC)
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1581019@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nNantes vs Saint-Malo\nStatus: Not Sta
  rted\nKick-off time not confirmed yet. Your calendar updates automatically
@@ -793,7 +793,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Lens vs Paris FC (time TBC)
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1585120@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLens vs Paris FC\nStatus: Not Started
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -805,7 +805,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Saint-Malo vs Paris FC
 DTSTART:20270113T180000Z
 DTEND:20270113T200000Z
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1581009@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Paris FC\nStatus: Resch
  eduled\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
@@ -815,7 +815,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Le Havre vs Marseille (time TBC)
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580966@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLe Havre vs Marseille\nStatus: Not St
  arted\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -827,7 +827,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris FC vs OL Lyonnes (time TBC)
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580967@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis FC vs OL Lyonnes\nStatus: Not S
  tarted\nKick-off time not confirmed yet. Your calendar updates automatical
@@ -839,7 +839,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Strasbourg vs Nantes (time TBC)
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580968@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs Nantes\nStatus: Not Sta
  rted\nKick-off time not confirmed yet. Your calendar updates automatically
@@ -851,7 +851,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Fleury 91 vs Saint-Malo (time TBC)
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1581020@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nFC Fleury 91 vs Saint-Malo\nStatus: N
  ot Started\nKick-off time not confirmed yet. Your calendar updates automat
@@ -863,7 +863,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Toulouse vs Montpellier (time TBC)
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1581021@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nToulouse vs Montpellier\nStatus: Not 
  Started\nKick-off time not confirmed yet. Your calendar updates automatica
@@ -875,7 +875,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris Saint-Germain vs Lens (time TBC)
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1585121@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis Saint-Germain vs Lens\nStatus: 
  Not Started\nKick-off time not confirmed yet. Your calendar updates automa
@@ -887,7 +887,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ OL Lyonnes vs Le Havre (time TBC)
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580969@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nOL Lyonnes vs Le Havre\nStatus: Not S
  tarted\nKick-off time not confirmed yet. Your calendar updates automatical
@@ -899,7 +899,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Marseille vs Strasbourg (time TBC)
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580970@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMarseille vs Strasbourg\nStatus: Not 
  Started\nKick-off time not confirmed yet. Your calendar updates automatica
@@ -911,7 +911,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Montpellier vs Paris FC (time TBC)
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580971@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMontpellier vs Paris FC\nStatus: Not 
  Started\nKick-off time not confirmed yet. Your calendar updates automatica
@@ -923,7 +923,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Nantes vs Paris Saint-Germain (time TBC)
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580972@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nNantes vs Paris Saint-Germain\nStatus
  : Not Started\nKick-off time not confirmed yet. Your calendar updates auto
@@ -935,7 +935,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Saint-Malo vs Toulouse (time TBC)
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1581022@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Toulouse\nStatus: Not S
  tarted\nKick-off time not confirmed yet. Your calendar updates automatical
@@ -947,7 +947,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Fleury 91 vs Lens (time TBC)
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1585122@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nFC Fleury 91 vs Lens\nStatus: Not Sta
  rted\nKick-off time not confirmed yet. Your calendar updates automatically
@@ -959,7 +959,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Le Havre vs Strasbourg (time TBC)
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580973@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLe Havre vs Strasbourg\nStatus: Not S
  tarted\nKick-off time not confirmed yet. Your calendar updates automatical
@@ -971,7 +971,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Marseille vs OL Lyonnes (time TBC)
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580974@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMarseille vs OL Lyonnes\nStatus: Not 
  Started\nKick-off time not confirmed yet. Your calendar updates automatica
@@ -983,7 +983,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris Saint-Germain vs Paris FC (time TBC)
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580975@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis Saint-Germain vs Paris FC\nStat
  us: Not Started\nKick-off time not confirmed yet. Your calendar updates au
@@ -995,7 +995,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Montpellier vs Saint-Malo (time TBC)
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1581023@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMontpellier vs Saint-Malo\nStatus: No
  t Started\nKick-off time not confirmed yet. Your calendar updates automati
@@ -1007,7 +1007,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Toulouse vs FC Fleury 91 (time TBC)
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1581024@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nToulouse vs FC Fleury 91\nStatus: Not
   Started\nKick-off time not confirmed yet. Your calendar updates automatic
@@ -1019,7 +1019,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Lens vs Nantes (time TBC)
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1585123@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLens vs Nantes\nStatus: Not Started\n
  Kick-off time not confirmed yet. Your calendar updates automatically once 
@@ -1031,7 +1031,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Fleury 91 vs Montpellier (time TBC)
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580976@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nFC Fleury 91 vs Montpellier\nStatus: 
  Not Started\nKick-off time not confirmed yet. Your calendar updates automa
@@ -1043,7 +1043,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ OL Lyonnes vs Paris Saint-Germain (time TBC)
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580977@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nOL Lyonnes vs Paris Saint-Germain\nSt
  atus: Not Started\nKick-off time not confirmed yet. Your calendar updates 
@@ -1055,7 +1055,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Nantes vs Marseille (time TBC)
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580978@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nNantes vs Marseille\nStatus: Not Star
  ted\nKick-off time not confirmed yet. Your calendar updates automatically 
@@ -1067,7 +1067,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris FC vs Toulouse (time TBC)
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1581025@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis FC vs Toulouse\nStatus: Not Sta
  rted\nKick-off time not confirmed yet. Your calendar updates automatically
@@ -1079,7 +1079,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Saint-Malo vs Le Havre (time TBC)
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1581026@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Le Havre\nStatus: Not S
  tarted\nKick-off time not confirmed yet. Your calendar updates automatical
@@ -1091,7 +1091,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Strasbourg vs Lens (time TBC)
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1585124@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs Lens\nStatus: Not Start
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -1103,7 +1103,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Fleury 91 vs Paris FC (time TBC)
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580979@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nFC Fleury 91 vs Paris FC\nStatus: Not
   Started\nKick-off time not confirmed yet. Your calendar updates automatic
@@ -1115,7 +1115,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Montpellier vs Nantes (time TBC)
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580980@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMontpellier vs Nantes\nStatus: Not St
  arted\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -1127,7 +1127,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris Saint-Germain vs Marseille (time TBC)
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580981@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis Saint-Germain vs Marseille\nSta
  tus: Not Started\nKick-off time not confirmed yet. Your calendar updates a
@@ -1139,7 +1139,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Saint-Malo vs Strasbourg (time TBC)
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1581027@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Strasbourg\nStatus: Not
   Started\nKick-off time not confirmed yet. Your calendar updates automatic
@@ -1151,7 +1151,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Toulouse vs OL Lyonnes (time TBC)
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1581028@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nToulouse vs OL Lyonnes\nStatus: Not S
  tarted\nKick-off time not confirmed yet. Your calendar updates automatical
@@ -1163,7 +1163,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Lens vs Le Havre (time TBC)
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1585125@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLens vs Le Havre\nStatus: Not Started
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -1175,7 +1175,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Le Havre vs Montpellier (time TBC)
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580982@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLe Havre vs Montpellier\nStatus: Not 
  Started\nKick-off time not confirmed yet. Your calendar updates automatica
@@ -1187,7 +1187,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Nantes vs Paris FC (time TBC)
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580983@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nNantes vs Paris FC\nStatus: Not Start
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -1199,7 +1199,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris Saint-Germain vs FC Fleury 91 (time TBC)
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580984@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis Saint-Germain vs FC Fleury 91\n
  Status: Not Started\nKick-off time not confirmed yet. Your calendar update
@@ -1211,7 +1211,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Strasbourg vs OL Lyonnes (time TBC)
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580985@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs OL Lyonnes\nStatus: Not
   Started\nKick-off time not confirmed yet. Your calendar updates automatic
@@ -1223,7 +1223,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Marseille vs Saint-Malo (time TBC)
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1581029@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMarseille vs Saint-Malo\nStatus: Not 
  Started\nKick-off time not confirmed yet. Your calendar updates automatica
@@ -1235,7 +1235,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Toulouse vs Lens (time TBC)
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1585126@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nToulouse vs Lens\nStatus: Not Started
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -1247,7 +1247,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Le Havre vs FC Fleury 91 (time TBC)
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580986@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLe Havre vs FC Fleury 91\nStatus: Not
   Started\nKick-off time not confirmed yet. Your calendar updates automatic
@@ -1259,7 +1259,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ OL Lyonnes vs Nantes (time TBC)
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580987@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nOL Lyonnes vs Nantes\nStatus: Not Sta
  rted\nKick-off time not confirmed yet. Your calendar updates automatically
@@ -1271,7 +1271,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Montpellier vs Paris Saint-Germain (time TBC)
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580988@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMontpellier vs Paris Saint-Germain\nS
  tatus: Not Started\nKick-off time not confirmed yet. Your calendar updates
@@ -1283,7 +1283,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris FC vs Strasbourg (time TBC)
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580989@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis FC vs Strasbourg\nStatus: Not S
  tarted\nKick-off time not confirmed yet. Your calendar updates automatical
@@ -1295,7 +1295,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Marseille vs Toulouse (time TBC)
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1581030@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMarseille vs Toulouse\nStatus: Not St
  arted\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -1307,7 +1307,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Lens vs Saint-Malo (time TBC)
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1585127@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLens vs Saint-Malo\nStatus: Not Start
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -1319,7 +1319,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Fleury 91 vs Marseille (time TBC)
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580990@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nFC Fleury 91 vs Marseille\nStatus: No
  t Started\nKick-off time not confirmed yet. Your calendar updates automati
@@ -1331,7 +1331,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris FC vs Le Havre (time TBC)
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580991@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis FC vs Le Havre\nStatus: Not Sta
  rted\nKick-off time not confirmed yet. Your calendar updates automatically
@@ -1343,7 +1343,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Strasbourg vs Montpellier (time TBC)
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580992@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs Montpellier\nStatus: No
  t Started\nKick-off time not confirmed yet. Your calendar updates automati
@@ -1355,7 +1355,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Saint-Malo vs Paris Saint-Germain (time TBC)
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1581031@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs Paris Saint-Germain\nSt
  atus: Not Started\nKick-off time not confirmed yet. Your calendar updates 
@@ -1367,7 +1367,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Toulouse vs Nantes (time TBC)
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1581032@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nToulouse vs Nantes\nStatus: Not Start
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -1379,7 +1379,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ OL Lyonnes vs Lens (time TBC)
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1585128@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nOL Lyonnes vs Lens\nStatus: Not Start
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -1391,7 +1391,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Marseille vs Paris FC (time TBC)
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580993@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMarseille vs Paris FC\nStatus: Not St
  arted\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -1403,7 +1403,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Nantes vs Le Havre (time TBC)
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580994@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nNantes vs Le Havre\nStatus: Not Start
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -1415,7 +1415,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Strasbourg vs FC Fleury 91 (time TBC)
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580995@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nStrasbourg vs FC Fleury 91\nStatus: N
  ot Started\nKick-off time not confirmed yet. Your calendar updates automat
@@ -1427,7 +1427,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris Saint-Germain vs Toulouse (time TBC)
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1581033@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis Saint-Germain vs Toulouse\nStat
  us: Not Started\nKick-off time not confirmed yet. Your calendar updates au
@@ -1439,7 +1439,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Saint-Malo vs OL Lyonnes (time TBC)
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1581034@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nSaint-Malo vs OL Lyonnes\nStatus: Not
   Started\nKick-off time not confirmed yet. Your calendar updates automatic
@@ -1451,7 +1451,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Montpellier vs Lens (time TBC)
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1585129@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nMontpellier vs Lens\nStatus: Not Star
  ted\nKick-off time not confirmed yet. Your calendar updates automatically 
@@ -1463,7 +1463,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Fleury 91 vs Nantes (time TBC)
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270505
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580996@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nFC Fleury 91 vs Nantes\nStatus: Not S
  tarted\nKick-off time not confirmed yet. Your calendar updates automatical
@@ -1475,7 +1475,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Le Havre vs Paris Saint-Germain (time TBC)
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270505
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580997@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLe Havre vs Paris Saint-Germain\nStat
  us: Not Started\nKick-off time not confirmed yet. Your calendar updates au
@@ -1487,7 +1487,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ OL Lyonnes vs Montpellier (time TBC)
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270505
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1580998@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nOL Lyonnes vs Montpellier\nStatus: No
  t Started\nKick-off time not confirmed yet. Your calendar updates automati
@@ -1499,7 +1499,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Paris FC vs Saint-Malo (time TBC)
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270505
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1581035@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nParis FC vs Saint-Malo\nStatus: Not S
  tarted\nKick-off time not confirmed yet. Your calendar updates automatical
@@ -1511,7 +1511,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Toulouse vs Strasbourg (time TBC)
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270505
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1581036@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nToulouse vs Strasbourg\nStatus: Not S
  tarted\nKick-off time not confirmed yet. Your calendar updates automatical
@@ -1523,7 +1523,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Lens vs Marseille (time TBC)
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270505
-DTSTAMP:20261127T013748Z
+DTSTAMP:20261127T162816Z
 UID:af-premiere-ligue-1585130@herfixtures.com
 DESCRIPTION:Première Ligue 2026/27\nLens vs Marseille\nStatus: Not Starte
  d\nKick-off time not confirmed yet. Your calendar updates automatically on

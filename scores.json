@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T01:38:03Z",
+  "updated": "2026-11-27T16:28:30Z",
   "version": 2,
   "rules": {
     "results_days": 3,
@@ -252,20 +252,6 @@
       ],
       "upcoming": [
         {
-          "kickoff": "2026-11-27T16:00:00Z",
-          "date": "2026-11-27",
-          "tbc": false,
-          "top": {
-            "name": "Marquette",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/269.png"
-          },
-          "bottom": {
-            "name": "#20 Illinois",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png"
-          },
-          "winner": null
-        },
-        {
           "kickoff": "2026-11-27T17:00:00Z",
           "date": "2026-11-27",
           "tbc": false,
@@ -388,6 +374,20 @@
           "bottom": {
             "name": "#17 Minnesota",
             "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/135.png"
+          },
+          "winner": null
+        },
+        {
+          "kickoff": "2026-11-28T16:00:00Z",
+          "date": "2026-11-28",
+          "tbc": false,
+          "top": {
+            "name": "#15 TCU",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2628.png"
+          },
+          "bottom": {
+            "name": "Mississippi State",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/344.png"
           },
           "winner": null
         }
@@ -583,18 +583,6 @@
         {
           "league": "NCAA",
           "home": {
-            "name": "Marquette",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/269.png"
-          },
-          "away": {
-            "name": "#20 Illinois",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png"
-          },
-          "kickoff": "2026-11-27T16:00:00Z"
-        },
-        {
-          "league": "NCAA",
-          "home": {
             "name": "Akron",
             "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png"
           },
@@ -603,6 +591,18 @@
             "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png"
           },
           "kickoff": "2026-11-27T17:00:00Z"
+        },
+        {
+          "league": "NCAA",
+          "home": {
+            "name": "#15 TCU",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2628.png"
+          },
+          "away": {
+            "name": "Georgia Tech",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png"
+          },
+          "kickoff": "2026-11-27T18:30:00Z"
         }
       ]
     }
