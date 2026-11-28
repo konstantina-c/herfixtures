@@ -135,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Birmingham City vs Manchester United (1–2)
 DTSTART:20261122T120000Z
 DTEND:20261122T140000Z
-DTSTAMP:20261128T011813Z
+DTSTAMP:20261128T152046Z
 UID:espn-wsl-401902857@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBirmingham City vs Manchester Un
  ited\nStatus: Full Time\nVenue: St. Andrew's Stadium\, Birmingham\nTV: Par
@@ -147,7 +147,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Birmingham City vs Liverpool
 DTSTART:20261213T140000Z
 DTEND:20261213T160000Z
-DTSTAMP:20261128T011813Z
+DTSTAMP:20261128T152046Z
 UID:espn-wsl-401902849@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBirmingham City vs Liverpool\nSt
  atus: Scheduled\nVenue: St. Andrew's Stadium\, Birmingham\nTV: Paramount+
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ West Ham United vs Birmingham City
 DTSTART:20261220T140000Z
 DTEND:20261220T160000Z
-DTSTAMP:20261128T011813Z
+DTSTAMP:20261128T152046Z
 UID:espn-wsl-401902838@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nWest Ham United vs Birmingham Ci
  ty\nStatus: Scheduled\nVenue: Victoria Road\, Dagenham\nTV: Paramount+\n\n
@@ -171,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Charlton Athletic vs Birmingham City
 DTSTART:20270110T140000Z
 DTEND:20270110T160000Z
-DTSTAMP:20261128T011813Z
+DTSTAMP:20261128T152046Z
 UID:espn-wsl-401902835@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nCharlton Athletic vs Birmingham 
  City\nStatus: Scheduled\nVenue: The Valley\, London\nTV: Paramount+\n\nFix
@@ -183,7 +183,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Birmingham City vs Manchester City
 DTSTART:20270120T193000Z
 DTEND:20270120T213000Z
-DTSTAMP:20261128T011813Z
+DTSTAMP:20261128T152046Z
 UID:espn-wsl-401902826@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBirmingham City vs Manchester Ci
  ty\nStatus: Scheduled\nVenue: St. Andrew's Stadium\, Birmingham\nTV: Param
@@ -195,7 +195,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Brighton & Hove Albion vs Birmingham City
 DTSTART:20270124T140000Z
 DTEND:20270124T160000Z
-DTSTAMP:20261128T011813Z
+DTSTAMP:20261128T152046Z
 UID:espn-wsl-401902821@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBrighton & Hove Albion vs Birmin
  gham City\nStatus: Scheduled\nVenue: Broadfield Stadium\, Crawley\nTV: Par
@@ -207,7 +207,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Birmingham City vs Aston Villa
 DTSTART:20270131T140000Z
 DTEND:20270131T160000Z
-DTSTAMP:20261128T011813Z
+DTSTAMP:20261128T152046Z
 UID:espn-wsl-401902814@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBirmingham City vs Aston Villa\n
  Status: Scheduled\nVenue: St. Andrew's Stadium\, Birmingham\nTV: Paramount
@@ -219,7 +219,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Birmingham City vs Arsenal
 DTSTART:20270207T140000Z
 DTEND:20270207T160000Z
-DTSTAMP:20261128T011813Z
+DTSTAMP:20261128T152046Z
 UID:espn-wsl-401902808@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBirmingham City vs Arsenal\nStat
  us: Scheduled\nVenue: St. Andrew's Stadium\, Birmingham\nTV: Paramount+\n
@@ -231,7 +231,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Liverpool vs Birmingham City
 DTSTART:20270214T140000Z
 DTEND:20270214T160000Z
-DTSTAMP:20261128T011813Z
+DTSTAMP:20261128T152046Z
 UID:espn-wsl-401902797@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nLiverpool vs Birmingham City\nSt
  atus: Scheduled\nVenue: St Helens Stadium\, St Helens\nTV: Paramount+\n\nF
@@ -243,7 +243,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Birmingham City vs Chelsea
 DTSTART:20270313T123000Z
 DTEND:20270313T143000Z
-DTSTAMP:20261128T011813Z
+DTSTAMP:20261128T152046Z
 UID:espn-wsl-401902795@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBirmingham City vs Chelsea\nStat
  us: Scheduled\nVenue: St. Andrew's Stadium\, Birmingham\nTV: Paramount+\n
@@ -255,7 +255,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Crystal Palace vs Birmingham City
 DTSTART:20270317T200000Z
 DTEND:20270317T220000Z
-DTSTAMP:20261128T011813Z
+DTSTAMP:20261128T152046Z
 UID:espn-wsl-401902782@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nCrystal Palace vs Birmingham Cit
  y\nStatus: Scheduled\nVenue: VBS Community Stadium\, Sutton Coldfield\nTV:
@@ -268,7 +268,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Birmingham City vs London City Lionesses
 DTSTART:20270328T130000Z
 DTEND:20270328T150000Z
-DTSTAMP:20261128T011813Z
+DTSTAMP:20261128T152046Z
 UID:espn-wsl-401902778@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBirmingham City vs London City L
  ionesses\nStatus: Scheduled\nVenue: St. Andrew's Stadium\, Birmingham\nTV:
@@ -281,7 +281,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Birmingham City vs West Ham United
 DTSTART:20270404T130000Z
 DTEND:20270404T150000Z
-DTSTAMP:20261128T011813Z
+DTSTAMP:20261128T152046Z
 UID:espn-wsl-401902773@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBirmingham City vs West Ham Unit
  ed\nStatus: Scheduled\nVenue: St. Andrew's Stadium\, Birmingham\nTV: Param
@@ -293,7 +293,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Manchester United vs Birmingham City
 DTSTART:20270502T120000Z
 DTEND:20270502T140000Z
-DTSTAMP:20261128T011813Z
+DTSTAMP:20261128T152046Z
 UID:espn-wsl-401902766@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nManchester United vs Birmingham 
  City\nStatus: Scheduled\nVenue: Leigh Sports Village\, Manchester\nTV: Par
@@ -305,7 +305,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Birmingham City vs Everton
 DTSTART:20270509T130000Z
 DTEND:20270509T150000Z
-DTSTAMP:20261128T011813Z
+DTSTAMP:20261128T152046Z
 UID:espn-wsl-401902758@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nBirmingham City vs Everton\nStat
  us: Scheduled\nVenue: St. Andrew's Stadium\, Birmingham\nTV: Paramount+\n
@@ -317,7 +317,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Tottenham Hotspur vs Birmingham City (time TBC)
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270523
-DTSTAMP:20261128T011813Z
+DTSTAMP:20261128T152046Z
 UID:espn-wsl-401902748@herfixtures.com
 DESCRIPTION:Women's Super League 2026/27\nTottenham Hotspur vs Birmingham 
  City\nStatus: Scheduled\nKick-off time not confirmed yet. Your calendar up

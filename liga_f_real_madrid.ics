@@ -133,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ Granada (5–1)
 DTSTART:20261122T110000Z
 DTEND:20261122T130000Z
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573654@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Granada\nStatus: Match 
  Finished\nVenue: Ciudad Deportiva del Granada\, Granada\n\nFixtures by Her
@@ -144,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Madrid CFF @ Real Madrid
 DTSTART:20261208T180000Z
 DTEND:20261208T200000Z
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573662@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Real Madrid\nStatus: Not
   Started\n\nFixtures by HerFixtures.com — Women's Sports on Your Calenda
@@ -155,7 +155,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ Alavés (time TBC)
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573664@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Alavés\nStatus: Not St
  arted\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -167,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Real Madrid (time TBC)
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573678@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Real Madrid\nStatus: N
  ot Started\nKick-off time not confirmed yet. Your calendar updates automat
@@ -179,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ Valencia (time TBC)
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573687@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Valencia\nStatus: Not S
  tarted\nKick-off time not confirmed yet. Your calendar updates automatical
@@ -191,7 +191,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Sociedad @ Real Madrid (time TBC)
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573694@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Real Madrid\nStatus: 
  Not Started\nKick-off time not confirmed yet. Your calendar updates automa
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ CD Tenerife (time TBC)
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573698@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at CD Tenerife\nStatus: No
  t Started\nKick-off time not confirmed yet. Your calendar updates automati
@@ -215,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Real Madrid (time TBC)
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573710@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Real Madrid\nStatus: 
  Not Started\nKick-off time not confirmed yet. Your calendar updates automa
@@ -227,7 +227,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ Atlético Madrid (time TBC)
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573714@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Atlético Madrid\nStatu
  s: Not Started\nKick-off time not confirmed yet. Your calendar updates aut
@@ -239,7 +239,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Real Madrid (time TBC)
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573725@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Real Madrid\nStatus: Not 
  Started\nKick-off time not confirmed yet. Your calendar updates automatica
@@ -251,7 +251,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ Eibar (time TBC)
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573731@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Eibar\nStatus: Not Star
  ted\nKick-off time not confirmed yet. Your calendar updates automatically 
@@ -263,7 +263,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ FC Badalona (time TBC)
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573738@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at FC Badalona\nStatus: No
  t Started\nKick-off time not confirmed yet. Your calendar updates automati
@@ -275,7 +275,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sevilla @ Real Madrid (time TBC)
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573751@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nSevilla at Real Madrid\nStatus: Not St
  arted\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -287,7 +287,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ Dux Logroño (time TBC)
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573755@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Dux Logroño\nStatus: N
  ot Started\nKick-off time not confirmed yet. Your calendar updates automat
@@ -299,7 +299,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Real Madrid (time TBC)
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573764@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Real Madrid\nStatus: Not 
  Started\nKick-off time not confirmed yet. Your calendar updates automatica
@@ -311,7 +311,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ Madrid CFF (time TBC)
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573774@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Madrid CFF\nStatus: Not
   Started\nKick-off time not confirmed yet. Your calendar updates automatic
@@ -323,7 +323,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Real Madrid (time TBC)
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573781@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at Real Madrid\nStatus: Not St
  arted\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -335,7 +335,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid @ Espanyol (time TBC)
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573788@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Madrid at Espanyol\nStatus: Not S
  tarted\nKick-off time not confirmed yet. Your calendar updates automatical
@@ -347,7 +347,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Real Madrid (time TBC)
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573797@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Real Madrid\nStatus: Not St
  arted\nKick-off time not confirmed yet. Your calendar updates automaticall

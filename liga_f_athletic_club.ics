@@ -134,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Barcelona (0–6)
 DTSTART:20261122T180000Z
 DTEND:20261122T200000Z
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573649@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Barcelona\nStatus: Ma
  tch Finished\nVenue: Estadi Johan Cruyff\, Barcelona\n\nFixtures by HerFix
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alavés @ Athletic Club
 DTSTART:20261208T110000Z
 DTEND:20261208T130000Z
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573656@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAlavés at Athletic Club\nStatus: Not 
  Started\nVenue: Lezama Facilities\, Lezama\n\nFixtures by HerFixtures.com 
@@ -156,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Granada (time TBC)
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573668@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Granada\nStatus: Not 
  Started\nKick-off time not confirmed yet. Your calendar updates automatica
@@ -168,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Deportivo @ Athletic Club (time TBC)
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573672@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDeportivo at Athletic Club\nStatus: No
  t Started\nKick-off time not confirmed yet. Your calendar updates automati
@@ -180,7 +180,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Espanyol (time TBC)
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573685@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Espanyol\nStatus: Not
   Started\nKick-off time not confirmed yet. Your calendar updates automatic
@@ -192,7 +192,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ CD Tenerife @ Athletic Club (time TBC)
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573688@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nCD Tenerife at Athletic Club\nStatus: 
  Not Started\nKick-off time not confirmed yet. Your calendar updates automa
@@ -204,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Valencia (time TBC)
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573703@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Valencia\nStatus: Not
   Started\nKick-off time not confirmed yet. Your calendar updates automatic
@@ -216,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Real Madrid (time TBC)
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573710@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Real Madrid\nStatus: 
  Not Started\nKick-off time not confirmed yet. Your calendar updates automa
@@ -228,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Real Sociedad @ Athletic Club (time TBC)
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573713@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nReal Sociedad at Athletic Club\nStatus
  : Not Started\nKick-off time not confirmed yet. Your calendar updates auto
@@ -240,7 +240,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ FC Badalona (time TBC)
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573721@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at FC Badalona\nStatus: 
  Not Started\nKick-off time not confirmed yet. Your calendar updates automa
@@ -252,7 +252,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Dux Logroño @ Athletic Club (time TBC)
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573728@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nDux Logroño at Athletic Club\nStatus:
   Not Started\nKick-off time not confirmed yet. Your calendar updates autom
@@ -264,7 +264,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Barcelona @ Athletic Club (time TBC)
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573737@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nBarcelona at Athletic Club\nStatus: No
  t Started\nKick-off time not confirmed yet. Your calendar updates automati
@@ -276,7 +276,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Deportivo (time TBC)
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573747@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Deportivo\nStatus: No
  t Started\nKick-off time not confirmed yet. Your calendar updates automati
@@ -288,7 +288,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Sevilla (time TBC)
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573758@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Sevilla\nStatus: Not 
  Started\nKick-off time not confirmed yet. Your calendar updates automatica
@@ -300,7 +300,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Granada @ Athletic Club (time TBC)
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573760@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nGranada at Athletic Club\nStatus: Not 
  Started\nKick-off time not confirmed yet. Your calendar updates automatica
@@ -312,7 +312,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Alavés (time TBC)
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573768@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Alavés\nStatus: Not 
  Started\nKick-off time not confirmed yet. Your calendar updates automatica
@@ -324,7 +324,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Eibar @ Athletic Club (time TBC)
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573776@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nEibar at Athletic Club\nStatus: Not St
  arted\nKick-off time not confirmed yet. Your calendar updates automaticall
@@ -336,7 +336,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Athletic Club @ Atlético Madrid (time TBC)
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573785@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nAthletic Club at Atlético Madrid\nSta
  tus: Not Started\nKick-off time not confirmed yet. Your calendar updates a
@@ -348,7 +348,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Madrid CFF @ Athletic Club (time TBC)
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
-DTSTAMP:20261128T011758Z
+DTSTAMP:20261128T152029Z
 UID:af-liga-f-1573792@herfixtures.com
 DESCRIPTION:Spanish Liga F 2026/27\nMadrid CFF at Athletic Club\nStatus: N
  ot Started\nKick-off time not confirmed yet. Your calendar updates automat
