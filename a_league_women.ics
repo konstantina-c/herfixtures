@@ -288,7 +288,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Newcastle Jets vs Adelaide United (postponed)
 DTSTART:20261121T040000Z
 DTEND:20261121T060000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632128@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nNewcastle Jets vs Adelaide United\nSta
  tus: Match Postponed\n\nFixtures by HerFixtures.com — Women's Sports on 
@@ -299,7 +299,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Brisbane Roar vs Melbourne City (1–0)
 DTSTART:20261121T055000Z
 DTEND:20261121T075000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632129@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nBrisbane Roar vs Melbourne City\nStatu
  s: Match Finished\nVenue: Kayo Stadium\, Brisbane\n\nFixtures by HerFixtur
@@ -310,7 +310,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sydney FC vs Canberra United (1–3)
 DTSTART:20261121T060000Z
 DTEND:20261121T080000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632130@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nSydney FC vs Canberra United\nStatus: 
  Match Finished\nVenue: Sydney Olympic Park Athletic Centre\, Sydney\n\nFix
@@ -321,7 +321,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Melbourne Victory vs Perth Glory (0–0)
 DTSTART:20261122T040000Z
 DTEND:20261122T060000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632131@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nMelbourne Victory vs Perth Glory\nStat
  us: Match Finished\nVenue: Lakeside Stadium\, Melbourne\n\nFixtures by Her
@@ -332,7 +332,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Adelaide United vs Sydney FC
 DTSTART:20261211T055000Z
 DTEND:20261211T075000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632132@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nAdelaide United vs Sydney FC\nStatus: 
  Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
@@ -343,7 +343,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Western Sydney Wanderers vs Newcastle Jets
 DTSTART:20261211T080000Z
 DTEND:20261211T100000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632133@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nWestern Sydney Wanderers vs Newcastle 
  Jets\nStatus: Not Started\n\nFixtures by HerFixtures.com — Women's Sport
@@ -354,7 +354,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Canberra United vs Wellington Phoenix
 DTSTART:20261212T060000Z
 DTEND:20261212T080000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632134@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nCanberra United vs Wellington Phoenix
  \nStatus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on
@@ -365,7 +365,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Perth Glory vs Melbourne City
 DTSTART:20261212T090000Z
 DTEND:20261212T110000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632135@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nPerth Glory vs Melbourne City\nStatus:
   Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
@@ -376,7 +376,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Central Coast Mariners vs Brisbane Roar
 DTSTART:20261213T060000Z
 DTEND:20261213T080000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632136@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nCentral Coast Mariners vs Brisbane Roa
  r\nStatus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports o
@@ -387,7 +387,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Canberra United vs Newcastle Jets
 DTSTART:20261219T060000Z
 DTEND:20261219T080000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632137@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nCanberra United vs Newcastle Jets\nSta
  tus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your
@@ -398,7 +398,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Melbourne City vs Melbourne Victory
 DTSTART:20261219T060000Z
 DTEND:20261219T080000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632138@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nMelbourne City vs Melbourne Victory\nS
  tatus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Yo
@@ -409,7 +409,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Perth Glory vs Western Sydney Wanderers
 DTSTART:20261219T090000Z
 DTEND:20261219T110000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632139@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nPerth Glory vs Western Sydney Wanderer
  s\nStatus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports o
@@ -420,7 +420,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Wellington Phoenix vs Brisbane Roar
 DTSTART:20261220T020000Z
 DTEND:20261220T040000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632140@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nWellington Phoenix vs Brisbane Roar\nS
  tatus: Not Started\nVenue: Sky Stadium\, Wellington\n\nFixtures by HerFixt
@@ -431,7 +431,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sydney FC vs Central Coast Mariners
 DTSTART:20261220T060000Z
 DTEND:20261220T080000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632141@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nSydney FC vs Central Coast Mariners\nS
  tatus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Yo
@@ -442,7 +442,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Melbourne City vs Sydney FC
 DTSTART:20261227T041500Z
 DTEND:20261227T061500Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632142@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nMelbourne City vs Sydney FC\nStatus: N
  ot Started\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
@@ -453,7 +453,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Adelaide United vs Central Coast Mariners
 DTSTART:20261227T055000Z
 DTEND:20261227T075000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632143@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nAdelaide United vs Central Coast Marin
  ers\nStatus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports
@@ -464,7 +464,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Western Sydney Wanderers vs Canberra United
 DTSTART:20261228T060000Z
 DTEND:20261228T080000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632144@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nWestern Sydney Wanderers vs Canberra U
  nited\nStatus: Not Started\n\nFixtures by HerFixtures.com — Women's Spor
@@ -475,7 +475,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Melbourne Victory vs Wellington Phoenix
 DTSTART:20261229T055000Z
 DTEND:20261229T075000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632145@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nMelbourne Victory vs Wellington Phoeni
  x\nStatus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports o
@@ -486,7 +486,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Brisbane Roar vs Perth Glory
 DTSTART:20261230T055000Z
 DTEND:20261230T075000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632146@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nBrisbane Roar vs Perth Glory\nStatus: 
  Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
@@ -497,7 +497,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Central Coast Mariners vs Melbourne City
 DTSTART:20261231T055000Z
 DTEND:20261231T075000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632147@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nCentral Coast Mariners vs Melbourne Ci
  ty\nStatus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports 
@@ -508,7 +508,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Newcastle Jets vs Wellington Phoenix
 DTSTART:20270101T060000Z
 DTEND:20270101T080000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632148@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nNewcastle Jets vs Wellington Phoenix\n
  Status: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Y
@@ -519,7 +519,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sydney FC vs Brisbane Roar
 DTSTART:20270102T055000Z
 DTEND:20270102T075000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632149@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nSydney FC vs Brisbane Roar\nStatus: No
  t Started\n\nFixtures by HerFixtures.com — Women's Sports on Your Calend
@@ -530,7 +530,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Canberra United vs Melbourne Victory
 DTSTART:20270102T060000Z
 DTEND:20270102T080000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632150@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nCanberra United vs Melbourne Victory\n
  Status: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Y
@@ -541,7 +541,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Western Sydney Wanderers vs Adelaide United
 DTSTART:20270102T070000Z
 DTEND:20270102T090000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632151@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nWestern Sydney Wanderers vs Adelaide U
  nited\nStatus: Not Started\n\nFixtures by HerFixtures.com — Women's Spor
@@ -552,7 +552,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Melbourne City vs Western Sydney Wanderers
 DTSTART:20270106T063000Z
 DTEND:20270106T083000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632152@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nMelbourne City vs Western Sydney Wande
  rers\nStatus: Not Started\n\nFixtures by HerFixtures.com — Women's Sport
@@ -563,7 +563,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Wellington Phoenix vs Central Coast Mariners
 DTSTART:20270109T040000Z
 DTEND:20270109T060000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632153@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nWellington Phoenix vs Central Coast Ma
  riners\nStatus: Not Started\nVenue: Sky Stadium\, Wellington\n\nFixtures b
@@ -574,7 +574,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Adelaide United vs Canberra United
 DTSTART:20270109T055000Z
 DTEND:20270109T075000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632154@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nAdelaide United vs Canberra United\nSt
  atus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on You
@@ -585,7 +585,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Melbourne Victory vs Western Sydney Wanderers
 DTSTART:20270109T060000Z
 DTEND:20270109T080000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632155@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nMelbourne Victory vs Western Sydney Wa
  nderers\nStatus: Not Started\n\nFixtures by HerFixtures.com — Women's Sp
@@ -596,7 +596,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Newcastle Jets vs Melbourne City
 DTSTART:20270110T060000Z
 DTEND:20270110T080000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632156@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nNewcastle Jets vs Melbourne City\nStat
  us: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your 
@@ -607,7 +607,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Perth Glory vs Sydney FC
 DTSTART:20270110T090000Z
 DTEND:20270110T110000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632157@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nPerth Glory vs Sydney FC\nStatus: Not 
  Started\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
@@ -617,7 +617,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Melbourne Victory vs Central Coast Mariners
 DTSTART:20270115T055000Z
 DTEND:20270115T075000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632158@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nMelbourne Victory vs Central Coast Mar
  iners\nStatus: Not Started\n\nFixtures by HerFixtures.com — Women's Spor
@@ -628,7 +628,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Wellington Phoenix vs Perth Glory
 DTSTART:20270116T040000Z
 DTEND:20270116T060000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632159@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nWellington Phoenix vs Perth Glory\nSta
  tus: Not Started\nVenue: Sky Stadium\, Wellington\n\nFixtures by HerFixtur
@@ -639,7 +639,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sydney FC vs Newcastle Jets
 DTSTART:20270116T055000Z
 DTEND:20270116T075000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632160@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nSydney FC vs Newcastle Jets\nStatus: N
  ot Started\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
@@ -650,7 +650,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Melbourne City vs Canberra United
 DTSTART:20270116T084500Z
 DTEND:20270116T104500Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632161@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nMelbourne City vs Canberra United\nSta
  tus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your
@@ -661,7 +661,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Brisbane Roar vs Adelaide United
 DTSTART:20270117T060000Z
 DTEND:20270117T080000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632162@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nBrisbane Roar vs Adelaide United\nStat
  us: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your 
@@ -672,7 +672,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Central Coast Mariners vs Western Sydney Wanderers
 DTSTART:20270123T060000Z
 DTEND:20270123T080000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632163@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nCentral Coast Mariners vs Western Sydn
  ey Wanderers\nStatus: Not Started\n\nFixtures by HerFixtures.com — Women
@@ -683,7 +683,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sydney FC vs Melbourne Victory
 DTSTART:20270123T070000Z
 DTEND:20270123T090000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632164@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nSydney FC vs Melbourne Victory\nStatus
  : Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your Ca
@@ -694,7 +694,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Perth Glory vs Adelaide United
 DTSTART:20270123T090000Z
 DTEND:20270123T110000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632165@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nPerth Glory vs Adelaide United\nStatus
  : Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your Ca
@@ -705,7 +705,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Melbourne City vs Wellington Phoenix
 DTSTART:20270124T060000Z
 DTEND:20270124T080000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632166@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nMelbourne City vs Wellington Phoenix\n
  Status: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Y
@@ -716,7 +716,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Newcastle Jets vs Brisbane Roar
 DTSTART:20270124T060000Z
 DTEND:20270124T080000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632167@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nNewcastle Jets vs Brisbane Roar\nStatu
  s: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your C
@@ -727,7 +727,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Adelaide United vs Melbourne City
 DTSTART:20270129T055000Z
 DTEND:20270129T075000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632168@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nAdelaide United vs Melbourne City\nSta
  tus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your
@@ -738,7 +738,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Western Sydney Wanderers vs Sydney FC
 DTSTART:20270130T055000Z
 DTEND:20270130T075000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632169@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nWestern Sydney Wanderers vs Sydney FC
  \nStatus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on
@@ -749,7 +749,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Melbourne Victory vs Brisbane Roar
 DTSTART:20270130T060000Z
 DTEND:20270130T080000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632170@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nMelbourne Victory vs Brisbane Roar\nSt
  atus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on You
@@ -760,7 +760,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Perth Glory vs Newcastle Jets
 DTSTART:20270130T090000Z
 DTEND:20270130T110000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632171@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nPerth Glory vs Newcastle Jets\nStatus:
   Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
@@ -771,7 +771,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Canberra United vs Central Coast Mariners
 DTSTART:20270131T060000Z
 DTEND:20270131T080000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632172@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nCanberra United vs Central Coast Marin
  ers\nStatus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports
@@ -782,7 +782,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Wellington Phoenix vs Western Sydney Wanderers
 DTSTART:20270206T011500Z
 DTEND:20270206T031500Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632173@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nWellington Phoenix vs Western Sydney W
  anderers\nStatus: Not Started\nVenue: Sky Stadium\, Wellington\n\nFixtures
@@ -793,7 +793,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Adelaide United vs Melbourne Victory
 DTSTART:20270206T055000Z
 DTEND:20270206T075000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632174@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nAdelaide United vs Melbourne Victory\n
  Status: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Y
@@ -804,7 +804,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Brisbane Roar vs Canberra United
 DTSTART:20270206T070000Z
 DTEND:20270206T090000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632175@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nBrisbane Roar vs Canberra United\nStat
  us: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your 
@@ -815,7 +815,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Central Coast Mariners vs Newcastle Jets
 DTSTART:20270207T060000Z
 DTEND:20270207T080000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632176@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nCentral Coast Mariners vs Newcastle Je
  ts\nStatus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports 
@@ -826,7 +826,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Melbourne City vs Perth Glory
 DTSTART:20270207T060000Z
 DTEND:20270207T080000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632177@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nMelbourne City vs Perth Glory\nStatus:
   Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your Cal
@@ -837,7 +837,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Canberra United vs Sydney FC
 DTSTART:20270213T060000Z
 DTEND:20270213T080000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632178@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nCanberra United vs Sydney FC\nStatus: 
  Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
@@ -848,7 +848,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Western Sydney Wanderers vs Melbourne City
 DTSTART:20270213T070000Z
 DTEND:20270213T090000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632179@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nWestern Sydney Wanderers vs Melbourne 
  City\nStatus: Not Started\n\nFixtures by HerFixtures.com — Women's Sport
@@ -859,7 +859,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Perth Glory vs Brisbane Roar
 DTSTART:20270213T090000Z
 DTEND:20270213T110000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632180@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nPerth Glory vs Brisbane Roar\nStatus: 
  Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your Cale
@@ -870,7 +870,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Wellington Phoenix vs Adelaide United
 DTSTART:20270214T020000Z
 DTEND:20270214T040000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632181@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nWellington Phoenix vs Adelaide United
  \nStatus: Not Started\nVenue: Sky Stadium\, Wellington\n\nFixtures by HerF
@@ -881,7 +881,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Newcastle Jets vs Melbourne Victory
 DTSTART:20270214T060000Z
 DTEND:20270214T080000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632182@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nNewcastle Jets vs Melbourne Victory\nS
  tatus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Yo
@@ -892,7 +892,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Newcastle Jets vs Canberra United
 DTSTART:20270220T060000Z
 DTEND:20270220T080000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632183@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nNewcastle Jets vs Canberra United\nSta
  tus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your
@@ -903,7 +903,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sydney FC vs Wellington Phoenix
 DTSTART:20270220T060000Z
 DTEND:20270220T080000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632184@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nSydney FC vs Wellington Phoenix\nStatu
  s: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your C
@@ -914,7 +914,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Brisbane Roar vs Western Sydney Wanderers
 DTSTART:20270220T070000Z
 DTEND:20270220T090000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632185@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nBrisbane Roar vs Western Sydney Wander
  ers\nStatus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports
@@ -925,7 +925,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Melbourne Victory vs Melbourne City
 DTSTART:20270221T060000Z
 DTEND:20270221T080000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632186@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nMelbourne Victory vs Melbourne City\nS
  tatus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Yo
@@ -936,7 +936,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Perth Glory vs Central Coast Mariners
 DTSTART:20270221T090000Z
 DTEND:20270221T110000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632187@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nPerth Glory vs Central Coast Mariners
  \nStatus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on
@@ -947,7 +947,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Central Coast Mariners vs Sydney FC
 DTSTART:20270312T080000Z
 DTEND:20270312T100000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632188@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nCentral Coast Mariners vs Sydney FC\nS
  tatus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Yo
@@ -958,7 +958,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Melbourne City vs Brisbane Roar
 DTSTART:20270313T040000Z
 DTEND:20270313T060000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632189@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nMelbourne City vs Brisbane Roar\nStatu
  s: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your C
@@ -969,7 +969,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Adelaide United vs Western Sydney Wanderers
 DTSTART:20270313T060000Z
 DTEND:20270313T080000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632190@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nAdelaide United vs Western Sydney Wand
  erers\nStatus: Not Started\n\nFixtures by HerFixtures.com — Women's Spor
@@ -980,7 +980,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Wellington Phoenix vs Newcastle Jets
 DTSTART:20270314T020000Z
 DTEND:20270314T040000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632191@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nWellington Phoenix vs Newcastle Jets\n
  Status: Not Started\nVenue: Sky Stadium\, Wellington\n\nFixtures by HerFix
@@ -991,7 +991,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Melbourne Victory vs Canberra United
 DTSTART:20270314T040000Z
 DTEND:20270314T060000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632192@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nMelbourne Victory vs Canberra United\n
  Status: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Y
@@ -1002,7 +1002,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Brisbane Roar vs Wellington Phoenix
 DTSTART:20270319T080000Z
 DTEND:20270319T100000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632193@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nBrisbane Roar vs Wellington Phoenix\nS
  tatus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Yo
@@ -1013,7 +1013,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Western Sydney Wanderers vs Perth Glory
 DTSTART:20270320T031500Z
 DTEND:20270320T051500Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632194@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nWestern Sydney Wanderers vs Perth Glor
  y\nStatus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports o
@@ -1024,7 +1024,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Canberra United vs Adelaide United
 DTSTART:20270320T040000Z
 DTEND:20270320T060000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632195@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nCanberra United vs Adelaide United\nSt
  atus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on You
@@ -1035,7 +1035,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Newcastle Jets vs Sydney FC
 DTSTART:20270320T060000Z
 DTEND:20270320T080000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632196@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nNewcastle Jets vs Sydney FC\nStatus: N
  ot Started\n\nFixtures by HerFixtures.com — Women's Sports on Your Calen
@@ -1046,7 +1046,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Melbourne City vs Central Coast Mariners
 DTSTART:20270321T064500Z
 DTEND:20270321T084500Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632197@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nMelbourne City vs Central Coast Marine
  rs\nStatus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports 
@@ -1057,7 +1057,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Adelaide United vs Brisbane Roar
 DTSTART:20270327T040000Z
 DTEND:20270327T060000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632198@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nAdelaide United vs Brisbane Roar\nStat
  us: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your 
@@ -1068,7 +1068,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Central Coast Mariners vs Melbourne Victory
 DTSTART:20270327T040000Z
 DTEND:20270327T060000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632199@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nCentral Coast Mariners vs Melbourne Vi
  ctory\nStatus: Not Started\n\nFixtures by HerFixtures.com — Women's Spor
@@ -1079,7 +1079,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sydney FC vs Perth Glory
 DTSTART:20270327T060000Z
 DTEND:20270327T080000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632200@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nSydney FC vs Perth Glory\nStatus: Not 
  Started\n\nFixtures by HerFixtures.com — Women's Sports on Your Calendar
@@ -1089,7 +1089,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Wellington Phoenix vs Canberra United
 DTSTART:20270328T020000Z
 DTEND:20270328T040000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632201@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nWellington Phoenix vs Canberra United
  \nStatus: Not Started\nVenue: Sky Stadium\, Wellington\n\nFixtures by HerF
@@ -1100,7 +1100,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Newcastle Jets vs Western Sydney Wanderers
 DTSTART:20270328T040000Z
 DTEND:20270328T060000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632202@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nNewcastle Jets vs Western Sydney Wande
  rers\nStatus: Not Started\n\nFixtures by HerFixtures.com — Women's Sport
@@ -1111,7 +1111,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Adelaide United vs Newcastle Jets
 DTSTART:20270402T055000Z
 DTEND:20270402T075000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632203@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nAdelaide United vs Newcastle Jets\nSta
  tus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your
@@ -1122,7 +1122,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Canberra United vs Melbourne City
 DTSTART:20270403T040000Z
 DTEND:20270403T060000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632204@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nCanberra United vs Melbourne City\nSta
  tus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your
@@ -1133,7 +1133,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Central Coast Mariners vs Wellington Phoenix
 DTSTART:20270403T060000Z
 DTEND:20270403T080000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632205@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nCentral Coast Mariners vs Wellington P
  hoenix\nStatus: Not Started\n\nFixtures by HerFixtures.com — Women's Spo
@@ -1144,7 +1144,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sydney FC vs Western Sydney Wanderers
 DTSTART:20270404T050000Z
 DTEND:20270404T070000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632206@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nSydney FC vs Western Sydney Wanderers
  \nStatus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on
@@ -1155,7 +1155,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Perth Glory vs Melbourne Victory
 DTSTART:20270404T090000Z
 DTEND:20270404T110000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632207@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nPerth Glory vs Melbourne Victory\nStat
  us: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your 
@@ -1166,7 +1166,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Canberra United vs Perth Glory
 DTSTART:20270410T050000Z
 DTEND:20270410T070000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632208@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nCanberra United vs Perth Glory\nStatus
  : Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your Ca
@@ -1177,7 +1177,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Brisbane Roar vs Newcastle Jets
 DTSTART:20270410T070000Z
 DTEND:20270410T090000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632209@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nBrisbane Roar vs Newcastle Jets\nStatu
  s: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your C
@@ -1188,7 +1188,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Melbourne Victory vs Sydney FC
 DTSTART:20270410T070000Z
 DTEND:20270410T090000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632210@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nMelbourne Victory vs Sydney FC\nStatus
  : Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your Ca
@@ -1199,7 +1199,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Western Sydney Wanderers vs Central Coast Mariners
 DTSTART:20270411T021500Z
 DTEND:20270411T041500Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632211@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nWestern Sydney Wanderers vs Central Co
  ast Mariners\nStatus: Not Started\n\nFixtures by HerFixtures.com — Women
@@ -1210,7 +1210,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Melbourne City vs Adelaide United
 DTSTART:20270411T050000Z
 DTEND:20270411T070000Z
-DTSTAMP:20261127T162816Z
+DTSTAMP:20261128T011814Z
 UID:af-a-league-women-1632212@herfixtures.com
 DESCRIPTION:A-League Women 2026/27\nMelbourne City vs Adelaide United\nSta
  tus: Not Started\n\nFixtures by HerFixtures.com — Women's Sports on Your

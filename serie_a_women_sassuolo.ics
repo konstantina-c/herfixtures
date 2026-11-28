@@ -90,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ AC Milan vs Sassuolo (3–2)
 DTSTART:20261121T140000Z
 DTEND:20261121T160000Z
-DTSTAMP:20261127T162829Z
+DTSTAMP:20261128T011831Z
 UID:af-serie-a-women-1601290@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nAC Milan vs Sassuolo\nStatus: Match Fin
  ished\nVenue: Centro Sportivo Peppino Vismara\, Milano\n\nFixtures by HerF
@@ -101,7 +101,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sassuolo vs Lazio
 DTSTART:20261213T113000Z
 DTEND:20261213T133000Z
-DTSTAMP:20261127T162829Z
+DTSTAMP:20261128T011831Z
 UID:af-serie-a-women-1601301@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nSassuolo vs Lazio\nStatus: Not Started
  \nVenue: Stadio Enzo Ricci\, Sassuolo\n\nFixtures by HerFixtures.com — W
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Como Women vs Sassuolo (time TBC)
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-DTSTAMP:20261127T162829Z
+DTSTAMP:20261128T011831Z
 UID:af-serie-a-women-1601302@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nComo Women vs Sassuolo\nStatus: Not Sta
  rted\nKick-off time not confirmed yet. Your calendar updates automatically
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sassuolo vs Inter (time TBC)
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-DTSTAMP:20261127T162829Z
+DTSTAMP:20261128T011831Z
 UID:af-serie-a-women-1601313@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nSassuolo vs Inter\nStatus: Not Started
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -136,7 +136,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Roma vs Sassuolo (time TBC)
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
-DTSTAMP:20261127T162829Z
+DTSTAMP:20261128T011831Z
 UID:af-serie-a-women-1601315@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nRoma vs Sassuolo\nStatus: Not Started\n
  Kick-off time not confirmed yet. Your calendar updates automatically once 
@@ -148,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sassuolo vs Fiorentina (time TBC)
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-DTSTAMP:20261127T162829Z
+DTSTAMP:20261128T011831Z
 UID:af-serie-a-women-1601324@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nSassuolo vs Fiorentina\nStatus: Not Sta
  rted\nKick-off time not confirmed yet. Your calendar updates automatically
@@ -160,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Napoli vs Sassuolo (time TBC)
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
-DTSTAMP:20261127T162829Z
+DTSTAMP:20261128T011831Z
 UID:af-serie-a-women-1601330@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nNapoli vs Sassuolo\nStatus: Not Started
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -172,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sassuolo vs Como 1907 (time TBC)
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-DTSTAMP:20261127T162829Z
+DTSTAMP:20261128T011831Z
 UID:af-serie-a-women-1601336@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nSassuolo vs Como 1907\nStatus: Not Star
  ted\nKick-off time not confirmed yet. Your calendar updates automatically 
@@ -184,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Parma vs Sassuolo (time TBC)
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-DTSTAMP:20261127T162829Z
+DTSTAMP:20261128T011831Z
 UID:af-serie-a-women-1601343@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nParma vs Sassuolo\nStatus: Not Started
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -196,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sassuolo vs Juventus (time TBC)
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-DTSTAMP:20261127T162829Z
+DTSTAMP:20261128T011831Z
 UID:af-serie-a-women-1601349@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nSassuolo vs Juventus\nStatus: Not Start
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -208,7 +208,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Ternana vs Sassuolo (time TBC)
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270404
-DTSTAMP:20261127T162829Z
+DTSTAMP:20261128T011831Z
 UID:af-serie-a-women-1601355@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nTernana vs Sassuolo\nStatus: Not Starte
  d\nKick-off time not confirmed yet. Your calendar updates automatically on
@@ -220,7 +220,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sassuolo vs AC Milan (time TBC)
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270411
-DTSTAMP:20261127T162829Z
+DTSTAMP:20261128T011831Z
 UID:af-serie-a-women-1601361@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nSassuolo vs AC Milan\nStatus: Not Start
  ed\nKick-off time not confirmed yet. Your calendar updates automatically o
@@ -232,7 +232,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Lazio vs Sassuolo (time TBC)
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
-DTSTAMP:20261127T162829Z
+DTSTAMP:20261128T011831Z
 UID:af-serie-a-women-1601365@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nLazio vs Sassuolo\nStatus: Not Started
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
@@ -244,7 +244,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Sassuolo vs Como Women (time TBC)
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
-DTSTAMP:20261127T162829Z
+DTSTAMP:20261128T011831Z
 UID:af-serie-a-women-1601373@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nSassuolo vs Como Women\nStatus: Not Sta
  rted\nKick-off time not confirmed yet. Your calendar updates automatically
@@ -256,7 +256,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inter vs Sassuolo (time TBC)
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
-DTSTAMP:20261127T162829Z
+DTSTAMP:20261128T011831Z
 UID:af-serie-a-women-1601376@herfixtures.com
 DESCRIPTION:Serie A Women 2026/27\nInter vs Sassuolo\nStatus: Not Started
  \nKick-off time not confirmed yet. Your calendar updates automatically onc
